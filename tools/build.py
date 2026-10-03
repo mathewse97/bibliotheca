@@ -887,10 +887,19 @@ def main():
     data = json.dumps(idx, ensure_ascii=False, default=jdefault).replace("</", "<\\/")
     page = tpl.replace("/*__DATA__*/null", data)
 
+    # Favicon embutido, como as fontes e as capas: o documento continua sendo
+    # um arquivo só. artifact.html não leva, porque quem o publica põe o head.
+    fav = ""
+    fav_path = os.path.join(ROOT, "images/favicon.svg")
+    if os.path.exists(fav_path):
+        with open(fav_path, "rb") as fh:
+            fav = ("<link rel=\"icon\" type=\"image/svg+xml\" href=\"data:image/svg+xml;base64,%s\">\n"
+                   % base64.b64encode(fh.read()).decode())
     with io.open(os.path.join(GEN, "bibliotheca.html"), "w", encoding="utf-8") as f:
         f.write("<!doctype html>\n<html lang=\"pt-BR\">\n<head>\n"
                 "<meta charset=\"utf-8\">\n"
                 "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n"
+                + fav +
                 "</head>\n<body>\n" + page + "\n</body>\n</html>\n")
     with io.open(os.path.join(GEN, "artifact.html"), "w", encoding="utf-8") as f:
         f.write(page)
