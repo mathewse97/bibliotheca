@@ -1,0 +1,19 @@
+# Texto sempre com fim de linha LF dentro do repositório, mesmo vindo do
+# Windows. Sem isto, um commit feito no Windows e outro feito no Linux
+# aparecem como se cada linha tivesse mudado, e o histórico deixa de servir
+# para ver o que de fato mudou — que é a razão de o projeto estar aqui.
+* text=auto eol=lf
+
+*.md    text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.json  text eol=lf
+*.py    text eol=lf
+*.html  text eol=lf
+
+# Binários: nunca converter, nunca tentar mostrar diferença linha a linha.
+*.webp  binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.woff2 binary
