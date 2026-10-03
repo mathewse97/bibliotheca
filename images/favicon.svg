@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 30.9.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 93)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: url(#Gradiente_sem_nome_27);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_27" data-name="Gradiente sem nome 27" x1="0" y1="12" x2="23.9" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#012f67"/>
+      <stop offset="1" stop-color="#114ed1"/>
+    </linearGradient>
+  </defs>
+  <rect class="st1" x="0" y="0" width="23.9" height="23.9" rx="3.5" ry="3.5"/>
+  <path class="st0" d="M19.7,16.8l-2.9-10.8c0-.2-.3-.4-.5-.3l-2.8.8c0-.1-.3-.2-.4-.2h-7c-.2,0-.4.2-.4.4v11.2c0,.2.2.4.4.4h7.1c.2,0,.4-.2.4-.4v-6.8l1.8,6.8c0,.3.4.4.6.4l3.3-.9c.3,0,.4-.4.4-.6ZM9,17.3h-2.4v-1.2h2.4v1.2ZM9,15.1h-2.4v-5.6h2.4v5.6ZM9,8.4h-2.4v-1.2h2.4v1.2ZM12.5,17.3h-2.4v-1.2h2.4v1.2ZM12.5,15.1h-2.4v-5.6h2.4v5.6ZM12.5,8.4h-2.4v-1.2h2.4v1.2ZM13.6,7.5l2.3-.6.3,1.1-2.3.6-.3-1.1ZM15.7,15l-1.5-5.4,2.3-.6,1.5,5.4-2.3.6ZM16.2,17.2l-.3-1.1,2.3-.6.3,1.1-2.3.6Z"/>
+</svg>
