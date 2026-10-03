@@ -398,6 +398,14 @@ def _display_copy(path, max_h):
     return buf.getvalue()
 
 
+def _pillow_available():
+    try:
+        import PIL  # noqa: F401
+        return True
+    except ImportError:
+        return False
+
+
 def _collection_image(d, cid, issues):
     """Foto de fundo do cartão da coleção (config/interface-rules.md §5).
     Fornecida pelo Mathews; sem foto, a interface usa o mosaico das capas."""
@@ -896,6 +904,9 @@ def main():
     print("propostas estruturais: %(proposals)d "
           "(abertas %(proposals_open)d · aprovadas %(proposals_approved)d "
           "· recusadas %(proposals_rejected)d)" % c)
+    if not _pillow_available():
+        print("   ⚠ Pillow ausente: as capas vão em tamanho original e a interface sai"
+              " bem mais pesada (pip install -r requirements.txt)")
     print("revalidação: %(checks_run)d checks · %(gaps_stale)d lacuna(s) stale "
           "· %(gaps_unverifiable)d sem evidência verificável" % c)
     for g in idx["gaps"] + idx["proposals"]:
