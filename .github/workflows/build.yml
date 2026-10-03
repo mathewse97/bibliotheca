@@ -1,0 +1,98 @@
+# ---------------------------------------------------------------------------
+# A build da Bibliotheca, e a publicação da interface no GitHub Pages.
+#
+# REGRA DE DESENHO: este arquivo só CHAMA. Nenhuma lógica do projeto mora
+# aqui. Cada passo abaixo é um comando que você também roda na sua máquina,
+# com o mesmo resultado:
+#
+#     python3 tools/build.py      constrói
+#     python3 tools/check.py      aprova ou reprova
+#     python3 tools/pages.py      monta a pasta do site
+#
+# Isso é deliberado. Se a Bibliotheca sair do GitHub um dia, perde-se o
+# agendamento e a publicação automática — e nada mais. Os três comandos
+# continuam funcionando em qualquer máquina com Python. Um workflow que
+# carregasse trinta linhas de transformação no próprio YAML teria posto
+# lógica canônica dentro de uma plataforma, que é o erro que este projeto
+# inteiro existe para não cometer.
+#
+# O QUE ACONTECE E QUANDO
+#   push no main          constrói, confere, publica o site
+#   pull request          constrói e confere. NÃO publica.
+#   botão "Run workflow"  igual ao push no main
+#
+# O PULL REQUEST É O PORTÃO. `tools/check.py` devolve erro quando há
+# referência quebrada, cartão de decisão malformado, arquivo canônico
+# ilegível ou mudança estrutural aplicada sem decisão registrada. Com a
+# proteção de branch ligada (ver MIGRACAO-GITHUB.md, passo 9), isso impede o
+# merge — que é a diferença entre uma regra escrita e uma regra que vale.
+# ---------------------------------------------------------------------------
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Uma publicação de cada vez. Sem cancelar a que estiver no ar: o site é o
+# resultado de um estado completo da biblioteca, e interromper no meio
+# publicaria um retrato pela metade.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  construir:
+    name: Construir e conferir
+    runs-on: ubuntu-latest
+    steps:
+      - name: Buscar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar o PyYAML
+        run: pip install pyyaml
+
+      - name: Construir
+        run: python3 tools/build.py
+
+      - name: Conferir a integridade
+        run: python3 tools/check.py
+
+      - name: Montar a pasta do site
+        if: github.event_name != 'pull_request'
+        run: python3 tools/pages.py
+
+      - name: Preparar o Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Enviar o site
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publicar:
+    name: Publicar no Pages
+    needs: construir
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v5
