@@ -1,0 +1,32 @@
+# ---------------------------------------------------------------------------
+# O que NÃO entra no repositório.
+#
+# A regra é uma só: derivado não se versiona. Tudo aqui é reconstruível por
+# `python3 tools/build.py`, e versionar seria somar ~26 MB ao histórico a cada
+# build — em cinquenta builds, mais de um gigabyte que nunca encolhe, porque
+# arquivo grande e quase-binário não guarda diferença entre versões.
+# ---------------------------------------------------------------------------
+
+# Saída da build. Reconstruível em segundos. Ver README §2.
+_generated/
+
+# Saída do empacotador do Pages. Montada pelo workflow a cada publicação.
+site/
+
+# Pasta de trabalho não classificada, preservada em disco e fora do repositório
+# por decisão de 2026-10-02. Contém uma variante de interface (template, duas
+# fontes WOFF2 e um HTML construído) que nunca foi declarada canônica em lugar
+# nenhum. Fica de fora até que se decida se a variante é para manter — e, se
+# for, o lugar dela é tools/, não uma pasta solta na raiz.
+Claude outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
