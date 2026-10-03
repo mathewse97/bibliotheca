@@ -61,8 +61,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Instalar o PyYAML
-        run: pip install pyyaml
+      # Pillow gera a cópia leve das capas que a interface embute
+      # (cover.display_max_height). Sem ele, a build embute o original e
+      # capas acima de cover.embed_max_bytes reprovam o check.
+      - name: Instalar o PyYAML e o Pillow
+        run: pip install pyyaml pillow
 
       - name: Construir
         run: python3 tools/build.py
