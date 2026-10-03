@@ -61,8 +61,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Instalar o PyYAML
-        run: pip install pyyaml
+      - name: Instalar as dependências
+        run: pip install -r requirements.txt
 
       - name: Construir
         run: python3 tools/build.py

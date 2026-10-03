@@ -159,7 +159,9 @@ Nada em `_generated/` deve ser editado à mão: a próxima build sobrescreve.
 python3 tools/build.py          # a partir da raiz do repositório
 ```
 
-Requer Python 3 e PyYAML (`pip install pyyaml`).
+Requer Python 3, PyYAML e Pillow, nas versões de `requirements.txt`
+(`pip install -r requirements.txt`). Sem o Pillow a build ainda roda, mas embute as
+capas em tamanho original, e a interface muda de bytes.
 
 A build é **somente leitura** sobre `collections/`, `works/`,
 `publications/`, `people/`, `config/`, `review/` e `state/`. Ela lê tudo e
@@ -490,7 +492,7 @@ Escritas aqui para não serem descobertas no pior momento.
 **O que morre se o projeto sair do GitHub.** O agendamento e a publicação
 automática — mais nada. `tools/build.py`, `tools/check.py` e `tools/pages.py`
 não sabem que o GitHub existe e continuam a funcionar em qualquer máquina com
-Python 3 e PyYAML. Depois de uma mudança de casa, a interface volta a ser
+Python 3 e as dependências de `requirements.txt`. Depois de uma mudança de casa, a interface volta a ser
 construída à mão com os três comandos e servida de onde você quiser; o
 `.github/workflows/build.yml` fica inerte e pode ser apagado ou traduzido para o
 agendador da nova casa.

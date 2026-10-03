@@ -1,0 +1,10 @@
+# Dependências de tools/build.py, tools/check.py e tools/pages.py.
+#
+#     pip install -r requirements.txt
+#
+# Versões fixas: a comparação byte a byte do README §7.2 só prova alguma coisa
+# se toda máquina que constrói usar as mesmas versões. O Pillow gera a cópia
+# leve das capas (cover.display_max_height); outra versão pode codificar o
+# WebP com bytes diferentes.
+pyyaml==6.0.1
+pillow==12.3.0
