@@ -1,0 +1,298 @@
+# ---------------------------------------------------------------------------
+# Primeiro arquivo de lacunas de Cultura. Ele não existia porque a coleção não
+# tinha escopo declarado, e sem território declarado não há contra o que medir
+# (review/culture.md §5). O escopo foi decidido em 2026-09-19 (culture--sp01),
+# e estas são as ausências que ele torna visíveis.
+#
+# DETECÇÃO, com candidatos nomeados a pedido do Mathews na mesma conversa.
+# Nenhuma obra foi criada, nenhuma participação foi aplicada, nenhuma edição
+# foi pesquisada. Região vazia não é tarefa de compra (curation-rules.md §I).
+# ---------------------------------------------------------------------------
+collection: culture
+extracted_from: review/culture.md
+by: claude
+date: 2026-09-19
+
+gaps:
+
+  - id: culture--g01
+    type: one-sided-diagnosis
+    necessity: alta
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: adorno-horkheimer--dialektik-der-aufklaerung
+      note: "Candidato aprovado por você em 2026-09-19. A assimetria de argumento que a lacuna descrevia deixa de existir: a coleção passa a ter duas causas rivais para a mesma degradação, e ganha a sua primeira tensão real."
+      remaining: "A obra entrou na coleção. A EDIÇÃO não existe: nenhuma foi
+                  enumerada, verificada nem escolhida (§E). Ter participação
+                  não é ter livro."
+
+    only_visible_under: "escopo aprovado em culture--sp01, ala
+                         critica-da-cultura-moderna"
+    statement: >
+      As três vozes da coleção diagnosticam a mesma doença — a degradação da
+      cultura moderna — e atribuem a ela causas do mesmo lado: o abandono da
+      tradição (Scruton, "Culture Counts"), a banalização pelo espetáculo
+      (Vargas Llosa, "A Civilização do Espetáculo") e a perda de um código
+      moral (Lobo, "Entre a Honra e o Nada"). Falta a explicação rival mais
+      influente do século XX, que aceita o diagnóstico e troca a causa: a
+      cultura se degrada porque é produzida como mercadoria em escala
+      industrial. Sem ela, a coleção tem três testemunhas e nenhuma
+      contestação — e a própria crítica conservadora perde o interlocutor
+      contra quem foi escrita.
+    evidence:
+      - claim: "O assunto 'crítica de esquerda e indústria cultural' não tem
+                nenhuma obra, enquanto os dois assuntos
+                vizinhos do mesmo eixo estão cobertos."
+        check: {type: region, collection: culture,
+                region: critica-de-esquerda-e-industria-cultural,
+                expect: {coverage: covered}}
+        checkable: true
+        note: "A região estava `absent` quando a lacuna foi levantada, e o
+               predicado dizia isso. Atualizado em 2026-09-19, com a obra
+               aprovada: o predicado agora verifica o FECHAMENTO, e não a
+               ausência. O texto do claim guarda o estado original."
+      - claim: "Nenhum autor da Escola de Frankfurt existe em qualquer coleção
+                do acervo."
+        check: null
+        checkable: false
+        reason: "Exigiria marcador de tradição nos registros de obra, e eles
+                 estão `not_researched` com `traditions` vazio."
+      - claim: "Scruton escreveu um ataque em livro a esses autores, o que
+                torna a ausência deles uma assimetria e não uma escolha."
+        check: null
+        checkable: false
+        reason: "Fato sobre a bibliografia do autor, a confirmar na pesquisa
+                 de edição. Não foi verificado."
+    candidates:
+      - work_title: "Adorno & Horkheimer — Dialética do Esclarecimento (1947)"
+        verdict: gap-filler
+        argument: "O capítulo sobre a indústria cultural é o texto em que a
+                   explicação rival é formulada. Entra em atrito direto com
+                   Scruton e com Vargas Llosa, e é a obra que a coleção precisa
+                   para ter duas causas e não uma."
+        over: "Marcuse e Habermas dizem respeito ao poder e à esfera pública,
+               e pertencem a Pensamento Político — ver political-thought--g04."
+        placement:
+          collection: culture
+          role: critical-response
+          demand: exigente
+          region: critica-de-esquerda-e-industria-cultural
+      - work_title: "Walter Benjamin — A Obra de Arte na Era da sua
+                     Reprodutibilidade Técnica (1935/36)"
+        verdict: complementary
+        argument: "Contraponto interno: vê na reprodução técnica também uma
+                   possibilidade política, e não só perda. Não fecha a lacuna
+                   sozinho — é curto e não é um diagnóstico da indústria."
+      - work_title: "Uma história da Escola de Frankfurt"
+        verdict: supporting
+        role_if_added: supplementary
+        argument: "Apoio de leitura, não fechamento de lacuna. Adorno sem
+                   Weber, Freud e o contexto de 1933 rende pouco. Entra como
+                   apoio de leitura e NÃO substitui a obra."
+    raised: 2026-09-19
+
+  - id: culture--g02
+    type: missing-foundation
+    necessity: alta
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: kant--kritik-der-urteilskraft
+      note: "Candidato aprovado por você em 2026-09-19. A região estetica-filosofica passa de thin a covered."
+      remaining: "A obra entrou na coleção. A EDIÇÃO não existe: nenhuma foi
+                  enumerada, verificada nem escolhida (§E). Ter participação
+                  não é ter livro."
+
+    only_visible_under: "escopo aprovado em culture--sp01, região
+                         estetica-filosofica"
+    statement: >
+      A coleção discute o valor da arte e do gosto, e Suassuna ("Iniciação à
+      Estética") sustenta sozinho a região de estética filosófica. Falta a
+      virada que funda a estética moderna: o deslocamento do juízo de beleza da
+      propriedade do objeto para o estado do sujeito que contempla, com as
+      noções de desinteresse e de pretensão de universalidade sem conceito.
+      É dela que descende a ideia de autonomia da arte — justamente a ideia que
+      Adorno tenta salvar e que a crítica sociológica do gosto ataca. Sem essa
+      fundação, os dois lados do debate ficam sem o chão que os produziu.
+    evidence:
+      - claim: "O assunto 'estética filosófica' está pouco coberto: uma obra
+                só o sustenta."
+        check: {type: region, collection: culture, region: estetica-filosofica,
+                expect: {coverage: covered}}
+        checkable: true
+        note: "Estava `thin`, sustentada só por Suassuna. Passou a `covered`
+               com Kant em 2026-09-19; o predicado verifica o fechamento."
+
+      - claim: "Kant não está registrado em nenhuma coleção do acervo."
+        check: null
+        checkable: false
+        reason: "Predicado de ausência sobre o acervo inteiro; a build não tem
+                 verificação desse tipo. Conferido manualmente em 2026-09-19."
+    candidates:
+      - work_title: "Kant — Crítica da Faculdade do Juízo (1790)"
+        verdict: gap-filler
+        argument: "É onde a virada é formulada. Fecha a lacuna por si."
+        over: "Nenhuma alternativa foi examinada."
+        placement:
+          collection: culture
+          role: foundational
+          demand: exigente
+          region: estetica-filosofica
+        note: "Obra exigente. O apoio de leitura cabe como material de acompanhamento
+               separado, e não substitui a obra."
+    raised: 2026-09-19
+
+  # -------------------------------------------------------------------------
+  # Levantada por você em 2026-09-19, ao ler a sequência nova: o salto entre
+  # a obra 1 e a obra 2 do movimento I.
+  # -------------------------------------------------------------------------
+  - id: culture--g03
+    type: sequence-gap
+    necessity: media-alta
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: hume--of-the-standard-of-taste
+      also: [burke--philosophical-enquiry-sublime-beautiful,
+             aristoteles--poietike]
+      note: "Fechada em três passos no mesmo dia: a Poética entrou como
+             participação e cobriu a antiguidade; Hume fechou o elo do século
+             XVIII, que era o que a lacuna de fato afirmava; Burke entrou como
+             complementar, trazendo o sublime. O salto de exigência entre
+             Suassuna e Kant também deixou de existir — o movimento passa a
+             ter um ensaio curto e um tratado legível antes da terceira
+             Crítica."
+      remaining: "Nenhuma das duas obras novas tem edição. O ensaio de Hume
+                  raramente é publicado sozinho em português: a publicação a
+                  pesquisar é uma coletânea."
+
+    only_visible_under: "a sequência reordenada por culture--sp02 — antes dela
+                         as quatro obras não formavam uma cadeia, e o salto não
+                         era visível"
+    statement: >
+      Entre Suassuna, "Iniciação à Estética", e Kant, "Crítica da Faculdade do
+      Juízo", há um salto de dois tipos ao mesmo tempo. O primeiro é de
+      exigência: uma introdução didática seguida direto de uma das obras mais
+      difíceis da filosofia moderna, sem degrau intermediário. O segundo é
+      histórico, e é o mais sério: Kant não inaugura o debate sobre o gosto —
+      ele o FECHA. A terceira Crítica é a resposta a meio século de discussão
+      britânica sobre gosto, beleza e sublime, e a coleção não tem nenhuma
+      obra dessa discussão. O leitor encontra a conclusão de um argumento cujo
+      começo não está na estante, e fica sem saber contra quem Kant escreve.
+    evidence:
+      - claim: "A região estetica-filosofica é sustentada por duas obras, e
+                entre elas há um intervalo de mais de dois séculos sem nenhuma
+                obra de estética anterior a 1790."
+        check: {type: region, collection: culture, region: estetica-filosofica,
+                expect: {coverage: covered}}
+        checkable: true
+        note: "O predicado confirma que a região tem obras; NÃO confirma a
+               continuidade entre elas, que é o que esta lacuna afirma. A
+               cobertura por si não detecta salto — foi o Mathews quem viu."
+      - claim: "A discussão britânica do século XVIII sobre gosto e sublime —
+                Hutcheson, Addison, Hume, Burke — é o interlocutor direto da
+                terceira Crítica, e nenhum desses autores existe no acervo."
+        check: null
+        checkable: false
+        reason: "Exigiria que os registros dissessem a que tradição cada obra
+                 pertence, e esse dado só existe depois da
+                 pesquisa de edição."
+    candidates:
+      - work_title: "Hume — Do Padrão do Gosto (1757)"
+        verdict: gap-filler
+        argument: "Ensaio curto, legível, e é o enunciado clássico do problema
+                   que Kant herda: como pode um juízo de gosto ser subjetivo e
+                   ainda assim admitir padrão. Melhor relação entre o que fecha
+                   e o que custa — e resolve também o degrau de exigência."
+        over: "Burke é mais extenso e mais focado no sublime; Hume põe a
+               questão central da qual Kant parte."
+        placement:
+          collection: culture
+          movement: "I. O que é a cultura, e o que ela vale"
+          after: suassuna--iniciacao-a-estetica
+          before: kant--kritik-der-urteilskraft
+          role: foundational
+          demand: leve
+      - work_title: "Burke — Uma Investigação Filosófica sobre a Origem das
+                     Nossas Ideias do Sublime e do Belo (1757)"
+        verdict: complementary
+        argument: "Traz o sublime, que Kant retoma e transforma. Fecharia
+                   metade da lacuna, e tem um bônus de coleção: Burke já está
+                   em Pensamento Político com as 'Reflexões sobre a Revolução
+                   em França', e as duas obras dele fariam o leitor ver o mesmo
+                   autor antes e depois da Revolução."
+      - work_title: "Uma história da estética"
+        verdict: supporting
+        role_if_added: supplementary
+        argument: "Apoio de leitura para o percurso inteiro do movimento I.
+                   NÃO fecha a lacuna e não substitui as obras."
+    raised: 2026-09-19
+    raised_by: voce
+    partial_relief:
+      date: 2026-09-19
+      by: aristoteles--poietike
+      note: "A Poética entrou em Cultura como participação (não compra) e
+             cobre a antiguidade, reduzindo o salto. A lacuna continua
+             `open`: o que falta é a discussão britânica do século XVIII —
+             gosto, beleza, sublime — de que a terceira Crítica é a resposta,
+             e nada disso a Poética cobre."
+
+# ---------------------------------------------------------------------------
+# NÃO SÃO LACUNAS — são participações a decidir (curation-rules.md §2.7)
+# ---------------------------------------------------------------------------
+memberships_not_gaps:
+  - works: [han--muedigkeitsgesellschaft, han--die-krise-der-narration]
+    proposed_collection: culture
+    region: cultura-e-tecnica-contemporanea
+    note: "As duas já estão registradas no acervo, sem coleção, e os próprios
+           registros nomeiam `culture` como candidata condicionada à pergunta
+           de escopo — que agora foi respondida. Entrariam como participações
+           do mesmo registro canônico, não como compras. NÃO aplicado: incluir
+           membro é decisão sua."
+  - works: [weber--wissenschaft-als-beruf]
+    proposed_collection: culture
+    note: "A conferência está órfã desde a importação de Política, esperando
+           que Educação e Cultura tivessem critérios declarados. Cultura agora
+           tem. Ela fala de desencantamento e neutralidade axiológica na
+           universidade moderna — cabe na ala da reflexão, e Educação continua
+           sendo a segunda opção, como voz crítica. NÃO aplicado."
+  - works: [aristoteles--poietike]
+    status: aplicado-em-2026-09-19
+    proposed_collection: culture
+    movement: "I. O que é a cultura, e o que ela vale"
+    region: estetica-filosofica
+    note: "A Poética JÁ está no acervo, em Greco-Romana, com publicação
+           registrada (Editora 34). É a primeira teoria sistemática da arte do
+           Ocidente, e sem ela o movimento I começa em Suassuna como se nada
+           houvesse antes. Entraria como participação nova do mesmo registro
+           canônico — papel próprio nesta coleção, sem duplicar arquivo e sem
+           comprar nada. NÃO aplicado: incluir membro é decisão sua. É o
+           caminho mais barato para reduzir o salto que você apontou, e é
+           independente de culture--g03: a Poética cobre a antiguidade, não a
+           discussão do século XVIII de que Kant é a resposta."
+
+  - works: [damasio--descartes-error, haidt--the-righteous-mind]
+    proposed_collection: null
+    note: "Continuam sem casa: filosofia da mente e psicologia moral não são
+           cobertas por nenhuma das cinco coleções, nem pelo escopo novo de
+           Cultura. A decisão permanece sua."
+
+# ---------------------------------------------------------------------------
+# FORA DO ESCOPO DESTA COLEÇÃO, registrado para não se perder
+# ---------------------------------------------------------------------------
+settled:
+  - subject: "História factual do século XX — as duas guerras, o entreguerras,
+              a Guerra Fria"
+    verdict: fora-de-escopo
+    reason: "O acervo tem as consequências (Arendt, 'Origens do
+             Totalitarismo'; Koestler, 'O Zero e o Infinito'; Orwell; Schmitt,
+             'O Conceito do Político') e não tem os fatos. Mas Cultura e
+             Política são coleções de argumento, não de cronologia: uma
+             história do século XX pertence a uma coleção de História que não
+             existe. Criar coleção é decisão do Mathews, não conclusão minha —
+             registrado aqui apenas para que a observação não se perca."
+    date: 2026-09-19

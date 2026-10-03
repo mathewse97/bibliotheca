@@ -1,0 +1,131 @@
+# ---------------------------------------------------------------------------
+# ESQUEMA DAS PROPOSTAS ESTRUTURAIS
+#
+# Uma proposta estrutural é o registro de um problema no NÍVEL DA COLEÇÃO:
+# a pergunta, o escopo, o nome, ou a própria suposição de que aquele conjunto
+# de obras é uma coleção só. É o degrau 3-6 da escada de config/curation-rules.md §4.
+#
+# Paralela em espírito aos registros de lacuna (review/gaps/), e sob a mesma
+# disciplina: evidência com predicados verificáveis, revalidada a cada build,
+# nunca aplicada automaticamente.
+#
+# A DIFERENÇA em relação a uma lacuna: uma lacuna aponta uma ausência DENTRO
+# de um escopo declarado. Uma proposta estrutural questiona o próprio escopo.
+#
+# Este arquivo é configuração: define a forma e as regras. Ele não contém
+# nenhuma proposta.
+# ---------------------------------------------------------------------------
+version: 1
+
+location: "review/structural/*.yaml"
+record_key: proposals
+ignored_prefix: "_"          # arquivos como _TEMPLATE.yaml não são carregados
+
+# ---------------------------------------------------------------------------
+# TIPOS — a escada de curation-rules.md §4, degraus 3 a 6.
+# Degraus 1 e 2 (movimentos, caminhos) NÃO são propostas estruturais: são
+# desenvolvimento interno normal e não precisam deste registro.
+# ---------------------------------------------------------------------------
+types:
+  refine:
+    rung: 3
+    means: "Refinar pergunta, escopo ou critérios mantendo a mesma coleção."
+    changes_identity: false
+  rename:
+    rung: 4
+    means: "O nome deixou de representar a pergunta da coleção."
+    changes_identity: true
+    requires: [proposed.new_id, proposed.new_title_pt]
+  split:
+    rung: 5
+    means: "Os membros tornaram-se perguntas genuinamente distintas que uma
+            coleção já não representa coerentemente."
+    changes_identity: true
+    requires: [proposed.creates, proposed.member_allocation]
+  merge:
+    rung: 6
+    means: "A distinção entre duas coleções deixou de ser intelectualmente
+            significativa."
+    changes_identity: true
+    requires: [proposed.into]
+
+# ---------------------------------------------------------------------------
+# ESTADOS
+# ---------------------------------------------------------------------------
+statuses:
+  open:     "Registrada. Nenhuma mudança aplicada. O estado padrão."
+  approved: "O Mathews aprovou. A mudança pode ser aplicada, e a linhagem
+             registrada. Exige um bloco `decision`."
+  rejected: "O Mathews recusou. Fica no arquivo para que a mesma proposta não
+             volte — como um veredito de redundância. Exige `decision`."
+
+default_status: open
+
+# ---------------------------------------------------------------------------
+# O PORTÃO DE APROVAÇÃO
+#
+# A build não aplica nada — é somente leitura. O que ela PODE garantir, e
+# garante, é que nenhuma mudança estrutural exista sem uma decisão registrada
+# do Mathews. Violações viram problemas de integridade no índice.
+# ---------------------------------------------------------------------------
+approval:
+  approver: voce               # `decision.by: claude` é ERRO de integridade
+  required_for: [rename, split, merge]
+  also_required_for_refine_when: "o refinamento altera a pergunta ou os
+                                  critérios de forma que mude o que a coleção
+                                  admite"
+  rules:
+    - "status approved|rejected EXIGE um bloco `decision`."
+    - "decision.by tem de ser `voce`. Uma proposta aprovada por claude é erro."
+    - "Toda entrada de `lineage` numa coleção tem de citar uma proposta que
+       exista E esteja `approved`. Sem isso, a mudança foi aplicada em
+       silêncio — e a build detecta isso depois do fato."
+
+# ---------------------------------------------------------------------------
+# CAMPOS
+# ---------------------------------------------------------------------------
+required_fields: [id, type, affects, statement, status]
+required_when_decided: [decision]
+decision_fields: [by, date, rationale]
+
+fields:
+  id:          "<colecao>--sp01, sequencial e permanente. Nunca reutilizado."
+  type:        "refine | rename | split | merge"
+  affects:     "lista de ids de coleções EXISTENTES que a proposta toca"
+  statement:   "o problema estrutural, em prosa"
+  evidence:    "mesma forma da evidência de lacuna: lista de {claim, check},
+                onde check pode ser um predicado, uma lista deles, ou null com
+                checkable:false + reason. Revalidada a cada build"
+  proposed:    "a alternativa concreta — ver `types.*.requires`"
+  status:      "open | approved | rejected"
+  decision:    "{by, date, rationale} — obrigatório quando decidida"
+  provisional: "true quando depende de evidência que ainda vai chegar"
+  recheck_after: "condição de adiamento, como nos registros de lacuna"
+  raised:      "data"
+
+# ---------------------------------------------------------------------------
+# LINHAGEM — do lado da COLEÇÃO, não da proposta.
+#
+# Campos OPCIONAIS numa coleção. Ficam AUSENTES até que uma mudança estrutural
+# aprovada aconteça: a build trata a ausência como vazio e não exige nada.
+# Nenhuma coleção os tem hoje, e nenhum dado histórico foi inventado.
+# ---------------------------------------------------------------------------
+collection_optional_fields:
+  id_aliases:
+    shape: "lista de ids antigos"
+    purpose: "Depois de um rename, referências antigas continuam resolvendo.
+              Um alias não pode colidir com o id ou o alias de outra coleção."
+  lineage:
+    shape: "lista de entradas"
+    entry_fields:
+      event:        "renamed | split-from | split-into | merged-from | merged-into | refined"
+      from:         "id ou ids anteriores"
+      to:           "id ou ids resultantes"
+      proposal:     "id da proposta que autorizou — TEM de estar approved"
+      approved_by:  "voce"
+      date:         "quando"
+      reason:       "por quê, em uma linha"
+      reversible_by: "o que desfaz esta mudança, em termos concretos"
+    purpose: "Preservar a história da estrutura original e tornar reversível
+              uma mudança aprovada. Sem isto, um split é indistinguível de
+              duas coleções que sempre existiram."

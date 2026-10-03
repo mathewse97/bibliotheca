@@ -1,0 +1,198 @@
+# ---------------------------------------------------------------------------
+# Segunda proposta estrutural do acervo, e a primeira do tipo `refine`.
+#
+# Ela nasce JÁ aprovada porque a decisão foi do Mathews, tomada na conversa de
+# 2026-09-19: a pergunta de escopo que a coleção carregava em aberto desde a
+# importação (collections/culture.md `open_question`, review/culture.md §2)
+# foi respondida por ele. O registro existe para que a mudança seja rastreável
+# e reversível, e para que a alternativa recusada não volte a ser discutida
+# do zero.
+# ---------------------------------------------------------------------------
+collection: culture
+by: claude
+date: 2026-09-19
+
+proposals:
+
+  - id: culture--sp01
+    type: refine
+    affects: [culture]
+    statement: >
+      A coleção foi importada sem escopo declarado: a pergunta e os critérios
+      eram inferência minha, com uma dúvida deixada explicitamente em
+      aberto — Cultura é a REFLEXÃO sobre a cultura, ou também as obras
+      e a história da cultura? Enquanto essa dúvida ficou aberta, a
+      coleção funcionou mas não pôde ter um mapa de assuntos, e sem ele
+      não pôde ter análise de cobertura nem registro de lacuna; quatro
+      obras do acervo ficaram sem coleção esperando essa mesma resposta. O Mathews respondeu: são as duas coisas. Isso obriga a declarar
+      o território, porque um escopo largo sem subdivisão interna faria toda
+      análise de cobertura devolver uma fila de ausências — história da arte,
+      música, literatura, cinema — contra um território que a seleção nunca
+      reivindicou. A saída é a que a escada de escalonamento manda: subdividir
+                   a coleção por dentro antes de parti-la
+                   em duas.
+    evidence:
+      - claim: "A coleção não tem mapa de assuntos, e por isso nenhuma lacuna
+                pôde ser registrada nela até hoje."
+        check: null
+        checkable: false
+        reason: "É uma afirmação sobre a ausência de um campo e sobre a razão
+                 dela, registrada na revisão desta coleção. O
+                 fato correspondente é que o arquivo de
+                 lacunas dela não existe."
+      - claim: "Quatro obras estão registradas sem coleção, e duas delas — as
+                de Byung-Chul Han — nomeiam Cultura como
+                destino possível, condicionado a esta mesma
+                pergunta."
+        check: null
+        checkable: false
+        reason: "Predicado de contagem aposentado em 2026-09-19. Ele dizia 4
+                 quando a proposta foi levantada, passou a 6 com as duas obras
+                 de Byung-Chul Han e a 8 com Kant e Adorno & Horkheimer — isto
+                 é, envelhece a cada obra que entra, e ficaria `stale` para
+                 sempre afirmando o que já não descreve. A evidência que
+                 importa é histórica: havia obras órfãs à espera desta
+                 decisão, e elas entraram quando ela foi tomada."
+
+        note: "O predicado dizia 4 quando a proposta foi levantada. Passou a 6
+               em 2026-09-19, quando as duas obras de Byung-Chul Han — as
+               mesmas que a evidência citava como órfãs à espera desta
+               decisão — entraram como participações. O número atualizado é a
+               confirmação da evidência, não a sua refutação."
+      - claim: "Os quatro membros atuais não são obras sobre cultura em sentido
+                neutro: são julgamentos sobre o valor da cultura e sobre a sua
+                degradação no mundo moderno, feitos de posições políticas
+                distintas."
+        check: null
+        checkable: false
+        reason: "É leitura do argumento da coleção, não um predicado."
+    proposed:
+      question: "O que é a cultura, que valor ela tem, como se transmite, se
+                 degrada ou se perde — e o que as próprias obras de cultura,
+                 e a história delas, mostram sobre isso?"
+      inclusion_criteria:
+        - "Obras que argumentam sobre o que é a cultura, que valor tem, e como
+           se transmite, se degrada ou se perde."
+        - "Filosofia da arte e da cultura, crítica cultural, história e
+           antropologia da cultura — qualquer tradição, qualquer época."
+        - "Defesas e críticas de uma tradição cultural pertencem ambas à
+           coleção."
+        - "As próprias obras de cultura — literatura, arte, música — e a
+           história delas, quando lidas como objeto de reflexão desta coleção
+           e não como leitura literária avulsa."
+        - "Estética filosófica, incluindo a fundação moderna do juízo de gosto."
+      note: >
+        O que NÃO muda: a sequência, a ordem, as suas justificativas de entrada, os
+        papéis e a cardinalidade. Nenhum membro entra ou sai por esta proposta.
+        O que muda: a pergunta, os critérios, e a criação de um mapa de assuntos cobertos, com
+        três alas declaradas — reflexão sobre a cultura; crítica da cultura
+        moderna; obras e história da cultura.
+        A alternativa recusada foi manter apenas a ala da reflexão crítica
+        (a opção "A" da conversa): ela descreveria bem os quatro membros
+        atuais, mas deixaria Suassuna mal acomodado e manteria órfã a parte do
+        acervo que o Mathews quer poder incluir.
+    status: approved
+    provisional: false
+    recheck_after: null
+    raised: 2026-09-19
+    decision:
+      by: voce
+      date: 2026-09-19
+      rationale: "Decisão do Mathews na conversa de 2026-09-19: a coleção é as
+                  duas coisas ao mesmo tempo — reflexão crítica E obras e
+                  história da cultura —, com a condição de que a subdivisão
+                  interna seja declarada desde já, para que a análise de
+                  cobertura continue significando alguma coisa. Se a ala das
+                  obras e da história crescer a ponto de ter pergunta própria,
+                  isso vira uma proposta de split com gatilho, e não uma
+                  redescoberta."
+
+  # -------------------------------------------------------------------------
+  # PROPOSTA ABERTA — aguarda a sua decisão. Nada foi aplicado.
+  # -------------------------------------------------------------------------
+  - id: culture--sp02
+    type: refine
+    affects: [culture]
+    statement: >
+      A coleção passou de 4 para 11 membros em 2026-09-19, e todos os sete
+      acréscimos foram para o fim da sequência, um atrás do outro. O resultado
+      é que a fundação vem depois dos diagnósticos que ela funda: Kant,
+      Nietzsche, Freud e Weber, que explicam de onde vêm a noção de juízo
+      estético e a suspeita sobre os valores, estão depois de Vargas Llosa,
+      Scruton e Lobo, que a pressupõem. A coleção também não tem movimentos, e
+      com 11 obras e três alas declaradas a sequência já não se lê sozinha.
+      É exatamente o que a regra dos movimentos adverte: acrescentar ao fim
+      não é a opção conservadora. A correção é de ordem, não de escopo —
+      nenhuma obra sai, nenhuma entra.
+    evidence:
+      - claim: "Onze membros, sem nenhum movimento declarado — a única coleção
+                do acervo com mais de dez obras nessa situação."
+        check: {type: count_members, collection: culture, expect: 11}
+        checkable: true
+      - claim: "As quatro obras de fundação ocupam as posições 5 a 8, depois
+                dos três diagnósticos que dependem delas."
+        check: null
+        checkable: false
+        reason: "Depende de ler o argumento da coleção; a posição em si é
+                 visível no arquivo, mas a dependência é julgamento."
+    proposed:
+      movements:
+        - title: "I. O que é a cultura, e o que ela vale"
+          purpose: "A fundação. O que se julga quando se julga uma obra, e de
+                    onde vêm os valores que se julgam — incluindo a suspeita
+                    de que eles têm história e interesses."
+          works: [suassuna--iniciacao-a-estetica,
+                  kant--kritik-der-urteilskraft,
+                  nietzsche--zur-genealogie-der-moral,
+                  weber--die-protestantische-ethik,
+                  freud--das-unbehagen-in-der-kultur]
+        - title: "II. O diagnóstico da degradação, e a disputa pela causa"
+          purpose: "Todos concordam que algo se perdeu. Discordam do que
+                    causou a perda — e é essa discordância que faz da coleção
+                    um argumento, e não um coro."
+          works: [vargas-llosa--la-civilizacion-del-espectaculo,
+                  scruton--culture-counts,
+                  lobo--entre-a-honra-e-o-nada,
+                  adorno-horkheimer--dialektik-der-aufklaerung]
+        - title: "III. O prolongamento contemporâneo"
+          purpose: "O mesmo diagnóstico levado ao presente: desempenho,
+                    esgotamento e o que acontece com a narrativa quando a
+                    informação a substitui."
+          works: [han--muedigkeitsgesellschaft,
+                  han--die-krise-der-narration]
+      order_changes_implied:
+        - "Suassuna PERMANECE em primeiro. Foi a sua escolha de abertura, e a
+           razão continua válida: é a entrada mais acessível, e as outras
+           pressupõem uma noção do valor da arte."
+        - "Vargas Llosa, Scruton e Lobo descem das posições 2–4 para 6–8. A
+           ordem RELATIVA entre os três não muda — continua sintoma →
+           argumento → dissolução das referências, como a revisão da coleção descreveu."
+        - "Kant, Nietzsche, Weber e Freud sobem do fim para o movimento I, em
+           ordem cronológica: 1790, 1887, 1905, 1930."
+        - "Adorno & Horkheimer fecham o movimento II, imediatamente depois das
+           três vozes com que estão em tensão registrada."
+        - "As duas obras de Han ficam onde estão, agora sob um título."
+      note: >
+        O que NÃO muda: nenhum membro entra ou sai; as suas justificativas de entrada
+        permanecem literais; papéis e exigências ficam como estão;
+        o registro da ordem original continua a guardar a sua lista de três obras.
+        O que muda: a ordem de sete participações e a criação de três
+        movimentos — amplos, correspondentes às três alas já aprovadas do mapa de assuntos, e não títulos feitos sob medida
+                             para obras (a regra manda que um movimento nomeie um território,
+                             nunca uma obra).
+      alternative_rejected: >
+        Manter a sua ordem e apenas criar os movimentos por cima dela.
+        Rejeitada porque produziria um movimento de fundação DEPOIS do
+        movimento de diagnóstico, o que torna os títulos falsos: um leitor que
+        seguisse a sequência encontraria a resposta antes da pergunta.
+    status: approved
+    provisional: false
+    recheck_after: null
+    raised: 2026-09-19
+    decision:
+      by: voce
+      date: 2026-09-19
+      rationale: "Aprovada na conversa do mesmo dia, sem alterações à proposta.
+                  A fundação passa a vir antes do que ela funda, e a coleção
+                  ganha três movimentos correspondentes às três alas do mapa de assuntos. Aplicada na coleção, obra a obra, com registro de histórico
+                                                        para que possa ser desfeita."

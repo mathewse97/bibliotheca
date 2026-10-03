@@ -1,0 +1,110 @@
+# ---------------------------------------------------------------------------
+# Terceira proposta estrutural do acervo, e a primeira que nasce `open` — isto
+# é, sem decisão tomada. As duas anteriores (culture--sp01, greco-roman--sp01)
+# registraram decisões que o Mathews já tinha tomado em conversa; esta pergunta.
+#
+# Ela nasce de duas obras que ele pediu para acrescentar em 2026-10-01 e que,
+# feita a pesquisa, não têm colocação defensável em nenhum movimento de
+# Educação. Pela §6.9 regra 2, isso é sinal de ESCOPO e vai à escada do §4 —
+# não se resolve com um cabeçalho novo. As duas obras estão na biblioteca,
+# com `pending_assignment` declarado, à espera desta decisão.
+# ---------------------------------------------------------------------------
+collection: education
+by: claude
+date: 2026-10-01
+
+proposals:
+
+  - id: education--sp01
+    type: refine
+    affects: [education]
+    statement: >
+      A pergunta da coleção já reivindica os MEIOS — "que fins a educação deve
+      perseguir, por que meios" —, mas os critérios de inclusão amarram os
+      meios aos fins numa frase só ("obras que argumentam sobre os fins da
+      educação — o que um ser humano deve tornar-se e por que meios"), e o
+      mapa de escopo não tem nenhuma região para o estudo empírico de como se
+      aprende. O resultado é que uma obra que argumenta sobre meios SEM
+      argumentar sobre fins não tem lugar: nem nos critérios, nem no mapa, nem
+      em nenhum dos sete movimentos. Duas obras pedidas pelo Mathews em
+      2026-10-01 estão exatamente nessa posição — Brown, Roediger e McDaniel,
+      *Fixe o Conhecimento*, e Dehaene, *É assim que aprendemos*. A primeira é
+      o caso puro: síntese de psicologia experimental da memória que entrega
+      práticas de estudo e nenhuma tese sobre o que um ser humano deve
+      tornar-se. A segunda está no meio: descreve o mecanismo e, pelos quatro
+      pilares, chega a afirmações normativas sobre como ensinar. O problema não
+      é acomodar duas obras. É que a coleção reivindica um território na
+      pergunta que não existe em nenhuma das outras três camadas.
+    evidence:
+      - claim: "Nenhuma das duas obras é hoje membro da coleção — estão na
+                biblioteca com pending_assignment, à espera desta decisão."
+        check: {type: member_present, collection: education,
+                work: brown-roediger-mcdaniel--make-it-stick, expect: false}
+        checkable: true
+      - claim: "A região mais próxima do mapa, psicologia-do-desenvolvimento,
+                está declarada `thin` e não sustenta nenhuma obra — e a nota
+                dela nomeia estágios, mediação e desenvolvimento, que é
+                território de Piaget e Vigotski, não de ciência da memória.
+                Ela não é o lugar destas duas."
+        check: {type: region, collection: education,
+                region: psicologia-do-desenvolvimento, expect: {coverage: thin}}
+        checkable: true
+      - claim: "O movimento II declara quatro regiões e o propósito dele
+                enumera doutrinas filosóficas — idealismo, realismo,
+                pragmatismo, existencialismo, teoria crítica. Pôr ali duas
+                obras de ciência empírica faria o cabeçalho deixar de ser
+                verdadeiro sobre metade dos seus membros, o que a §6.9 regra 1
+                proíbe. Hirsch é o precedente que aproxima, não o que resolve:
+                ele argumenta com ciência cognitiva, mas o faz PARA defender
+                uma posição curricular, e é a posição que o põe lá."
+        check: null
+        checkable: false
+        reason: "Depende de julgamento sobre o que o propósito de um movimento
+                 abrange, e não de uma contagem."
+      - claim: "O out_of_scope da coleção exclui estudos empíricos de
+                mensuração sem argumento sobre fins. Nenhuma das duas é
+                mensuração — são síntese de pesquisa de intervenção e de
+                neurociência —, de modo que a regra de exclusão não as pega;
+                mas também não as admite. É a lacuna nos critérios, não uma
+                exclusão deliberada."
+        check: null
+        checkable: false
+        reason: "Interpretação de um critério em prosa."
+    proposed:
+      question: "Inalterada. A pergunta já cobre os meios; o problema está nas
+                 outras camadas."
+      inclusion_criteria:
+        - "ACRESCENTAR: Obras que argumentam sobre os MEIOS da educação a
+           partir de evidência empírica — como se aprende, o que produz
+           retenção, o que o cérebro faz ao aprender — ainda que não defendam
+           uma tese sobre os fins. Entram pela pergunta, que reivindica os
+           meios; não entram como manual de técnica, e a distinção é a mesma
+           que o out_of_scope já faz: o que se exclui é mensuração sem
+           argumento, não meios sem fins."
+      scope_map_add:
+        - id: ciencia-da-aprendizagem
+          coverage: absent
+          pursuit: open
+          note: "O estudo empírico de como se aprende: memória e recuperação,
+                 espaçamento, atenção, erro e consolidação, e o que disso tem
+                 consequência para ensinar e estudar. Distinta de
+                 psicologia-do-desenvolvimento, que é o aprender por estágios
+                 e mediação."
+      note: >
+        O que NÃO muda: a pergunta, a ordem do Mathews, os sete movimentos
+        existentes, o out_of_scope, e nenhum registro de obra. O que muda: um
+        critério acrescentado, uma região nova no mapa, e — se aprovado — um
+        movimento novo no fim da sequência, que é degrau 1 e não precisa de
+        proposta. A ordem de leitura dentro dele é sugestão do próprio Mathews,
+        de 2026-10-01: mecanismo (Dehaene) antes de prática (Brown, Roediger e
+        McDaniel).
+        O risco honesto da aprovação: o critério novo abre a coleção para uma
+        literatura grande e de qualidade muito variável — ciência da
+        aprendizagem é um gênero com muita divulgação fraca. A proteção não é
+        o critério, é a análise de necessidade obra a obra; e a regra 9 do
+        projeto continua valendo, uma região `absent` não é uma fila de
+        compras.
+    status: open
+    provisional: false
+    recheck_after: null
+    raised: 2026-10-01

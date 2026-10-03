@@ -1,0 +1,358 @@
+# ---------------------------------------------------------------------------
+# VOCABULÁRIOS CONTROLADOS
+#
+# Reúne, num lugar só, os valores que os campos da biblioteca admitem. Existe
+# porque vários deles não estavam declarados em lugar nenhum: um agente que
+# precisasse de um `role` ou de um `work_type` teria de os adivinhar a partir
+# dos dados — e adivinhar um vocabulário é como um vocabulário se corrompe.
+#
+# ESTE ARQUIVO É RECUPERAÇÃO, NÃO LEGISLAÇÃO. Nenhum valor foi acrescentado,
+# nenhum foi normalizado, nenhuma lista foi fechada por parecer completa. Cada
+# entrada declara de onde veio e em que estado está:
+#
+#   declarado-fechado  a fonte enumera a lista inteira. É a lista.
+#   declarado-aberto   a fonte enumera e termina em reticências. Há valores
+#                      legítimos que não estão aqui.
+#   observado          nenhum arquivo declara o vocabulário. Os valores abaixo
+#                      são os que ocorrem no acervo hoje, e mais nada se sabe.
+#   recuperado         declarado no blueprint original, arquivado em
+#                      sources/blueprint-2026-09-05.md. Precedência 4: recupera
+#                      o que se perdeu, nunca substitui uma regra atual.
+#
+# COMO USAR UM VOCABULÁRIO `observado` OU `declarado-aberto`: reutilizar um
+# valor existente quando ele descreve o caso. Precisar de um valor novo é uma
+# decisão de classificação, não um detalhe de preenchimento — vai para revisão
+# e é levantada, não decidida (curation-rules.md §6.8), e quando decidida entra
+# aqui.
+#
+# A BUILD NÃO LÊ ESTE ARQUIVO. Nenhum destes vocabulários é validado: um valor
+# inventado não produz erro de integridade, só um acervo incoerente. Ver
+# curation-rules.md §8.2.
+# ---------------------------------------------------------------------------
+version: 1
+
+# ===========================================================================
+# PARTICIPAÇÃO — atributos da entrada de uma obra numa coleção
+# ===========================================================================
+role:
+  status: observado
+  source: "collections/*.md, entradas de `sequence`"
+  note: "O papel da obra NESTA coleção. A mesma obra pode ter papéis
+         diferentes em coleções diferentes — é participação, não etiqueta."
+  values: [foundational, primary-source, critical-response, pivot,
+           comparative, literary-treatment, supplementary]
+
+demand:
+  status: observado
+  source: "collections/*.md, entradas de `sequence`"
+  note: "O que a obra exige do leitor. Escala aparente de três degraus."
+  values: [leve, moderado, exigente]
+
+core:
+  status: declarado-fechado
+  source: "collections/political-thought.md; curation-rules.md §1"
+  note: "★ do Mathews. Importância DENTRO da coleção completa. Não se
+         reconcilia com pertencer a um caminho."
+  values: [true]
+
+# ===========================================================================
+# COLEÇÃO
+# ===========================================================================
+scope_map.coverage:
+  status: declarado-fechado
+  source: "collections/education.md, cabeçalho; curation-rules.md §1 e §2.1"
+  note: "FATO sobre o que a coleção contém."
+  values: [covered, thin, absent]
+
+scope_map.pursuit:
+  status: declarado-fechado
+  source: "collections/education.md, cabeçalho; curation-rules.md §1 e §2.1"
+  note: "INTENÇÃO do Mathews. Independente de coverage."
+  values: [open, not-pursued]
+
+sequence_kind:
+  status: recuperado
+  source: "sources/blueprint-2026-09-05.md §D, campo do cabeçalho de coleção"
+  note: "A cronológica é sempre DERIVADA de date_sort, nunca mantida à mão:
+         há exatamente uma ordem cronológica verdadeira."
+  values: [intellectual, chronological, thematic]
+  observed_in_data: [intellectual]
+
+structural_changes.kind:
+  status: observado
+  source: "collections/political-thought.md, collections/education.md"
+  note: "Mudança de CARDINALIDADE registrada na própria coleção, distinta de
+         uma proposta estrutural (config/structural-proposals.yaml), que é
+         mudança no nível da coleção."
+  values: [split, deduplicate]
+
+structural_changes.status:
+  status: observado
+  source: "collections/political-thought.md, collections/education.md"
+  values: [aplicado, aguarda-sua-confirmacao]
+
+edition_pref.kind:
+  status: observado
+  source: "collections/political-thought.md"
+  note: "`intencao` marca a preferência que nomeia um requisito ou um tradutor
+         em vez de identificar uma edição concreta."
+  values: [intencao]
+
+# ===========================================================================
+# OBRA
+# ===========================================================================
+form:
+  status: recuperado
+  source: "sources/blueprint-2026-09-05.md §C, tabela de dimensões de
+           classificação; a lista truncada em works/*.md termina aqui"
+  note: "A forma bibliográfica da unidade intelectual, distinta de work_type,
+         que é o gênero intelectual. Colapsar as duas é o que força toda
+         unidade intelectual a ser um 'livro' — e é por isso que as duas
+         conferências de Weber quase viraram um registro só."
+  values: [book, essay, lecture, speech, dialogue, treatise, novel, play]
+  observed_in_data: [lecture]
+
+work_type:
+  status: declarado-aberto
+  source: "works/*.md, comentário do campo — `primary-source | political-theory | … (§E)`;
+           categorias em sources/blueprint-2026-09-05.md §C"
+  note: "Pertence ao §E: é produto da pesquisa, não do import. Ver
+         bibliographic-rules.md §E.5. Hoje 52 dos 53 registros têm null.
+         O blueprint nomeia CINCO categorias — fonte primária, teoria,
+         sociologia, literatura, comentário — e serve à análise de equilíbrio
+         (o sinal da lacuna `type-monoculture`). Mas nomeia-as em prosa, e não
+         dá as formas de slug: os valores atestados abaixo vêm do comentário do
+         campo e do acervo. Um slug novo é decisão de classificação e vai a
+         revisão (curation-rules.md §6.8), não é escolhido em silêncio."
+  categories_named_in_blueprint: [fonte-primaria, teoria, sociologia,
+                                  literatura, comentario]
+  values: [primary-source, political-theory, literatura]
+  observed_in_data: [political-sociology]
+  added:
+    - value: literatura
+      by: voce
+      date: 2026-09-28
+      reason: "O documento fundador já nomeava 'literatura' entre as cinco
+               categorias, mas a forma do slug nunca tinha sido fixada, e por
+               isso toda obra literária do acervo estava classificada como
+               fonte primária — a mesma etiqueta de Tucídides. Isso fazia o
+               detector de equilíbrio de tipos medir errado. O valor foi
+               criado com a pesquisa do lote 2, quando seis romances entraram
+               de uma vez. É o que a obra É; como ela FUNCIONA numa coleção
+               continua sendo o papel da participação, que varia de coleção
+               para coleção — uma tragédia grega é literatura em qualquer
+               lugar, e é fonte primária em Greco-Romana e tratamento
+               literário em Política ao mesmo tempo."
+
+
+research_status:
+  status: recuperado
+  source: "sources/blueprint-2026-09-05.md §E, 'When is a work fully researched'"
+  note: "CORREÇÃO: a versão anterior deste arquivo listava
+         [not_researched, researched] e marcava-o como declarado-fechado. O
+         segundo valor era inferência minha, e estava errado — nenhum arquivo o
+         declarava. A lista real tem quatro valores. `partially_researched`
+         exige que os itens em falta sejam nomeados; `needs_review` é
+         automático quando a disponibilidade foi checada há mais de um ano — a
+         avaliação continua boa, a informação de compra não. Critério completo
+         em bibliographic-rules.md §E.4. Hoje todos os registros de obra e a
+         única publicação estão not_researched."
+  values: [not_researched, partially_researched, fully_researched, needs_review]
+
+priority_library:
+  status: observado
+  source: "review/gaps/*.yaml, blocos `placement`"
+  note: "Curatorial. Distinta de priority_personal, que é do Mathews e vem de
+         config/writable-fields.yaml. Nenhum registro de obra a tem preenchida
+         hoje — os valores abaixo ocorrem apenas em colocações propostas."
+  values: [core, secondary]
+
+relations.type:
+  status: declarado-no-codigo
+  source: "tools/build.py, mapa de relações inversas; glosas e inversas
+           confirmadas em sources/blueprint-2026-09-05.md §C"
+  note: "A build deriva a relação inversa a partir deste mapa. Um tipo fora
+         dele NÃO é erro: passa adiante sem inversão declarada, o que é a
+         forma silenciosa de corromper o grafo. `part_of` fica reservado a
+         volumes de uma obra autoral única — um ensaio numa coletânea de
+         editor é uma publicação que contém obras
+         (review/political-thought.md §2.3)."
+  values: [prerequisite_for, responds_to, criticizes, continues, influenced_by,
+           same_tradition_as, opposing_tradition_to, complements,
+           literary_treatment_of, primary_source_for, commentary_on, part_of]
+  observed_in_data: [complements]
+  glosses:
+    prerequisite_for:      "dependência real: não se segue B sem A"
+    responds_to:           "engajamento direto com um predecessor nomeado"
+    criticizes:            "ataque sustentado, não discordância de passagem"
+    continues:             "continuações e completamentos"
+    influenced_by:         "dívida formativa reconhecida"
+    same_tradition_as:     "simétrica. Usar com parcimônia — `traditions:` costuma bastar"
+    opposing_tradition_to: "simétrica. Discordância estrutural, não pessoal.
+                            É também o sinal da lacuna `one-sided-tradition`"
+    complements:           "simétrica. Melhor lidas juntas do que separadas"
+    literary_treatment_of: "Orwell para a teoria do totalitarismo"
+    primary_source_for:    "liga uma fonte ao seu comentário"
+    commentary_on:         "comentário acadêmico explícito"
+    part_of:               "obra dentro de obra autoral maior — um volume de uma
+                            obra em vários volumes. NÃO para ensaio em coletânea
+                            de editor: isso é uma publicação que contém obras"
+
+# ===========================================================================
+# PUBLICAÇÃO — todos declarados em publications/_TEMPLATE.md
+# ===========================================================================
+contains.verdict:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  note: "O veredito vive no par obra–publicação, nunca na publicação."
+  values: [recommended, alternative, rejected, unassessed]
+
+translated_from:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  values: [direct, "via:<lang>", unknown]
+
+completeness:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  values: [complete, abridged, selections]
+
+register:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  values: [critical, academic, popular, escolar]
+
+packaging:
+  status: declarado-fechado
+  display_term: "Box"   # decisão do Mathews, 2026-09-23: na tela e nos títulos,
+                        # a embalagem com vários volumes se chama "Box" (o termo
+                        # comum, também no Brasil), nunca "Caixa". O VALOR do
+                        # campo continua `caixa` para não quebrar os registros.
+  source: "publications/_TEMPLATE.md; decisão do Mathews, 2026-09-22"
+  note: "O objeto é um tomo único ou uma embalagem com vários? Independente de
+         quantas OBRAS ele contém: as duas dimensões se cruzam e produzem os
+         quatro casos que a interface precisa distinguir — caixa com obras
+         diferentes, obras num mesmo volume, edição de uma obra em vários
+         volumes, e caixa com os volumes de uma obra. Ausente = volume."
+  values: [volume, caixa]
+
+availability_br:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  values: [em-catalogo, esgotado, importacao, usado]
+
+provenance.confidence:
+  status: declarado-fechado
+  source: "publications/_TEMPLATE.md"
+  values: [verified, reported, inferred, unverified]
+
+source_tier:
+  status: parcialmente-recuperado
+  source: "config/acquisition.yaml; publications/_TEMPLATE.md"
+  note: "1–5 bibliográfico · 6–7 só disponibilidade. A definição interna de
+         1 a 5 NÃO é recuperável — ver bibliographic-rules.md §E.1 antes de
+         atribuir um tier."
+  values: [1, 2, 3, 4, 5, 6, 7]
+
+# ===========================================================================
+# AQUISIÇÃO E CAPA — declarados em config/acquisition.yaml
+# ===========================================================================
+match_basis:
+  status: declarado-fechado
+  source: "config/acquisition.yaml"
+  values: [isbn13, publisher-translator-year, publisher-year, unconfirmed]
+
+cover.source_type:
+  status: declarado-fechado
+  source: "config/acquisition.yaml"
+  values: [publisher, catalogue, retailer, scan]
+
+retailer:
+  status: lista-aberta-por-desenho
+  source: "config/acquisition.yaml"
+  note: "Acrescentar um vendedor legítimo é acrescentar uma entrada lá, com o
+         seu tier. A build valida contra aquele arquivo."
+  values: [amazon-br, estante-virtual, publisher-store, bookstore, import]
+
+# ===========================================================================
+# LACUNAS E PROPOSTAS — forma completa em config/gap-records.yaml
+# ===========================================================================
+gap.type:
+  status: recuperado
+  source: "sources/blueprint-2026-09-05.md §I, tabela de tipos e sinais;
+           `sequence-gap` vem do acervo (review/gaps/political-thought.yaml)"
+  note: "Cada tipo tem um SINAL nos dados, e o sinal vem antes do argumento. O
+         catálogo completo, com o sinal e o grau de julgamento de cada um, está
+         em config/gap-records.yaml. `sequence-gap` não consta do blueprint e é
+         um acréscimo posterior, em uso; os três tipos do blueprint que ainda
+         não ocorrem no acervo continuam válidos."
+  values: [dangling-interlocutor, broken-prerequisite, one-sided-tradition,
+           orphan-foundational, period-discontinuity, type-monoculture,
+           unanswered-movement, sequence-gap]
+  observed_in_data: [type-monoculture, period-discontinuity,
+                     dangling-interlocutor, sequence-gap, one-sided-tradition]
+
+gap.necessity:
+  status: observado
+  source: "review/gaps/*.yaml"
+  note: "Único eixo que determina prioridade (curation-rules.md §2.4). Os três
+         valores abaixo são os que ocorrem; a escala completa não está
+         declarada."
+  values: [alta, media-alta, media]
+
+gap.status:
+  status: recuperado
+  source: "sources/blueprint-2026-09-05.md §I, exemplo de registro de lacuna"
+  note: "Não confundir com o estado das PROPOSTAS ESTRUTURAIS
+         (open|approved|rejected, em config/structural-proposals.yaml): campos
+         diferentes, vocabulários diferentes. `accepted` é o estado de uma
+         lacuna fechada por uma obra que entrou; nesse caso a colocação herda o
+         argumento já escrito no registro em vez de o re-derivar. Só `open`
+         ocorre hoje, nas seis lacunas abertas."
+  values: [open, proposed, accepted, dismissed]
+  observed_in_data: [open]
+
+candidate.verdict:
+  status: parcialmente-recuperado
+  source: "review/gaps/*.yaml; sources/blueprint-2026-09-05.md §I"
+  note: "A correspondência com as quatro categorias de curation-rules.md §2.3,
+         que na volta anterior eu declarei não recuperável, ESTÁ no blueprint:
+         lacuna genuína → gap-filler, e só ela gera proposta · complementar →
+         registrada contra a lacuna como candidato considerado, não proposta ·
+         enriquecedora → lista por coleção, nunca surge sem ser pedida ·
+         redundante → registrada permanentemente, com a razão e as obras que
+         cobrem a contribuição. ATENÇÃO: só dois slugs estão atestados
+         (gap-filler, complementary). Os das duas últimas categorias não
+         aparecem em lado nenhum e NÃO foram inventados aqui.
+         `different-region` não consta do blueprint e é um acréscimo posterior,
+         em uso: marca o candidato que fecha OUTRA região do scope_map, e não
+         esta."
+  values: [gap-filler, complementary, different-region]
+  categories_without_attested_slug: [enriquecedora, redundante]
+
+settled.verdict:
+  status: observado
+  source: "review/gaps/political-thought.yaml"
+  values: [not-redundant]
+
+# ===========================================================================
+# PROVENIÊNCIA E ESTADO — declarados
+# ===========================================================================
+by:
+  status: declarado-fechado
+  source: "README §1 (`why_here_by`); usado em question_by, purpose_by,
+           declares_by, map_status, decision.by"
+  note: "De quem é o raciocínio. `decision.by` numa proposta estrutural tem de
+         ser `voce`: `claude` ali é erro de integridade."
+  values: [voce, claude]
+
+revalidation.status:
+  status: declarado-fechado
+  source: "README §3; curation-rules.md §0.3; calculado por tools/build.py"
+  note: "Derivado a cada build, nunca escrito em arquivo canônico."
+  values: [current, stale, unverifiable]
+
+# Estado pessoal: reading_status, priority_personal e ownership são declarados
+# em config/writable-fields.yaml, que é a lista branca de escrita da interface.
+# Não são repetidos aqui — aquele arquivo é a fonte, e duplicá-lo criaria duas
+# listas que divergem na primeira alteração.

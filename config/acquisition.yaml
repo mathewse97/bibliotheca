@@ -1,0 +1,148 @@
+# ---------------------------------------------------------------------------
+# AQUISIÇÃO E CAPA — configuração
+#
+# ONDE ISTO VIVE: na PUBLICAÇÃO, nunca na obra. Uma capa é a capa daquele
+# objeto físico; um anúncio é o anúncio daquele objeto físico. A obra é a
+# unidade intelectual e não tem capa nem preço.
+#
+# O QUE ISTO NÃO É: evidência bibliográfica. A hierarquia de fontes do §E
+# (config/bibliographic-rules.md) coloca vendedores nos níveis 6 e 7 — bons
+# para estabelecer que um livro existe e pode ser comprado, e para
+# absolutamente mais nada. Este arquivo não afroixa essa regra; dá-lhe uma
+# forma, e as atribuições de tier abaixo são a parte do §E que sobreviveu.
+#
+# Qualidade bibliográfica, qualidade de edição, confiabilidade textual,
+# qualidade de tradução e decisões curatoriais permanecem INDEPENDENTES de
+# popularidade, avaliações, ranking ou disponibilidade na Amazon. Ausência de
+# anúncio não é defeito bibliográfico.
+# ---------------------------------------------------------------------------
+version: 1
+
+# ---------------------------------------------------------------------------
+# VENDEDORES E FONTES DE AQUISIÇÃO
+# Lista aberta: acrescentar um vendedor legítimo é acrescentar uma entrada.
+# `source_tier` é o mesmo tier do §E — 6 e 7 nunca sustentam juízo de valor.
+# As faixas: 1–5 é evidência bibliográfica, 6–7 é só disponibilidade. A
+# hierarquia completa 1–7 está em bibliographic-rules.md §E.1. Note a sutileza:
+# a PÁGINA BIBLIOGRÁFICA da editora é tier 1; a LOJA da mesma editora é tier 6.
+# ---------------------------------------------------------------------------
+retailers:
+  amazon-br:
+    name: "Amazon Brasil"
+    country: BR
+    kind: retailer
+    source_tier: 7
+    id_field: ASIN
+  estante-virtual:
+    name: "Estante Virtual"
+    country: BR
+    kind: used-marketplace
+    source_tier: 7
+    note: "Usados e esgotados. Anúncio individual pode desaparecer sem aviso."
+  publisher-store:
+    name: "Loja da própria editora"
+    country: null
+    kind: publisher
+    source_tier: 6
+    note: "Tier 6: mais confiável para identificar a edição correta que um
+           marketplace, e ainda assim só para disponibilidade."
+  bookstore:
+    name: "Livraria (física ou online)"
+    country: null
+    kind: retailer
+    source_tier: 6
+  import:
+    name: "Importação"
+    country: null
+    kind: retailer
+    source_tier: 7
+
+# ---------------------------------------------------------------------------
+# BASE DE CORRESPONDÊNCIA — o campo que impede a fabricação.
+#
+# Um anúncio só significa alguma coisa se soubermos COMO sabemos que é ESTA
+# publicação. Marketplaces fundem edições rotineiramente: mesmo título, outra
+# editora, outro tradutor, avaliações somadas. Sem esta declaração, um link é
+# um palpite com aparência de dado.
+# ---------------------------------------------------------------------------
+match_basis:
+  isbn13:
+    actionable: true
+    means: "O ISBN do anúncio confere com o isbn13 desta publicação."
+  publisher-translator-year:
+    actionable: true
+    means: "Sem ISBN no anúncio, mas editora, tradutor e ano conferem com
+            esta publicação, verificados na própria página."
+  publisher-year:
+    actionable: true
+    means: "Editora e ano conferem; tradutor não consta no anúncio. Aceitável
+            quando a publicação tem tradutor único e conhecido."
+  unconfirmed:
+    actionable: false
+    means: "Não foi possível confirmar que o anúncio é desta edição. O
+            registro é guardado como pista, e a interface NÃO o apresenta
+            como opção de compra desta edição."
+
+# ---------------------------------------------------------------------------
+# FRESCOR — disponibilidade é o dado que envelhece mais depressa da biblioteca.
+# Dias desde `checked`. Nada expira sozinho; o estado fica visível.
+# ---------------------------------------------------------------------------
+freshness_days:
+  fresh: 90
+  aging: 365          # acima disto: stale
+
+# ---------------------------------------------------------------------------
+# CAPAS
+# O arquivo de imagem vive no repositório, não como link remoto: um link de
+# imagem de vendedor quebra, muda de edição sem aviso, e não funciona offline.
+# A build embute a imagem na interface gerada quando cabe no limite.
+# ---------------------------------------------------------------------------
+cover:
+  dir: "covers/"
+  filename: "<publication-id>.<ext>"
+  allowed_ext: [".jpg", ".jpeg", ".png", ".webp"]
+  embed_max_bytes: 400000
+  stored_format: ".webp"         # decisão do Mathews, 2026-09-23: capas guardadas em
+                                 # WebP (qualidade 80), nas dimensões originais. Motivo:
+                                 # o artefato tem limite de 16 MB e embute as capas.
+                                 # Com ~100 capas o limite volta; a saída já avaliada
+                                 # é publicar as capas como arquivos à parte no artefato.
+  display_max_height: 700        # decisão do Mathews, 2026-09-25: a interface embute uma
+                                 # CÓPIA LEVE de cada capa (até 700 px de altura, WebP q80),
+                                 # gerada pela build. O arquivo em covers/ não é alterado.
+                                 # Motivo: o artefato tem limite de 16 MB. Sem Pillow
+                                 # instalado, a build embute o original.
+  represents: publication      # valor obrigatório e único. Nunca `work`
+  required_fields: [file, source, source_type, checked]
+  source_types: [publisher, catalogue, retailer, scan]
+  rules:
+    - "`source` é a URL ou a descrição literal de onde a imagem veio. Nunca
+       inventada, nunca deixada em branco."
+    - "Uma capa de vendedor pode não corresponder à edição anunciada. Vale a
+       mesma exigência de correspondência: registre em `source_type` de onde
+       veio e confirme que é a edição certa antes de guardar."
+    - "Sem fonte confiável, não há capa. Ausência de capa nunca é defeito."
+
+# ---------------------------------------------------------------------------
+# REGRAS QUE A BUILD VERIFICA
+# ---------------------------------------------------------------------------
+validation:
+  - "retailer tem de existir em `retailers`."
+  - "match_basis tem de existir em `match_basis`."
+  - "uma entrada com `url` exige `checked` e `match_basis`."
+  - "match_basis `unconfirmed` marca a entrada como não acionável."
+  - "capa exige os `cover.required_fields` e o arquivo tem de existir em disco."
+  - "cover.represents tem de ser `publication`."
+
+# ---------------------------------------------------------------------------
+# O QUE NÃO ENTRA, NUNCA
+# ---------------------------------------------------------------------------
+never:
+  - "Avaliações, notas, número de avaliações, ranking de vendas ou selos de
+     vendedor. Nada disso é evidência de qualidade, e guardá-los convidaria a
+     usá-los."
+  - "Preço exato. Só `price_band`, e só como desempate final."
+  - "Link, ASIN, ISBN, correspondência de edição ou fonte de capa inventados
+     ou deduzidos. Na dúvida, o campo fica vazio."
+  - "Qualquer influência de disponibilidade sobre `verdict`, `necessity` ou
+     prioridade. Disponibilidade é contexto (curation-rules.md §2.4)."

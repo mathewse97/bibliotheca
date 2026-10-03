@@ -1,0 +1,90 @@
+# ---------------------------------------------------------------------------
+# MODELO — não é uma proposta. O prefixo `_` faz a build ignorar este arquivo.
+#
+# Propostas reais vivem em review/structural/<colecao>.yaml.
+# O esquema, os tipos e o portão de aprovação estão em
+# config/structural-proposals.yaml.
+#
+# NÃO HÁ NENHUMA PROPOSTA ABERTA HOJE. Este diretório contém só este modelo,
+# e essa ausência é o estado correto: propostas estruturais nascem de
+# evidência acumulada, não de infraestrutura recém-criada.
+# ---------------------------------------------------------------------------
+collection: <colecao-principal>
+by: claude
+date: <AAAA-MM-DD>
+
+proposals:
+
+  # ---- exemplo de REFINE (degrau 3) -------------------------------------
+  - id: <colecao>--sp01
+    type: refine
+    affects: [<colecao>]
+    statement: >
+      O problema estrutural, em prosa. Não "a coleção poderia ser melhor",
+      mas o que na pergunta, no escopo ou nos critérios deixou de descrever
+      o que a coleção de fato é.
+    evidence:
+      - claim: "A afirmação estrutural, em prosa."
+        check: {type: count_members, collection: <colecao>,
+                where: {work_type: primary-source}, expect: 0}
+      - claim: "Uma afirmação que depende de julgamento."
+        check: null
+        checkable: false
+        reason: "Por que não pode ser verificada por máquina."
+    proposed:
+      question: "A pergunta alternativa, se for o caso."
+      inclusion_criteria: ["..."]
+      note: "O que muda, e o que explicitamente NÃO muda."
+    status: open
+    provisional: false
+    recheck_after: null
+    raised: <AAAA-MM-DD>
+
+  # ---- exemplo de RENAME (degrau 4) -------------------------------------
+  # - id: <colecao>--sp02
+  #   type: rename
+  #   affects: [<colecao>]
+  #   statement: >
+  #     O nome deixou de representar a pergunta.
+  #   proposed:
+  #     new_id: <novo-id>
+  #     new_title_pt: "Novo Nome"
+  #   status: open
+
+  # ---- exemplo de SPLIT (degrau 5) --------------------------------------
+  # - id: <colecao>--sp03
+  #   type: split
+  #   affects: [<colecao>]
+  #   statement: >
+  #     Os membros desenvolveram duas perguntas distintas, e a ambiguidade
+  #     está corrompendo a maquinaria de escopo: a cobertura mede contra a
+  #     união de dois territórios. Ver curation-rules.md §4, a exceção.
+  #   proposed:
+  #     creates: [<colecao-a>, <colecao-b>]
+  #     member_allocation:
+  #       <colecao-a>: [<work-id>, <work-id>]
+  #       <colecao-b>: [<work-id>]
+  #     note: "Que obras ficam em qual, e por quê."
+  #   status: open
+
+  # ---- exemplo de MERGE (degrau 6) --------------------------------------
+  # - id: <colecao>--sp04
+  #   type: merge
+  #   affects: [<colecao>, <outra-colecao>]
+  #   statement: >
+  #     A distinção deixou de ser intelectualmente significativa.
+  #   proposed:
+  #     into: <colecao-resultante>
+  #   status: open
+
+  # ---- forma de uma proposta DECIDIDA -----------------------------------
+  # status: approved            # ou rejected
+  # decision:
+  #   by: voce                  # `claude` aqui é ERRO de integridade
+  #   date: <AAAA-MM-DD>
+  #   rationale: "Por que você aprovou ou recusou. Fica no arquivo para que
+  #               a mesma proposta não volte."
+  #
+  # Uma proposta `approved` autoriza a mudança. Ao aplicá-la, a coleção
+  # afetada ganha uma entrada de `lineage` que cita esta proposta pelo id —
+  # e a build verifica que a proposta citada existe e está aprovada.

@@ -1,0 +1,223 @@
+# ---------------------------------------------------------------------------
+# ESQUEMA DOS REGISTROS DE LACUNA
+#
+# Uma lacuna é uma ausência medida contra um território DECLARADO. Sem escopo
+# declarado não há contra o que medir, e por isso `culture` não tem arquivo de
+# lacunas — essa ausência é a resposta, não um esquecimento
+# (review/culture.md §5).
+#
+# A DIFERENÇA em relação a uma proposta estrutural: uma lacuna aponta uma
+# ausência DENTRO de um escopo; uma proposta questiona o próprio escopo
+# (config/structural-proposals.yaml).
+#
+# Este arquivo é configuração: define a forma. Não contém nenhuma lacuna.
+#
+# POR QUE EXISTE: a build lê review/gaps/*.yaml e reexecuta a evidência de cada
+# lacuna a cada execução, mas a FORMA do registro só existia nos dois arquivos
+# de exemplo e no código. As regras de julgamento sobre lacunas e recomendações
+# — o §I — vivem em config/curation-rules.md (§2.1 a §2.7 e §7); este arquivo é
+# a forma, não o julgamento.
+# ---------------------------------------------------------------------------
+version: 1
+
+location: "review/gaps/<colecao>.yaml"
+record_key: gaps
+prose_counterpart: "review/<colecao>.md — canônica para o ARGUMENTO; este
+                    arquivo é canônico para o ESTADO"
+
+# ---------------------------------------------------------------------------
+# BLOCOS DE NÍVEL SUPERIOR, como observados nos arquivos existentes
+# ---------------------------------------------------------------------------
+file_fields:
+  collection:     "id da coleção"
+  extracted_from: "o arquivo de revisão de que este é a extração estruturada"
+  by:             "voce | claude"
+  date:           "AAAA-MM-DD"
+  gaps:           "a lista de registros — ver `gap_fields`"
+  coverage:       "opcional. Resumo do scope_map com `summary: {covered, thin,
+                   absent}`, mais `provisional` e `recheck_after` quando a
+                   leitura depende de cobertura cruzada"
+  settled:        "opcional. Vereditos registrados para NÃO voltarem à
+                   discussão — {subject, verdict, reason, date}. É o mecanismo
+                   que impede a mesma sugestão de regressar todo ano
+                   (curation-rules.md §2.3)"
+  memberships_not_gaps:
+                  "opcional. Obras JÁ na biblioteca que a lacuna pediria. Não
+                   são compras: são novas participações do mesmo registro
+                   canônico. Ver curation-rules.md §2.7"
+
+# ---------------------------------------------------------------------------
+# O REGISTRO DE LACUNA
+# ---------------------------------------------------------------------------
+required_fields: [id, type, necessity, status, statement]
+
+gap_fields:
+  id:          "<colecao>--g<NN>, sequencial e permanente"
+  type:        "a natureza estrutural da ausência. Vocabulário observado em
+                config/vocabularies.yaml, `gap.type` — aberto"
+  necessity:   "quanto o argumento da coleção enfraquece sem a obra. É o ÚNICO
+                eixo que determina prioridade (curation-rules.md §2.4)"
+  context:     "disponibilidade, idioma, proximidade cultural, saliência local.
+                Registrado e NUNCA hierarquiza; atua só como desempate entre
+                candidatos de necessidade comparável. `null` é válido"
+  status:      "estado da lacuna"
+  statement:   "a ausência, em prosa"
+  evidence:    "lista de {claim, check} — ver `evidence` abaixo"
+  candidates:  "OPCIONAL. `[]` é detecção pura: o problema está registrado e
+                nenhuma obra foi proposta. Estado normal, não incompleto
+                (curation-rules.md §2.2)"
+  provisional: "true quando a conclusão depende de evidência que ainda vai
+                chegar"
+  recheck_after: "condição de adiamento, ex.: outras-colecoes-importadas"
+  only_visible_under: "opcional. A hipótese de escopo sob a qual esta lacuna
+                       existe — uma lacuna pode ser invisível sob outra"
+  raised:      "AAAA-MM-DD"
+
+# ---------------------------------------------------------------------------
+# EVIDÊNCIA — a mesma disciplina das propostas estruturais
+#
+# Cada item guarda a prosa original em `claim` e, quando a afirmação é
+# estrutural, um `check`: um predicado sobre a biblioteca, reexecutado a cada
+# build. `check` pode ser um predicado, uma lista deles (todos têm de valer),
+# ou null.
+#
+# `check: null` + `checkable: false` + `reason` é uma admissão deliberada: a
+# afirmação depende de julgamento e não pode ser revalidada por máquina.
+# Fingir um predicado ali é pior do que assumir o limite (curation-rules.md
+# §0.3).
+# ---------------------------------------------------------------------------
+evidence:
+  item_fields: [claim, check, checkable, reason]
+
+revalidation:
+  computed_by: "tools/build.py, a cada build"
+  written_to:  "_generated/index.json apenas. NUNCA a um arquivo canônico"
+  statuses:
+    current:      "toda a evidência verificável ainda confere"
+    stale:        "a biblioteca mudou e parte da evidência deixou de valer"
+    unverifiable: "nenhuma evidência é verificável por máquina"
+
+# ---------------------------------------------------------------------------
+# CATÁLOGO DE PREDICADOS — os tipos que tools/build.py sabe executar.
+# Um `type` fora desta lista não derruba a build: devolve
+# "tipo de check desconhecido" e a evidência deixa de ser verificável.
+# ---------------------------------------------------------------------------
+check_types:
+  count_members:
+    params: [collection, "after?", "before?", "where?", expect]
+    means: "Conta membros da coleção, opcionalmente só os que ficam entre duas
+            obras da sequência. `where` casa campos da PARTICIPAÇÃO (role,
+            demand, core) ou da OBRA (work_type, form, …)"
+  region:
+    params: [collection, region, expect]
+    means: "Estado de uma região do scope_map. `expect` é um mapa de campos,
+            ex.: {coverage: absent}"
+  region_count:
+    params: [collection, where, expect]
+    means: "Quantas regiões do scope_map casam com `where`"
+  member_present:
+    params: [collection, work, "expect?"]
+    means: "Se uma obra é membro da coleção. `expect` implícito: true"
+  count_tensions:
+    params: [collection, expect]
+    means: "Número de pares em `tensions`"
+  tension_present:
+    params: [collection, a, b, "expect?"]
+    means: "Se existe um par de tensão entre duas obras. A ordem não importa"
+  relation_count:
+    params: [from, to, "types?", expect]
+    means: "Quantas relações de `from` apontam para `to`, opcionalmente
+            filtradas por tipo. É o predicado que distingue uma oposição que
+            existe na ESTRUTURA da coleção de uma que existe nos TEXTOS"
+
+expect_forms:
+  literal: "valor exato — `expect: 0`"
+  operators: "mapa com eq | ne | gt | gte | lt | lte, todos têm de valer"
+
+# ---------------------------------------------------------------------------
+# CATÁLOGO DE TIPOS DE LACUNA — cada tipo tem um SINAL nos dados
+#
+# A detecção é ESTRUTURAL, não generativa: um candidato só se propõe onde o
+# grafo da própria biblioteca mostra um buraco. O sinal vem primeiro, o
+# argumento vem depois. Nenhum destes tipos é "aqui estão mais dez livros sobre
+# política", e essa distinção é o ponto inteiro da tabela.
+#
+# [recuperado: sources/blueprint-2026-09-05.md §I]
+#
+# NENHUM destes detectores está implementado — quem percebe o sinal é o agente.
+# Ver curation-rules.md §8.2.
+# ---------------------------------------------------------------------------
+gap_types:
+  dangling-interlocutor:
+    signal: "uma aresta responds_to, criticizes ou opposing_tradition_to cujo
+             alvo não está na biblioteca"
+    judgement: nenhum
+    note: "Detecção pura: a biblioteca já afirma que a obra importa."
+  broken-prerequisite:
+    signal: "um `requires:` apontando para obra ausente da coleção"
+    judgement: nenhum
+    note: "Ou se acrescenta a obra, ou a dependência era uma afirmação
+           universal disfarçada."
+  one-sided-tradition:
+    signal: "uma tradição que aparece só como alvo de opposing_tradition_to e
+             nunca como `traditions:` própria de uma obra da coleção"
+    judgement: baixo
+    note: "A contagem é mecânica; que obra representa melhor a tradição, não."
+  orphan-foundational:
+    signal: "uma obra com role: foundational sem nenhuma critical-response na
+             mesma coleção"
+    judgement: baixo
+    note: "Algumas fundações genuinamente não têm resposta séria no escopo."
+  period-discontinuity:
+    signal: "um intervalo dentro da faixa de períodos da coleção sem nenhum
+             membro"
+    judgement: medio
+    note: "Um silêncio pode ser deliberado."
+  type-monoculture:
+    signal: "distribuição de work_type enviesada além de um limiar — só teoria,
+             sem tratamento empírico, histórico ou literário"
+    judgement: medio
+    note: "Algumas perguntas são mesmo puramente teóricas."
+  unanswered-movement:
+    signal: "um movimento cujo propósito declarado não é alcançável pelas obras
+             que ele contém"
+    judgement: alto
+    note: "Este é genuinamente do agente para argumentar."
+  sequence-gap:
+    signal: "—"
+    judgement: medio
+    note: "ACRÉSCIMO POSTERIOR, em uso em review/gaps/political-thought.yaml
+           (g02) e sem sinal declarado no blueprint. O termo médio ausente
+           entre duas obras da sequência que se pressupõem."
+
+# ---------------------------------------------------------------------------
+# DUAS REGRAS QUE MANTÊM O VOLUME HONESTO
+# [recuperado: sources/blueprint-2026-09-05.md §I]
+# ---------------------------------------------------------------------------
+volume_rules:
+  no_record_no_recommendation:
+    rule: "Toda proposta tem de nomear a lacuna que fecha, PELO ID. Um livro
+           que o agente apenas ache interessante não tem onde ir — não existe
+           campo para ele."
+    why: "Essa única restrição remove a maior parte do ruído antes de ele ser
+          escrito."
+  proposal_is_a_placement:
+    rule: "Um candidato chega com tudo o que é preciso para o julgar como
+           decisão, e não como sugestão: a que coleções pertence, o papel em
+           cada uma, a prioridade, onde entra na sequência, os prerequisitos,
+           as relações com obras já presentes, e por que é preferível às
+           alternativas consideradas."
+    also: "Uma obra sem edição obtenível nos idiomas do Mathews é sinalizada
+           como tal no momento da proposta: isso muda se a proposta é sequer
+           acionável."
+  cap: "Três propostas abertas por coleção. A regra e a sua razão estão em
+        curation-rules.md §2.2 — cobertura não tem teto, propostas têm."
+
+# ---------------------------------------------------------------------------
+# O QUE ESTE ARQUIVO NÃO DECIDE
+#
+# Quando uma lacuna deve ser registrada, quantas propostas podem estar abertas,
+# se um candidato deve sequer ser proposto, e como necessidade e contexto se
+# relacionam: tudo isso é julgamento, e vive em config/curation-rules.md.
+# Detectar e revalidar é automático; propor obras não é (§2.2).
+# ---------------------------------------------------------------------------

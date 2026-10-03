@@ -1,0 +1,650 @@
+# ---------------------------------------------------------------------------
+# DECISÕES — a caixa de entrada do Mathews (tela "Decisões")
+#
+# Formato aprovado por ele em 2026-09-25 (protótipo "Decisões"). Cada item é
+# uma pergunta que só ele responde, escrita PARA ELE: pergunta em linguagem
+# corrente, por que importa, opções com o que muda em cada uma, e a
+# recomendação do agente com a razão. Ver config/interface-rules.md §7.
+#
+# Os registros técnicos (lacunas em review/gaps/, propostas em
+# review/structural/) continuam sendo o registro de pesquisa; este arquivo é a
+# forma decidível deles. `source` liga o item ao registro de origem.
+#
+# Campos:
+#   id, kind (obra | edicao | posicao | colecao | lugar | regra), collections [ids],
+#   priority (alta | media | baixa | null), state (decidir | aguardando | decidida),
+#   question, why, update (opcional), options [{key, title, effect, recommended}],
+#   recommendation (por que a recomendada), candidates (kind obra),
+#   editions (kind edicao), work + collection (kind posicao),
+#   composition: true (mostra a composição da coleção por movimento),
+#   waiting_for (state aguardando), signals (opcional), source,
+#   decided {date, choice, note} (state decidida).
+#
+# Um cartão decidido CONTINUA na seção temática em que nasceu, com as opções e
+# os candidatos preservados — é o registro de por que a escolha foi feita. Quem
+# separa as três telas é o campo `state`, não a posição no arquivo.
+#
+# Quando ele responde: o agente aplica a escolha nos arquivos, muda `state`
+# para `decidida`, preenche `decided` e atualiza o registro de origem.
+# ---------------------------------------------------------------------------
+
+items:
+
+# ============================== ADICIONAR OBRA ==============================
+
+- id: d-edu-fonte
+  kind: obra
+  collections: [education]
+  priority: alta
+  state: decidir
+  source: education--g01
+  question: "Incluir em Educação um texto em que o ideal clássico é praticado, e não só contado?"
+  why: "A coleção percorre dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Das 14 obras, só uma está registrada como fonte primária: Illich, que critica a escola. Nenhum texto da própria tradição clássica está lá."
+  update: "Atualizado: quando esta questão foi aberta, a coleção tinha 9 obras."
+  options:
+    - {key: A, recommended: true, title: "Incluir Agostinho, *A Doutrina Cristã*", effect: "Entra no movimento I, logo depois de Nunes, *Antiguidade Cristã*. Leitura exigente. Eu pesquiso e registro a melhor edição."}
+    - {key: B, title: "Incluir Agostinho e Hugo de São Vítor, *Didascalicon*", effect: "Duas fontes: Agostinho no mundo cristão antigo, Hugo na Idade Média (curto). Hugo tem pouca edição em português."}
+    - {key: C, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: D, title: "Descartar", effect: "A coleção fica deliberadamente só com estudos sobre a educação. A questão é arquivada."}
+  recommendation: "a sua justificativa de Nunes diz que o cristianismo não abandona a tradição clássica, mas a incorpora e transforma. Esse é exatamente o tema de *A Doutrina Cristã*: Nunes narra o processo, Agostinho é o processo. E tem boas edições em português."
+  composition: true
+  composition_note: "Nenhuma das 14 é um texto da própria tradição clássica."
+  candidates:
+    - {title: "A Doutrina Cristã", author: "Agostinho · séc. IV–V", verdict: resolve, best: true, adds: "O Livro IV é o momento em que a retórica clássica é posta a serviço do cristianismo — o que Nunes narra, aqui acontece.", facts: ["Movimento I, após Nunes", "+Boas edições em português"]}
+    - {title: "Didascalicon", author: "Hugo de São Vítor · séc. XII", verdict: resolve, adds: "O texto medieval sobre a ordem das artes. Melhor escolha se você quiser duas fontes.", facts: ["Curto", "-Pouca edição em português"]}
+    - {title: "Instituição Oratória", author: "Quintiliano · séc. I", verdict: complementa, adds: "Excelente, mas o movimento I já tem Marrou como guia dessa época.", facts: ["Volumoso", "-Pouca edição em português"]}
+    - {title: "Didática Magna", author: "Comênio · séc. XVII", verdict: complementa, adds: "Já é o modelo moderno que confronta a tradição, não a tradição."}
+
+- id: d-edu-dewey
+  kind: obra
+  collections: [education]
+  priority: alta
+  state: decidir
+  source: education--g03
+  question: "Incluir em Educação a posição que Adler combate: a educação progressista, na voz de Dewey?"
+  why: "A proposta de Adler nasceu contra a educação progressista, e Hirsch também a ataca. A coleção tem os críticos, mas não o texto criticado — você lê a resposta sem ler aquilo a que ela responde."
+  update: "Atualizado: desde que a questão foi aberta entraram Hirsch (que critica a educação progressista de fora) e Illich (que recusa a escola inteira). Nenhum dos dois é a voz da posição progressista."
+  options:
+    - {key: A, recommended: true, title: "Incluir Dewey, *Democracia e Educação*", effect: "Entra no movimento II, ao lado das posições em disputa. Eu pesquiso e registro a melhor edição."}
+    - {key: B, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: C, title: "Descartar", effect: "A coleção fica sem a voz progressista; a questão é arquivada."}
+  recommendation: "é a exposição sistemática da posição contrária, escrita por quem a formulou. Com ela, Adler e Hirsch deixam de discutir com uma ausência. Há tradução em português."
+  candidates:
+    - {title: "Democracia e Educação", author: "John Dewey · 1916", verdict: resolve, best: true, adds: "A posição progressista exposta por quem a formulou.", facts: ["Movimento II", "+Há tradução em português"]}
+    - {title: "Pedagogia do Oprimido", author: "Paulo Freire · 1968", verdict: outra, adds: "Não é o interlocutor de Adler: responde a outra pergunta (a pedagogia crítica). Tem valor próprio, mas não resolve esta questão."}
+
+- id: d-edu-newman
+  kind: obra
+  collections: [education]
+  priority: media
+  state: decidir
+  source: education--g02
+  question: "Preencher em Educação o salto de dois séculos entre Nunes e Adler?"
+  why: "A cadeia vai da educação no século XVII (Nunes) direto para Adler, em 1982. Ficam de fora os séculos em que o ideal clássico foi desmontado e defendido."
+  options:
+    - {key: A, recommended: true, title: "Incluir Newman, *A Ideia de uma Universidade*", effect: "Entra no movimento I, depois de Nunes, *Século XVII*. Eu verifico se há boa edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: C, title: "Descartar", effect: "O salto fica como está; a questão é arquivada."}
+  recommendation: "é a defesa mais forte do ideal de formação liberal escrita depois de ele ter sido posto em causa. Newman fez para a universidade o que Adler faz para a escola. A edição em português pode ser difícil — isso muda o custo, não a importância."
+  candidates:
+    - {title: "A Ideia de uma Universidade", author: "John Henry Newman · 1852", verdict: resolve, best: true, adds: "A defesa clássica da formação liberal no século XIX.", facts: ["Movimento I, após Nunes", "-Edição em português a verificar"]}
+
+- id: d-pol-nozick
+  kind: obra
+  collections: [political-thought]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Opção A — incluir Nozick, *Anarquia, Estado e Utopia*, no movimento VIII, logo depois de Rawls.", note: "Falta a pesquisa bibliográfica da edição em português e o registro da obra; está na fila de pesquisa aberta nesta data."}
+  source: political-thought--g01
+  question: "Incluir em Política uma resposta direta a Rawls?"
+  why: "A coleção põe Rawls e a crítica libertária frente a frente, mas Rothbard e Hoppe não respondem a Rawls: partem de outra fundamentação e não discutem o argumento dele. A oposição está na ordem da coleção, não nos textos."
+  options:
+    - {key: A, recommended: true, title: "Incluir Nozick, *Anarquia, Estado e Utopia*", effect: "Entra no movimento VIII, logo depois de Rawls. Eu pesquiso a edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: C, title: "Descartar", effect: "A oposição fica só implícita; a questão é arquivada."}
+  recommendation: "é a resposta canônica a *Uma Teoria da Justiça*, escrita contra ela. É o livro que fez o debate existir."
+  candidates:
+    - {title: "Anarquia, Estado e Utopia", author: "Robert Nozick · 1974", verdict: resolve, best: true, adds: "Resposta direta e canônica a Rawls.", facts: ["Movimento VIII, após Rawls", "-Edição em português a verificar"]}
+
+- id: d-pol-federalista
+  kind: obra
+  collections: [political-thought]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Opção A — incluir *O Federalista* (Hamilton, Madison e Jay) no movimento IV, logo depois de Montesquieu.", note: "Falta a pesquisa bibliográfica da edição e o registro da obra; está na fila de pesquisa aberta nesta data."}
+  source: political-thought--g02
+  question: "Incluir em Política o momento em que a separação de poderes foi projetada?"
+  why: "Montesquieu dá a teoria; Tocqueville descreve o que ela virou numa sociedade real. Falta o texto em que ela foi desenhada e defendida por quem precisava fazê-la funcionar — e Tocqueville supõe que você o conhece."
+  options:
+    - {key: A, recommended: true, title: "Incluir *O Federalista* (Hamilton, Madison e Jay)", effect: "Entra no movimento IV, logo depois de Montesquieu. Eu pesquiso a edição."}
+    - {key: B, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: C, title: "Descartar", effect: "A questão é arquivada."}
+  recommendation: "é fonte primária, não comentário: o único texto em que a arquitetura constitucional é argumentada por quem ia governar com ela. Liga Montesquieu a Tocqueville."
+  candidates:
+    - {title: "O Federalista", author: "Hamilton, Madison e Jay · 1787–88", verdict: resolve, best: true, adds: "A separação de poderes argumentada por quem a fez funcionar.", facts: ["Movimento IV, após Montesquieu"]}
+
+- id: d-pol-autoritaria
+  kind: obra
+  collections: [political-thought]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Opção A — incluir *A Personalidade Autoritária* (Adorno e outros) no movimento VII, depois de Arendt.", note: "Obra extensa: falta verificar que edição existe em português e em que forma (integral ou condensada), e registrar a obra. Está na fila de pesquisa aberta nesta data."}
+  source: political-thought--g06
+  question: "Incluir em Política a explicação de como se forma quem está disposto a obedecer?"
+  why: "A coleção descreve o totalitarismo por fora — Arendt, Schmitt, Michels, Koestler. Falta a peça que explica o lado de dentro: como se forma o indivíduo que adere. Esse foi o programa da Escola de Frankfurt, e nenhuma obra dela sobre o assunto está no acervo."
+  options:
+    - {key: A, recommended: true, title: "Incluir *A Personalidade Autoritária* (Adorno e outros)", effect: "Entra no movimento VII, depois de Arendt. Obra extensa; eu verifico a edição disponível."}
+    - {key: B, title: "Agora não", effect: "Nada muda."}
+    - {key: C, title: "Descartar", effect: "A questão é arquivada."}
+  recommendation: "é onde a tese está escrita pelos próprios autores, com a pesquisa que a testou, e não pelos seus críticos."
+  candidates:
+    - {title: "A Personalidade Autoritária", author: "Adorno, Frenkel-Brunswik, Levinson e Sanford · 1950", verdict: resolve, best: true, adds: "O estudo empírico em que a tese é formulada e testada.", facts: ["Movimento VII, após Arendt", "Extenso", "-Edição a verificar"]}
+    - {title: "Estudos sobre Autoridade e Família", author: "Horkheimer (org.) · 1936", verdict: complementa, adds: "O antecedente direto, com a parte de Erich Fromm.", facts: ["-Provavelmente sem edição em português"]}
+    - {title: "Eros e Civilização", author: "Marcuse · 1955", verdict: outra, adds: "A outra ponta da tese; pertenceria a Cultura, ao lado de Freud, e não a Política."}
+
+- id: d-rel-eliade
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: religion--g01
+  question: "Incluir em Religião uma voz que conteste o método de Eliade?"
+  why: "Seis das 30 obras são de Eliade — cerca de 2.600 páginas, um quinto da coleção — e todas defendem a mesma ideia: existe uma estrutura do sagrado comum a todas as culturas. Essa ideia é contestada há décadas, e a coleção não tem nenhuma obra que apresente a contestação. Berger é um bom contraponto, mas muda de assunto em vez de responder."
+  options:
+    - {key: A, recommended: true, title: "Incluir J. Z. Smith, *To Take Place*", effect: "Entra no movimento II, o da teoria do fenômeno religioso. Livro curto, em inglês."}
+    - {key: B, title: "Agora não", effect: "Nada muda."}
+    - {key: C, title: "Descartar", effect: "A coleção fica com a lente de Eliade como principal; a questão é arquivada."}
+  recommendation: "Smith volta aos próprios exemplos que Eliade usou como prova e mostra que as fontes não dizem o que Eliade afirma. A conclusão — o padrão é obra de quem compara — é exatamente a contestação que falta."
+  candidates:
+    - {title: "To Take Place: Toward Theory in Ritual", author: "Jonathan Z. Smith · 1987", verdict: resolve, best: true, adds: "Refaz os exemplos de Eliade e mostra onde eles não se sustentam.", facts: ["Movimento II", "~180 p.", "-Em inglês"]}
+
+- id: d-rel-especificas
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: religion--g02
+  question: "O movimento \"Religiões específicas\" deve cobrir o que a frase dele promete?"
+  why: "Você escreveu sob o título: \"Budismo, hinduísmo, islamismo, judaísmo etc.\". O movimento tem duas obras, e as duas são de budismo. Hinduísmo, islamismo e judaísmo como tradição viva não aparecem em nenhuma obra da coleção."
+  options:
+    - {key: A, title: "Quero sugestões", effect: "Eu trago uma comparação de introduções e fontes para hinduísmo, islamismo e judaísmo, uma por tradição, para você escolher."}
+    - {key: B, recommended: true, title: "Agora não", effect: "Nada muda. A questão volta depois que outras coleções forem importadas."}
+    - {key: C, title: "Ajustar a frase do movimento", effect: "O movimento passa a dizer o que contém (budismo). As outras tradições saem do escopo declarado."}
+  recommendation: "são três tradições inteiras; faz mais sentido decidir depois de ver as outras coleções importadas, para não criar três lacunas de compra de uma vez. Não há aqui nenhuma compra devida."
+  composition: true
+
+- id: d-rel-cristianismo
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: religion--g03
+  question: "O movimento \"Cristianismo\" deve ter o cristianismo como assunto próprio?"
+  why: "A frase dele promete Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. Hoje o movimento tem a Bíblia de Jefferson, as cartas de Francisco Xavier e *Cruzando o Limiar da Esperança* — nenhum Padre da Igreja, nenhuma escolástica, nenhuma Reforma."
+  options:
+    - {key: A, recommended: true, title: "Incluir *A Cidade de Deus*, de Agostinho", effect: "A obra já está no acervo (em Política). Ganha uma participação no movimento VI, sem compra nova."}
+    - {key: B, title: "Quero sugestões", effect: "Eu trago opções para escolástica, Reforma e teologia."}
+    - {key: C, title: "Agora não", effect: "Nada muda."}
+    - {key: D, title: "Manter como está", effect: "O movimento fica deliberadamente parcial; a questão é arquivada."}
+  recommendation: "é o primeiro passo sem custo: um Padre da Igreja que você já tem, e um dos mais importantes."
+
+- id: d-greco-romanas
+  kind: obra
+  collections: [greco-roman]
+  priority: alta
+  state: decidir
+  source: greco-roman--g01
+  question: "Incluir em Greco-Romana fontes antigas sobre a história de Roma?"
+  why: "A coleção tem oito obras de história grega, três delas fontes antigas (como Heródoto e Tucídides). Para Roma, tem só dois historiadores modernos (Beard, Woolf). Você lê como os gregos narraram a si mesmos, mas não como os romanos o fizeram."
+  options:
+    - {key: A, recommended: true, title: "Quero sugestões", effect: "Eu comparo Tito Lívio, Salústio, Tácito e Suetônio (todos com boas edições em português) e recomendo um ou dois."}
+    - {key: B, title: "Agora não", effect: "Nada muda."}
+    - {key: C, title: "Descartar", effect: "Roma continua presente só pela literatura, pela moral e pelos historiadores modernos."}
+  recommendation: "é a assimetria mais forte do acervo. Atenção: incluir várias fontes romanas é justamente o que reabre a questão de dividir a coleção em Grécia e Roma (ver os itens aguardando)."
+
+- id: d-greco-material
+  kind: obra
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: greco-roman--g02
+  question: "Greco-Romana deve incluir arte, arquitetura e arqueologia, ou ficar só com textos?"
+  why: "Nenhuma obra trata de escultura, arquitetura, cerâmica, urbanismo ou arqueologia. A coleção se chama \"Cultura e História\", mas toda a sua evidência é textual."
+  options:
+    - {key: A, title: "Ficar só com textos", effect: "Fica registrado que a coleção é deliberadamente textual. A questão é arquivada."}
+    - {key: B, title: "Quero sugestões", effect: "Eu trago uma ou duas obras de cultura material para você avaliar."}
+    - {key: C, title: "Agora não", effect: "Nada muda."}
+  recommendation: "nenhuma — é uma escolha de escopo, e as duas respostas são legítimas."
+
+- id: d-greco-ciencia
+  kind: obra
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  source: greco-roman--g03
+  question: "Greco-Romana deve incluir ciência e medicina antigas, e religião romana?"
+  why: "A coleção conta a passagem do mito ao pensamento racional sem a matemática, a astronomia e a medicina que fazem parte dela. E a religião romana não tem obra — a coleção Religião, agora importada, também não a cobre."
+  options:
+    - {key: A, title: "Quero sugestões", effect: "Eu trago opções para as duas áreas."}
+    - {key: B, recommended: true, title: "Agora não", effect: "Nada muda."}
+    - {key: C, title: "Descartar", effect: "As duas áreas ficam fora do escopo; a questão é arquivada."}
+  recommendation: "é a de menor prioridade da coleção; as fontes romanas vêm antes."
+
+- id: d-greco-ciclope-alceste
+  kind: obra
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Incluir *O Ciclope* e *Alceste* em Greco-Romana?"
+  why: "As duas peças estão no mesmo volume de Eurípides que você já tem indicado (Teatro completo I, junto com *Medeia*), mas não estão na coleção. Já as peças dos volumes II a V estão todas."
+  options:
+    - {key: A, recommended: true, title: "Incluir as duas", effect: "Entram no movimento IV, junto com *Medeia*. Sem compra nova: é o mesmo livro."}
+    - {key: B, title: "Incluir só *O Ciclope*", effect: "Entra no movimento IV. *Alceste* continua só listada na edição."}
+    - {key: C, title: "Deixar como está", effect: "As duas continuam listadas na página da edição, fora da coleção."}
+  recommendation: "deixa Eurípides coerente com os outros quatro volumes, sem custo. E *O Ciclope* é o único drama satírico completo que sobreviveu — o gênero que fechava cada trilogia trágica."
+
+- id: d-greco-aristofanes
+  kind: obra
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Incluir *Só para mulheres* e *Um deus chamado dinheiro*, de Aristófanes, em Greco-Romana?"
+  why: "As duas comédias estão no mesmo volume da Zahar que traz *As Nuvens*, mas não estão na coleção. Hoje *As Nuvens* é a única comédia da coleção."
+  options:
+    - {key: A, title: "Incluir as duas", effect: "Entram no movimento IV, depois de *As Nuvens*. Sem compra nova."}
+    - {key: B, recommended: true, title: "Deixar como está", effect: "As duas continuam listadas na página da edição, fora da coleção."}
+  recommendation: "*As Nuvens* entrou pelo seu papel no argumento da coleção — o retrato de Sócrates que antecede a *Apologia*. As outras duas não têm esse papel; ficam disponíveis no livro sem pesar na sequência."
+
+- id: d-greco-cicero
+  kind: obra
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Incluir a *Vida de Cícero*, de Plutarco, em Greco-Romana?"
+  why: "Está no mesmo volume que a *Vida de Demóstenes*, já na coleção. Plutarco escreveu as duas como par, para serem lidas juntas. No outro volume (Alexandre e César), as duas vidas estão na coleção."
+  options:
+    - {key: A, recommended: true, title: "Incluir", effect: "Entra logo depois da *Vida de Demóstenes*. Sem compra nova."}
+    - {key: B, title: "Deixar como está", effect: "Continua listada na página da edição, fora da coleção."}
+  recommendation: "Plutarco pensou as vidas em par, comparando um grego e um romano; e Cícero já está na coleção com *Sobre os Deveres*. Sem custo."
+
+- id: d-pol-literatura
+  kind: obra
+  collections: [political-thought]
+  priority: media
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Opção B, ampliada por você — Antígona e a Oresteia como participações novas, mais Shakespeare, sem limite de uma peça só.", note: "Você disse: não precisa ser só uma de Shakespeare. Então eu pesquiso Ricardo II, Júlio César e Coriolano e apresento a comparação das três antes de você escolher quantas e quais entram. Antígona e a Oresteia não dependem dessa escolha e seguem para pesquisa de posição."}
+  question: "Que literatura entra em Política junto dos argumentos que ela encena?"
+  why: "A coleção discute legitimidade, tiranicídio e retórica só por tratado. A literatura que ela tem trata de outra coisa — ideologia do século XX vivida por dentro. Falta a literatura que encena o problema anterior: por que obedecer, e quando matar o governante deixa de ser crime."
+  update: "Aberta depois da sua decisão de 2026-09-27 (cartão `d-reg-literatura`): literatura passa a ser colocada dentro do movimento que ela complementa, e não agrupada por gênero. Duas das candidatas já estão na biblioteca, vindas de Greco-Romana — entrariam como participação, sem compra."
+  options:
+    - {key: A, recommended: true, title: "Pesquisar Antígona e a Oresteia primeiro", effect: "As duas já são suas. Eu estabeleço forma, gênero, data e tradição de cada uma e proponho a posição — Antígona junto de Aquino e Hobbes, a Oresteia junto de Montesquieu. Nenhuma compra."}
+    - {key: B, title: "Antígona, Oresteia e um Shakespeare", effect: "Acrescenta uma compra. Eu pesquiso qual das três peças romanas serve melhor e te apresento a comparação antes de você escolher."}
+    - {key: C, title: "Só o Júlio César, que originou a conversa", effect: "Uma compra, e o problema do tiranicídio entra. Fica sem a Antígona, que é o caso mais forte e já é sua."}
+    - {key: D, title: "Agora não", effect: "Nada muda. O movimento X continua como está até a redistribuição dele ser decidida."}
+  recommendation: "Antígona é o único texto literário que a tradição inteira do direito natural — Aquino, Hobbes, Locke — cita como o caso. Ela já é sua, está em Greco-Romana, e entraria em Política sem custo nenhum. Júlio César é excelente e foi o que abriu esta questão, mas é uma compra para um problema que a coleção já toca por Maquiavel."
+  composition: true
+  composition_note: "Das 6 obras literárias atuais, 6 são romances dos séculos XIX–XX sobre ideologia. Nenhuma é anterior a 1871."
+  candidates:
+    - {title: "Antígona", author: "Sófocles · séc. V a.C.", verdict: resolve, best: true, adds: "Lei da cidade contra lei não escrita — o caso que a tradição do direito natural cita há dois mil anos. Iria junto de Aquino e Hobbes.", facts: ["Já na biblioteca, em Greco-Romana", "+Sem compra"]}
+    - {title: "Oresteia", author: "Ésquilo · séc. V a.C.", verdict: resolve, adds: "Termina fundando um tribunal: é o relato literário da passagem da vingança privada à justiça institucional.", facts: ["Já na biblioteca, em Greco-Romana", "+Sem compra"]}
+    - {title: "Ricardo II", author: "Shakespeare · c. 1595", verdict: resolve, adds: "A legitimidade por direito divino destruída em cena: o rei ungido deposto, e o que sobra da autoridade depois disso.", facts: ["Compra nova", "Complementaria os movimentos III e IV"]}
+    - {title: "Júlio César", author: "Shakespeare · c. 1599", verdict: resolve, adds: "Tiranicídio preventivo e a retórica como instrumento de poder — o discurso de Antônio é o caso de fabricação de consenso. Vem da Vida de César de Plutarco, que já é sua.", facts: ["Compra nova", "Relação com a Vida de César a registrar"]}
+    - {title: "Coriolano", author: "Shakespeare · c. 1608", verdict: complementa, adds: "Plebe contra patrícios e o problema do demagogo. Excelente, mas um terceiro Shakespeare desequilibraria a coleção.", facts: ["Compra nova"]}
+    - {title: "Viagens de Gulliver", author: "Swift · 1726", verdict: outra, adds: "Sátira institucional de primeira linha, mas responde a uma pergunta mais difusa que as cinco acima. Candidata de fronteira, não recomendação."}
+
+- id: d-pol-shakespeare
+  kind: obra
+  collections: [political-thought]
+  priority: media
+  state: decidida
+  decided: {date: 2026-09-28, choice: "As DUAS caixas da Nova Fronteira — a de 2017 e a de 2022.", note: "Aplicado. Três peças entraram na biblioteca e em Política, no movimento IV, por período: Ricardo II e Júlio César pela caixa de 2017, Coriolano pela de 2022. As duas publicações estão registradas com ISBN, aparato e link de compra conferido por correspondência de ISBN. Shakespeare, Barbara Heliodora e Liana de Camargo Leão entraram no arquivo de pessoas. RESSALVA REGISTRADA: as duas caixas somam 24 peças, e não as 38 do teatro completo — se a intenção era ter Shakespeare inteiro, faltam 14, e quem as traz é o Teatro Completo da Nova Aguilar."}
+  question: "Qual caixa de Shakespeare entra na biblioteca — e, com ela, quais peças entram em Política?"
+  why: "É o único ponto desta fila que custa dinheiro. As peças que a coleção precisa são Ricardo II, que encena a destruição da legitimidade, e Júlio César, o tiranicídio preventivo. Coriolano, sobre representação popular, é a terceira da fila."
+  update: "PESQUISA DE EDIÇÃO FEITA em 28/09, nas páginas das editoras. O achado que decide: as três opções têm a MESMA tradutora, Barbara Heliodora. Tradução não diferencia nada aqui — o que diferencia é quais peças cada caixa contém, e as duas caixas da Nova Fronteira são seleções que se complementam sem se sobrepor."
+  options:
+    - {key: A, recommended: true, title: "Nova Fronteira, Grandes obras de Shakespeare (2017)", effect: "Entram Ricardo II e Júlio César — exatamente as duas de que a coleção precisa —, mais Ricardo III e Antônio e Cleópatra no mesmo volume de peças históricas. Doze peças em três volumes de capa dura, com notas e textos complementares organizados por Liana de Camargo Leão. Coriolano NÃO está nesta caixa."}
+    - {key: B, title: "Nova Aguilar, Teatro Completo (2016)", effect: "As 38 peças, incluindo as três, em três volumes de 4.440 páginas em papel bíblia. É a opção completista: resolve Shakespeare na biblioteca inteira de uma vez, e não só para esta coleção. Bem mais caro e bem mais pesado."}
+    - {key: C, title: "As duas caixas da Nova Fronteira", effect: "A de 2017 traz Ricardo II e Júlio César; a de 2022 traz Coriolano. Juntas dão as três peças e mais 21, por menos que a obra completa — mas com 14 peças a menos que ela."}
+    - {key: D, title: "Agora não", effect: "A pesquisa fica registrada e nenhuma peça de Shakespeare entra."}
+  recommendation: "a A. A coleção precisa de duas peças e a caixa de 2017 tem as duas, na mesma tradução de qualquer alternativa, em capa dura e com aparato. Comprar a obra completa para resolver duas participações é pagar por 36 peças que nenhuma coleção sua reivindica hoje — e a regra do projeto é explícita em não deixar disponibilidade e volume hierarquizarem necessidade. A B é a escolha certa por outra razão, não por esta: se você quiser Shakespeare inteiro na biblioteca como fim em si, aí ela ganha, e a questão deixa de ser de Política."
+  editions:
+    - {key: A, label: "Nova Fronteira · Grandes obras de Shakespeare", status: "Seleção de 12 peças · 2017",
+       facts: [["Tradução", "Barbara Heliodora"], ["Organização", "Liana de Camargo Leão"], ["Forma", "3 volumes, capa dura, 1.664 p."], ["ISBN", "978-85-209-3251-3"], ["Peças históricas", "Ricardo III, Ricardo II, Júlio César, Antônio e Cleópatra"]],
+       pros: ["Tem Ricardo II e Júlio César, as duas de que a coleção precisa", "Notas e textos complementares", "Capa dura"],
+       cons: ["Não tem Coriolano", "É seleção, não obra completa"]}
+    - {key: B, label: "Nova Aguilar · Teatro Completo", status: "38 peças · 2016",
+       facts: [["Tradução", "Barbara Heliodora"], ["Forma", "3 volumes, 4.440 p., papel bíblia, em caixa"], ["Volumes", "Tragédias e comédias sombrias; Comédias e romances; Tragédias históricas"], ["Extra", "Inclui Eduardo III, última tradução de Heliodora"]],
+       pros: ["Resolve Shakespeare inteiro de uma vez", "Papel bíblia e projeto gráfico próprio"],
+       cons: ["As três peças foram inferidas do total de 38, e não vistas listadas nominalmente", "O ISBN do box impresso não foi confirmado em fonte de editora", "Caro e volumoso para resolver duas participações"]}
+    - {key: C, label: "Nova Fronteira · Grandes obras de Shakespeare 2", status: "Seleção de 12 peças · 2022 · complementar",
+       facts: [["Tradução", "Barbara Heliodora"], ["Organização", "Liana de Camargo Leão"], ["Forma", "3 volumes, capa comum, 1.792 p."], ["ISBN", "978-65-5640-389-2"], ["Tragédias", "Titus Andronicus, Timon de Atenas, Rei Lear, Coriolano"]],
+       pros: ["É a única das três seleções que tem Coriolano", "Não se sobrepõe à caixa de 2017"],
+       cons: ["Não tem Ricardo II nem Júlio César", "Capa comum"]}
+
+
+
+- id: d-edu-ciencia-aprendizagem
+  kind: colecao
+  collections: [education]
+  priority: alta
+  state: decidir
+  source: education--sp01
+  question: "Educação deve admitir obras sobre COMO se aprende, e não só sobre o que a educação deve formar?"
+  why: "Você pediu duas obras novas — Fixe o Conhecimento e É assim que aprendemos. As duas estão registradas na biblioteca, com edição, ISBN e link de compra. Mas nenhuma delas tem lugar defensável em Educação hoje: a pergunta da coleção fala de fins e meios, e os critérios só admitem meios quando vêm amarrados a uma tese sobre fins. Fixe o Conhecimento não tem tese sobre fins nenhuma — tem práticas de estudo apoiadas em experimentos. Nenhum dos sete movimentos a recebe sem deixar de ser verdadeiro. Pela regra do projeto, isso é sinal de escopo, e escopo é sua decisão."
+  options:
+    - {key: A, recommended: true, title: "Abrir a coleção para a ciência da aprendizagem", effect: "Acrescenta um critério — meios sustentados por evidência empírica entram, mesmo sem tese sobre fins —, abre uma região própria para isso no mapa de assuntos da coleção e cria um movimento novo no fim da sequência com as duas obras, Dehaene antes de Brown, que é a ordem que você sugeriu. A pergunta, sua ordem e os sete movimentos atuais não mudam."}
+    - {key: B, title: "As duas entram no movimento II, sem mexer em critério nenhum", effect: "Caminho mais curto: elas vão para as posições em disputa, ao lado de Hirsch, que também argumenta por ciência cognitiva. Custo: o cabeçalho do movimento II enumera doutrinas filosóficas e passaria a ser falso sobre metade dos seus membros — e o mapa de escopo continuaria sem região para elas, de modo que a análise de cobertura seguiria cega a essa parte da coleção."}
+    - {key: C, title: "Só Dehaene entra; Fixe o Conhecimento fica sem coleção", effect: "Respeita a diferença real entre as duas: Dehaene chega a afirmações sobre como ensinar, o Brown fica no nível do estudante. Dehaene entraria no movimento II. Fixe o Conhecimento continua na biblioteca, pesquisado e comprável, sem participar de coleção — o mesmo estado em que Weber ficou até Educação ter critérios."}
+    - {key: D, title: "As duas ficam na biblioteca, sem coleção, por agora", effect: "Nada muda em Educação. As duas obras existem, com edição e link, e a questão volta quando houver mais obras do gênero ou quando você quiser decidir se isso é uma coleção própria."}
+  recommendation: "a A, e a razão é que o problema é real e as outras três o escondem. A pergunta da sua coleção já diz 'por que meios' — o território está reivindicado desde a importação; o que faltou foi desenhar a região e escrever o critério. A B resolve a colocação e deixa o defeito: um cabeçalho falso e um mapa que não vê duas obras. A C é intelectualmente a mais fina das alternativas, e eu a escolheria se a dúvida fosse só sobre o Brown — mas ela deixa na biblioteca uma obra que você quer ler e usar, fora de qualquer coleção, por uma distinção de grau. A D é legítima e não custa nada, se você preferir decidir isto com mais obras na mão. Uma ressalva contra a minha própria recomendação: o critério novo abre a coleção para um gênero com muita divulgação fraca, e a única proteção contra isso é analisar necessidade obra a obra — não o critério."
+  composition: true
+  composition_note: "As 14 obras de hoje; nenhuma estuda empiricamente como se aprende."
+  signals:
+    - "A região psicologia-do-desenvolvimento está no mapa desde a importação, declarada thin, e nunca teve uma obra. A nota dela nomeia estágios e mediação — Piaget e Vigotski —, não ciência da memória: não é o lugar destas duas."
+    - "Hirsch entrou em 2026-09-23 com argumento de ciência cognitiva, mas para defender uma posição de currículo. É o que mais se aproxima no acervo, e ainda assim não é o mesmo gênero."
+
+# ============================== ESCOLHER EDIÇÃO =============================
+
+- id: d-ed-republica
+  kind: edicao
+  collections: [political-thought, greco-roman]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Edição A — EDUFPA, trad. Carlos Alberto Nunes, bilíngue, 5ª ed. 2023.", note: "Substitui a sua indicação anterior da Gulbenkian, que fica registrada em edition_pref. Aplicada nas duas participações, em Política e em Greco-Romana. A comparação das traduções, que era a opção recomendada, deixa de ser necessária."}
+  question: "Qual edição de *A República*, de Platão, a biblioteca deve adotar?"
+  why: "É uma das obras centrais de duas coleções. A exibida hoje é a EDUFPA, a única registrada; na coleção Política você tinha indicado a Gulbenkian."
+  editions:
+    - key: A
+      pub: pub--edufpa--a-republica
+      label: "EDUFPA"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","Carlos Alberto Nunes"],["Formato","Bilíngue: grego na página ao lado"],["Edição","5ª, 2023 · 860 p."],["Extra","Introdução de Benedito Nunes"]]
+      pros: ["Grego ao lado, útil para o seu estudo de grego"]
+      cons: ["Tradução ainda não avaliada"]
+    - key: B
+      label: "Gulbenkian"
+      status: "Indicada por você · não registrada"
+      facts: [["Tradução","Maria Helena da Rocha Pereira"],["Formato","Só português (de Portugal), com notas"],["Uso","Adotada em disciplina de Filosofia da USP"]]
+      pros: ["Tradutora filóloga clássica, com introdução e notas"]
+      cons: ["Sem o grego; português europeu"]
+  options:
+    - {key: C, recommended: true, title: "Comparar as duas traduções antes de decidir", effect: "Eu examino as duas (fidelidade, notas, avaliações de especialistas) e trago um veredito com trechos lado a lado."}
+  recommendation: "as duas são sérias, e a diferença está na qualidade da tradução, que ainda não foi examinada. Pelas regras da biblioteca, ser bilíngue não basta para vencer uma tradução melhor."
+
+- id: d-ed-politica
+  kind: edicao
+  collections: [political-thought, greco-roman]
+  priority: media
+  state: decidida
+  decided: {date: 2026-09-27, choice: "Edição A — Editora UnB, trad. Mário da Gama Kury.", note: "Confirma a edição que já estava registrada. Aplicada nas duas participações, em Política e em Greco-Romana. Ano e número de páginas continuam não confirmados."}
+  question: "Qual edição da *Política*, de Aristóteles, a biblioteca deve adotar?"
+  why: "As duas têm a mesma tradução, de Mário da Gama Kury. A registrada é a da UnB; existe também uma da Madamu, de 2021."
+  editions:
+    - key: A
+      pub: pub--unb--politica
+      label: "UnB"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","Mário da Gama Kury"],["ISBN","978-85-230-0011-0"]]
+      pros: ["Já registrada e mantida por você em Greco-Romana (23/09)"]
+      cons: ["Ano e páginas não confirmados"]
+    - key: B
+      label: "Madamu"
+      status: "Não registrada"
+      facts: [["Tradução","Mário da Gama Kury"],["Edição","2021"],["ISBN","978-6586224085"]]
+      pros: ["Edição recente"]
+      cons: ["Não examinada"]
+  options: []
+  recommendation: "a tradução é a mesma; a diferença é só o objeto. Você já decidiu manter a UnB em Greco-Romana — confirmar A deixa as duas coleções iguais."
+  recommended: A
+
+- id: d-ed-dhammapada
+  kind: edicao
+  collections: [religion]
+  priority: media
+  state: decidir
+  question: "A edição registrada do *Dhammapada* é a que você quer?"
+  why: "Você indicou \"EDIPRO; Jair Lot Vieira\". A registrada é a da Mantra (2021), tradução de José Carlos Calazans — e o anúncio dela credita justamente \"EDIPRO, Jair Lot Vieira\". Pode ser o mesmo livro, mas isso não foi confirmado."
+  editions:
+    - key: A
+      pub: pub--mantra--dhammapada--2021
+      label: "Mantra"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","José Carlos Calazans"],["Edição","2021 · 274 p."]]
+      pros: ["Anúncio credita EDIPRO / Jair Lot Vieira"]
+      cons: ["Se é tradução direta do páli ainda não foi verificado"]
+  options:
+    - {key: A, recommended: true, title: "Verificar antes", effect: "Eu confirmo se a Mantra é a edição que você indicou e se a tradução é direta do páli, e trago o resultado."}
+  recommendation: "a dúvida é factual e se resolve com pesquisa; não vale decidir no escuro."
+
+- id: d-ed-gilgamesh
+  kind: edicao
+  collections: [religion]
+  priority: media
+  state: decidir
+  question: "Qual edição de *Gilgámesh* a coleção Religião deve mostrar?"
+  why: "As duas são da Autêntica, com tradução de Jacyntho Lins Brandão, direto do acádio. Uma é a edição de estudo; a outra, a ilustrada. Hoje a exibida é a de 2017 — proposta minha."
+  editions:
+    - key: A
+      pub: pub--autentica--ele-que-o-abismo-viu--2017
+      label: "Ele que o abismo viu (2017)"
+      status: "Exibida hoje · proposta minha"
+      facts: [["Formato","Edição de estudo, com aparato"],["Páginas","336"]]
+      pros: ["Introdução e notas do tradutor"]
+    - key: B
+      pub: pub--autentica--epopeia-de-gilgamesh--2021
+      label: "Epopeia de Gilgámesh (2021)"
+      status: "Registrada"
+      facts: [["Formato","Ilustrada, capa dura, sem aparato"],["Páginas","160"]]
+      pros: ["Mais leve de ler"]
+      cons: ["Sem notas"]
+  options: []
+  recommendation: "numa coleção de estudo da religião, as notas do tradutor fazem diferença na leitura."
+  recommended: A
+
+# ============================== CONFIRMAR POSIÇÃO ===========================
+
+- id: d-pos-hirsch
+  kind: posicao
+  collections: [education]
+  priority: media
+  state: decidir
+  work: hirsch--why-knowledge-matters
+  question: "Hirsch fica no movimento II, depois de Ozmon?"
+  why: "Foi incluído por decisão sua e posicionado por mim. Depois da sua correção, saiu do III (recuperação do ideal clássico) e foi para o II (as posições em disputa)."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Quero outra posição", effect: "Me diga onde, ou peça que eu traga duas alternativas."}
+  recommendation: "Hirsch defende uma das doutrinas que Ozmon apresenta, com argumentos de ciência cognitiva e de resultados escolares, não de tradição. É o crítico mais direto da educação progressista na coleção."
+
+- id: d-pos-mello
+  kind: posicao
+  collections: [culture]
+  priority: media
+  state: decidir
+  work: vieira-de-mello--desenvolvimento-e-cultura
+  question: "Mello fica no movimento II de Cultura, entre Lobo e Adorno?"
+  why: "Foi incluído por decisão sua e posicionado por mim. É crítica da cultura pelo lado do fundamento moral, aplicada ao Brasil."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Tratar como obra sobre a cultura brasileira", effect: "Sai da disputa do movimento II e passa a representar a cultura brasileira, área que ainda não tem movimento próprio."}
+  recommendation: "o livro é, antes de tudo, um diagnóstico da degradação — o assunto do movimento II. O Brasil é o caso, não o tema."
+
+- id: d-pos-esquilo
+  kind: posicao
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  work: esquilo--persai
+  question: "As quatro peças de Ésquilo ficam logo depois da Oresteia?"
+  why: "*Os Persas*, *Os Sete contra Tebas*, *As Suplicantes* e *Prometeu Cadeeiro* entraram por decisão sua, no movimento IV, depois da Oresteia. Pela data, ao menos *Os Persas* (472 a.C.) é anterior à Oresteia (458 a.C.)."
+  options:
+    - {key: A, recommended: true, title: "Confirmar depois da Oresteia", effect: "A Oresteia continua sendo a porta de entrada de Ésquilo; as quatro vêm como complemento."}
+    - {key: B, title: "Pôr em ordem de data", effect: "*Os Persas*, *Os Sete* e *As Suplicantes* passam para antes da Oresteia; *Prometeu*, de data e autoria discutidas, fica depois."}
+  recommendation: "a Oresteia é a obra central de Ésquilo e a mais estudada; ler as outras depois dela aproveita o que ela ensina. A coleção não é cronológica."
+
+- id: d-pos-klemperer
+  kind: posicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  work: klemperer--lti-lingua-tertii-imperii
+  question: "Klemperer fica no fim do movimento VII, depois do ensaio de Orwell sobre a língua?"
+  why: "Foi incluído por decisão sua e posicionado por mim. Os dois tratam da linguagem como instrumento de poder; Klemperer é o caso documentado, dia a dia, sob o nazismo."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Quero outra posição", effect: "Me diga onde."}
+  recommendation: "Orwell formula a tese; Klemperer mostra ela acontecendo."
+
+- id: d-pos-levitsky
+  kind: posicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  work: levitsky-ziblatt--how-democracies-die
+  question: "*Como as democracias morrem* fica no movimento VIII, depois de Dahl?"
+  why: "Foi incluído por decisão sua e posicionado por mim. Dahl descreve como a democracia funciona; este livro descreve como ela é desmontada por dentro."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Quero outra posição", effect: "Me diga onde."}
+  recommendation: "funciona como o teste prático do que Dahl descreve."
+
+- id: d-pos-antigas-politica
+  kind: posicao
+  collections: [political-thought]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-28, choice: "Opção B — casa cronológica, com a ligação feita pela relação.", note: "Aplicado. Antígona e a Oresteia entraram no movimento I, depois de Cícero, como participações novas e sem compra. As relações foram gravadas: Antígona aponta para Aquino (a lei da cidade contra a lei não escrita) e a Oresteia para Hobbes — e não para Montesquieu, como eu havia sugerido antes, porque o argumento da trilogia é a substituição da vingança privada por uma instituição, que é o problema de Hobbes, e não a divisão de poderes. A tela já mostra a ligação dos dois lados."}
+  question: "Antígona e a Oresteia entram em Política junto do argumento que elas iluminam, ou no movimento da Antiguidade?"
+  why: "É a primeira vez que a sua convenção de 27/09 encontra um caso que ela não previu. A convenção manda colocar a obra literária dentro do movimento que ela complementa. Só que os movimentos de Política são de PERÍODO — III é Cristianismo e política medieval, IV é Formação da política moderna. Antígona complementa Aquino, que está no III; a Oresteia complementa Montesquieu, que está no IV. Mas as duas são do século V a.C.: colocá-las ali faria o cabeçalho do movimento afirmar algo falso sobre elas."
+  update: "Pesquisa das duas obras concluída em 2026-09-27: Oresteia encenada em 458 a.C., Antígona na década de 440 a.C. (data precisa ainda por confirmar). As duas já são suas, vindas de Greco-Romana, e entram sem compra."
+  options:
+    - {key: A, title: "Vizinhança argumentativa", effect: "Antígona entra no movimento III, antes de Aquino; a Oresteia no IV, antes de Montesquieu. É a leitura literal da convenção — mas dois cabeçalhos de período passam a abrigar obras que não são daquele período."}
+    - {key: B, recommended: true, title: "Casa cronológica, com a ligação feita pela relação", effect: "As duas entram no movimento I, Antiguidade: fundamentos da política, ao lado de Platão, Aristóteles, Tucídides e Cícero. A ligação com Aquino e com Montesquieu passa a existir como relação registrada, que a tela mostra dos dois lados e a pastilha anuncia."}
+    - {key: C, title: "Misto", effect: "Antígona vai para junto de Aquino, porque a tradição do direito natural a cita nominalmente; a Oresteia fica no movimento I. Resolve o caso mais forte e adia o outro."}
+    - {key: D, title: "Agora não", effect: "As duas continuam só em Greco-Romana. A pesquisa fica registrada e a questão volta quando o movimento X for redistribuído."}
+  recommendation: "a A quebra a sua própria regra de que um movimento é território e tem de continuar verdadeiro depois que entram mais obras — foi a regra que nasceu do erro de Kant e Marcuse caindo dentro do movimento de literatura. Uma tragédia do século V a.C. dentro de Cristianismo e política medieval é o mesmo erro por outro caminho. A B não perde nada: a convenção tem três camadas, e a que carrega o argumento é a relação, não a adjacência. O movimento I não é um gueto de gênero — é a abertura cronológica da coleção, onde Platão e Tucídides já estão."
+  composition: true
+  composition_note: "O movimento I tem hoje quatro obras, todas do mundo antigo: A República, a Política, Tucídides e Cícero."
+
+
+# ============================== MUDAR UMA REGRA =============================
+
+- id: d-reg-proposito-movimento
+  kind: regra
+  collections: []
+  priority: media
+  state: decidir
+  question: "Proibir que eu escreva o propósito de um movimento a partir das obras que já estão dentro dele?"
+  why: "Foi o erro desta conversa. O movimento X de Política tem título seu — *Literatura como crítica política*, que é amplo — e propósito meu, que eu inferi dos seis romances que estavam lá: *como a ideologia é vivida por dentro*. Com esse propósito no arquivo, eu passei duas respostas defendendo que Júlio César não cabia na coleção. Estava defendendo um rascunho meu contra a sua obra, sem perceber. As regras já me proíbem de tirar os critérios de inclusão de uma coleção das obras que ela já tem; não dizem nada sobre o propósito de um movimento, que é a mesma falha um nível abaixo."
+  options:
+    - {key: A, recommended: true, title: "Acrescentar a proibição às regras", effect: "Passa a ser proibição explícita: *derivar o propósito de um movimento das obras que hoje estão dentro dele, em vez do argumento da coleção e do título do movimento*. Vale para qualquer agente, não só para mim."}
+    - {key: B, title: "A proibição e uma revisão dos propósitos que já escrevi", effect: "Além da regra, eu releio os propósitos que escrevi em todas as seis coleções e te aponto os que foram inferidos do conteúdo — não corrijo nenhum sem você ver."}
+    - {key: C, title: "Não mudar nada", effect: "As regras já dizem que um movimento deve continuar verdadeiro depois de entrarem mais obras, e você considera isso suficiente."}
+  recommendation: "a B, se você tiver paciência para a lista. O erro que a regra descreve é meu e sistemático: escrevi propósito de movimento em seis coleções, sempre olhando para os membros. A regra sozinha impede o próximo; a revisão mostra quantos já existem."
+
+- id: d-reg-literatura
+  kind: regra
+  collections: []
+  state: decidida
+  question: "Onde entra a literatura que complementa uma obra teórica, histórica ou técnica?"
+  decided: {date: 2026-09-27, choice: "Dentro do movimento que ela complementa, com papel de tratamento literário e aresta apontando para a obra tratada — não agrupada com as outras obras literárias por serem literatura. Vale para todas as coleções.", note: "Gravado como §2.8 das regras de curadoria. Reversível: remover a §2.8; nenhum membro foi movido por esta decisão, e a redistribuição do movimento X de Política é decisão separada, ainda aberta em d-pol-movimento-x."}
+
+# ============================== AGUARDANDO =================================
+
+- id: d-pol-movimento-x
+  kind: colecao
+  collections: [political-thought]
+  priority: alta
+  state: decidida
+  decided: {date: 2026-09-28, choice: "Opção B — aplicar a redistribuição e registrar o crescimento do movimento VII como questão separada.", note: "Aplicado. O cabeçalho X deixou de existir; Os Demônios foi para o movimento VI, as outras cinco para o VII, cada uma ao lado da obra que ela encena. As seis mudanças estão em order_changes, uma a uma, com razão e forma de reverter. O movimento VII passou de 10 para 15 obras e isso ficou registrado como sinal estrutural no próprio arquivo da coleção — a resposta, se houver, é subdivisão interna do VII, não um movimento de gênero de volta."}
+  question: "Redistribuir os seis romances do movimento X de Política pelos movimentos que eles complementam?"
+  why: "É a consequência da sua decisão de 27/09: se a literatura passa a ser colocada junto do que ela ilumina, um movimento que existe para agrupar literatura por gênero perde a razão de existir. A pesquisa das seis obras foi concluída em 28/09 e as posições abaixo já são conclusão de pesquisa, não palpite."
+  update: "ACHADO QUE CONTRARIA A EXPECTATIVA: a dispersão quase não dispersa. Cinco das seis obras vão para o MESMO movimento, o VII, porque cinco das seis tratam de ideologia do século XX — que é exatamente o que eu havia escrito, erradamente, como propósito do movimento X. O agrupamento que você tinha feito estava certo sobre os seus membros; o que estava errado era eu derivar dele um propósito e depois usar esse propósito para excluir outra literatura. O movimento VII passaria de 10 para 15 obras, quase um terço da coleção."
+  options:
+    - {key: A, title: "Aplicar as seis posições como propostas", effect: "Os Demônios vai para o movimento VI, junto da tradição revolucionária que ele ataca. As outras cinco vão para o VII, cada uma ao lado da obra teórica que ela encena. O movimento X deixa de existir. O VII fica com 15 obras."}
+    - {key: B, recommended: true, title: "Aplicar, e tratar o tamanho do VII como questão separada", effect: "Mesma redistribuição, mas eu registro o crescimento do movimento VII como sinal estrutural a reavaliar depois, em vez de resolver agora no mesmo movimento. Nada fica escondido e nada é decidido no susto."}
+    - {key: C, title: "Rever a decisão de 27/09 à luz disto", effect: "Você olha o resultado e decide se a dispersão total continua valendo a pena para ESTA coleção. O movimento X continua existindo. A convenção continua valendo para as obras que entram, como Antígona e Ricardo II, onde ela dispersa de verdade."}
+    - {key: D, title: "Agora não", effect: "A pesquisa fica registrada e nada muda na sequência."}
+  recommendation: "a redistribuição é boa para cinco das seis obras — 1984 ao lado do ensaio de Orwell sobre linguagem e do diário de Klemperer é um ganho real de leitura, e os três tratam do mesmo objeto por três vias. Mas fingir que o movimento VII não vai inchar seria esconder o efeito colateral, e é por isso que eu prefiro a B à A: mesma mudança, com o problema registrado em vez de varrido. A C é a escolha honesta se, vendo o resultado, você achar que o custo não compensa nesta coleção — eu não teria como saber disso antes de fazer a pesquisa."
+  composition: true
+  composition_note: "As seis foram pesquisadas em 28/09 e estão classificadas como literatura, valor criado na mesma data."
+  candidates:
+    - {title: "Os Demônios", author: "Dostoiévski · 1872", verdict: resolve, best: true, adds: "Único que sai do bloco: vai para o movimento VI, ao lado do Manifesto e do 18 de Brumário. É o romance sobre a célula revolucionária por dentro, colocado junto da tradição que ele ataca.", facts: ["Destino: movimento VI"]}
+    - {title: "Nós", author: "Zamiátin · 1920–21", verdict: resolve, adds: "Vai para o VII. Escrito contra o projeto soviético no momento em que ele começava — anterior a tudo o que a coleção tem sobre o assunto.", facts: ["Destino: movimento VII"]}
+    - {title: "Admirável Mundo Novo", author: "Huxley · 1932", verdict: resolve, adds: "Vai para o VII. É a distopia do controle brando, não a do terror: condicionamento, consumo e conformismo. Encena o que Marcuse argumenta.", facts: ["Destino: movimento VII", "Relação proposta: Marcuse"]}
+    - {title: "O Zero e o Infinito", author: "Koestler · 1938–40", verdict: resolve, adds: "Vai para o VII, junto de Arendt: partido, confissão e disciplina ideológica vistos de dentro do revolucionário.", facts: ["Destino: movimento VII", "Relação proposta: Arendt"]}
+    - {title: "A Revolução dos Bichos", author: "Orwell · 1945", verdict: resolve, adds: "Vai para o VII: revolução traída, propaganda e reescrita do passado.", facts: ["Destino: movimento VII"]}
+    - {title: "1984", author: "Orwell · 1949", verdict: resolve, adds: "Vai para o VII, ao lado do ensaio de Orwell sobre linguagem e política e do registro de Klemperer. Argumento, testemunho e ficção sobre o mesmo objeto.", facts: ["Destino: movimento VII", "Relações propostas: o ensaio de Orwell e Klemperer"]}
+
+
+- id: d-col-greco-dividir
+  kind: colecao
+  collections: [greco-roman]
+  priority: null
+  state: aguardando
+  source: greco-roman--sp01
+  question: "Dividir Cultura e História Greco-Romana em duas coleções, Grécia e Roma?"
+  why: "Hoje não faz sentido: o argumento da coleção é a transmissão da Grécia para Roma e para o Ocidente. Separar transformaria essa sequência numa simples relação entre duas coleções."
+  waiting_for: "A questão volta se Roma ganhar fontes antigas próprias (historiadores como Tito Lívio ou Tácito, por exemplo). Aí a coleção passaria a conter duas perguntas diferentes."
+  signals:
+    - "10 das 79 obras são romanas, e nenhuma é fonte histórica romana antiga."
+    - "Os dois assuntos de fontes romanas antigas continuam sem obras."
+
+- id: d-ed-cruzando
+  kind: edicao
+  collections: [religion]
+  priority: null
+  state: aguardando
+  question: "Qual edição de *Cruzando o Limiar da Esperança*?"
+  why: "A edição da Francisco Alves (1994) que você encontrou tem preço inviável. A registrada é só de referência."
+  waiting_for: "Você vai procurar outra edição. Quando achar, me mande e eu registro."
+
+- id: d-lugar-begovic
+  kind: lugar
+  collections: []
+  priority: null
+  state: aguardando
+  work: begovic-luther--dark-secrets-of-shtf-survival
+  question: "Onde colocar *Dark Secrets of SHTF Survival*?"
+  why: "Você a tirou de Sobrevivência por ser relato do cerco de Sarajevo, não manual técnico."
+  waiting_for: "Espera existir na biblioteca um conjunto de obras sobre colapso e transformação social."
+
+- id: d-lugar-mente
+  kind: lugar
+  collections: []
+  priority: null
+  state: aguardando
+  work: damasio--descartes-error
+  question: "Onde colocar *O Erro de Descartes* (Damásio) e *A Mente Moralista* (Haidt)?"
+  why: "Nenhuma coleção atual cobre filosofia da mente ou psicologia moral."
+  waiting_for: "Vão ser avaliadas junto com as obras das suas outras listas, quando você pedir sugestões de novas coleções."
+
+# ============================== DECIDIDAS ==================================
+
+- id: d-dec-ehrman
+  kind: edicao
+  collections: [religion]
+  state: decidida
+  question: "Edição de *O que Jesus disse? O que Jesus não disse?*"
+  decided: {date: 2026-09-25, choice: "HarperCollins Brasil, 2015 (edição física)", note: "A Prestígio 2006 continua registrada."}
+
+- id: d-dec-rahula
+  kind: edicao
+  collections: [religion]
+  state: decidida
+  question: "Edição de *What the Buddha Taught*"
+  decided: {date: 2026-09-25, choice: "Motilal Banarsidass, 2017", note: "A Grove Press 1974 continua registrada."}
+
+- id: d-dec-vargasllosa
+  kind: edicao
+  collections: [culture]
+  state: decidida
+  question: "Edição de *A civilização do espetáculo*"
+  decided: {date: 2026-09-23, choice: "Tradução da Objetiva, 2013", note: "O original espanhol (Alfaguara) continua registrado."}
+
+- id: d-dec-bauer
+  kind: edicao
+  collections: [education]
+  state: decidida
+  question: "Edição de *The Well-Trained Mind*"
+  decided: {date: 2026-09-23, choice: "Tradução brasileira, Klasiká Liber, 2021", note: "O original americano (Norton) continua registrado."}

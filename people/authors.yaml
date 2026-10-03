@@ -1,0 +1,1484 @@
+# Normalização de nomes. Um registro por pessoa.
+# name_display é o nome como aparece nas suas listas.
+
+platao:
+  name_display: "Platão"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+aristoteles:
+  name_display: "Aristóteles"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+tucidides:
+  name_display: "Tucídides"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+cicero:
+  name_display: "Cícero"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+confucio:
+  name_display: "Confúcio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+sunzi:
+  name_display: "Sun Tzu"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+kautilya:
+  name_display: "Kautilya"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+ibn-khaldun:
+  name_display: "Ibn Khaldun"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+agostinho:
+  name_display: "Santo Agostinho"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+aquino:
+  name_display: "Tomás de Aquino"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+maquiavel:
+  name_display: "Nicolau Maquiavel"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+hobbes:
+  name_display: "Thomas Hobbes"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+locke:
+  name_display: "John Locke"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+montesquieu:
+  name_display: "Montesquieu"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+rousseau:
+  name_display: "Jean-Jacques Rousseau"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+burke:
+  name_display: "Edmund Burke"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+tocqueville:
+  name_display: "Alexis de Tocqueville"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+mill:
+  name_display: "John Stuart Mill"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+marx:
+  name_display: "Karl Marx"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+engels:
+  name_display: "Friedrich Engels"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+weber:
+  name_display: "Max Weber"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+michels:
+  name_display: "Robert Michels"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+schmitt:
+  name_display: "Carl Schmitt"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+arendt:
+  name_display: "Hannah Arendt"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+popper:
+  name_display: "Karl Popper"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+berlin:
+  name_display: "Isaiah Berlin"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+aron:
+  name_display: "Raymond Aron"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+dahl:
+  name_display: "Robert Dahl"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+rawls:
+  name_display: "John Rawls"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+rothbard:
+  name_display: "Murray Rothbard"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+hoppe:
+  name_display: "Hans-Hermann Hoppe"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+dostoievski:
+  name_display: "Fiódor Dostoiévski"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+zamiatin:
+  name_display: "Yevgeny Zamiátin"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+huxley:
+  name_display: "Aldous Huxley"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+koestler:
+  name_display: "Arthur Koestler"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+orwell:
+  name_display: "George Orwell"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+marrou:
+  name_display: "Henri-Irénée Marrou"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+nunes:
+  name_display: "Ruy Afonso da Costa Nunes"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+hirsch:
+  name_display: "E. D. Hirsch Jr."
+  name_variants: ["Eric Donald Hirsch Jr."]
+  dates: null                 # a pesquisar
+  note: "Entrou em 2026-09-23 com Por que o conhecimento importa (Educação)."
+
+adler:
+  name_display: "Mortimer Adler"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+mcluhan:
+  name_display: "Marshall McLuhan"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+miriam-joseph:
+  name_display: "Irmã Miriam Joseph"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+bauer:
+  name_display: "Susan Wise Bauer"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+wise:
+  name_display: "Jessie Wise"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+suassuna:
+  name_display: "Ariano Suassuna"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+vargas-llosa:
+  name_display: "Mario Vargas Llosa"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+scruton:
+  name_display: "Roger Scruton"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+vieira-de-mello:
+  name_display: "Mário Vieira de Mello"
+  name_variants: ["Mario Vieira de Mello"]
+  dates: null                 # a pesquisar
+  note: "Entrou em 2026-09-23 com Desenvolvimento e Cultura (Cultura)."
+
+lobo:
+  name_display: "Julio Lobo"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Id pelo sobrenome, como todos os outros. `Lobo` é sobrenome comum e
+         pode colidir um dia — António Lobo Antunes seria o caso óbvio. Se
+         isso acontecer, o desempate é um id conventional para um dos dois,
+         com id_aliases; não se antecipou aqui para não inventar convenção."
+
+
+seymour:
+  name_display: "John Seymour"
+  name_variants: ["J. Seymour"]
+  dates: "1914–2004"
+  note: null
+
+hoffmann:
+  name_display: "David Hoffmann"
+  name_variants: ["David Hoffman"]   # grafia com um só n aparece em livrarias BR
+  dates: "n. 1951"
+  note: null
+
+naemt:
+  name_display: "NAEMT — National Association of Emergency Medical Technicians"
+  name_variants: ["NAEMT"]
+  dates: null
+  note: "AUTOR CORPORATIVO — o primeiro do acervo. Não é pessoa. O esquema de
+         people/ acolhe-o sem alteração, mas a convenção de id para autoria
+         institucional não está declarada no §C e está levantada em review/."
+
+pellegrini:
+  name_display: "Marcel Pellegrini"
+  name_variants: []
+  dates: null
+  note: null
+
+moraes:
+  name_display: "Edimar Moraes"
+  name_variants: []
+  dates: null
+  note: "Sobrenome comum no Brasil; risco de colisão futura, como em `lobo`.
+         Não antecipado para não inventar convenção."
+
+lontro:
+  name_display: "Miguel Lontro"
+  name_variants: []
+  dates: null
+  note: null
+
+monteiro:
+  name_display: "Pedro Monteiro"
+  name_variants: []
+  dates: null
+  note: "Sobrenome muito comum em português; risco de colisão, como `moraes` e `lobo`."
+
+becker:
+  name_display: "Marlise Becker"
+  name_variants: []
+  dates: null
+  note: null
+
+dalponte:
+  name_display: "Julio C. Dalponte"
+  name_variants: ["Júlio C. Dalponte"]
+  dates: null
+  note: null
+
+canterbury:
+  name_display: "Dave Canterbury"
+  name_variants: []
+  dates: null
+  note: null
+
+dickson:
+  name_display: "Murray Dickson"
+  name_variants: []
+  dates: null
+  note: null
+
+werner:
+  name_display: "David Werner"
+  name_variants: []
+  dates: null
+  note: "As edições posteriores de `Donde no hay doctor` trazem também Carol
+         Thuman e Jane Maxwell. Não foram acrescentadas como autoras da obra
+         porque não se sabe qual edição está em causa; ficam na proveniência."
+
+van-lengen:
+  name_display: "Johan van Lengen"
+  name_variants: ["Johann van Lengen"]
+  dates: null
+  note: "Neerlandês, mas escreveu e publicou a obra em espanhol, no México."
+
+kinupp:
+  name_display: "Valdely Ferreira Kinupp"
+  name_variants: ["Valdely Kinupp"]
+  dates: null
+  note: null
+
+lorenzi:
+  name_display: "Harri Lorenzi"
+  name_variants: []
+  dates: null
+  note: null
+
+bezmenov:
+  name_display: "Yuri Aleksandrovich Bezmenov"
+  name_variants: ["Yuri Bezmenov", "Tomas Schuman"]
+  dates: null
+  note: "Ex-agente da KGB, desertor em 1970. `Tomas Schuman` é pseudônimo sob
+         o qual publicou/palestrou nos EUA — variante amplamente atestada,
+         não confirmada como específica desta edição."
+
+skousen:
+  name_display: "Joel M. Skousen"
+  name_variants: []
+  dates: null
+  note: null
+
+begovic:
+  name_display: "Selco Begovic"
+  name_variants: []
+  dates: null
+  note: null
+
+luther:
+  name_display: "Daisy Luther"
+  name_variants: []
+  dates: null
+  note: null
+
+silva:
+  name_display: "Evandro de Sena Silva"
+  name_variants: []
+  dates: null
+  note: "Sobrenome comum no Brasil; risco de colisão futura, como em `lobo`,
+         `moraes` e `monteiro`. Não antecipado para não inventar convenção."
+
+conforto:
+  name_display: "Cláudia Conforto"
+  name_variants: []
+  dates: null
+  note: null
+
+illich:
+  name_display: "Ivan Illich"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Austríaco; escreveu Deschooling Society em inglês, a partir do
+         CIDOC, no México."
+
+jaeger:
+  name_display: "C. Stephen Jaeger"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Medievalista. NÃO confundir com `jaeger-werner` (Werner Jaeger),
+         helenista alemão autor de Paideia, acrescentado em 2026-09-12. São
+         duas pessoas distintas, e ambas estão no acervo."
+
+han:
+  name_display: "Byung-Chul Han"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Filósofo sul-coreano radicado na Alemanha; escreve em alemão."
+
+damasio:
+  name_display: "António Damásio"
+  name_variants: ["Antonio Damasio"]
+  dates: null                 # a pesquisar
+  note: "Neurocientista português; escreve em inglês (obra acadêmica nos
+         EUA/Reino Unido)."
+
+haidt:
+  name_display: "Jonathan Haidt"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+# ---------------------------------------------------------------------------
+# ACRESCENTADOS NA IMPORTAÇÃO DA COLEÇÃO GRECO-ROMANA — 2026-09-12.
+# Inclui dois TRADUTORES (torrano, gama-kury), registrados aqui porque as
+# publicações os citam e não existe arquivo separado para pessoas que não são
+# autores. A distinção fica na `note`.
+# ---------------------------------------------------------------------------
+
+guarinello:
+  name_display: "Norberto Luiz Guarinello"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+osborne:
+  name_display: "Robin Osborne"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+finley:
+  name_display: "Moses I. Finley"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Historiador da Antiguidade. Em 'O Legado da Grécia: uma nova avaliação' ele é ORGANIZADOR, não autor; em 'Os Gregos Antigos' é autor."
+
+everitt:
+  name_display: "Anthony Everitt"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+jaeger-werner:
+  name_display: "Werner Jaeger"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Helenista alemão, autor de Paideia. NÃO confundir com `jaeger` (C. Stephen Jaeger), medievalista, já no acervo."
+
+hesiodo:
+  name_display: "Hesíodo"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+homero:
+  name_display: "Homero"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+pindaro:
+  name_display: "Píndaro"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+grimal:
+  name_display: "Pierre Grimal"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+mikalson:
+  name_display: "Jon D. Mikalson"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+burkert:
+  name_display: "Walter Burkert"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+vernant:
+  name_display: "Jean-Pierre Vernant"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+veyne:
+  name_display: "Paul Veyne"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+esquilo:
+  name_display: "Ésquilo"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+sofocles:
+  name_display: "Sófocles"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+euripides:
+  name_display: "Eurípides"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+aristofanes:
+  name_display: "Aristófanes"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+kirk:
+  name_display: "G. S. Kirk"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+raven:
+  name_display: "J. E. Raven"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+schofield:
+  name_display: "M. Schofield"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+mckirahan:
+  name_display: "Richard D. McKirahan"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+herodoto:
+  name_display: "Heródoto"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+xenofonte:
+  name_display: "Xenofonte"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+hansen:
+  name_display: "Mogens Herman Hansen"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+plutarco:
+  name_display: "Plutarco"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+martin-thomas:
+  name_display: "Thomas R. Martin"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+blackwell:
+  name_display: "Christopher W. Blackwell"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+epicuro:
+  name_display: "Epicuro"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+epicteto:
+  name_display: "Epicteto"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+beard:
+  name_display: "Mary Beard"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+woolf:
+  name_display: "Greg Woolf"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+virgilio:
+  name_display: "Virgílio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+ovidio:
+  name_display: "Ovídio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+apuleio:
+  name_display: "Apuleio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+vegecio:
+  name_display: "Flávio Vegécio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Nome latino: Publius Flavius Vegetius Renatus."
+
+seneca:
+  name_display: "Sêneca"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+marco-aurelio:
+  name_display: "Marco Aurélio"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+highet:
+  name_display: "Gilbert Highet"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+campbell:
+  name_display: "Joseph Campbell"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+torrano:
+  name_display: "Jaa Torrano"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor. Tradutor da série Teatro completo de Eurípides (Editora 34)."
+  role: translator
+
+gama-kury:
+  name_display: "Mário da Gama Kury"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor. Tradutor de A trilogia tebana (Zahar)."
+  role: translator
+
+# ---------------------------------------------------------------------------
+# TRADUTORES E COAUTORES acrescentados com o levantamento de edições de
+# 2026-09-12. Tradutores vivem aqui por não existir arquivo próprio para
+# pessoas que não são autores; a distinção fica na `note`.
+# ---------------------------------------------------------------------------
+
+petrovic-a:
+  name_display: "Andrej Petrovic"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Coautor de Ancient Greek Religion a partir da edição da Wiley-Blackwell registrada no acervo."
+
+petrovic-i:
+  name_display: "Ivana Petrovic"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Coautor de Ancient Greek Religion a partir da edição da Wiley-Blackwell registrada no acervo."
+
+fatima-silva:
+  name_display: "Maria de Fátima Silva"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+brandao:
+  name_display: "José Luís Brandão"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+dinucci:
+  name_display: "Aldo Dinucci"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+segurado-campos:
+  name_display: "J. A. Segurado e Campos"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+bassetto:
+  name_display: "Bruno Fregni Bassetto"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+ruth-guimaraes:
+  name_display: "Ruth Guimarães"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+lucas-dias:
+  name_display: "Domingos Lucas Dias"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+carlos-alberto-nunes:
+  name_display: "Carlos Alberto Nunes"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+mario-molina:
+  name_display: "Mário Molina"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+reyes-gil:
+  name_display: "Luis Reyes Gil"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+julien:
+  name_display: "Alfredo Julien"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+lorencini:
+  name_display: "Álvaro Lorencini"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+del-carratore:
+  name_display: "Enzo Del Carratore"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+maria-luiza-borges:
+  name_display: "Maria Luiza X. de A. Borges"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+varzeas:
+  name_display: "Marta Várzeas"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+denis-correa:
+  name_display: "Denis Correa"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+castilho-moreira:
+  name_display: "Vivianne de Castilho Moreira"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+andre-malta:
+  name_display: "André Malta"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+paulo-pinheiro:
+  name_display: "Paulo Pinheiro"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+cavalcante-souza:
+  name_display: "José Cavalcante de Souza"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+brownson:
+  name_display: "Carleton L. Brownson"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+isis-borges:
+  name_display: "Ísis Borges B. da Fonseca"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+echalar:
+  name_display: "Mariana Echalar"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+davila-melo:
+  name_display: "Joana Angélica D'Avila Melo"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+simoes-loureiro:
+  name_display: "M. J. Simões Loureiro"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+jabouille:
+  name_display: "Victor Jabouille"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+de-brose:
+  name_display: "Robert de Brose"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+trajano-vieira:
+  name_display: "Trajano Vieira"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+frederico-lourenco:
+  name_display: "Frederico Lourenço"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+christian-werner:
+  name_display: "Christian Werner"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+artur-parreira:
+  name_display: "Artur M. Parreira"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+rocque-motta:
+  name_display: "Thereza Christina Rocque da Motta"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+burnet:
+  name_display: "John Burnet"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Não é tradutor: estabeleceu o texto grego (Oxford Classical Texts) usado na edição bilíngue da EDUFPA."
+  role: text-editor
+
+gouveia-monteiro:
+  name_display: "João Gouveia Monteiro"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+eduardo-braga:
+  name_display: "José Eduardo Braga"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Tradutor, não autor."
+  role: translator
+
+kant:
+  name_display: "Immanuel Kant"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+adorno:
+  name_display: "Theodor W. Adorno"
+  name_variants: ["Theodor Ludwig Wiesengrund Adorno"]
+  dates: null                 # a pesquisar
+  note: "Coautor da Dialética do Esclarecimento com Horkheimer."
+
+horkheimer:
+  name_display: "Max Horkheimer"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Diretor do Instituto de Pesquisa Social de Frankfurt a partir de 1930."
+
+marcuse:
+  name_display: "Herbert Marcuse"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+lukacs:
+  name_display: "Georg Lukács"
+  name_variants: ["György Lukács"]
+  dates: "1885–1971"
+  note: "Húngaro. A SEP descreve-o como um dos fundadores do marxismo
+         ocidental e precursor da teoria crítica."
+
+habermas:
+  name_display: "Jürgen Habermas"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Assistente de Adorno no Instituto por pouco tempo; a SEP adverte que
+         chamá-lo membro da Escola de Frankfurt é enganoso."
+
+nietzsche:
+  name_display: "Friedrich Nietzsche"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+freud:
+  name_display: "Sigmund Freud"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+hume:
+  name_display: "David Hume"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+# ------------------------------------------------------------------------
+# ACRÉSCIMOS DA IMPORTAÇÃO DE RELIGIÃO — 2026-09-20
+#
+# Nada acima foi alterado ou removido. Autores de obra e tradutores entram na
+# mesma lista, como já era a convenção do acervo (brandao, frederico-lourenco,
+# torrano). Tradutor NUNCA entra em `authors` de uma obra: vive no par
+# obra–publicação, em `contains[].translator` (§E.2b.5).
+# ------------------------------------------------------------------------
+
+noss:
+  name_display: "David S. Noss"
+  name_variants: []
+  dates: null
+  note: "Continuador da linhagem iniciada pelo pai, John B. Noss, em *Man's
+         Religions* (1949). Se John B. Noss vier a entrar no acervo, o id
+         precisa de desambiguação, como jaeger / jaeger-werner."
+
+grangaard:
+  name_display: "Blake R. Grangaard"
+  name_variants: []
+  dates: null
+  note: null
+
+armstrong:
+  name_display: "Karen Armstrong"
+  name_variants: []
+  dates: null
+  note: null
+
+eliade:
+  name_display: "Mircea Eliade"
+  name_variants: []
+  dates: "1907–1986"
+  note: null
+
+culianu:
+  name_display: "Ioan Petru Culianu"
+  name_variants: ["Ioan P. Couliano", "Ioan Petru Couliano"]
+  dates: "1950–1991"
+  note: "Discípulo e executor literário de Eliade. A redação do Dicionário
+         das religiões é substancialmente dele: Eliade morreu em 1986 e a
+         obra saiu em 1990."
+
+berger:
+  name_display: "Peter L. Berger"
+  name_variants: []
+  dates: "1929–2017"
+  note: null
+
+shaw:
+  name_display: "Garry J. Shaw"
+  name_variants: []
+  dates: null
+  note: null
+
+bottero:
+  name_display: "Jean Bottéro"
+  name_variants: []
+  dates: "1914–2007"
+  note: null
+
+kaefer:
+  name_display: "José Ademar Kaefer"
+  name_variants: []
+  dates: null
+  note: null
+
+smith:
+  name_display: "Mark S. Smith"
+  name_variants: []
+  dates: null
+  note: null
+
+finkelstein:
+  name_display: "Israel Finkelstein"
+  name_variants: []
+  dates: null
+  note: null
+
+romer:
+  name_display: "Thomas Römer"
+  name_variants: []
+  dates: null
+  note: null
+
+kugel:
+  name_display: "James L. Kugel"
+  name_variants: []
+  dates: null
+  note: null
+
+ehrman:
+  name_display: "Bart D. Ehrman"
+  name_variants: []
+  dates: null
+  note: null
+
+vermes:
+  name_display: "Géza Vermes"
+  name_variants: []
+  dates: "1924–2013"
+  note: null
+
+rahula:
+  name_display: "Walpola Rahula"
+  name_variants: ["Walpola Rāhula Thera"]
+  dates: "1907–1997"
+  note: null
+
+jefferson:
+  name_display: "Thomas Jefferson"
+  name_variants: []
+  dates: "1743–1826"
+  note: null
+
+xavier:
+  name_display: "Francisco Xavier"
+  name_variants: ["São Francisco Xavier", "Francis Xavier", "Francisco de Jasso y Azpilicueta"]
+  dates: "1506–1552"
+  note: null
+
+joao-paulo-ii:
+  name_display: "João Paulo II"
+  name_variants: ["Karol Wojtyła", "John Paul II"]
+  dates: "1920–2005"
+  note: null
+
+messori:
+  name_display: "Vittorio Messori"
+  name_variants: []
+  dates: null
+  note: "ENTREVISTADOR de Cruzando o Limiar da Esperança, não coautor no
+         sentido comum. O campo `authors` da obra não distingue o papel;
+         levantado em review/religion.md §8."
+
+muceniecks:
+  name_display: "André Szczawlinska Muceniecks"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+santarrita:
+  name_display: "Marcos Santarrita"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+cortes-de-lacerda:
+  name_display: "Roberto Cortes de Lacerda"
+  name_variants: []
+  dates: null
+  note: "Tradutor dos três volumes da História das crenças, na edição
+         Zahar."
+
+castilho-benedetti:
+  name_display: "Ivone Castilho Benedetti"
+  name_variants: []
+  dates: null
+  note: "Tradutora, do francês."
+
+wiesner:
+  name_display: "H. S. Wiesner"
+  name_variants: []
+  dates: null
+  note: "Colaborador do Dictionnaire des religions ('avec la collaboration
+         de'), omitido pelos bylines de varejo."
+
+fernando-tomaz:
+  name_display: "Fernando Tomaz"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+natalia-nunes:
+  name_display: "Natália Nunes"
+  name_variants: []
+  dates: null
+  note: "Cotradutora do Tratado de história das religiões, omitida pelos
+         bylines de varejo. Id desambiguado de `nunes` (Ruy Afonso da Costa
+         Nunes), já no acervo."
+
+rogerio-fernandes:
+  name_display: "Rogério Fernandes"
+  name_variants: []
+  dates: null
+  note: "Tradutor português de O sagrado e o profano — tradução feita do
+         francês, não do alemão original."
+
+barcellos:
+  name_display: "José Carlos Barcellos"
+  name_variants: ["José Carlos Barcelos"]
+  dates: "1958–2008"
+  note: "Tradutor de O Dossel Sagrado. A fonte que o confirma grafa
+         'Barcelos'; a grafia impressa na ficha catalográfica não foi
+         conferida."
+
+mariani-de-macedo:
+  name_display: "José Marcos Mariani de Macedo"
+  name_variants: []
+  dates: null
+  note: "Tradutor, direto do alemão."
+
+thais-rocha-silva:
+  name_display: "Thais Rocha da Silva"
+  name_variants: []
+  dates: null
+  note: "Tradutora; egiptóloga."
+
+marcelo-jacques-morais:
+  name_display: "Marcelo Jacques de Morais"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+pezenti:
+  name_display: "Renato Adriano Pezenti"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+marcionilo:
+  name_display: "Marcos Marcionilo"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+renato-aguiar:
+  name_display: "Renato Aguiar"
+  name_variants: []
+  dates: null
+  note: "Tradutor."
+
+calazans:
+  name_display: "José Carlos Calazans"
+  name_variants: []
+  dates: null
+  note: "Tradutor, do páli; historiador e orientalista."
+
+jair-lot-vieira:
+  name_display: "Jair Lot Vieira"
+  name_variants: []
+  dates: null
+  note: "Tradutor/organizador da edição EDIPRO do Dhammapada — a edição que
+         ele declarou na entrada 23, distinta da que o anúncio guardado
+         identifica."
+
+pessoa-de-lira:
+  name_display: "David Pessoa de Lira"
+  name_variants: []
+  dates: null
+  note: "Tradutor, do grego; assina prefácio, introdução e glossário."
+
+costelloe:
+  name_display: "M. Joseph Costelloe"
+  name_variants: []
+  dates: null
+  note: "Tradutor, introdutor e anotador do corpus epistolar de Francisco
+         Xavier."
+
+ghorayeb:
+  name_display: "Camilo Francisco Ghorayeb"
+  name_variants: []
+  dates: null
+  note: "Cotradutor de O Herói de mil faces, omitido pelos bylines de
+         varejo."
+
+heraclito-pinheiro:
+  name_display: "Heráclito Aragão Pinheiro"
+  name_variants: []
+  dates: null
+  note: "Cotradutor de O Herói de mil faces, omitido pelos bylines de
+         varejo."
+
+rubenstein:
+  name_display: "Harry Rubenstein"
+  name_variants: []
+  dates: null
+  note: "Autor da introdução da edição Smithsonian da Jefferson Bible, com
+         Barbara Clark Smith — NÃO coautor da obra, ao contrário do que o
+         byline de varejo sugere."
+
+bortolini:
+  name_display: "José Bortolini"
+  name_variants: []
+  dates: null
+  note: "Biblista; coordenação editorial da Bíblia de Jerusalém, Paulus,
+         2002."
+
+bazaglia:
+  name_display: "Paulo Bazaglia"
+  name_variants: []
+  dates: null
+  note: "Direção editorial da Bíblia de Jerusalém, Paulus, 2002."
+
+pseudo-apolodoro:
+  name_display: "Pseudo-Apolodoro"
+  name_variants: ["Apolodoro", "Apollodorus", "Apolodoro de Atenas"]
+  dates: null                 # datação da obra disputada; ver a obra, não a pessoa
+  note: "Autor desconhecido da Bibliotheca. A obra foi atribuída a Apolodoro de
+         Atenas (n. c. 180 a.C.), aluno de Aristarco, mas o texto que temos é de
+         um autor posterior — Harvard situa-o no séc. I ou II d.C., a Fondazione
+         Valla entre o II e o III. O nome convencional na bibliografia é
+         Pseudo-Apolodoro, e os anúncios de varejo trazem só 'Apollodorus'."
+
+frazer:
+  name_display: "Sir James George Frazer"
+  name_variants: ["J. G. Frazer", "James G. Frazer"]
+  dates: "1854–1941"
+  note: "Tradutor e anotador da Bibliotheca na Loeb Classical Library (1921).
+         Fellow in Classics no Trinity College, Cambridge, e figura central da
+         antropologia social moderna — autor de The Golden Bough. Tradutor
+         aqui, não autor: a distinção importa porque o seu aparato carrega uma
+         tese antropológica própria. Fonte: hup.harvard.edu, tier 1."
+
+scarpi:
+  name_display: "Paolo Scarpi"
+  name_variants: ["P. Scarpi"]
+  dates: null
+  note: "Professor titular de História das Religiões na Universidade de Pádua
+         (DISSGEA). Curador e autor do comentário da edição da Fondazione
+         Lorenzo Valla da Biblioteca de pseudo-Apolodoro. Fonte: perfil
+         institucional, tier 4."
+
+ciani:
+  name_display: "Maria Grazia Ciani"
+  name_variants: ["M. G. Ciani"]
+  dates: null
+  note: "Tradutora da Biblioteca de pseudo-Apolodoro na edição da Fondazione
+         Lorenzo Valla (Mondadori, 1996). Tradutora, não curadora: o comentário
+         daquele volume é de Paolo Scarpi."
+
+ozmon:
+  name_display: "Howard A. Ozmon"
+  name_variants: ["Howard Ozmon", "H. Ozmon"]
+  dates: null
+  note: "Coautor de Philosophical Foundations of Education, manual americano de
+         filosofia da educação, hoje na 9ª edição (Pearson, 2013)."
+
+craver:
+  name_display: "Samuel M. Craver"
+  name_variants: ["S. M. Craver"]
+  dates: null
+  note: "Coautor de Philosophical Foundations of Education, com Howard Ozmon."
+
+gooley:
+  name_display: "Tristan Gooley"
+  name_variants: []
+  dates: null
+  note: "Navegador e escritor britânico. Escreve sobre navegação natural e
+         leitura de sinais do ambiente — para o hemisfério norte temperado, o
+         que limita o repertório, não o método."
+
+klemperer:
+  name_display: "Victor Klemperer"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Entrou em 2026-09-23 com LTI (Política)."
+
+levitsky:
+  name_display: "Steven Levitsky"
+  name_variants: []
+  dates: null
+  note: "Coautor de Como as democracias morrem (Política), 2026-09-23."
+
+ziblatt:
+  name_display: "Daniel Ziblatt"
+  name_variants: []
+  dates: null
+  note: "Coautor de Como as democracias morrem (Política), 2026-09-23."
+
+shakespeare:
+  name_display: "William Shakespeare"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: null
+
+barbara-heliodora:
+  name_display: "Barbara Heliodora"
+  name_variants: []
+  dates: null                 # morreu em 2015, conforme fonte acadêmica; ano de nascimento a confirmar
+  note: "Tradutora, não autora. Ensaísta e crítica de teatro; traduziu as 38
+         peças de Shakespeare para o português brasileiro."
+
+liana-de-camargo-leao:
+  name_display: "Liana de Camargo Leão"
+  name_variants: ["Liana Leão"]
+  dates: null                 # a pesquisar
+  note: "Organizadora, não autora. Professora e pesquisadora de Shakespeare;
+         organizou as duas caixas da Nova Fronteira e concluiu o Teatro
+         Completo da Nova Aguilar depois da morte da tradutora."
+
+brown:
+  name_display: "Peter C. Brown"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Escritor; o não pesquisador dos três autores de Make It Stick.
+         Entrou em 2026-10-01."
+
+roediger:
+  name_display: "Henry L. Roediger III"
+  name_variants: ["Henry Roediger", "H. L. Roediger III"]
+  dates: null                 # a pesquisar
+  note: "Psicólogo experimental da memória, Washington University in St. Louis;
+         coautor de Make It Stick. Parte da literatura sobre prática de
+         recuperação que o livro sintetiza é dele — a pesquisar."
+
+mcdaniel:
+  name_display: "Mark A. McDaniel"
+  name_variants: ["Mark McDaniel"]
+  dates: null                 # a pesquisar
+  note: "Psicólogo cognitivo, coautor de Make It Stick com Roediger e Brown."
+
+dehaene:
+  name_display: "Stanislas Dehaene"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Neurocientista e matemático francês; professor no Collège de France e
+         diretor da unidade de neuroimagem cognitiva do INSERM-CEA, conforme a
+         própria editora brasileira. Trabalha com leitura e cognição numérica."
+
+guerra:
+  name_display: "Henrique de Oliveira Guerra"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Fixe o Conhecimento para a Penso."
+
+moura-castro:
+  name_display: "Claudio de Moura Castro"
+  name_variants: ["Cláudio de Moura Castro"]
+  dates: null
+  note: "Revisor técnico, não autor. Assina a revisão técnica da edição Penso
+         de Fixe o Conhecimento. Grafia do primeiro nome como a editora a
+         imprime, sem acento; a variante acentuada fica registrada."
+
+ilari:
+  name_display: "Rodolfo Ilari"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu É assim que aprendemos para a Contexto.
+         A revisão da tradução, segundo a ficha catalográfica, é de Beatriz
+         Ilari e Mirna Pinsky — não registradas como pessoas porque nenhum
+         campo as referencia."

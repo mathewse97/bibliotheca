@@ -1,0 +1,247 @@
+# Extração estruturada de review/education.md §3.
+#
+# EVIDÊNCIA VERIFICÁVEL: cada item de `evidence` guarda a prosa original em
+# `claim` e, quando a afirmação é estrutural, um `check` que o build.py
+# reexecuta a cada build. Se o check deixar de valer, a lacuna é marcada
+# `stale` no índice gerado — a prosa continua visível, para que se veja o que
+# era afirmado e o que mudou. Um `check: null` com `checkable: false` é uma
+# admissão honesta: a afirmação depende de julgamento e não pode ser
+# revalidada por máquina.
+#
+# `candidates` é OPCIONAL. Uma lacuna pode existir como detecção pura, com
+# `candidates: []`. Detectar é automático; propor obras não é.
+collection: education
+extracted_from: review/education.md
+by: claude
+date: 2026-09-05
+
+coverage:
+  provisional: true
+  recheck_after: outras-colecoes-importadas
+  note: "Uma obra em Greco-Romana ou Religião pode já ocupar uma destas
+         regiões; nesse caso ela não está rasa, falta-lhe uma membership que
+         ninguém escreveu ainda. A conclusão 'uma lacuna, cinco sintomas' só
+         passa a firme depois da última importação."
+  summary: {covered: 2, thin: 5, absent: 6}
+  # Atualizado 2026-09-10: `critica-da-escola` passou de absent para covered
+  # com a entrada de illich--deschooling-society. Ver review/education.md §7.2.
+
+gaps:
+  - id: education--g01
+    type: type-monoculture
+    necessity: alta
+    context: "Agostinho tem tradição editorial sólida em português;
+              Quintiliano e Hugo de São Vítor, muito menos. Não altera a
+              necessidade de nenhum dos três — entra só em caso de empate."
+    status: open
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    statement: "Das 9 obras, zero são fonte primária. Cinco são história, uma
+                é manifesto, duas são estrutura, uma é método. A coleção
+                percorre dois mil anos de um ideal educativo sem conter um
+                único texto em que esse ideal é exercido."
+    evidence:
+      - claim: "Nenhuma das 9 obras da coleção é fonte primária."
+        check: {type: count_members, collection: education,
+                where: {work_type: primary-source}, expect: 0}
+      - claim: "As cinco regiões rasas são rasas do mesmo modo: história sem
+                fonte. Uma lacuna, cinco sintomas. [PROVISÓRIO]"
+        check: {type: region_count, collection: education,
+                where: {coverage: thin}, expect: 5}
+    candidates:
+      - work_title: "Agostinho — A Doutrina Cristã (De Doctrina Christiana)"
+        verdict: gap-filler
+        argument: "A sua justificativa do item 2 — 'o cristianismo não
+                   simplesmente abandona a tradição clássica, mas a incorpora,
+                   transforma e dá a ela uma nova finalidade' — É a tese deste
+                   livro. O Livro IV é o momento exato em que a retórica
+                   clássica é batizada. Nunes narra o processo; Agostinho é o
+                   processo."
+        placement:
+          collection: education
+          after: nunes--historia-da-educacao-na-antiguidade-crista
+          role: primary-source
+          demand: exigente
+          priority_library: core
+      - work_title: "Quintiliano — Institutio Oratoria"
+        verdict: complementary
+        argument: "Fonte primária do estágio 1 e excelente, mas volumosa, e o
+                   estágio 1 já tem Marrou como guia forte."
+      - work_title: "Hugo de São Vítor — Didascalicon"
+        verdict: gap-filler
+        argument: "O texto medieval sobre a ordem das artes; curto e encaixado
+                   no estágio 3. Segundo colocado real, e o melhor candidato
+                   se você quiser duas fontes primárias."
+      - work_title: "Comênio — Didática Magna"
+        verdict: complementary
+        argument: "Fonte primária, mas já é o modelo moderno que confronta a
+                   tradição, não a tradição."
+    raised: 2026-09-05
+
+  - id: education--g02
+    type: period-discontinuity
+    necessity: media
+    context: "Disponibilidade de Newman em português a verificar, e pode ser
+              má. Se for, a necessidade continua média — muda o custo de a
+                                                         s
+                                                         a
+                                                         t
+                                                         i
+                                                         s
+                                                         f
+                                                         a
+                                                         z
+                                                         e
+                                                         r
+                                                         ,
+                                                         e
+                                                         i
+                                                         s
+                                                         s
+                                                         o
+                                                         é
+                                                         a
+                                                         s
+                                                         s
+                                                         u
+                                                         n
+                                                         t
+                                                         o
+                                                         d
+                                                         a
+                                                         e
+                                                         s
+                                                         c
+                                                         o
+                                                         l
+                                                         h
+                                                         a
+                                                         d
+                                                         e
+                                                         e
+                                                         d
+                                                         i
+                                                         ç
+                                                         ã
+                                                         o
+                                                         ."
+    status: open
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    statement: "O estágio 4 da sua cadeia diz 'como mudou no Renascimento e na
+                modernidade', mas a modernidade termina no século XVII com
+                Nunes e o elo seguinte é Adler, de 1982. Faltam os dois
+                séculos em que o ideal clássico foi desmontado e defendido."
+    evidence:
+      - claim: "Região iluminismo-seculo-xviii: absent."
+        check: {type: region, collection: education,
+                region: iluminismo-seculo-xviii, expect: {coverage: absent}}
+      - claim: "Região seculo-xix: thin desde 2026-09-19 — Weber, 'A Ciência
+                como Vocação', entrou na coleção e a sustenta de raspão."
+        check: {type: region, collection: education,
+                region: seculo-xix, expect: {coverage: thin}}
+        note: "A lacuna NÃO se fecha com isso, e por isso continua `open`. A
+               conferência de Weber é sobre a universidade de pesquisa já
+               consolidada, vista de dentro, e não sobre o século em que o
+               ideal de formação liberal foi defendido e desmontado. Ela é
+               precisamente a voz que diz que a universidade não pode formar;
+               falta a voz que defendeu que ela podia — ver o candidato
+               abaixo. O predicado foi atualizado em 2026-09-19 para não
+               ficar stale mentindo sobre o estado atual."
+
+    candidates:
+      - work_title: "John Henry Newman — A Ideia de uma Universidade"
+        verdict: gap-filler
+        argument: "A defesa mais forte do ideal de formação liberal escrita
+                   depois de ele ter sido posto em causa. Adler argumenta para
+                   escolas o que Newman argumentou para a universidade."
+        over: "Émile é o outro candidato óbvio, mas é a obra que ROMPE com a
+               tradição, não a que a defende — e Rousseau já está na
+               biblioteca por Política, o que faz dele um caso de membership."
+        placement:
+          collection: education
+          after: nunes--historia-da-educacao-no-seculo-xvii
+          role: foundational
+          demand: moderado
+          priority_library: secondary
+    raised: 2026-09-05
+
+  - id: education--g03
+    type: dangling-interlocutor
+    necessity: alta
+    context: "Há tradução histórica de Dewey em português — conveniente e
+              irrelevante para a necessidade."
+    status: open
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    only_visible_under: escopo-largo
+    statement: "A posição de Adler constituiu-se historicamente contra a
+                educação progressista. A coleção contém a posição e não contém
+                aquilo a que ela responde. tensions: [] é a forma que esse
+                vazio toma no arquivo."
+    evidence:
+      - claim: "adler--the-paideia-proposal presente; região
+                educacao-progressista: absent."
+        check:
+          - {type: member_present, collection: education,
+             work: adler--the-paideia-proposal}
+          - {type: region, collection: education,
+             region: educacao-progressista, expect: {coverage: absent}}
+      - claim: "tensions da coleção: 0 pares, contra 8 em political-thought."
+        check:
+          - {type: count_tensions, collection: education, expect: 0}
+          - {type: count_tensions, collection: political-thought, expect: 8}
+    candidates:
+      - work_title: "John Dewey — Democracia e Educação"
+        verdict: gap-filler
+        argument: "Exposição sistemática da posição contrária, escrita por quem
+                   a formulou."
+        placement:
+          collection: education
+          before: adler--the-paideia-proposal
+          role: foundational
+          demand: moderado
+          priority_library: core
+          note: "Antes de Adler, para que Adler se leia como resposta — que é
+                 o que é. Depois, Dewey pareceria apêndice crítico e a
+                 história ficaria invertida."
+      - work_title: "Paulo Freire — Pedagogia do Oprimido"
+        verdict: different-region
+        argument: "Fecha pedagogia-critica, não esta. Freire não é o
+                   interlocutor de Adler; é outro interlocutor, de outra
+                   pergunta. Necessidade própria real e estrutural."
+        context_note: "Original em português e de altíssima saliência no
+                       Brasil. Registrado, sem efeito na prioridade. Qual das
+                       regiões vazias tem precedência decide-se por
+                       necessidade comparada, e essa comparação não pode ser
+                       feita antes da cobertura cruzada."
+      - work_title: "Illich — Sociedade sem Escolas"
+        verdict: different-region
+        argument: "Recusa a forma escolar inteira, incluindo a de Dewey."
+        status_note: "Atualizado 2026-09-10: obra registrada na biblioteca como
+                      illich--deschooling-society, membro de education na
+                      região critica-da-escola (movimento V). Isto NÃO fecha
+                      g03 — o interlocutor específico de Adler continua sendo
+                      Dewey, ainda ausente."
+    raised: 2026-09-05
+
+memberships_not_gaps:
+  note: "Obras já na biblioteca que E-G1 pediria. Não são compras: são novas
+         participações do mesmo registro canônico."
+  candidates:
+    - work: platao--politeia
+      scope: "Livros II–III e VII"
+      role: primary-source
+      rationale: "A paideía sendo argumentada, não descrita."
+    - work: aristoteles--politika
+      scope: "Livros VII–VIII"
+      role: primary-source
+      rationale: "A formação do cidadão como função da cidade."
+    - work: agostinho--de-civitate-dei
+      scope: seletivo
+      role: complementary
+      rationale: "Contexto para A Doutrina Cristã, se E-G1 for aceito."
+  effect_if_accepted: "E-G1 muda de severidade: a coleção deixa de ter zero
+                       fontes primárias. Sobra a lacuna cristã e medieval, e a
+                       proposta fica mais estreita e mais forte."
+  recommendation: "Decidir isto antes das lacunas. É mais barato e altera-as."

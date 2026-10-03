@@ -1,0 +1,118 @@
+# Extração estruturada de review/greco-roman.md §6.
+#
+# DETECÇÃO PURA. Os três registros abaixo têm `candidates: []`, e isso é um
+# estado normal e completo: detectar ausências é automático, propor obras não
+# é. Nada aqui é uma compra devida, e nenhuma região `absent` é uma dívida.
+collection: greco-roman
+extracted_from: review/greco-roman.md
+by: claude
+date: 2026-09-12
+
+coverage:
+  provisional: false
+  recheck_after: null
+  note: "Ao contrário de Educação, esta coleção NÃO é provisória por
+         dependência de coleções não importadas: ela é a maior do acervo e as
+         regiões ausentes são ausentes no acervo inteiro, não só aqui. Uma
+         revisão será necessária se Religião for importada — a região
+         `religiao-romana-e-cristianismo-antigo` é a candidata óbvia a ser
+         coberta de lá por participação de uma obra que já teremos, não por compra."
+  summary: {covered: 10, thin: 3, absent: 5}
+
+gaps:
+  - id: greco-roman--g01
+    type: asymmetric-coverage
+    necessity: alta
+    context: "Lívio, Tácito, Salústio e Suetônio têm tradição editorial sólida
+              em português. Isso é contexto e não hierarquiza: registra-se, e
+              não altera a necessidade."
+    status: open
+    provisional: false
+    statement: "A coleção contém oito obras de historiografia grega e
+                instituições — três fontes antigas entre elas — e ZERO fontes
+                antigas sobre a história de Roma. Roma entra por dois
+                historiadores modernos (Beard, Woolf), quatro obras literárias,
+                três filósofos morais e um tratado militar. A coleção estuda
+                como os gregos narraram a si mesmos e como os romanos
+                escreveram poesia e moral, mas não como os romanos narraram a
+                si mesmos. É a assimetria estrutural mais forte do acervo."
+    evidence:
+      - claim: "Cinco dos dezoito assuntos não têm nenhuma obra, e entre eles estão as
+                fontes antigas sobre a Roma republicana e sobre a Roma imperial —
+                enquanto a historiografia grega está coberta."
+        check: {type: region_count, collection: greco-roman,
+                where: {coverage: absent}, expect: 5}
+      - claim: "O movimento IX contém dois historiadores MODERNOS e nenhuma
+                fonte histórica antiga; Vegécio é o único texto antigo não
+                literário de Roma na coleção, e é um tratado técnico."
+        check: null
+        checkable: false
+        reason: "Depende de classificar que tipo de obra é cada uma, e esse dado ainda não
+                 foi pesquisado em nenhum dos 71 registros novos. Torna-se
+                 verificável quando a pesquisa existir."
+    candidates: []
+
+  - id: greco-roman--g02
+    type: absent-region
+    necessity: media
+    context: null
+    status: open
+    provisional: false
+    statement: "A cultura material e visual greco-romana está inteiramente
+                ausente: nenhuma obra sobre escultura, arquitetura, cerâmica,
+                urbanismo ou arqueologia. A coleção chama-se 'Cultura e
+                História Greco-Romana' e a sua evidência é integralmente
+                textual. Registro isto como tensão entre o nome e o conteúdo,
+                não como deficiência: uma coleção pode ser deliberadamente
+                textual, e essa é uma decisão sua que ainda não foi tomada."
+    evidence:
+      - claim: "O assunto 'arte, arquitetura e cultura material' não tem
+                nenhuma obra que o sustente."
+        check: {type: region, collection: greco-roman,
+                region: arte-arquitetura-cultura-material,
+                expect: {coverage: absent}}
+    candidates: []
+
+  - id: greco-roman--g03
+    type: absent-region
+    necessity: baixa
+    context: null
+    status: open
+    provisional: true
+    recheck_after: religiao-importada
+    statement: "Ciência e medicina antigas ausentes, e religião romana e
+                cristianismo antigo ausentes. A primeira é a mesma
+                transformação intelectual que os movimentos V e VI narram,
+                vista por outro material — a coleção conta a passagem do mito
+                ao logos sem a matemática, a astronomia e a medicina que fazem
+                parte dela. A segunda é provisória: a coleção de Religião,
+                ainda não importada, pode cobri-la por participação e não por
+                compra."
+    evidence:
+      - claim: "Os assuntos 'ciência e medicina antigas' e 'religião romana e cristianismo
+                antigo' não têm nenhuma obra."
+        check: {type: region, collection: greco-roman,
+                region: ciencia-e-medicina-antigas,
+                expect: {coverage: absent}}
+      - claim: "Uma parte desta lacuna pode dissolver-se quando Religião for
+                importada. [PROVISÓRIO]"
+        check: null
+        checkable: false
+        reason: "Depende de uma coleção que não existe ainda."
+    candidates: []
+
+# ---------------------------------------------------------------------------
+# UMA AUSÊNCIA QUE NÃO ERA LACUNA — §2.7 aplicado ANTES da análise, e não
+# depois. Três obras da lista já estavam na biblioteca, vindas de Política.
+# Não geraram registro de obra nem aquisição: geraram participações.
+# ---------------------------------------------------------------------------
+memberships_not_gaps:
+  - work: platao--politeia
+    from_collection: political-thought
+    resolved_as: membership
+  - work: aristoteles--politika
+    from_collection: political-thought
+    resolved_as: membership
+  - work: tucidides--historiai
+    from_collection: political-thought
+    resolved_as: membership

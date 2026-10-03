@@ -1,0 +1,66 @@
+# ---------------------------------------------------------------------------
+# A LISTA BRANCA DE ESCRITA.
+# A interface só pode escrever campos declarados aqui, e só no arquivo
+# indicado. Nada fora desta lista é editável pela interface em nenhuma
+# circunstância — nem por engano, nem por um toque distraído no telemóvel.
+#
+# Acrescentar um campo editável no futuro é acrescentar uma linha aqui.
+# A interface lê este arquivo e desenha os controles a partir dele; não há
+# nenhuma lista de campos codificada na interface.
+# ---------------------------------------------------------------------------
+version: 1
+state_file: state/personal.yaml
+
+targets:
+
+  # Estado de LEITURA pertence à OBRA — você lê uma obra, não um volume.
+  work:
+    key: works
+    fields:
+      - name: reading_status
+        label_pt: "Leitura"
+        type: enum
+        values: [nao-lido, lendo, lido, relendo, abandonado]
+        default: nao-lido
+      - name: started
+        label_pt: "Início"
+        type: date
+      - name: finished
+        label_pt: "Conclusão"
+        type: date
+      - name: priority_personal
+        label_pt: "Prioridade sua"
+        type: enum
+        values: [alta, media, baixa, nenhuma]
+        note: "Sua. Distinta de priority_library, que é curatorial e não é
+               editável aqui."
+      - name: note_ref
+        label_pt: "Nota no Obsidian"
+        type: string
+        note: "Apenas um caminho. A interface nunca lê nem escreve o conteúdo
+               da nota."
+
+  # POSSE pertence à PUBLICAÇÃO — você compra um objeto físico, e esse objeto
+  # pode conter várias obras. Consequência direta da separação obra/publicação.
+  publication:
+    key: publications
+    fields:
+      - name: ownership
+        label_pt: "Posse"
+        type: enum
+        values: [nenhum, quero-comprar, encomendado, tenho, dispensei]
+        default: nenhum
+      - name: acquired
+        label_pt: "Adquirido em"
+        type: date
+      - name: acquired_where
+        label_pt: "Onde"
+        type: string
+
+# Campos explicitamente NÃO editáveis pela interface, por serem curatoriais
+# ou bibliográficos. Ficam aqui nomeados para que a fronteira seja legível:
+locked:
+  - "tudo em works/ exceto o que está acima"
+  - "tudo em collections/ — sequência, papel, why_here, movimentos, caminhos"
+  - "tudo em publications/ — editora, tradutor, ISBN, veredito"
+  - "review/ e review/gaps/ — lacunas, necessidade, contexto"

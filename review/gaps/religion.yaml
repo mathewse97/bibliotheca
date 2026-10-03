@@ -1,0 +1,191 @@
+# Extração estruturada de review/religion.md as regras de curadoria.
+#
+# DETECÇÃO PURA. Os três registros abaixo têm `candidates: []`, e isso é um
+# estado normal e completo: detectar ausências é automático, propor obras não é.
+# Nada aqui é uma compra devida, e nenhuma região ausente é uma dívida (as regras de curadoria).
+#
+# O que dá força a estas três lacunas é que o SINAL não é a minha leitura do
+# acervo: são as próprias frases em itálico que ele escreveu sob os cabeçalhos
+# das seções V, VI e VII, que nomeiam tradições e períodos que a coleção não
+# cobre. A intenção é declarada por ele; a ausência é fato dos dados.
+collection: religion
+extracted_from: review/religion.md
+by: claude
+date: 2026-09-20
+
+coverage:
+  provisional: true
+  recheck_after: outras-colecoes-importadas
+  note: "Provisória por dependência cruzada, e de forma assimétrica: a região
+         `mitologia-comparada` está pouco coberto com uma obra, mas greco-roman tem
+         Grimal, Vernant, Veyne e Burkert, que tratam mito e religião — parte
+         do que parece ausente aqui pode ser participação em falta (a regra da participação em vez de compra), não
+         compra. A direção inversa também vale: as entradas 19, 20 e 21 desta
+         coleção tratam do cristianismo primitivo, e a região
+         `religiao-romana-e-cristianismo-antigo` de greco-roman está ausente
+         com uma nota que já previa exatamente isso. Ver review/religion.md as regras de curadoria."
+  summary: {covered: 9, thin: 3, absent: 6}
+
+gaps:
+  - id: religion--g01
+    type: one-sided-tradition
+    necessity: media-alta
+    context: null
+    status: open
+    provisional: false
+    statement: "Seis das trinta obras da coleção são de Mircea Eliade: os três
+                volumes da História das crenças e das ideias religiosas, o
+                Tratado de história das religiões, O sagrado e o profano e o
+                Dicionário das religiões, este em coautoria. São cerca de 2.600
+                páginas, um quinto da coleção, e todas defendem a mesma
+                abordagem — a de que existe uma estrutura do sagrado comum a
+                todas as culturas, que o estudioso pode isolar e classificar.
+                Essa abordagem é contestada na universidade há décadas, e a
+                coleção não tem nenhuma obra que apresente a contestação. Quem
+                ler a coleção na ordem vai aprender a olhar religião pelos olhos
+                de Eliade três vezes antes de encontrar qualquer outra lente.
+                O Dossel Sagrado, de Peter L. Berger, é o contraponto que existe
+                hoje, e é bom: mostra como uma sociedade constrói o sagrado em
+                vez de encontrá-lo pronto. Mas Berger é sociólogo e não discute o
+                método de Eliade — ele muda de assunto em vez de responder.
+                Isto é apenas uma constatação. A escolha das obras é sua e não se
+                mexe nela. Não há aqui nenhuma compra a fazer."
+    evidence:
+      - claim: "Seis participações da coleção são de obras de Mircea Eliade,
+                sozinho ou em coautoria."
+        check: {type: count_members, collection: religion,
+                where: {authors: eliade}, expect: 6}
+        checkable: true
+      - claim: "Nenhuma obra da coleção está registrada como contestando a
+                tradição de outra. É esse registro que a biblioteca usa para
+                detectar uma corrente sem réplica, e ele está vazio aqui."
+        check: {type: relation_count, from: berger--the-sacred-canopy,
+                to: eliade--traite-dhistoire-des-religions,
+                types: [ligação de 'contesta esta tradição'], expect: 0}
+        checkable: true
+    candidates:
+      - work_title: "Jonathan Z. Smith — To Take Place: Toward Theory in Ritual
+                     (University of Chicago Press, 1987, ~180 p.)"
+        verdict: gap-filler
+        argument: "A tese do livro: o sagrado não é algo que existe e se
+                   manifesta às pessoas — é efeito do lugar e da atenção, isto
+                   é, do ritual. Smith demonstra isso voltando aos próprios
+                   exemplos que Eliade usou como prova, sobretudo o poste
+                   sagrado de um povo aborígene australiano, e mostrando que as
+                   fontes não dizem o que Eliade afirma que dizem. A conclusão:
+                   o padrão que Eliade encontra entre culturas é obra de quem
+                   compara, não coisa que esteja nas culturas."
+        over: "É o melhor contraponto porque não desqualifica Eliade de fora:
+               Smith leu-o a vida inteira e o refuta no terreno dele, com os
+               mesmos materiais. As alternativas atacam outra coisa —
+               Manufacturing Religion, de Russell McCutcheon, ataca a função
+               social da categoria; e Impostures et pseudo-science, de Daniel
+               Dubuisson, é sobretudo crítica político-biográfica."
+        context_note: "Dentro da coleção já existe um contraponto parcial e
+                       genuíno: O Dossel Sagrado, de Peter Berger, que mostra
+                       como uma sociedade constrói o sagrado em vez de
+                       encontrá-lo pronto. Berger não discute o método de
+                       Eliade, por isso a lacuna não se fecha — mas fica menos
+                       severa. Nada aqui é compra devida."
+
+  - id: religion--g02
+    type: unanswered-movement
+    necessity: alta
+    context: "Há boas edições em português de fontes e introduções às quatro
+              tradições. Isso é contexto e NÃO hierarquiza a necessidade
+              (a regra de que contexto não hierarquiza): registra-se e não altera nada."
+    status: open
+    provisional: true
+    recheck_after: outras-colecoes-importadas
+    statement: "Você escreveu, sob o título do movimento Religiões específicas,
+                a frase 'Budismo, hinduísmo, islamismo, judaísmo etc.' O
+                movimento tem duas obras, e as duas são sobre budismo:
+                What the Buddha Taught, de Walpola Rahula, e o Dhammapada.
+                Hinduísmo, islamismo e judaísmo como tradição viva não aparecem
+                em nenhuma obra da coleção.
+                O desequilíbrio é maior do que parece, porque o judaísmo antigo
+                está muito bem coberto — mas como pré-história da Bíblia, não
+                como religião que continuou existindo. E o islã aparece só como
+                um capítulo dentro do terceiro volume de Eliade.
+                É uma constatação, não uma lista de compras."
+    evidence:
+      - claim: "As regiões hinduismo, islamismo e judaismo-pos-biblico estão
+                todas ausente, e as três foram nomeadas por ele na frase do
+                movimento V."
+        check: {type: region, collection: religion, region: hinduismo,
+                expect: {assunto ausente, pursuit: open}}
+        checkable: true
+      - claim: "O movimento V tem exatamente duas obras, ambas budistas."
+        check: {type: member_present, collection: religion,
+                work: rahula--what-the-buddha-taught, expect: true}
+        checkable: true
+    candidates: []
+
+  - id: religion--g03
+    type: unanswered-movement
+    necessity: media-alta
+    context: null
+    status: open
+    provisional: false
+    statement: "O movimento VI chama-se 'Cristianismo' e a frase que ELE escreveu
+                sob o cabeçalho declara: 'Cristianismo primitivo, Padres da
+                Igreja, história da Igreja, escolástica, Reforma, teologia etc.'
+                O movimento contém três obras: a Bíblia de Jefferson, que é uma
+                releitura racionalista do século XIX; as cartas de Francisco
+                Xavier, que são missão do século XVI; e Cruzando o Limiar da
+                Esperança, que é reflexão confessional contemporânea.
+                Nenhum Padre da Igreja. Nenhuma obra sobre a história
+                institucional. Nenhuma escolástica. Nenhuma Reforma. Nenhuma
+                teologia sistemática. O cristianismo primitivo, que a frase
+                nomeia primeiro, está coberto — mas pelo movimento IV, não por
+                este. O movimento que se chama 'Cristianismo' é, hoje, o
+                movimento em que o cristianismo menos aparece como assunto
+                próprio.
+                Registro isto como tensão entre o nome declarado e o conteúdo,
+                não como deficiência: uma coleção pode ser deliberadamente
+                parcial, e essa é uma decisão dele que ainda não foi tomada."
+    evidence:
+      - claim: "A região cristianismo-historico-e-teologia está ausente,
+                enquanto novo-testamento-e-jesus-historico está coberto —
+                isto é, o cristianismo entra pela formação dos textos e não pela
+                sua história posterior."
+        check: {type: region, collection: religion,
+                region: cristianismo-historico-e-teologia,
+                expect: {assunto ausente, pursuit: open}}
+        checkable: true
+      - claim: "Agostinho, De civitate Dei, JÁ ESTÁ na biblioteca, vindo de
+                Pensamento Político. Antes de tratar esta ausência como compra,
+                verificar se o que falta é uma PARTICIPAÇÃO (a regra da participação em vez de compra)."
+        check: {type: member_present, collection: religion,
+                work: agostinho--de-civitate-dei, expect: false}
+        checkable: true
+    candidates: []
+
+# ---------------------------------------------------------------------------
+# PARTICIPAÇÕES EM FALTA, NÃO COMPRAS (a regra da participação em vez de compra)
+#
+# Decidir participações ANTES das lacunas é mais barato e altera-as: aceitar
+# uma participação pode reduzir a severidade de uma lacuna ou dissolvê-la.
+# Nada abaixo foi aplicado — acrescentar participação é mudança estrutural e
+# exige aprovação dele (as regras de curadoria).
+# ---------------------------------------------------------------------------
+memberships_not_gaps:
+  - work: agostinho--de-civitate-dei
+    already_in: [political-thought]
+    would_serve: religion--g03
+    note: "A Cidade de Deus é um Padre da Igreja e a maior obra de teologia da
+           história da Igreja antiga. Está na biblioteca desde o import de
+           Pensamento Político. Se entrar aqui, entra como participação nova,
+           com papel e argumento próprios — não como aquisição."
+  - work: vernant--mythe-et-religion-en-grece-ancienne
+    already_in: [greco-roman]
+    would_serve: null
+    note: "Mito e religião na Grécia antiga trata exatamente da relação entre
+           mito e religião que o movimento VII levanta. Participação possível,
+           não lacuna."
+  - work: burkert--griechische-religion
+    already_in: [greco-roman]
+    would_serve: null
+    note: "Religião grega arcaica e clássica inclui os cultos de mistério, que a
+           frase do movimento VII nomeia e a região `cultos-de-misterio` registra
+           como ausente. É o caso mais claro de participação em falta da coleção."

@@ -1,0 +1,1263 @@
+<title>Bibliotheca</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#F6F8F6; --surface:#FFF; --surface-2:#EEF2EF; --surface-3:#E4EAE6;
+  --ink:#131E1A; --ink-soft:#4B5A54; --ink-faint:#7A8A83;
+  --rule:#D6DED9; --rule-2:#B6C2BC;
+  --accent:#1F5B4E; --accent-ink:#16443A; --accent-soft:#E1EDE8;
+  --flag:#8A4B1E; --flag-soft:#F4E7DC;
+  --ok:#2C6B4F; --ok-soft:#E2EFE7;
+  --warn:#8A6A1E; --warn-soft:#F5EDDA;
+  --serif:"Spectral",Georgia,serif;
+  --sans:"IBM Plex Sans",-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#0F1512; --surface:#161D19; --surface-2:#1C2521; --surface-3:#232E29;
+  --ink:#E7EDE9; --ink-soft:#A0AFA8; --ink-faint:#77867F;
+  --rule:#29332E; --rule-2:#3A463F;
+  --accent:#74C2A8; --accent-ink:#9BD8C2; --accent-soft:#182A24;
+  --flag:#D89261; --flag-soft:#2A1F16;
+  --ok:#6FBE93; --ok-soft:#16281F;
+  --warn:#D6B466; --warn-soft:#2A2415;
+}}
+:root[data-theme="dark"]{
+  --ground:#0F1512; --surface:#161D19; --surface-2:#1C2521; --surface-3:#232E29;
+  --ink:#E7EDE9; --ink-soft:#A0AFA8; --ink-faint:#77867F;
+  --rule:#29332E; --rule-2:#3A463F;
+  --accent:#74C2A8; --accent-ink:#9BD8C2; --accent-soft:#182A24;
+  --flag:#D89261; --flag-soft:#2A1F16;
+  --ok:#6FBE93; --ok-soft:#16281F;
+  --warn:#D6B466; --warn-soft:#2A2415;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-ink);text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;letter-spacing:-.015em;margin:0;text-wrap:balance}
+h1{font-size:1.75rem;line-height:1.15;font-weight:800}
+h2{font-size:1.2rem;margin:28px 0 10px}
+h3{font-size:1rem;margin:20px 0 8px}
+p{margin:0 0 .8em}
+code{font-family:var(--mono);font-size:.86em;background:var(--surface-2);padding:1px 4px;border-radius:3px}
+
+/* shell */
+.shell{display:grid;grid-template-columns:212px 1fr;min-height:100vh}
+.side{border-right:1px solid var(--rule);background:var(--surface);padding:14px 0;position:sticky;top:0;height:100vh;overflow-y:auto}
+.brand{font-family:var(--serif);font-weight:800;font-size:1.05rem;padding:0 16px 12px;letter-spacing:-.02em}
+.brand span{color:var(--accent)}
+.side nav a{display:flex;justify-content:space-between;gap:8px;padding:6px 16px;color:var(--ink-soft);font-size:13px}
+.side nav a:hover{background:var(--surface-2);text-decoration:none;color:var(--ink)}
+.side nav a.on{background:var(--accent-soft);color:var(--accent-ink);font-weight:500;box-shadow:inset 2px 0 0 var(--accent)}
+.side nav a b{font-family:var(--mono);font-weight:400;font-size:11px;color:var(--ink-faint)}
+.sect{font-family:var(--mono);font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-faint);padding:16px 16px 5px}
+main{padding:20px 26px 80px;max-width:1000px;min-width:0}
+.topbar{display:flex;gap:10px;align-items:center;margin-bottom:18px;flex-wrap:wrap}
+#q{flex:1;min-width:180px;padding:7px 10px;border:1px solid var(--rule-2);border-radius:4px;background:var(--surface);color:var(--ink);font:inherit;font-size:13px}
+.pill-btn{border:1px solid var(--rule-2);background:var(--surface);color:var(--ink);font:inherit;font-size:12px;padding:6px 10px;border-radius:4px;cursor:pointer}
+.pill-btn:hover{background:var(--surface-2)}
+.pill-btn.hot{background:var(--flag-soft);border-color:var(--flag);color:var(--flag);font-weight:600}
+
+/* badges */
+.b{display:inline-block;font-family:var(--mono);font-size:10.5px;letter-spacing:.04em;padding:1.5px 6px;border-radius:3px;background:var(--surface-2);color:var(--ink-soft);white-space:nowrap;vertical-align:1px}
+.b.ok{background:var(--ok-soft);color:var(--ok)}
+.b.warn{background:var(--warn-soft);color:var(--warn)}
+.b.flag{background:var(--flag-soft);color:var(--flag)}
+.b.acc{background:var(--accent-soft);color:var(--accent-ink)}
+.b.core{background:var(--accent-soft);color:var(--accent-ink);font-weight:600}
+.unk{color:var(--ink-faint);font-style:italic}
+.by{font-family:var(--mono);font-size:10px;color:var(--ink-faint);letter-spacing:.04em}
+
+/* cards & lists */
+.grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(258px,1fr))}
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:15px 17px;
+     transition:border-color .12s, box-shadow .12s}
+.card:hover{border-color:var(--rule-2);box-shadow:0 2px 10px rgba(0,0,0,.05)}
+.card h3{margin:0 0 4px;font-size:1rem}
+.muted{color:var(--ink-soft)}
+.small{font-size:12.5px}
+.stats{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:5px;overflow:hidden;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));margin-bottom:20px}
+.stats div{background:var(--surface);padding:10px 13px}
+.stats dt{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-faint)}
+.stats dd{margin:2px 0 0;font-size:1.35rem;font-family:var(--serif);font-weight:600;font-variant-numeric:tabular-nums}
+.stats dd small{display:block;margin-top:1px;font-size:.7rem;font-family:var(--sans);font-weight:400;color:var(--ink-faint);line-height:1.3}
+
+.rows{border:1px solid var(--rule);border-radius:6px;overflow:hidden;background:var(--surface)}
+.row{display:grid;grid-template-columns:minmax(28px,auto) 1fr auto;gap:12px;padding:11px 15px;
+     border-bottom:1px solid var(--rule);align-items:baseline;transition:background .12s}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--surface-2)}
+.row .t>a{font-size:14.5px}
+/* Hierarquia por EXCEÇÃO: o normal não recebe selo. 125 de 146 obras estão
+   por pesquisar — um selo em todas elas não informa nada e é o maior ruído
+   visual da interface. Marca-se o que foge à norma. */
+.dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--accent);
+     margin-right:6px;vertical-align:2px}
+.glyph{font-family:var(--mono);font-size:11px;color:var(--ink-faint);margin-left:6px}
+
+/* cabeçalho de página */
+.ph{margin:0 0 18px}
+.ph .eyebrow{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;
+     text-transform:uppercase;color:var(--accent);margin-bottom:5px}
+.ph h1{margin:0}
+.ph .sub{color:var(--ink-soft);margin:6px 0 0;max-width:62ch}
+
+/* busca incremental */
+.searchwrap{position:relative;flex:1;min-width:180px}
+.searchwrap #q{width:100%}
+.sug{position:absolute;z-index:40;left:0;right:0;top:calc(100% + 5px);
+     background:var(--surface);border:1px solid var(--rule-2);border-radius:6px;
+     box-shadow:0 10px 28px rgba(0,0,0,.14);overflow:hidden;max-height:58vh;overflow-y:auto}
+.sug a{display:block;padding:8px 12px;border-bottom:1px solid var(--rule);color:var(--ink);font-size:13px}
+.sug a:last-child{border-bottom:0}
+.sug a:hover{background:var(--accent-soft);text-decoration:none}
+.sug .k{font-family:var(--mono);font-size:10px;letter-spacing:.07em;
+     text-transform:uppercase;color:var(--ink-faint);margin-right:7px}
+.sug .none{padding:10px 12px;color:var(--ink-faint);font-size:13px}
+
+/* agrupadores do catálogo */
+.gh{padding:9px 15px;background:var(--surface-2);border-top:1px solid var(--rule);
+    border-bottom:1px solid var(--rule);font-family:var(--mono);font-size:11px;
+    letter-spacing:.07em;text-transform:uppercase;color:var(--ink-soft);
+    display:flex;justify-content:space-between;gap:10px}
+.gh:first-child{border-top:0}
+
+/* agenda */
+.todo{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));margin:0}
+.todo a{display:block;background:var(--surface);border:1px solid var(--rule);
+    border-left:3px solid var(--accent);border-radius:5px;padding:11px 13px;color:var(--ink)}
+.todo a:hover{background:var(--surface-2);text-decoration:none}
+.todo b{display:block;font-family:var(--serif);font-size:1.3rem;font-weight:600;
+    font-variant-numeric:tabular-nums;line-height:1.1}
+.todo span{font-size:12.5px;color:var(--ink-soft)}
+.row .n{font-family:var(--mono);font-size:11px;color:var(--ink-faint);text-align:right;font-variant-numeric:tabular-nums}
+.row .t{min-width:0}
+.row .t .au{color:var(--ink-faint);font-size:12.5px}
+.row .meta{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end}
+.mv{background:var(--surface-3);padding:12px 15px;font-family:var(--serif);font-size:14px;
+     font-weight:600;letter-spacing:-.01em;text-transform:none;color:var(--ink);
+     border-bottom:1px solid var(--rule-2);border-top:3px solid var(--rule-2)}
+.mv .pp{display:block;font-family:var(--sans);font-size:12.5px;text-transform:none;letter-spacing:0;color:var(--ink-soft);margin-top:3px;font-weight:400}
+
+.kv{display:grid;grid-template-columns:150px 1fr;gap:6px 14px;font-size:13px;margin:10px 0}
+.kv dt{color:var(--ink-faint);font-family:var(--mono);font-size:11px;letter-spacing:.04em;padding-top:2px}
+.kv dd{margin:0}
+.panel{border:1px solid var(--rule);border-radius:5px;background:var(--surface);padding:14px 16px;margin:14px 0}
+.panel.pers{border-color:var(--accent);background:var(--accent-soft)}
+.panel.prov{border-left:3px solid var(--flag);background:var(--flag-soft)}
+.panel h3{margin-top:0}
+.lock{font-family:var(--mono);font-size:10px;color:var(--ink-faint);letter-spacing:.05em}
+.tw{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:12.5px;background:var(--surface)}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--mono);font-weight:500;font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-faint);background:var(--surface-2)}
+blockquote{margin:10px 0;padding:8px 14px;border-left:3px solid var(--rule-2);color:var(--ink-soft)}
+hr{border:0;border-top:1px solid var(--rule);margin:18px 0}
+select,input[type=date],input[type=text]{font:inherit;font-size:12.5px;padding:4px 7px;border:1px solid var(--rule-2);border-radius:4px;background:var(--surface);color:var(--ink);max-width:100%}
+.filters{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+pre.state{font-family:var(--mono);font-size:11.5px;white-space:pre;overflow-x:auto;background:var(--surface-2);padding:12px;border-radius:4px;border:1px solid var(--rule)}
+.hint{font-size:12px;color:var(--ink-faint);margin-top:6px}
+.cover{display:block;border:1px solid var(--rule);border-radius:3px;background:var(--surface-2)}
+.cover.lg{width:110px}
+.cover.sm{width:34px}
+.pubhead{display:flex;gap:16px;align-items:flex-start;margin-bottom:4px}
+.pubhead .t{min-width:0;flex:1}
+.nocover{width:110px;height:150px;border:1px dashed var(--rule-2);border-radius:3px;
+  display:grid;place-items:center;text-align:center;font-size:10.5px;color:var(--ink-faint);
+  font-family:var(--mono);padding:8px;line-height:1.4}
+.acq{border:1px solid var(--rule);border-radius:5px;background:var(--surface);overflow:hidden;margin:12px 0}
+.acq .a{padding:11px 14px;border-bottom:1px solid var(--rule)}
+.acq .a:last-child{border-bottom:0}
+.acq .a.no{opacity:.62}
+/* --- barra de contexto: voltar + trilha --------------------------------- */
+.ctx{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 16px;
+     padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.ctx .back{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--rule-2);
+     background:var(--surface);color:var(--ink);font:inherit;font-size:12.5px;
+     padding:5px 10px;border-radius:4px;cursor:pointer;white-space:nowrap}
+.ctx .back:hover{background:var(--surface-2)}
+.ctx .crumb{font-size:12.5px;color:var(--ink-faint);min-width:0;display:flex;
+     gap:6px;flex-wrap:wrap;align-items:center}
+.ctx .crumb a{color:var(--ink-soft)}
+.ctx .crumb .sep{color:var(--rule-2)}
+.ctx .here{color:var(--ink);font-weight:500}
+
+/* --- volume partilhado: os dois sentidos -------------------------------- */
+.vol{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;padding:6px 15px 6px 12px;
+     background:var(--accent-soft);color:var(--accent-ink);font-size:12px;
+     border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+     box-shadow:inset 3px 0 0 var(--accent)}
+.vol .vi{font-family:var(--mono);font-size:11px;letter-spacing:.04em}
+.row.involume{box-shadow:inset 3px 0 0 var(--accent)}
+.b.volb{background:var(--accent-soft);color:var(--accent-ink)}
+
+/* --- responsividade das linhas ------------------------------------------ */
+@media(max-width:620px){
+  /* Colunas EXPLÍCITAS: com auto-posicionamento, uma linha sem número punha o
+     título na coluna estreita e ele quebrava uma palavra por linha. */
+  .row{grid-template-columns:auto minmax(0,1fr);row-gap:7px;align-items:start;column-gap:9px}
+  .row>div:empty{display:none}
+  .row .n{grid-column:1;text-align:left}
+  .row .t{grid-column:2}
+  .row .meta{grid-column:1/-1;justify-content:flex-start}
+  .pubhead{flex-wrap:wrap}
+  .stats{grid-template-columns:repeat(auto-fit,minmax(94px,1fr))}
+  h1{font-size:1.4rem;line-height:1.2}
+  .filters>*{flex:1 1 auto}
+}
+@media(max-width:760px){
+  .shell{grid-template-columns:1fr}
+  .side{position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule)}
+  .side nav{display:flex;flex-wrap:wrap;gap:2px;padding:0 10px}
+  .side nav a{padding:5px 9px;border-radius:4px}
+  .sect{display:none}
+  main{padding:16px 14px 60px}
+  .kv{grid-template-columns:1fr;gap:2px 0}
+  .kv dd{margin-bottom:8px}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="shell">
+  <aside class="side">
+    <div class="brand">Biblio<span>theca</span></div>
+    <nav id="nav"></nav>
+  </aside>
+  <main>
+    <div class="topbar">
+      <div class="searchwrap">
+        <input id="q" type="search" placeholder="Buscar obra, autor, coleção, publicação…"
+               autocomplete="off" aria-label="Buscar no acervo">
+        <div class="sug" id="sug" hidden></div>
+      </div>
+      <button class="pill-btn" id="themebtn" title="Alternar tema claro/escuro">◐ Tema</button>
+      <button class="pill-btn" id="savestatus" title="Estado pessoal — o único que é seu"></button>
+    </div>
+    <div id="view"></div>
+  </main>
+</div>
+
+<script>
+const D = /*__DATA__*/null;
+const PENDING = {works:{}, publications:{}};
+const $ = (s,r)=> (r||document).querySelector(s);
+const el = (h)=>{const t=document.createElement('template');t.innerHTML=h.trim();return t.content.firstChild;};
+const E = (s)=> String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+/* ---------- helpers ---------------------------------------------------- */
+const W = id => D.works[id];
+const C = id => D.collections[id];
+const P = id => D.publications[id];
+const A = id => D.authors[id];
+const wTitle = id => (W(id)||{}).title_pt || (W(id)||{}).title_original || id;
+const wAuthors = id => ((W(id)||{}).authors||[]).map(a=>(A(a)||{}).name_display||a).join(', ');
+const lk = (h,t,c)=> `<a href="#/${h}"${c?` class="${c}"`:''}>${E(t)}</a>`;
+const wLink = id => W(id) ? lk('obra/'+id, wTitle(id)) : `<span class="unk">${E(id)} (sem registro)</span>`;
+const unk = (t)=> `<span class="unk">${E(t||'não pesquisado')}</span>`;
+const codes = (a)=> (a||[]).map(x=>`<code>${E(x)}</code>`).join(' ');
+const val = (v,t)=> (v===null||v===undefined||v===''||(Array.isArray(v)&&!v.length)) ? unk(t) : E(Array.isArray(v)?v.join(', '):v);
+
+const RS = {
+  not_researched:['Não pesquisado','warn'], in_progress:['Em pesquisa','warn'],
+  partially_researched:['Parcial','warn'], fully_researched:['Pesquisado','ok'],
+  needs_review:['Rever','flag']
+};
+const rsBadge = w => {const r=RS[w.research_status]||['Não pesquisado','warn'];
+  return `<span class="b ${r[1]}">${r[0]}</span>`;};
+/* Versão de LISTA: silencia a norma. `not_researched` é o estado de 125 das
+   146 obras — selá-las todas é ruído, não informação. O estado global está na
+   Visão geral e o do registro está na página da obra. */
+const rsMark = w => (!w.research_status || w.research_status==='not_researched')
+  ? '' : `<span class="b ${(RS[w.research_status]||['','warn'])[1]}">${(RS[w.research_status]||['?'])[0]}</span>`;
+const edMark = w => (w.publications||[]).length
+  ? `<span class="glyph" title="${(w.publications||[]).length} edição(ões) registrada(s)">▣ ${(w.publications||[]).length}</span>` : '';
+
+/* o nome do "balde" de estado vem do config (targets.<kind>.key),
+   nunca de uma suposição codificada aqui */
+const BUCKET = k => ((((D.config||{}).targets||{})[k]||{}).key) || (k.endsWith('s')?k:k+'s');
+const readState = (kind,id,f)=>{
+  const b = BUCKET(kind);
+  const p = (PENDING[b]||{})[id]||{}; if(f in p) return p[f];
+  const s = ((D.state||{})[b]||{})[id]||{}; return s[f];
+};
+const pendCount = ()=> Object.values(PENDING).reduce((n,o)=>n+Object.keys(o).length,0);
+function setState(kind,id,f,v){
+  const b = BUCKET(kind);
+  PENDING[b] = PENDING[b]||{};
+  PENDING[b][id] = PENDING[b][id]||{};
+  PENDING[b][id][f] = (v===''?null:v);
+  updateSaveUI();
+}
+
+/* ---------- gravação ---------------------------------------------------
+   Um único indicador, sempre visível, com dois estados. Esconder o aviso
+   quando está limpo torna o sinal ambíguo — e é justamente esse sinal que
+   diz se o seu trabalho está em disco.                                    */
+let DIRH = null, LASTSAVED = null;
+function updateSaveUI(){
+  const btn=$('#savestatus'); if(!btn) return;
+  const n=pendCount();
+  if(n){
+    btn.className='pill-btn hot';
+    btn.textContent='● '+n+' por gravar';
+    btn.title='Alterações de estado pessoal ainda NÃO gravadas em state/personal.yaml';
+  }else{
+    btn.className='pill-btn';
+    btn.textContent = LASTSAVED ? '✓ gravado '+LASTSAVED : '✓ sem alterações';
+    btn.title='Nada por gravar. O que está na interface está em state/personal.yaml';
+  }
+  btn.onclick=()=>{location.hash='#/estado';};
+}
+window.addEventListener('beforeunload', e=>{
+  if(pendCount()){ e.preventDefault(); e.returnValue=''; }
+});
+
+/* ---------- writable fields (do config, nunca codificados) -------------- */
+function fieldControl(target, kind, id, f){
+  const cur = readState(kind,id,f.name);
+  const lab = `<label style="display:block"><span class="lock">${E(f.label_pt||f.name)}</span><br>`;
+  if(f.type==='enum'){
+    const opts = ['<option value="">—</option>'].concat((f.values||[]).map(v=>
+      `<option value="${E(v)}"${cur===v?' selected':''}>${E(v)}</option>`)).join('');
+    return lab+`<select data-k="${kind}" data-i="${E(id)}" data-f="${E(f.name)}">${opts}</select></label>`;
+  }
+  const t = f.type==='date'?'date':'text';
+  return lab+`<input type="${t}" data-k="${kind}" data-i="${E(id)}" data-f="${E(f.name)}" value="${E(cur||'')}"></label>`;
+}
+function personalPanel(kind,id){
+  const tg = ((D.config||{}).targets||{})[kind];
+  if(!tg) return '';
+  const fs = (tg.fields||[]).map(f=>`<div>${fieldControl(tg,kind,id,f)}</div>`).join('');
+  return `<div class="panel pers"><h3>Seu estado
+    <span class="b acc">editável</span></h3>
+    <p class="small muted" style="margin-bottom:10px">Estes campos, e só estes, são escritos pela interface — a lista vem de
+      <code>config/writable-fields.yaml</code>. ${kind==='work'
+        ? 'Leitura pertence à <b>obra</b>.' : 'Posse pertence à <b>publicação</b>: você compra um objeto físico, e ele pode conter várias obras.'}</p>
+    <div style="display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(150px,1fr))">${fs}</div></div>`;
+}
+document.addEventListener('change', e=>{
+  const t=e.target; if(!t.dataset||!t.dataset.f) return;
+  setState(t.dataset.k, t.dataset.i, t.dataset.f, t.value);
+});
+
+/* ---------- views ------------------------------------------------------ */
+function vHome(){
+  const c=D.counts, prov=D.gaps.filter(g=>g.provisional).length;
+  const colls = Object.values(D.collections);
+  const noEd = c.works - c.works_with_publication;
+  const noRes = c.works - c.works_researched_any;
+  return `<div class="ph"><div class="eyebrow">Acervo</div><h1>Bibliotheca</h1>
+  <p class="sub">Estado do acervo em ${E(D.built)}. ${c.collections} coleções importadas de mais previstas —
+     o que se vê aqui é um estágio de bootstrap, e a interface diz isso em vez de o esconder.</p></div>
+  <dl class="stats">
+    <div><dt>Obras</dt><dd>${c.works}</dd></div>
+    <div><dt>Coleções</dt><dd>${c.collections}</dd></div>
+    <div><dt>Publicações</dt><dd>${c.publications}</dd></div>
+    <div><dt>Autores</dt><dd>${c.authors}${c.translators?` <small>+${c.translators} tradutores</small>`:''}</dd></div>
+    <div><dt>Com edição</dt><dd>${c.works_with_publication} <small>de ${c.works}</small></dd></div>
+    <div><dt>Lacunas abertas</dt><dd>${c.gaps_open}</dd></div>
+  </dl>
+  <div class="panel prov"><h3>O que aqui não é definitivo</h3>
+    <p class="small" style="margin:0">
+      <b>${c.works - c.works_researched_any} de ${c.works}</b> obras sem nenhuma pesquisa bibliográfica
+      (${c.works_researched_any} parciais, nenhuma completa) — data, gênero, tradição e relações continuam nulos
+      de propósito. <b>${c.works - c.works_with_publication} de ${c.works}</b> ainda sem edição identificada.
+      <b>${c.gaps_open}</b> lacunas abertas, ${prov} marcadas provisórias até a cobertura cruzada.
+      <b>${c.pending_assignment}</b> obra${c.pending_assignment===1?'':'s'} sem coleção, por decisão declarada.
+      ${c.issues?`<b>${c.issues}</b> referências a resolver.`:''}</p></div>
+  <h2>O que está por fazer</h2>
+  <p class="small muted">Vistas sobre o que já está registrado. Não é uma fila de compra:
+     nada aqui propõe obra nova, e uma região vazia do mapa nunca aparece como dívida.</p>
+  <div class="todo">
+    <a href="#/catalogo" onclick="goCat({ed:'sem'})"><b>${noEd}</b><span>obras sem edição identificada</span></a>
+    <a href="#/catalogo" onclick="goCat({rs:'not_researched'})"><b>${noRes}</b><span>obras sem nenhuma pesquisa bibliográfica</span></a>
+    <a href="#/revisao"><b>${c.gaps_open}</b><span>lacunas abertas · ${c.proposals_open} proposta(s) estrutural(is)</span></a>
+    <a href="#/catalogo" onclick="goCat({coll:'__none'})"><b>${c.pending_assignment}</b><span>obras sem coleção, por decisão sua</span></a>
+  </div>
+
+  <h2>Coleções</h2>
+  <div class="grid">${colls.map(k=>`<div class="card">
+    <h3>${lk('colecao/'+k.id, k.title_pt||k.id)}</h3>
+    <p class="small muted">${E(k.question||'')}</p>
+    <p class="small" style="margin:0">
+      <span class="b">${k.member_count} obras</span>
+      <span class="b">${(k.sequence||[]).filter(s=>s.kind==='movement').length} movimentos</span>
+      ${(k.paths||[]).length?`<span class="b acc">${k.paths.length} caminho(s)</span>`:''}
+      ${(k.scope_map||{}).regions?`<span class="b">${k.scope_map.regions.length} regiões mapeadas</span>`:''}
+    </p></div>`).join('')}</div>`;
+}
+
+/* Pontos de entrada. Uma lista alfabética de 146 títulos é uma lista
+   telefônica: não tem forma reconhecível. Agrupar dá relevo sem mudar o que
+   está lá — e os grupos saem todos de dados que já existem. */
+function groupKeys(w, mode){
+  if(mode==='autor')   return (w.authors||[]).map(a=>(A(a)||{}).name_display||a);
+  if(mode==='colecao') return (w.memberships||[]).map(m=>m.collection_title||m.collection);
+  if(mode==='editora') return [...new Set((w.publications||[]).map(p=>p.publisher).filter(Boolean))];
+  if(mode==='tradutor'){
+    const t=new Set();
+    (w.publications||[]).forEach(x=>{const full=P(x.publication)||{};
+      (full.contains||[]).filter(c=>c.work===w.id).forEach(c=>
+        (c.translator||[]).forEach(id=>t.add((A(id)||{}).name_display||id)));});
+    return [...t];
+  }
+  return [(w.title_pt||w.id||'?').charAt(0).toUpperCase()];
+}
+const GEMPTY={autor:'Autoria por confirmar',colecao:'Sem coleção',
+              editora:'Sem edição registrada',tradutor:'Sem tradutor registrado'};
+function grouped(list, mode){
+  const g={};
+  list.forEach(w=>{
+    let ks=groupKeys(w,mode); if(!ks.length) ks=[GEMPTY[mode]||'—'];
+    ks.forEach(k=>{(g[k]=g[k]||[]).push(w);});
+  });
+  const keys=Object.keys(g).sort((a,b)=>a.localeCompare(b,'pt'));
+  return '<div class="rows">'+keys.map(k=>
+    `<div class="gh"><span>${E(k)}</span><span>${g[k].length}</span></div>`+
+    g[k].map(w=>rowWork(w)).join('')).join('')+'</div>';
+}
+
+function vCatalogo(){
+  const f = state.cat||{};
+  const all = Object.values(D.works);
+  const colls = Object.values(D.collections);
+  let list = all.slice();
+  if(f.coll==='__none') list = list.filter(w=>!w.memberships.length);
+  else if(f.coll) list = list.filter(w=>w.memberships.some(m=>m.collection===f.coll));
+  if(f.rs) list = list.filter(w=>(w.research_status||'not_researched')===f.rs);
+  if(f.rd) list = list.filter(w=>(readState('work',w.id,'reading_status')||'nao-lido')===f.rd);
+  if(f.ed==='sem') list = list.filter(w=>!(w.publications||[]).length);
+  if(f.ed==='com') list = list.filter(w=>(w.publications||[]).length);
+  list.sort((a,b)=> (a.title_pt||'').localeCompare(b.title_pt||'','pt'));
+  const opt=(v,l,cur)=>`<option value="${E(v)}"${cur===v?' selected':''}>${E(l)}</option>`;
+  return `<h1>Catálogo</h1>
+  <p class="muted small">Todas as obras da biblioteca, independentemente de coleção. Um registro por obra —
+     uma obra em três coleções aparece aqui uma vez.</p>
+  <div class="filters">
+    <select id="fc">${opt('','Todas as coleções',f.coll)}${opt('__none','Sem coleção',f.coll)}${colls.map(c=>opt(c.id,c.title_pt,f.coll)).join('')}</select>
+    <select id="fr">${opt('','Qualquer pesquisa',f.rs)}${Object.keys(RS).map(k=>opt(k,RS[k][0],f.rs)).join('')}</select>
+    <select id="fd">${opt('','Qualquer leitura',f.rd)}${['nao-lido','lendo','lido','relendo','abandonado'].map(k=>opt(k,k,f.rd)).join('')}</select>
+    <select id="fe">${opt('','Com ou sem edição',f.ed)}${opt('com','Com edição',f.ed)}${opt('sem','Sem edição',f.ed)}</select>
+    <select id="fg">${opt('','Sem agrupar (A–Z)',f.g)}${opt('autor','Agrupar por autor',f.g)}${opt('colecao','Agrupar por coleção',f.g)}${opt('editora','Agrupar por editora',f.g)}${opt('tradutor','Agrupar por tradutor',f.g)}</select>
+    <span class="small muted">${list.length} de ${all.length}</span>
+  </div>
+  ${list.length? grouped(list, f.g) : '<div class="rows"><div class="row"><div class="unk">Nada corresponde a estes filtros.</div></div></div>'}`;
+}
+/* Uma obra pode estar repartida por vários volumes de uma MESMA série
+   (Oresteia, Hellenica) — isso é um fato sobre a obra. Ter várias edições
+   ALTERNATIVAS (Ilíada: caixa Penguin + bilíngue da 34) é outro fato, e a
+   interface não os funde. A distinção vem do campo `series` da publicação. */
+function volBadge(w){
+  const ps=(w.publications||[]).map(x=>P(x.publication)).filter(Boolean);
+  if(ps.length<2) return '';
+  const ser={}; ps.forEach(p=>{if(p.series) ser[p.series]=(ser[p.series]||0)+1;});
+  const set=Object.entries(ser).find(([,n])=>n>1);
+  return set ? `<span class="b volb" title="${E(set[0])}">obra em ${set[1]} volumes</span>`
+             : `<span class="b">${ps.length} edições</span>`;
+}
+/* Mapa obra→volume partilhado, dentro de UMA coleção: só conta a publicação
+   que carrega mais de um membro desta coleção. */
+function volMap(memberIds){
+  const m={};
+  Object.values(D.publications).forEach(pb=>{
+    const inside=(pb.contains||[]).map(c=>c.work).filter(w=>memberIds.has(w));
+    if(inside.length>1) inside.forEach(w=>{ if(!m[w]) m[w]={id:pb.id,
+      title:pb.title_as_published||pb.id, n:inside.length}; });
+  });
+  return m;
+}
+
+function rowWork(w, n){
+  const ms = w.memberships;
+  return `<div class="row"><div class="n">${n||''}</div>
+    <div class="t">${(w.publications||[]).length?'<span class="dot" title="tem edição registrada"></span>':''}${lk('obra/'+w.id, wTitle(w.id))}${edMark(w)}
+      <div class="au">${E(wAuthors(w.id))||'<span class="unk">autoria por confirmar</span>'}</div></div>
+    <div class="meta">${ms.length>1?`<span class="b acc" title="em várias coleções">${ms.length} coleções</span>`:''}
+      ${volBadge(w)}
+      ${w.pending_assignment?'<span class="b flag">sem coleção</span>':''}
+      ${rsMark(w)}</div></div>`;
+}
+
+function vColecoes(){
+  return `<h1>Coleções</h1>
+  <p class="muted small">Uma coleção é um argumento com uma sequência, não uma pasta.</p>
+  <div class="grid">${Object.values(D.collections).map(k=>`<div class="card">
+    <h3>${lk('colecao/'+k.id,k.title_pt)}</h3>
+    <p class="small muted">${E(k.question||'')}</p>
+    <p class="small muted" style="margin:0">${k.member_count} obras · ${(k.sequence||[]).filter(s=>s.kind==='movement').length} movimentos
+      · ${(k.tensions&&k.tensions.pairs?k.tensions.pairs.length:(k.tensions||[]).length)} tensões</p>
+  </div>`).join('')}</div>`;
+}
+
+function vColecao(id){
+  const k = C(id); if(!k) return '<p>Coleção não encontrada.</p>';
+  const st = state.coll||{};
+  const seq = k.sequence||[];
+  const paths = k.paths||[];
+  const path = paths.find(p=>p.id===st.path);
+  const inPath = path ? new Set(path.works) : null;
+  const tens = (k.tensions&&k.tensions.pairs)?k.tensions.pairs:(Array.isArray(k.tensions)?k.tensions:[]);
+  const sm = k.scope_map;
+
+  let body='';
+  if(st.order==='orig'){
+    body = `<div class="rows">${(k.original_order||[]).map((wid,i)=>{
+      const w=W(wid); return w?rowWork(w,i+1):`<div class="row"><div class="n">${i+1}</div><div class="unk">${E(wid)}</div><div></div></div>`;
+    }).join('')}</div>`;
+  } else {
+    const vmap = volMap(new Set(seq.filter(x=>x.kind!=='movement').map(x=>x.work)));
+    let lastVol = null;
+    body = '<div class="rows">'+seq.map(s=>{
+      if(s.kind==='movement'){ lastVol=null; return `<div class="mv">${E(s.movement)}
+        ${s.purpose?`<span class="pp">${E(s.purpose)} <span class="by">— ${E(s.purpose_by||'?')}</span></span>`:''}
+        ${s.regions?`<span class="pp"><span class="by">regiões: ${E((s.regions||[]).join(', '))}</span></span>`:''}</div>`; }
+      const w=W(s.work);
+      if(!w) return `<div class="row"><div class="n">${s.n}</div><div class="unk">${E(s.work)} — sem registro</div><div></div></div>`;
+      const dim = inPath && !inPath.has(s.work) ? ' style="opacity:.42"' : '';
+      const vol = vmap[s.work]||null;
+      let head='';
+      if(vol && (!lastVol || lastVol.id!==vol.id)){
+        head = `<div class="vol"><span class="vi">▣ mesmo volume</span>
+          ${lk('publicacao/'+vol.id, vol.title)} <span class="by">— ${vol.n} obras desta coleção estão neste objeto</span></div>`;
+      }
+      lastVol = vol;
+      return head+`<div class="row${vol?' involume':''}"${dim}><div class="n">${s.n}</div>
+        <div class="t">${(w.publications||[]).length?'<span class="dot" title="tem edição registrada"></span>':''}${lk('obra/'+s.work, wTitle(s.work))}${edMark(w)}
+          <div class="au">${E(wAuthors(s.work))}</div>
+          ${s.why_here?`<div class="small muted" style="margin-top:3px">${E(s.why_here)} <span class="by">— ${E(s.why_here_by||'?')}</span></div>`:''}
+          ${(s.requires||[]).length?`<div class="small" style="margin-top:3px"><span class="lock">requer</span> ${s.requires.map(r=>wLink(r)).join(', ')}</div>`:''}
+          ${s.scope?`<div class="small"><span class="lock">escopo</span> ${E(s.scope)}</div>`:''}</div>
+        <div class="meta">${s.core?'<span class="b core">★ core</span>':''}
+          ${s.demand?`<span class="b" title="exigência de leitura">${E(s.demand)}</span>`:''}
+          ${inPath?(inPath.has(s.work)?'<span class="b acc">no caminho</span>':''):''}
+          ${volBadge(w)}
+          ${rsMark(w)}</div></div>`;
+    }).join('')+'</div>';
+  }
+
+  return `<h1>${E(k.title_pt)}</h1>
+  <p class="muted">${E(k.question||'')}</p>
+  ${k.source?`<p class="small muted"><span class="lock">origem</span> ${E(k.source.origin||'')} · importada ${E(k.source.imported||'')}</p>`:''}
+
+  ${k.provisional?`<div class="panel prov"><h3>Campos provisórios</h3>
+    <p class="small" style="margin:0">Inferidos por Claude e à espera da sua confirmação:
+    ${codes(k.provisional.inferred_by_claude)}.
+    ${k.provisional.authored_by_you?` Seus, literais: ${codes(k.provisional.authored_by_you)}.`:''}</p></div>`:''}
+
+  <div class="filters" style="margin-top:16px">
+    <button class="pill-btn${st.order!=='orig'?' hot':''}" onclick="setSub('coll','order','rec')">Ordem recomendada</button>
+    <button class="pill-btn${st.order==='orig'?' hot':''}" onclick="setSub('coll','order','orig')">Ordem original (sua)</button>
+    ${paths.length?`<select onchange="setSub('coll','path',this.value)">
+      <option value="">Sem caminho</option>
+      ${paths.map(p=>`<option value="${E(p.id)}"${st.path===p.id?' selected':''}>Caminho: ${E(p.title_pt||p.id)}</option>`).join('')}
+    </select>`:''}
+    <span class="small muted">${(k.order_changes||[]).length? (k.order_changes.length+' desvio(s) da sua ordem') : 'nenhum desvio da sua ordem'}</span>
+  </div>
+
+  ${path?`<div class="panel"><h3>Caminho: ${E(path.title_pt||path.id)} <span class="by">— ${E(path.by||'?')}</span></h3>
+    <p class="small">${E(path.for||'')}</p>
+    ${path.declares?`<p class="small"><span class="lock">declara</span> ${E(path.declares)}</p>`:''}
+    ${path.excludes_by_design?`<p class="small"><span class="lock">exclui por desenho</span> ${codes(path.excludes_by_design)}</p>`:''}
+    ${(path.flagged_omissions||[]).length?`<p class="small" style="margin-bottom:4px"><span class="lock">omissões sinalizadas — sinalizar, não corrigir</span></p>
+      <ul class="small" style="margin:0 0 4px 18px">${path.flagged_omissions.map(o=>`<li>${wLink(o.work)} — ${E(o.concern)}</li>`).join('')}</ul>`:''}
+    <p class="small muted" style="margin:0">★ e caminho são conceitos separados. Uma obra estrelada fora de um caminho é normal, e a interface nunca os reconcilia.</p>
+  </div>`:''}
+
+  ${body}
+
+  ${tens.length?`<h2>Tensões <span class="b">${tens.length}</span></h2>
+    <p class="small muted">Oposições, renderizadas como oposição e nunca como sequência.
+      ${k.tensions&&k.tensions.by?`<span class="by">— propostas por ${E(k.tensions.by)}</span>`:''}</p>
+    <div class="rows">${tens.map(t=>`<div class="row"><div class="n">⇄</div>
+      <div class="t">${wLink(t.a)} <span class="muted">⇄</span> ${wLink(t.b)}
+      <div class="small muted">${E(t.about||'')}</div></div><div></div></div>`).join('')}</div>`
+    :`<h2>Tensões</h2><div class="panel"><p class="small muted" style="margin:0">Nenhuma registrada.
+       Se isso significa alguma coisa depende da coleção e do seu tamanho — e é a revisão desta
+       coleção que o diz, não este campo. A interface não interpreta um campo vazio.</p></div>`}
+
+  ${sm?`<h2>Mapa de escopo</h2>
+    <p class="small muted">O território que a coleção reivindica, e o que dele hoje contém.
+      Uma coleção pode ser deliberadamente parcial: <b>cobertura</b> é um fato,
+      <b>prosseguindo</b> é uma intenção sua, e nenhuma região vazia é uma compra devida.
+      ${(sm.map_status||sm.status)?`<span class="b">${E(sm.map_status||sm.status)}</span>`:''}</p>
+    <div class="tw"><table><thead><tr><th>Região</th><th>Cobertura</th><th>Prosseguindo</th><th>Ocupada por</th><th>O que é esta região</th></tr></thead><tbody>
+    ${sm.regions.map(r=>{const cov=r.coverage||r.status, pur=r.pursuit||'open';
+      return `<tr><td><code>${E(r.id)}</code></td>
+      <td><span class="b ${cov==='covered'?'acc':''}">${E(cov)}</span></td>
+      <td><span class="b">${pur==='not-pursued'?'não perseguida — por escolha':'aberta'}</span></td>
+      <td>${(r.held_by||[]).map(x=>wLink(x)).join('<br>')||'<span class="muted">—</span>'}</td>
+      <td class="muted">${E(r.note||'')}</td></tr>`;}).join('')}
+    </tbody></table></div>
+    <p class="small muted">Descrições de região dizem que perguntas caem ali. Obras candidatas não aparecem
+      aqui: pertencem à camada de curadoria, e só quando há um registro de lacuna que as justifique.</p>`:''}
+
+  ${k.inclusion_criteria?`<h2>Critérios de inclusão</h2>
+    <p class="small muted">Derivam da <b>pergunta</b> da coleção, nunca dos seus membros atuais.
+      <span class="by">— ${E(k.inclusion_criteria.by||'?')}, ${E(k.inclusion_criteria.status||'')}</span></p>
+    <ul class="small">${(k.inclusion_criteria.criteria||[]).map(c=>`<li>${E(c)}</li>`).join('')}</ul>
+    ${(k.inclusion_criteria.out_of_scope||[]).length?`<p class="small"><span class="lock">fora de escopo</span></p>
+      <ul class="small">${k.inclusion_criteria.out_of_scope.map(c=>`<li>${E(c)}</li>`).join('')}</ul>`:''}
+    ${k.inclusion_criteria.test_applied?`<p class="small muted"><span class="lock">teste</span> ${E(k.inclusion_criteria.test_applied)}</p>`:''}`:''}
+
+  ${(k.structural_changes||[]).length?`<h2>Mudanças estruturais</h2>
+    <p class="small muted">Importar pode mudar a cardinalidade, não só a ordem. Os dois efeitos são contados em separado.</p>
+    <div class="tw"><table><thead><tr><th>Tipo</th><th>De</th><th>Efeito na biblioteca</th><th>Efeito na coleção</th><th>Estado</th></tr></thead><tbody>
+    ${k.structural_changes.map(s=>`<tr><td>${E(s.kind)}</td><td>${E(s.from)}</td>
+      <td>${E(s.library_effect||'—')}</td><td>${E(s.membership_effect||'—')}</td>
+      <td><span class="b ${s.status==='aplicado'?'ok':'warn'}">${E(s.status)}</span></td></tr>`).join('')}
+    </tbody></table></div>`:''}
+
+  ${k.body_html?`<h2>Por que esta ordem</h2><div class="panel">${k.body_html}</div>`:''}`;
+}
+
+function vObra(id){
+  const w = W(id); if(!w) return '<p>Obra não encontrada.</p>';
+  const pubs = w.publications||[];
+  return `<h1>${E(wTitle(id))}</h1>
+  <p class="muted">${(w.authors||[]).map(a=>lk('autor/'+a,(A(a)||{}).name_display||a)).join(', ')||unk('autoria por confirmar')}
+    &nbsp;${rsBadge(w)} <span class="b">obra</span> ${volBadge(w)}</p>
+
+  ${w.research_status!=='fully_researched'?`<div class="panel prov"><p class="small" style="margin:0">
+    <b>Registro não pesquisado.</b> Título e autoria vieram da sua lista; tudo o mais está nulo de propósito.
+    Nenhum dado bibliográfico abaixo foi verificado, e preencher sem pesquisa seria inventar.</p></div>`:''}
+
+  ${w.pending_assignment?`<div class="panel prov"><h3>Sem coleção, por decisão declarada</h3>
+    <p class="small">${E(w.pending_assignment.reason||'')}</p>
+    <p class="small" style="margin:0"><span class="lock">candidatas</span> ${E((w.pending_assignment.candidate_collections||[]).join(', '))}
+      · <span class="lock">decidir quando</span> ${E(w.pending_assignment.decide_when||'')}
+      ${w.pending_assignment.exempt_from_orphan_check?'<span class="b warn">isenta da checagem de órfãs</span>':''}</p></div>`:''}
+
+  <h2>Identidade <span class="lock">— curatorial, não editável aqui</span></h2>
+  <dl class="kv">
+    <dt>id</dt><dd><code>${E(w.id)}</code></dd>
+    <dt>título original</dt><dd>${val(w.title_original)}</dd>
+    <dt>língua original</dt><dd>${val(w.original_language)}</dd>
+    <dt>forma</dt><dd>${val(w.form,'não definida')} <span class="by">— obra ≠ livro</span></dd>
+    <dt>tipo</dt><dd>${val(w.work_type)}</dd>
+    <dt>data</dt><dd>${val(w.date_written)}</dd>
+    <dt>período</dt><dd>${val(w.period)}</dd>
+    <dt>tradições</dt><dd>${val(w.traditions)}</dd>
+    <dt>assuntos</dt><dd>${val(w.subjects)}</dd>
+    <dt>prioridade curatorial</dt><dd>${val(w.priority_library)}</dd>
+  </dl>
+
+  <h2>Em ${w.memberships.length} coleç${w.memberships.length===1?'ão':'ões'}
+    <span class="lock">— um registro, várias participações</span></h2>
+  ${w.memberships.length?`<div class="rows">${w.memberships.map(m=>`<div class="row">
+    <div class="n">#${m.n}</div>
+    <div class="t">${lk('colecao/'+m.collection, m.collection_title)}
+      ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
+      ${m.why_here?`<div class="small muted" style="margin-top:3px">${E(m.why_here)} <span class="by">— ${E(m.why_here_by||'?')}</span></div>`:''}
+      ${(m.requires||[]).length?`<div class="small"><span class="lock">requer aqui</span> ${m.requires.map(r=>wLink(r)).join(', ')}</div>`:''}
+      ${m.scope?`<div class="small"><span class="lock">escopo</span> ${E(m.scope)}</div>`:''}
+      ${m.edition_pref?`<div class="small"><span class="lock">sua indicação de edição</span> ${E((m.edition_pref||{}).text||'')} <span class="b warn">não verificada</span></div>`:''}
+      ${m.publication_pref?`<div class="small"><span class="lock">publicação</span> ${lk('publicacao/'+m.publication_pref, m.publication_pref)}</div>`:''}</div>
+    <div class="meta">${m.core?'<span class="b core">★ core</span>':''}
+      ${m.role?`<span class="b">${E(m.role)}</span>`:''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
+  </div>`).join('')}</div>
+  ${w.memberships.length>1?`<p class="small muted">Papel, posição, prerequisitos e argumento mudam por coleção — o registro canônico é um só.</p>`:''}`
+  :'<div class="panel"><p class="small muted" style="margin:0">Nenhuma coleção.</p></div>'}
+
+  <h2>Publicações que contêm esta obra <span class="lock">— objeto físico ≠ obra</span></h2>
+  ${pubs.length?`<div class="rows">${pubs.map(p=>{const full=P(p.publication)||{};
+    const acq=(full.acquisition||[]).filter(a=>a.actionable);
+    return `<div class="row"><div class="n">${coverImg(full,'sm')||'▣'}</div>
+    <div class="t">${lk('publicacao/'+p.publication, p.title_as_published||p.publication)}
+      <div class="au">${E(p.publisher||'')}${p.year?', '+E(p.year):''}</div>
+      ${p.reason?`<div class="small muted">${E(p.reason)}</div>`:''}
+      ${acq.length?`<div class="by">${acq.length} fonte(s) de aquisição verificada(s) — ver a publicação</div>`:''}</div>
+    <div class="meta"><span class="b ${p.verdict==='recommended'?'ok':(p.verdict==='rejected'?'flag':'warn')}">${E(p.verdict||'unassessed')}</span></div>
+  </div>`;}).join('')}</div>
+  <p class="small muted">O veredito está no par obra–publicação, não na publicação: um volume pode ser o veículo certo para uma obra que carrega e o errado para outra.</p>`
+  :`<div class="panel"><p class="small muted" style="margin:0">Nenhuma publicação registrada. A pesquisa do §E cria-as.</p></div>`}
+
+  ${(w.relations||[]).length||(w.relations_in||[]).length?`<h2>Relações</h2>
+   <div class="rows">
+   ${(w.relations||[]).map(r=>`<div class="row"><div class="n">→</div><div class="t">
+     <span class="b acc">${E(r.type)}</span> ${wLink(r.target)}
+     ${r.note?`<div class="small muted">${E(r.note)}</div>`:''}</div><div></div></div>`).join('')}
+   ${(w.relations_in||[]).map(r=>`<div class="row"><div class="n">←</div><div class="t">
+     <span class="b">${E(r.type)}</span> ${wLink(r.target)}
+     <div class="by">derivada de ${E(r.original_type)}</div></div><div></div></div>`).join('')}
+   </div>`:''}
+
+  ${personalPanel('work', id)}
+  ${w.body_html?`<h2>Registro</h2><div class="panel">${w.body_html}</div>`:''}`;
+}
+
+/* ---------- capa e aquisição --------------------------------------------
+   Ambas são propriedades da PUBLICAÇÃO. Uma obra não tem capa nem preço.
+   Aquisição fica num bloco à parte do bibliográfico, de propósito: vendedor
+   é tier 6–7 e não sustenta juízo nenhum sobre a edição.                   */
+const FRESH = {fresh:['verificado','ok'], aging:['a reverificar','warn'],
+               stale:['desatualizado','flag'], unchecked:['sem data','flag']};
+function coverImg(p, cls){
+  const c = p.cover; if(!c) return '';
+  const src = c.data_uri || c.relative_path; if(!src) return '';
+  return `<img class="cover ${cls||'lg'}" src="${src}" alt="Capa de ${E(p.title_as_published||p.id)}" loading="lazy">`;
+}
+function coverBlock(p){
+  const c = p.cover;
+  if(!c || !(c.data_uri||c.relative_path))
+    return `<div class="nocover">sem capa<br>verificada</div>`;
+  const f = FRESH[c.freshness]||['',''];
+  return `<div>${coverImg(p,'lg')}
+    <div class="by" style="margin-top:5px;max-width:110px">capa desta publicação
+      · ${E(c.source_type||'')}${c.checked?` · <span class="b ${f[1]}">${f[0]}</span>`:''}</div></div>`;
+}
+function acqBlock(p){
+  const as = p.acquisition||[];
+  const head = `<h2>Aquisição <span class="lock">— não é evidência bibliográfica</span></h2>
+    <p class="small muted">Vendedores são fonte de nível 6–7: estabelecem que o livro existe e pode
+      ser comprado, e nada mais. Disponibilidade, preço e popularidade não tocam o veredito desta
+      edição nem a prioridade de nenhuma obra.</p>`;
+  if(!as.length) return head+`<div class="panel"><p class="small muted" style="margin:0">
+    Nenhuma fonte de aquisição verificada. <b>Isso não é um defeito bibliográfico</b> — apenas
+    ninguém pesquisou onde comprar esta edição, ou nenhum anúncio pôde ser confirmado como sendo
+    dela.</p></div>`;
+  return head+`<div class="acq">${as.map(a=>{
+    const f=FRESH[a.freshness]||['',''];
+    return `<div class="a${a.actionable?'':' no'}">
+      <div style="display:flex;gap:8px;align-items:baseline;flex-wrap:wrap">
+        <b>${E(a.retailer_name||a.retailer)}</b>
+        <span class="b ${f[1]}">${f[0]}${a.days_since_check!=null?` · ${a.days_since_check}d`:''}</span>
+        ${a.availability?`<span class="b">${E(a.availability)}</span>`:''}
+        ${a.format_listed?`<span class="b">${E(a.format_listed)}</span>`:''}
+        ${a.price_band?`<span class="b">${E(a.price_band)}</span>`:''}
+        <span class="by">tier ${E(a.source_tier)}</span>
+      </div>
+      <div class="small" style="margin-top:4px">
+        <span class="lock">correspondência</span> ${E(a.match_basis||'—')}
+        ${a.actionable?'':' <span class="b flag">não confirmada como esta edição</span>'}
+        ${a.match_note?`<div class="by">${E(a.match_note)}</div>`:''}</div>
+      ${a.url?(a.actionable
+        ? `<div class="small" style="margin-top:5px"><a href="${E(a.url)}" target="_blank" rel="noopener">abrir anúncio ↗</a>
+             ${a.listing_id?`<span class="by"> ${E(a.listing_id)}</span>`:''}</div>`
+        : `<div class="small muted" style="margin-top:5px">Link guardado como pista e não
+             apresentado como opção de compra desta edição, porque a correspondência não foi
+             confirmada. <a href="${E(a.url)}" target="_blank" rel="noopener">ver mesmo assim ↗</a></div>`)
+        :''}
+    </div>`;}).join('')}</div>`;
+}
+
+function vPub(id){
+  const p = P(id); if(!p) return '<p>Publicação não encontrada.</p>';
+  const F=['publisher','publisher_country','series','year','language','bilingual','bilingual_pair',
+           'editor','introduction_by','register','framing','format','pages','isbn13',
+           'availability_br','availability_checked'];
+  return `<div class="pubhead">${coverBlock(p)}<div class="t">
+  <h1>${E(p.title_as_published||p.id)}</h1>
+  <p class="muted"><span class="b">publicação</span> <span class="b warn">${E(p.research_status||'não pesquisada')}</span>
+     ${p.source_of_record?`<span class="b">origem: ${E(p.source_of_record)}</span>`:''}</p></div></div>
+  <div class="panel prov"><p class="small" style="margin:0">
+    <b>Campos verificados: ${(p.verified_fields||[]).length}.</b>
+    Tudo o que aparece vazio abaixo está vazio de propósito — nada foi checado ainda.</p></div>
+  <h2>Objeto físico <span class="lock">— curatorial</span></h2>
+  <dl class="kv">${F.map(k=>`<dt>${E(k)}</dt><dd>${val(p[k])}</dd>`).join('')}</dl>
+  <h2>Contém ${(p.contains||[]).length} obra(s) <span class="lock">— a junção</span></h2>
+  <div class="rows">${(p.contains||[]).map(c=>`<div class="row"><div class="n">§</div>
+    <div class="t">${wLink(c.work)}
+      ${c.reason?`<div class="small muted">${E(c.reason)}</div>`:''}
+      <div class="small"><span class="lock">tradutor</span> ${val(c.translator)}
+        · <span class="lock">de</span> ${val(c.translated_from)}
+        · <span class="lock">completude</span> ${val(c.completeness)}</div></div>
+    <div class="meta"><span class="b ${c.verdict==='recommended'?'ok':(c.verdict==='rejected'?'flag':'warn')}">${E(c.verdict||'unassessed')}</span></div>
+  </div>`).join('')}</div>
+  <p class="small muted">Tradutor, texto-base, completude e veredito vivem <b>aqui</b>, no par — porque variam entre as obras
+     do mesmo volume. Editora, ISBN e formato vivem no objeto, porque não variam.</p>
+  ${acqBlock(p)}
+  ${personalPanel('publication', id)}
+  ${p.body_html?`<h2>Avaliação</h2><div class="panel">${p.body_html}</div>`:''}`;
+}
+
+function vAutor(id){
+  const a = A(id); if(!a) return '<p>Autor não encontrado.</p>';
+  const ws = (a.works||[]).map(W).filter(Boolean);
+  const colls = new Set(); ws.forEach(w=>w.memberships.forEach(m=>colls.add(m.collection)));
+  return `<h1>${E(a.name_display||id)}</h1>
+  <p class="muted"><span class="b">autor</span> ${a.dates?E(a.dates):unk('datas por pesquisar')}</p>
+  <dl class="stats"><div><dt>Obras</dt><dd>${ws.length}</dd></div>
+    <div><dt>Coleções</dt><dd>${colls.size}</dd></div></dl>
+  <h2>Obras</h2><div class="rows">${ws.map(w=>rowWork(w)).join('')}</div>
+  ${colls.size?`<h2>Aparece em</h2><p>${[...colls].map(c=>lk('colecao/'+c,(C(c)||{}).title_pt||c)).join(' · ')}</p>`:''}`;
+}
+
+function vAutores(){
+  const all = Object.values(D.authors)
+    .sort((x,y)=>(x.name_display||'').localeCompare(y.name_display||'','pt'));
+  const as = all.filter(a=>(a.role||'author')==='author' && (a.works||[]).length);
+  const tr = all.filter(a=>(a.role||'author')!=='author');
+  const pubsOf = id => Object.values(D.publications).filter(p=>
+      (p.contains||[]).some(c=>(c.translator||[]).includes(id)));
+  return `<h1>Autores</h1>
+  <p class="muted small">Quem assina obra. Tradutores e estabelecedores de texto vivem no mesmo
+     arquivo — não há outro lugar para pessoas que não são autores — mas são contados à parte:
+     somá-los fazia esta biblioteca anunciar mais autores do que obras.</p>
+  <div class="rows">${as.map(a=>`<div class="row"><div class="n">${(a.works||[]).length}</div>
+    <div class="t">${lk('autor/'+a.id,a.name_display||a.id)}
+    <div class="au">${(a.works||[]).map(w=>wTitle(w)).join(' · ')}</div></div><div></div></div>`).join('')}</div>
+  ${tr.length?`<h2>Tradutores e estabelecedores de texto <span class="b">${tr.length}</span></h2>
+  <p class="muted small">Você escolheu edições por tradutor. Isto existe para que essa escolha seja
+     visível e verificável — foi assim que apareceu que <i>O Banquete</i> é o único Platão fora da
+     série que você adotou para os outros diálogos.</p>
+  <div class="rows">${tr.map(a=>{const ps=pubsOf(a.id);
+    return `<div class="row"><div class="n">${ps.length||''}</div>
+    <div class="t">${E(a.name_display||a.id)}
+      <div class="au">${ps.length?ps.map(p=>lk('publicacao/'+p.id,p.title_as_published||p.id)).join(' · ')
+        :'<span class="unk">nenhuma publicação registrada</span>'}</div></div>
+    <div class="meta"><span class="b">${E(a.role||'translator')}</span></div></div>`;}).join('')}</div>`:''}`;
+}
+
+function vLeitura(){
+  const rows = Object.values(D.works).map(w=>({w,
+    rs: readState('work',w.id,'reading_status')||'nao-lido',
+    pp: readState('work',w.id,'priority_personal')}));
+  const g = {}; rows.forEach(r=>{(g[r.rs]=g[r.rs]||[]).push(r)});
+  const order=['lendo','relendo','nao-lido','lido','abandonado'];
+  const pubs = Object.values(D.publications).map(p=>({p, ow: readState('publication',p.id,'ownership')||'nenhum'}));
+  return `<h1>Leitura e acervo</h1>
+  <p class="muted small">Estado pessoal — a única camada que a interface escreve.
+     Leitura pertence à obra; posse pertence à publicação.</p>
+  ${order.filter(k=>g[k]).map(k=>`<h2>${E(k)} <span class="b">${g[k].length}</span></h2>
+    <div class="rows">${g[k].map(r=>`<div class="row"><div class="n"></div>
+      <div class="t">${lk('obra/'+r.w.id,wTitle(r.w.id))}<div class="au">${E(wAuthors(r.w.id))}</div></div>
+      <div class="meta">${r.pp?`<span class="b acc">prioridade ${E(r.pp)}</span>`:''}${rsBadge(r.w)}</div></div>`).join('')}</div>`).join('')}
+  <h2>Posse por publicação</h2>
+  <div class="rows">${pubs.map(x=>`<div class="row"><div class="n">▣</div>
+    <div class="t">${lk('publicacao/'+x.p.id,x.p.title_as_published||x.p.id)}
+      <div class="au">contém ${(x.p.contains||[]).length} obra(s)</div></div>
+    <div class="meta"><span class="b ${x.ow==='tenho'?'ok':''}">${E(x.ow)}</span></div></div>`).join('')}</div>`;
+}
+
+/* ---------- revalidação -------------------------------------------------
+   Uma conclusão guardada só em prosa envelhece em silêncio. Cada afirmação
+   estrutural carrega um predicado reexecutado a cada build; a prosa original
+   fica visível ao lado do resultado, para que se veja o que mudou.          */
+const RV = {current:['evidência confere','ok'],
+            stale:['evidência desatualizada','flag'],
+            unverifiable:['sem evidência verificável','warn']};
+function rvBadge(g){
+  const s=(g.revalidation||{}).status; if(!s) return '';
+  const r=RV[s]||[s,''];
+  return `<span class="b ${r[1]}" title="revalidado em ${E((g.revalidation||{}).checked||'')}">${r[0]}</span>`;
+}
+function gapEvidence(g){
+  const rv=g.revalidation||{};
+  const items = rv.evidence || (g.evidence||[]).map(e=>
+    typeof e==='string' ? {claim:e, checkable:false, reason:'evidência em prosa'} : e);
+  if(!items.length) return '';
+  return `<p class="small"><span class="lock">sinal — reexecutado a cada build</span></p>
+  <ul class="small">${items.map(e=>{
+    if(!e.checkable) return `<li>${E(e.claim)} <span class="b">não verificável</span>
+      ${e.reason?`<div class="by">${E(e.reason)}</div>`:''}</li>`;
+    const bad=(e.checks||[]).filter(c=>c.ok!==true);
+    return `<li>${E(e.claim)}
+      <span class="b ${e.holds?'ok':'flag'}">${e.holds?'confere':'NÃO confere mais'}</span>
+      ${bad.length?`<div class="by">${bad.map(c=>
+        `${E(c.type)}: esperado ${E(JSON.stringify(c.expect))}, atual ${E(JSON.stringify(c.actual))}`
+        +(c.error?' — '+E(c.error):'')).join('<br>')}</div>`:''}</li>`;
+  }).join('')}</ul>`;
+}
+
+/* ---------- propostas estruturais --------------------------------------
+   Nível da coleção: pergunta, escopo, nome, ou a suposição de que aquele
+   conjunto é uma coleção só. Nunca aplicadas automaticamente.            */
+const SP_TYPE = {refine:['refinar','degrau 3'], rename:['renomear','degrau 4'],
+                 split:['dividir','degrau 5'], merge:['fundir','degrau 6']};
+const SP_ST = {open:['aberta','warn'], approved:['aprovada por você','ok'],
+               rejected:['recusada por você','']};
+function vPropostas(){
+  const ps = D.proposals||[];
+  const head = `<h2>Propostas estruturais <span class="b">${ps.length}</span></h2>`;
+  if(!ps.length) return head+`<div class="panel"><p class="small muted" style="margin:0">
+    Nenhuma. Uma proposta estrutural questiona o <b>escopo</b> de uma coleção — a pergunta, o nome,
+    ou a suposição de que aquele conjunto é uma coleção só — e nasce de evidência acumulada, não de
+    infraestrutura pronta. A ausência é o estado correto.<br><br>
+    <span class="lock">quando existirem</span> aparecem aqui em três estados distintos:
+    <span class="b warn">aberta</span> <span class="b ok">aprovada por você</span> <span class="b">recusada por você</span>.
+    Nenhuma é aplicada sem a sua decisão; a build recusa uma linhagem que cite proposta não aprovada.
+    Esquema em <code>config/structural-proposals.yaml</code>, modelo em
+    <code>review/structural/_TEMPLATE.yaml</code>.</p></div>`;
+  const grp = st => ps.filter(p=>(p.status||'open')===st);
+  return head + ['open','approved','rejected'].map(st=>{
+    const g = grp(st); if(!g.length) return '';
+    return g.map(p=>{
+      const ty = SP_TYPE[p.type]||[p.type,''], s = SP_ST[st]||[st,''];
+      return `<div class="panel"${st==='open'?' style="border-left:3px solid var(--flag)"':''}>
+      <h3>${E(p.id)} · ${E(ty[0])}</h3>
+      <p class="small" style="margin-bottom:6px">
+        <span class="b ${s[1]}">${s[0]}</span>
+        <span class="b">${E(ty[1])}</span>
+        ${p.provisional?'<span class="b">provisória</span>':''}
+        ${rvBadge(p)}
+        ${(p.affects||[]).map(c=>lk('colecao/'+c,(C(c)||{}).title_pt||c)).join(' · ')}</p>
+      <p class="small">${E(p.statement)}</p>
+      ${gapEvidence(p)}
+      ${p.proposed?`<p class="small"><span class="lock">alternativa proposta</span></p>
+        <pre class="state">${E(JSON.stringify(p.proposed,null,1))}</pre>`:''}
+      ${p.decision?`<p class="small"><span class="lock">decisão</span>
+        ${E(p.decision.by)} · ${E(p.decision.date)}<br>${E(p.decision.rationale||'')}</p>`
+        :`<p class="small muted" style="margin:0"><span class="lock">sem decisão</span>
+          nada foi aplicado.</p>`}
+      ${p.recheck_after?`<p class="small muted" style="margin:6px 0 0"><span class="lock">rever depois de</span> ${E(p.recheck_after)}</p>`:''}
+    </div>`;}).join('');
+  }).join('');
+}
+
+function vRevisao(){
+  const gs = D.gaps;
+  const pend = Object.values(D.works).filter(w=>w.pending_assignment);
+  return `<h1>Revisão</h1>
+  <p class="muted small">Nada aqui foi aplicado à biblioteca. Propostas, não decisões.</p>
+  <dl class="stats">
+    <div><dt>Propostas estruturais</dt><dd>${(D.proposals||[]).length}
+      <small>${(D.counts||{}).proposals_open||0} abertas</small></dd></div>
+    <div><dt>Lacunas abertas</dt><dd>${gs.filter(g=>g.status==='open').length}</dd></div>
+    <div><dt>Provisórias</dt><dd>${gs.filter(g=>g.provisional).length}</dd></div>
+    <div><dt>Desatualizadas</dt><dd>${(D.counts||{}).gaps_stale||0}</dd></div>
+    <div><dt>Checks reexecutados</dt><dd>${(D.counts||{}).checks_run||0}</dd></div>
+    <div><dt>Sem coleção</dt><dd>${pend.length}</dd></div>
+    <div><dt>Referências a resolver</dt><dd>${(D.issues||[]).length}</dd></div>
+  </dl>
+  <p class="small muted">Detecção e revalidação de lacunas são automáticas e rodam a cada build.
+     Preencher lacunas e gerar recomendações não são — e nenhuma região vazia do mapa de escopo
+     é uma obra em falta.</p>
+  ${vPropostas()}
+
+  <h2>Lacunas</h2>
+  ${gs.map(g=>`<div class="panel"${(g.revalidation||{}).status==='stale'?' style="border-left:3px solid var(--flag)"':(g.provisional?' style="border-left:3px solid var(--rule-2)"':'')}>
+    <h3>${E(g.id)} · ${E(g.type)}</h3>
+    <p class="small" style="margin-bottom:6px">
+      <span class="b ${g.necessity&&g.necessity.startsWith('alta')?'flag':'warn'}">necessidade ${E(g.necessity)}</span>
+      <span class="b">${E(g.status)}</span>
+      ${g.provisional?'<span class="b">provisória</span>':''}
+      ${rvBadge(g)}
+      <a href="#/colecao/${E(g.collection)}">${E((C(g.collection)||{}).title_pt||g.collection)}</a></p>
+    ${(g.revalidation||{}).status==='stale'?`<div class="panel prov" style="margin:8px 0">
+      <p class="small" style="margin:0"><b>Conclusão desatualizada.</b> A biblioteca mudou e parte da
+      evidência abaixo deixou de valer. A prosa original está preservada — o que segue é o que a
+      afirmação dizia, e o que os dados dizem agora.</p></div>`:''}
+    <p class="small">${E(g.statement)}</p>
+    ${g.context?`<p class="small muted" style="border-left:2px solid var(--rule-2);padding-left:9px">
+      <span class="lock">contexto — não hierarquiza</span><br>${E(g.context)}</p>`:''}
+    ${gapEvidence(g)}
+    ${(g.candidates||[]).length?`<p class="small"><span class="lock">candidatos</span></p>
+    <div class="tw"><table><thead><tr><th>Obra</th><th>Veredito</th><th>Argumento</th></tr></thead><tbody>
+      ${g.candidates.map(c=>`<tr><td>${E(c.work_title)}</td>
+        <td><span class="b ${c.verdict==='gap-filler'?'ok':''}">${E(c.verdict)}</span></td>
+        <td>${E(c.argument||'')}${c.over?`<br><span class="by">contra os outros:</span> ${E(c.over)}`:''}
+        ${c.context_note?`<br><span class="lock">contexto</span> <span class="muted">${E(c.context_note)}</span>`:''}</td></tr>`).join('')}
+    </tbody></table></div>`
+    :`<p class="small muted"><span class="lock">candidatos</span> nenhum. Detecção pura —
+       a lacuna está registrada, nenhuma obra foi proposta. Detectar é automático; propor não é.</p>`}
+    ${g.recheck_after?`<p class="small muted" style="margin:8px 0 0"><span class="lock">rever depois de</span> ${E(g.recheck_after)}</p>`:''}
+  </div>`).join('')}
+  ${pend.length?`<h2>Obras sem coleção</h2>${pend.map(w=>`<div class="panel prov">
+    <h3>${lk('obra/'+w.id,wTitle(w.id))}</h3><p class="small">${E(w.pending_assignment.reason)}</p>
+    <p class="small muted" style="margin:0">candidatas: ${E((w.pending_assignment.candidate_collections||[]).join(', '))}</p></div>`).join('')}`:''}
+  ${(D.issues||[]).length?`<h2>Integridade referencial</h2><div class="tw"><table>
+    <thead><tr><th>Tipo</th><th>Onde</th><th>Referência</th></tr></thead><tbody>
+    ${D.issues.map(i=>`<tr><td>${E(i.kind)}</td><td>${E(i.where)}</td><td><code>${E(i.ref||'')}</code></td></tr>`).join('')}
+    </tbody></table></div>`:''}
+  <h2>Prosa de revisão</h2>
+  ${D.reviews.map(r=>`<details class="panel"><summary><b>${E((C(r.collection)||{}).title_pt||r.collection)}</b>
+    <span class="small muted">${E(r.path)} · ${E(r.status||'')}</span></summary>${r.body_html}</details>`).join('')}`;
+}
+
+function vEstado(){
+  const yaml = stateYaml();
+  const n = pendCount();
+  const canDir = !!window.showDirectoryPicker, canFile = !!window.showSaveFilePicker;
+  return `<h1>Estado pessoal</h1>
+  <p class="muted small">A interface não é um banco de dados. Mantém as alterações em memória e grava-as no
+     arquivo canônico — <code>state/personal.yaml</code>, o único que ela escreve. Nenhuma segunda cópia da
+     biblioteca é criada, nem aqui nem no navegador.</p>
+
+  ${n?`<div class="panel prov"><p class="small" style="margin:0">
+        <b>${n}</b> registro(s) alterado(s) nesta sessão e <b>ainda não gravados</b>.
+        Feche esta aba agora e eles perdem-se.</p></div>`
+     :`<div class="panel"><p class="small muted" style="margin:0">
+        Nada por gravar. ${LASTSAVED?`Última gravação às ${E(LASTSAVED)}.`:'A interface reflete o que está em disco.'}</p></div>`}
+
+  <div class="filters">
+    <button class="pill-btn${n?' hot':''}" onclick="saveState()">Gravar em state/personal.yaml</button>
+    ${DIRH?`<span class="b ok">pasta conectada — grava direto, sem diálogo</span>`
+          :(canDir?`<button class="pill-btn" onclick="connectDir()">Conectar pasta da biblioteca…</button>`:'')}
+    <button class="pill-btn" onclick="copyState()">Copiar YAML</button>
+  </div>
+
+  <div class="panel"><h3>Como a gravação funciona aqui</h3>
+    <p class="small">Há dois caminhos, e a interface usa o melhor que o seu navegador oferecer.</p>
+    <ol class="small" style="margin:0 0 6px 18px">
+      <li><b>Pasta conectada</b> ${canDir?'<span class="b ok">disponível</span>':'<span class="b flag">indisponível aqui</span>'} —
+        você escolhe a raiz da biblioteca <b>uma vez por sessão</b> e a partir daí toda gravação vai direto para
+        <code>state/personal.yaml</code>, sem diálogo e sem escolher caminho. É o caminho confiável: não há como
+        gravar no lugar errado.</li>
+      <li><b>Salvar como</b> ${canFile?'<span class="b warn">disponível</span>':'<span class="b flag">indisponível aqui</span>'} —
+        reserva, quando o primeiro não existe. Abre um diálogo e você navega até <code>state/</code>.</li>
+      <li><b>Copiar YAML</b> — sempre disponível. Na versão hospedada é o único caminho, porque uma página na
+        web não alcança o seu disco.</li>
+    </ol>
+    <p class="hint" style="margin:0">A permissão da pasta dura enquanto a aba estiver aberta. Nada é guardado no
+      navegador: sem localStorage, sem IndexedDB, sem cópia paralela da biblioteca.</p></div>
+
+  <pre class="state">${E(yaml)}</pre>`;
+}
+
+async function connectDir(){
+  if(!window.showDirectoryPicker){
+    alert('Este navegador não oferece acesso a pastas. Use "Gravar" (Salvar como) ou "Copiar YAML".');
+    return false;
+  }
+  try{
+    const h = await window.showDirectoryPicker({mode:'readwrite', id:'bibliotheca'});
+    try{ await h.getDirectoryHandle('collections'); await h.getDirectoryHandle('state'); }
+    catch(e){
+      alert('Essa pasta não parece ser a raiz da biblioteca — falta collections/ ou state/.\\n'+
+            'Escolha a pasta que contém collections/, works/, state/ e tools/.');
+      return false;
+    }
+    DIRH = h; render(); return true;
+  }catch(e){ return false; }
+}
+
+async function saveState(){
+  const yaml = stateYaml();
+  let ok = false, why = '';
+  if(!DIRH && window.showDirectoryPicker) await connectDir();
+  if(DIRH){
+    try{
+      const st = await DIRH.getDirectoryHandle('state', {create:true});
+      const fh = await st.getFileHandle('personal.yaml', {create:true});
+      const w  = await fh.createWritable(); await w.write(yaml); await w.close();
+      ok = true;
+    }catch(e){ why = e.message; }
+  }
+  if(!ok && window.showSaveFilePicker){
+    try{
+      const h = await window.showSaveFilePicker({suggestedName:'personal.yaml'});
+      const w = await h.createWritable(); await w.write(yaml); await w.close();
+      ok = true;
+    }catch(e){ if(e && e.name!=='AbortError') why = e.message; }
+  }
+  if(ok) commitSaved();
+  else if(why) alert('Falha ao gravar: '+why);
+  else if(!window.showDirectoryPicker && !window.showSaveFilePicker)
+    alert('Este navegador/contexto não permite gravar arquivos locais. Use "Copiar YAML".');
+  return ok;
+}
+
+/* Só depois de uma gravação BEM-SUCEDIDA: o que estava pendente passa a ser
+   a base, o pendente esvazia, e o indicador volta a limpo. */
+function commitSaved(){
+  for(const b of Object.keys(PENDING)){
+    D.state[b] = D.state[b] || {};
+    for(const id in PENDING[b])
+      D.state[b][id] = Object.assign({}, D.state[b][id]||{}, PENDING[b][id]);
+    PENDING[b] = {};
+  }
+  LASTSAVED = new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+  updateSaveUI();
+  render();
+}
+function stateYaml(){
+  const merge=(k)=>{const o={};Object.assign(o, D.state[k]||{});
+    for(const id in PENDING[k]) o[id]=Object.assign({},o[id]||{},PENDING[k][id]);
+    return o;};
+  const dump=(o)=>{const ks=Object.keys(o).sort();if(!ks.length)return ' {}';
+    return '\n'+ks.map(id=>'  '+id+':\n'+Object.entries(o[id]).map(([f,v])=>
+      '    '+f+': '+(v==null?'null':(/^[\w.-]+$/.test(String(v))?v:JSON.stringify(v)))).join('\n')).join('\n');};
+  return '# Estado pessoal. O único arquivo que a interface escreve.\nworks:'+
+    dump(merge('works'))+'\npublications:'+dump(merge('publications'))+'\n';
+}
+function copyState(){
+  const y = stateYaml();
+  const done = ()=>{const b=$('#savestatus'); if(b){const t=b.textContent; b.textContent='YAML copiado';
+    setTimeout(()=>updateSaveUI(),1400);} };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(y).then(done, ()=>selectYaml());
+  } else selectYaml();
+  function selectYaml(){
+    const pre=$('pre.state'); if(!pre) return;
+    const r=document.createRange(); r.selectNodeContents(pre);
+    const s=getSelection(); s.removeAllRanges(); s.addRange(r);
+    alert('Não consegui usar a área de transferência aqui. O YAML já está selecionado — copie com Ctrl+C.');
+  }
+}
+
+function vBusca(q){
+  q=(q||'').toLowerCase().trim(); if(!q) return '<h1>Busca</h1><p class="muted">Escreva algo acima.</p>';
+  const hit=(s)=>String(s||'').toLowerCase().includes(q);
+  const ws=Object.values(D.works).filter(w=>hit(w.title_pt)||hit(w.title_original)||hit(w.id)||hit(wAuthors(w.id))
+    ||w.memberships.some(m=>hit(m.why_here)));
+  const cs=Object.values(D.collections).filter(c=>hit(c.title_pt)||hit(c.question)||hit(c.id));
+  const ps=Object.values(D.publications).filter(p=>hit(p.title_as_published)||hit(p.publisher)||hit(p.id));
+  const as=Object.values(D.authors).filter(a=>hit(a.name_display)&&(a.works||[]).length);
+  const gs=D.gaps.filter(g=>hit(g.statement)||hit(g.id)||(g.candidates||[]).some(c=>hit(c.work_title)));
+  const sec=(t,items)=>items.length?`<h2>${t} <span class="b">${items.length}</span></h2><div class="rows">${items.join('')}</div>`:'';
+  return `<h1>Busca: ${E(q)}</h1>
+  ${sec('Obras', ws.map(w=>rowWork(w)))}
+  ${sec('Coleções', cs.map(c=>`<div class="row"><div class="n"></div><div class="t">${lk('colecao/'+c.id,c.title_pt)}<div class="au">${E(c.question||'')}</div></div><div></div></div>`))}
+  ${sec('Autores', as.map(a=>`<div class="row"><div class="n">${(a.works||[]).length}</div><div class="t">${lk('autor/'+a.id,a.name_display)}</div><div></div></div>`))}
+  ${sec('Publicações', ps.map(p=>`<div class="row"><div class="n">▣</div><div class="t">${lk('publicacao/'+p.id,p.title_as_published||p.id)}<div class="au">${E(p.publisher||'')}</div></div><div></div></div>`))}
+  ${sec('Lacunas', gs.map(g=>`<div class="row"><div class="n">!</div><div class="t"><a href="#/revisao">${E(g.id)}</a><div class="au">${E(g.statement||'').slice(0,140)}…</div></div><div></div></div>`))}
+  ${!(ws.length+cs.length+ps.length+as.length+gs.length)?'<p class="unk">Nada encontrado.</p>':''}`;
+}
+
+/* ---------- router ----------------------------------------------------- */
+const state = {cat:{}, coll:{}};
+
+/* Voltar. A trilha é nossa e não o histórico do navegador: dentro de um
+   artefato o histórico pode levar para fora da página, e a trilha nunca leva.
+   Quando o destino já está na trilha, ela encolhe em vez de crescer — assim
+   ir e voltar entre duas telas não acumula. */
+const trail = [];
+const scrollMem = {};
+let curHash = location.hash || '#/';
+const PARENT = {obra:['#/catalogo','Catálogo'], publicacao:['#/publicacoes','Publicações'],
+                autor:['#/autores','Autores'], colecao:['#/colecoes','Coleções'],
+                busca:['#/','Visão geral']};
+const RNAME = {'':'Visão geral', catalogo:'Catálogo', colecoes:'Coleções', colecao:'Coleção',
+               obra:'Obra', autor:'Autor', autores:'Autores', publicacao:'Publicação',
+               publicacoes:'Publicações', leitura:'Leitura e acervo', estado:'Estado pessoal',
+               revisao:'Revisão e lacunas', busca:'Busca'};
+function pushTrail(h){
+  const i = trail.lastIndexOf(h);
+  if(i >= 0) trail.length = i + 1; else trail.push(h);
+}
+function goBack(){
+  if(trail.length > 1){ trail.pop(); location.hash = trail[trail.length-1]; }
+  else location.hash = '#/';
+}
+function ctxBar(r, arg){
+  if(r === '') return '';
+  const parts = [`<a href="#/">Visão geral</a>`];
+  const par = PARENT[r];
+  if(par) parts.push(`<a href="${par[0]}">${par[1]}</a>`);
+  let here = RNAME[r] || r;
+  if(r==='obra')       here = wTitle(arg);
+  if(r==='colecao')    here = (C(arg)||{}).title_pt || arg;
+  if(r==='autor')      here = (A(arg)||{}).name_display || arg;
+  if(r==='publicacao') here = (P(arg)||{}).title_as_published || arg;
+  if(r==='busca')      here = 'Busca: ' + arg;
+  parts.push(`<span class="here">${E(here)}</span>`);
+  const prev = trail.length > 1 ? trail[trail.length-2] : (par ? par[0] : '#/');
+  const prevName = trail.length > 1
+    ? (RNAME[(prev.replace(/^#\//,'').split('/')[0])] || 'anterior')
+    : (par ? par[1] : 'Visão geral');
+  return `<div class="ctx">
+    <button class="back" onclick="goBack()" title="Voltar para ${E(prevName)}">← Voltar</button>
+    <nav class="crumb" aria-label="Trilha">${parts.join('<span class="sep">›</span>')}</nav>
+  </div>`;
+}
+function setSub(ns,k,v){state[ns][k]=v;render();}
+function nav(){
+  const c=D.counts, h=location.hash||'#/';
+  const it=[['','#/','Visão geral',''],
+    ['sec','','Acervo',''],
+    ['','#/catalogo','Catálogo',c.works],
+    ['','#/colecoes','Coleções',c.collections],
+    ['','#/autores','Autores',Object.values(D.authors).filter(a=>(a.works||[]).length).length],
+    ['','#/publicacoes','Publicações',c.publications],
+    ['sec','','Você',''],
+    ['','#/leitura','Leitura e acervo',''],
+    ['','#/estado','Estado pessoal',''],
+    ['sec','','Curadoria',''],
+    ['','#/revisao','Revisão e lacunas',c.gaps_open]];
+  $('#nav').innerHTML = it.map(([k,href,label,n])=> k==='sec'
+    ? `<div class="sect">${label}</div>`
+    : `<a href="${href}" class="${h===href?'on':''}">${label}${n!==''?`<b>${n}</b>`:''}</a>`).join('');
+}
+function vPubs(){
+  return `<h1>Publicações</h1>
+  <p class="muted small">Objetos físicos. Uma publicação pode conter várias obras — por isso não vive dentro de nenhuma delas.</p>
+  <div class="rows">${Object.values(D.publications).map(p=>`<div class="row"><div class="n">▣</div>
+    <div class="t">${lk('publicacao/'+p.id,p.title_as_published||p.id)}
+      <div class="au">${E(p.publisher||'')} · contém ${(p.contains||[]).length} obra(s)</div></div>
+    <div class="meta"><span class="b warn">${E(p.research_status||'não pesquisada')}</span></div></div>`).join('')}</div>`;
+}
+function render(){
+  const h=(location.hash||'#/').replace(/^#\//,'');
+  const [r,arg]=[h.split('/')[0], decodeURIComponent(h.split('/').slice(1).join('/')||'')];
+  let out;
+  try{
+    if(r==='') out=vHome();
+    else if(r==='catalogo') out=vCatalogo();
+    else if(r==='colecoes') out=vColecoes();
+    else if(r==='colecao') out=vColecao(arg);
+    else if(r==='obra') out=vObra(arg);
+    else if(r==='publicacao') out=vPub(arg);
+    else if(r==='publicacoes') out=vPubs();
+    else if(r==='autor') out=vAutor(arg);
+    else if(r==='autores') out=vAutores();
+    else if(r==='leitura') out=vLeitura();
+    else if(r==='estado') out=vEstado();
+    else if(r==='revisao') out=vRevisao();
+    else if(r==='busca') out=vBusca(arg);
+    else out='<p>Rota desconhecida.</p>';
+  }catch(err){out='<h1>Erro ao renderizar</h1><pre class="state">'+E(err&&err.stack||err)+'</pre>';}
+  $('#view').innerHTML = ctxBar(r, arg) + out;
+  nav(); updateSaveUI();
+  window.scrollTo(0, scrollMem[location.hash||'#/'] || 0);
+  const fc=$('#fc'),fr=$('#fr'),fd=$('#fd');
+  if(fc)fc.onchange=e=>setSub('cat','coll',e.target.value);
+  if(fr)fr.onchange=e=>setSub('cat','rs',e.target.value);
+  if(fd)fd.onchange=e=>setSub('cat','rd',e.target.value);
+  const fe=$('#fe'),fg=$('#fg');
+  if(fe)fe.onchange=e=>setSub('cat','ed',e.target.value);
+  if(fg)fg.onchange=e=>setSub('cat','g',e.target.value);
+}
+window.addEventListener('hashchange', ()=>{
+  if(typeof sug!=='undefined' && sug) sug.hidden = true;
+  scrollMem[curHash] = window.scrollY;      // guarda onde estavas
+  curHash = location.hash || '#/';
+  pushTrail(curHash);
+  render();
+});
+pushTrail(curHash);
+function goCat(f){
+  state.cat = Object.assign({}, f);
+  if((location.hash||'#/') === '#/catalogo') render();   // hash igual não dispara hashchange
+  else location.hash = '#/catalogo';
+}
+
+/* Busca incremental. O acervo inteiro cabe em memória; procurar a cada tecla
+   custa nada e muda a sensação de controlo — antes era preciso disparar uma
+   rota às cegas para saber se havia resultado. */
+const sug = $('#sug');
+const norm = t => (t||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+function suggest(q){
+  const n = norm(q);
+  if(n.length < 2){ sug.hidden = true; sug.innerHTML=''; return; }
+  const hit = [];
+  const push = (kind,href,label,sub)=>{ if(hit.length<9) hit.push({kind,href,label,sub}); };
+  Object.values(D.works).forEach(w=>{ if(norm(wTitle(w.id)).includes(n)||norm(wAuthors(w.id)).includes(n))
+    push('obra','#/obra/'+w.id, wTitle(w.id), wAuthors(w.id)); });
+  Object.values(D.collections).forEach(k=>{ if(norm(k.title_pt).includes(n))
+    push('coleção','#/colecao/'+k.id, k.title_pt, (k.question||'').slice(0,70)); });
+  Object.values(D.authors).forEach(a=>{ if(norm(a.name_display).includes(n))
+    push((a.role||'author')==='author'?'autor':'tradutor','#/autor/'+a.id, a.name_display,
+         ((a.works||[]).length? (a.works.length+' obra(s)') : '')); });
+  Object.values(D.publications).forEach(pb=>{ if(norm(pb.title_as_published||pb.id).includes(n))
+    push('edição','#/publicacao/'+pb.id, pb.title_as_published||pb.id, pb.publisher||''); });
+  sug.innerHTML = hit.length
+    ? hit.map(h=>`<a href="${h.href}"><span class="k">${h.kind}</span>${E(h.label)}${
+        h.sub?`<div class="au">${E(h.sub)}</div>`:''}</a>`).join('') +
+      `<a href="#/busca/${encodeURIComponent(q)}"><span class="k">tudo</span>Ver todos os resultados de “${E(q)}”</a>`
+    : '<div class="none">Nada encontrado.</div>';
+  sug.hidden = false;
+}
+$('#q').addEventListener('input', e=>suggest(e.target.value));
+$('#q').addEventListener('keydown',e=>{
+  if(e.key==='Enter'){ sug.hidden=true; location.hash='#/busca/'+encodeURIComponent(e.target.value); }
+  if(e.key==='Escape'){ sug.hidden=true; e.target.blur(); }
+});
+document.addEventListener('click', e=>{ if(!e.target.closest('.searchwrap')) sug.hidden=true; });
+$('#themebtn').onclick=()=>{const r=document.documentElement;
+  r.dataset.theme = r.dataset.theme==='dark'?'light':(r.dataset.theme==='light'?'':'dark');};
+render();
+</script>

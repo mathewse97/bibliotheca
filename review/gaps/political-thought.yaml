@@ -1,0 +1,434 @@
+# Extração estruturada de review/political-thought.md §3.
+# Mesmo conteúdo, forma legível por máquina. A prosa continua canônica para
+# o argumento; este arquivo é canônico para o estado.
+#
+# EVIDÊNCIA VERIFICÁVEL: cada `evidence` guarda a prosa em `claim` e, quando
+# a afirmação é estrutural, um `check` reexecutado pelo build.py. Uma lacuna
+# cuja evidência deixou de valer é marcada `stale` no índice gerado, com a
+# prosa preservada. `check: null` + `checkable: false` declara honestamente
+# que a afirmação depende de julgamento.
+#
+# `candidates` é OPCIONAL: uma lacuna pode ser detecção pura, `candidates: []`.
+collection: political-thought
+extracted_from: review/political-thought.md
+by: claude
+date: 2026-09-05
+
+gaps:
+  - id: political-thought--g01
+    type: dangling-interlocutor
+    necessity: alta
+    context: "Nozick tem circulação em português a verificar. Não altera a
+              necessidade."
+    status: open
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    statement: "A coleção põe Rawls e a crítica libertária em oposição
+                declarada, mas Rothbard e Hoppe não respondem a Rawls:
+                escrevem de uma fundamentação de direitos naturais que não
+                engaja o argumento rawlsiano. A oposição existe na estrutura
+                da coleção e não existe nos textos."
+    evidence:
+      - claim: "rawls--a-theory-of-justice tem tensão declarada com
+                rothbard--the-ethics-of-liberty, sem relação responds_to ou
+                criticizes que a sustente."
+        check:
+          - {type: tension_present, collection: political-thought,
+             a: rawls--a-theory-of-justice, b: rothbard--the-ethics-of-liberty}
+          - {type: relation_count, from: rothbard--the-ethics-of-liberty,
+             to: rawls--a-theory-of-justice,
+             types: [responds_to, criticizes], expect: 0}
+    candidates:
+      - work_title: "Robert Nozick — Anarquia, Estado e Utopia"
+        verdict: gap-filler
+        argument: "Resposta direta e canônica a Uma Teoria da Justiça, escrita
+                   contra ela. É o texto que fez o debate acontecer."
+        over: "Rothbard rejeita a pergunta de Rawls; Nozick aceita a pergunta
+               e recusa a resposta — é isso que torna a tensão legível."
+        placement:
+          collection: political-thought
+          after: rawls--a-theory-of-justice
+          role: critical-response
+          demand: exigente
+          requires: [rawls--a-theory-of-justice]
+          priority_library: core
+    raised: 2026-09-05
+
+  - id: political-thought--g02
+    type: sequence-gap
+    necessity: media-alta
+    context: null
+    status: open
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    statement: "Montesquieu dá a teoria da separação de poderes e Tocqueville
+                descreve o que ela virou numa sociedade real. Falta o momento
+                em que ela foi projetada e defendida — que Tocqueville
+                pressupõe conhecido."
+    evidence:
+      - claim: "Sequência: montesquieu--de-lesprit-des-lois →
+                tocqueville--de-la-democratie-en-amerique sem fonte primária
+                constitucional entre eles."
+        check: {type: count_members, collection: political-thought,
+                after: montesquieu--de-lesprit-des-lois,
+                before: tocqueville--de-la-democratie-en-amerique,
+                where: {role: primary-source}, expect: 0}
+    candidates:
+      - work_title: "Hamilton, Madison e Jay — O Federalista"
+        verdict: gap-filler
+        argument: "Fonte primária, não comentário. O único texto em que a
+                   arquitetura constitucional é argumentada por quem tinha
+                   de a fazer funcionar."
+        over: "Uma história constitucional seria comentário e violaria o
+               critério de precedência das fontes."
+        placement:
+          collection: political-thought
+          after: montesquieu--de-lesprit-des-lois
+          role: primary-source
+          demand: moderado
+          priority_library: secondary
+    raised: 2026-09-05
+
+  - id: political-thought--g03
+    type: one-sided-tradition
+    necessity: media
+    context: "A Ideologia Alemã e O Capital têm edições brasileiras de
+              referência a verificar. Não altera a necessidade."
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: marx-engels--die-deutsche-ideologie
+      note: "Candidato recomendado desde 2026-09-05, aprovado por você em
+             2026-09-19, e colocado exatamente onde a lacuna propunha: no
+             movimento VI, antes do Manifesto."
+      remaining: "Sem edição. Nada foi enumerado, verificado nem escolhido."
+
+    recheck_after: outras-colecoes-importadas
+    provisional: true
+    statement: "A tradição marxista não está ausente — há dois Marx — mas o
+                Manifesto é panfleto e o 18 de Brumário é análise de
+                conjuntura. Nenhum é a exposição sistemática da teoria da
+                história que Popper e Aron atacam."
+    evidence:
+      - claim: "popper--the-open-society e aron--lopium-des-intellectuels
+                criticam o historicismo; nenhuma obra da coleção o expõe."
+        check: null
+        checkable: false
+        reason: "A primeira metade é verificável; a segunda não. Afirmar que
+                 nenhuma obra 'expõe o historicismo' exigiria um marcador de
+                 assunto ou tradição nos registros de obra, e os 50 registros
+                 estão not_researched, com subjects vazio. Esta lacuna depende
+                 de julgamento e não pode ser revalidada por máquina enquanto
+                 isso não mudar."
+    candidates:
+      - work_title: "Marx & Engels — A Ideologia Alemã (com o Prefácio de 1859)"
+        verdict: gap-filler
+        argument: "É onde a concepção materialista da história é enunciada de
+                   forma mais direta, é curto, e é literalmente o alvo de
+                   Popper."
+        over: "Melhor relação entre o que fecha e o que custa."
+        placement:
+          collection: political-thought
+          before: marx-engels--manifest-kommunistischen-partei
+          role: foundational
+          demand: exigente
+          priority_library: secondary
+      - work_title: "Marx — O Capital, Livro I"
+        verdict: gap-filler
+        argument: "Mais canônico e completo."
+        over: "Compromisso de leitura desproporcional ao papel que teria NESTA
+               coleção, que é de teoria política e não de economia política."
+      - work_title: "Gramsci; Lênin, O Estado e a Revolução"
+        verdict: complementary
+        argument: "Desenvolvimentos, não a exposição. Não fecham a lacuna."
+    raised: 2026-09-05
+
+  # -------------------------------------------------------------------------
+  # Acrescentadas em 2026-09-19, depois da conversa sobre a Escola de
+  # Frankfurt e sobre Kant. Detecção com candidatos; nada aplicado.
+  # -------------------------------------------------------------------------
+  - id: political-thought--g04
+    type: one-sided-tradition
+    necessity: alta
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: marcuse--one-dimensional-man
+      note: "Candidato aprovado por você em 2026-09-19. Habermas, 'Mudança Estrutural da Esfera Pública', continua registrado acima como alternativa NÃO aplicada — a lacuna fecha com Marcuse, e a outra obra permanece disponível como candidata de outra natureza."
+      remaining: "A obra entrou na coleção. A EDIÇÃO não existe: nenhuma foi
+                  enumerada, verificada nem escolhida (§E). Ter participação
+                  não é ter livro."
+
+    statement: >
+      Distinta da g03, e mais ampla do que ela. A g03 diz que falta a exposição
+      sistemática da teoria da história que Popper ("A Sociedade Aberta e Seus
+      Inimigos") e Aron ("O Ópio dos Intelectuais") atacam. Esta diz que falta
+      também o que a tradição marxista fez DEPOIS de a previsão falhar: a
+      releitura que desloca a análise da economia para a cultura, a consciência
+      e a esfera pública. A coleção tem o bloco crítico completo — Popper,
+      Aron, Arendt ("Origens do Totalitarismo"), Schmitt, Michels, os
+      libertários — e o pensamento de esquerda do século XX aparece quase só
+      pelo que esses críticos dizem dele.
+    evidence:
+      - claim: "As duas obras de Marx na coleção são de 1848 e 1852; nenhuma
+                obra da tradição posterior a 1917 está presente."
+        check: null
+        checkable: false
+        reason: "Depende de `date_written` e de `traditions`, e os registros
+                 estão `not_researched` com esses campos nulos."
+      - claim: "Bezmenov entra como fonte primária sobre o método soviético de
+                subversão, o que reforça a assimetria: a coleção descreve o
+                marxismo por testemunho e por crítica, nunca por exposição
+                própria."
+        check: null
+        checkable: false
+        reason: "Leitura do argumento da coleção."
+    candidates:
+      - work_title: "Marcuse — O Homem Unidimensional (1964)"
+        verdict: gap-filler
+        argument: "É o texto em que a tese de que a sociedade industrial
+                   absorve toda contestação vira argumento político, e é por
+                   ele que a Escola de Frankfurt entra na política prática dos
+                   anos 1960."
+        over: "Adorno e Horkheimer pertencem a Cultura — ver culture--g01 —,
+               porque o objeto deles ali é a cultura, não o regime."
+        placement:
+          collection: political-thought
+          role: critical-response
+          demand: exigente
+          priority_library: secondary
+      - work_title: "Habermas — Mudança Estrutural da Esfera Pública (1962)"
+        verdict: gap-filler
+        argument: "Alternativa de outro tipo: reconstrói como se formou e se
+                   degradou um espaço público de discussão racional, e é a
+                   ruptura interna com o pessimismo de Adorno. Fala diretamente
+                   com Tocqueville, com Mill e com o problema da opinião."
+      - work_title: "Gramsci; Lukács"
+        verdict: complementary
+        argument: "Antecedentes do deslocamento para a cultura. Não fecham a
+                   lacuna: são origem, não exposição nem desenvolvimento
+                   político."
+      - work_title: "Uma história do marxismo ocidental"
+        verdict: supporting
+        role_if_added: supplementary
+        argument: "Apoio de leitura, não fechamento. Entra como
+                   material de acompanhamento e não substitui nenhuma das obras acima."
+    raised: 2026-09-19
+
+  - id: political-thought--g05
+    type: missing-foundation
+    necessity: alta
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-09-19
+      work: kant--grundlegung-zur-metaphysik-der-sitten
+      note: "Candidato aprovado por você em 2026-09-19. 'À Paz Perpétua' continua registrada como complementar e NÃO entrou."
+      remaining: "A obra entrou na coleção. A EDIÇÃO não existe: nenhuma foi
+                  enumerada, verificada nem escolhida (§E). Ter participação
+                  não é ter livro."
+
+    statement: >
+      Kant não está em nenhuma coleção do acervo, e a coleção contém duas obras
+      que dependem dele para serem lidas. Rawls ("Uma Teoria da Justiça") é
+      declaradamente kantiano na construção do procedimento; e o debate sobre
+      ordem internacional e paz entre repúblicas, que atravessa a sequência do
+      Iluminismo em diante, tem nele o texto de referência. A coleção salta de
+      Rousseau ("Do Contrato Social") para Burke ("Reflexões sobre a Revolução
+      em França") sem a formulação moral que os dois disputam.
+    evidence:
+      - claim: "Nenhuma obra de Kant existe no acervo, em nenhuma coleção."
+        check: null
+        checkable: false
+        reason: "Predicado de ausência sobre o acervo; conferido manualmente em
+                 2026-09-19."
+      - claim: "Rawls está na coleção e é herdeiro direto dessa formulação."
+        check: null
+        checkable: false
+        reason: "Predicado de contagem aposentado em 2026-09-19. Eram 41 ao
+                 levantar a lacuna, 43 com Kant e Marcuse, 46 com A Ideologia
+                 Alemã, Lukács e Habermas — isto é, envelhece a cada obra que
+                 entra e ficaria stale para sempre. A afirmação que importa
+                 é que Rawls está na coleção e depende de Kant, e essa é
+                 verificável lendo o registro da obra."
+
+    candidates:
+      - work_title: "Kant — Fundamentação da Metafísica dos Costumes (1785)"
+        verdict: gap-filler
+        argument: "Curto, e é onde a autonomia e a dignidade como fim em si são
+                   enunciadas. É o mínimo que faz Rawls ser legível."
+        placement:
+          collection: political-thought
+          before: burke--reflections-france
+          role: foundational
+          demand: exigente
+          priority_library: secondary
+      - work_title: "Kant — À Paz Perpétua (1795)"
+        verdict: complementary
+        argument: "O texto político propriamente dito, e muito mais acessível.
+                   Não substitui a Fundamentação como fundação moral."
+    note: "Kant aparece DUAS vezes no acervo proposto, por razões diferentes:
+           aqui pela moral e pela política, e em culture--g02 pela estética.
+           São obras distintas e lacunas distintas — não é duplicação."
+    raised: 2026-09-19
+
+  - id: political-thought--g06
+    type: missing-foundation
+    necessity: media-alta
+    status: open
+    statement: >
+      A coleção tem o totalitarismo descrito por fora — Arendt, "Origens do
+      Totalitarismo"; Schmitt, "O Conceito do Político"; Michels; Koestler —
+      e, desde 2026-09-19, a crítica cultural de Adorno e Horkheimer,
+      "Dialética do Esclarecimento", em Cultura. O que falta é a peça que liga
+      as duas: a explicação de COMO se forma o indivíduo disposto a obedecer.
+      Essa explicação é o próprio programa da Escola de Frankfurt — Marx
+      explicado com Freud —, e ela tem obras próprias, nenhuma delas no acervo.
+      Sem ela, a biblioteca discute o totalitarismo sem ter a única tentativa
+      sistemática de explicar o material humano que o tornou possível.
+    context: "Os 'Estudos sobre Autoridade e Família' (1936) provavelmente não
+              têm edição em português, e 'A Personalidade Autoritária' é obra
+              extensa e de disponibilidade a verificar. Nada disso altera a
+                                                        n
+                                                        e
+                                                        c
+                                                        e
+                                                        s
+                                                        s
+                                                        i
+                                                        d
+                                                        a
+                                                        d
+                                                        e
+                                                        —
+                                                        é
+                                                        a
+                                                        s
+                                                        s
+                                                        u
+                                                        n
+                                                        t
+                                                        o
+                                                        d
+                                                        a
+                                                        e
+                                                        s
+                                                        c
+                                                        o
+                                                        l
+                                                        h
+                                                        a
+                                                        d
+                                                        e
+                                                        e
+                                                        d
+                                                        i
+                                                        ç
+                                                        ã
+                                                        o
+                                                        ,
+                                                        n
+                                                        ã
+                                                        o
+                                                        d
+                                                        o
+                                                        r
+                                                        e
+                                                        g
+                                                        i
+                                                        s
+                                                        t
+                                                        r
+                                                        o
+                                                        d
+                                                        e
+                                                        l
+                                                        a
+                                                        c
+                                                        u
+                                                        n
+                                                        a
+                                                        s
+                                                        ."
+    evidence:
+      - claim: "A coleção tem quatro obras sobre totalitarismo e ideologia e
+                nenhuma sobre a formação psicológica da obediência."
+        check: null
+        checkable: false
+        reason: "Exigiria que os temas de cada obra estivessem pesquisados nos
+                 registros, e eles só existem depois da
+                 pesquisa de edição."
+      - claim: "A SEP registra que a Escola analisou o autoritarismo tanto como
+                formação política quanto na família nuclear e nas disposições
+                psicológicas profundas, e que 'A Personalidade Autoritária'
+                (1950) é o trabalho sobre autoritarismo pelo qual o Instituto é
+                mais conhecido."
+        check: null
+        checkable: false
+        reason: "Fato bibliográfico externo, verificado; não é predicado sobre
+                 a biblioteca."
+    candidates:
+      - work_title: "Adorno, Frenkel-Brunswik, Levinson & Sanford — A
+                     Personalidade Autoritária (1950)"
+        verdict: gap-filler
+        argument: "É o estudo empírico em que a tese é formulada e testada:
+                   traços de personalidade que se agrupariam como resultado de
+                   experiências da infância, medidos pela escala F. Fecha a
+                   lacuna porque é onde a explicação está escrita pelos
+                   próprios autores, e não pelos seus críticos."
+        over: "Os 'Estudos sobre Autoridade e Família' são o antecedente de
+               1936, mais difíceis de obter e provavelmente sem edição
+               brasileira."
+        placement:
+          collection: political-thought
+          movement: "VII. Poder, partidos, massas e ideologia"
+          after: arendt--origins-of-totalitarianism
+          role: critical-response
+          demand: exigente
+        caveat: "A obra é alvo de crítica metodológica séria e antiga — viés
+                 de amostra, construção da escala F, direcionamento político do
+                 instrumento. Se entrar, entra com isso escrito, e não como
+                 conclusão estabelecida."
+      - work_title: "Horkheimer (org.) — Estudos sobre Autoridade e Família
+                     (1936)"
+        verdict: complementary
+        argument: "O antecedente direto, publicado em Paris pelo Instituto no
+                   exílio, com a parte sociopsicológica de Erich Fromm. É onde
+                   a família aparece como objeto de pesquisa da escola."
+        availability_note: "Edição em português a verificar; provavelmente
+                            inexistente."
+      - work_title: "Marcuse — Eros e Civilização (1955)"
+        verdict: complementary
+        argument: "A outra ponta da tese: a repressão pulsional que a
+                   civilização exige teria um excedente, imposto pela
+                   organização do trabalho e não pela civilização como tal.
+                   Pertenceria a Cultura, ao lado de Freud, 'O Mal-Estar na
+                   Civilização', e não a esta coleção."
+    note: >
+      ACHADO QUE CONTRARIA A VERSÃO CORRENTE, e que motivou registrar esta
+      lacuna como vale a pena registrá-la: a SEP descreve que a escola
+      analisou a mudança na família moderna e sustentou que **o declínio das
+      figuras de autoridade na família** contribuiu para o declínio das
+      capacidades críticas do indivíduo e da sociedade. Isto é quase o oposto
+      do que a versão popular lhes atribui: não celebram a dissolução da
+      família, temem que, sem a instância em que a consciência e a autonomia
+      se formavam, o indivíduo fique exposto diretamente à cultura de massa e
+      à autoridade externa. A tese deles sobre a família patriarcal é
+      ambivalente — ela produz obediência E produz a interioridade capaz de
+      resistir. Registrar isso aqui é o que impede que a biblioteca responda à
+      pergunta pela caricatura, de qualquer um dos lados.
+    raised: 2026-09-19
+    raised_context: "Pergunta do Mathews sobre se a destruição dos valores da
+                     família tradicional seria uma das consequências desse
+                     panorama."
+
+# Vereditos registrados para não voltarem à discussão
+settled:
+  - subject: "Rothbard — Anatomia do Estado, face a A Ética da Liberdade"
+    verdict: not-redundant
+    reason: "Em abstrato seria redundante. Na sua sequência não é: você
+             ordenou Anatomia → Ética, o que faz do primeiro a porta de
+             entrada do segundo."
+    date: 2026-09-05

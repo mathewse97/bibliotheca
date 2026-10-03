@@ -1,0 +1,81 @@
+# Primeira proposta estrutural real do acervo. Até 2026-09-12 este diretório
+# continha apenas o modelo, e essa ausência era o estado correto: propostas
+# nascem de evidência acumulada.
+#
+# Esta nasceu na importação, e nasce JÁ com a decisão do Mathews de NÃO
+# dividir agora — o que a mantém `open` e não `rejected`: ele aprovou manter
+# uma coleção e aprovou registrar a divisão com gatilho declarado, para que ela
+# não precise ser redescoberta.
+collection: greco-roman
+by: claude
+date: 2026-09-12
+
+proposals:
+
+  - id: greco-roman--sp01
+    type: split
+    affects: [greco-roman]
+    statement: >
+      A coleção reivindica um território que vai da Grécia do Bronze ao
+      Império Romano tardio, e os seus membros romanos podem vir a constituir
+      uma pergunta distinta da grega. Hoje não constituem: o argumento da
+      coleção É a transmissão — Virgílio é lido contra Homero, Cícero e Sêneca
+      contra os gregos que apropriam —, e numa coleção "Roma" separada esse
+      argumento deixaria de ser uma sequência e viraria uma relação entre
+      coleções. Além disso, uma coleção 'Roma' com 9 obras reivindicaria, no
+                seu mapa de assuntos, República, Império,
+                historiografia antiga, direito, religião e
+                teatro — e toda análise de cobertura
+                devolveria uma fila de ausências para
+                território que a lista nunca pretendeu cobrir.
+      A proposta fica aberta porque o gatilho não é tamanho, é evidência: se
+      Roma ganhar fontes antigas próprias, a coleção passa a conter duas
+      perguntas de fato e a exceção prevista na escada de escalonamento passa
+                          a valer — e nesse ponto
+                          NÃO dividir é que destrói,
+                          porque a cobertura
+                          passaria a medir contra a
+                          soma de dois territórios e
+                          o mapa de assuntos ficaria
+                          sem sentido para os dois.
+    evidence:
+      - claim: "Dos 18 assuntos do mapa, 5 não têm nenhuma obra — e os dois de
+                fontes antigas romanas estão entre eles."
+        check: {type: region, collection: greco-roman,
+                region: roma-republicana-fontes-antigas,
+                expect: {coverage: absent}}
+      - claim: "Os membros romanos são 10 de 74 — cerca de 13% —, e nenhum
+                deles é fonte histórica antiga."
+        check: {type: count_members, collection: greco-roman, expect: 74}
+      - claim: "O argumento da transmissão é real e está inscrito na
+                sequência: a Eneida está registrada como
+                dependente da Ilíada e da Odisseia."
+        check: null
+        checkable: false
+        reason: "É uma leitura do argumento da coleção, não um predicado."
+    proposed:
+      creates: [greek-world, roman-world]
+      member_allocation:
+        note: "NÃO especificada de propósito. Alocar membros agora produziria
+               uma partição de aparência definitiva sobre uma coleção cujo
+               escopo ainda é `proposta`, e as obras de recepção (Finley,
+               Highet, Campbell) e as referências transversais (Grimal)
+               pertenceriam às duas. A alocação é parte da decisão, não um
+               pressuposto dela."
+      note: "O que NÃO muda em nenhum cenário: os registros canônicos de obra.
+             Uma divisão redistribui participações, não arquivos."
+    trigger: >
+      Reavaliar quando a região `roma-republicana-fontes-antigas` ou
+      `roma-imperial-fontes-antigas` deixar de estar `absent` — isto é, quando
+      entrarem fontes antigas romanas sobre a própria história de Roma. Até lá
+      a resposta correta continua sendo desenvolvimento interno (degrau 1).
+    status: open
+    provisional: false
+    recheck_after: null
+    raised: 2026-09-12
+    raised_context: "Levantada na importação e discutida com o Mathews no mesmo
+                     dia. Ele aprovou manter uma coleção única e aprovou
+                     registrar esta proposta com gatilho. Isso NÃO é uma
+                     decisão no sentido do portão de aprovação: a proposta
+                     continua `open` e sem bloco `decision`, porque o que ele
+                     decidiu foi o estado atual, não o futuro da proposta."
