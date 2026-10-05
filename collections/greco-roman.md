@@ -398,10 +398,11 @@ sequence:
   # -------------------------------------------------------------------------
   # EXPANSÃO DE VOLUME — "Ésquilo, Tragédias" (Iluminuras, trad. Torrano);
   # inclusão aprovada por você em 2026-09-23.
-  # Quatro peças de um volume. POSIÇÃO a confirmar: logo depois da Oresteia,
-  # sem mexer na sua ordem. Cronologicamente pelo menos Os Persas é anterior à
-  # Oresteia; se preferir a ordem de composição, elas iriam ANTES dela — é
-  # uma reordenação, e fica para você decidir (review/greco-roman.md).
+  # Quatro peças de um volume. POSIÇÃO CONFIRMADA por você em 2026-10-05
+  # (cartão d-pos-esquilo, opção A): logo depois da Oresteia, que continua a
+  # porta de entrada de Ésquilo. A ordem de composição — Os Persas é de 472
+  # a.C., anterior à Oresteia — foi considerada e recusada: a coleção não é
+  # cronológica.
   # -------------------------------------------------------------------------
   - work: esquilo--persai
     role: primary-source
@@ -409,7 +410,6 @@ sequence:
     why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
                tradutor e em edição bilíngue."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
 
@@ -419,7 +419,6 @@ sequence:
     why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
                tradutor e em edição bilíngue."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
 
@@ -429,7 +428,6 @@ sequence:
     why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
                tradutor e em edição bilíngue."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
 
@@ -439,7 +437,6 @@ sequence:
     why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
                tradutor e em edição bilíngue."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
 
@@ -1299,7 +1296,7 @@ structural_changes:
     library_effect: "Nenhum."
     membership_effect: "Nenhum."
 
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 ## Por que esta ordem

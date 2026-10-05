@@ -319,6 +319,9 @@ edições ficam para depois, obra por obra.
   Suplicantes, Prometeu Cadeeiro), no movimento IV logo depois da Oresteia.
   **Posição a confirmar**: pela cronologia, ao menos Os Persas é anterior à
   Oresteia. Ano do volume em conflito (2009 na resenha × 2000 no anúncio).
+  **Posição confirmada por você em 2026-10-05** (cartão `d-pos-esquilo`,
+  opção A): as quatro ficam depois da Oresteia; a ordem de data foi recusada.
+  O conflito do ano do volume continua aberto.
 - Capas de Vidas Paralelas (Coimbra) são de baixa resolução no anúncio.
 
 ## Edições alternativas encontradas em anúncio — mantidos os registros (decisão sua)
