@@ -59,7 +59,8 @@ items:
   kind: obra
   collections: [education]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — incluir Dewey, Democracia e Educação, pela edição Unesp de 2026 (trad. Guilherme Mirage Umeda, apres. Carlota Boto), que você pesquisou.", note: "Aplicado. Obra, edição e três pessoas registradas; Dewey entrou no movimento II, entre Ozmon e Hirsch (posição minha, a confirmar). A lacuna education--g03 passou a accepted. RESSALVA: a premissa do cartão estava imprecisa — a Paideia de Adler é dedicada a Dewey e invoca este livro; Adler recusa o método progressista, não o ideal democrático de Dewey. Gravei a relação como responds_to e não como tensão. Páginas, dimensões e ISBN da edição ficaram como informados por você: a página da Unesp não abriu deste ambiente."}
   source: education--g03
   question: "Incluir em Educação a posição que Adler combate: a educação progressista, na voz de Dewey?"
   why: "A proposta de Adler nasceu contra a educação progressista, e Hirsch também a ataca. A coleção tem os críticos, mas não o texto criticado — você lê a resposta sem ler aquilo a que ela responde."
@@ -77,7 +78,8 @@ items:
   kind: obra
   collections: [education]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — incluir Newman, A Ideia de uma Universidade, pela edição Ecclesiae 2020 que você pesquisou; colocação corrigida por você para o movimento VII, antes de Weber.", note: "Aplicado. Obra, edição e duas pessoas registradas. O cartão dizia movimento I, depois de Nunes — texto meu, errado: o I é narrado por história e Newman é fonte primária. No VII ele é a resposta afirmativa à pergunta do movimento e Weber a negativa; a tensão entre os dois foi gravada. A lacuna education--g02 passou a accepted; o século XVIII continua sem obra. O tradutor (Bruno Alexander) não aparece em nenhuma fonte que eu consegui consultar."}
   source: education--g02
   question: "Preencher em Educação o salto de dois séculos entre Nunes e Adler?"
   why: "A cadeia vai da educação no século XVII (Nunes) direto para Adler, em 1982. Ficam de fora os séculos em que o ideal clássico foi desmontado e defendido."

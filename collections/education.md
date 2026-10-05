@@ -158,13 +158,20 @@ scope_map:
        note: "A ruptura ilustrada: natureza, autonomia, e a educação como
               formação do indivíduo contra a tradição herdada."}
     - {id: seculo-xix,               coverage: thin,   pursuit: open,
-       held_by: [weber--wissenschaft-als-beruf],
+       held_by: [newman--the-idea-of-a-university, weber--wissenschaft-als-beruf],
+       coverage_note: "2026-10-05: Newman é a defesa da formação liberal no
+                       próprio século. `coverage` continua `thin` até você
+                       revisar — detecção, não decisão.",
        note: "A universidade moderna e a escola nacional: o século em que o
               ideal de formação liberal foi defendido e desmontado. Weber
               entra pela ponta final dessa história — a universidade de
               pesquisa já consolidada, vista por dentro — e não pelo século
               XIX propriamente. Sustenta a região de raspão; não a fecha."}
     - {id: educacao-progressista,    coverage: thin, pursuit: open,
+       held_by: [dewey--democracy-and-education],
+       coverage_note: "2026-10-05: Dewey é a primeira obra que expõe a
+                       posição por dentro. `coverage` continua `thin` até
+                       você revisar — detecção, não decisão.",
        note: "Educação como experiência e como preparação para a democracia;
               crítica ao currículo transmitido."}
     - {id: pedagogia-critica,        coverage: thin, pursuit: open,
@@ -324,6 +331,27 @@ sequence:
     subjects_stated_by: claude
 
   # -------------------------------------------------------------------------
+  # PARTICIPAÇÃO NOVA — 2026-10-05, incluída por decisão sua (cartão
+  # d-edu-dewey, opção A; fecha a lacuna education--g03). O cartão punha Dewey
+  # no movimento II; a posição dentro dele é minha e está a confirmar: depois
+  # de Ozmon, que apresenta o pragmatismo como uma das doutrinas, e antes de
+  # Hirsch, para que a crítica dele se leia depois da posição que ela ataca.
+  # -------------------------------------------------------------------------
+  - work: dewey--democracy-and-education
+    role: foundational
+    demand: moderado
+    why_here: "A posição progressista exposta por quem a formulou: educação
+               como reconstrução contínua da experiência e como condição de
+               uma sociedade democrática. Ozmon a apresenta entre as
+               doutrinas; aqui ela fala por si. Adler a reivindica no ideal
+               democrático e a recusa no método; Hirsch a ataca nos
+               resultados."
+    why_here_by: claude
+    placement_status: a-confirmar
+    inserted_by: claude
+    publication_pref: pub--unesp--democracia-e-educacao--2026
+
+  # -------------------------------------------------------------------------
   # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. POSIÇÃO CONFIRMADA
   # por você em 2026-10-05 (cartão d-pos-hirsch; review/education.md §9.5). Entrou primeiro no movimento III, depois de
   # Adler — erro meu, apontado por você: o III é a recuperação do ideal
@@ -345,8 +373,12 @@ sequence:
   - movement: "III. A recuperação do ideal clássico no século XX"
     purpose: "Fechada a narrativa histórica, a pergunta muda de tempo verbal:
               deixa de ser o que a tradição foi e passa a ser por que alguém
-              a quereria de volta. Adler argumenta contra um adversário que
-              a coleção ainda não contém."
+              a quereria de volta. Adler reivindica o ideal democrático de
+              Dewey, lido no movimento II, e recusa o método da escola
+              progressista que saiu dele."
+    # Texto corrigido em 2026-10-05: dizia "Adler argumenta contra um
+    # adversário que a coleção ainda não contém". Dewey entrou, e a Paideia é
+    # dedicada a ele — ver review/education.md §12.
     purpose_by: claude
     regions: [educacao-classica-moderna]
     covers_your_stages: [5]
@@ -450,6 +482,25 @@ sequence:
     purpose_by: claude
     regions: [seculo-xix]
 
+  # -------------------------------------------------------------------------
+  # PARTICIPAÇÃO NOVA — 2026-10-05, incluída por decisão sua (cartão
+  # d-edu-newman, opção A; fecha a lacuna education--g02). O cartão dizia
+  # movimento I, depois de Nunes; você corrigiu para cá, antes de Weber: o I é
+  # narrado por história, e Newman é fonte primária. Aqui ele é a resposta
+  # afirmativa à pergunta do movimento, e Weber a negativa.
+  # -------------------------------------------------------------------------
+  - work: newman--the-idea-of-a-university
+    role: foundational
+    demand: moderado
+    why_here: "A defesa mais forte de que a universidade pode formar: o
+               conhecimento liberal como fim em si, e a universidade como
+               lugar do saber universal. Vem antes de Weber porque é a tese
+               que ele, sessenta anos depois e de dentro da universidade de
+               pesquisa, diz que a instituição já não pode cumprir."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--ecclesiae--a-ideia-de-uma-universidade--2020
+
   - work: weber--wissenschaft-als-beruf
     role: critical-response
     demand: moderado
@@ -504,6 +555,11 @@ sequence:
 paths: []                      # nenhum ainda — 12 obras não pedem compressão
 
 tensions:
+  - {a: newman--the-idea-of-a-university, b: weber--wissenschaft-als-beruf,
+     about: "Se a universidade pode formar — o conhecimento liberal como fim
+             em si, que aperfeiçoa o intelecto — ou se a universidade moderna
+             só entrega método e clareza, e a escolha dos fins fica fora do
+             seu alcance."}
   - {a: adler--the-paideia-proposal, b: weber--wissenschaft-als-beruf,
      about: "Se a educação pode formar o caráter e indicar fins — a premissa
              que a cadeia inteira pressupõe e que Adler torna programa — ou se
@@ -627,7 +683,8 @@ o método na prática (V).
 
 **Dois contrapesos no fim.** Illich (VI) questiona se a escola deveria existir;
 Weber (VII) pergunta se a universidade pode ensinar quais fins valem a pena, ou
-só método. Vêm depois da cadeia porque respondem a ela.
+só método — depois de Newman, que defendeu que ela pode. Vêm depois da cadeia
+porque respondem a ela.
 
 **E a outra metade da pergunta.** O movimento VIII, de 2026-10-05, não responde
 à cadeia: trata dos meios pela ciência — o que acontece quando alguém aprende.

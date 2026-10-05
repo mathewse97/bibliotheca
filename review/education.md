@@ -687,3 +687,70 @@ com Hirsch.
 A ressalva da recomendação vale daqui em diante: o critério abre a coleção para
 um gênero com muita divulgação fraca, e a proteção é a análise de necessidade
 obra a obra, não o critério.
+
+## 12 · Dewey entra em Educação — 2026-10-05
+
+Você escolheu a **opção A** do cartão `d-edu-dewey`, com a edição que pesquisou:
+*Democracia e educação: uma introdução à filosofia da educação*, Editora Unesp,
+2026, tradução de Guilherme Mirage Umeda, apresentação de Carlota Boto.
+
+**O que foi feito.** Registros novos: a obra (`dewey--democracy-and-education`),
+a publicação (`pub--unesp--democracia-e-educacao--2026`) e três pessoas (Dewey,
+Umeda, Boto). Dewey entrou no movimento II, **entre Ozmon e Hirsch** — Ozmon
+apresenta o pragmatismo como doutrina, Dewey o expõe por dentro, Hirsch o ataca.
+A posição é minha e está `a-confirmar`. A lacuna `education--g03` passou a
+`accepted`.
+
+**O que a conferência achou.** A página da Unesp não abriu deste ambiente. Pelos
+trechos dela devolvidos pela busca, confirmam-se título, ano, a parceria com a
+SBHE, o tradutor e a apresentação. O ISBN fecha por cálculo. Páginas, formato,
+dimensões e número da edição ficam como informados por você.
+
+**Uma correção à premissa do cartão.** O cartão dizia que a Paideia "nasceu
+contra a educação progressista". Não é exato: *The Paideia Proposal* é
+**dedicada a Horace Mann, John Dewey e Robert Hutchins**, e invoca *Democracia
+e Educação* para ligar educação e democracia. Adler reivindica o ideal
+democrático de Dewey e recusa o método da escola progressista. Por isso não
+gravei uma tensão Adler × Dewey; gravei a relação `responds_to`, do lado de
+Adler. Quem ataca a posição progressista de frente, na coleção, é Hirsch.
+
+**O que continua pendente.**
+- Confirmar a posição de Dewey no movimento II.
+- `coverage` de `educacao-progressista` continua `thin` — revisão sua.
+- A tradução histórica de Godofredo Rangel e Anísio Teixeira (Companhia
+  Editora Nacional) não foi comparada; a edição está sem veredito.
+- `traditions`: o candidato é `pragmatismo`, que não existe no vocabulário.
+
+## 13 · Newman entra em Educação — 2026-10-05
+
+Você escolheu a **opção A** do cartão `d-edu-newman`, com a edição que pesquisou:
+*A Idéia de uma Universidade*, Ecclesiae, 2020.
+
+**A colocação mudou em relação ao cartão.** O cartão (texto meu) dizia
+"movimento I, depois de Nunes". Estava errado: o movimento I é narrado por
+história, e Newman é fonte primária — o cabeçalho ficaria falso (§6.9.1). Você
+escolheu o **movimento VII, antes de Weber**. Ali a pergunta do movimento é se
+a universidade pode formar; Newman responde que sim, Weber que não. A tensão
+entre os dois foi gravada, e é a primeira em que as duas pontas são vozes
+sobre a mesma instituição.
+
+**O que foi feito.** Registros novos: a obra
+(`newman--the-idea-of-a-university`), a publicação
+(`pub--ecclesiae--a-ideia-de-uma-universidade--2020`) e duas pessoas (Newman e
+o tradutor). A região `seculo-xix` ganhou Newman em `held_by`; `coverage`
+continua `thin` até você revisar. A lacuna `education--g02` passou a
+`accepted`.
+
+**O que a conferência achou.** Editora, data (3/5/2020), 444 páginas,
+16 × 23 cm e ISBN coincidem em várias livrarias e catálogos, e os dois dígitos
+verificadores fecham. **O tradutor não aparece em nenhuma fonte** que eu
+consegui consultar — Bruno Alexander fica como informado por você.
+
+**O que continua pendente.**
+- Confirmar o tradutor e se a edição traz só os Discursos ou também as
+  Palestras.
+- A EDUSC publicou em 2001 um *Newman e a ideia de uma universidade*, não
+  pesquisado.
+- O salto cronológico que motivou a lacuna continua visível no movimento I:
+  Newman não está na cadeia histórica, está no VII. E o século XVIII
+  (`iluminismo-seculo-xviii`) continua sem obra própria.

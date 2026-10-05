@@ -19,7 +19,16 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: dewey--democracy-and-education
+    note: "A Paideia é dedicada a Horace Mann, John Dewey e Robert Hutchins, e
+           invoca Democracia e Educação para ligar educação e democracia.
+           Responde a Dewey reivindicando o ideal democrático dele e
+           recusando o que a escola progressista fez desse ideal — engajamento
+           direto, não oposição simples."
+    by: claude
+    proposed: 2026-10-05
 provenance: []
 
 derived_from:
