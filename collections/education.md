@@ -324,8 +324,8 @@ sequence:
     subjects_stated_by: claude
 
   # -------------------------------------------------------------------------
-  # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. POSIÇÃO a confirmar
-  # (review/education.md §9.5). Entrou primeiro no movimento III, depois de
+  # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. POSIÇÃO CONFIRMADA
+  # por você em 2026-10-05 (cartão d-pos-hirsch; review/education.md §9.5). Entrou primeiro no movimento III, depois de
   # Adler — erro meu, apontado por você: o III é a recuperação do ideal
   # clássico, e Hirsch não é clássico. Movido para cá, depois de Ozmon: é uma
   # das posições em disputa, e a que ataca de frente a progressista.
@@ -340,7 +340,6 @@ sequence:
                argumento é de ciência cognitiva e de dados escolares, não de
                tradição — por isso fica aqui, e não com Adler."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
 
   - movement: "III. A recuperação do ideal clássico no século XX"

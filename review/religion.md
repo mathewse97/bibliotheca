@@ -863,6 +863,7 @@ de varejo.
 - **Gilgámesh**: as duas edições da Autêntica têm capa; a exibida passa a ser
   a de 2017 (*Ele que o abismo viu*, a edição acadêmica, com aparato) —
   proposta minha, a confirmar. A de 2021 continua registrada.
+  **Confirmada por você em 2026-10-05** (cartão `d-ed-gilgamesh`, edição A).
 - **ISBN corrigido**: *Uma história de Deus* (Companhia das Letras) tinha o
   dígito verificador errado (…235 → …236). O ISBN-10 85-7164-423-3, já
   verificado na Agência Brasileira do ISBN, converte em …236.

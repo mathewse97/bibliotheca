@@ -323,7 +323,7 @@ sequence:
                 imaginário religioso do antigo Oriente Próximo diretamente
                 através de uma de suas grandes obras literárias."
     why_here_by: voce
-    publication_pref: pub--autentica--ele-que-o-abismo-viu--2017   # proposta minha (2026-09-25), a confirmar: é a edição acadêmica, com aparato; a de 2021 continua registrada
+    publication_pref: pub--autentica--ele-que-o-abismo-viu--2017   # decisão sua, 2026-10-05 (d-ed-gilgamesh): confirma a edição acadêmica, com aparato, que eu tinha proposto em 2026-09-25; a de 2021 continua registrada
     perspective: "literatura, religião e cosmovisão da Mesopotâmia antiga."
     subjects_stated: [criacao, mortalidade, amizade, realeza,
                       relacao-entre-homens-e-deuses, diluvio, destino,

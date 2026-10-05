@@ -569,6 +569,9 @@ recuperação do ideal clássico". Movido para o **II**, logo depois de Ozmon:
 progressista (região `educacao-progressista`, que continua `thin` — ele a
 critica, não a representa). A posição segue `a-confirmar`.
 
+**Confirmada por você em 2026-10-05** (cartão `d-pos-hirsch`, opção A): Hirsch
+fica no movimento II, depois de Ozmon.
+
 ## 9.6 Edição preferida — decisão sua
 
 *The Well-Trained Mind*: as duas edições ficam registradas; a coleção lê pela
