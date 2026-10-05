@@ -79,16 +79,6 @@ provenance:
            UnB. A página da Penguin NÃO os nomeia, embora descreva a obra como
            sendo sobre os algoritmos de aprendizagem do cérebro."
 
-pending_assignment:
-  reason: "Mesma situação de brown-roediger-mcdaniel--make-it-stick: Educação é
-           a única candidata e os critérios dela pedem argumento sobre fins.
-           Esta obra chega mais perto deles do que a outra — faz afirmações
-           pedagógicas normativas a partir dos quatro pilares —, e por isso
-           uma das opções da proposta education--sp01 admite só esta."
-  candidate_collections: [education]
-  decide_when: "O Mathews decidir a proposta education--sp01 (cartão d-edu-ciencia-aprendizagem)."
-  exempt_from_orphan_check: true
-
 derived_from:
   source: pedido-seu
   date: 2026-10-01
@@ -97,7 +87,7 @@ derived_from:
                 paginas, ISBN]
   note: "Pesquisa trazida pronta pelo Mathews e conferida por mim. A conferência
          encontrou um erro de ISBN na pesquisa dele — registrado na publicação."
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 ## Fatos

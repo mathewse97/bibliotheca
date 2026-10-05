@@ -37,6 +37,23 @@ source:
   archived_at: sources/lists/educacao.md
 sequence_kind: intellectual
 
+lineage:
+  - event: refined
+    from: education
+    to: education
+    proposal: education--sp01
+    approved_by: voce
+    date: 2026-10-05
+    reason: "A coleção passa a admitir obras sobre os meios da educação
+             sustentados por evidência empírica, mesmo sem tese sobre os fins;
+             ganha a região ciencia-da-aprendizagem e o movimento VIII."
+    reversible_by: "Remover o critério marcado 2026-10-05 em
+                    inclusion_criteria, a região ciencia-da-aprendizagem do
+                    scope_map e o movimento VIII com as suas duas participações;
+                    devolver às duas obras o bloco pending_assignment (o texto
+                    está no histórico do Git). Nenhuma outra participação foi
+                    movida."
+
 provisional:
   inferred_by_claude: [role, demand, movement.purpose, inclusion_criteria,
                        movement.grouping]
@@ -74,6 +91,14 @@ inclusion_criteria:            # derivados da PERGUNTA, não do conteúdo atual
        crítica de um ideal educativo é parte do estudo desse ideal."
     - "Fontes primárias têm precedência sobre comentadores; o comentador entra
        quando muda a leitura da fonte."
+    - "Obras que argumentam sobre os MEIOS da educação a partir de evidência
+       empírica — como se aprende, o que produz retenção, o que o cérebro faz
+       ao aprender — ainda que não defendam uma tese sobre os fins. Entram pela
+       pergunta, que reivindica os meios; não entram como manual de técnica.
+       O que o out_of_scope exclui é mensuração sem argumento, não meios sem
+       fins."
+       # Acrescentado em 2026-10-05 por decisão sua (proposta education--sp01,
+       # opção A do cartão d-edu-ciencia-aprendizagem). Ver `lineage`.
   out_of_scope:
     - "Administração e legislação escolar."
     - "Estudos empíricos de mensuração sem argumento sobre fins."
@@ -155,6 +180,15 @@ scope_map:
               como instituição."}
     - {id: tradicoes-nao-ocidentais, coverage: absent, pursuit: open,
        note: "Concepções de formação humana fora da linhagem greco-europeia."}
+    - {id: ciencia-da-aprendizagem,  coverage: thin,   pursuit: open,
+       held_by: [dehaene--how-we-learn, brown-roediger-mcdaniel--make-it-stick],
+       note: "O estudo empírico de como se aprende: memória e recuperação,
+              espaçamento, atenção, erro e consolidação, e o que disso tem
+              consequência para ensinar e estudar. Distinta de
+              psicologia-do-desenvolvimento, que é o aprender por estágios e
+              mediação. Criada em 2026-10-05 (education--sp01). `thin`, e não
+              `covered`: duas obras numa literatura grande, e uma região
+              `thin` não é uma fila de compras."}
     - {id: educacao-classica-moderna, coverage: covered, pursuit: open,
        held_by: [adler--the-paideia-proposal, mcluhan--the-classical-trivium,
                  miriam-joseph--the-trivium, bauer-wise--the-well-trained-mind],
@@ -431,6 +465,43 @@ sequence:
     why_here_by: claude
     publication_pref: pub--cultrix--ciencia-e-politica
 
+  # -------------------------------------------------------------------------
+  # MOVIMENTO NOVO — 2026-10-05, por decisão sua (proposta education--sp01,
+  # opção A). Não é a exceção que a §6.9 regra 2 proíbe: o movimento não nasce
+  # para acomodar duas obras, nasce de um critério e de uma região que a
+  # decisão acrescentou à coleção. A ordem interna — mecanismo antes de
+  # prática — é sugestão sua, de 2026-10-01.
+  # -------------------------------------------------------------------------
+  - movement: "VIII. Como se aprende: a ciência da aprendizagem"
+    purpose: "Os movimentos anteriores discutem para que se educa e que forma
+              a educação deve ter. Este pergunta o que acontece quando alguém
+              aprende — e o que a evidência empírica sobre isso implica para
+              ensinar e estudar. É a parte da pergunta da coleção que fala de
+              meios, tratada pela ciência e não pela doutrina."
+    purpose_by: claude
+    regions: [ciencia-da-aprendizagem]
+
+  - work: dehaene--how-we-learn
+    role: foundational
+    demand: moderado
+    why_here: "O mecanismo: atenção, engajamento ativo, feedback de erro e
+               consolidação, os quatro pilares com que o autor descreve o que
+               o cérebro faz ao aprender. Vem primeiro porque é dele que saem
+               as afirmações sobre como ensinar — e porque explica por que as
+               práticas da obra seguinte funcionam."
+    why_here_by: claude
+    publication_pref: pub--contexto--e-assim-que-aprendemos--2022
+
+  - work: brown-roediger-mcdaniel--make-it-stick
+    role: supplementary
+    demand: leve
+    why_here: "A prática: recuperação, espaçamento, intercalação e dificuldades
+               desejáveis, cada uma sustentada por pesquisa experimental, no
+               nível de quem estuda. Depois de Dehaene, as técnicas deixam de
+               ser receitas e passam a ser consequências do mecanismo."
+    why_here_by: claude
+    publication_pref: pub--penso--fixe-o-conhecimento--2018
+
 paths: []                      # nenhum ainda — 12 obras não pedem compressão
 
 tensions:
@@ -485,6 +556,23 @@ structural_changes:
            curation-rules.md), e o desenho responde à objeção: o movimento traz
            quatro regiões do mapa de escopo que nenhum movimento cobria."
 
+  - kind: add-movement
+    from: "Sete movimentos, do histórico (I) ao limite da universidade (VII)"
+    into: ["VIII. Como se aprende: a ciência da aprendizagem"]
+    reason: "Consequência da proposta education--sp01, aprovada em 2026-10-05:
+             a coleção ganhou um critério e uma região que nenhum movimento
+             cobria. Entra no fim, sem renumerar nada — a cadeia I a V é sua,
+             e VI e VII são contrapesos que respondem a ela; o VIII não
+             responde à cadeia, trata da outra metade da pergunta."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-05
+    reversible: true
+    library_effect: "Nenhum registro de obra criado. As duas obras perderam o
+                     bloco pending_assignment."
+    membership_effect: "A coleção ganha 2 membros: Dehaene e Brown, Roediger e
+                        McDaniel."
+
   - kind: deduplicate
     from: "Item 3 — Nunes, História da Educação na Idade Média (duas entradas
            idênticas na sua lista)"
@@ -517,7 +605,7 @@ structural_changes:
 # PRÓLOGO de Miriam Joseph, e o tradutor é Henrique Paul Dmyterko. Ver
 # review/education.md §9.
 
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 ## Por que esta ordem
@@ -541,6 +629,11 @@ o método na prática (V).
 **Dois contrapesos no fim.** Illich (VI) questiona se a escola deveria existir;
 Weber (VII) pergunta se a universidade pode ensinar quais fins valem a pena, ou
 só método. Vêm depois da cadeia porque respondem a ela.
+
+**E a outra metade da pergunta.** O movimento VIII, de 2026-10-05, não responde
+à cadeia: trata dos meios pela ciência — o que acontece quando alguém aprende.
+Primeiro o mecanismo (Dehaene), depois a prática (Brown, Roediger e McDaniel),
+na ordem que você sugeriu.
 
 A cadeia segue uma tradição, a clássica. A coleção é mais larga do que ela: as
 outras correntes (por exemplo, a educação progressista) ainda têm poucas obras.

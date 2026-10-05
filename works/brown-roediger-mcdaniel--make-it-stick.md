@@ -76,16 +76,6 @@ provenance:
            registro guarda. As outras contagens não foram verificadas por mim
            e ficam aqui como divergência conhecida, não resolvida."
 
-pending_assignment:
-  reason: "A única coleção candidata é Educação, e os critérios dela admitem
-           obras que argumentam sobre os fins da educação. Esta argumenta sobre
-           meios, por evidência experimental, e não sobre fins. A colocação
-           depende de um refinamento de critérios que é decisão do Mathews —
-           proposta education--sp01."
-  candidate_collections: [education]
-  decide_when: "O Mathews decidir a proposta education--sp01 (cartão d-edu-ciencia-aprendizagem)."
-  exempt_from_orphan_check: true
-
 derived_from:
   source: pedido-seu
   date: 2026-10-01
@@ -96,7 +86,7 @@ derived_from:
          Conferi cada campo contra a página da editora brasileira e a da
          editora original antes de gravar; o que a pesquisa dele trazia e eu
          não consegui confirmar está em missing."
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 ## Fatos
