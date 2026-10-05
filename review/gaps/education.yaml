@@ -171,7 +171,21 @@ gaps:
     necessity: alta
     context: "Há tradução histórica de Dewey em português — conveniente e
               irrelevante para a necessidade."
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-05
+      work: dewey--democracy-and-education
+      note: "Cartão d-edu-dewey, opção A. Entrou no movimento II, entre Ozmon
+             e Hirsch — e não 'antes de Adler' por ser o primeiro da fila, como
+             o placement abaixo dizia em 2026-09-05, antes de o movimento II
+             existir; o efeito é o mesmo, porque o II vem antes do III.
+             CORREÇÃO DA PREMISSA: a Paideia é dedicada a Dewey e invoca
+             Democracia e Educação. Adler não 'nasce contra' Dewey: reivindica
+             o ideal dele e recusa o método progressista. Por isso nenhuma
+             tensão Adler × Dewey foi gravada; a relação é responds_to."
+      remaining: "Edição Unesp 2026 registrada sem veredito; a tradução de
+                  Rangel e Anísio Teixeira não foi comparada."
     recheck_after: outras-colecoes-importadas
     provisional: true
     only_visible_under: escopo-largo

@@ -165,6 +165,10 @@ scope_map:
               pesquisa já consolidada, vista por dentro — e não pelo século
               XIX propriamente. Sustenta a região de raspão; não a fecha."}
     - {id: educacao-progressista,    coverage: thin, pursuit: open,
+       held_by: [dewey--democracy-and-education],
+       coverage_note: "2026-10-05: Dewey é a primeira obra que expõe a
+                       posição por dentro. `coverage` continua `thin` até
+                       você revisar — detecção, não decisão.",
        note: "Educação como experiência e como preparação para a democracia;
               crítica ao currículo transmitido."}
     - {id: pedagogia-critica,        coverage: thin, pursuit: open,
@@ -324,6 +328,27 @@ sequence:
     subjects_stated_by: claude
 
   # -------------------------------------------------------------------------
+  # PARTICIPAÇÃO NOVA — 2026-10-05, incluída por decisão sua (cartão
+  # d-edu-dewey, opção A; fecha a lacuna education--g03). O cartão punha Dewey
+  # no movimento II; a posição dentro dele é minha e está a confirmar: depois
+  # de Ozmon, que apresenta o pragmatismo como uma das doutrinas, e antes de
+  # Hirsch, para que a crítica dele se leia depois da posição que ela ataca.
+  # -------------------------------------------------------------------------
+  - work: dewey--democracy-and-education
+    role: foundational
+    demand: moderado
+    why_here: "A posição progressista exposta por quem a formulou: educação
+               como reconstrução contínua da experiência e como condição de
+               uma sociedade democrática. Ozmon a apresenta entre as
+               doutrinas; aqui ela fala por si. Adler a reivindica no ideal
+               democrático e a recusa no método; Hirsch a ataca nos
+               resultados."
+    why_here_by: claude
+    placement_status: a-confirmar
+    inserted_by: claude
+    publication_pref: pub--unesp--democracia-e-educacao--2026
+
+  # -------------------------------------------------------------------------
   # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. POSIÇÃO CONFIRMADA
   # por você em 2026-10-05 (cartão d-pos-hirsch; review/education.md §9.5). Entrou primeiro no movimento III, depois de
   # Adler — erro meu, apontado por você: o III é a recuperação do ideal
@@ -345,8 +370,12 @@ sequence:
   - movement: "III. A recuperação do ideal clássico no século XX"
     purpose: "Fechada a narrativa histórica, a pergunta muda de tempo verbal:
               deixa de ser o que a tradição foi e passa a ser por que alguém
-              a quereria de volta. Adler argumenta contra um adversário que
-              a coleção ainda não contém."
+              a quereria de volta. Adler reivindica o ideal democrático de
+              Dewey, lido no movimento II, e recusa o método da escola
+              progressista que saiu dele."
+    # Texto corrigido em 2026-10-05: dizia "Adler argumenta contra um
+    # adversário que a coleção ainda não contém". Dewey entrou, e a Paideia é
+    # dedicada a ele — ver review/education.md §12.
     purpose_by: claude
     regions: [educacao-classica-moderna]
     covers_your_stages: [5]

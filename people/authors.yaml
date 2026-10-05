@@ -1482,3 +1482,24 @@ ilari:
          A revisão da tradução, segundo a ficha catalográfica, é de Beatriz
          Ilari e Mirna Pinsky — não registradas como pessoas porque nenhum
          campo as referencia."
+
+dewey:
+  name_display: "John Dewey"
+  name_variants: []
+  dates: null                 # a pesquisar
+  note: "Filósofo e educador norte-americano; formulador da posição
+         progressista em Democracia e Educação (1916)."
+
+umeda:
+  name_display: "Guilherme Mirage Umeda"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Democracia e Educação para a Editora
+         Unesp (2026)."
+
+boto:
+  name_display: "Carlota Boto"
+  name_variants: []
+  dates: null
+  note: "Assina a apresentação de Democracia e Educação na edição Unesp de
+         2026. Não é autora da obra."

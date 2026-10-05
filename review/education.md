@@ -687,3 +687,36 @@ com Hirsch.
 A ressalva da recomendação vale daqui em diante: o critério abre a coleção para
 um gênero com muita divulgação fraca, e a proteção é a análise de necessidade
 obra a obra, não o critério.
+
+## 12 · Dewey entra em Educação — 2026-10-05
+
+Você escolheu a **opção A** do cartão `d-edu-dewey`, com a edição que pesquisou:
+*Democracia e educação: uma introdução à filosofia da educação*, Editora Unesp,
+2026, tradução de Guilherme Mirage Umeda, apresentação de Carlota Boto.
+
+**O que foi feito.** Registros novos: a obra (`dewey--democracy-and-education`),
+a publicação (`pub--unesp--democracia-e-educacao--2026`) e três pessoas (Dewey,
+Umeda, Boto). Dewey entrou no movimento II, **entre Ozmon e Hirsch** — Ozmon
+apresenta o pragmatismo como doutrina, Dewey o expõe por dentro, Hirsch o ataca.
+A posição é minha e está `a-confirmar`. A lacuna `education--g03` passou a
+`accepted`.
+
+**O que a conferência achou.** A página da Unesp não abriu deste ambiente. Pelos
+trechos dela devolvidos pela busca, confirmam-se título, ano, a parceria com a
+SBHE, o tradutor e a apresentação. O ISBN fecha por cálculo. Páginas, formato,
+dimensões e número da edição ficam como informados por você.
+
+**Uma correção à premissa do cartão.** O cartão dizia que a Paideia "nasceu
+contra a educação progressista". Não é exato: *The Paideia Proposal* é
+**dedicada a Horace Mann, John Dewey e Robert Hutchins**, e invoca *Democracia
+e Educação* para ligar educação e democracia. Adler reivindica o ideal
+democrático de Dewey e recusa o método da escola progressista. Por isso não
+gravei uma tensão Adler × Dewey; gravei a relação `responds_to`, do lado de
+Adler. Quem ataca a posição progressista de frente, na coleção, é Hirsch.
+
+**O que continua pendente.**
+- Confirmar a posição de Dewey no movimento II.
+- `coverage` de `educacao-progressista` continua `thin` — revisão sua.
+- A tradução histórica de Godofredo Rangel e Anísio Teixeira (Companhia
+  Editora Nacional) não foi comparada; a edição está sem veredito.
+- `traditions`: o candidato é `pragmatismo`, que não existe no vocabulário.
