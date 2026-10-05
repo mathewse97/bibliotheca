@@ -158,7 +158,10 @@ scope_map:
        note: "A ruptura ilustrada: natureza, autonomia, e a educação como
               formação do indivíduo contra a tradição herdada."}
     - {id: seculo-xix,               coverage: thin,   pursuit: open,
-       held_by: [weber--wissenschaft-als-beruf],
+       held_by: [newman--the-idea-of-a-university, weber--wissenschaft-als-beruf],
+       coverage_note: "2026-10-05: Newman é a defesa da formação liberal no
+                       próprio século. `coverage` continua `thin` até você
+                       revisar — detecção, não decisão.",
        note: "A universidade moderna e a escola nacional: o século em que o
               ideal de formação liberal foi defendido e desmontado. Weber
               entra pela ponta final dessa história — a universidade de
@@ -479,6 +482,25 @@ sequence:
     purpose_by: claude
     regions: [seculo-xix]
 
+  # -------------------------------------------------------------------------
+  # PARTICIPAÇÃO NOVA — 2026-10-05, incluída por decisão sua (cartão
+  # d-edu-newman, opção A; fecha a lacuna education--g02). O cartão dizia
+  # movimento I, depois de Nunes; você corrigiu para cá, antes de Weber: o I é
+  # narrado por história, e Newman é fonte primária. Aqui ele é a resposta
+  # afirmativa à pergunta do movimento, e Weber a negativa.
+  # -------------------------------------------------------------------------
+  - work: newman--the-idea-of-a-university
+    role: foundational
+    demand: moderado
+    why_here: "A defesa mais forte de que a universidade pode formar: o
+               conhecimento liberal como fim em si, e a universidade como
+               lugar do saber universal. Vem antes de Weber porque é a tese
+               que ele, sessenta anos depois e de dentro da universidade de
+               pesquisa, diz que a instituição já não pode cumprir."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--ecclesiae--a-ideia-de-uma-universidade--2020
+
   - work: weber--wissenschaft-als-beruf
     role: critical-response
     demand: moderado
@@ -533,6 +555,11 @@ sequence:
 paths: []                      # nenhum ainda — 12 obras não pedem compressão
 
 tensions:
+  - {a: newman--the-idea-of-a-university, b: weber--wissenschaft-als-beruf,
+     about: "Se a universidade pode formar — o conhecimento liberal como fim
+             em si, que aperfeiçoa o intelecto — ou se a universidade moderna
+             só entrega método e clareza, e a escolha dos fins fica fora do
+             seu alcance."}
   - {a: adler--the-paideia-proposal, b: weber--wissenschaft-als-beruf,
      about: "Se a educação pode formar o caráter e indicar fins — a premissa
              que a cadeia inteira pressupõe e que Adler torna programa — ou se
@@ -656,7 +683,8 @@ o método na prática (V).
 
 **Dois contrapesos no fim.** Illich (VI) questiona se a escola deveria existir;
 Weber (VII) pergunta se a universidade pode ensinar quais fins valem a pena, ou
-só método. Vêm depois da cadeia porque respondem a ela.
+só método — depois de Newman, que defendeu que ela pode. Vêm depois da cadeia
+porque respondem a ela.
 
 **E a outra metade da pergunta.** O movimento VIII, de 2026-10-05, não responde
 à cadeia: trata dos meios pela ciência — o que acontece quando alguém aprende.

@@ -125,7 +125,20 @@ gaps:
                                                          ã
                                                          o
                                                          ."
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-05
+      work: newman--the-idea-of-a-university
+      note: "Cartão d-edu-newman, opção A. NÃO entrou onde o placement abaixo
+             propunha (depois de Nunes, no movimento I): você corrigiu para o
+             movimento VII, antes de Weber, porque o I é narrado por história e
+             Newman é fonte primária. A região seculo-xix ganha a voz que
+             faltava; o salto cronológico da cadeia continua visível no
+             movimento I."
+      remaining: "O século XVIII (iluminismo-seculo-xviii) continua sem obra
+                  própria. Edição Ecclesiae registrada sem veredito; tradutor
+                  não confirmado em fonte."
     recheck_after: outras-colecoes-importadas
     provisional: true
     statement: "O estágio 4 da sua cadeia diz 'como mudou no Renascimento e na

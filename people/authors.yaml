@@ -1503,3 +1503,17 @@ boto:
   dates: null
   note: "Assina a apresentação de Democracia e Educação na edição Unesp de
          2026. Não é autora da obra."
+
+newman:
+  name_display: "John Henry Newman"
+  name_variants: ["São John Henry Newman", "Cardeal Newman"]
+  dates: null                 # a pesquisar
+  note: "Teólogo e educador inglês; reitor da Universidade Católica de Dublin
+         (1854–1858), segundo a descrição da edição Ecclesiae."
+
+bruno-alexander:
+  name_display: "Bruno Alexander"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor, de A Ideia de uma Universidade (Ecclesiae, 2020),
+         segundo o Mathews. Não confirmado em fonte."

@@ -78,7 +78,8 @@ items:
   kind: obra
   collections: [education]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — incluir Newman, A Ideia de uma Universidade, pela edição Ecclesiae 2020 que você pesquisou; colocação corrigida por você para o movimento VII, antes de Weber.", note: "Aplicado. Obra, edição e duas pessoas registradas. O cartão dizia movimento I, depois de Nunes — texto meu, errado: o I é narrado por história e Newman é fonte primária. No VII ele é a resposta afirmativa à pergunta do movimento e Weber a negativa; a tensão entre os dois foi gravada. A lacuna education--g02 passou a accepted; o século XVIII continua sem obra. O tradutor (Bruno Alexander) não aparece em nenhuma fonte que eu consegui consultar."}
   source: education--g02
   question: "Preencher em Educação o salto de dois séculos entre Nunes e Adler?"
   why: "A cadeia vai da educação no século XVII (Nunes) direto para Adler, em 1982. Ficam de fora os séculos em que o ideal clássico foi desmontado e defendido."

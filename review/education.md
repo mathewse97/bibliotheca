@@ -720,3 +720,37 @@ Adler. Quem ataca a posição progressista de frente, na coleção, é Hirsch.
 - A tradução histórica de Godofredo Rangel e Anísio Teixeira (Companhia
   Editora Nacional) não foi comparada; a edição está sem veredito.
 - `traditions`: o candidato é `pragmatismo`, que não existe no vocabulário.
+
+## 13 · Newman entra em Educação — 2026-10-05
+
+Você escolheu a **opção A** do cartão `d-edu-newman`, com a edição que pesquisou:
+*A Idéia de uma Universidade*, Ecclesiae, 2020.
+
+**A colocação mudou em relação ao cartão.** O cartão (texto meu) dizia
+"movimento I, depois de Nunes". Estava errado: o movimento I é narrado por
+história, e Newman é fonte primária — o cabeçalho ficaria falso (§6.9.1). Você
+escolheu o **movimento VII, antes de Weber**. Ali a pergunta do movimento é se
+a universidade pode formar; Newman responde que sim, Weber que não. A tensão
+entre os dois foi gravada, e é a primeira em que as duas pontas são vozes
+sobre a mesma instituição.
+
+**O que foi feito.** Registros novos: a obra
+(`newman--the-idea-of-a-university`), a publicação
+(`pub--ecclesiae--a-ideia-de-uma-universidade--2020`) e duas pessoas (Newman e
+o tradutor). A região `seculo-xix` ganhou Newman em `held_by`; `coverage`
+continua `thin` até você revisar. A lacuna `education--g02` passou a
+`accepted`.
+
+**O que a conferência achou.** Editora, data (3/5/2020), 444 páginas,
+16 × 23 cm e ISBN coincidem em várias livrarias e catálogos, e os dois dígitos
+verificadores fecham. **O tradutor não aparece em nenhuma fonte** que eu
+consegui consultar — Bruno Alexander fica como informado por você.
+
+**O que continua pendente.**
+- Confirmar o tradutor e se a edição traz só os Discursos ou também as
+  Palestras.
+- A EDUSC publicou em 2001 um *Newman e a ideia de uma universidade*, não
+  pesquisado.
+- O salto cronológico que motivou a lacuna continua visível no movimento I:
+  Newman não está na cadeia histórica, está no VII. E o século XVIII
+  (`iluminismo-seculo-xviii`) continua sem obra própria.
