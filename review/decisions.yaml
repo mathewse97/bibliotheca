@@ -449,7 +449,8 @@ items:
   kind: posicao
   collections: [education]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — confirmar Hirsch no movimento II, depois de Ozmon.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move. A classificação work_type de Hirsch continua pendente, decisão separada."}
   work: hirsch--why-knowledge-matters
   question: "Hirsch fica no movimento II, depois de Ozmon?"
   why: "Foi incluído por decisão sua e posicionado por mim. Depois da sua correção, saiu do III (recuperação do ideal clássico) e foi para o II (as posições em disputa)."

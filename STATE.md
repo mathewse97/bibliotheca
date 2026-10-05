@@ -28,7 +28,7 @@ Greco-Romana, Sobrevivência e Autossuficiência.
 ## Esperando decisão sua
 
 A fila completa está em `review/decisions.yaml` e na tela **Decisões** da
-interface — 19 itens. Os que têm consequência estrutural:
+interface — 18 itens. Os que têm consequência estrutural:
 
 | o quê | onde | desde |
 |---|---|---|
