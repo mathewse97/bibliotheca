@@ -463,7 +463,8 @@ items:
   kind: posicao
   collections: [culture]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — confirmar Mello no movimento II de Cultura, entre Lobo e Adorno.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move. A região cultura-brasileira continua sem movimento próprio."}
   work: vieira-de-mello--desenvolvimento-e-cultura
   question: "Mello fica no movimento II de Cultura, entre Lobo e Adorno?"
   why: "Foi incluído por decisão sua e posicionado por mim. É crítica da cultura pelo lado do fundamento moral, aplicada ao Brasil."

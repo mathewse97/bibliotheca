@@ -368,9 +368,10 @@ sequence:
     # da sinopse seria pôr palavras suas onde elas não estão.
 
   # -------------------------------------------------------------------------
-  # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. A POSIÇÃO é proposta minha e está
-  # a confirmar (review/culture.md §13): logo depois das vozes que atribuem a
-  # perda ao abandono de um fundamento moral, e antes da causa rival.
+  # PARTICIPAÇÃO NOVA — 2026-09-23, incluída por decisão sua. A POSIÇÃO foi
+  # proposta minha e CONFIRMADA por você em 2026-10-05 (cartão d-pos-mello;
+  # review/culture.md §13.2): logo depois das vozes que atribuem a perda ao
+  # abandono de um fundamento moral, e antes da causa rival.
   # -------------------------------------------------------------------------
   - work: vieira-de-mello--desenvolvimento-e-cultura
     role: critical-response
@@ -381,7 +382,6 @@ sequence:
                crítica conservadora que fala do lugar onde você está — e a
                primeira obra da coleção cujo objeto é a cultura brasileira."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
 
   # -------------------------------------------------------------------------
@@ -571,7 +571,7 @@ original_order: [suassuna--iniciacao-a-estetica,
 order_changes: []
 structural_changes: []
 
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 ## Por que esta ordem
