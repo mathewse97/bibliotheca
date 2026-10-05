@@ -463,7 +463,8 @@ items:
   kind: posicao
   collections: [culture]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — confirmar Mello no movimento II de Cultura, entre Lobo e Adorno.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move. A região cultura-brasileira continua sem movimento próprio."}
   work: vieira-de-mello--desenvolvimento-e-cultura
   question: "Mello fica no movimento II de Cultura, entre Lobo e Adorno?"
   why: "Foi incluído por decisão sua e posicionado por mim. É crítica da cultura pelo lado do fundamento moral, aplicada ao Brasil."
@@ -476,7 +477,8 @@ items:
   kind: posicao
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — as quatro peças ficam logo depois da Oresteia.", note: "Aplicado. A posição de Os Persas, Os Sete contra Tebas, As Suplicantes e Prometeu Cadeeiro deixa de ser provisória: saiu o placement_status a-confirmar das quatro participações. Nada se move. A ordem de data fica registrada como alternativa recusada."}
   work: esquilo--persai
   question: "As quatro peças de Ésquilo ficam logo depois da Oresteia?"
   why: "*Os Persas*, *Os Sete contra Tebas*, *As Suplicantes* e *Prometeu Cadeeiro* entraram por decisão sua, no movimento IV, depois da Oresteia. Pela data, ao menos *Os Persas* (472 a.C.) é anterior à Oresteia (458 a.C.)."

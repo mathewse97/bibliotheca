@@ -589,6 +589,9 @@ aplicada ao Brasil. A alternativa defensável é tratá-la pela região
 `cultura-brasileira` (ala *obras e história da cultura*), que não tem
 movimento próprio; criar um movimento para uma obra é vedado (§6.9.2).
 
+**Confirmada por você em 2026-10-05** (cartão `d-pos-mello`, opção A): Mello
+fica no movimento II, entre Lobo e Adorno.
+
 ## 13.3 Edições que pedem pesquisa antes de decidir
 
 1. **Vargas Llosa — duas edições registradas.** Original espanhol e tradução
