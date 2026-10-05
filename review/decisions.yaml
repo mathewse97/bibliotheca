@@ -491,7 +491,8 @@ items:
   kind: posicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — confirmar Klemperer logo depois do ensaio de Orwell sobre a língua.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move. CORREÇÃO DA PERGUNTA: o cartão dizia 'no fim do movimento VII', mas desde 2026-09-28 A Revolução dos Bichos e 1984 vêm depois dele, por decisão sua. O que se confirmou é a vizinhança com o ensaio de Orwell, que continua verdadeira."}
   work: klemperer--lti-lingua-tertii-imperii
   question: "Klemperer fica no fim do movimento VII, depois do ensaio de Orwell sobre a língua?"
   why: "Foi incluído por decisão sua e posicionado por mim. Os dois tratam da linguagem como instrumento de poder; Klemperer é o caso documentado, dia a dia, sob o nazismo."
