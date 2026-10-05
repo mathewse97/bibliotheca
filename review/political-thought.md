@@ -482,8 +482,9 @@ de cada obra aponta para a edição escolhida por você.
   de Orwell); Levitsky & Ziblatt, *Como as democracias morrem* (VIII, depois
   de Dahl). **Klemperer confirmado por você em 2026-10-05** (cartão
   `d-pos-klemperer`): logo depois do ensaio de Orwell, e antes de *A Revolução
-  dos Bichos* e *1984*, que vieram para o VII em 2026-09-28. Levitsky &
-  Ziblatt continua a confirmar.
+  dos Bichos* e *1984*, que vieram para o VII em 2026-09-28. **Levitsky &
+  Ziblatt confirmado por você em 2026-10-05** (cartão `d-pos-levitsky`): no
+  VIII, entre Dahl e Rawls.
 - **Tocqueville:** registrado só o Livro I (Martins Fontes). O Livro II é outro
   volume, não registrado.
 - **Agostinho:** os três volumes da Gulbenkian registrados; a coleção mostra o I.

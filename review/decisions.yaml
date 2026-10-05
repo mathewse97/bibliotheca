@@ -505,7 +505,8 @@ items:
   kind: posicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — confirmar Como as democracias morrem no movimento VIII, depois de Dahl.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move."}
   work: levitsky-ziblatt--how-democracies-die
   question: "*Como as democracias morrem* fica no movimento VIII, depois de Dahl?"
   why: "Foi incluído por decisão sua e posicionado por mim. Dahl descreve como a democracia funciona; este livro descreve como ela é desmontada por dentro."
