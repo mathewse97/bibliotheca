@@ -480,7 +480,11 @@ de cada obra aponta para a edição escolhida por você.
   (Vide, 2024). As indicações antigas continuam no `edition_pref`, como registro.
 - **Obras novas, posição a confirmar:** Klemperer, *LTI* (movimento VII, depois
   de Orwell); Levitsky & Ziblatt, *Como as democracias morrem* (VIII, depois
-  de Dahl).
+  de Dahl). **Klemperer confirmado por você em 2026-10-05** (cartão
+  `d-pos-klemperer`): logo depois do ensaio de Orwell, e antes de *A Revolução
+  dos Bichos* e *1984*, que vieram para o VII em 2026-09-28. **Levitsky &
+  Ziblatt confirmado por você em 2026-10-05** (cartão `d-pos-levitsky`): no
+  VIII, entre Dahl e Rawls.
 - **Tocqueville:** registrado só o Livro I (Martins Fontes). O Livro II é outro
   volume, não registrado.
 - **Agostinho:** os três volumes da Gulbenkian registrados; a coleção mostra o I.

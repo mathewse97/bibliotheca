@@ -607,7 +607,8 @@ sequence:
     # form: essay (no registro da obra). A publicação será uma coletânea
     # de ensaios de Orwell, contendo muitas obras.
 
-  # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO a confirmar: logo depois do ensaio de Orwell — os dois
+  # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO CONFIRMADA
+  # por você em 2026-10-05 (cartão d-pos-klemperer): logo depois do ensaio de Orwell — os dois
   # tratam da linguagem como instrumento de poder; Klemperer é o caso
   # documentado, dia a dia, sob o nazismo.
   - work: klemperer--lti-lingua-tertii-imperii
@@ -617,7 +618,6 @@ sequence:
                testemunha: como o regime nazista mudou o vocabulário comum e,
                com ele, o que as pessoas conseguiam pensar."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--contraponto--lti--2009
 
@@ -672,7 +672,8 @@ sequence:
     why_here_by: voce
     edition_pref: {text: "Editora UnB, edição brasileira.", by: voce, verified: false}
 
-  # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO a confirmar: logo depois de Dahl, que descreve como a
+  # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO CONFIRMADA
+  # por você em 2026-10-05 (cartão d-pos-levitsky): logo depois de Dahl, que descreve como a
   # democracia funciona; este livro descreve como ela é desmontada por dentro.
   - work: levitsky-ziblatt--how-democracies-die
     role: supplementary
@@ -680,7 +681,6 @@ sequence:
     why_here: "O contraponto contemporâneo a Dahl: não o golpe, mas a erosão
                gradual das normas não escritas por governantes eleitos."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--zahar--como-as-democracias-morrem--2018
 
@@ -1105,7 +1105,7 @@ structural_changes:
                   a decidir pelos critérios dessas coleções quando importadas."
     status: aplicado
 
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 ## Por que esta ordem
