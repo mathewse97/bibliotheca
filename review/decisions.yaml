@@ -421,7 +421,8 @@ items:
   kind: edicao
   collections: [religion]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Edição A — Ele que o abismo viu (Autêntica, 2017), trad. Jacyntho Lins Brandão, com aparato.", note: "Confirma a edição que já era exibida. Nada muda na tela; a escolha deixa de ser proposta minha. A ilustrada de 2021 continua registrada. O veredito de edição (§F) segue unassessed: a escolha é sua, não resultado da comparação."}
   question: "Qual edição de *Gilgámesh* a coleção Religião deve mostrar?"
   why: "As duas são da Autêntica, com tradução de Jacyntho Lins Brandão, direto do acádio. Uma é a edição de estudo; a outra, a ilustrada. Hoje a exibida é a de 2017 — proposta minha."
   editions:
