@@ -28,11 +28,10 @@ Greco-Romana, Sobrevivência e Autossuficiência.
 ## Esperando decisão sua
 
 A fila completa está em `review/decisions.yaml` e na tela **Decisões** da
-interface — 21 itens. Os que têm consequência estrutural:
+interface — 20 itens. Os que têm consequência estrutural:
 
 | o quê | onde | desde |
 |---|---|---|
-| Educação deve admitir obras sobre **como se aprende**, e não só sobre o que a educação deve formar | cartão `d-edu-ciencia-aprendizagem`, proposta `education--sp01` | 2026-10-01 |
 | Se uma regra deve proibir derivar o **propósito de um movimento** das obras que ele hoje contém | cartão `d-reg-proposito-movimento` | 2026-09-27 |
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
 
@@ -50,6 +49,9 @@ interface — 21 itens. Os que têm consequência estrutural:
 - **Relações ainda não escritas** para `dostoievski--besy`, `zamiatin--my` e
   `orwell--animal-farm`: nenhuma parceira defensável encontrada. Ausência
   honesta, não esquecimento.
+- **Decidido em 2026-10-05:** Educação admite a ciência da aprendizagem
+  (opção A de `d-edu-ciencia-aprendizagem`). Dehaene e Brown, Roediger e
+  McDaniel entraram no movimento VIII novo. Ver `review/education.md` §11.
 - **Classificação `work_type` pendente** em três obras — Hirsch, Brown/Roediger/
   McDaniel e Dehaene. O vocabulário tem cinco categorias do documento fundador
   e nenhuma descreve síntese de ciência empírica. Slug novo é decisão de
@@ -92,6 +94,8 @@ depois da migração**, e está aqui para não se perder.
 
 ## O próximo passo
 
-Executar `MIGRACAO-GITHUB.md`. Depois disso, a primeira coisa de curadoria na
-fila é o cartão `d-edu-ciencia-aprendizagem`, que está bloqueando a entrada de
-duas obras já pesquisadas e registradas.
+A migração para o GitHub está feita e o site publica pelo Actions. O cartão
+`d-edu-ciencia-aprendizagem` foi decidido em 2026-10-05. Na fila de curadoria,
+o próximo item estrutural é o cartão `d-reg-proposito-movimento`; a
+classificação `work_type` de Hirsch, Dehaene e Brown, Roediger e McDaniel
+continua devida.

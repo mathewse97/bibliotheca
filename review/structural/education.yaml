@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------------
-# Terceira proposta estrutural do acervo, e a primeira que nasce `open` — isto
-# é, sem decisão tomada. As duas anteriores (culture--sp01, greco-roman--sp01)
+# Terceira proposta estrutural do acervo, e a primeira que nasceu `open` — isto
+# é, sem decisão tomada. APROVADA pelo Mathews em 2026-10-05 (opção A). As duas anteriores (culture--sp01, greco-roman--sp01)
 # registraram decisões que o Mathews já tinha tomado em conversa; esta pergunta.
 #
 # Ela nasce de duas obras que ele pediu para acrescentar em 2026-10-01 e que,
@@ -38,9 +38,15 @@ proposals:
     evidence:
       - claim: "Nenhuma das duas obras é hoje membro da coleção — estão na
                 biblioteca com pending_assignment, à espera desta decisão."
-        check: {type: member_present, collection: education,
-                work: brown-roediger-mcdaniel--make-it-stick, expect: false}
-        checkable: true
+        # Era `{type: member_present, collection: education,
+        # work: brown-roediger-mcdaniel--make-it-stick, expect: false}`. A
+        # aprovação desfez de propósito o estado que ele afirmava; mantê-lo
+        # deixaria uma proposta aprovada marcada `stale` para sempre, pedindo
+        # um julgamento que já foi feito.
+        check: null
+        checkable: false
+        reason: "Registrava o estado anterior à decisão de 2026-10-05, que o
+                 desfez de propósito: as duas obras passaram a membros."
       - claim: "A região mais próxima do mapa, psicologia-do-desenvolvimento,
                 está declarada `thin` e não sustenta nenhuma obra — e a nota
                 dela nomeia estágios, mediação e desenvolvimento, que é
@@ -104,7 +110,16 @@ proposals:
         o critério, é a análise de necessidade obra a obra; e a regra 9 do
         projeto continua valendo, uma região `absent` não é uma fila de
         compras.
-    status: open
+    status: approved
     provisional: false
     recheck_after: null
     raised: 2026-10-01
+    decision:
+      by: voce
+      date: 2026-10-05
+      rationale: "Opção A do cartão d-edu-ciencia-aprendizagem: abrir a coleção
+                  para a ciência da aprendizagem. Aplicado como proposto — um
+                  critério acrescentado, a região ciencia-da-aprendizagem no
+                  mapa, e o movimento VIII no fim da sequência com Dehaene
+                  antes de Brown, Roediger e McDaniel. A pergunta, a sua ordem
+                  e os sete movimentos existentes não mudaram."

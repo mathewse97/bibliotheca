@@ -653,3 +653,34 @@ sociologia, literatura, comentário — e nenhuma descreve síntese de ciência
 empírica. Slug novo é decisão de classificação e vai a revisão pela §6.8, como
 já está o de Hirsch. **São três obras esperando a mesma decisão agora**, e isso
 é mais sinal do que uma.
+
+## 11 · Decisão: Educação admite a ciência da aprendizagem — 2026-10-05
+
+Você escolheu a **opção A** do cartão `d-edu-ciencia-aprendizagem`. A proposta
+`education--sp01` passou a `approved` e foi aplicada como estava escrita:
+
+- **Critério novo** em `inclusion_criteria`: obras que argumentam sobre os
+  meios da educação a partir de evidência empírica entram mesmo sem tese sobre
+  os fins. Manual de técnica continua fora, e o `out_of_scope` não mudou.
+- **Região nova** no mapa, `ciencia-da-aprendizagem`, declarada `thin`: duas
+  obras numa literatura grande. Não é fila de compras.
+- **Movimento VIII**, "Como se aprende: a ciência da aprendizagem", no fim da
+  sequência. Dehaene vem primeiro (mecanismo), Brown, Roediger e McDaniel
+  depois (prática), na ordem que você sugeriu em 2026-10-01. Os papéis e as
+  justificativas de posição são meus (`why_here_by: claude`) e estão abertos a
+  correção.
+- **Linhagem** registrada na coleção, com o que desfaz a mudança.
+- As duas obras **perderam o `pending_assignment`**: agora são membros.
+
+O que não mudou: a pergunta da coleção, a sua ordem, os sete movimentos
+anteriores e nenhuma outra participação.
+
+**O que continua pendente.** As duas obras seguem com `work_type: null` (§10.4).
+A §6.9 regra 4 diz que uma obra sem `work_type` não tem colocação defensável;
+aqui a colocação vem da sua decisão, e não de inferência minha, mas a
+classificação continua devida — e são três obras esperando o mesmo slug novo,
+com Hirsch.
+
+A ressalva da recomendação vale daqui em diante: o critério abre a coleção para
+um gênero com muita divulgação fraca, e a proteção é a análise de necessidade
+obra a obra, não o critério.

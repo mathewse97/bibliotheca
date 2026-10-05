@@ -327,7 +327,8 @@ items:
   kind: colecao
   collections: [education]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-05, choice: "Opção A — abrir a coleção para a ciência da aprendizagem.", note: "Aplicado. Educação ganhou o critério dos meios sustentados por evidência empírica, a região ciencia-da-aprendizagem no mapa e o movimento VIII no fim da sequência: Dehaene primeiro, depois Brown, Roediger e McDaniel. A proposta education--sp01 está aprovada e a linhagem registrada na coleção. Continua pendente a classificação work_type das duas obras (e de Hirsch), que é decisão separada."}
   source: education--sp01
   question: "Educação deve admitir obras sobre COMO se aprende, e não só sobre o que a educação deve formar?"
   why: "Você pediu duas obras novas — Fixe o Conhecimento e É assim que aprendemos. As duas estão registradas na biblioteca, com edição, ISBN e link de compra. Mas nenhuma delas tem lugar defensável em Educação hoje: a pergunta da coleção fala de fins e meios, e os critérios só admitem meios quando vêm amarrados a uma tese sobre fins. Fixe o Conhecimento não tem tese sobre fins nenhuma — tem práticas de estudo apoiadas em experimentos. Nenhum dos sete movimentos a recebe sem deixar de ser verdadeiro. Pela regra do projeto, isso é sinal de escopo, e escopo é sua decisão."
