@@ -650,6 +650,64 @@ items:
   recommendation: "A: tradução atual feita por especialista em ficção científica, com dois textos de apoio. B só vence se 'de referência' quiser dizer a tradução histórica."
   recommended: A
 
+- id: d-ed-1984
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *1984*, de Orwell?"
+  why: "A edição que estava registrada como sua indicação (Companhia das Letras, trad. Heloisa Jahn e Alexandre Hubner) tem uma versão especial da mesma casa, com a mesma tradução e muito mais aparato. Hoje a interface exibe a especial, provisoriamente."
+  editions:
+    - key: A
+      pub: pub--companhia-das-letras--1984-edicao-especial--2019
+      label: "Companhia das Letras, edição especial, 2019"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Heloisa Jahn e Alexandre Hubner (a mesma)"],["Aparato","Apresentação de Marcelo Pen; ensaios de Golo Mann, Irving Howe, Raymond Williams, Thomas Pynchon, Homi K. Bhabha, Martha Nussbaum, Bernard Crick e George Packer"],["Formato","Capa dura, 408 p."]]
+      pros: ["A mesma tradução, com a recepção crítica do livro de 1949 até hoje"]
+      cons: ["Mais cara"]
+    - key: B
+      pub: pub--companhia-das-letras--1984--2009
+      label: "Companhia das Letras, 2009"
+      status: "Registrada"
+      facts: [["Tradução","Heloisa Jahn e Alexandre Hubner"],["Formato","Brochura, 416 p."]]
+      pros: ["Barata"]
+      cons: ["Sem o aparato da especial"]
+    - key: C
+      label: "Antofágica, 2022"
+      status: "Não registrada"
+      facts: [["Tradução","Antônio Xerxenesky, nova"],["Extra","115 ilustrações de Rafael Coutinho; apresentação de Gregório Duvivier"],["Formato","Capa dura, 440 p."]]
+      pros: ["Tradução nova, edição ilustrada"]
+      cons: ["Aparato de divulgação, não crítico"]
+  options: []
+  recommendation: "A: é a sua indicação (mesma casa, mesma tradução) na sua melhor forma. Só faz sentido ficar com B pelo preço."
+  recommended: A
+
+- id: d-ed-revolucao-dos-bichos
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *A revolução dos bichos* / *A Fazenda dos Animais*, de Orwell?"
+  why: "A tradução que estava registrada como sua indicação, de Heitor Aquino Ferreira, é de 1964. Em 2020 a mesma editora publicou tradução nova de Paulo Henriques Britto, com o título original e fortuna crítica; há estudo acadêmico comparando as duas. Hoje a interface exibe a de Britto, provisoriamente."
+  editions:
+    - key: A
+      pub: pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020
+      label: "Companhia das Letras, edição especial, 2020"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Paulo Henriques Britto, nova (2020)"],["Aparato","Fortuna crítica organizada por Marcelo Pen"],["Formato","Capa dura, 248 p."]]
+      pros: ["Tradutor de primeira linha; título original; aparato crítico"]
+      cons: ["Mais cara (há edição de bolso da Penguin-Companhia, sem a fortuna crítica)"]
+    - key: B
+      pub: pub--companhia-das-letras--a-revolucao-dos-bichos--2007
+      label: "Companhia das Letras, 2007"
+      status: "Registrada"
+      facts: [["Tradução","Heitor Aquino Ferreira (1964)"],["Extra","Posfácio de Christopher Hitchens"],["Formato","Brochura, 152 p."]]
+      pros: ["A tradução pela qual o livro foi lido no Brasil por meio século"]
+      cons: ["Tradução de 1964, feita por militar da reserva, sem formação de tradutor literário declarada"]
+  options: []
+  recommendation: "A: tradução atual de um dos tradutores literários mais respeitados do país, com aparato crítico. B só vence pelo valor histórico da tradução."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

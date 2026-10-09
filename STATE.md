@@ -44,6 +44,12 @@ interface — 12 itens. Os que têm consequência estrutural:
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não
   da versão inglesa de Daphne Hardy. Zamiátin e Huxley ficaram em cartão
   (`d-ed-zamiatin`, `d-ed-huxley`).
+- **Lista original de Política ausente do repositório.** A coleção declara
+  `archived_at: sources/lists/politica-formacao-geral.md`, mas o arquivo não
+  foi enviado na migração (só as listas de Greco-Romana e Religião estão em
+  `sources/lists/`). As `edition_pref` marcadas `by: voce` em Política não
+  podem, por isso, ser conferidas contra o texto original. Se o Mathews tiver
+  a lista, ela deve ser arquivada nesse caminho.
 - **Relações ainda não escritas** para `dostoievski--besy`, `zamiatin--my` e
   `orwell--animal-farm`: nenhuma parceira defensável encontrada. Ausência
   honesta, não esquecimento.

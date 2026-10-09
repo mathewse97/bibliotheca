@@ -431,7 +431,7 @@ sequence:
     why_here_by: voce
     edition_pref: {text: "Editora 34, trad. Paulo Bezerra.", by: voce, verified: true}
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--editora-34--os-demonios--2013   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--editora-34--os-demonios--2013   # localizada em 2026-10-09 e confirmada na revisão do mesmo dia: única tradução direta do russo
 
   - work: lukacs--geschichte-und-klassenbewusstsein
     role: pivot
@@ -650,7 +650,7 @@ sequence:
     why_here_by: voce
     edition_pref: {text: "Companhia das Letras, trad. Heitor Aquino Ferreira.", by: voce, verified: true}
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--companhia-das-letras--a-revolucao-dos-bichos--2007   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020   # provisória: a escolha está no cartão d-ed-revolucao-dos-bichos (2026-10-09); a de 2007 continua registrada
 
   - work: orwell--nineteen-eighty-four
     core: true
@@ -664,7 +664,7 @@ sequence:
       by: voce
       verified: true
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--companhia-das-letras--1984--2009   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--companhia-das-letras--1984-edicao-especial--2019   # provisória: a escolha está no cartão d-ed-1984 (2026-10-09); a de 2009 continua registrada
 
   - movement: "VIII. Democracia e justiça contemporâneas"
     purpose: "Depois do diagnóstico do século XX, as duas tentativas de

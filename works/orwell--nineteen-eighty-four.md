@@ -82,3 +82,24 @@ Indicação do Mathews: "Companhia das Letras, trad. Heloisa Jahn e Alexandre
 Hubner" — edição exata. Localizada: 2009, 416 p., ISBN 978-85-359-1484-9.
 Registrada por instrução dele. A casa tem edição especial de capa dura com
 fortuna crítica (2019), com a mesma tradução.
+
+### Revisão de 2026-10-09, a pedido do Mathews
+
+**De onde vem a "indicação do Mathews".** O campo `edition_pref` desta obra,
+marcado `by: voce`, foi gravado na importação da lista "Política — Formação
+Geral" (2026-09-05), cujo cabeçalho diz que `editions_pref` é "literalmente
+sua indicação de edição". A cópia arquivada da lista
+(`sources/lists/politica-formacao-geral.md`) não está no repositório, então o
+texto original não pôde ser conferido. O Mathews questionou essas indicações
+em 2026-10-09 e pediu a revisão abaixo.
+
+| | Tradução | Edição | Aparato |
+|---|---|---|---|
+| A | Heloisa Jahn e Alexandre Hubner | Companhia das Letras, **edição especial 2019**, capa dura, 408 p. | apresentação de Marcelo Pen; ensaios de Golo Mann, Irving Howe, Raymond Williams, Thomas Pynchon, Homi K. Bhabha, Martha Nussbaum, Bernard Crick, George Packer |
+| B | Heloisa Jahn e Alexandre Hubner | Companhia das Letras, 2009, 416 p. | — |
+| C | Antônio Xerxenesky | Antofágica, 2022, capa dura, 440 p. | 115 ilustrações; apresentação de Gregório Duvivier |
+| D | Alexandre Barbosa de Souza | Via Leitura, 2021, 288 p. | apêndice da Novilíngua |
+| E | não identificado | Sétimo Selo, 2021, 356 p. | — |
+
+**Conclusão: há edição melhor — A**, que é a mesma tradução indicada, com a
+fortuna crítica. Cartão `d-ed-1984`; A exibida enquanto isso.

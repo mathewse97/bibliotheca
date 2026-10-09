@@ -32,7 +32,7 @@ source_of_record: voce
 contains:
   - work: orwell--nineteen-eighty-four
     verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Companhia das Letras, trad. Heloisa Jahn e Alexandre Hubner); localizada e registrada em 2026-10-09."
+    reason: "Candidato B do cartão d-ed-1984. Atende à indicação registrada (Companhia das Letras, trad. Heloisa Jahn e Alexandre Hubner); a edição especial de 2019 tem a mesma tradução e mais aparato."
     translator: [heloisa-jahn, hubner]
     translated_from: direct
     source_text: null

@@ -72,3 +72,27 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 Indicação do Mathews: "Editora 34, trad. Paulo Bezerra" — edição exata.
 Localizada: 5ª edição, 2013, 704 p., ISBN 978-85-7326-305-3, em catálogo.
 Registrada sem comparação, por instrução dele (localizar e registrar).
+
+### Revisão de 2026-10-09, a pedido do Mathews
+
+**De onde vem a "indicação do Mathews".** O campo `edition_pref` desta obra,
+marcado `by: voce`, foi gravado na importação da lista "Política — Formação
+Geral" (2026-09-05), cujo cabeçalho diz que `editions_pref` é "literalmente
+sua indicação de edição". A cópia arquivada da lista
+(`sources/lists/politica-formacao-geral.md`) não está no repositório, então o
+texto original não pôde ser conferido. O Mathews questionou essas indicações
+em 2026-10-09 e pediu a revisão abaixo.
+
+| | Tradução | Edição | Do russo? |
+|---|---|---|---|
+| A | Paulo Bezerra | Editora 34, 2004 (5ª ed. 2013), 704 p. | **sim** |
+| B | não identificado | Sétimo Selo, 2023, 676 p. | não informado |
+| C | Rachel de Queiroz (*Os possessos*) | José Olympio, 1951 | não — do francês |
+| D | (*Os possessos*) | Panamericana, 1943 | provavelmente do francês |
+| E | não identificado | Aguilar, 1963 | não — do inglês |
+
+Levantamentos bibliográficos e uma resenha acadêmica descrevem a tradução de
+Bezerra como a única feita diretamente do russo; Bezerra é tradutor de mais
+de quarenta obras russas. B não teve o tradutor identificado.
+
+**Conclusão: a edição registrada é a melhor.** Mantida.
