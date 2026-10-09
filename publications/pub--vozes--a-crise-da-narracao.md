@@ -13,7 +13,7 @@ introduction_by: null
 register: academic
 framing: null
 format: []
-pages: null
+pages: 136
 isbn13: "978-85-3266-569-0"
 
 availability_br: null
@@ -24,7 +24,7 @@ links:
 
 verified_fields: [title_as_published, isbn13, publisher, year]
 research_status: partially_researched
-missing: [pages, "número de edição/reimpressão", format]
+missing: [format, "páginas e edição conferidas só pelo Mathews, não em fonte"]
 source_of_record: claude
 
 contains:
@@ -58,8 +58,16 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-12
     confidence: reported
+  - claim: "1ª edição, publicada em 8 de novembro de 2023, 136 páginas, em
+            português; ISBN-10 8532665691, ISBN-13 978-85-3266-569-0."
+    source: "informado pelo Mathews em 2026-10-09"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Coincide com o registro existente no ISBN, na editora e no ano. Os
+           dois dígitos verificadores conferem por cálculo."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação
