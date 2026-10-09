@@ -429,8 +429,9 @@ sequence:
     why_here: "Niilismo, radicalização, revolução, conspiração, violência
                política e ideologia."
     why_here_by: voce
-    edition_pref: {text: "Editora 34, trad. Paulo Bezerra.", by: voce, verified: false}
+    edition_pref: {text: "Editora 34, trad. Paulo Bezerra.", by: voce, verified: true}
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--editora-34--os-demonios--2013   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: lukacs--geschichte-und-klassenbewusstsein
     role: pivot
@@ -518,6 +519,7 @@ sequence:
       kind: intencao
       verified: false
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--editora-34--nos--2017   # provisória: a escolha está no cartão d-ed-zamiatin (2026-10-09)
 
   - work: huxley--brave-new-world
     core: true
@@ -533,6 +535,7 @@ sequence:
       kind: intencao
       verified: false
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--biblioteca-azul--admiravel-mundo-novo--2022   # provisória: a escolha está no cartão d-ed-huxley (2026-10-09)
 
   - work: arendt--origins-of-totalitarianism
     core: true
@@ -552,8 +555,9 @@ sequence:
       text: "Edição brasileira integral em tradução de qualidade."
       by: voce
       kind: intencao
-      verified: false
+      verified: true
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--setimo-selo--escuridao-ao-meio-dia--2022   # escolhida em 2026-10-09 (Etapa 1): única tradução do original alemão; pesquisa na obra
 
   - work: popper--the-open-society
     core: true
@@ -616,9 +620,10 @@ sequence:
       text: "Preferencialmente em coletânea de ensaios de Orwell."
       by: voce
       kind: intencao
-      verified: false
+      verified: true
     # form: essay (no registro da obra). A publicação será uma coletânea
     # de ensaios de Orwell, contendo muitas obras.
+    publication_pref: pub--penguin-companhia--por-que-escrevo--2021   # escolhida em 2026-10-09 (Etapa 1): coletânea com o ensaio confirmado; pesquisa na obra
 
   # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO CONFIRMADA
   # por você em 2026-10-05 (cartão d-pos-klemperer): logo depois do ensaio de Orwell — os dois
@@ -643,8 +648,9 @@ sequence:
     why_here: "Revolução, propaganda, corrupção dos ideais, revisionismo
                histórico e concentração de poder."
     why_here_by: voce
-    edition_pref: {text: "Companhia das Letras, trad. Heitor Aquino Ferreira.", by: voce, verified: false}
+    edition_pref: {text: "Companhia das Letras, trad. Heitor Aquino Ferreira.", by: voce, verified: true}
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--companhia-das-letras--a-revolucao-dos-bichos--2007   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: orwell--nineteen-eighty-four
     core: true
@@ -656,8 +662,9 @@ sequence:
     edition_pref:
       text: "Companhia das Letras, trad. Heloisa Jahn e Alexandre Hubner."
       by: voce
-      verified: false
+      verified: true
     moved_by: claude             # vinha do movimento X — ver order_changes
+    publication_pref: pub--companhia-das-letras--1984--2009   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - movement: "VIII. Democracia e justiça contemporâneas"
     purpose: "Depois do diagnóstico do século XX, as duas tentativas de

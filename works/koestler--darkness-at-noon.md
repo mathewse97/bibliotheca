@@ -94,3 +94,24 @@ texto-fonte descrita acima.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Edição brasileira integral em tradução de qualidade".
+
+**O problema conhecido.** O original alemão (*Sonnenfinsternis*) se perdeu na
+fuga de Paris, e o livro circulou por oitenta anos na tradução inglesa de
+Daphne Hardy; toda tradução feita a partir dela é indireta. O manuscrito alemão
+foi redescoberto em 2015.
+
+| | Título | Edição | Fonte da tradução | Situação |
+|---|---|---|---|---|
+| A | *Escuridão ao meio-dia* | Sétimo Selo, 2022, 260 p. | **manuscrito alemão** (tradução inédita; e-book credita Petê Rissatti e Jonathas Ramos de Castro) | em catálogo |
+| B | *O zero e o infinito* | Globo, 1987 | inglês (Hardy) — indireta | usada |
+| C | *O zero e o infinito* | Amarylis, 2013, trad. André Pereira da Costa | presumivelmente inglês — indireta | não verificada |
+
+**Portão 1.** B e C são indiretas e, existindo A, ficam reprovadas pela regra
+do §F.1.
+
+**Escolha: A**, a única que passa. Resolve a pendência registrada no
+`STATE.md`.

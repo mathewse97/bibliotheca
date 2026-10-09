@@ -39,13 +39,11 @@ interface — 12 itens. Os que têm consequência estrutural:
 
 ## Pendências de pesquisa
 
-- **Seis romances do movimento X redistribuído de Política** continuam sem
-  edição registrada. O caso difícil é Koestler, *O Zero e o Infinito*: o
-  original alemão perdeu-se na fuga de Paris e o mundo leu a tradução inglesa
-  de Daphne Hardy por oitenta anos. Toda tradução brasileira anterior à
-  restauração é, portanto, indireta — e a regra de idioma do projeto trata
-  tradução indireta como eliminatória. Falta estabelecer se existe tradução
-  brasileira a partir do alemão restaurado.
+- **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
+  O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
+  *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não
+  da versão inglesa de Daphne Hardy. Zamiátin e Huxley ficaram em cartão
+  (`d-ed-zamiatin`, `d-ed-huxley`).
 - **Relações ainda não escritas** para `dostoievski--besy`, `zamiatin--my` e
   `orwell--animal-farm`: nenhuma parceira defensável encontrada. Ausência
   honesta, não esquecimento.

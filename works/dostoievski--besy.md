@@ -66,3 +66,9 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Editora 34, trad. Paulo Bezerra" — edição exata.
+Localizada: 5ª edição, 2013, 704 p., ISBN 978-85-7326-305-3, em catálogo.
+Registrada sem comparação, por instrução dele (localizar e registrar).

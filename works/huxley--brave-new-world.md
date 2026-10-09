@@ -68,3 +68,21 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Edição brasileira física de referência,
+preferencialmente com boa tradução integral" — critério.
+
+| | Tradução | Edição | Aparato | Situação |
+|---|---|---|---|---|
+| A | Fabio Fernandes (nova, 2022) | Biblioteca Azul, edição especial de 90 anos, capa dura, 304 p. | textos de Ursula K. Le Guin e de Samir Machado de Machado | em catálogo |
+| B | Lino Vallandro e Vidal de Oliveira (clássica, da Globo) | Biblioteca Azul, 2014, 312 p. | não verificado | em catálogo |
+
+Não apareceu outra tradução brasileira em catálogo. Nenhuma fonte compara as
+duas traduções.
+
+**Por que cartão.** A é tradução nova, com aparato e em capa dura; B é a
+tradução "de referência" pela qual o livro foi lido no Brasil por décadas. A
+indicação ("de referência") pode apontar para qualquer uma. Recomendo A;
+cartão `d-ed-huxley`, A exibida enquanto isso.

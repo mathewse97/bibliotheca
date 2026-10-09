@@ -594,6 +594,62 @@ items:
   recommendation: "B: é a única que cumpre literalmente a sua indicação — brasileira, integral e acadêmica — e é tradução direta do alemão, com as notas do autor. A da UnB só faria sentido para quem prefere a edição consagrada pela literatura, e ela só se acha usada."
   recommended: B
 
+- id: d-ed-zamiatin
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *Nós*, de Zamiátin?"
+  why: "Você pediu edição brasileira integral, de preferência traduzida do russo. Há três assim em catálogo e nenhuma fonte as compara. Hoje a interface exibe a da Editora 34, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--editora-34--nos--2017
+      label: "Editora 34, 2017"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Francisco de Araújo"],["Extra","Posfácio de Cássio de Oliveira; coleção Narrativas da Revolução"],["Formato","288 p."]]
+      pros: ["Editora de referência em tradução do russo"]
+      cons: ["Tradução direta presumida, não declarada nas fontes lidas"]
+    - key: B
+      label: "Aleph"
+      status: "Não registrada"
+      facts: [["Tradução","Gabriela Soares, direta do russo"],["Formato","Capa dura"]]
+      pros: ["Tradução direta declarada"]
+      cons: ["Aparato não verificado"]
+    - key: C
+      label: "Novo Século, 2026"
+      status: "Não registrada"
+      facts: [["Tradução","Paula Clemente, direta do russo"],["Extra","Carta de Zamiátin a Stálin"],["Formato","264 p."]]
+      pros: ["Tradução direta declarada; edição mais recente"]
+      cons: ["Editora sem tradição em literatura russa"]
+  options: []
+  recommendation: "A, pela casa e pelo posfácio. A diferença entre as três é pequena pelo que se sabe; nenhuma é indireta."
+  recommended: A
+
+- id: d-ed-huxley
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *Admirável mundo novo*, de Huxley?"
+  why: "Você pediu edição brasileira de referência com boa tradução integral. Há duas traduções em catálogo, ambas da Biblioteca Azul: a clássica e uma nova, de 2022. Nenhuma fonte as compara. Hoje a interface exibe a nova, provisoriamente."
+  editions:
+    - key: A
+      pub: pub--biblioteca-azul--admiravel-mundo-novo--2022
+      label: "Biblioteca Azul, 2022 (edição especial)"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Fabio Fernandes, nova"],["Extra","Textos de Ursula K. Le Guin e de Samir Machado de Machado"],["Formato","Capa dura, 304 p."]]
+      pros: ["Tradução atual, com aparato"]
+      cons: ["Mais cara"]
+    - key: B
+      label: "Biblioteca Azul, 2014"
+      status: "Não registrada"
+      facts: [["Tradução","Lino Vallandro e Vidal de Oliveira, clássica da Globo"],["Formato","Brochura, 312 p."]]
+      pros: ["A tradução pela qual o livro foi lido no Brasil por décadas"]
+      cons: ["Tradução antiga; sem aparato verificado"]
+  options: []
+  recommendation: "A: tradução atual feita por especialista em ficção científica, com dois textos de apoio. B só vence se 'de referência' quiser dizer a tradução histórica."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

@@ -1647,3 +1647,74 @@ clistenes-fernandes:
   note: "Tradutor, não autor. Traduziu do alemão a Sociologia dos partidos
          políticos de Michels para a Realpolitik (2025)."
   role: translator
+
+paulo-bezerra:
+  name_display: "Paulo Bezerra"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Os demônios, de Dostoiévski, do russo
+         para a Editora 34."
+  role: translator
+
+francisco-araujo:
+  name_display: "Francisco de Araújo"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Nós, de Zamiátin, para a Editora 34
+         (2017)."
+  role: translator
+
+fabio-fernandes:
+  name_display: "Fabio Fernandes"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Nova tradução de Admirável mundo novo para a
+         Biblioteca Azul (edição especial de 90 anos, 2022)."
+  role: translator
+
+rissatti:
+  name_display: "Petê Rissatti"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Creditado, com Jonathas Ramos de Castro, na
+         tradução de Escuridão ao meio-dia, de Koestler, feita a partir do
+         manuscrito alemão (Sétimo Selo)."
+  role: translator
+
+jonathas-castro:
+  name_display: "Jonathas Ramos de Castro"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Cotradutor de Escuridão ao meio-dia (Sétimo Selo)."
+  role: translator
+
+heitor-ferreira:
+  name_display: "Heitor Aquino Ferreira"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Tradutor de A revolução dos bichos para a
+         Companhia das Letras."
+  role: translator
+
+heloisa-jahn:
+  name_display: "Heloisa Jahn"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu 1984, com Alexandre Hubner, para a
+         Companhia das Letras (2009)."
+  role: translator
+
+hubner:
+  name_display: "Alexandre Hubner"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Cotradutor de 1984 (Companhia das Letras, 2009)."
+  role: translator
+
+claudio-marcondes:
+  name_display: "Cláudio Marcondes"
+  name_variants: ["Claudio Marcondes"]
+  dates: null
+  note: "Tradutor, não autor. Traduziu a coletânea Por que escrevo, de Orwell,
+         para a Penguin-Companhia (2021)."
+  role: translator

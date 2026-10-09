@@ -64,3 +64,13 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Companhia das Letras, trad. Heitor Aquino Ferreira" —
+edição exata. Localizada: 2007, 152 p., ISBN 978-85-359-0955-5, posfácio de
+Christopher Hitchens. Registrada por instrução dele.
+
+Registro, sem comparação: a mesma casa publica *A fazenda dos animais*, nova
+tradução de Paulo Henriques Britto (também em edição especial com fortuna
+crítica organizada por Marcelo Pen).

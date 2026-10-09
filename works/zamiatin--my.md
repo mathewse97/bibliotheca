@@ -77,3 +77,27 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Edição brasileira integral, preferencialmente traduzida
+diretamente do russo" — critério.
+
+| | Tradução | Edição | Do russo? | Situação |
+|---|---|---|---|---|
+| A | Francisco de Araújo | Editora 34, 2017, 288 p., coleção Narrativas da Revolução, posfácio de Cássio de Oliveira | presumível (não declarado nas fontes lidas) | em catálogo |
+| B | Gabriela Soares | Aleph, capa dura | **sim**, declarado | em catálogo |
+| C | Paula Clemente | Novo Século, 2026, 264 p., com a carta de Zamiátin a Stálin | **sim**, declarado | em catálogo |
+| D | Roberta Sartori | Avis Rara, 2025, 224 p., prefácio de Orwell | não informado | em catálogo |
+| E | Clarice Lima Avierina | Alfa Omega, 2004, 214 p. | não informado | em catálogo |
+| F | não identificado | Landmark, 2026, capa dura, 464 p. | não informado | em catálogo |
+
+**Portão 1.** D, E e F não declaram a língua de partida e ficam atrás.
+
+**Faixa de cima: A, B e C**, as três (presumível ou declaradamente) diretas do
+russo e em catálogo. Nenhuma fonte encontrada compara as traduções.
+
+**Por que cartão.** Três candidatas equivalentes pelo que se sabe; o
+procedimento manda perguntar. Recomendo A pela casa (a Editora 34 é a
+referência brasileira em tradução do russo) e pelo posfácio. Cartão
+`d-ed-zamiatin`; A exibida enquanto isso.

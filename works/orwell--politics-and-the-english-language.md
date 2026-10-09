@@ -42,3 +42,15 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Preferencialmente em coletânea de ensaios de Orwell".
+
+| | Coletânea | Edição | Ensaio incluído? |
+|---|---|---|---|
+| A | *Por que escrevo* | Penguin-Companhia, 2021, 128 p., trad. Cláudio Marcondes | **sim** (página da editora: com "Por que escrevo", "Livros vs. cigarros" e "O leão e o unicórnio") |
+| B | *Dentro da baleia e outros ensaios* | Companhia das Letras, 2005, 232 p., org. Daniel Piza, trad. José Antonio Arantes | provável (a lista inglesa dos nove ensaios o traz), não confirmado no sumário brasileiro |
+
+**Escolha: A**, porque a presença do ensaio está confirmada. B é coletânea
+maior e pode ser preferível se o sumário confirmar o ensaio.
