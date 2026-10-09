@@ -88,4 +88,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito.** Edição indicada pelo Mathews, localizada e registrada. Português de Portugal.
+**Sem veredito formal.** Edição indicada pelo Mathews. A pesquisa complementar de 2026-10-09 (registro da obra) não achou edição melhor: é a única com aparato sobre as três versões do texto. O ponto fraco é a obtenção — português de Portugal e sem oferta no Brasil na data.

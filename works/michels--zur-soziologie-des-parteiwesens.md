@@ -51,14 +51,22 @@ acadêmica" — critério.
 | | Tradução | Edição | Situação |
 |---|---|---|---|
 | A | Arthur Chaudon | Editora UnB, 1982 (*Sociologia dos partidos políticos*) | esgotada; usada |
-| B | não identificado | Realpolitik, 2025, capa dura, ISBN 978-65-83386-07-6 | novo, ~R$ 340 na Estante Virtual |
+| B | Clístenes Hafner Fernandes, **direta do alemão**, revisão técnica de Marize Schons | Realpolitik, 2025, capa dura, 440–463 p., ISBNs 978-65-83386-07-6 e -05-2 | novo, ~R$ 340 na Estante Virtual |
 | C | José M. Justo | Antígona (Lisboa), 2001, 552 p. (*Para uma sociologia dos partidos políticos na democracia moderna*) | rara (~R$ 1.750) |
 | D | Tobias Grund | 2026, *Partidos políticos* | **só Kindle** — fora pela regra F.5 |
 
-**O que falta saber.** Se A traduz a 1ª (1911) ou a 2ª (1925) edição alemã, e
-de que língua (há edição italiana de 1912); quem traduziu B e de quê. Nenhuma
-fonte consultada responde.
+**Pesquisa complementar, a pedido do Mathews (2026-10-09).** A página da
+Realpolitik descreve B como "a primeira edição deste clássico da ciência
+política traduzida diretamente do original alemão", com todas as notas do
+autor e revisão técnica de Marize Schons, doutora e professora de ciência
+política. A ficha de A declara como original *Zur Soziologie des Parteiwesens
+in der modernen Demokratie*, copyright 1914, sem dizer de que língua foi
+traduzida. Continua em aberto qual edição alemã B segue (1911 ou 1925, esta
+com quase mil notas).
 
-**Por que cartão.** A é a única que cumpre "brasileira e acadêmica", mas é
-antiga e só usada; B é nova, mas não verificada; C é portuguesa e cara.
-Escolha do Mathews: `d-ed-michels`.
+**Faixas.** B no alto: brasileira, integral, direta e com revisão acadêmica —
+cumpre a indicação inteira. A logo abaixo: acadêmica, mas antiga, de origem
+incerta e só usada. C é portuguesa e cara.
+
+**Recomendação: B**, no cartão `d-ed-michels`, onde a escolha fica com o
+Mathews. B é exibida enquanto isso.
