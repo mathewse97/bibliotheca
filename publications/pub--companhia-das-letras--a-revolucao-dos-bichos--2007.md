@@ -31,7 +31,7 @@ source_of_record: voce
 contains:
   - work: orwell--animal-farm
     verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Companhia das Letras, trad. Heitor Aquino Ferreira); localizada e registrada em 2026-10-09. A mesma casa tem nova tradução de Paulo Henriques Britto (A fazenda dos animais), não comparada."
+    reason: "Candidato B do cartão d-ed-revolucao-dos-bichos. Atende à indicação registrada (Companhia das Letras, trad. Heitor Aquino Ferreira, tradução de 1964)."
     translator: [heitor-ferreira]
     translated_from: direct
     source_text: null

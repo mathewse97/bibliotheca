@@ -1718,3 +1718,18 @@ claudio-marcondes:
   note: "Tradutor, não autor. Traduziu a coletânea Por que escrevo, de Orwell,
          para a Penguin-Companhia (2021)."
   role: translator
+
+paulo-britto:
+  name_display: "Paulo Henriques Britto"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Nova tradução de Animal Farm, publicada pela
+         Companhia das Letras como A Fazenda dos Animais (2020)."
+  role: translator
+
+marcelo-pen:
+  name_display: "Marcelo Pen"
+  name_variants: []
+  dates: null
+  note: "Crítico. Apresenta e organiza a fortuna crítica das edições especiais
+         de 1984 (2019) e A Fazenda dos Animais (2020) da Companhia das Letras."
