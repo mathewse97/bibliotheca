@@ -75,3 +75,10 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Companhia das Letras, trad. Heloisa Jahn e Alexandre
+Hubner" — edição exata. Localizada: 2009, 416 p., ISBN 978-85-359-1484-9.
+Registrada por instrução dele. A casa tem edição especial de capa dura com
+fortuna crítica (2019), com a mesma tradução.
