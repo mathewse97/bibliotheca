@@ -17,9 +17,8 @@ subjects: [autonomia, dever, imperativo-categorico, dignidade,
            boa-vontade, lei-moral]
 
 research_status: partially_researched
-missing: ["veredito de edição (§E): em 2026-10-09 foi registrada a tradução de
-           Guido Antônio de Almeida (Ideias & Letras, 2025), escolha minha sem
-           comparação formal com as alternativas",
+missing: ["escolha da edição: em decisão no cartão d-ed-kant-fundamentacao
+           (pesquisa de 2026-10-09 na seção Edições)",
           "transmissão textual e edição crítica de referência do original",
           "candidatos nas faixas português, espanhol, italiano e inglês",
           "avaliação acadêmica das traduções",
@@ -66,3 +65,45 @@ Nada sobre edições foi pesquisado.
 Fecha `political-thought--g05`. Prepara Rawls, *Uma Teoria da Justiça*, e dá
 o termo moral que Burke, *Reflexões sobre a Revolução em França*, e Rousseau,
 *Do Contrato Social*, disputam de lados opostos.
+
+## Edições — pesquisa de 2026-10-09
+
+O Mathews não indicou edição. A pesquisa seguiu o §F.1.
+
+**Candidatos encontrados em português**
+
+| | Tradução | Edição | Bilíngue | Aparato | Situação |
+|---|---|---|---|---|---|
+| A | Guido Antônio de Almeida, revista e corrigida | Ideias & Letras / Discurso Editorial, 2025, 240 p. | não indicado (240 p. sugerem que não) | introdução e notas do tradutor | em catálogo |
+| B | Guido Antônio de Almeida | Discurso Editorial / Barcarolla, 2009, 501 p. | **sim**, alemão–português | introdução e notas do tradutor | esgotada; usada |
+| C | Paulo Quintela | Edições 70 (Lisboa, várias; edição brasileira de 2026, 138 p.) | não | edições portuguesas com introdução de Pedro Galvão | em catálogo |
+| D | Inês A. Lohbauer | Martin Claret, 2019, 112 p. | não | não verificado | em catálogo |
+
+**Portão 1 (adequação textual).** As quatro são traduções do alemão;
+nenhuma reprovada por tradução indireta. Texto-base não verificado em
+nenhuma.
+
+**Portão 2 (físico).** Todas existem em papel. B só usada.
+
+**Faixas de qualidade.**
+- **Faixa superior: A e B.** A tradução de Guido Antônio de Almeida é a
+  adotada em curso da USP (ementa de seminário da FFLCH, 2014), foi
+  resenhada na *Kantian Review* (Cambridge) e traz introdução e notas do
+  tradutor, professor de filosofia que publicou comentário à própria
+  *Fundamentação*. A e B são a mesma tradução: A é a versão revista em 2025.
+- **Faixa seguinte: C.** Quintela é a tradução portuguesa clássica, usada em
+  cursos (aparece em material de disciplina da Unicamp ao lado da de Almeida),
+  mas em português europeu e com aparato menor nas edições baratas.
+- **Abaixo: D.** Edição popular, sem aparato verificado.
+
+**Por que não há escolha automática.** A e B estão na mesma faixa e no mesmo
+idioma. O §F.3 dá preferência à bilíngue dentro da faixa — o que favorece B —,
+mas A é a versão corrigida pelo próprio tradutor e está em catálogo, e B só se
+acha usada. O §6 do procedimento manda perguntar quando há dois candidatos
+equivalentes: daí o cartão `d-ed-kant-fundamentacao`.
+
+**Fontes:** anúncios da Amazon (tier 7) para A, B, C e D; Estante Virtual e
+Skoob (tier 7) para B; ementa da FFLCH-USP e resenha na *Kantian Review*
+(tier 4, só metadados) para a recepção de B. Nenhuma página de editora (tier 1)
+foi lida.
+

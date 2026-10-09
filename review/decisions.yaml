@@ -445,6 +445,98 @@ items:
   recommendation: "numa coleção de estudo da religião, as notas do tradutor fazem diferença na leitura."
   recommended: A
 
+- id: d-ed-kant-fundamentacao
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição da *Fundamentação da Metafísica dos Costumes*, de Kant?"
+  why: "Você não tinha indicado edição. A melhor tradução em português é a de Guido Antônio de Almeida, e ela existe em duas versões: a bilíngue de 2009, esgotada, e a revista de 2025, em catálogo. Hoje a interface exibe a de 2025, provisoriamente. A pesquisa completa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025
+      label: "Ideias & Letras, 2025"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Guido Antônio de Almeida, revista e corrigida"],["Formato","Só português (240 p.) — bilinguismo não confirmado"],["Extra","Introdução e notas do tradutor"],["Situação","Em catálogo"]]
+      pros: ["Versão corrigida pelo próprio tradutor","Nova e fácil de comprar"]
+      cons: ["Sem o alemão ao lado, ao que tudo indica"]
+    - key: B
+      pub: pub--discurso-barcarolla--fundamentacao-da-metafisica-dos-costumes--2009
+      label: "Discurso / Barcarolla, 2009"
+      status: "Registrada"
+      facts: [["Tradução","Guido Antônio de Almeida"],["Formato","Bilíngue alemão–português, 501 p."],["Extra","Introdução e notas; adotada em curso da USP; resenhada na Kantian Review"],["Situação","Esgotada; usada (~R$ 280 em 2026-10-09)"]]
+      pros: ["Alemão na página ao lado","A edição que a literatura acadêmica cita"]
+      cons: ["Só usada, e cara","Texto anterior à revisão de 2025"]
+    - key: C
+      label: "Edições 70 (Paulo Quintela)"
+      status: "Não registrada"
+      facts: [["Tradução","Paulo Quintela"],["Formato","Só português (de Portugal)"],["Situação","Em catálogo, inclusive em edição brasileira de 2026"]]
+      pros: ["Tradução portuguesa clássica, usada em cursos"]
+      cons: ["Português europeu; aparato menor; uma faixa abaixo de A e B"]
+  options: []
+  recommendation: "se ler o alemão ao lado tem uso para você, B; se não, A, que é a mesma tradução corrigida e está à venda. Pelas regras da biblioteca a bilíngue tem preferência só dentro da mesma faixa — e A e B estão na mesma faixa, por isso a escolha é sua."
+  recommended: A
+
+- id: d-ed-kautilya
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição do *Arthashastra*, de Kautilya?"
+  why: "Você pediu tradução acadêmica integral e direta do sânscrito, em português caso existisse. A única em português é uma autopublicação que não diz de que língua traduziu; as traduções acadêmicas diretas estão em inglês. Nenhuma edição está registrada."
+  editions:
+    - key: A
+      label: "Olivelle (Oxford, 2013)"
+      status: "Não registrada"
+      facts: [["Tradução","Patrick Olivelle, direta do sânscrito"],["Título","King, Governance, and Law in Ancient India"],["Formato","Inglês, capa dura, 784 p., com notas"],["ISBN","978-0-19-989182-5"],["Situação","À venda na Amazon Brasil"]]
+      pros: ["Tradução acadêmica mais recente, integral, com aparato extenso"]
+      cons: ["Em inglês"]
+    - key: B
+      label: "Kangle (Motilal)"
+      status: "Não registrada"
+      facts: [["Tradução","R. P. Kangle, direta do sânscrito"],["Formato","Inglês, 3 volumes, com o texto sânscrito"],["Situação","À venda, cara (os 3 volumes juntos passam de R$ 800)"]]
+      pros: ["Edição crítica clássica, com o original"]
+      cons: ["Em inglês; cara; mais técnica"]
+    - key: C
+      label: "Lizar (Clube de Autores, 2019)"
+      status: "Não registrada"
+      facts: [["Tradução","António Lizar — origem não declarada"],["Formato","Português, 544 p."],["Situação","À venda"]]
+      pros: ["Único em português"]
+      cons: ["Autopublicação; sem indicação de ser direta do sânscrito nem de editor acadêmico"]
+  options: []
+  recommendation: "Olivelle é a tradução acadêmica integral e direta mais recente, com o aparato que a obra exige. Como não há tradução portuguesa comprovadamente direta, pelas regras da biblioteca a edição superior em inglês vence. Lizar só faria sentido se se confirmasse que traduziu do sânscrito."
+  recommended: A
+
+- id: d-ed-ibn-khaldun
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição da *Muqaddimah*, de Ibn Khaldun?"
+  why: "Você pediu edição integral traduzida diretamente do árabe. A edição em português à venda hoje (independente, 2026, 3 volumes) declara ser traduzida a partir da edição francesa — tradução indireta, que as regras da biblioteca recusam quando existe direta. Nenhuma edição está registrada."
+  editions:
+    - key: A
+      label: "Khoury (Safady/IBF, 1958–60)"
+      status: "Não registrada"
+      facts: [["Tradução","José Khoury e Angelina Bierrenbach Khoury, integral e direta do árabe"],["Título","Os Prolegômenos ou Filosofia Social"],["Formato","Português, 3 volumes, introdução de Jamil Almansur Haddad"],["Situação","Só usada; há notícia de reedição recente não identificada"]]
+      pros: ["Integral, direta do árabe, em português"]
+      cons: ["Só em sebo; português de 1958; sem aparato moderno"]
+    - key: B
+      label: "Rosenthal (Princeton)"
+      status: "Não registrada"
+      facts: [["Tradução","Franz Rosenthal, integral e direta do árabe"],["Formato","Inglês, 3 volumes, com notas"],["Situação","Reedição em catálogo, à venda na Amazon Brasil"]]
+      pros: ["A tradução acadêmica de referência, completa e anotada"]
+      cons: ["Em inglês"]
+    - key: C
+      label: "Edição independente (2026)"
+      status: "Não registrada"
+      facts: [["Tradução","Não nomeada; feita a partir da edição francesa"],["Formato","Português, 3 volumes, impressão sob demanda"]]
+      pros: ["Nova e fácil de comprar"]
+      cons: ["Tradução indireta — recusada pelas regras enquanto houver direta"]
+  options: []
+  recommendation: "A, se você aceita procurar em sebo: é a única integral e direta em português. Se preferir comprar novo, B, a tradução acadêmica de referência. C fica fora por ser indireta."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

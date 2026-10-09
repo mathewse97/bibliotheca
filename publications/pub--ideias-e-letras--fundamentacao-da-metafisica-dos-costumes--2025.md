@@ -16,8 +16,8 @@ format: [brochura]
 packaging: "volume"
 pages: 240
 isbn13: "978-65-87295-83-1"
-availability_br: "em-catalogo"
-availability_checked: "2026-10-09"
+availability_br: em-catalogo
+availability_checked: 2026-10-09
 links:
   publisher: ""
   catalogue: ""
@@ -26,14 +26,17 @@ verified_fields: [title_as_published, publisher]
 research_status: partially_researched
 missing:
   - "Confirmação em fonte de nível 1 (página da editora)"
-  - "Relação com a edição bilíngue de Guido de Almeida (Discurso Editorial/Barcarolla, 2009, 501 p.), que esta revê"
+  - "Se é bilíngue: a descrição não diz, e as 240 páginas contra as 501 da edição de 2009 indicam que não é — não confirmado"
+  - "O que a revisão de 2025 mudou na tradução de 2009"
   - "Comparação com Paulo Quintela (Edições 70)"
 source_of_record: claude
 
 contains:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     verdict: unassessed
-    reason: "Escolha minha, em 2026-10-09: o Mathews não indicou edição. A tradução de Guido Antônio de Almeida, direta do alemão e com introdução e notas, é a referência acadêmica brasileira; esta é a sua versão revista e em catálogo. Sem comparação formal, sem veredito."
+    reason: "Candidato A do cartão d-ed-kant-fundamentacao: a tradução de Guido
+             Antônio de Almeida na versão revista e corrigida de 2025, em
+             catálogo. Exibida enquanto o cartão não for decidido."
     translator: [guido-almeida]
     translated_from: direct
     source_text: null
@@ -79,4 +82,10 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito.** Escolha minha na Etapa 1, porque não havia indicação do Mathews: tradução de Guido Antônio de Almeida, direta do alemão, com introdução e notas — a referência acadêmica brasileira para esta obra —, na versão revista de 2025, que está em catálogo.
+**Sem veredito — em decisão no cartão `d-ed-kant-fundamentacao`.** Em
+2026-10-09 eu registrei esta edição como escolha minha sem mostrar a pesquisa;
+o Mathews cobrou os porquês, e a pesquisa refeita está no registro da obra
+(`works/kant--grundlegung-zur-metaphysik-der-sitten.md`, seção *Edições*). Ela
+mostrou que a escolha não era minha para fazer: há duas versões da mesma
+tradução em faixa comparável (esta, revista e em catálogo; e a bilíngue de
+2009, esgotada), e o procedimento manda perguntar nesse caso.

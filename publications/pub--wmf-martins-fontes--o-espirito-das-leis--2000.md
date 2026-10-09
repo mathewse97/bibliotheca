@@ -17,7 +17,7 @@ packaging: "volume"
 pages: 852
 isbn13: "978-85-336-0553-4"
 availability_br: null
-availability_checked: "2026-10-09"
+availability_checked: 2026-10-09
 links:
   publisher: ""
   catalogue: ""
