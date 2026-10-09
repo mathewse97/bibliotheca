@@ -56,7 +56,7 @@ cover:
   format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-09-23, por decisão do Mathews, para caber no artefato."
   represents: publication
   checked: 2026-09-17
-  rights_note: "Imagem de capa usada como identificação bibliográfica em acervo pessoal privado."
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 
 acquisition:

@@ -70,8 +70,7 @@ contains:
 #   source_type: publisher      # publisher | catalogue | retailer | scan
 #   represents: publication     # obrigatório, e sempre este valor
 #   checked: <AAAA-MM-DD>
-#   rights_note: "Imagem de capa usada como identificação bibliográfica em
-#                 acervo pessoal privado."
+#   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 # ---- 4 · aquisição ----------------------------------------------------------
 # Lista aberta de fontes. NÃO é evidência bibliográfica: vendedores são tier

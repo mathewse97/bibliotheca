@@ -45,8 +45,7 @@ cover:
   format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-09-25, conforme config/acquisition.yaml."
   represents: publication
   checked: 2026-09-25
-  rights_note: "Imagem de capa usada como identificação bibliográfica em acervo
-                pessoal privado."
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
   - retailer: amazon-br

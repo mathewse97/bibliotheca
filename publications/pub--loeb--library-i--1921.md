@@ -69,8 +69,7 @@ cover:
   check_note: "Conferida visualmente: a capa traz 'The Library, Volume I · Books 1–3.9', 'Loeb Classical
                 Library' e 'Translated by J. G. Frazer'. Corresponde ao volume
                 deste registro, e não ao volume irmão."
-  rights_note: "Imagem de capa usada como identificação bibliográfica em acervo
-                pessoal privado."
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
   - retailer: amazon-br
