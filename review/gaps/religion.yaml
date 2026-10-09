@@ -154,7 +154,7 @@ gaps:
                 expect: {assunto ausente, pursuit: open}}
         checkable: true
       - claim: "Agostinho, De civitate Dei, JÁ ESTÁ na biblioteca, vindo de
-                Pensamento Político. Antes de tratar esta ausência como compra,
+                Política. Antes de tratar esta ausência como compra,
                 verificar se o que falta é uma PARTICIPAÇÃO (a regra da participação em vez de compra)."
         check: {type: member_present, collection: religion,
                 work: agostinho--de-civitate-dei, expect: false}
@@ -175,7 +175,7 @@ memberships_not_gaps:
     would_serve: religion--g03
     note: "A Cidade de Deus é um Padre da Igreja e a maior obra de teologia da
            história da Igreja antiga. Está na biblioteca desde o import de
-           Pensamento Político. Se entrar aqui, entra como participação nova,
+           Política. Se entrar aqui, entra como participação nova,
            com papel e argumento próprios — não como aquisição."
   - work: vernant--mythe-et-religion-en-grece-ancienne
     already_in: [greco-roman]

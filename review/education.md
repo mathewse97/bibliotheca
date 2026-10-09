@@ -67,7 +67,7 @@ troca de agrupamento e não perde nada.
 
 **Decisão sua:** Educação permanece a coleção larga. Educação clássica é uma
 tradição *dentro* dela, como crítica libertária é uma tradição dentro de
-Pensamento Político. Nenhuma tradição fica de fora por não estar na lista de
+Política. Nenhuma tradição fica de fora por não estar na lista de
 bootstrap.
 
 **O erro era meu, e era de método, não de julgamento sobre esta coleção.**
@@ -84,7 +84,7 @@ critério excluiria uma obra que responde claramente à pergunta da coleção?*
 Se sim, o critério está a descrever a amostra. Aplicado e registrado no
 arquivo em `test_applied`.
 
-**Nota sobre Pensamento Político:** os critérios daquela coleção foram
+**Nota sobre Política:** os critérios daquela coleção foram
 produzidos pelo mesmo método defeituoso. Saíram aceitáveis porque a sua lista
 já era plural — o resultado foi bom por sorte do input, não por acerto do
 método. Merecem uma revisão sob a regra corrigida quando você quiser; não a
@@ -436,7 +436,7 @@ aconteceu na coleção de Sobrevivência com as duas participações de
 # 8 · Weber, *A Ciência como Vocação* — colocação decidida por pesquisa (2026-09-19)
 
 A conferência estava sem coleção desde 2026-09-05, quando você a retirou de
-Pensamento Político: partilhar volume com *A Política como Vocação* não faz
+Política: partilhar volume com *A Política como Vocação* não faz
 dela membro daquela coleção. O `pending_assignment` dizia que a decisão
 esperaria Educação e Cultura terem critérios declarados. As duas têm agora.
 

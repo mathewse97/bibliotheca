@@ -64,7 +64,7 @@ segura. É a obra que dá ao sublime estatuto próprio na estética moderna.
 ## Lugar na biblioteca
 
 Complementar em `culture--g03`. E tem um efeito que atravessa coleções: o mesmo
-Burke está em Pensamento Político com as *Reflexões sobre a Revolução em
+Burke está em Política com as *Reflexões sobre a Revolução em
 França* (1790), escritas trinta e três anos depois. O leitor encontra o autor
 jovem, empirista, escrevendo sobre paixões — e depois o autor maduro
 respondendo à Revolução.

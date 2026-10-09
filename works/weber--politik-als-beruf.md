@@ -24,7 +24,7 @@ relations:
   - {type: complements, target: weber--wissenschaft-als-beruf,
      note: "Conferência irmã, proferida no mesmo ciclo. Publicadas juntas
             no Brasil, mas obras distintas — e em coleções distintas: a
-            outra não pertence a Pensamento Político. A relação sobrevive
+            outra não pertence a Política. A relação sobrevive
             à separação; era para isso que ela existia."}
 
 provenance: []

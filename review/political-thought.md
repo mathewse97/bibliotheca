@@ -73,12 +73,12 @@ editor é uma publicação que contém obras, não uma obra dentro de outra obra
 `part_of` fica reservado a volumes de uma obra autoral única.
 
 ### 2.3b Weber — destino das duas conferências — RESOLVIDO
-*A Política como Vocação* permanece em Pensamento Político. *A Ciência como
+*A Política como Vocação* permanece em Política. *A Ciência como
 Vocação* **sai** — não é membro só porque partilha volume. Casa provável:
 Educação e/ou Cultura, a decidir pelos critérios dessas coleções.
 
 **Contabilidade, porque a distinção importa:** a biblioteca ganha **1 obra**;
-Pensamento Político **não ganha um 41º item**. A entrada original valia pelas
+Política **não ganha um 41º item**. A entrada original valia pelas
 duas conferências, e o que ela significava para esta coleção era a política.
 A coleção continua com 40 membros. Registrado em `structural_changes` com os
 dois efeitos declarados em separado.

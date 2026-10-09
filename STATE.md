@@ -20,7 +20,7 @@ canônico, **o arquivo canônico é o fato**.
 12 lacunas abertas · 5 obras sem coleção · 4 propostas estruturais (2 abertas)
 ```
 
-Coleções: Pensamento Político, Educação, Cultura, Religião, Cultura
+Coleções: Política, Educação, Cultura, Religião, Cultura
 Greco-Romana, Sobrevivência e Autossuficiência.
 
 ---

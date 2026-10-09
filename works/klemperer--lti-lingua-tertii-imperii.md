@@ -46,4 +46,4 @@ Livro de 1947 (relatado). Filólogo alemão perseguido pelo regime, Klemperer an
 
 ## Lugar na biblioteca
 
-Movimento VII de Pensamento Político, logo depois do ensaio de Orwell sobre linguagem e política. Posição a confirmar.
+Movimento VII de Política, logo depois do ensaio de Orwell sobre linguagem e política. Posição a confirmar.

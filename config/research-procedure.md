@@ -48,7 +48,7 @@ A ordem é de **custo e aproveitamento**, não de importância intelectual
 | **A · Piloto** | Platão EDUFPA (*República*, *Apologia/Críton*, *Fédon*) + *O Banquete* (Ed. 34) | Já têm ISBN; testam a série bilíngue e a questão §7.7 da revisão |
 | **B** | Demais obras da Greco-Romana com publicação registrada (59 publicações) | Metade do trabalho (identificar a edição) já foi feita |
 | **C** | Greco-Romana sem edição (*Bacantes*, 4 Vidas de Plutarco, Campbell, Kirk-Raven-Schofield) | Exigem enumeração do zero |
-| **D** | Pensamento Político (40) — edições declaradas por você, `verified: false` | Converter escolha declarada em verificada ou recusada |
+| **D** | Política (40) — edições declaradas por você, `verified: false` | Converter escolha declarada em verificada ou recusada |
 | **E** | Educação (11) | Nenhuma editora informada |
 | **F** | Sobrevivência e Cultura — só o que falta (Dickson, Werner, Skousen, Bezmenov, *Dark Secrets*, Lobo, confirmações tier 6→1) | Poucos itens, mas dependem de você ter os livros |
 

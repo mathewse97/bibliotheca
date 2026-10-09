@@ -479,7 +479,7 @@ A previsão se confirma, e nos dois sentidos:
   clássica*) cobre os cultos de mistério que a frase do movimento VII nomeia e
   que a região `cultos-de-misterio` registra como ausente aqui. Vernant (*Mito e
   religião na Grécia antiga*) e Agostinho (*A Cidade de Deus*, vinda de
-  Pensamento Político) são os outros dois casos.
+  Política) são os outros dois casos.
 
 **Nada foi aplicado.** Acrescentar participação é mudança estrutural e exige
 aprovação (as regras de curadoria), e a instrução desta importação proibia tocar noutras coleções.
@@ -644,7 +644,7 @@ buraco.
 | Opção | Como fica |
 |---|---|
 | A — manter | O movimento VI continua sendo o cristianismo visto de fora ou tardiamente. A assimetria fica registrada como escolha consciente |
-| B — admitir teologia como objeto de estudo | O movimento passa a admitir a argumentação teológica no mesmo pé em que já admite escritura. *A Cidade de Deus*, de Agostinho, entra por participação vinda de Pensamento Político — sem compra, e reversível |
+| B — admitir teologia como objeto de estudo | O movimento passa a admitir a argumentação teológica no mesmo pé em que já admite escritura. *A Cidade de Deus*, de Agostinho, entra por participação vinda de Política — sem compra, e reversível |
 
 **A melhor formulação do outro lado**, porque ela é real: escritura e teologia
 não são a mesma coisa. As escrituras estão aqui como **objeto histórico** — o
