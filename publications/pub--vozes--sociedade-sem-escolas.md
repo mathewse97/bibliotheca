@@ -41,6 +41,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--vozes--sociedade-sem-escolas.webp
+  source: "https://m.media-amazon.com/images/I/71GGN5gpLGL._SL1500_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/8532658911, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/Sociedade-sem-escolas-IVAN-ILLICH/dp/8532658911"
@@ -48,11 +59,10 @@ acquisition:
     match_basis: isbn13
     match_note: "ASIN é o ISBN-10 desta publicação, consistente com o
                  ISBN-13 978-85-3265-891-3 que você forneceu."
-    format_listed: null
+    format_listed: brochura
     price_band: null
-    availability: null
-    availability_note: "Não verificada."
-    checked: 2026-09-10
+    availability: em-catalogo
+    checked: 2026-10-09
     checked_by: claude
 
 provenance:
@@ -67,7 +77,24 @@ provenance:
     retrieved: 2026-09-10
     confidence: reported
 
-updated: 2026-09-10
+  - claim: "Para este ISBN, o anúncio dá: Editora Vozes, 1ª edição, 7 de
+            novembro de 2018, 152 páginas, ISBN-13 978-8532658913, 20,8 × 13,4
+            × 0,6 cm; tradução de Lúcia Mathilde Endlich Orth."
+    source: "https://www.amazon.com.br/dp/8532658911"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Aponta 2018 como o ano deste ISBN, o que resolveria a dúvida anotada
+           em `missing` — mas é varejo; ano, páginas e tradutora não foram
+           gravados nos campos até haver confirmação da Vozes."
+  - claim: "A capa mostra título, autor e selo da Editora Vozes."
+    source: "covers/pub--vozes--sociedade-sem-escolas.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

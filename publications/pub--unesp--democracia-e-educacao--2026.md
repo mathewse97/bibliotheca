@@ -27,11 +27,9 @@ links:
 verified_fields: [title_as_published, publisher, year, tradutor, apresentacao]
 research_status: partially_researched
 missing:
-  - "PÁGINAS (464), FORMATO (brochura), DIMENSÕES (13,7 × 21 cm) e NÚMERO DA
-     EDIÇÃO (1ª): informados pelo Mathews; a página da editora não abriu
-     deste ambiente e nenhuma outra fonte os confirmou"
-  - "ISBN: o dígito verificador de 978-65-5711-321-9 confere por cálculo, mas
-     o número não foi visto em nenhuma página — só na pesquisa do Mathews"
+  - "PÁGINAS (464), DIMENSÕES (13,7 × 21 cm), NÚMERO DA EDIÇÃO (1ª) e ISBN:
+     informados pelo Mathews e confirmados só pelo anúncio da Amazon (tier 7);
+     a página da editora não abriu deste ambiente"
   - "Texto-base da tradução (edição de 1916 ou edição crítica das Middle
      Works) e se é direta do inglês"
   - "Alternativa: a tradução histórica de Godofredo Rangel e Anísio Teixeira
@@ -50,9 +48,29 @@ contains:
     completeness: null
     apparatus: [apresentacao]
 
-acquisition: []                 # nenhum anúncio conferido; o link da editora
-                                # está em `links` (sem o parâmetro de rastreio
-                                # utm_source que acompanhava o link enviado)
+cover:
+  file: covers/pub--unesp--democracia-e-educacao--2026.webp
+  source: "https://m.media-amazon.com/images/I/61VijwDBJyL._SL1500_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/6557113216, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/6557113216"
+    listing_id: "6557113216"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o ISBN-13 978-6557113219, o mesmo deste
+                 registro; o ASIN é o ISBN-10 correspondente."
+    format_listed: brochura
+    price_band: null
+    availability: em-catalogo
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Editora Unesp, 2026, em parceria com a SBHE; tradução de Guilherme
@@ -72,8 +90,23 @@ provenance:
     note: "O dígito verificador do ISBN foi conferido por cálculo. Uma busca
            pelo número devolveu outro livro, de ISBN vizinho
            (978-65-5712-321-8) — engano do buscador, não do registro."
+  - claim: "Editora Unesp, 1ª edição, 2 de junho de 2026, 464 páginas, ISBN-10
+            6557113216, ISBN-13 978-6557113219, 13,7 × 2,6 × 21 cm, em
+            português; tradução de Guilherme Mirage Umeda."
+    source: "https://www.amazon.com.br/dp/6557113216"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Primeira fonte vista que exibe o ISBN: confere com o que o Mathews
+           informou. Varejo — estabelece o objeto, não a qualidade."
+  - claim: "A capa mostra título, autor, o selo da Editora Unesp e a coleção “Diálogos em História da Educação” na lombada."
+    source: "covers/pub--unesp--democracia-e-educacao--2026.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "A imagem do anúncio é FOTO do livro físico, em ângulo, e não a arte plana da capa. Serve como identificação até haver uma melhor."
 
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 ## Avaliação

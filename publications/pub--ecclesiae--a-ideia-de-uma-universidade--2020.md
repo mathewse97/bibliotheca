@@ -49,6 +49,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--ecclesiae--a-ideia-de-uma-universidade--2020.webp
+  source: "https://m.media-amazon.com/images/I/61ZDgmMLdzL._SL1000_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/8584911510, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/8584911510"
@@ -60,11 +71,11 @@ acquisition:
     format_listed: null
     price_band: null
     availability: em-catalogo
-    checked: 2026-10-05
+    checked: 2026-10-09
     checked_by: claude
-    note: "Anúncio achado pela busca; a página não abriu deste ambiente. O
-           link que o Mathews mandou (Martins Fontes Paulista) carregava o
-           parâmetro utm_source e também não abriu daqui."
+    note: "Página do anúncio aberta em 2026-10-09: Ecclesiae, 1ª edição,
+           3/5/2020, 444 p., ISBN-13 978-8584911516, 23 × 15,8 × 2,4 cm —
+           confere com o registro. Não nomeia tradutor."
 
 provenance:
   - claim: "Ecclesiae, 3 de maio de 2020, 444 páginas, ISBN 9788584911516,
@@ -84,7 +95,14 @@ provenance:
     confidence: reported
     note: "Nenhuma fonte consultada nomeia o tradutor."
 
-updated: 2026-10-05
+  - claim: "A capa mostra título, autor e selo da Ecclesiae."
+    source: "covers/pub--ecclesiae--a-ideia-de-uma-universidade--2020.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

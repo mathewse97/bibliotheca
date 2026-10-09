@@ -19,14 +19,19 @@ register: null                   # a verificar: academic | popular | escolar
 framing: null                    # orientação da introdução, se houver —
                                  # registrada à parte da qualidade da tradução
 format: []                       # a verificar
-pages: null
-isbn13: null
+pages: 160                       # anúncio da Amazon (tier 7); ver provenance
+isbn13: "978-85-316-0047-0"     # anúncio da Amazon (tier 7); ver provenance
 availability_br: null
 availability_checked: null
 links: {publisher: "", catalogue: "", retailer: ""}
 
 verified_fields: []              # explicitamente vazio. Nada foi checado.
-research_status: not_researched
+research_status: partially_researched
+missing:
+  - "Ano da impressão à venda: o anúncio diz 18ª edição e data de 21/10/2003,
+     o que pode ser a data do cadastro, não a da tiragem"
+  - "Tradutor(es), texto-base alemão e completude das duas conferências"
+  - "Confirmação em fonte de nível 1 (página da Cultrix/Pensamento)"
 source_of_record: voce           # veio da sua lista, como intenção
 
 # ---------------------------------------------------------------------------
@@ -53,8 +58,50 @@ contains:
     completeness: null
     apparatus: []
 
-provenance: []
-updated: 2026-09-05
+cover:
+  file: covers/pub--cultrix--ciencia-e-politica.webp
+  source: "https://m.media-amazon.com/images/I/516sfhDf9vL._SL1179_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/8531600472, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8531600472"
+    listing_id: "8531600472"
+    match_basis: isbn13
+    match_note: "O registro não tinha ISBN: a indicação do Mathews era a edição
+                 da Cultrix com este título. A busca na Amazon devolve uma só
+                 edição física da Cultrix com ele, e o isbn13 do registro foi
+                 tomado deste anúncio — a correspondência é por construção, não
+                 independente."
+    format_listed: brochura
+    price_band: null
+    availability: em-catalogo
+    checked: 2026-10-09
+    checked_by: claude
+
+provenance:
+  - claim: "Cultrix, 18ª edição, 160 páginas, ISBN-10 8531600472, ISBN-13
+            978-8531600470, 14 × 0,9 × 21 cm, em português; data no anúncio:
+            21 de outubro de 2003."
+    source: "https://www.amazon.com.br/dp/8531600472"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "O anúncio não nomeia tradutor. Varejo: estabelece o objeto, não a
+           qualidade."
+  - claim: "A capa mostra título, autor e selo da Cultrix."
+    source: "covers/pub--cultrix--ciencia-e-politica.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
+updated: 2026-10-09
 ---
 
 ## Avaliação
