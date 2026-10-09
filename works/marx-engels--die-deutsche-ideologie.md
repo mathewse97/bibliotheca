@@ -65,3 +65,20 @@ autores e só foi publicada em 1932.
 Fecha `political-thought--g03`. É o alvo declarado de Popper, *A Sociedade
 Aberta e Seus Inimigos*, e o pressuposto de Marcuse, *O Homem Unidimensional*
 — e a coleção tinha os dois sem ter isto.
+
+## Edições — pesquisa de 2026-10-09
+
+Sem indicação do Mathews.
+
+| | Tradução | Edição | Completude | Situação |
+|---|---|---|---|---|
+| A | Rubens Enderle, Nélio Schneider, Luciano Martorano | Boitempo, 2007, 616 p. | **integral**, a partir da MEGA-2 | em catálogo |
+| B | Milton Camargo Mota | Vozes de Bolso, 2019, 104 p. | só a primeira parte | em catálogo |
+| C | Luis Claudio de Castro e Costa | WMF Martins Fontes, 4ª ed. 2023, 119 p. | só a primeira parte | em catálogo |
+| D | não identificado | edição de 2002: "1º capítulo seguido das Teses sobre Feuerbach" | parcial | usado |
+
+**Portão 1.** B, C e D trazem só a parte sobre Feuerbach: são seleções, e a
+coleção pede a obra. A é a única completa, e direta do alemão.
+
+**Escolha: A**, sem empate possível. Introdução de Emir Sader e supervisão de
+Leandro Konder.

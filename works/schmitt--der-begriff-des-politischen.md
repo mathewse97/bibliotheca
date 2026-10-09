@@ -42,3 +42,17 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-09
+
+Indicação do Mathews: "Edição brasileira acadêmica, preferencialmente trad.
+Alexandre Franco de Sá".
+
+A tradução de Franco de Sá é portuguesa (Edições 70, Lisboa), não brasileira;
+como ele foi nomeado, foi ela a registrada: 2015 segundo o anúncio, 2018
+segundo a citação acadêmica. Uma resenha destaca que a edição registra as
+três versões publicadas por Schmitt. Outras edições existem no Brasil
+(Vozes, 1992; Del Rey, 2008), não pesquisadas a fundo.
+
+**Registrada:** Edições 70, trad., introdução e notas de Alexandre Franco de
+Sá. Sem oferta na Amazon em 2026-10-09.

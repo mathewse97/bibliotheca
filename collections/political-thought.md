@@ -330,7 +330,7 @@ sequence:
     why_here_by: claude
     closes_gap: political-thought--g05
     inserted_by: claude          # ver order_changes
-    publication_pref: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025   # provisória: a escolha está no cartão d-ed-kant-fundamentacao (2026-10-09)
+    publication_pref: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025   # decisão sua, 2026-10-09 (d-ed-kant-fundamentacao, opção A)
 
   - movement: "V. Revolução, conservadorismo e democracia"
     purpose: "Submeter as construções da seção IV ao teste de um evento real —
@@ -368,7 +368,8 @@ sequence:
       text: "Priorizar edição acadêmica física em português."
       by: voce
       kind: intencao
-      verified: false
+      verified: true
+    publication_pref: pub--penguin-companhia--sobre-a-liberdade--2017   # escolhida em 2026-10-09 (Etapa 1) por atender à sua indicação; pesquisa na obra
 
   - work: mill--representative-government
     role: comparative
@@ -377,6 +378,7 @@ sequence:
                funcionamento institucional da democracia."
     why_here_by: voce
     edition_pref: {text: "Edição acadêmica brasileira.", by: voce, kind: intencao, verified: false}
+    publication_pref: pub--lpm--consideracoes-sobre-o-governo-representativo--2018   # provisória: a escolha está no cartão d-ed-mill-governo-representativo (2026-10-09)
 
   - movement: "VI. Socialismo, marxismo e revolução"
     purpose: "Introduzir a tradição que fará a crítica mais radical de tudo
@@ -394,6 +396,7 @@ sequence:
     why_here_by: claude
     closes_gap: political-thought--g03
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--boitempo--a-ideologia-alema--2007   # escolha minha em 2026-10-09 (Etapa 1): única integral; pesquisa na obra
 
   - work: marx-engels--manifest-kommunistischen-partei
     core: true
@@ -440,6 +443,7 @@ sequence:
     why_here_by: claude
     requires: [marx-engels--die-deutsche-ideologie]
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--wmf-martins-fontes--historia-e-consciencia-de-classe--2018   # escolha minha em 2026-10-09 (Etapa 1): única integral em catálogo; pesquisa na obra
 
   - work: marcuse--one-dimensional-man
     role: critical-response
@@ -452,6 +456,7 @@ sequence:
     why_here_by: claude
     closes_gap: political-thought--g04
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--edipro--o-homem-unidimensional--2015   # escolha minha em 2026-10-09 (Etapa 1): única brasileira em catálogo; pesquisa na obra
 
   - movement: "VII. Poder, partidos, massas e ideologia"
     purpose: "O século XX olhando para trás: o que a política moderna produziu
@@ -496,7 +501,8 @@ sequence:
              Franco de Sá."
       by: voce
       kind: intencao
-      verified: false
+      verified: true
+    publication_pref: pub--edicoes-70--o-conceito-do-politico--2015   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: zamiatin--my
     role: literary-treatment

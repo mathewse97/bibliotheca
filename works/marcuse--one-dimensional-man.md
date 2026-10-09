@@ -64,3 +64,16 @@ Nada sobre edições foi pesquisado.
 Fecha `political-thought--g04`. Dá à coleção a voz da esquerda do século XX
 que, até aqui, aparecia quase só pelo que Popper, *A Sociedade Aberta e Seus
 Inimigos*, e Aron, *O Ópio dos Intelectuais*, diziam dela.
+
+## Edições — pesquisa de 2026-10-09
+
+Sem indicação do Mathews.
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Robespierre de Oliveira e equipe | Edipro, 2015, 248 p., com a introdução de Douglas Kellner à 2ª edição | em catálogo |
+| B | não identificado | Letra Livre (Portugal), 2012 | sem oferta |
+| C | Giasone Rebuá | Zahar, 1967 (*A ideologia da sociedade industrial*) | só usada; não examinada |
+
+**Escolha: A.** Única tradução brasileira em catálogo, do original inglês e
+com o aparato da 2ª edição. C é a tradução histórica; não foi examinada.

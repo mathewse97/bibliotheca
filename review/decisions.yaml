@@ -449,7 +449,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-09, choice: "Edição A — Ideias & Letras / Discurso Editorial, 2025, trad. Guido Antônio de Almeida, revista e corrigida.", note: "Aplicado: é a edição exibida e a publication_pref da obra em Política. A bilíngue Discurso/Barcarolla 2009 continua registrada como alternativa."}
   question: "Qual edição da *Fundamentação da Metafísica dos Costumes*, de Kant?"
   why: "Você não tinha indicado edição. A melhor tradução em português é a de Guido Antônio de Almeida, e ela existe em duas versões: a bilíngue de 2009, esgotada, e a revista de 2025, em catálogo. Hoje a interface exibe a de 2025, provisoriamente. A pesquisa completa está no registro da obra, seção Edições."
   editions:
@@ -536,6 +537,61 @@ items:
   options: []
   recommendation: "A, se você aceita procurar em sebo: é a única integral e direta em português. Se preferir comprar novo, B, a tradução acadêmica de referência. C fica fora por ser indireta."
   recommended: A
+
+- id: d-ed-mill-governo-representativo
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *Considerações sobre o governo representativo*, de Mill?"
+  why: "Você pediu uma edição acadêmica brasileira. A que mais se parece com isso é antiga e só se acha usada; a tradução boa em catálogo é de bolso. Hoje a interface exibe a de bolso, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--lpm--consideracoes-sobre-o-governo-representativo--2018
+      label: "L&PM Pocket, 2018"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Denise Bottmann"],["Formato","Bolso, 336 p."],["Aparato","Não verificado"],["Situação","Em catálogo"]]
+      pros: ["Tradutora de referência","Barata e fácil de comprar"]
+      cons: ["Formato de bolso; não é edição acadêmica"]
+    - key: B
+      label: "Editora UnB, 1981"
+      status: "Não registrada"
+      facts: [["Tradução","Manoel Innocêncio de L. Santos Jr."],["Coleção","Pensamento Político (UnB)"],["Formato","192 p."],["Situação","Esgotada; só usada"]]
+      pros: ["Edição acadêmica brasileira, como você pediu"]
+      cons: ["Tradução antiga, não examinada; só em sebo"]
+  options: []
+  recommendation: "A: a tradução de Denise Bottmann é a mais recente e confiável, e está à venda. A edição da UnB só vence se o selo acadêmico importar mais que a tradução — nenhuma das duas tem aparato verificado."
+  recommended: A
+
+- id: d-ed-michels
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *Sociologia dos partidos políticos*, de Michels?"
+  why: "Você pediu edição brasileira integral, de preferência acadêmica. Há quatro caminhos e nenhum claro; nenhuma edição está registrada. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      label: "Editora UnB, 1982"
+      status: "Não registrada"
+      facts: [["Tradução","Arthur Chaudon"],["Situação","Esgotada; só usada"],["Dúvida","Não se sabe se traduz a 1ª (1911) ou a 2ª (1925) edição, nem de que língua"]]
+      pros: ["Brasileira e de editora universitária, como você pediu"]
+      cons: ["Antiga; origem da tradução desconhecida"]
+    - key: B
+      label: "Realpolitik, 2025"
+      status: "Não registrada"
+      facts: [["Formato","Capa dura"],["ISBN","978-65-83386-07-6"],["Situação","Nova, ~R$ 340 na Estante Virtual"]]
+      pros: ["Edição brasileira recente"]
+      cons: ["Tradutor e texto-base não identificados em nenhuma fonte"]
+    - key: C
+      label: "Antígona (Lisboa), 2001"
+      status: "Não registrada"
+      facts: [["Tradução","José M. Justo"],["Formato","552 p."],["Situação","Rara, ~R$ 1.750"]]
+      pros: ["Resenhada na revista Análise Social"]
+      cons: ["Portuguesa e caríssima"]
+  options:
+    - {key: A, recommended: true, title: "Pesquisar mais antes de decidir", effect: "Eu tento identificar o tradutor e a fonte da edição Realpolitik e da UnB antes de você escolher."}
+  recommendation: "pesquisar mais: entre a UnB e a Realpolitik a diferença está em dados que ainda não tenho — quem traduziu a Realpolitik e de que texto. Se preferir decidir já, a edição da UnB, que cumpre literalmente o que você pediu."
 
 # ============================== CONFIRMAR POSIÇÃO ===========================
 

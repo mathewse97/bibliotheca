@@ -60,3 +60,17 @@ consciência. É a ponte entre Marx e Frankfurt.
 
 Elo entre o movimento VI e a crítica da cultura. Sem ele, o salto de Marx para
 Adorno e Horkheimer, *Dialética do Esclarecimento*, não tem intermediário.
+
+## Edições — pesquisa de 2026-10-09
+
+Sem indicação do Mathews.
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Rodnei Nascimento | WMF Martins Fontes, 3ª ed. 2018, 598 p. | em catálogo |
+| A' | Rodnei Nascimento | Martins Fontes, 2003/2009, 616 p. | usada |
+
+Não apareceu outra tradução brasileira integral. A edição declara o texto-base:
+Obras Completas, vol. 2 (Luchterhand, 1968), idêntico ao de 1923.
+
+**Escolha: A**, a mesma tradução na edição em catálogo.
