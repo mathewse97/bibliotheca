@@ -569,29 +569,30 @@ items:
   priority: media
   state: decidir
   question: "Qual edição de *Sociologia dos partidos políticos*, de Michels?"
-  why: "Você pediu edição brasileira integral, de preferência acadêmica. Há quatro caminhos e nenhum claro; nenhuma edição está registrada. A pesquisa está no registro da obra, seção Edições."
+  why: "Você pediu edição brasileira integral, de preferência acadêmica. Pesquisei mais, como você pediu: a edição nova da Realpolitik é a primeira tradução brasileira feita diretamente do alemão, com as notas do autor e revisão técnica acadêmica. Ela é exibida hoje, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
     - key: A
       label: "Editora UnB, 1982"
       status: "Não registrada"
-      facts: [["Tradução","Arthur Chaudon"],["Situação","Esgotada; só usada"],["Dúvida","Não se sabe se traduz a 1ª (1911) ou a 2ª (1925) edição, nem de que língua"]]
-      pros: ["Brasileira e de editora universitária, como você pediu"]
-      cons: ["Antiga; origem da tradução desconhecida"]
+      facts: [["Tradução","Arthur Chaudon"],["Original declarado","Zur Soziologie des Parteiwesens..., copyright 1914"],["Formato","558 p."],["Situação","Esgotada; só usada"]]
+      pros: ["Editora universitária; a edição que a literatura brasileira cita"]
+      cons: ["Antiga; não se sabe de que língua foi traduzida"]
     - key: B
+      pub: pub--realpolitik--sociologia-dos-partidos-politicos--2025
       label: "Realpolitik, 2025"
-      status: "Não registrada"
-      facts: [["Formato","Capa dura"],["ISBN","978-65-83386-07-6"],["Situação","Nova, ~R$ 340 na Estante Virtual"]]
-      pros: ["Edição brasileira recente"]
-      cons: ["Tradutor e texto-base não identificados em nenhuma fonte"]
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Clístenes Hafner Fernandes, direta do alemão"],["Aparato","Todas as notas do autor; revisão técnica de Marize Schons (doutora em ciência política)"],["Formato","Capa dura, 440–463 p."],["Situação","Nova; ~R$ 340 na Estante Virtual; também vendida pelo clube da editora"]]
+      pros: ["Brasileira, integral, direta do alemão e com revisão acadêmica — atende a tudo o que você pediu"]
+      cons: ["Cara; não se sabe se traduz a edição de 1911 ou a de 1925"]
     - key: C
       label: "Antígona (Lisboa), 2001"
       status: "Não registrada"
       facts: [["Tradução","José M. Justo"],["Formato","552 p."],["Situação","Rara, ~R$ 1.750"]]
       pros: ["Resenhada na revista Análise Social"]
       cons: ["Portuguesa e caríssima"]
-  options:
-    - {key: A, recommended: true, title: "Pesquisar mais antes de decidir", effect: "Eu tento identificar o tradutor e a fonte da edição Realpolitik e da UnB antes de você escolher."}
-  recommendation: "pesquisar mais: entre a UnB e a Realpolitik a diferença está em dados que ainda não tenho — quem traduziu a Realpolitik e de que texto. Se preferir decidir já, a edição da UnB, que cumpre literalmente o que você pediu."
+  options: []
+  recommendation: "B: é a única que cumpre literalmente a sua indicação — brasileira, integral e acadêmica — e é tradução direta do alemão, com as notas do autor. A da UnB só faria sentido para quem prefere a edição consagrada pela literatura, e ela só se acha usada."
+  recommended: B
 
 # ============================== CONFIRMAR POSIÇÃO ===========================
 

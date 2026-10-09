@@ -1639,3 +1639,11 @@ franco-de-sa:
   note: "Tradutor, não autor. Traduziu, introduziu e anotou O conceito do
          político, de Carl Schmitt, para as Edições 70."
   role: translator
+
+clistenes-fernandes:
+  name_display: "Clístenes Hafner Fernandes"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu do alemão a Sociologia dos partidos
+         políticos de Michels para a Realpolitik (2025)."
+  role: translator

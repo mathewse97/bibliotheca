@@ -488,6 +488,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
+    publication_pref: pub--realpolitik--sociologia-dos-partidos-politicos--2025   # provisória: a escolha está no cartão d-ed-michels (2026-10-09)
 
   - work: schmitt--der-begriff-des-politischen
     core: true

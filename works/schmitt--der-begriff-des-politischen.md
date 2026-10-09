@@ -56,3 +56,21 @@ três versões publicadas por Schmitt. Outras edições existem no Brasil
 
 **Registrada:** Edições 70, trad., introdução e notas de Alexandre Franco de
 Sá. Sem oferta na Amazon em 2026-10-09.
+
+**Pesquisa complementar, a pedido do Mathews (2026-10-09): há edição melhor?**
+
+| | Tradução | Edição | Aparato | Situação |
+|---|---|---|---|---|
+| A | Alexandre Franco de Sá | Edições 70 (Lisboa), 2015/2018, 200 p. | tradução, introdução e notas; assinala as diferenças entre as três versões que Schmitt publicou (1927, 1932, 1933) | sem oferta na Amazon; ficha na Estante Virtual sem exemplares |
+| B | Álvaro L. M. Valls | Vozes, 1992 | apresentação de Hans Georg Flickinger | esgotada; é a tradução mais citada na literatura brasileira |
+| C | Geraldo de Carvalho | Del Rey, 2008/2009, 244 p., com *Teoria do partisan* | não verificado | exemplar novo na Estante Virtual |
+
+As duas brasileiras (B e C) traduzem a versão de 1932, como quase todas as
+edições. Nenhuma fonte encontrada avalia a fidelidade de B ou de C, nem
+informa de que língua C foi traduzida.
+
+**Conclusão: não há edição melhor que A.** A é a única com aparato crítico
+sobre as três versões do texto, e é a que o Mathews indicou. O problema dela
+é obter o livro, não a qualidade. Se a compra no Brasil falhar, a
+alternativa obtenível é C (Del Rey), que traz também a *Teoria do partisan*,
+mas sem garantia sobre a tradução.
