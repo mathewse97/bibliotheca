@@ -39,6 +39,18 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--gulbenkian--religiao-grega.webp
+  source: "https://skoob.s3.amazonaws.com/livros/33033/A_RELIGIAO_GREGA_NA_EPOCA_CLASSICA_E_ARC_1245801333B.jpg
+           — capa da edição
+           https://skoob.com.br/pt/book/a-religiao-grega-na-epoca-classica-e-arcaica-33033ed36026.html
+           (Gulbenkian, 1993, 638 p., ISBN 9723105969), baixada em 2026-10-09"
+  source_type: catalogue
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -51,8 +63,21 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada da ficha da edição no Skoob (Gulbenkian, 1993, 638 p.,
+            ISBN-10 9723105969)."
+    source: "covers/pub--gulbenkian--religiao-grega.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Digitalização plana: Walter Burkert, título e 'Serviço de Educação,
+           Fundação Calouste Gulbenkian' no pé. O ISBN da ficha é o deste
+           registro. Amazon e AbeBooks associam a este ISBN uma imagem de
+           outro livro (Leibniz, Sistema novo da natureza) — erro do banco de
+           imagens delas; um anúncio da AbeBooks (vendedor Wissenschaftliches
+           Antiquariat Köln) confirma Burkert, Gulbenkian, 1993, para o mesmo
+           ISBN."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação
