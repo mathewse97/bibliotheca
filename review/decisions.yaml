@@ -630,6 +630,13 @@ items:
 
 # ============================== DECIDIDAS ==================================
 
+- id: d-dec-nome-politica
+  kind: colecao
+  collections: [political-thought]
+  state: decidida
+  question: "Nome da coleção political-thought"
+  decided: {date: 2026-10-09, choice: "“Política” (antes “Política — Formação Geral”; vários textos a chamavam de “Pensamento Político”)", note: "Aplicado: title_pt alterado; o id political-thought continua o mesmo. Os textos que usavam “Pensamento Político” como nome da coleção passaram a dizer “Política”. O nome original da sua lista de importação (“Política — Formação Geral”, em source.original_title e nas notas que citam a lista) foi mantido, porque registra de onde a coleção veio."}
+
 - id: d-dec-ehrman
   kind: edicao
   collections: [religion]

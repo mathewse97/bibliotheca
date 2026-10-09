@@ -208,7 +208,7 @@ excluded: []                   # nada excluído por decisão — só por ausênc
 # SEQUÊNCIA — a ordem neste arquivo É a ordem. Sua, sem alteração.
 #
 # Os movimentos ORGANIZAM o que a coleção hoje contém; não delimitam o que ela
-# pode conter. Precedente estrutural: Pensamento Político, onde fundações
+# pode conter. Precedente estrutural: Política, onde fundações
 # antigas, tradições não ocidentais, cristianismo medieval, marxismo, teoria
 # democrática, crítica libertária e literatura política são subdivisões de uma
 # coleção só. Aqui, "educação clássica" é uma tradição dentro de Educação,
@@ -466,7 +466,7 @@ sequence:
 
   # -------------------------------------------------------------------------
   # PARTICIPAÇÃO NOVA — 2026-09-19. Obra JÁ no acervo desde a importação de
-  # Pensamento Político, de onde saiu por decisão sua (2026-09-05); estava
+  # Política, de onde saiu por decisão sua (2026-09-05); estava
   # `pending_assignment` à espera de que Educação e Cultura tivessem critérios
   # declarados. Ambas têm agora, e a pesquisa sobre a conferência decidiu entre
   # as duas. Não é compra: é participação de um registro canônico existente.

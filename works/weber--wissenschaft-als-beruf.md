@@ -85,7 +85,7 @@ rivais e irreconciliáveis, sem instância que as arbitre.
 ## Nota de modelo
 
 Separada de [[weber--politik-als-beruf]] nesta importação, e agora fora de
-Pensamento Político por decisão sua. As duas conferências partilham a
+Política por decisão sua. As duas conferências partilham a
 publicação `pub--cultrix--ciencia-e-politica` — e nada mais: temas,
 períodos de composição e coleções são diferentes.
 

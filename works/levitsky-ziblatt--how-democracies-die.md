@@ -44,4 +44,4 @@ Livro de 2018, de dois cientistas políticos de Harvard. Argumenta que democraci
 
 ## Lugar na biblioteca
 
-Movimento VIII de Pensamento Político, logo depois de Dahl. Posição a confirmar.
+Movimento VIII de Política, logo depois de Dahl. Posição a confirmar.

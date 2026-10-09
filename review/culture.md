@@ -156,7 +156,7 @@ crítica cultural* — e a metade da pergunta que ele responde é **como a cultu
 se degrada ou se perde**. Um ensaio sobre colapso de referências e dissolução
 de limites é crítica cultural no sentido próprio, não por analogia.
 
-**Pensamento Político: não.** A pergunta daquela coleção é com que direito
+**Política: não.** A pergunta daquela coleção é com que direito
 alguns homens governam outros. Este livro não argumenta sobre a origem, a
 legitimidade ou os limites do poder político — argumenta sobre o que sobra do
 indivíduo quando as referências comuns se dissolvem. A adjacência com o
@@ -485,7 +485,7 @@ saltos de uma vez, o histórico e o de exigência.
 
 Como complementar, Burke, *Uma Investigação Filosófica sobre a Origem das
 Nossas Ideias do Sublime e do Belo* (1757), que traz o sublime — e tem um bônus
-de coleção: Burke já está em Pensamento Político com as *Reflexões sobre a
+de coleção: Burke já está em Política com as *Reflexões sobre a
 Revolução em França*, e as duas obras poriam o mesmo autor antes e depois da
 Revolução.
 

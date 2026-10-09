@@ -5,7 +5,8 @@ image:                      # foto de fundo do cartão — interface-rules.md §
   subject: "Frontispício do Leviatã de Thomas Hobbes (1651), gravura atribuída a Abraham Bosse"
   supplied_by: mathews
   added: 2026-09-25
-title_pt: "Política — Formação Geral"
+title_pt: "Política"
+title_by: voce               # decisão do Mathews, 2026-10-09: antes "Política — Formação Geral"
 question: "Com que direito alguns homens governam outros, e sob que
            condições esse governo permanece legítimo?"
 
@@ -1101,7 +1102,7 @@ structural_changes:
                         significava para ESTA coleção era a conferência
                         política, que continua sendo o membro."
     resolved_by: "Sua decisão de 2026-09-05: A Ciência como Vocação sai de
-                  Pensamento Político; casa provável em Educação e/ou Cultura,
+                  Política; casa provável em Educação e/ou Cultura,
                   a decidir pelos critérios dessas coleções quando importadas."
     status: aplicado
 
