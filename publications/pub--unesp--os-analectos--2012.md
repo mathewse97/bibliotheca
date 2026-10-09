@@ -16,8 +16,8 @@ format: [capa-dura]
 packaging: "volume"
 pages: 640
 isbn13: "978-85-393-0227-7"
-availability_br: "em-catalogo"
-availability_checked: "2026-10-09"
+availability_br: em-catalogo
+availability_checked: 2026-10-09
 links:
   publisher: ""
   catalogue: ""

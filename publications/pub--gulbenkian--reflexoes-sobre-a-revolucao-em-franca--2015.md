@@ -16,8 +16,8 @@ format: []
 packaging: "volume"
 pages: 343
 isbn13: "978-972-31-1575-8"
-availability_br: "importacao"
-availability_checked: "2026-10-09"
+availability_br: importacao
+availability_checked: 2026-10-09
 links:
   publisher: "https://gulbenkian.pt/publications/reflexoes-sobre-a-revolucao-em-franca/"
   catalogue: ""
@@ -26,7 +26,6 @@ verified_fields: [title_as_published, publisher, year, isbn13, tradutor]
 research_status: partially_researched
 missing:
   - "Formato e disponibilidade do impresso: a página da Gulbenkian hoje apresenta a obra como edição digital de acesso aberto; o registro na Biblioteca Nacional de Portugal atesta o livro"
-  - "Capa: a imagem da página da Gulbenkian está em cdn.gulbenkian.pt, domínio não liberado neste ambiente"
   - "Anúncio para compra no Brasil"
 source_of_record: voce
 
@@ -39,6 +38,18 @@ contains:
     source_text: null
     completeness: null
     apparatus: []
+
+cover:
+  file: covers/pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015.webp
+  source: "https://cdn.gulbenkian.pt/wp-content/uploads/2020/07/41_533x800.jpg —
+           imagem da página da editora
+           https://gulbenkian.pt/publications/reflexoes-sobre-a-revolucao-em-franca/,
+           baixada em 2026-10-09"
+  source_type: publisher
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition: []
 
@@ -54,10 +65,16 @@ provenance:
     source_tier: 3
     retrieved: 2026-10-09
     confidence: reported
+  - claim: "A capa mostra título, autor e 'Fundação Calouste Gulbenkian' no pé."
+    source: "covers/pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem, tomada da página da editora."
 
 updated: 2026-10-09
 ---
 
 ## Avaliação
 
-**Sem veredito.** Edição indicada pelo Mathews, localizada e registrada. Português de Portugal. Sem capa por ora: a imagem existe na página da editora, num domínio que este ambiente ainda não alcança.
+**Sem veredito.** Edição indicada pelo Mathews, localizada e registrada. Português de Portugal. A capa vem da página da própria editora.

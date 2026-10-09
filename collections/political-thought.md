@@ -330,7 +330,7 @@ sequence:
     why_here_by: claude
     closes_gap: political-thought--g05
     inserted_by: claude          # ver order_changes
-    publication_pref: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025   # escolha minha em 2026-10-09 (Etapa 1): sem indicação sua
+    publication_pref: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025   # provisória: a escolha está no cartão d-ed-kant-fundamentacao (2026-10-09)
 
   - movement: "V. Revolução, conservadorismo e democracia"
     purpose: "Submeter as construções da seção IV ao teste de um evento real —

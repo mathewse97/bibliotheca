@@ -16,8 +16,8 @@ format: [brochura]
 packaging: "volume"
 pages: 342
 isbn13: "978-85-7827-797-0"
-availability_br: "em-catalogo"
-availability_checked: "2026-10-09"
+availability_br: em-catalogo
+availability_checked: 2026-10-09
 links:
   publisher: ""
   catalogue: ""
