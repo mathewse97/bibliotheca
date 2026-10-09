@@ -37,6 +37,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--vozes--sociedade-do-cansaco.webp
+  source: "https://m.media-amazon.com/images/I/615xknuR6CL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8532649963, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://amzn.to/4eaNPLC"
@@ -59,8 +70,14 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-12
     confidence: reported
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8532649963."
+    source: "covers/pub--vozes--sociedade-do-cansaco.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

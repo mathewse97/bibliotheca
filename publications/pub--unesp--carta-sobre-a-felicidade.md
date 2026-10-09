@@ -39,6 +39,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--unesp--carta-sobre-a-felicidade.webp
+  source: "https://m.media-amazon.com/images/I/71pKEa4G74L._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8571393974, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -51,8 +62,14 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8571393974."
+    source: "covers/pub--unesp--carta-sobre-a-felicidade.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "A capa é a do livro físico da Unesp (3ª ed., 2002, ISBN 978-85-7139-397-4). O ISBN DESTE REGISTRO, 978-85-393-0279-6, é o do eBook (SciELO/Kindle) — pela regra F.5 o registro deveria ter o do físico, a confirmar. Sem link de compra até a correção."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

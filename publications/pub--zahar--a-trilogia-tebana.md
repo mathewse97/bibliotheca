@@ -59,6 +59,17 @@ contains:
     #  ISBN fornecido por você em 2026-09-12; uma tiragem anterior do mesm
     # o volume circula sob 978-85-7110-081-7.
 
+cover:
+  file: covers/pub--zahar--a-trilogia-tebana.webp
+  source: "https://m.media-amazon.com/images/I/71-axVDTD-L._SL1087_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8571100810, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -71,8 +82,14 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8571100810."
+    source: "covers/pub--zahar--a-trilogia-tebana.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "A capa é a do livro físico da Zahar (264 p., ISBN 978-85-7110-081-7). O ISBN DESTE REGISTRO, 978-85-378-0217-5, é o do eBook Kindle — pela regra F.5 o registro deveria ter o do físico, a confirmar. Sem link de compra até a correção."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

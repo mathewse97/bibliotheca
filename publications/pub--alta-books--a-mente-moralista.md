@@ -39,6 +39,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--alta-books--a-mente-moralista.webp
+  source: "https://m.media-amazon.com/images/I/61oc+NkPQAL._SL1000_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8550813907, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://a.co/d/0acZQdOO"
@@ -60,8 +71,14 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-12
     confidence: verified
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8550813907."
+    source: "covers/pub--alta-books--a-mente-moralista.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

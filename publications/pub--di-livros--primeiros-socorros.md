@@ -39,6 +39,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--di-livros--primeiros-socorros.webp
+  source: "https://m.media-amazon.com/images/I/61CVIQaRuBL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8581160913, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/Primeiros-Socorros-Evandro-Cl%C3%A1udia-Conforto/dp/8581160913"
@@ -63,8 +74,14 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-06
     confidence: reported
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8581160913."
+    source: "covers/pub--di-livros--primeiros-socorros.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "DIVERGÊNCIA: o selo impresso na capa é o da MARTINARI, e o anúncio também dá Editora Martinari; o registro diz Di Livros. O ISBN confere. Não corrigido: decisão do Mathews."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -48,6 +48,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--millennium--tiro-de-combate-pistola--2022.webp
+  source: "https://m.media-amazon.com/images/I/61XvfF9E6aL._SL1024_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8576253852, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/Tiro-Combate-Pistola-Fundamentos-Habilidades/dp/8576253852"
@@ -80,8 +91,14 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-06
     confidence: verified
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8576253852."
+    source: "covers/pub--millennium--tiro-de-combate-pistola--2022.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Segunda imagem da galeria do anúncio: a principal é uma página interna autografada, não a capa. A capa traz o selo “2ª edição”."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -42,7 +42,29 @@ contains:
     # iva portuguesa da Imprensa da Universidade de Coimbra, registrada à 
     # parte e preferida.
 
-acquisition: []
+cover:
+  file: covers/pub--oakpast--de-re-militari.webp
+  source: "https://m.media-amazon.com/images/I/71w3PMtNJlL._SL1360_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/0857068210, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/0857068210"
+    listing_id: "0857068210"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o mesmo ISBN-13 deste registro (conferido na
+                 página em 2026-10-09)."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Título, editora, tradutor e ISBN-13 conforme o levantamento de
@@ -54,8 +76,14 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/0857068210."
+    source: "covers/pub--oakpast--de-re-militari.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

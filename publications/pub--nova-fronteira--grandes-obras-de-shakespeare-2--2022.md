@@ -55,6 +55,17 @@ also_contains:
   - {title: "Henrique V", author: "William Shakespeare"}
   - {title: "Henrique VIII", author: "William Shakespeare"}
 
+cover:
+  file: covers/pub--nova-fronteira--grandes-obras-de-shakespeare-2--2022.webp
+  source: "https://m.media-amazon.com/images/I/61a-KDnTtcL._SL1000_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/655640389X, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/655640389X"
@@ -97,8 +108,14 @@ provenance:
     confidence: reported
     note: "Divergência de encadernação com a página da editora, registrada em
            missing. Tier 7 não decide."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/655640389X."
+    source: "covers/pub--nova-fronteira--grandes-obras-de-shakespeare-2--2022.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-28
+updated: 2026-10-09
 ---
 
 ## Avaliação
