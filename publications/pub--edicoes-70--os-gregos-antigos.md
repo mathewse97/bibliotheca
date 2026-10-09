@@ -39,6 +39,18 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--edicoes-70--os-gregos-antigos.webp
+  source: "https://pictures.abebooks.com/inventory/32042352508.jpg — foto do
+           vendedor no anúncio
+           https://www.abebooks.com/OS-GREGOS-ANTIGOS-EDI%C3%87%C3%83O-1988-FINLEY/32042352508/bd,
+           achado pela busca do ISBN 9724403300; baixada em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -51,8 +63,18 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada de foto de vendedor na AbeBooks."
+    source: "covers/pub--edicoes-70--os-gregos-antigos.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Foto frontal de um exemplar: M. I. Finley, Os Gregos Antigos, selo
+           da Edições 70. O anúncio aparece na busca por este ISBN, mas o
+           vendedor o descreve como a impressão de 1988 da coleção Lugar da
+           História (nº 23); uma impressão posterior com este ISBN pode ter
+           outra capa. A imagem da Amazon para este ISBN é de outro livro."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação
