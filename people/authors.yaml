@@ -1517,3 +1517,49 @@ bruno-alexander:
   dates: null
   note: "Tradutor, não autor, de A Ideia de uma Universidade (Ecclesiae, 2020),
          segundo o Mathews. Não confirmado em fonte."
+
+# ---------------------------------------------------------------------------
+# TRADUTORES acrescentados na Etapa 1 de Política (edições), 2026-10-09.
+# ---------------------------------------------------------------------------
+
+sinedino:
+  name_display: "Giorgio Sinedino"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Os Analectos de Confúcio diretamente do
+         chinês para a Editora Unesp (2012)."
+  role: translator
+
+cotrim:
+  name_display: "Ana Aguiar Cotrim"
+  name_variants: ["Ana Aguiar Contrim"]
+  dates: null
+  note: "Tradutora, não autora. Traduziu para a WMF Martins Fontes a edição de
+         Ralph D. Sawyer de A arte da guerra (Sun Tzu e Sun Pin), a partir do
+         inglês."
+  role: translator
+
+murachco:
+  name_display: "Cristina Murachco"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu O Espírito das Leis para a Martins
+         Fontes."
+  role: translator
+
+guido-almeida:
+  name_display: "Guido Antônio de Almeida"
+  name_variants: ["Guido Antonio de Almeida"]
+  dates: null
+  note: "Tradutor, não autor. Traduziu do alemão, com introdução e notas, a
+         Fundamentação da Metafísica dos Costumes (Discurso Editorial/
+         Barcarolla, 2009; versão revista Ideias & Letras, 2025)."
+  role: translator
+
+ivone-moreira:
+  name_display: "Ivone Moreira"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu e introduziu as Reflexões sobre a
+         Revolução em França de Burke (Fundação Calouste Gulbenkian, 2015)."
+  role: translator

@@ -17,8 +17,9 @@ subjects: [autonomia, dever, imperativo-categorico, dignidade,
            boa-vontade, lei-moral]
 
 research_status: partially_researched
-missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,
-           verificada ou escolhida",
+missing: ["veredito de edição (§E): em 2026-10-09 foi registrada a tradução de
+           Guido Antônio de Almeida (Ideias & Letras, 2025), escolha minha sem
+           comparação formal com as alternativas",
           "transmissão textual e edição crítica de referência do original",
           "candidatos nas faixas português, espanhol, italiano e inglês",
           "avaliação acadêmica das traduções",

@@ -149,7 +149,8 @@ sequence:
              especialmente a de Giorgio Sinedino."
       by: voce
       kind: intencao          # nomeia tradutor, não edição
-      verified: false
+      verified: true
+    publication_pref: pub--unesp--os-analectos--2012   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: sunzi--bingfa
     role: primary-source
@@ -159,7 +160,8 @@ sequence:
     edition_pref:
       text: "Martins Fontes, edição de Ralph D. Sawyer, trad. Ana Aguiar Cotrim."
       by: voce
-      verified: false
+      verified: true
+    publication_pref: pub--wmf-martins-fontes--a-arte-da-guerra--2014   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: kautilya--arthashastra
     role: primary-source
@@ -300,7 +302,8 @@ sequence:
       text: "Priorizar edição acadêmica brasileira da Martins Fontes."
       by: voce
       kind: intencao
-      verified: false
+      verified: true
+    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: rousseau--du-contrat-social
     core: true
@@ -327,6 +330,7 @@ sequence:
     why_here_by: claude
     closes_gap: political-thought--g05
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025   # escolha minha em 2026-10-09 (Etapa 1): sem indicação sua
 
   - movement: "V. Revolução, conservadorismo e democracia"
     purpose: "Submeter as construções da seção IV ao teste de um evento real —
@@ -340,7 +344,8 @@ sequence:
     why_here: "Tradição, prudência política, instituições e crítica ao
                racionalismo revolucionário."
     why_here_by: voce
-    edition_pref: {text: "Fundação Calouste Gulbenkian, trad. Ivone Moreira.", by: voce, verified: false}
+    edition_pref: {text: "Fundação Calouste Gulbenkian, trad. Ivone Moreira.", by: voce, verified: true}
+    publication_pref: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: tocqueville--de-la-democratie-en-amerique
     core: true
