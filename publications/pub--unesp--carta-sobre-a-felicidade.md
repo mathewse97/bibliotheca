@@ -14,7 +14,7 @@ register: null
 framing: null
 format: []
 pages: null
-isbn13: "978-85-393-0279-6"
+isbn13: "978-85-7139-397-4"
 
 availability_br: null
 availability_checked: null
@@ -22,7 +22,7 @@ links:
   publisher: ""
   catalogue: ""
 
-verified_fields: [title_as_published, publisher, isbn13]
+verified_fields: [title_as_published, publisher]
 research_status: partially_researched
 missing: ["ano", pages, format, "número de edição",
           "aparato crítico, introdução e notas",
@@ -50,7 +50,18 @@ cover:
   checked: 2026-10-09
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
-acquisition: []
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8571393974"
+    listing_id: "8571393974"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o ISBN-13 978-85-7139-397-4, o deste registro; o ASIN é
+                 o ISBN-10 correspondente."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Título, editora, tradutor e ISBN-13 conforme o levantamento de
@@ -67,7 +78,14 @@ provenance:
     source_tier: null
     retrieved: 2026-10-09
     confidence: reported
-    note: "A capa é a do livro físico da Unesp (3ª ed., 2002, ISBN 978-85-7139-397-4). O ISBN DESTE REGISTRO, 978-85-393-0279-6, é o do eBook (SciELO/Kindle) — pela regra F.5 o registro deveria ter o do físico, a confirmar. Sem link de compra até a correção."
+    note: "Exame direto da imagem: é a capa do livro físico desta edição."
+  - claim: "ISBN-13 corrigido para 978-85-7139-397-4, o do livro físico. O ISBN anterior, 978-85-393-0279-6, é o do eBook (SciELO/Kindle); a regra F.5 só admite a edição física."
+    source: "https://www.amazon.com.br/dp/8571393974"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Correção aprovada pelo Mathews em 2026-10-09 (só edições físicas). Ficha
+           do anúncio: Editora Unesp, 3ª edição, 5 de julho de 2002, 56 páginas, ISBN-13 978-8571393974; tradução de Álvaro Lorencini e Enzo Del Carratore."
 
 updated: 2026-10-09
 ---

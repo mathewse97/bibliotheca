@@ -14,7 +14,7 @@ register: null
 framing: null
 format: []
 pages: null
-isbn13: "978-0-674-99088-3"
+isbn13: "978-0-674-99098-2"
 
 availability_br: null
 availability_checked: null
@@ -22,7 +22,7 @@ links:
   publisher: ""
   catalogue: ""
 
-verified_fields: [title_as_published, publisher, isbn13]
+verified_fields: [title_as_published, publisher]
 research_status: partially_researched
 missing: ["ano", pages, format, "número de edição",
           "aparato crítico, introdução e notas",
@@ -52,7 +52,18 @@ cover:
   checked: 2026-10-09
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
-acquisition: []
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/0674990986"
+    listing_id: "0674990986"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o ISBN-13 978-0-674-99098-2, o deste registro; o ASIN é
+                 o ISBN-10 correspondente."
+    format_listed: capa-dura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Título, editora, tradutor e ISBN-13 conforme o levantamento de
@@ -69,7 +80,14 @@ provenance:
     source_tier: null
     retrieved: 2026-10-09
     confidence: reported
-    note: "A capa é a do Loeb 88 (Xenophon, Hellenica, Books 1–4, trad. Carleton L. Brownson), tomada do anúncio do ISBN 978-0-674-99098-2. O ISBN DESTE REGISTRO, 978-0-674-99088-3, aparece na Amazon como Teofrasto, Enquiry into Plants II (Loeb 79): provável erro de dígito no registro, a confirmar. Sem link de compra até a correção."
+    note: "Exame direto da imagem: é a capa do livro físico desta edição."
+  - claim: "ISBN-13 corrigido para 978-0-674-99098-2, o do livro físico. O ISBN anterior, 978-0-674-99088-3, é na Amazon o Teofrasto, Enquiry into Plants II (Loeb 79) — erro de dígito."
+    source: "https://www.amazon.com.br/dp/0674990986"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Correção aprovada pelo Mathews em 2026-10-09 (só edições físicas). Ficha
+           do anúncio: Harvard University Press, Loeb Classical Library 88, 381 páginas, capa dura, ISBN-13 978-0674990982."
 
 updated: 2026-10-09
 ---
