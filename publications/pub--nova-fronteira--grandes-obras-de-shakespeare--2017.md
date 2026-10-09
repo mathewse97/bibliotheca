@@ -62,6 +62,17 @@ also_contains:
   - {title: "Ricardo III", author: "William Shakespeare"}
   - {title: "Antônio e Cleópatra", author: "William Shakespeare"}
 
+cover:
+  file: covers/pub--nova-fronteira--grandes-obras-de-shakespeare--2017.webp
+  source: "https://m.media-amazon.com/images/I/91tEwkZRenL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8520932517, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/8520932517"
@@ -101,8 +112,14 @@ provenance:
     confidence: reported
     note: "Tier 7 serve para estabelecer que a edição existe e é comprável, e
            para conferir identificadores. Nada aqui toca veredito de qualidade."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8520932517."
+    source: "covers/pub--nova-fronteira--grandes-obras-de-shakespeare--2017.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-28
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -42,7 +42,29 @@ contains:
     # a na coleção Política, em 2026-09-05. As duas participações da mesma
     #  obra convergem para a mesma edição.
 
-acquisition: []
+cover:
+  file: covers/pub--unb--politica.webp
+  source: "https://m.media-amazon.com/images/I/81tM6xxWiNL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8523000119, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões), depois de girada 180° em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8523000119"
+    listing_id: "8523000119"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o mesmo ISBN-13 deste registro (conferido na
+                 página em 2026-10-09)."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Título, editora, tradutor e ISBN-13 conforme o levantamento de
@@ -54,8 +76,14 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8523000119."
+    source: "covers/pub--unb--politica.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "A imagem do anúncio é FOTO de um exemplar, escura e de cabeça para baixo; foi girada 180° antes da conversão. Serve como identificação até haver uma melhor."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -14,7 +14,7 @@ register: null
 framing: null
 format: []
 pages: null
-isbn13: "978-85-378-0217-5"
+isbn13: "978-85-7110-081-7"
 
 availability_br: null
 availability_checked: null
@@ -22,7 +22,7 @@ links:
   publisher: ""
   catalogue: ""
 
-verified_fields: [title_as_published, publisher, isbn13]
+verified_fields: [title_as_published, publisher]
 research_status: partially_researched
 missing: ["ano", pages, format, "número de edição",
           "aparato crítico, introdução e notas",
@@ -59,7 +59,29 @@ contains:
     #  ISBN fornecido por você em 2026-09-12; uma tiragem anterior do mesm
     # o volume circula sob 978-85-7110-081-7.
 
-acquisition: []
+cover:
+  file: covers/pub--zahar--a-trilogia-tebana.webp
+  source: "https://m.media-amazon.com/images/I/71-axVDTD-L._SL1087_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8571100810, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8571100810"
+    listing_id: "8571100810"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o ISBN-13 978-85-7110-081-7, o deste registro; o ASIN é
+                 o ISBN-10 correspondente."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
 
 provenance:
   - claim: "Título, editora, tradutor e ISBN-13 conforme o levantamento de
@@ -71,8 +93,21 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8571100810."
+    source: "covers/pub--zahar--a-trilogia-tebana.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Exame direto da imagem: é a capa do livro físico desta edição."
+  - claim: "ISBN-13 corrigido para 978-85-7110-081-7, o do livro físico. O ISBN anterior, 978-85-378-0217-5, é o do eBook Kindle; a regra F.5 só admite a edição física."
+    source: "https://www.amazon.com.br/dp/8571100810"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Correção aprovada pelo Mathews em 2026-10-09 (só edições físicas). Ficha
+           do anúncio: Zahar, 1ª edição, 264 páginas, ISBN-13 978-8571100817."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

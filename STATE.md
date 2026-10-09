@@ -77,18 +77,12 @@ interface — 12 itens. Os que têm consequência estrutural:
 
 ---
 
-## Uma correção devida, e por que não foi feita agora
+## Frase de direitos das capas — corrigida em 2026-10-09
 
-Os registros de publicação que têm capa trazem em `cover.rights_note` a frase
-"uso em acervo pessoal privado". Com o repositório público e as capas servidas
-no site, a frase deixou de ser verdadeira e precisa ser corrigida — são cerca de
-118 registros.
-
-Não foi feito nesta sessão por uma razão prática: a correção toca quase todos os
-arquivos de `publications/`, e fazê-la pelo mecanismo de copiar arquivo a
-arquivo custaria muitas transferências. Depois do repositório existir, é uma
-substituição de texto em um comando e um commit. **É a primeira tarefa da fila
-depois da migração**, e está aqui para não se perder.
+Os 118 registros que diziam "uso em acervo pessoal privado" em
+`cover.rights_note`, mais o modelo `_TEMPLATE.md`, passaram a dizer
+"Imagem de capa usada como identificação bibliográfica da edição." As capas
+novas já entram com essa frase.
 
 ---
 

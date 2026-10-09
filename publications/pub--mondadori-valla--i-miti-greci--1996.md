@@ -54,6 +54,17 @@ contains:
     # tradução é de Maria Grazia Ciani. A distinção importa para o veredito —
     # o que faz esta edição superior é o comentário.
 
+cover:
+  file: covers/pub--mondadori-valla--i-miti-greci--1996.webp
+  source: "https://m.media-amazon.com/images/I/81R2YcvW9WL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8804410272, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/8804410272"
@@ -111,8 +122,14 @@ provenance:
            bilinguismo permanece não verificado — nenhuma das três páginas
            afirma que o texto grego está impresso, e o §E.1b proíbe deduzi-lo
            do título ou da série."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8804410272."
+    source: "covers/pub--mondadori-valla--i-miti-greci--1996.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 ## Avaliação

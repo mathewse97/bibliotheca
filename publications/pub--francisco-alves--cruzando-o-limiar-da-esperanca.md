@@ -36,6 +36,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--francisco-alves--cruzando-o-limiar-da-esperanca.webp
+  source: "https://m.media-amazon.com/images/I/51SuM2jKnGL._SL1280_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8526503146, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -62,7 +73,14 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-23
     confidence: verified
-updated: 2026-09-23
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8526503146."
+    source: "covers/pub--francisco-alves--cruzando-o-limiar-da-esperanca.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "Foto da capa da edição Francisco Alves: título, 'por Sua Santidade João Paulo II' e o selo da Francisco Alves. O anúncio de onde veio usa o ISBN-10 8526503146, que a provenance deste registro mostra ser de outro livro (Senel Paz) — o cadastro da Amazon está trocado, mas a imagem é desta edição. Sem link de compra: nenhum anúncio com o ISBN certo tem imagem nem oferta conferida."
+
+updated: 2026-10-09
 ---
 
 ## Por que esta publicação existe

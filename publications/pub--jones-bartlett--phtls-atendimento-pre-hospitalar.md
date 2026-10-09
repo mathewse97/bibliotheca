@@ -55,6 +55,17 @@ contains:
     apparatus: []
     work_identification_confidence: verified
 
+cover:
+  file: covers/pub--jones-bartlett--phtls-atendimento-pre-hospitalar.webp
+  source: "https://m.media-amazon.com/images/I/81JGVLq--RL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/1284300692, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/PHTLS-Atendimento-Pr%C3%A9-hospitalar-Traumatizado-10ed/dp/1284300692"
@@ -90,8 +101,14 @@ provenance:
     tier_note: "Verificação sobre o identificador, não uma fonte."
     retrieved: 2026-09-06
     confidence: verified
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/1284300692."
+    source: "covers/pub--jones-bartlett--phtls-atendimento-pre-hospitalar.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação

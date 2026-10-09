@@ -40,6 +40,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--verbo-encarnado--a-inveja-dos-anjos.webp
+  source: "https://m.media-amazon.com/images/I/81eUw636S2L._SL1500_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/8594090250, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/Inveja-dos-Anjos-Catedrais-Medieval/dp/8594090250"
@@ -47,11 +58,10 @@ acquisition:
     match_basis: isbn13
     match_note: "ASIN é o ISBN-10 desta publicação, consistente com o
                  ISBN-13 978-85-9409-025-6 que você forneceu."
-    format_listed: null
+    format_listed: brochura
     price_band: null
-    availability: null
-    availability_note: "Não verificada."
-    checked: 2026-09-10
+    availability: em-catalogo
+    checked: 2026-10-09
     checked_by: claude
 
 provenance:
@@ -63,7 +73,25 @@ provenance:
     retrieved: 2026-09-10
     confidence: verified
 
-updated: 2026-09-10
+  - claim: "O anúncio dá: Editora Kírion, 1ª edição, 25 de junho de 2019, 608
+            páginas, ISBN-13 978-8594090256, 23 × 15,6 × 3 cm."
+    source: "https://www.amazon.com.br/dp/8594090250"
+    source_tier: 7
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "CONFLITO DE EDITORA com a fonte tier 1 deste registro (Verbo
+           Encarnado). O selo da capa e o prefixo do ISBN (978-85-94090, o mesmo
+           dos volumes da Kírion registrados) também apontam para a Kírion.
+           Preservado, não resolvido: varejo não desmente a editora, e a
+           decisão é do Mathews."
+  - claim: "A capa mostra título, autor e o selo da KÍRION — não o da Verbo Encarnado."
+    source: "covers/pub--verbo-encarnado--a-inveja-dos-anjos.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "DIVERGÊNCIA: o selo impresso é o da Kírion, e o anúncio da Amazon também dá Kírion como editora (2019, 608 p.); o prefixo do ISBN, 978-85-94090, é o da Kírion. O registro diz Verbo Encarnado com base na página de produto da Verbo Encarnado (tier 1). Não corrigido: decisão do Mathews."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -50,6 +50,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--contexto--e-assim-que-aprendemos--2022.webp
+  source: "https://m.media-amazon.com/images/I/71TLfbnKOLL._SL1500_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/6555411651, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/6555411651"
@@ -115,7 +126,14 @@ provenance:
            não de objeto: a página do autor na Contexto respondeu; a do produto
            não."
 
-updated: 2026-10-01
+  - claim: "A capa mostra título, autor e selo da Editora Contexto."
+    source: "covers/pub--contexto--e-assim-que-aprendemos--2022.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

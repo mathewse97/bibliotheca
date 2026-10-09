@@ -37,6 +37,17 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--vozes--a-crise-da-narracao.webp
+  source: "https://m.media-amazon.com/images/I/51jpCePOSpL._SL1000_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8532665691, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://amzn.to/4dYpXKR"
@@ -66,6 +77,12 @@ provenance:
     confidence: reported
     note: "Coincide com o registro existente no ISBN, na editora e no ano. Os
            dois dígitos verificadores conferem por cálculo."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8532665691."
+    source: "covers/pub--vozes--a-crise-da-narracao.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
 updated: 2026-10-09
 ---

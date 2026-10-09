@@ -48,6 +48,17 @@ contains:
     completeness: null
     apparatus: [notas, leituras-sugeridas, indice, apresentacao-brasileira]
 
+cover:
+  file: covers/pub--penso--fixe-o-conhecimento--2018.webp
+  source: "https://m.media-amazon.com/images/I/81dyxxq8l6L._SL1500_.jpg — imagem
+           principal do anúncio https://www.amazon.com.br/dp/8584291245, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/8584291245"
@@ -84,7 +95,14 @@ provenance:
            aqui, inclusive os dois ISBNs e os nomes de tradutor e revisor
            técnico — e todos coincidem com a pesquisa que o Mathews trouxe."
 
-updated: 2026-10-01
+  - claim: "A capa mostra título, os três autores e o selo da Penso."
+    source: "covers/pub--penso--fixe-o-conhecimento--2018.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

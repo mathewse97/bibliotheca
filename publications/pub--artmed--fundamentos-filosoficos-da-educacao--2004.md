@@ -55,8 +55,7 @@ cover:
   source_type: retailer
   represents: publication
   checked: 2026-09-22
-  rights_note: "Imagem de capa usada como identificação bibliográfica em acervo
-                pessoal privado."
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
   - retailer: amazon-br

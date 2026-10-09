@@ -63,6 +63,17 @@ contains:
                                vive no registro da obra e não foi apagada
                                aqui."
 
+cover:
+  file: covers/pub--wmf-martins-fontes--guia-pratico-da-autossuficiencia--2011.webp
+  source: "https://m.media-amazon.com/images/I/71i-sSw3D5L._SL1100_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8578274067, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/Guia-pr%C3%A1tico-autossufici%C3%AAncia-John-Seymour/dp/8578274067"
@@ -99,8 +110,14 @@ provenance:
     tier_note: "Não é uma fonte: é uma verificação sobre o identificador."
     retrieved: 2026-09-06
     confidence: verified
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8578274067."
+    source: "covers/pub--wmf-martins-fontes--guia-pratico-da-autossuficiencia--2011.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação

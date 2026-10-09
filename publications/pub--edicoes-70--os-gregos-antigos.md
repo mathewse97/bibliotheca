@@ -39,6 +39,18 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--edicoes-70--os-gregos-antigos.webp
+  source: "https://skoob.s3.amazonaws.com/livros/314499/OS_GREGOS_ANTIGOS_1365209986B.jpg
+           — capa da edição
+           https://skoob.com.br/pt/book/os-gregos-antigos-lugar-da-historia-23-314499ed352242.html
+           (Edições 70, 2002, 180 p., ISBN 9789724403304), baixada em 2026-10-09"
+  source_type: catalogue
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition: []
 
 provenance:
@@ -51,8 +63,19 @@ provenance:
     note: "Ele declarou que fez a curadoria das edições e que verificará
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
+  - claim: "Capa tomada da ficha da edição no Skoob (Edições 70, coleção Lugar
+            da História nº 23, 2002, 180 p., ISBN-13 9789724403304)."
+    source: "covers/pub--edicoes-70--os-gregos-antigos.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Capa com a cratera ática e o selo Lugar da História. A ficha traz o
+           ISBN deste registro. As impressões de 1984/1988 da mesma coleção
+           têm OUTRA capa (fundo marrom com moldura e figura equestre) — não
+           usar fotos delas. A imagem da Amazon para este ISBN é de outro
+           livro."
 
-updated: 2026-09-12
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -37,6 +37,30 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--b4-editores--manual-do-arquiteto-descalco--2014.webp
+  source: "https://m.media-amazon.com/images/I/61-5KiwDD0L._SL1000_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8565358666, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8565358666"
+    listing_id: "8565358666"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o mesmo ISBN-13 deste registro (conferido na
+                 página em 2026-10-09)."
+    format_listed: capa-dura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
+
 provenance:
   - claim: "B4 Editores, 1ª edição, 2014, 716 páginas, ISBN 978-85-6535-866-8."
     source: "https://www.travessa.com.br/manual-do-arquiteto-descalco/artigo/42b77fb5-1c10-4919-9a23-4aedcf4d359f"
@@ -48,8 +72,14 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-06
     confidence: reported
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8565358666."
+    source: "covers/pub--b4-editores--manual-do-arquiteto-descalco--2014.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação

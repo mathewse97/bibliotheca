@@ -36,6 +36,30 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--grove-press--what-the-buddha-taught--1974.webp
+  source: "https://m.media-amazon.com/images/I/817p8BrrRmL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/0802130313, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/0802130313"
+    listing_id: "0802130313"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o mesmo ISBN-13 deste registro (conferido na
+                 página em 2026-10-09)."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
+
 provenance:
   - claim: "Grove Press, 2ª edição ampliada, 192 p., ISBN 9780802130310, com
             prefácio de Paul Demiéville, seleção de textos do cânone páli
@@ -45,7 +69,14 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/0802130313."
+    source: "covers/pub--grove-press--what-the-buddha-taught--1974.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "A capa diz “Revised and expanded edition with texts from Suttas and Dhammapada”, com prefácio de Paul Demiéville — a 2ª edição da Grove (1974), coerente com o registro. O ISBN confere."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

@@ -41,6 +41,17 @@ contains:
     completeness: complete
     apparatus: []
 
+cover:
+  file: covers/pub--the-experiment--secret-world-of-weather--2023.webp
+  source: "https://m.media-amazon.com/images/I/81l0qHqDQLL._SL1500_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/1615191488, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
 acquisition:
   - retailer: amazon-br
     url: "https://www.amazon.com.br/dp/1615191488"
@@ -74,8 +85,14 @@ provenance:
     note: "A editora não diz QUAL tiragem, e o exemplar não traz essa
            informação na capa. Na prática: se a página 73 vier truncada, a
            correção está publicada no site."
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/1615191488."
+    source: "covers/pub--the-experiment--secret-world-of-weather--2023.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-23
+updated: 2026-10-09
 ---
 
 ## Avaliação

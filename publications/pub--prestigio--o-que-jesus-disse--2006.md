@@ -37,6 +37,31 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--prestigio--o-que-jesus-disse--2006.webp
+  source: "https://m.media-amazon.com/images/I/61FFmNEFKaL._SL1448_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/B003QANHWE, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/B003QANHWE"
+    listing_id: "B003QANHWE"
+    match_basis: unconfirmed
+    match_note: "O anúncio não nomeia editora; dá 245 páginas, como o registro,
+                 e ISBN-13 978-85-00-02158-9. Guardado como pista até a
+                 edição ser confirmada."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
+
 provenance:
   - claim: "São Paulo: Prestígio, 2006, 245 p., tradução de Marcos Marcionilo.
             Referência ABNT completa em tese da PUC-Rio, corroborada por
@@ -45,7 +70,14 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/B003QANHWE."
+    source: "covers/pub--prestigio--o-que-jesus-disse--2006.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: reported
+    note: "A capa mostra título, subtítulo 'Quem mudou a Bíblia e por quê' e autor; não traz selo de editora visível. O anúncio, sem editora, dá 245 páginas — o mesmo número do registro — e ISBN-13 978-85-00-02158-9, que o registro não tinha e não foi gravado. Correspondência provável, não confirmada."
+
+updated: 2026-10-09
 ---
 
 ## Avaliação

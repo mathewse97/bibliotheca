@@ -37,6 +37,30 @@ contains:
     completeness: null
     apparatus: []
 
+cover:
+  file: covers/pub--technical-books--rastros-de-mamiferos-silvestres-brasileiros--2013.webp
+  source: "https://m.media-amazon.com/images/I/71Up4FDfgWL._SL1050_.jpg — imagem
+           do anúncio https://www.amazon.com.br/dp/8561368306, baixada
+           pelo navegador em 2026-10-09"
+  source_type: retailer
+  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
+  represents: publication
+  checked: 2026-10-09
+  rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
+
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8561368306"
+    listing_id: "8561368306"
+    match_basis: isbn13
+    match_note: "O anúncio exibe o mesmo ISBN-13 deste registro (conferido na
+                 página em 2026-10-09)."
+    format_listed: brochura
+    price_band: null
+    availability: null
+    checked: 2026-10-09
+    checked_by: claude
+
 provenance:
   - claim: "Becker, M., & Dalponte, J. C. (2013). 3ª edição, Technical Books; ISBN 978-85-61368-30-2."
     source: "https://procarnivoros.org.br/publicacao/becker-m-dalponte-j-c-2013-rastros-de-mamiferos-silvestres-brasileiros-um-guia-de-campo-3a-technical-books/"
@@ -44,8 +68,14 @@ provenance:
     tier_note: "Citação bibliográfica de instituição científica."
     retrieved: 2026-09-06
     confidence: reported
+  - claim: "Capa tomada do anúncio https://www.amazon.com.br/dp/8561368306."
+    source: "covers/pub--technical-books--rastros-de-mamiferos-silvestres-brasileiros--2013.webp"
+    source_tier: null
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-09-06
+updated: 2026-10-09
 ---
 
 ## Avaliação
