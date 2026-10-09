@@ -1563,3 +1563,79 @@ ivone-moreira:
   note: "Tradutora, não autora. Traduziu e introduziu as Reflexões sobre a
          Revolução em França de Burke (Fundação Calouste Gulbenkian, 2015)."
   role: translator
+
+paulo-geiger:
+  name_display: "Paulo Geiger"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Sobre a liberdade e A sujeição das
+         mulheres, de Mill, para a Penguin-Companhia (2017)."
+  role: translator
+
+alan-ryan:
+  name_display: "Alan Ryan"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Mill. Autor da introdução da edição Penguin-Companhia de
+         Sobre a liberdade / A sujeição das mulheres."
+
+bottmann:
+  name_display: "Denise Bottmann"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu Considerações sobre o governo
+         representativo, de Mill, para a L&PM (2018)."
+  role: translator
+
+enderle:
+  name_display: "Rubens Enderle"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Texto final da tradução de A ideologia alemã
+         (Boitempo, 2007), com Nélio Schneider e Luciano Cavini Martorano."
+  role: translator
+
+nelio-schneider:
+  name_display: "Nélio Schneider"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Cotradutor de A ideologia alemã (Boitempo, 2007)."
+  role: translator
+
+martorano:
+  name_display: "Luciano Cavini Martorano"
+  name_variants: ["Luciano Martorano"]
+  dates: null
+  note: "Tradutor, não autor. Cotradutor de A ideologia alemã (Boitempo, 2007)."
+  role: translator
+
+rodnei-nascimento:
+  name_display: "Rodnei Nascimento"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu História e consciência de classe, de
+         Lukács, para a Martins Fontes / WMF Martins Fontes."
+  role: translator
+
+robespierre-oliveira:
+  name_display: "Robespierre de Oliveira"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Primeiro nome da equipe que traduziu O homem
+         unidimensional, de Marcuse, para a Edipro (2015)."
+  role: translator
+
+kellner:
+  name_display: "Douglas Kellner"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Marcuse. Autor da introdução à segunda edição de O homem
+         unidimensional, reproduzida na edição da Edipro (2015)."
+
+franco-de-sa:
+  name_display: "Alexandre Franco de Sá"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu, introduziu e anotou O conceito do
+         político, de Carl Schmitt, para as Edições 70."
+  role: translator

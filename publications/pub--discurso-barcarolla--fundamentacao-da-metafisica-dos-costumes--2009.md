@@ -33,7 +33,7 @@ source_of_record: claude
 contains:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-kant-fundamentacao: mesma tradução de Guido Antônio de Almeida que a edição de 2025, na versão bilíngue original. Esgotada; só usada."
+    reason: "Alternativa registrada (cartão d-ed-kant-fundamentacao, decidido em 2026-10-09 pela opção A): mesma tradução de Guido Antônio de Almeida que a edição de 2025, na versão bilíngue original. Esgotada; só usada."
     translator: [guido-almeida]
     translated_from: direct
     source_text: null
@@ -100,4 +100,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-kant-fundamentacao.** É a primeira edição da tradução de Guido Antônio de Almeida, bilíngue, com introdução e notas, adotada em curso da USP e resenhada na Kantian Review. Esgotada: só se encontra usada.
+**Alternativa.** O Mathews escolheu, em 2026-10-09, a versão revista de 2025 (cartão d-ed-kant-fundamentacao). É a primeira edição da tradução de Guido Antônio de Almeida, bilíngue, com introdução e notas, adotada em curso da USP e resenhada na Kantian Review. Esgotada: só se encontra usada.

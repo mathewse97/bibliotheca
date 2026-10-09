@@ -29,14 +29,15 @@ missing:
   - "Se é bilíngue: a descrição não diz, e as 240 páginas contra as 501 da edição de 2009 indicam que não é — não confirmado"
   - "O que a revisão de 2025 mudou na tradução de 2009"
   - "Comparação com Paulo Quintela (Edições 70)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-kant-fundamentacao: a tradução de Guido
-             Antônio de Almeida na versão revista e corrigida de 2025, em
-             catálogo. Exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-09 (cartão d-ed-kant-fundamentacao,
+             opção A): a tradução de Guido Antônio de Almeida na versão revista
+             e corrigida, em catálogo. Sem comparação de texto com a versão de
+             2009, sem veredito formal."
     translator: [guido-almeida]
     translated_from: direct
     source_text: null
@@ -82,7 +83,7 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão `d-ed-kant-fundamentacao`.** Em
+**Edição escolhida pelo Mathews em 2026-10-09** (cartão `d-ed-kant-fundamentacao`, opção A). Em
 2026-10-09 eu registrei esta edição como escolha minha sem mostrar a pesquisa;
 o Mathews cobrou os porquês, e a pesquisa refeita está no registro da obra
 (`works/kant--grundlegung-zur-metaphysik-der-sitten.md`, seção *Edições*). Ela

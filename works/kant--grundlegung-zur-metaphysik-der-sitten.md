@@ -17,8 +17,9 @@ subjects: [autonomia, dever, imperativo-categorico, dignidade,
            boa-vontade, lei-moral]
 
 research_status: partially_researched
-missing: ["escolha da edição: em decisão no cartão d-ed-kant-fundamentacao
-           (pesquisa de 2026-10-09 na seção Edições)",
+missing: ["veredito formal de edição: o Mathews escolheu em 2026-10-09 a
+           tradução de Guido de Almeida revista (Ideias & Letras, 2025),
+           cartão d-ed-kant-fundamentacao; pesquisa na seção Edições",
           "transmissão textual e edição crítica de referência do original",
           "candidatos nas faixas português, espanhol, italiano e inglês",
           "avaliação acadêmica das traduções",
@@ -101,6 +102,8 @@ idioma. O §F.3 dá preferência à bilíngue dentro da faixa — o que favorece
 mas A é a versão corrigida pelo próprio tradutor e está em catálogo, e B só se
 acha usada. O §6 do procedimento manda perguntar quando há dois candidatos
 equivalentes: daí o cartão `d-ed-kant-fundamentacao`.
+
+**Decisão do Mathews, 2026-10-09:** opção A — Ideias & Letras, 2025.
 
 **Fontes:** anúncios da Amazon (tier 7) para A, B, C e D; Estante Virtual e
 Skoob (tier 7) para B; ementa da FFLCH-USP e resenha na *Kantian Review*
