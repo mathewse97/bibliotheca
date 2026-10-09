@@ -24,12 +24,9 @@ links:
   publisher: "https://editoraunesp.com.br/catalogo/9786557113219,democracia-e-educacao"
   catalogue: ""
 
-verified_fields: [title_as_published, publisher, year, tradutor, apresentacao]
+verified_fields: [title_as_published, publisher, year, tradutor, apresentacao, pages, format, isbn13]
 research_status: partially_researched
 missing:
-  - "PÁGINAS (464), DIMENSÕES (13,7 × 21 cm), NÚMERO DA EDIÇÃO (1ª) e ISBN:
-     informados pelo Mathews e confirmados só pelo anúncio da Amazon (tier 7);
-     a página da editora não abriu deste ambiente"
   - "Texto-base da tradução (edição de 1916 ou edição crítica das Middle
      Works) e se é direta do inglês"
   - "Alternativa: a tradução histórica de Godofredo Rangel e Anísio Teixeira
@@ -50,9 +47,13 @@ contains:
 
 cover:
   file: covers/pub--unesp--democracia-e-educacao--2026.webp
-  source: "https://m.media-amazon.com/images/I/61VijwDBJyL._SL1500_.jpg — imagem
-           principal do anúncio https://www.amazon.com.br/dp/6557113216, baixada
-           pelo navegador em 2026-10-09"
+  source: "https://static.estantevirtual.com.br/book/00/QN5-7040-000/QN5-7040-000_detail1.jpg
+           — imagem de catálogo da página
+           https://www.estantevirtual.com.br/livro/democracia-e-educacao-QN5-7040-000-BK
+           (ISBN 9786557113219), baixada pelo navegador em 2026-10-09. É a mesma
+           arte da capa publicada pela editora em
+           https://editoraunesp.com.br/catalogo/9786557113219,democracia-e-educacao,
+           que só a oferece em 200 × 299 px"
   source_type: retailer
   format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
   represents: publication
@@ -99,11 +100,24 @@ provenance:
     confidence: reported
     note: "Primeira fonte vista que exibe o ISBN: confere com o que o Mathews
            informou. Varejo — estabelece o objeto, não a qualidade."
-  - claim: "A capa mostra título, autor, o selo da Editora Unesp e a coleção “Diálogos em História da Educação” na lombada."
+  - claim: "A capa é a arte plana da edição: título, autor, selos da SBHE e da
+            Editora Unesp e a coleção Diálogos em História da Educação —
+            Clássicos na faixa lateral."
     source: "covers/pub--unesp--democracia-e-educacao--2026.webp"
     source_tier: null
     retrieved: 2026-10-09
     confidence: verified
+    note: "Substitui a foto do livro em ângulo que vinha do anúncio da Amazon.
+           Comparada lado a lado com a imagem da página da editora: idênticas."
+  - claim: "Editora Unesp, 2026, 1ª edição, 464 páginas, brochura, 13,7 × 21 cm,
+            560 g, ISBN 9786557113219, tradução de Guilherme Mirage Umeda,
+            apresentação de Carlota Boto."
+    source: "https://editoraunesp.com.br/catalogo/9786557113219,democracia-e-educacao"
+    source_tier: 1
+    retrieved: 2026-10-09
+    confidence: verified
+    note: "A página da editora abriu deste ambiente pela primeira vez e
+           confirma tudo o que o Mathews tinha informado."
     note: "A imagem do anúncio é FOTO do livro físico, em ângulo, e não a arte plana da capa. Serve como identificação até haver uma melhor."
 
 updated: 2026-10-09
