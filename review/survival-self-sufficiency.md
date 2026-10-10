@@ -264,3 +264,43 @@ dos quatro foi criado.
 Instrução explícita sua: não mudar agora. Continua em `Cultura`, com o
 raciocínio curatorial que já lá estava. Nenhum arquivo relacionado foi lido
 nem editado nesta rodada.
+
+## 9 · Medicina sem médico: há obras melhores que Werner e Dickson? (2026-10-10)
+
+Pesquisa pedida pelo Mathews depois que a Etapa 1 mostrou que as edições
+brasileiras de *Onde não há médico* e *Onde não há dentista* são de décadas
+atrás. Ele disse que não precisa manter essas obras se houver outras melhores
+sobre os mesmos pontos. A decisão está no cartão `d-sob-medicina`.
+
+**O que Werner e Dickson fazem na coleção.** São os únicos membros de
+"Medicina e socorro" sobre cuidado **continuado** sem médico — doenças comuns,
+infecções, medicamentos, parto, dentes. Silva e Conforto e o PHTLS supõem que
+haverá atendimento depois; Hoffmann trata de ervas. Uma substituta tem de
+cobrir esse mesmo terreno, não o dos primeiros socorros.
+
+**Contra Werner.** Babu e Eisenberg fizeram uma avaliação sistemática do livro
+e concluíram que, sendo um grande recurso, ele "contém problemas consideráveis
+nas recomendações de diagnóstico e tratamento", e que não está claro quanto ele
+melhora a saúde de quem não tem formação médica
+(faculty.washington.edu/dtae/manuscripts/wtind complete PDF March 9 2010.pdf,
+lido pelo resumo da busca; edição avaliada não conferida). O livro foi escrito
+para agentes de saúde em vilas pobres; a coleção pergunta pelo que fazer
+quando o sistema some.
+
+**Candidatas encontradas** (anúncios da Amazon, tier 7, salvo indicação):
+
+| Obra | Dados | Leitura |
+|---|---|---|
+| Alton e Alton, *The Survival Medicine Handbook*, 4ª ed. | Doom and Bloom, 2021, 694 p., ISBN 978-0988872509 | Parte do princípio de que hospitais e médicos não estarão disponíveis; trauma, primeiros socorros, doenças crônicas, procedimentos, plantas medicinais; 300+ tópicos e ilustrações. Resenha da OFFGRID elogia a revisão da 4ª ed. **Substituta direta de Werner.** |
+| Hubbard, *The Survival Doctor's Complete Handbook* | Trusted Media Brands, 2016, 288 p., ISBN 978-1621453055 | Mesma proposta, mais curta; médico de família com 30 anos de prática. |
+| Schlaad e Schlaad (org.), *Medicina em áreas remotas no Brasil* | Manole, 2019, 544 p., ISBN 978-8578683733 | Primeiro livro brasileiro de medicina de expedições e áreas remotas; escrito para profissionais de saúde. Único com o contexto brasileiro. |
+| Paulo Willian, *Medicina de Emergência em Áreas Remotas* | Dialética, 2025, 332 p., capa dura, ISBN 978-6527074922 | Protocolos de emergência adaptados aos biomas brasileiros; foco em emergência. |
+| Schimelpfenig, *NOLS Wilderness Medicine*, 7ª ed. | Stackpole, 2021, 392 p. (há edição em espanhol de 2016) | Primeiros socorros até a evacuação. Fora do terreno de Werner. |
+| Auerbach e outros, *Medicine for the Outdoors*, 7ª ed. | Elsevier, 2023, 576 p. | Idem; traz emergências dentárias. |
+| Met Clark, *Emergency Dentistry Handbook* | Paladin Press, 2011, 80 p. | Única alternativa específica a Dickson; curta demais para substituí-lo. |
+
+**Conclusão.** Para Werner há substituta melhor: Alton. Para Dickson não há —
+a edição inglesa revista em 2018 continua a melhor obra sobre o tema. Nenhuma
+obra em português cobre o cuidado continuado sem médico; Schlaad é a melhor
+fonte brasileira e complementa pelo contexto local.
+

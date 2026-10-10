@@ -346,6 +346,31 @@ items:
     - "A região psicologia-do-desenvolvimento está no mapa desde a importação, declarada thin, e nunca teve uma obra. A nota dela nomeia estágios e mediação — Piaget e Vigotski —, não ciência da memória: não é o lugar destas duas."
     - "Hirsch entrou em 2026-09-23 com argumento de ciência cognitiva, mas para defender uma posição de currículo. É o que mais se aproxima no acervo, e ainda assim não é o mesmo gênero."
 
+- id: d-sob-medicina
+  kind: obra
+  collections: [survival-self-sufficiency]
+  priority: media
+  state: decidir
+  source: review/survival-self-sufficiency.md §9
+  question: "Trocar *Onde não há médico* por um manual de medicina de sobrevivência mais atual?"
+  why: "Você pediu para pesquisar se há obras melhores sobre os mesmos temas. Werner e Dickson foram escritos nos anos 1970–80 para agentes de saúde em vilas pobres, não para quem fica sem sistema de saúde por tempo indeterminado. Uma avaliação sistemática de Werner (Babu e Eisenberg) achou 'problemas consideráveis' nas recomendações de diagnóstico e tratamento. A edição brasileira de cada um está décadas desatualizada. A pesquisa está em review/survival-self-sufficiency.md §9."
+  update: "Este cartão vem antes dos cartões d-ed-werner e d-ed-dickson: se Werner sair, d-ed-werner é arquivado."
+  options:
+    - {key: A, recommended: true, title: "Trocar Werner por Alton e incluir Schlaad", effect: "Sai *Onde não há médico*. Entra *The Survival Medicine Handbook*, 4ª ed. (2021), como manual principal, e *Medicina em áreas remotas no Brasil* (Manole, 2019) como referência em português para o contexto brasileiro. Dickson fica, na edição inglesa revista em 2018. Eu registro obras e edições."}
+    - {key: B, title: "Só trocar Werner por Alton", effect: "Sai Werner, entra Alton. Nenhuma obra brasileira entra. Dickson fica."}
+    - {key: C, title: "Manter Werner e Dickson e incluir Alton", effect: "Nada sai; Alton entra como complemento. Os cartões de edição de Werner e Dickson continuam valendo."}
+    - {key: D, title: "Nada muda", effect: "A coleção fica como está; os cartões d-ed-werner e d-ed-dickson continuam abertos."}
+  recommendation: "Alton responde exatamente à pergunta da coleção: o livro parte do princípio de que hospital e médico não estão disponíveis por tempo indefinido, e cobre o que Werner cobre (infecções, doenças comuns, medicamentos, parto, dentes) e mais: cuidado de doenças crônicas, procedimentos e plantas medicinais. É de 2021, escrito por um médico e uma enfermeira de prática avançada, com cerca de 700 páginas. Schlaad entra porque nenhum dos manuais estrangeiros trata do que é específico do Brasil, como animais peçonhentos e doenças tropicais. Dickson fica porque não achei nada melhor sobre dentes: a única alternativa específica, o manual de Met Clark (2011), tem 80 páginas."
+  composition: true
+  composition_note: "Medicina e socorro hoje: Dickson, Werner, Silva e Conforto (primeiros socorros), PHTLS (trauma pré-hospitalar), Hoffmann (ervas). Os dois últimos supõem que haverá atendimento depois; só Werner e Dickson tratam do cuidado continuado sem médico."
+  candidates:
+    - {title: "The Survival Medicine Handbook (4ª ed.)", author: "Joseph Alton e Amy Alton · 2021", verdict: resolve, best: true, adds: "O manual que assume que a ajuda não vem: trauma, primeiros socorros, doenças crônicas, infecções, procedimentos, dentes, plantas medicinais. Mais de 300 tópicos e 300 ilustrações.", facts: ["694 p., Doom and Bloom", "+Atualizado em 2021", "-Só em inglês", "Importado"]}
+    - {title: "Medicina em áreas remotas no Brasil", author: "Juliana e Sascha Schlaad (org.) · 2019", verdict: complementa, adds: "O primeiro livro brasileiro de medicina de expedição e áreas remotas: prevenção, diagnóstico e tratamento das afecções mais comuns longe dos centros médicos.", facts: ["544 p., Manole", "+Português, contexto brasileiro", "-Escrito para profissionais de saúde; supõe evacuação", "~R$ 152"]}
+    - {title: "The Survival Doctor's Complete Handbook", author: "James Hubbard · 2016", verdict: resolve, adds: "Mesma proposta de Alton, mais curto, por médico de família com 30 anos de prática.", facts: ["288 p., Reader's Digest/Trusted Media", "-Menos completo que Alton", "-Só em inglês"]}
+    - {title: "Medicina de Emergência em Áreas Remotas", author: "Paulo Willian · 2025", verdict: complementa, adds: "Protocolos de emergência adaptados aos biomas brasileiros, em 46 capítulos.", facts: ["332 p., Dialética, capa dura", "+Português, recente", "-Para profissionais; foco em emergência, não em cuidado continuado"]}
+    - {title: "NOLS Wilderness Medicine (7ª ed.) e Medicine for the Outdoors (7ª ed.)", author: "Schimelpfenig, 2021 · Auerbach e outros, 2023", verdict: outra, adds: "Excelentes, mas são primeiros socorros para estabilizar até a evacuação — o terreno que Silva e Conforto e o PHTLS já cobrem na coleção.", facts: ["Inglês", "NOLS tem edição em espanhol (2016)"]}
+    - {title: "Emergency Dentistry Handbook", author: "Met Clark · 2011", verdict: outra, adds: "Odontologia em ambientes austeros, mas tem só 80 páginas: não substitui Dickson.", facts: ["Paladin Press"]}
+
 # ============================== ESCOLHER EDIÇÃO =============================
 
 - id: d-ed-republica
