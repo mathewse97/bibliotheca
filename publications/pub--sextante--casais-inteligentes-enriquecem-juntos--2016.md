@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: cerbasi--casais-inteligentes-enriquecem-juntos
+    why: "Seu exemplar."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10."
     translator: null

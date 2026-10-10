@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: mill--on-liberty
+    why: "Edição física em português, com A sujeição das mulheres no mesmo volume."
     verdict: unassessed
     reason: "Atende à sua indicação (edição acadêmica física em português), escolhida em 2026-10-09 entre seis candidatos — ver a seção Edições da obra. Sem comparação de texto, sem veredito formal."
     translator: [paulo-geiger]

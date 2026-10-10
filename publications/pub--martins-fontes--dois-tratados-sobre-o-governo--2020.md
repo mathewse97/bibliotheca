@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: locke--second-treatise
+    why: "Sua indicação: o Segundo Tratado vem neste volume, com o Primeiro."
     verdict: unassessed
     reason: "Confere com a sua indicação (Martins Fontes, Dois Tratados); o Segundo Tratado vem dentro deste volume."
     translator: []

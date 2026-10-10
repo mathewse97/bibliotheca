@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: gooley--the-lost-art-of-reading-natures-signs
+    why: "Mesma editora e formato do outro livro de Gooley, para os dois ficarem iguais na estante. O texto é o mesmo em todas as edições."
     verdict: recommended
     reason: "Escolha dele, 2026-09-23, entre três edições em inglês da mesma
              obra. Critério declarado: mesma editora e mesma família de formato

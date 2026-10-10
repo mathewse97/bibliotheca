@@ -35,6 +35,7 @@ source_of_record: voce
 
 contains:
   - work: lobo--entre-a-honra-e-o-nada
+    why: "Seu exemplar. Única edição impressa."
     verdict: unassessed
     reason: "O exemplar físico do Mathews. Única edição impressa conhecida; o
              e-book Kindle usa o mesmo ISBN."

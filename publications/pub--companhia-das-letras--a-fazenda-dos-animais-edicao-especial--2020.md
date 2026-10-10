@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: orwell--animal-farm
+    why: "Tradução de Paulo Henriques Britto, com o título original e fortuna crítica."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-revolucao-dos-bichos, adotando a recomendação)."
     translator: [paulo-britto]

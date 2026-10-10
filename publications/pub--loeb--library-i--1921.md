@@ -36,6 +36,7 @@ source_of_record: claude
 
 contains:
   - work: pseudo-apolodoro--bibliotheke
+    why: "Bilíngue e obtenível; as notas de Frazer comparam cada mito com as outras versões antigas. A edição italiana da Valla fica registrada como referência de estudo."
     verdict: alternative
     reason: "Alternativa bilíngue acessível, não a edição de referência em
              comentário. As notas de Frazer fazem bem uma coisa específica:

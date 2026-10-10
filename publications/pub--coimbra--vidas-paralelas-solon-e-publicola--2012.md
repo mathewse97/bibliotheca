@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--solon
+    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra. Única edição acadêmica em português deste par."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: tradução direta do grego, com introdução e notas, da série de Coimbra já usada para as outras Vidas da coleção. É a única edição acadêmica em português deste par. Ver a seção Edições da obra."
     translator: [delfim-leao, brandao]

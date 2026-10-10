@@ -38,6 +38,7 @@ source_of_record: claude
 
 contains:
   - work: brown-roediger-mcdaniel--make-it-stick
+    why: "Única tradução brasileira, com notas, leituras sugeridas e apresentação brasileira."
     verdict: unassessed
     reason: "Candidato único: não há outra tradução brasileira desta obra para
              comparar, e sem alternativa examinada não há veredito honesto.

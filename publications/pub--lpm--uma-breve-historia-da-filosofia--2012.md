@@ -29,6 +29,7 @@ source_of_record: claude
 
 contains:
   - work: warburton--a-little-history-of-philosophy
+    why: "A introdução à filosofia recomendada; única edição brasileira."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10 (curadoria das fotos, por pedido do Mathews): a introdução recomendada no lugar de Kleinman, Tudo que você precisa saber sobre filosofia. Única edição brasileira encontrada."
     translator: [bettoni]

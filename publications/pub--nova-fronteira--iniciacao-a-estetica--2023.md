@@ -34,6 +34,7 @@ source_of_record: claude
 
 contains:
   - work: suassuna--iniciacao-a-estetica
+    why: "Original em português, em catálogo."
     verdict: unassessed
     reason: "Original em português, sem tradução envolvida. Nenhuma edição alternativa foi comparada: reedições do mesmo texto não pedem comparação de tradução."
     translator: []

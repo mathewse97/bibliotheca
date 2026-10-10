@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--ta-meta-ta-physika
+    why: "Primeira tradução direta do grego publicada no Brasil. Cobre só parte da obra."
     verdict: recommended
     reason: "Primeira tradução direta do grego publicada no Brasil. Preferida apesar de cobrir apenas parte da obra."
     translator: [castilho-moreira]

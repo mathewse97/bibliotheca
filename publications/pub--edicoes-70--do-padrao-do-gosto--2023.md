@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: hume--of-the-standard-of-taste
+    why: "A única edição organizada em torno do próprio ensaio, com os textos de Hume sobre arte e beleza. Em português de Portugal; importada."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10, no lugar da Iluminuras: é a única edição organizada em torno do próprio ensaio, reunindo só os textos de Hume sobre arte e beleza. Português de Portugal; importada. Ver a seção Edições da obra."
     translator: [pedro-galvao]

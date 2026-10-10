@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: werner--donde-no-hay-doctor
+    why: "Única edição brasileira. A informação médica é de décadas atrás."
     verdict: unassessed
     reason: "Candidato do cartão d-ed-werner, arquivado em 2026-10-10: a obra saiu de Sobrevivência (cartão d-sob-medicina). Única edição brasileira, com informação médica de décadas atrás."
     translator: null

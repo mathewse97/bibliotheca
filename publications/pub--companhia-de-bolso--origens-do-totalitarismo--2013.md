@@ -32,6 +32,7 @@ source_of_record: voce
 
 contains:
   - work: arendt--origins-of-totalitarianism
+    why: "Única tradução brasileira (Roberto Raposo); hoje só circula nova neste formato de bolso."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (Companhia das Letras, trad. Roberto Raposo), verificada em 2026-10-10: a tradução de Raposo é a única brasileira, e hoje só circula nova neste formato de bolso do grupo Companhia (a edição de formato comum, de 1989, está esgotada). Ver a seção Edições da obra."
     translator: [raposo]

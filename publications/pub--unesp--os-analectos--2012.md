@@ -32,6 +32,7 @@ source_of_record: voce
 
 contains:
   - work: confucio--lunyu
+    why: "Sua indicação: a tradução de Giorgio Sinedino, direta do chinês e bilíngue."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (tradução de Giorgio Sinedino); localizada e registrada em 2026-10-09. Sem comparação com alternativas, sem veredito."
     translator: [sinedino]

@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: mill--representative-government
+    why: "Tradução de Denise Bottmann, a mais recente e confiável, em catálogo."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-mill-governo-representativo, adotando a recomendação)."
     translator: [bottmann]

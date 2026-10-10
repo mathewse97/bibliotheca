@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: levitsky-ziblatt--how-democracies-die
+    why: "Única edição brasileira."
     verdict: unassessed
     reason: "Única edição brasileira."
     translator: ["Renato Aguiar"]

@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: scruton--culture-counts
+    why: "Única edição brasileira."
     verdict: unassessed
     reason: "Única edição brasileira identificada. Sem saber quem traduziu, não há como julgar a tradução nem compará-la ao original inglês (Culture Counts, 2007)."
     translator: []

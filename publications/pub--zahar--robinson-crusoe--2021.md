@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: defoe--robinson-crusoe
+    why: "Seu exemplar: tradução integral de José Roberto O'Shea, comentada e ilustrada."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Alternativa com mais aparato crítico: Ubu, 2021 (trad. Leonardo Fróes, com ensaios de Coetzee, Woolf, Joyce e outros); o Mathews decidiu manter a que tem."
     translator: [oshea]

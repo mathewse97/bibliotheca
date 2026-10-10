@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: ehrman--misquoting-jesus
+    why: "Sua escolha: a reedição da mesma tradução de Marcos Marcionilo."
     verdict: unassessed
     reason: "Reedição da mesma tradução da primeira edição brasileira (Prestígio 2006); escolhida por você em 2026-09-25."
     translator: ["Marcos Marcionilo"]

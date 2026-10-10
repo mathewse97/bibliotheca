@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: rothbard--the-ethics-of-liberty
+    why: "Sua indicação: a edição ligada ao Instituto Mises Brasil."
     verdict: unassessed
     reason: "Confere com a sua indicação (Instituto Mises Brasil): a LVM é a editora ligada ao instituto — a verificar."
     translator: []

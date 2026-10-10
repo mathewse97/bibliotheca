@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: maquiavel--il-principe
+    why: "Sua indicação: a tradução de Maurício Santana Dias, direta do italiano."
     verdict: unassessed
     reason: "Confere com a sua indicação (Penguin-Companhia, trad. Maurício Santana Dias)."
     translator: ["Maurício Santana Dias"]

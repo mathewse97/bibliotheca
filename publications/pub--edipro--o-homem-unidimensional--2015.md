@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: marcuse--one-dimensional-man
+    why: "Única tradução brasileira em catálogo, com a introdução de Douglas Kellner."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09: única tradução brasileira em catálogo, direta do inglês, com a introdução de Kellner. A antiga tradução da Zahar (A ideologia da sociedade industrial) está fora de catálogo. Ver a seção Edições da obra."
     translator: [robespierre-oliveira]

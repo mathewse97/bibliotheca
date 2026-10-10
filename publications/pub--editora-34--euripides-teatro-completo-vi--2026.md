@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--bakchai
+    why: "Fecha a série de Eurípides que você já usa: mesmo tradutor (Jaa Torrano), bilíngue. Lançamento em 26/10/2026."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-bacantes). Fecha a série que o Mathews usa para Eurípides (volumes I a V)."
     translator: [torrano]

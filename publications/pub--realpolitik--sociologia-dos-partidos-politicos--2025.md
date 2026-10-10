@@ -32,6 +32,7 @@ source_of_record: voce
 
 contains:
   - work: michels--zur-soziologie-des-parteiwesens
+    why: "Brasileira, integral, direta do alemão e com revisão técnica acadêmica."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-michels, adotando a recomendação)."
     translator: [clistenes-fernandes]

@@ -30,6 +30,7 @@ source_of_record: voce
 
 contains:
   - work: rawls--a-theory-of-justice
+    why: "Tradução da edição revista de 1999, com revisão técnica de Álvaro de Vita."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (Martins Fontes, trad. Jussara Simões, rev. técnica de Álvaro de Vita), verificada em 2026-10-10: é a tradução da edição revista (1999), e esta é a impressão em catálogo. A tradução anterior da casa (Almiro Pisetta e Lenita Esteves, 1997) segue o texto de 1971. Ver a seção Edições da obra."
     translator: [jussara-simoes]

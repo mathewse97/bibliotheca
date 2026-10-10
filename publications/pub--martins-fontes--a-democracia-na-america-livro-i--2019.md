@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: tocqueville--de-la-democratie-en-amerique
+    why: "Sua indicação. Este é o Livro I; o Livro II sai em volume separado."
     verdict: unassessed
     reason: "Confere com a sua indicação (Martins Fontes). É só o LIVRO I; a obra tem um Livro II em volume separado, que não foi registrado."
     translator: []

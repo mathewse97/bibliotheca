@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: sunzi--bingfa
+    why: "Única tradução direta do chinês, bilíngue, com comentários do tradutor."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-sunzi, adotando a recomendação)."
     translator: [chiu-yi-chih]

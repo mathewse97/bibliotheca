@@ -40,6 +40,7 @@ source_of_record: voce
 
 contains:
   - work: newman--the-idea-of-a-university
+    why: "Sua escolha."
     verdict: unassessed
     reason: "Edição escolhida pelo Mathews; tradução e completude não
              examinadas, alternativa da EDUSC não pesquisada."

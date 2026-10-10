@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: shakespeare--coriolanus
+    why: "Tradução de Barbara Heliodora, com notas; a única seleção da Nova Fronteira que traz Coriolano."
     verdict: unassessed
     reason: "Nenhuma tradução alternativa foi pesquisada. Esta é a única das
              seleções da Nova Fronteira que traz Coriolano."

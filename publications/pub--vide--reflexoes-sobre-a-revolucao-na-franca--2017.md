@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: burke--reflections-france
+    why: "Brasileira e em catálogo, com muitas notas e introdução de João Pereira Coutinho, especialista em Burke."
     verdict: unassessed
     reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-burke, opção recomendada B): brasileira, em catálogo, anotada e com introdução de especialista."
     translator: []

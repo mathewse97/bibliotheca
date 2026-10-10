@@ -32,6 +32,7 @@ source_of_record: voce
 
 contains:
   - work: dostoievski--besy
+    why: "Sua indicação: a tradução de Paulo Bezerra, direta do russo."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (Editora 34, trad. Paulo Bezerra); localizada e registrada em 2026-10-09."
     translator: [paulo-bezerra]

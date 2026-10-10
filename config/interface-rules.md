@@ -183,3 +183,26 @@ A página de uma edição mostra **todas** as obras do volume. As que estão em
 alguma coleção têm link; as que não estão em nenhuma são listadas pelo campo
 `also_contains` da publicação, com a marca "fora das coleções". Nunca guardar
 esse conteúdo só em comentário do arquivo: comentário não chega à tela.
+
+## 9 · Por que esta edição — 2026-10-10
+
+Pedido do Mathews: o motivo da escolha de edição tem de aparecer na tela, curto
+e objetivo.
+
+- **Campo `why`** em cada item de `contains` da publicação: uma ou duas frases,
+  escritas para o leitor (ele é "você"), dizendo o que faz desta edição a
+  escolha — tradutor, tradução direta, aparato, ser o exemplar dele, ser a
+  única. **Não cita outras edições**, salvo quando a escolha aceitou uma
+  concessão (língua, importação, só usado) — aí diz a concessão, não a rival.
+  Sem jargão interno: nada de ids de cartão, `verdict` ou "ver a seção".
+- `reason` continua sendo o registro de trabalho, mais longo; `why` é o que a
+  interface mostra.
+- **Página da obra**, abaixo das edições: bloco "Por que esta edição". Sem
+  `why`, o bloco diz "A escolha ainda não foi comparada com outras edições" e
+  mostra os dados da tradução — nunca inventa um motivo. Logo abaixo, recolhida,
+  a "Pesquisa de edições": a seção `## Edições…` do corpo da obra.
+- **Página da edição**: o mesmo `why` e, recolhidas, as "Notas da pesquisa"
+  (seção `## Avaliação` do corpo da publicação).
+- **Cartões decididos**: além da escolha, "Ver as opções e os motivos",
+  recolhido, com as edições ou opções, prós e contras e a recomendação.
+- Ao escolher ou trocar uma edição, o agente escreve o `why` na mesma mudança.

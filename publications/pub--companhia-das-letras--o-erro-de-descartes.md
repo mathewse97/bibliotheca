@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: damasio--descartes-error
+    why: "Única edição em catálogo na editora."
     verdict: unassessed
     reason: "Única edição corrente identificada na própria editora."
     translator: ["Dora Vicente", "Georgina Segurado"]

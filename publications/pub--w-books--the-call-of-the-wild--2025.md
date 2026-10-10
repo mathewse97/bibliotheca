@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: london--the-call-of-the-wild
+    why: "Seu exemplar."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Reimpressão sem aparato. Recomendação registrada: a Oxford World's Classics (org. Earle Labor, com White Fang e contos); o Mathews vai ler esta e decidir depois."
     translator: null

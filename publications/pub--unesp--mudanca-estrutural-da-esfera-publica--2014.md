@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: habermas--strukturwandel-der-oeffentlichkeit
+    why: "A tradução mais recente (Denilson Luís Werle, 2014), por editora universitária, em catálogo."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: a tradução mais recente (Denilson Luís Werle, 2014), em catálogo, por editora universitária; a única alternativa é a da Tempo Brasileiro (Flávio R. Kothe, 1984), que só se acha usada. Ver a seção Edições da obra."
     translator: [werle]

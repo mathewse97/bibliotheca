@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: zamiatin--my
+    why: "Editora de referência em tradução do russo, com posfácio de Cássio de Oliveira."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-zamiatin, adotando a recomendação)."
     translator: [francisco-araujo]

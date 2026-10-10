@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: orwell--politics-and-the-english-language
+    why: "Coletânea de ensaios de Orwell em catálogo em que o ensaio está confirmado."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09 por atender à indicação do Mathews (o ensaio dentro de uma coletânea de Orwell): é a coletânea em catálogo em que a presença do ensaio está confirmada. Ver a seção Edições da obra."
     translator: [claudio-marcondes]

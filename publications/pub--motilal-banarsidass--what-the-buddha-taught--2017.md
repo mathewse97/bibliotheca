@@ -30,6 +30,7 @@ source_of_record: voce
 
 contains:
   - work: rahula--what-the-buddha-taught
+    why: "Sua escolha."
     verdict: unassessed
     reason: "Escolhida por você em 2026-09-25."
     translator: []

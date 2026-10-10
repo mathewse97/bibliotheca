@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--perikles
+    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: tradução direta do grego, com introdução e notas, da mesma série de Coimbra já usada para as outras Vidas da coleção; esta é a edição brasileira, vendida nova no Brasil. Ver a seção Edições da obra."
     translator: [ana-ferreira, alia-rodrigues]

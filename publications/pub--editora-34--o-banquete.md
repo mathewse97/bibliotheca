@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: platao--symposion
+    why: "Tradução de especialista (José Cavalcante de Souza), bilíngue, com notas e ensaio."
     verdict: recommended
     reason: "Tradução de especialista (tese de doutorado de 1961, a primeira em Língua e Literatura Grega no Brasil), com notas e ensaio, revista e bilíngue. Superior em aparato à alternativa EDUFPA (C. A. Nunes, introdução de V. S. Pinheiro), que também é bilíngue e está indisponível na loja da editora. Provisório até examinar faixas es/it/en."
     translator: [cavalcante-souza]
