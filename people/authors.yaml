@@ -2079,3 +2079,16 @@ bettoni:
   note: "Tradutor, não autor. Traduziu Uma breve história da filosofia, de
          Nigel Warburton (L&PM, 2012)."
   role: translator
+
+dickinson:
+  name_display: "Terence Dickinson"
+  name_variants: []
+  dates: null
+  note: "Divulgador canadense de astronomia amadora; autor de NightWatch e
+         coautor de The Backyard Astronomer's Guide."
+
+dyer:
+  name_display: "Alan Dyer"
+  name_variants: []
+  dates: null
+  note: "Coautor, com Terence Dickinson, de The Backyard Astronomer's Guide."

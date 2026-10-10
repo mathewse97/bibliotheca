@@ -50,17 +50,6 @@ interface — 12 itens. Os que têm consequência estrutural:
   `sources/lists/`). As `edition_pref` marcadas `by: voce` em Política não
   podem, por isso, ser conferidas contra o texto original. Se o Mathews tiver
   a lista, ela deve ser arquivada nesse caminho.
-- **Curadoria das fotos de 2026-10-10 — duas decisões pendentes do Mathews.**
-  Registradas: 11 obras (Bushcraft de Costa e Lorenzi e Matos em
-  Sobrevivência; Cline em Greco-Romana; Ahrens em Educação; Krakauer, Leclerc,
-  Stevenson, Defoe, London, Warburton e Cerbasi sem coleção, com
-  pending_assignment). Pendentes: (1) *O Caibalion* — ele recusou a edição que
-  tem; falta decidir se entra na edição comentada de Deslippe (Pensamento,
-  2018) ou se não entra; (2) astronomia — *Turn Left at Orion* não cumpre o
-  papel do *Manual do astrônomo* de Mourão (não ensina a construir
-  telescópio); falta ele escolher. Não entraram, por decisão dele: Vasconcelos,
-  Bukkyō Dendō Kyōkai, Mabbett (Pink Floyd), Christopherson, os dois Balbach,
-  Da Vinci (Abril), O Pretoriano, Kleinman.
 - **Relações ainda não escritas** para `dostoievski--besy`, `zamiatin--my` e
   `orwell--animal-farm`: nenhuma parceira defensável encontrada. Ausência
   honesta, não esquecimento.
