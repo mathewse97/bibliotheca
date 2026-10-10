@@ -552,6 +552,17 @@ sequence:
     why_here_by: claude
     publication_pref: pub--penso--fixe-o-conhecimento--2018
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (curadoria das fotos).
+  - work: ahrens--how-to-take-smart-notes
+    role: supplementary
+    demand: leve
+    why_here: "Uma técnica de estudo e escrita — o fichamento de Luhmann — que
+               põe em prática o que Dehaene e Make It Stick explicam: aprender
+               é elaborar e reescrever, não reler."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--auster--como-escrever-boas-notas--2023   # seu exemplar
+
 paths: []                      # nenhum ainda — 12 obras não pedem compressão
 
 tensions:
@@ -587,7 +598,15 @@ original_order: [marrou--histoire-de-leducation-dans-lantiquite,
   miriam-joseph--the-trivium,
   bauer-wise--the-well-trained-mind]
 
-order_changes: []              # nada movido
+order_changes:
+  - work: ahrens--how-to-take-smart-notes
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento VIII, depois de brown-roediger-mcdaniel--make-it-stick"
+    approved_by: voce
+    date: 2026-10-10
+    reason: "Exemplar seu; inclusão decidida por você na curadoria das fotos."
+    reversible_by: "Remover a participação e o registro da obra."
 
 structural_changes:
   - kind: add-movement
