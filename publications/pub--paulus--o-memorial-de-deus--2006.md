@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: smith--the-memoirs-of-god
+    why: "Única edição em português, em catálogo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

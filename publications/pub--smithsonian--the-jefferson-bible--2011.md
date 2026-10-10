@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: jefferson--the-life-and-morals-of-jesus-of-nazareth
+    why: "Fac-símile em cores do volume que Jefferson recortou e colou, com as colunas em grego, latim, francês e inglês. Não há tradução."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

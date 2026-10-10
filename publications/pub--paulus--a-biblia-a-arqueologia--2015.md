@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda
+    why: "Original em português, em catálogo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

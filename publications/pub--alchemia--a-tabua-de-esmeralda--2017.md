@@ -2,13 +2,13 @@
 id: pub--alchemia--a-tabua-de-esmeralda--2017
 title_as_published: "A Tábua de Esmeralda"
 publisher: "Alchemia"
-publisher_country: US
+publisher_country: null        # edição independente do próprio tradutor, impressa sob demanda
 series: null
 year: 2017
-language: en
+language: pt-BR                 # corrigido em 2026-10-10: o livro é em português
 bilingual: false
 bilingual_pair: null           # não verificado no livro (§E.2 passo 5)
-editor: null
+editor: [fabio-r-de-araujo]
 introduction_by: null
 register: popular
 framing: null
@@ -28,10 +28,11 @@ source_of_record: voce
 
 contains:
   - work: tabula-smaragdina
+    why: "Traz o texto latino, a tradução e as versões de Newton e de Roger Bacon. Não há edição acadêmica impressa em português ou espanhol."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
-    translator: []
-    translated_from: unknown
+    translator: [fabio-r-de-araujo]
+    translated_from: direct      # do latim, segundo os anúncios; traz o texto latino e as versões de Newton e Roger Bacon
     source_text: null
     completeness: null
     apparatus: []

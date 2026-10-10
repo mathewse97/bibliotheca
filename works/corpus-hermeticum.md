@@ -50,6 +50,9 @@ provenance:
     retrieved: 2026-09-20
     confidence: reported
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Hermetica, trad. Brian Copenhaver, Cambridge, 1992", note: "O padrão acadêmico em inglês, com o Asclépio; complemento."}
+  - {edition: "Corpus Hermeticum, Hemus", note: "Indireta e parcial."}
 ---
 
 ## Fatos

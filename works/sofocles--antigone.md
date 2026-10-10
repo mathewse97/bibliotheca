@@ -76,7 +76,7 @@ derived_from:
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-27
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, mas avulsa. Em decisão."}
+  - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, mas avulsa: separaria a peça das outras duas tebanas."}
   - {edition: "Perspectiva, 2009, trad. Trajano Vieira", note: "Avulsa."}
 ---
 
@@ -115,5 +115,5 @@ verificar.
 | B | Lawrence Flores Pereira, direta do grego | Penguin-Companhia, 2023, 232 p. (antes Topbooks, 2006) — só *Antígona* | a mais elogiada artisticamente: distingue na forma o coro e as partes dramáticas |
 | C | Trajano Vieira | Perspectiva, 2009 | citada em estudos pela leitura mais literal de certas passagens |
 
-**Em aberto:** cartão `d-ed-antigona`. A cobre as três peças; B é a melhor
-*Antígona* isolada.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão `d-ed-antigona`. A cobre
+as três peças; B é a melhor *Antígona* isolada.

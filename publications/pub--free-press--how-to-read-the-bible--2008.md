@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: kugel--how-to-read-the-bible
+    why: "Não há tradução para o português nem para o espanhol; a brochura inglesa é a forma mais fácil de achar o texto completo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

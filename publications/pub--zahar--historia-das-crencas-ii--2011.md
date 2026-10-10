@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: eliade--histoire-des-croyances-ii
+    why: "Única tradução brasileira completa, direta do francês, em catálogo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [cortes-de-lacerda]

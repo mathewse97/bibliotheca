@@ -4,7 +4,7 @@ title_as_published: "Bíblia — Volume I: Novo Testamento, Os quatro evangelhos
 publisher: "Companhia das Letras"
 publisher_country: BR
 series: null
-year: null
+year: 2017
 language: pt-BR
 bilingual: false
 bilingual_pair: null           # não verificado no livro (§E.2 passo 5)
@@ -13,7 +13,7 @@ introduction_by: null
 register: academic
 framing: null
 format: []
-pages: null
+pages: 424
 isbn13: "9788535928815"
 
 availability_br: em-catalogo
@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: evangelhos-canonicos
+    why: "Tradução direta do grego, de Frederico Lourenço, com notas que explicam o texto sem tomar partido religioso."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [frederico-lourenco]

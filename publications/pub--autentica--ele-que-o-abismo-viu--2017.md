@@ -32,7 +32,7 @@ contains:
     why: "Tradução de Jacyntho Lins Brandão, direta do acádio e anotada: as notas fazem diferença numa coleção de estudo da religião."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
-    translator: [brandao]
+    translator: [jacyntho-lins-brandao]
     translated_from: direct
     source_text: "acádio"
     completeness: null

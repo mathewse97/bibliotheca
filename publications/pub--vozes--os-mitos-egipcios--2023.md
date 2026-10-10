@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: shaw--the-egyptian-myths
+    why: "Única edição em português, traduzida por uma egiptóloga."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [thais-rocha-silva]

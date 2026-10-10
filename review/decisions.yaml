@@ -430,7 +430,8 @@ items:
   kind: edicao
   collections: [religion]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — confirmada: a Mantra (2021) é a edição que você indicou, traduzida do páli por José Carlos Calazans, bilíngue.", note: "Pesquisa de 2026-10-10: a ficha da Estante Virtual do mesmo ISBN (978-65-990262-0-1) se chama 'Dhammapada – EDIPRO e Jair Lot Vieira', editora Mantra, e a sinopse credita a tradução do páli a Calazans, com texto páli e transliteração."}
   question: "A edição registrada do *Dhammapada* é a que você quer?"
   why: "Você indicou \"EDIPRO; Jair Lot Vieira\". A registrada é a da Mantra (2021), tradução de José Carlos Calazans — e o anúncio dela credita justamente \"EDIPRO, Jair Lot Vieira\". Pode ser o mesmo livro, mas isso não foi confirmado."
   editions:
@@ -923,11 +924,43 @@ items:
   recommendation: "A, pelo tradutor, que é o mesmo da Genealogia da moral nesta coleção, e porque é a tradução que a bibliografia brasileira mais cita. Escolha B se preferir o título e a terminologia mais próximos de Freud, com glossário. Se preferir capa dura, o vol. 18 das Obras completas tem a mesma tradução de A."
   recommended: A
 
+- id: d-ed-xavier
+  kind: edicao
+  collections: [religion]
+  priority: media
+  state: decidir
+  question: "Em que edição ler as cartas de São Francisco Xavier?"
+  why: "A registrada é a tradução inglesa do Institute of Jesuit Sources (1992), sua indicação. Existe uma edição completa em português, publicada no Brasil: as *Obras completas*, com todos os escritos de Xavier. Pelas regras da biblioteca, o português vem antes do inglês quando a qualidade é comparável."
+  editions:
+    - key: A
+      pub: pub--jesuit-sources--letters-and-instructions--1992
+      label: "Institute of Jesuit Sources, 1992 — M. Joseph Costelloe"
+      status: "Registrada · aparece hoje"
+      facts: [["Tradução","M. Joseph Costelloe, S.J., com introdução e notas"],["Conteúdo","138 cartas e instruções"],["Formato","Inglês, 488 p."]]
+      pros: ["Sua indicação", "Introdução e notas de especialista"]
+      cons: ["Em inglês"]
+    - key: B
+      label: "Obras completas, Loyola / Apostolado da Oração, 2006 — Francisco de Sales Baptista"
+      status: "Não registrada"
+      facts: [["Tradução","Francisco de Sales Baptista, S.J."],["Conteúdo","Todos os escritos conhecidos de Xavier"],["Formato","Português, cerca de 820 p."],["Situação","Disponibilidade no Brasil não confirmada (provavelmente usada)"]]
+      pros: ["Em português", "Completa", "Usada em artigos acadêmicos brasileiros"]
+      cons: ["Notas e aparato não confirmados"]
+    - key: C
+      label: "Cartas y escritos, BAC, 1996 — Félix Zubillaga"
+      status: "Não registrada"
+      facts: [["Texto","O original castelhano da maioria das cartas, pela edição crítica"],["Formato","Espanhol, 556 p."],["Situação","Só usada"]]
+      pros: ["O texto original, com notas de especialista"]
+      cons: ["Em espanhol; só usada"]
+  options: []
+  recommendation: "B: é completa e em português, e a ordem de línguas da biblioteca a põe antes do inglês. Fique com A se as notas de Costelloe pesarem mais para você que a língua."
+  recommended: B
+
 - id: d-ed-antigona
   kind: edicao
   collections: [political-thought, greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Zahar, A trilogia tebana, trad. Mário da Gama Kury.", note: "Decisão do Mathews, seguindo a recomendação."}
   question: "Em que edição ler *Antígona*, de Sófocles?"
   why: "Hoje a *Antígona* está na *Trilogia tebana* da Zahar (Mário da Gama Kury), sua indicação, que traz também os dois *Édipos* da coleção Greco-Romana. Existe uma *Antígona* avulsa mais elogiada como tradução: a de Lawrence Flores Pereira (Penguin-Companhia, 2023)."
   editions:

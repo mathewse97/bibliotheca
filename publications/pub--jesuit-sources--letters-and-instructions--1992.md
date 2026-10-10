@@ -28,11 +28,12 @@ source_of_record: voce
 
 contains:
   - work: xavier--epistolae
+    why: "Tradução inglesa completa e anotada das cartas e instruções. Há uma edição completa em português; a escolha está em decisão."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [costelloe]
     translated_from: direct
-    source_text: "edição crítica latina (Monumenta Historica Societatis Iesu)"
+    source_text: "Monumenta Historica Societatis Iesu (Epistolae S. Francisci Xaverii, Schurhammer e Wicki, 1944–45): título latino, mas os originais são quase todos em castelhano e alguns em português"
     completeness: null
     apparatus: []
 

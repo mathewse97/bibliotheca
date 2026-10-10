@@ -46,6 +46,8 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Beacon Press; Applewood Books", note: "Só o texto inglês, sem o fac-símile das quatro colunas."}
 ---
 
 ## Fatos

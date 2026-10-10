@@ -47,6 +47,8 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "The Emerald Tablet, Brian Cotnoir, Khepri Press, 2014", note: "Traduções novas das versões árabe e latina, mas em tiragem de luxo, praticamente inacessível."}
 ---
 
 ## Fatos
