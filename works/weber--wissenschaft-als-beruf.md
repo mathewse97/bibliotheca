@@ -62,6 +62,9 @@ provenance:
            date_written, NÃO foi confirmada nesta fonte e continua por
            verificar."
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Martin Claret, 2015, trad. Marco Antônio Casanova", note: "Tradutor do alemão; edição não confirmada."}
+  - {edition: "Portugal, 2017, trad. Artur Morão", note: "Português de Portugal."}
 ---
 
 ## Fatos

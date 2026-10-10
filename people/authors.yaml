@@ -2122,3 +2122,11 @@ francisco-de-sales-baptista:
   note: "Tradutor, não autor. Jesuíta; organizou e traduziu as Obras completas
          de São Francisco Xavier (Edições Loyola / Apostolado da Oração, 2006)."
   role: translator
+
+lucia-mathilde-endlich-orth:
+  name_display: "Lúcia Mathilde Endlich Orth"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu Sociedade sem escolas, de Ivan Illich
+         (Vozes, 1973; 7ª ed. 1985)."
+  role: translator

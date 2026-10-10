@@ -35,6 +35,7 @@ source_of_record: claude
 
 contains:
   - work: ozmon-craver--philosophical-foundations-of-education
+    why: "Única tradução brasileira do manual."
     verdict: unassessed
     reason: "Candidato único. Nenhuma alternativa foi pesquisada — decisão dele
              em 2026-09-22, que dispensou a comparação com Noddings e Carr

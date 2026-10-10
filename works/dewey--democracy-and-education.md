@@ -64,4 +64,6 @@ derived_from:
          Unesp; o que pude conferir está em provenance, o resto em missing
          da publicação."
 updated: 2026-10-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Companhia Editora Nacional, 1952, trad. Godofredo Rangel e Anísio Teixeira", note: "A tradução histórica; só usada."}
 ---

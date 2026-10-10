@@ -32,10 +32,11 @@ source_of_record: claude
 
 contains:
   - work: illich--deschooling-society
+    why: "Única tradução em português, de Lúcia Mathilde Endlich Orth."
     verdict: unassessed
     reason: "Único candidato identificado até agora — não há comparação com
              alternativas porque nenhuma foi pesquisada."
-    translator: []
+    translator: [lucia-mathilde-endlich-orth]
     translated_from: direct
     source_text: null
     completeness: null
