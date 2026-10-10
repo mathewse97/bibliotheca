@@ -33,7 +33,7 @@ source_of_record: voce
 contains:
   - work: sunzi--bingfa
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-sunzi. Tradução indireta (do inglês de Sawyer); existindo tradução direta do chinês (Edipro, 2021), o §F.1 a recusa."
+    reason: "Alternativa: o cartão d-ed-sunzi foi decidido em 2026-10-10 por outra edição. Tradução indireta (do inglês de Sawyer); existindo tradução direta do chinês (Edipro, 2021), o §F.1 a recusa."
     translator: [cotrim]
     translated_from: via:en
     source_text: null

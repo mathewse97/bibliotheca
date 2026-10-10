@@ -31,7 +31,7 @@ source_of_record: voce
 contains:
   - work: orwell--animal-farm
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-revolucao-dos-bichos. Atende à indicação registrada (Companhia das Letras, trad. Heitor Aquino Ferreira, tradução de 1964)."
+    reason: "Alternativa: o cartão d-ed-revolucao-dos-bichos foi decidido em 2026-10-10 por outra edição. Atende à indicação registrada (Companhia das Letras, trad. Heitor Aquino Ferreira, tradução de 1964)."
     translator: [heitor-ferreira]
     translated_from: direct
     source_text: null

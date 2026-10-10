@@ -28,12 +28,12 @@ missing:
   - "Tradutora: o anúncio desta edição não nomeia; a edição de bolso da Martins Fontes (1993) traz Cristina Murachco — presume-se a mesma tradução, não confirmado"
   - "Confirmação em fonte de nível 1 (página da Martins Fontes)"
   - "Disponibilidade: o anúncio não mostra oferta ativa"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: montesquieu--de-lesprit-des-lois
     verdict: unassessed
-    reason: "Atende à indicação do Mathews (edição acadêmica brasileira da Martins Fontes); localizada e registrada em 2026-10-09."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada."
     translator: [murachco]
     translated_from: direct
     source_text: null

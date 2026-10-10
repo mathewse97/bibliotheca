@@ -28,12 +28,12 @@ missing:
   - "Segundo ISBN: o Skoob registra a mesma edição (mesma capa, selo Realpolitik) com ISBN 978-65-83386-05-2 e 463 p., e outra ficha com 978-65-83386-07-6, 440 p., atribuída a 'Logos'; a Estante Virtual vende a de ISBN ...07-6 como Realpolitik, capa dura. Provavelmente clube e livraria, não confirmado"
   - "Qual edição alemã serve de base: a de 1911 ou a de 1925 (que acrescenta quase mil notas)"
   - "A página da editora não abre deste ambiente; dados lidos pelo resumo da busca"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: michels--zur-soziologie-des-parteiwesens
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-michels, recomendado: tradução direta do alemão, com as notas do autor e revisão técnica acadêmica. Exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-michels, adotando a recomendação)."
     translator: [clistenes-fernandes]
     translated_from: direct
     source_text: null
@@ -90,4 +90,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — recomendada no cartão d-ed-michels.** É a única tradução brasileira declaradamente direta do alemão, com o aparato do autor e revisão técnica de uma cientista política. Falta saber se traduz a edição de 1911 ou a de 1925.
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-michels). É a única tradução brasileira declaradamente direta do alemão, com o aparato do autor e revisão técnica de uma cientista política. Falta saber se traduz a edição de 1911 ou a de 1925.

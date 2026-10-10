@@ -27,12 +27,12 @@ research_status: partially_researched
 missing:
   - "Confirmação de que a tradução é direta do russo (presumível pela casa e pela coleção; não declarado nas fontes lidas)"
   - "Conteúdo do aparato (posfácio de Cássio de Oliveira; resenha de Orwell e carta a Stálin aparecem em outras edições)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: zamiatin--my
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-zamiatin, recomendado; exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-zamiatin, adotando a recomendação)."
     translator: [francisco-araujo]
     translated_from: direct
     source_text: null
@@ -78,4 +78,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-zamiatin.**
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-zamiatin).

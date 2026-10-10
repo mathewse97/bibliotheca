@@ -27,12 +27,12 @@ research_status: partially_researched
 missing:
   - "Aparato: se há introdução ou notas"
   - "Confirmação em fonte de nível 1 (página da L&PM)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: mill--representative-government
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-mill-governo-representativo; exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-mill-governo-representativo, adotando a recomendação)."
     translator: [bottmann]
     translated_from: direct
     source_text: null
@@ -78,4 +78,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-mill-governo-representativo.** Tradução recente de Denise Bottmann, em formato de bolso e em catálogo.
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-mill-governo-representativo). Tradução recente de Denise Bottmann, em formato de bolso e em catálogo.
