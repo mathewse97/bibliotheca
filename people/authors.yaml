@@ -1833,20 +1833,13 @@ jussara-simoes:
          com revisão técnica de Álvaro de Vita."
   role: translator
 
-suzuki:
-  name_display: "Márcio Suzuki"
+pedro-galvao:
+  name_display: "Pedro Galvão"
   name_variants: []
   dates: null
-  note: "Tradutor, não autor. Traduziu, com Pedro Paulo Pimenta, ensaios de
-         David Hume (A arte de escrever ensaio, Iluminuras, 2008)."
-  role: translator
-
-pedro-pimenta:
-  name_display: "Pedro Paulo Pimenta"
-  name_variants: ["Pedro Pimenta", "Pedro Paulo Garrido Pimenta"]
-  dates: null
-  note: "Tradutor e organizador. Selecionou e traduziu, com Márcio Suzuki,
-         ensaios de David Hume (Iluminuras, 2008)."
+  note: "Tradutor e organizador. Organizou e traduziu Do padrão do gosto e
+         outros ensaios sobre as artes e a beleza, de David Hume (Edições 70,
+         2023)."
   role: translator
 
 enid-dobranszky:
