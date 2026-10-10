@@ -42,3 +42,23 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+Indicação do Mathews: "Martins Fontes, trad. Jussara Simões, revisão técnica
+de Álvaro de Vita". De onde veio: a lista original de Política, que não
+está no repositório (ver STATE.md).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Jussara Simões, rev. técnica de Álvaro de Vita — da **edição revista** (1999) | Martins Fontes, 4ª ed., 2016, 816 p., ISBN 978-85-8063-267-5 (3ª ed., 2008) | **nova**, em catálogo |
+| B | Almiro Pisetta e Lenita M. R. Esteves — do texto de 1971 | Martins Fontes, 1997 / 2002 | substituída por A no catálogo da casa (presumido; não verificado) |
+| C | Carlos Pinto Correia | Editorial Presença (Lisboa) | portuguesa |
+
+**Verificação.** A quarta capa de A diz que a tradução segue a nova edição
+inglesa, com as revisões de Rawls desde 1975 e o Prefácio à Edição Revista.
+Os créditos de Jussara Simões e Álvaro de Vita estão confirmados para a 3ª
+edição (2008); presume-se que a 4ª reimprime a mesma tradução.
+
+**Escolha: A**, a sua indicação, verificada. É também a melhor das três: a
+única brasileira que traduz o texto que Rawls considerou definitivo.

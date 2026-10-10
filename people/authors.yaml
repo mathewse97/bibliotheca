@@ -1774,3 +1774,60 @@ joao-coutinho:
   dates: null
   note: "Estudioso de Burke. Autor do ensaio introdutório da edição da Vide
          Editorial das Reflexões sobre a Revolução na França."
+
+raposo:
+  name_display: "Roberto Raposo"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Origens do totalitarismo, de Hannah
+         Arendt (Companhia das Letras, 1989; Companhia de Bolso, 2013)."
+  role: translator
+
+miguel-freitas-da-costa:
+  name_display: "Miguel Freitas da Costa"
+  name_variants: ["Miguel Freitas Costa"]
+  dates: null
+  note: "Tradutor, não autor. Traduziu A Sociedade Aberta e os Seus Inimigos,
+         de Karl Popper (Edições 70, Lisboa, 2012–2013)."
+  role: translator
+
+wamberto-ferreira:
+  name_display: "Wamberto Hudson Ferreira"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Quatro ensaios sobre a liberdade, de
+         Isaiah Berlin (Editora UnB, 1981)."
+  role: translator
+
+rosaura-eichenberg:
+  name_display: "Rosaura Eichenberg"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu ensaios de Isaiah Berlin para a
+         Companhia das Letras (Estudos sobre a humanidade, 2002)."
+  role: translator
+
+werle:
+  name_display: "Denilson Luís Werle"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Mudança estrutural da esfera pública,
+         de Jürgen Habermas (Editora Unesp, 2014)."
+  role: translator
+
+beatriz-sidou:
+  name_display: "Beatriz Sidou"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu Sobre a democracia, de Robert Dahl
+         (Editora UnB, 2001)."
+  role: translator
+
+jussara-simoes:
+  name_display: "Jussara Simões"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu Uma teoria da justiça, de John
+         Rawls, a partir da edição revista (Martins Fontes, 2008 e reimpressões),
+         com revisão técnica de Álvaro de Vita."
+  role: translator

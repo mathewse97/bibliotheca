@@ -67,3 +67,19 @@ tempo no Instituto e foi empurrado para fora por Horkheimer.
 Entra no movimento VIII, entre as tentativas de reconstrução — ao lado de
 Dahl, *Sobre a Democracia*, e Rawls, *Uma Teoria da Justiça* —, e não no
 movimento da tradição marxista, porque o que ele faz é responder a ela.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews (obra acrescentada por Claude).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Denilson Luís Werle | Editora Unesp, 2014, 568 p., ISBN 978-85-393-0513-1 | **nova**, em catálogo (14 ofertas novas na Estante Virtual, a partir de R$ 59,90) |
+| B | Flávio R. Kothe | Tempo Brasileiro, Biblioteca Tempo Universitário 76, 398 p. (anúncios e citações dão 2003; a 1ª edição é anterior, ano não conferido) | esgotada; usada |
+
+**Faixas.** As duas são brasileiras, acadêmicas e integrais. A é a tradução
+mais recente, de editora universitária, por tradutor que verteu outras obras
+de Habermas para a mesma casa; B só se acha usada. Não se conferiu se A traz
+o prefácio de Habermas à reedição alemã de 1990.
+
+**Escolha: A.** Sem empate a decidir: as fontes não dão nenhuma vantagem a B.
