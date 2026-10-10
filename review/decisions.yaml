@@ -482,7 +482,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Olivelle, Oxford University Press, 2013.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição do *Arthashastra*, de Kautilya?"
   why: "Você pediu tradução acadêmica integral e direta do sânscrito, em português caso existisse. A única em português é uma autopublicação que não diz de que língua traduziu; as traduções acadêmicas diretas estão em inglês. Nenhuma edição está registrada."
   editions:
@@ -512,7 +513,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Khoury, Safady/IBF, 1958–1960.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição da *Muqaddimah*, de Ibn Khaldun?"
   why: "Você pediu edição integral traduzida diretamente do árabe. A edição em português à venda hoje (independente, 2026, 3 volumes) declara ser traduzida a partir da edição francesa — tradução indireta, que as regras da biblioteca recusam quando existe direta. Nenhuma edição está registrada."
   editions:
@@ -542,7 +544,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — L&PM Pocket, 2018, trad. Denise Bottmann.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *Considerações sobre o governo representativo*, de Mill?"
   why: "Você pediu uma edição acadêmica brasileira. A que mais se parece com isso é antiga e só se acha usada; a tradução boa em catálogo é de bolso. Hoje a interface exibe a de bolso, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -567,7 +570,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "B — Realpolitik, 2025, trad. Clístenes Hafner Fernandes.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *Sociologia dos partidos políticos*, de Michels?"
   why: "Você pediu edição brasileira integral, de preferência acadêmica. Pesquisei mais, como você pediu: a edição nova da Realpolitik é a primeira tradução brasileira feita diretamente do alemão, com as notas do autor e revisão técnica acadêmica. Ela é exibida hoje, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -598,7 +602,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Editora 34, 2017, trad. Francisco de Araújo.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *Nós*, de Zamiátin?"
   why: "Você pediu edição brasileira integral, de preferência traduzida do russo. Há três assim em catálogo e nenhuma fonte as compara. Hoje a interface exibe a da Editora 34, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -629,7 +634,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Biblioteca Azul, edição especial 2022, trad. Fabio Fernandes.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *Admirável mundo novo*, de Huxley?"
   why: "Você pediu edição brasileira de referência com boa tradução integral. Há duas traduções em catálogo, ambas da Biblioteca Azul: a clássica e uma nova, de 2022. Nenhuma fonte as compara. Hoje a interface exibe a nova, provisoriamente."
   editions:
@@ -654,7 +660,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Companhia das Letras, edição especial 2019.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *1984*, de Orwell?"
   why: "A edição que estava registrada como sua indicação (Companhia das Letras, trad. Heloisa Jahn e Alexandre Hubner) tem uma versão especial da mesma casa, com a mesma tradução e muito mais aparato. Hoje a interface exibe a especial, provisoriamente."
   editions:
@@ -686,7 +693,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Companhia das Letras, A Fazenda dos Animais, edição especial 2020, trad. Paulo Henriques Britto.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *A revolução dos bichos* / *A Fazenda dos Animais*, de Orwell?"
   why: "A tradução que estava registrada como sua indicação, de Heitor Aquino Ferreira, é de 1964. Em 2020 a mesma editora publicou tradução nova de Paulo Henriques Britto, com o título original e fortuna crítica; há estudo acadêmico comparando as duas. Hoje a interface exibe a de Britto, provisoriamente."
   editions:
@@ -712,7 +720,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Edipro, 2021, trad. Chiu Yi Chih (bilíngue).", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *A arte da guerra*, de Sun Tzu?"
   why: "A edição registrada antes como sua indicação (WMF Martins Fontes, ed. Sawyer, trad. Ana Aguiar Cotrim) é traduzida do inglês. Existe tradução direta do chinês em catálogo — e, pelas regras da biblioteca, tradução indireta é recusada quando há direta. Hoje a interface exibe a direta, provisoriamente."
   editions:
@@ -738,7 +747,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Martins Fontes, trad. Cristina Murachco.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *O Espírito das Leis*, de Montesquieu?"
   why: "A edição registrada antes como sua indicação (Martins Fontes, trad. Cristina Murachco) hoje só se acha usada. Há duas outras traduções integrais em catálogo; nenhuma fonte encontrada compara as três. A interface continua exibindo a Martins Fontes."
   editions:
@@ -769,7 +779,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "B — Vide Editorial, 2017, prefácio de João Pereira Coutinho.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
   question: "Qual edição das *Reflexões sobre a Revolução em França*, de Burke?"
   why: "A edição registrada antes como sua indicação (Gulbenkian, trad. Ivone Moreira) é portuguesa e difícil de comprar no Brasil — a editora hoje a apresenta como edição digital de acesso aberto. Há duas edições brasileiras em catálogo. A interface continua exibindo a Gulbenkian."
   editions:

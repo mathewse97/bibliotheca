@@ -27,12 +27,12 @@ research_status: partially_researched
 missing:
   - "Lista dos textos da fortuna crítica"
   - "Confirmação em fonte de nível 1 (página da Companhia das Letras)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: orwell--animal-farm
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-revolucao-dos-bichos, recomendado. Exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-revolucao-dos-bichos, adotando a recomendação)."
     translator: [paulo-britto]
     translated_from: direct
     source_text: null
@@ -85,4 +85,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — recomendada no cartão d-ed-revolucao-dos-bichos.** Tradução nova de Paulo Henriques Britto, com fortuna crítica, da mesma casa da edição que o Mathews indicou.
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-revolucao-dos-bichos). Tradução nova de Paulo Henriques Britto, com fortuna crítica, da mesma casa da edição que o Mathews indicou.

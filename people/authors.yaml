@@ -1742,3 +1742,35 @@ chiu-yi-chih:
          mandarim; traduziu do chinês, com comentários e notas, A arte da
          guerra para a Edipro (2021, edição bilíngue)."
   role: translator
+
+olivelle:
+  name_display: "Patrick Olivelle"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Sanscritista; traduziu e anotou o Arthashastra
+         de Kautilya (Oxford University Press, 2013)."
+  role: translator
+
+khoury:
+  name_display: "José Khoury"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu do árabe, com Angelina Bierrenbach
+         Khoury, Os Prolegômenos de Ibn Khaldun (Safady / Instituto Brasileiro
+         de Filosofia, 1958–1960)."
+  role: translator
+
+angelina-khoury:
+  name_display: "Angelina Bierrenbach Khoury"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Cotradutora de Os Prolegômenos de Ibn Khaldun
+         (1958–1960)."
+  role: translator
+
+joao-coutinho:
+  name_display: "João Pereira Coutinho"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Burke. Autor do ensaio introdutório da edição da Vide
+         Editorial das Reflexões sobre a Revolução na França."

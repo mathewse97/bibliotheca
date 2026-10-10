@@ -26,12 +26,12 @@ verified_fields: [title_as_published, publisher, tradutor]
 research_status: partially_researched
 missing:
   - "Confirmação em fonte de nível 1 (página da Companhia das Letras)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: orwell--nineteen-eighty-four
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-1984, recomendado: a mesma tradução da sua indicação, com apresentação e fortuna crítica. Exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-1984, adotando a recomendação)."
     translator: [heloisa-jahn, hubner]
     translated_from: direct
     source_text: null
@@ -78,4 +78,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — recomendada no cartão d-ed-1984.** Mesma tradução da edição de 2009 que o Mathews indicou, acrescida de apresentação e de uma fortuna crítica que cobre a recepção do livro de 1949 até hoje.
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-1984). Mesma tradução da edição de 2009 que o Mathews indicou, acrescida de apresentação e de uma fortuna crítica que cobre a recepção do livro de 1949 até hoje.

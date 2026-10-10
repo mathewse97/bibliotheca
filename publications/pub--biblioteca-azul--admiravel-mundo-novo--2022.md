@@ -27,12 +27,12 @@ research_status: partially_researched
 missing:
   - "Comparação com a tradução clássica da Globo/Biblioteca Azul (Lino Vallandro e Vidal de Oliveira), ainda em catálogo"
   - "Confirmação em fonte de nível 1 (página da Biblioteca Azul)"
-source_of_record: claude
+source_of_record: voce
 
 contains:
   - work: huxley--brave-new-world
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-huxley, recomendado; exibida enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-huxley, adotando a recomendação)."
     translator: [fabio-fernandes]
     translated_from: direct
     source_text: null
@@ -78,4 +78,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-huxley.**
+**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-huxley).

@@ -32,7 +32,7 @@ source_of_record: voce
 contains:
   - work: burke--reflections-france
     verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Fundação Calouste Gulbenkian, trad. Ivone Moreira); localizada e registrada em 2026-10-09."
+    reason: "Alternativa: o cartão d-ed-burke foi decidido em 2026-10-10 pela edição da Vide."
     translator: [ivone-moreira]
     translated_from: direct
     source_text: null

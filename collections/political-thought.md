@@ -161,7 +161,7 @@ sequence:
       text: "Martins Fontes, edição de Ralph D. Sawyer, trad. Ana Aguiar Cotrim."
       by: voce
       verified: true
-    publication_pref: pub--edipro--a-arte-da-guerra--2021   # provisória: a escolha está no cartão d-ed-sunzi (2026-10-10); a ed. Sawyer continua registrada
+    publication_pref: pub--edipro--a-arte-da-guerra--2021   # decisão sua, 2026-10-10 (d-ed-sunzi)
 
   - work: kautilya--arthashastra
     role: primary-source
@@ -175,6 +175,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
+    publication_pref: pub--oxford--king-governance-and-law-in-ancient-india--2013   # decisão sua, 2026-10-10 (d-ed-kautilya)
 
   - work: ibn-khaldun--muqaddimah
     role: foundational
@@ -187,6 +188,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
+    publication_pref: pub--safady--os-prolegomenos--1958   # decisão sua, 2026-10-10 (d-ed-ibn-khaldun)
 
   - movement: "III. Cristianismo e política medieval"
     purpose: "Introduzir a fratura entre duas ordens — a cidade terrena e a
@@ -303,7 +305,7 @@ sequence:
       by: voce
       kind: intencao
       verified: true
-    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # revisão de 2026-10-10: cartão d-ed-montesquieu
+    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # decisão sua, 2026-10-10 (d-ed-montesquieu)
 
   - work: rousseau--du-contrat-social
     core: true
@@ -345,7 +347,7 @@ sequence:
                racionalismo revolucionário."
     why_here_by: voce
     edition_pref: {text: "Fundação Calouste Gulbenkian, trad. Ivone Moreira.", by: voce, verified: true}
-    publication_pref: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015   # revisão de 2026-10-10: cartão d-ed-burke
+    publication_pref: pub--vide--reflexoes-sobre-a-revolucao-na-franca--2017   # decisão sua, 2026-10-10 (d-ed-burke)
 
   - work: tocqueville--de-la-democratie-en-amerique
     core: true
@@ -378,7 +380,7 @@ sequence:
                funcionamento institucional da democracia."
     why_here_by: voce
     edition_pref: {text: "Edição acadêmica brasileira.", by: voce, kind: intencao, verified: false}
-    publication_pref: pub--lpm--consideracoes-sobre-o-governo-representativo--2018   # provisória: a escolha está no cartão d-ed-mill-governo-representativo (2026-10-09)
+    publication_pref: pub--lpm--consideracoes-sobre-o-governo-representativo--2018   # decisão sua, 2026-10-10 (d-ed-mill-governo-representativo)
 
   - movement: "VI. Socialismo, marxismo e revolução"
     purpose: "Introduzir a tradição que fará a crítica mais radical de tudo
@@ -489,7 +491,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
-    publication_pref: pub--realpolitik--sociologia-dos-partidos-politicos--2025   # provisória: a escolha está no cartão d-ed-michels (2026-10-09)
+    publication_pref: pub--realpolitik--sociologia-dos-partidos-politicos--2025   # decisão sua, 2026-10-10 (d-ed-michels)
 
   - work: schmitt--der-begriff-des-politischen
     core: true
@@ -519,7 +521,7 @@ sequence:
       kind: intencao
       verified: false
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--editora-34--nos--2017   # provisória: a escolha está no cartão d-ed-zamiatin (2026-10-09)
+    publication_pref: pub--editora-34--nos--2017   # decisão sua, 2026-10-10 (d-ed-zamiatin)
 
   - work: huxley--brave-new-world
     core: true
@@ -535,7 +537,7 @@ sequence:
       kind: intencao
       verified: false
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--biblioteca-azul--admiravel-mundo-novo--2022   # provisória: a escolha está no cartão d-ed-huxley (2026-10-09)
+    publication_pref: pub--biblioteca-azul--admiravel-mundo-novo--2022   # decisão sua, 2026-10-10 (d-ed-huxley)
 
   - work: arendt--origins-of-totalitarianism
     core: true
@@ -650,7 +652,7 @@ sequence:
     why_here_by: voce
     edition_pref: {text: "Companhia das Letras, trad. Heitor Aquino Ferreira.", by: voce, verified: true}
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020   # provisória: a escolha está no cartão d-ed-revolucao-dos-bichos (2026-10-09); a de 2007 continua registrada
+    publication_pref: pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020   # decisão sua, 2026-10-10 (d-ed-revolucao-dos-bichos)
 
   - work: orwell--nineteen-eighty-four
     core: true
@@ -664,7 +666,7 @@ sequence:
       by: voce
       verified: true
     moved_by: claude             # vinha do movimento X — ver order_changes
-    publication_pref: pub--companhia-das-letras--1984-edicao-especial--2019   # provisória: a escolha está no cartão d-ed-1984 (2026-10-09); a de 2009 continua registrada
+    publication_pref: pub--companhia-das-letras--1984-edicao-especial--2019   # decisão sua, 2026-10-10 (d-ed-1984)
 
   - movement: "VIII. Democracia e justiça contemporâneas"
     purpose: "Depois do diagnóstico do século XX, as duas tentativas de
