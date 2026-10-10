@@ -44,3 +44,13 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+As outras Vidas da coleção (Alexandre–César, Demóstenes–Cícero) estão na
+série *Autores Gregos e Latinos* da Universidade de Coimbra: tradução direta
+do grego, com introdução e notas. A pesquisa seguiu a mesma série.
+
+**Resultado.** O par *Alcibíades e Coriolano* saiu nela: Annablume (Classica Digitalia Brasil), 2011, 208 p., trad. Maria do Céu Fialho e Nuno Simões Rodrigues.
+
+**Escolha: Annablume**, a edição brasileira da série, vendida nova (a partir de R$ 56,70 na Estante Virtual).

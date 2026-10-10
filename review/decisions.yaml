@@ -910,6 +910,70 @@ items:
   recommendation: "A, pelo tradutor, que é o mesmo da Genealogia da moral nesta coleção, e porque é a tradução que a bibliografia brasileira mais cita. Escolha B se preferir o título e a terminologia mais próximos de Freud, com glossário. Se preferir capa dura, o vol. 18 das Obras completas tem a mesma tradução de A."
   recommended: A
 
+- id: d-ed-bacantes
+  kind: edicao
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  question: "Qual edição de *As Bacantes*, de Eurípides?"
+  why: "Antes faltava o volume das Bacantes na série da Editora 34 (trad. Jaa Torrano), que você usa para Eurípides. Agora ele foi anunciado: Teatro completo VI, bilíngue, com lançamento para 26/10/2026. A alternativa forte é a edição comentada de Ordep Serra (2022). Hoje a interface exibe a da Editora 34, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--editora-34--euripides-teatro-completo-vi--2026
+      label: "Editora 34, Teatro completo VI, 2026"
+      status: "Registrada · exibida hoje (provisória) · pré-venda"
+      facts: [["Tradução","Jaa Torrano"],["Formato","Bilíngue grego–português; 480 p.; com Ifigênia em Áulida e Reso"],["Situação","Pré-venda; lançamento anunciado para 26/10/2026"]]
+      pros: ["Fecha a série que você já usa (volumes I a V)", "Bilíngue, o formato que você prefere para obras gregas", "Mesmo tradutor de toda a série"]
+      cons: ["Ainda não lançado"]
+    - key: B
+      pub: pub--odysseus--as-bacantes--2022
+      label: "Odysseus, 2022 — Ordep Serra"
+      status: "Registrada"
+      facts: [["Tradução","Ordep Serra, com introdução, comentário trecho a trecho, notas e ensaio sobre Dioniso"],["Formato","696 p.; bilíngue segundo um anúncio, não conferido"],["Situação","Nova, em catálogo"]]
+      pros: ["O maior aparato crítico entre as edições brasileiras", "Texto grego estabelecido com manuscritos e papiros"]
+      cons: ["Fora da série; volume grande para uma peça"]
+    - key: C
+      label: "Perspectiva, Signos, 2003 (reimpr. 2021) — Trajano Vieira"
+      status: "Não registrada"
+      facts: [["Tradução","Trajano Vieira"],["Formato","200 p.; bilíngue não confirmado"],["Situação","Nova"]]
+      pros: ["Tradução poética de referência"]
+      cons: ["Fora da série; formato não confirmado"]
+  options: []
+  recommendation: "A, pela série e pelo formato bilíngue, que são os critérios que você aplicou a Eurípides. Escolha B se quiser o estudo mais profundo da peça; ela pode acompanhar A, já que a coleção dá peso especial às Bacantes."
+  recommended: A
+
+- id: d-ed-plutarco-temistocles
+  kind: edicao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Em que edição ler a *Vida de Temístocles*, de Plutarco?"
+  why: "As outras Vidas da coleção ficaram na série de Coimbra (tradução direta do grego, com notas), mas essa série não publicou Temístocles e Camilo. Não há tradução acadêmica em português deste par. Hoje a interface exibe a espanhola da Gredos, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--gredos--vidas-paralelas-ii--2024
+      label: "Gredos, Vidas paralelas II, 2024 (espanhol)"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Aurelio Pérez Jiménez, direta do grego, com introdução e notas"],["Conteúdo","Sólon–Publícola, Temístocles–Camilo, Péricles–Fábio Máximo"],["Formato","Capa dura, 632 p."],["Situação","Importado"]]
+      pros: ["Acadêmica e direta do grego", "Traz também Sólon e Péricles: um volume só cobre três das quatro Vidas que faltavam"]
+      cons: ["Espanhol"]
+    - key: B
+      pub: pub--edicoes-di--temistocles-e-camilo--2026
+      label: "Edições DI, 2026 (português)"
+      status: "Registrada"
+      facts: [["Tradução","Bernardo Santos"],["Formato","180 p.; série de 7 volumes"],["Situação","Nova, barata (~R$ 30)"]]
+      pros: ["Português do Brasil"]
+      cons: ["Não se sabe se traduz do grego ou do inglês — se for do inglês, a regra F.1 a rejeita enquanto houver tradução direta", "Sem aparato declarado"]
+    - key: C
+      label: "Editora das Américas, 1953 — Vidas dos homens ilustres"
+      status: "Não registrada"
+      facts: [["Conteúdo","Temístocles e Camilo, Péricles e Fábio Máximo, Alcibíades e Coriolano"],["Situação","Usado (~R$ 200)"]]
+      pros: ["Português"]
+      cons: ["Antiga; tradução provavelmente indireta (não verificado)"]
+  options: []
+  recommendation: "A: é a única tradução direta e acadêmica disponível. B só passa a valer se ficar provado que é traduzida do grego."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

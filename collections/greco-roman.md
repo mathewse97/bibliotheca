@@ -394,6 +394,7 @@ sequence:
     subjects_stated: [maldicao-familiar, vinganca, sacrificio, culpa,
                       justica-divina, formas-antigas-e-novas-de-justica,
                       fundacao-da-ordem-civica]
+    publication_pref: pub--iluminuras--oresteia-i   # 2026-10-10: a obra vem em três volumes (Torrano); o vol. I representa o conjunto, como em Política. Vols. II e III: pub--iluminuras--oresteia-ii e -iii
 
   # -------------------------------------------------------------------------
   # EXPANSÃO DE VOLUME — "Ésquilo, Tragédias" (Iluminuras, trad. Torrano);
@@ -499,6 +500,7 @@ sequence:
     perspective: "Tragédia, religião e experiência do divino."
     subjects_stated: [dioniso, extase, loucura, identidade, poder, sacrificio,
                       repressao, limites-da-racionalidade]
+    publication_pref: pub--editora-34--euripides-teatro-completo-vi--2026   # provisória: a escolha está no cartão d-ed-bacantes (2026-10-10)
     # As Bacantes ainda não saiu na série da Editora 34 (os volumes publicados
     # vão de I a V). Questão de edição, registrada em review/greco-roman.md §7.
 
@@ -797,6 +799,7 @@ sequence:
                       hegemonia-espartana, conflitos-politicos, guerras,
                       transformacoes-do-mundo-grego]
     requires: [tucidides--historiai]
+    publication_pref: pub--loeb--hellenica-i   # 2026-10-10: a obra vem em dois volumes Loeb; o vol. I representa o conjunto. Vol. II: pub--loeb--hellenica-ii
 
   - work: aristoteles--athenaion-politeia
     role: primary-source
@@ -838,13 +841,17 @@ sequence:
   # como a memória política da Antiguidade foi construída."
   # -------------------------------------------------------------------------
   - {work: plutarco--solon, role: primary-source, demand: moderado,
-     why_here: "formação da democracia", why_here_by: voce}
+     why_here: "formação da democracia", why_here_by: voce,
+     publication_pref: pub--coimbra--vidas-paralelas-solon-e-publicola--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, como as outras Vidas; pesquisa na obra
   - {work: plutarco--themistokles, role: primary-source, demand: moderado,
-     why_here: "Guerras Médicas", why_here_by: voce}
+     why_here: "Guerras Médicas", why_here_by: voce,
+     publication_pref: pub--gredos--vidas-paralelas-ii--2024}   # provisória: a escolha está no cartão d-ed-plutarco-temistocles (2026-10-10)
   - {work: plutarco--perikles, role: primary-source, demand: moderado,
-     why_here: "auge de Atenas", why_here_by: voce}
+     why_here: "auge de Atenas", why_here_by: voce,
+     publication_pref: pub--annablume--vidas-paralelas-pericles-e-fabio-maximo--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra
   - {work: plutarco--alkibiades, role: primary-source, demand: moderado,
-     why_here: "crise e Guerra do Peloponeso", why_here_by: voce}
+     why_here: "crise e Guerra do Peloponeso", why_here_by: voce,
+     publication_pref: pub--annablume--vidas-paralelas-alcibiades-e-coriolano--2011}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra
   - {work: plutarco--demosthenes, role: primary-source, demand: moderado,
      why_here: "crise do século IV e Macedônia", why_here_by: voce}
   - {work: plutarco--alexandros, role: primary-source, demand: moderado,
@@ -960,6 +967,7 @@ sequence:
     scope: "Único membro da região `tecnica-e-materialidade-romanas`, criada
             por decisão sua em 2026-09-12. Posição na sequência inalterada:
             o que mudou foi a região a que ele responde, não onde ele é lido."
+    publication_pref: pub--annablume--vegecio-compendio-da-arte-militar--2011   # escolhida em 2026-10-10 (Etapa 1): única tradução em português, bilíngue; edição brasileira do texto de Coimbra; pesquisa na obra
 
   - movement: "X. Filosofia moral romana"
     purpose: "Transformação da filosofia grega em disciplina moral e prática de
