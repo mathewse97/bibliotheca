@@ -44,3 +44,13 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+As outras Vidas da coleção (Alexandre–César, Demóstenes–Cícero) estão na
+série *Autores Gregos e Latinos* da Universidade de Coimbra: tradução direta
+do grego, com introdução e notas. A pesquisa seguiu a mesma série.
+
+**Resultado.** O par *Sólon e Publícola* saiu nela: Imprensa da Universidade de Coimbra, 2012, 200 p., trad. Delfim F. Leão e José Luís Lopes Brandão.
+
+**Escolha: Coimbra.** Não há edição brasileira da Annablume deste par; o impresso precisa ser importado (há versão digital em acesso aberto no repositório de Coimbra, que não conta pela regra F.5). Alternativas: Gredos, *Vidas paralelas II* (espanhol, Pérez Jiménez), e *Vida de Sólon* de Delfim Leão na Relógio d'Água (1999), só a biografia grega.

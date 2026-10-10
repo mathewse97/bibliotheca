@@ -44,3 +44,21 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+As outras Vidas da coleção estão na série *Autores Gregos e Latinos* da
+Universidade de Coimbra, que **não publicou** o par Temístocles e Camilo.
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Aurelio Pérez Jiménez, direta do grego, com notas | Gredos, *Vidas paralelas II* (Sólon–Publícola, Temístocles–Camilo, Péricles–Fábio Máximo), 2024, capa dura, 632 p. | importado |
+| B | Bernardo Santos (língua de partida não declarada) | Edições DI, *Temístocles & Camilo*, 2026, 180 p. | novo, ~R$ 30 |
+| C | (não identificado) | Editora das Américas, *Vidas dos homens ilustres*, 1953 (com Péricles e Alcibíades) | usado, ~R$ 200 |
+
+**Faixas.** Só A é comprovadamente direta e acadêmica. B é brasileira, mas
+sem informação sobre a língua de partida; se for do inglês, a regra F.1 a
+rejeita enquanto existir tradução direta.
+
+**Recomendação: A**, no cartão `d-ed-plutarco-temistocles`. A é exibida
+enquanto isso.

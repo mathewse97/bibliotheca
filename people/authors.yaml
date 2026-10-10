@@ -1896,3 +1896,69 @@ salzano-moraes:
   note: "Tradutora, não autora. Traduziu O mal-estar na cultura, de Freud,
          para a série Obras Incompletas de Sigmund Freud (Autêntica)."
   role: translator
+
+fialho:
+  name_display: "Maria do Céu Fialho"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Classicista da Universidade de Coimbra;
+         traduziu com Nuno Simões Rodrigues as Vidas de Alcibíades e Coriolano,
+         de Plutarco."
+  role: translator
+
+nuno-rodrigues:
+  name_display: "Nuno Simões Rodrigues"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu com Maria do Céu Fialho as Vidas de
+         Alcibíades e Coriolano, de Plutarco (Classica Digitalia)."
+  role: translator
+
+ana-ferreira:
+  name_display: "Ana Maria Guedes Ferreira"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu com Ália Rosa Conceição Rodrigues as
+         Vidas de Péricles e Fábio Máximo, de Plutarco (Classica Digitalia)."
+  role: translator
+
+alia-rodrigues:
+  name_display: "Ália Rosa Conceição Rodrigues"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu com Ana Maria Guedes Ferreira as
+         Vidas de Péricles e Fábio Máximo, de Plutarco (Classica Digitalia)."
+  role: translator
+
+delfim-leao:
+  name_display: "Delfim F. Leão"
+  name_variants: ["Delfim Ferreira Leão"]
+  dates: null
+  note: "Tradutor, não autor. Classicista da Universidade de Coimbra;
+         traduziu com José Luís Lopes Brandão as Vidas de Sólon e Publícola,
+         de Plutarco (2012)."
+  role: translator
+
+ordep-serra:
+  name_display: "Ordep Serra"
+  name_variants: ["Ordep José Trindade Serra"]
+  dates: null
+  note: "Tradutor, não autor, nesta biblioteca. Traduziu, introduziu e
+         comentou As Bacantes, de Eurípides (Odysseus, 2022)."
+  role: translator
+
+perez-jimenez:
+  name_display: "Aurelio Pérez Jiménez"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu e anotou as Vidas paralelas II de
+         Plutarco para a Biblioteca Clásica Gredos."
+  role: translator
+
+bernardo-santos:
+  name_display: "Bernardo Santos"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu as Vidas paralelas de Plutarco para as
+         Edições DI (2026)."
+  role: translator

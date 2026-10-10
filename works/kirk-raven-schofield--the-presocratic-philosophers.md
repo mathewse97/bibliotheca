@@ -43,3 +43,14 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+Decisão do Mathews de 2026-09-12 (review/greco-roman.md §7.5): a obra fica
+sem edição de registro até haver reimpressão ou exemplar a preço razoável.
+
+**Conferência de preço.** A edição de referência em português continua a da
+Fundação Calouste Gulbenkian (*Os filósofos pré-socráticos*, 2010, ISBN
+978-972-31-0503-2). Na Estante Virtual há três exemplares usados, a partir de
+**R$ 487**; a Amazon não tem oferta em destaque. A condição da decisão não
+mudou, e nada foi registrado.

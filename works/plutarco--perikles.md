@@ -44,3 +44,13 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+As outras Vidas da coleção (Alexandre–César, Demóstenes–Cícero) estão na
+série *Autores Gregos e Latinos* da Universidade de Coimbra: tradução direta
+do grego, com introdução e notas. A pesquisa seguiu a mesma série.
+
+**Resultado.** O par *Péricles e Fábio Máximo* saiu nela: Annablume (Classica Digitalia Brasil), 2012, 264 p., trad. Ana Maria Guedes Ferreira e Ália Rosa Conceição Rodrigues.
+
+**Escolha: Annablume**, a edição brasileira da série, vendida nova (a partir de R$ 67,50 na Estante Virtual). Alternativa: Gredos, *Vidas paralelas II* (espanhol).
