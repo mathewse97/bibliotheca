@@ -17,11 +17,8 @@ subjects: [gosto, padrao-de-gosto, beleza, juizo-estetico, criticos-verdadeiros,
            delicadeza-de-imaginacao]
 
 research_status: partially_researched
-missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,
-           verificada ou escolhida",
-          "em que coletânea brasileira o ensaio está disponível (obra curta,
-           raramente publicada sozinha)",
-          "candidatos nas faixas português, espanhol, italiano e inglês",
+missing: ["sumário da edição escolhida (Edições 70, 2023)",
+          "candidatos nas faixas espanhol, italiano e inglês",
           "avaliação acadêmica das traduções",
           "disponibilidade no Brasil, datada"]
 priority_library: null
@@ -94,7 +91,13 @@ tamanho razoável. B é completa mas enorme, com tradutor incerto. C é a mais
 temática — só ensaios sobre arte e gosto — mas portuguesa e difícil de achar
 impressa.
 
-**Escolha: A.** Pela preferência do português do Brasil dentro da mesma faixa
-e pela qualificação dos tradutores. O sumário de A não foi visto inteiro: a
-presença do ensaio está confirmada por cópias extraídas do volume, não por
-ficha bibliográfica.
+**Escolha original (Claude, 2026-10-10): A**, pela preferência do português do
+Brasil dentro da mesma faixa e pela qualificação dos tradutores.
+
+**Decisão do Mathews (2026-10-10): C.** Ele perguntou pela edição de Pedro
+Galvão; a pesquisa confirmou que existe impressa (brochura, 160 p., coleção
+Textos Filosóficos n.º 83, ISBN 978-972-44-2633-4, registro na Biblioteca
+Nacional de Portugal) e está à venda em Portugal (Wook, Fnac, Snob, Térmita,
+cerca de € 16–20); no Brasil, só sob encomenda na Travessa (R$ 65,50, até 110
+dias úteis). É a única edição organizada em torno do próprio ensaio. A deixou
+o registro, pela regra de manter só a edição escolhida.

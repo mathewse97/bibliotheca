@@ -236,7 +236,7 @@ sequence:
     why_here_by: claude
     closes_gap: culture--g03
     inserted_by: claude          # ver order_changes
-    publication_pref: pub--iluminuras--a-arte-de-escrever-ensaio--2020   # escolhida em 2026-10-10 (Etapa 1): única coletânea brasileira em catálogo com o ensaio; pesquisa na obra
+    publication_pref: pub--edicoes-70--do-padrao-do-gosto--2023   # decisão sua, 2026-10-10: coletânea organizada em torno do ensaio (substitui a Iluminuras); pesquisa na obra
 
   - work: burke--philosophical-enquiry-sublime-beautiful
     role: foundational
