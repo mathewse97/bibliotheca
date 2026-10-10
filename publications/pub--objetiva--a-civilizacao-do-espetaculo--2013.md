@@ -33,7 +33,7 @@ source_of_record: claude
 contains:
   - work: vargas-llosa--la-civilizacion-del-espectaculo
     verdict: unassessed
-    reason: "Uma das duas edições que você indicou para esta obra; a outra é o original espanhol (pub--alfaguara--la-civilizacion-del-espectaculo--2012). A comparação não foi feita."
+    reason: "Escolhida pelo Mathews para a coleção Cultura. O original espanhol (Alfaguara, 2012) também foi indicado, mas saiu do registro em 2026-10-10: a edição escolhida basta."
     translator: [ivone-benedetti]
     translated_from: direct
     source_text: null

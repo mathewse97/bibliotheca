@@ -34,7 +34,7 @@ source_of_record: claude
 contains:
   - work: homero--ilias
     verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    reason: "Exemplar do Mathews (caixa Penguin-Companhia). Decisão dele em 2026-10-10: Homero fica com DUAS edições, esta e a bilíngue da Editora 34; não é escolha entre uma e outra."
     translator: [frederico-lourenco]
     translated_from: direct
     source_text: null
@@ -42,7 +42,7 @@ contains:
     apparatus: []
   - work: homero--odysseia
     verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    reason: "Exemplar do Mathews (caixa Penguin-Companhia). Decisão dele em 2026-10-10: Homero fica com DUAS edições, esta e a bilíngue da Editora 34; não é escolha entre uma e outra."
     translator: [frederico-lourenco]
     translated_from: direct
     source_text: null

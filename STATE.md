@@ -34,6 +34,15 @@ interface — 12 itens. Os que têm consequência estrutural:
 |---|---|---|
 | Se uma regra deve proibir derivar o **propósito de um movimento** das obras que ele hoje contém | cartão `d-reg-proposito-movimento` | 2026-09-27 |
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
+| Plutarco, *Temístocles*: Gredos (espanhol, importada) ou Edições DI (português). Decide também se a Gredos fica para *Péricles* e *Sólon* | cartão `d-ed-plutarco-temistocles` (já decidido por A; o Mathews pediu para reabrir) | 2026-10-10 |
+
+**Regra de edições, combinada em 2026-10-10:** com a edição escolhida, as
+alternativas saem do registro. Ficam só: volumes da mesma edição; edição que
+ele tem; alternativa enquanto a escolhida não está à venda; e edição de
+função diferente (referência de estudo). Exceções vigentes: a Valla do
+Pseudo-Apolodoro (referência); as duas edições de Homero (ele quer as duas);
+a Odysseus de *As Bacantes* — **remover depois de 26/10/2026**, quando sai o
+Teatro completo VI da Editora 34.
 
 ---
 

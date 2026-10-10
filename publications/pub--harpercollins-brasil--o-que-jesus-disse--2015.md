@@ -70,7 +70,7 @@ provenance:
     retrieved: 2026-09-25
     confidence: reported
   - claim: "Reedição pela Agir/HarperCollins Brasil, 2015, 240 p., ISBN 9788522033133, da mesma tradução de Marcos Marcionilo."
-    source: "nota registrada em publications/pub--prestigio--o-que-jesus-disse--2006.md (2026-09-20)"
+    source: "nota de pesquisa de 2026-09-20 no registro da edição Prestígio, 2006 (removido em 2026-10-10)"
     source_tier: 7
     retrieved: 2026-09-25
     confidence: reported

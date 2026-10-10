@@ -461,9 +461,8 @@ items:
       facts: [["Formato","Edição de estudo, com aparato"],["Páginas","336"]]
       pros: ["Introdução e notas do tradutor"]
     - key: B
-      pub: pub--autentica--epopeia-de-gilgamesh--2021
       label: "Epopeia de Gilgámesh (2021)"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Formato","Ilustrada, capa dura, sem aparato"],["Páginas","160"]]
       pros: ["Mais leve de ler"]
       cons: ["Sem notas"]
@@ -488,9 +487,8 @@ items:
       pros: ["Versão corrigida pelo próprio tradutor","Nova e fácil de comprar"]
       cons: ["Sem o alemão ao lado, ao que tudo indica"]
     - key: B
-      pub: pub--discurso-barcarolla--fundamentacao-da-metafisica-dos-costumes--2009
       label: "Discurso / Barcarolla, 2009"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Guido Antônio de Almeida"],["Formato","Bilíngue alemão–português, 501 p."],["Extra","Introdução e notas; adotada em curso da USP; resenhada na Kantian Review"],["Situação","Esgotada; usada (~R$ 280 em 2026-10-09)"]]
       pros: ["Alemão na página ao lado","A edição que a literatura acadêmica cita"]
       cons: ["Só usada, e cara","Texto anterior à revisão de 2025"]
@@ -699,9 +697,8 @@ items:
       pros: ["A mesma tradução, com a recepção crítica do livro de 1949 até hoje"]
       cons: ["Mais cara"]
     - key: B
-      pub: pub--companhia-das-letras--1984--2009
       label: "Companhia das Letras, 2009"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Heloisa Jahn e Alexandre Hubner"],["Formato","Brochura, 416 p."]]
       pros: ["Barata"]
       cons: ["Sem o aparato da especial"]
@@ -752,9 +749,8 @@ items:
       pros: ["Direta do chinês, com o original ao lado"]
       cons: ["Só A arte da guerra (sem os Métodos militares de Sun Pin)"]
     - key: B
-      pub: pub--wmf-martins-fontes--a-arte-da-guerra--2014
       label: "WMF Martins Fontes, 2014 (ed. Sawyer)"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Ana Aguiar Cotrim, a partir do inglês de Ralph D. Sawyer"],["Extra","Inclui os Métodos militares de Sun Pin; introdução e comentários de Sawyer"],["Formato","342 p."]]
       pros: ["Aparato histórico de Sawyer; traz também Sun Pin"]
       cons: ["Tradução indireta — recusada pelo §F.1 enquanto houver direta"]
@@ -804,9 +800,8 @@ items:
   why: "A edição registrada antes como sua indicação (Gulbenkian, trad. Ivone Moreira) é portuguesa e difícil de comprar no Brasil — a editora hoje a apresenta como edição digital de acesso aberto. Há duas edições brasileiras em catálogo. A interface continua exibindo a Gulbenkian."
   editions:
     - key: A
-      pub: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015
       label: "Gulbenkian, 2015"
-      status: "Registrada · exibida hoje"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Ivone Moreira, com introdução"],["Coleção","Textos Clássicos"],["Situação","Importação; também digital de acesso aberto"]]
       pros: ["Edição acadêmica de coleção de clássicos"]
       cons: ["Português de Portugal; difícil de comprar no Brasil"]
@@ -867,9 +862,8 @@ items:
       pros: ["O livro inteiro é sobre liberdade", "A Introdução é a resposta de Berlin às críticas a este ensaio"]
       cons: ["Difícil de achar", "Antiga; 203 p. parece pouco — integralidade não conferida"]
     - key: B
-      pub: pub--companhia-das-letras--estudos-sobre-a-humanidade--2002
       label: "Estudos sobre a humanidade — Companhia das Letras, 2002"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Rosaura Eichenberg"],["Organização","Henry Hardy e Roger Hausheer"],["Conteúdo","Antologia ampla (filosofia, política, história das ideias, retratos)"],["Formato","720 p."],["Situação","Esgotada; nove exemplares usados na Estante Virtual, a partir de R$ 189"]]
       pros: ["Fácil de achar usada", "Tradutora habitual de Berlin na Companhia; organização dos editores do espólio"]
       cons: ["O ensaio é um entre muitos; não traz a Introdução de Quatro ensaios"]
@@ -894,9 +888,8 @@ items:
       pros: ["Tradução mais recente", "Inclui a Primeira Introdução, que Kant não publicou e que expõe o sistema da obra", "Mesmo tradutor das outras Críticas na Vozes"]
       cons: ["Edição alemã de base não conferida"]
     - key: B
-      pub: pub--forense-universitaria--critica-da-faculdade-do-juizo--2012
       label: "Forense Universitária, 3ª ed., 2012"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Valerio Rohden e António Marques, da 2ª edição alemã (1793)"],["Formato","390 p."],["Situação","Sem oferta em destaque na Amazon; disponibilidade incerta"]]
       pros: ["A primeira tradução completa (1993), a mais citada na bibliografia brasileira", "Rohden é tradutor de referência de Kant"]
       cons: ["Não se sabe se traz a Primeira Introdução", "Pode estar fora de catálogo"]
@@ -921,9 +914,8 @@ items:
       pros: ["Tradutor de referência de Freud e de Nietzsche no Brasil", "Mesma tradução das Obras completas"]
       cons: ["Volume avulso enxuto; aparato não conferido"]
     - key: B
-      pub: pub--autentica--o-mal-estar-na-cultura--2025
       label: "Autêntica, 2025 — O mal-estar na cultura"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Maria Rita Salzano Moraes"],["Aparato","Apresentação de Gilson Iannini e Pedro Heliodoro; glossário de termos técnicos"],["Formato","128 p., série Textos Singulares"],["Situação","Nova, em catálogo"]]
       pros: ["Título fiel ao original (Kultur)", "Glossário e apresentação de especialistas", "Da série Obras Incompletas, de projeto editorial acadêmico"]
       cons: ["Tradução menos citada que a de Souza"]
@@ -1048,9 +1040,8 @@ items:
       pros: ["Língua original", "Informação odontológica atual"]
       cons: ["Inglês"]
     - key: B
-      pub: pub--paulus--onde-nao-ha-dentista--1985
       label: "Onde não há dentista — Paulus, 1985"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
       facts: [["Tradução","Associação Brasileira de Tecnologia Alternativa"],["Formato","218 p."],["Situação","Usado"]]
       pros: ["Português do Brasil"]
       cons: ["Quarenta anos de atraso; não traz o ART nem as revisões de 2018"]

@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: homero--odysseia
     verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    reason: "Decisão do Mathews em 2026-10-10: ele quer as duas edições de Homero — a caixa Penguin-Companhia, que já tem, e esta, bilíngue. Não é alternativa: é a segunda edição da biblioteca."
     translator: [trajano-vieira]
     translated_from: direct
     source_text: null
