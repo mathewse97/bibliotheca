@@ -41,7 +41,17 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista como «Onde não há médicos», no plural. O título canônico é no singular; preservei a sua grafia em alt_titles."
 
-updated: 2026-09-06
+pending_assignment:
+  reason: "Decisão sua de 2026-10-10 (cartão d-sob-medicina, opção A): saiu de
+           `survival-self-sufficiency`, substituída por Alton, The Survival
+           Medicine Handbook. O registro e as três edições pesquisadas
+           (Terracota 2022, Hesperian 2022, Paulus) ficam no acervo."
+  candidate_collections: []
+  decide_when: "Se o Mathews quiser a obra de volta, ou se surgir coleção de
+                saúde comunitária ou de cooperação em países pobres, que é o
+                contexto para o qual ela foi escrita."
+
+updated: 2026-10-10
 ---
 
 ## Fatos
@@ -71,5 +81,6 @@ não detalhe.
 | C | Paulus, "edição ampliada", 440 p. (exemplares de 1994) | português do Brasil | usado |
 | D | TALC, 2009, 824 p. — adaptação para Moçambique, de Julie Cliff, Alda Mariano e Khátia Munguambe | português | ~R$ 920; não registrada |
 
-**Recomendação: A**, no cartão `d-ed-werner`: língua original e informação
-atual. A única brasileira (C) está desatualizada.
+**Arquivado em 2026-10-10.** A obra saiu de Sobrevivência pelo cartão
+`d-sob-medicina` (opção A, decisão do Mathews): Alton, *The Survival Medicine
+Handbook*, ocupa o lugar dela. O registro e as edições continuam no acervo.
