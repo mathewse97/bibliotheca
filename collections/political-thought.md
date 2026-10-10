@@ -150,7 +150,7 @@ sequence:
       by: voce
       kind: intencao          # nomeia tradutor, não edição
       verified: true
-    publication_pref: pub--unesp--os-analectos--2012   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--unesp--os-analectos--2012   # localizada em 2026-10-09 e confirmada na revisão de 2026-10-10
 
   - work: sunzi--bingfa
     role: primary-source
@@ -161,7 +161,7 @@ sequence:
       text: "Martins Fontes, edição de Ralph D. Sawyer, trad. Ana Aguiar Cotrim."
       by: voce
       verified: true
-    publication_pref: pub--wmf-martins-fontes--a-arte-da-guerra--2014   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--edipro--a-arte-da-guerra--2021   # provisória: a escolha está no cartão d-ed-sunzi (2026-10-10); a ed. Sawyer continua registrada
 
   - work: kautilya--arthashastra
     role: primary-source
@@ -303,7 +303,7 @@ sequence:
       by: voce
       kind: intencao
       verified: true
-    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # revisão de 2026-10-10: cartão d-ed-montesquieu
 
   - work: rousseau--du-contrat-social
     core: true
@@ -345,7 +345,7 @@ sequence:
                racionalismo revolucionário."
     why_here_by: voce
     edition_pref: {text: "Fundação Calouste Gulbenkian, trad. Ivone Moreira.", by: voce, verified: true}
-    publication_pref: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015   # localizada e registrada em 2026-10-09 (Etapa 1)
+    publication_pref: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015   # revisão de 2026-10-10: cartão d-ed-burke
 
   - work: tocqueville--de-la-democratie-en-amerique
     core: true

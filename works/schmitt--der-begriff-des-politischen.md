@@ -74,3 +74,14 @@ sobre as três versões do texto, e é a que o Mathews indicou. O problema dela
 é obter o livro, não a qualidade. Se a compra no Brasil falhar, a
 alternativa obtenível é C (Del Rey), que traz também a *Teoria do partisan*,
 mas sem garantia sobre a tradução.
+
+### Revisão de 2026-10-10
+
+**De onde vem a "indicação do Mathews".** O campo `edition_pref` desta obra,
+marcado `by: voce`, foi gravado na importação da lista "Política — Formação
+Geral" (2026-09-05). A cópia arquivada da lista não está no repositório e o
+Mathews não a tem mais (2026-10-10), então o texto original não pode ser
+conferido. Ele pediu esta revisão.
+
+A comparação já feita em 2026-10-09 (acima) vale como revisão: nenhuma
+edição supera a de Franco de Sá.

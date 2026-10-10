@@ -708,6 +708,94 @@ items:
   recommendation: "A: tradução atual de um dos tradutores literários mais respeitados do país, com aparato crítico. B só vence pelo valor histórico da tradução."
   recommended: A
 
+- id: d-ed-sunzi
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *A arte da guerra*, de Sun Tzu?"
+  why: "A edição registrada antes como sua indicação (WMF Martins Fontes, ed. Sawyer, trad. Ana Aguiar Cotrim) é traduzida do inglês. Existe tradução direta do chinês em catálogo — e, pelas regras da biblioteca, tradução indireta é recusada quando há direta. Hoje a interface exibe a direta, provisoriamente."
+  editions:
+    - key: A
+      pub: pub--edipro--a-arte-da-guerra--2021
+      label: "Edipro, 2021"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Chiu Yi Chih, direta do chinês"],["Formato","Bilíngue chinês–português, capa dura, 160 p."],["Extra","Comentários e notas do tradutor"]]
+      pros: ["Direta do chinês, com o original ao lado"]
+      cons: ["Só A arte da guerra (sem os Métodos militares de Sun Pin)"]
+    - key: B
+      pub: pub--wmf-martins-fontes--a-arte-da-guerra--2014
+      label: "WMF Martins Fontes, 2014 (ed. Sawyer)"
+      status: "Registrada"
+      facts: [["Tradução","Ana Aguiar Cotrim, a partir do inglês de Ralph D. Sawyer"],["Extra","Inclui os Métodos militares de Sun Pin; introdução e comentários de Sawyer"],["Formato","342 p."]]
+      pros: ["Aparato histórico de Sawyer; traz também Sun Pin"]
+      cons: ["Tradução indireta — recusada pelo §F.1 enquanto houver direta"]
+  options: []
+  recommendation: "A: é a única direta do chinês, e é bilíngue. B só se você quiser o Sun Pin e o aparato de Sawyer, sabendo que o texto passou pelo inglês."
+  recommended: A
+
+- id: d-ed-montesquieu
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *O Espírito das Leis*, de Montesquieu?"
+  why: "A edição registrada antes como sua indicação (Martins Fontes, trad. Cristina Murachco) hoje só se acha usada. Há duas outras traduções integrais em catálogo; nenhuma fonte encontrada compara as três. A interface continua exibindo a Martins Fontes."
+  editions:
+    - key: A
+      pub: pub--wmf-martins-fontes--o-espirito-das-leis--2000
+      label: "Martins Fontes, 2000"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","Cristina Murachco"],["Formato","852 p."],["Situação","Sem oferta nova; usada"]]
+      pros: ["A tradução mais citada na literatura acadêmica brasileira"]
+      cons: ["Fora de catálogo"]
+    - key: B
+      label: "Edipro, 2023 (2ª ed.)"
+      status: "Não registrada"
+      facts: [["Tradução","Edson Bini"],["Formato","768 p."],["Situação","Em catálogo"]]
+      pros: ["Em catálogo"]
+      cons: ["Tradutor de muitas obras da casa; aparato não verificado"]
+    - key: C
+      label: "Martin Claret, 2010"
+      status: "Não registrada"
+      facts: [["Tradução","Roberto Leal Ferreira (creditado no e-book)"],["Formato","740 p."],["Situação","Em catálogo, barata"]]
+      pros: ["Tradutor experiente; em catálogo"]
+      cons: ["Tradutor do impresso não confirmado; aparato não verificado"]
+  options: []
+  recommendation: "A, se você topar comprar usado: é a tradução de referência. Se preferir novo, C."
+  recommended: A
+
+- id: d-ed-burke
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição das *Reflexões sobre a Revolução em França*, de Burke?"
+  why: "A edição registrada antes como sua indicação (Gulbenkian, trad. Ivone Moreira) é portuguesa e difícil de comprar no Brasil — a editora hoje a apresenta como edição digital de acesso aberto. Há duas edições brasileiras em catálogo. A interface continua exibindo a Gulbenkian."
+  editions:
+    - key: A
+      pub: pub--gulbenkian--reflexoes-sobre-a-revolucao-em-franca--2015
+      label: "Gulbenkian, 2015"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","Ivone Moreira, com introdução"],["Coleção","Textos Clássicos"],["Situação","Importação; também digital de acesso aberto"]]
+      pros: ["Edição acadêmica de coleção de clássicos"]
+      cons: ["Português de Portugal; difícil de comprar no Brasil"]
+    - key: B
+      label: "Vide Editorial, 2017 (4ª ed.)"
+      status: "Não registrada"
+      facts: [["Tradução","Direta do inglês; tradutor não identificado nas fontes"],["Extra","Muitas notas explicativas; ensaio introdutório de João Pereira Coutinho, especialista em Burke"],["Formato","364 p."],["Situação","Em catálogo"]]
+      pros: ["Brasileira, anotada, com introdução de especialista"]
+      cons: ["Tradutor não identificado"]
+    - key: C
+      label: "Edipro, 2014"
+      status: "Não registrada"
+      facts: [["Tradução","José Miguel Nanni Soares"],["Formato","256 p."],["Situação","Em catálogo"]]
+      pros: ["Brasileira, tradutor identificado"]
+      cons: ["Aparato não verificado"]
+  options: []
+  recommendation: "B: brasileira, em catálogo, com notas e com a introdução de um especialista em Burke. A continua sendo a mais acadêmica, mas só se você aceitar português de Portugal e importação (ou a versão digital)."
+  recommended: B
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch
