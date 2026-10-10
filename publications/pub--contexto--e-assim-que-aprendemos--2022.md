@@ -41,6 +41,7 @@ source_of_record: claude
 
 contains:
   - work: dehaene--how-we-learn
+    why: "Única tradução brasileira (Rodolfo Ilari)."
     verdict: unassessed
     reason: "Candidato único: não há outra tradução brasileira desta obra.
              Sem alternativa examinada não há veredito."

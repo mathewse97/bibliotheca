@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: burke--philosophical-enquiry-sublime-beautiful
+    why: "Tradução brasileira com apresentação e notas, por editora universitária, em catálogo."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: tradução brasileira com apresentação e notas, por editora universitária, em catálogo. Ver a seção Edições da obra."
     translator: [enid-dobranszky]

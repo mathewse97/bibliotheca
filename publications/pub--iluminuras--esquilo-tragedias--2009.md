@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: esquilo--persai
+    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -40,6 +41,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--hepta-epi-thebas
+    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -48,6 +50,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--hiketides
+    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -56,6 +59,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--prometheus-desmotes
+    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]

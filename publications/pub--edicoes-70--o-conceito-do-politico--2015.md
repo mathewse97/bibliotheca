@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: schmitt--der-begriff-des-politischen
+    why: "Sua indicação: a tradução de Alexandre Franco de Sá."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (tradução de Alexandre Franco de Sá); localizada e registrada em 2026-10-09."
     translator: [franco-de-sa]

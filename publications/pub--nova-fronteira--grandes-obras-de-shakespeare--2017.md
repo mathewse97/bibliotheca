@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: shakespeare--richard-ii
+    why: "Tradução de Barbara Heliodora, com notas."
     verdict: unassessed
     reason: "Nenhuma tradução alternativa foi pesquisada. A tradutora é a
              mesma em todas as caixas comparadas, então a escolha entre elas
@@ -42,6 +43,7 @@ contains:
     completeness: null
     apparatus: [notas, textos-complementares]
   - work: shakespeare--julius-caesar
+    why: "Tradução de Barbara Heliodora, com notas."
     verdict: unassessed
     reason: "Nenhuma tradução alternativa foi pesquisada."
     translator: [barbara-heliodora]

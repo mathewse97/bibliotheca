@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: kant--kritik-der-urteilskraft
+    why: "Tradução mais recente, em catálogo, e traz a Primeira Introdução, que expõe o sistema da obra."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo): em catálogo e com a Primeira Introdução."
     translator: [fernando-mattos]

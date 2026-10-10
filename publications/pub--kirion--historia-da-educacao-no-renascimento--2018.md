@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: nunes--historia-da-educacao-no-renascimento
+    why: "Original em português, em catálogo."
     verdict: unassessed
     reason: "Original em português; a Kírion reedita a série de Ruy Nunes. Nenhuma edição alternativa foi comparada — só existem reedições do mesmo texto."
     translator: []

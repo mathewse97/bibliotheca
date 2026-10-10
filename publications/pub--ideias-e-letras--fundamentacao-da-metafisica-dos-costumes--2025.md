@@ -33,6 +33,7 @@ source_of_record: voce
 
 contains:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
+    why: "Tradução de Guido Antônio de Almeida, na versão revista e corrigida, em catálogo."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-09 (cartão d-ed-kant-fundamentacao,
              opção A): a tradução de Guido Antônio de Almeida na versão revista

@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: hoppe--democracy-the-god-that-failed
+    why: "Sua indicação: a edição ligada ao Instituto Mises Brasil."
     verdict: unassessed
     reason: "Sua indicação era Instituto Mises Brasil, trad. Marcelo Werlang de Assis; a LVM é a editora ligada ao instituto — tradutor a confirmar."
     translator: []

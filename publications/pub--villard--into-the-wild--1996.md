@@ -30,6 +30,7 @@ source_of_record: voce
 
 contains:
   - work: krakauer--into-the-wild
+    why: "Seu exemplar, no original em inglês."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Original em inglês. A edição brasileira (Na natureza selvagem, Companhia das Letras, 2018) traz um posfácio novo do autor que esta impressão não tem."
     translator: null

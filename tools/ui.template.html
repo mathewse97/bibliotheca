@@ -993,6 +993,16 @@ details.dmore[open]>summary::before{content:"▾  "}
 .ded h3{font:600 1.15rem/1.2 var(--serif);margin:0 0 4px}
 .ded dl{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin:6px 0 0;font-size:13px}
 .ded dt{color:var(--ink-faint)}.ded dd{margin:0}
+.ded.ro{cursor:default}.ded.ro:not(.sel):hover{border-color:var(--rule)}
+/* Por que esta edição — curto, logo abaixo da edição; a pesquisa fica recolhida. */
+.whyed{margin:10px 0 0;padding:12px 15px;border:1px solid var(--rule);border-left:3px solid var(--accent);border-radius:6px;background:var(--surface)}
+.whyed .k{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:3px}
+.whyed p{margin:0;max-width:68ch}
+.whyed .w + .w{margin-top:8px}
+.whyed .facts{font-size:12.5px;color:var(--ink-soft);margin-top:4px}
+details.research{margin-top:10px;border:1px solid var(--rule);border-radius:6px;background:var(--surface)}
+details.research>summary{cursor:pointer;padding:9px 15px;font-size:13px;color:var(--ink-soft)}
+details.research>.prose{padding:0 15px 12px}
 .dpc{font-size:13px;margin:8px 0 0;padding:0;list-style:none}
 .dpc .plus{color:var(--accent-ink)}.dpc .minus{color:var(--flag)}
 .dwait{display:flex;gap:12px;align-items:flex-start;margin:14px 22px 0;padding:12px 14px;border-radius:12px;background:var(--surface-2);font-size:14px}
@@ -1615,6 +1625,59 @@ function collExtras(k){
   return out;
 }
 
+/* ---------- Por que esta edição -------------------------------------------
+   `why` mora em `contains` da publicação: uma ou duas frases, escritas para o
+   leitor, dizendo o que faz desta edição a escolha. Só cita outra edição
+   quando a escolha aceitou uma concessão. Sem `why`, a interface mostra os
+   dados da edição e diz, sem disfarce, que ela não foi comparada. */
+function whyOf(pid, wid){
+  const p=P(pid); const c=p&&(p.contains||[]).find(c=>c.work===wid);
+  return c&&c.why ? c.why : '';
+}
+function edFacts(p, wid){
+  const c=(p.contains||[]).find(c=>c.work===wid)||{}; const w=W(wid)||{};
+  const out=[]; const tr=(c.translator||[]).map(t=>(A(t)||{}).name_display||t).join(' e ');
+  if(c.translated_from==='direct' && w.original_language) out.push('tradução direta do '+langPt(w.original_language).toLowerCase()+(tr?', de '+tr:''));
+  else if(c.translated_from==='direct') out.push('tradução direta'+(tr?', de '+tr:''));
+  else if(c.translated_from==='indirect') out.push('tradução indireta'+(tr?', de '+tr:''));
+  else if(tr) out.push('tradução de '+tr);
+  if(p.bilingual===true) out.push('bilíngue');
+  if((c.apparatus||[]).length) out.push('com '+c.apparatus.map(a=>a.replace(/-/g,' ')).join(', '));
+  return out.join(' · ');
+}
+function whyBlock(w){
+  const pubs=(w.publications||[]).map(x=>x.publication);
+  const de=w.display_edition&&w.display_edition.publication;
+  const order=de?[de,...pubs.filter(x=>x!==de)]:pubs;
+  const ws=order.map(pid=>({pid, why:whyOf(pid,w.id)})).filter(x=>x.why);
+  if(ws.length){
+    const many=ws.length>1;
+    return `<div class="whyed"><div class="k">${many?'Por que estas edições':'Por que esta edição'}</div>
+      ${ws.map(x=>`<p class="w">${many?`<b>${E(pubTitulo(P(x.pid)))}.</b> `:''}${mdi(x.why)}</p>`).join('')}</div>`;
+  }
+  if(!de) return '';
+  const f=edFacts(P(de), w.id);
+  return `<div class="whyed"><div class="k">Sobre esta edição</div>
+    <p class="small muted">A escolha ainda não foi comparada com outras edições.</p>
+    ${f?`<div class="facts">${E(f.charAt(0).toUpperCase()+f.slice(1))}.</div>`:''}</div>`;
+}
+/* Trecho do corpo a partir do título que começa com `prefix` até o próximo
+   título de mesmo nível ou acima — inclui os subtítulos de dentro. */
+function bodyFrom(html, prefix){
+  if(!html) return '';
+  const re=/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi; let m, start=-1, lvl=0, end=html.length;
+  while((m=re.exec(html))){
+    const t=m[2].replace(/<[^>]+>/g,'').trim();
+    if(start<0){ if(t.startsWith(prefix)){ start=re.lastIndex; lvl=+m[1]; } continue; }
+    if(+m[1]<=lvl){ end=m.index; break; }
+  }
+  return start<0 ? '' : html.slice(start,end).trim();
+}
+function researchBlock(html, prefix, label){
+  const h=bodyFrom(html, prefix);
+  return h && !vazio(h) ? `<details class="research"><summary>${label}</summary><div class="prose">${h}</div></details>` : '';
+}
+
 /* ---------- Obra --------------------------------------------------------- */
 function vObra(id){
   const w = W(id); if(!w) return '<p>Obra não encontrada.</p>';
@@ -1651,6 +1714,8 @@ function vObra(id){
     <div class="meta">${buyLink(full)}</div>
   </div>`;}).join('')}</div>`
   :`<div class="panel"><p class="small muted" style="margin:0">Nenhuma edição registrada ainda.</p></div>`}
+  ${pubs.length?whyBlock(w):''}
+  ${researchBlock(w.body_html,'Edições','Pesquisa de edições')}
 
   ${rels.length?`<h2>Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
      <span class="small muted">${E(REL_PT[r.type]||r.type)}</span> ${wLink(r.target)}
@@ -1676,6 +1741,10 @@ function vPub(id){
     <h1>${E(pubTitulo(p))}</h1>
     <dl class="kv">${facts.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
     <div style="margin-top:12px">${buyLink(p,true)}</div></div></div>
+  ${(()=>{const ws=cs.filter(c=>c.why); if(!ws.length) return '';
+    const many=cs.length>1;
+    return `<div class="whyed"><div class="k">Por que esta edição</div>${ws.map(c=>`<p class="w">${many?`<b>${E(wTitle(c.work))}.</b> `:''}${mdi(c.why)}</p>`).join('')}</div>`;})()}
+  ${researchBlock(p.body_html,'Avaliação','Notas da pesquisa')}
   ${(()=>{const ex=p.also_contains||[]; const n=cs.length+ex.length;
     return `<h2>${n>1?`Contém ${n} obras`:'Obra'}</h2>
   <div class="rows">${cs.map(c=>`<div class="row"><div class="n">·</div>
@@ -1933,14 +2002,16 @@ function decPos(d){
    atributo e o onclick vira sintaxe quebrada. */
 function JSQ(v){return "'"+String(v==null?'':v).replace(/\\/g,'\\\\').replace(/'/g,"\\'")
   .replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/\n/g,' ')+"'";}
-function decEditions(d){
+function decEditions(d, ro){
   return `<div class="dcmp">${(d.editions||[]).map(e=>{const p=e.pub&&P(e.pub);
     const img = p ? coverImg(p,'sm') : '';
-    return `<button class="ded" data-o="${E(e.key)}" onclick="decPick('${E(d.id)}','${E(e.key)}','edicao',${JSQ(e.label)})">
+    const tag = ro ? 'div' : 'button';
+    const chosen = ro && d.decided && String(d.decided.choice||'').trim().startsWith(e.key+' ');
+    return `<${tag} class="ded${ro?' ro':''}${chosen?' sel':''}" data-o="${E(e.key)}"${ro?'':` onclick="decPick('${E(d.id)}','${E(e.key)}','edicao',${JSQ(e.label)})"`}>
       ${img||`<div class="dnoimg">${p?'sem capa':'sem registro<br>ainda'}</div>`}<div>
       <h3><span class="dk">edição ${E(e.key)}</span> ${E(e.label)}</h3><div class="dhint">${E(e.status||'')}</div>
       <dl>${(e.facts||[]).map(f=>`<dt>${E(f[0])}</dt><dd>${E(f[1])}</dd>`).join('')}</dl>
-      <ul class="dpc">${(e.pros||[]).map(x=>`<li class="plus">+ ${E(x)}</li>`).join('')}${(e.cons||[]).map(x=>`<li class="minus">− ${E(x)}</li>`).join('')}</ul></div></button>`;}).join('')}</div>`;
+      <ul class="dpc">${(e.pros||[]).map(x=>`<li class="plus">+ ${E(x)}</li>`).join('')}${(e.cons||[]).map(x=>`<li class="minus">− ${E(x)}</li>`).join('')}</ul></div></${tag}>`;}).join('')}</div>`;
 }
 function decCands(d){
   const cs=d.candidates||[]; const comp=d.composition && (d.collections||[])[0];
@@ -1954,6 +2025,18 @@ function decCands(d){
     ${comp?decComposition(comp, d.composition_note):''}
   </div></details>`;
 }
+/* Cartão decidido: o raciocínio continua consultável, recolhido. */
+function decDecidedDetail(d){
+  const eds=(d.editions||[]).length, ops=(d.options||[]).length;
+  if(!eds && !ops && !d.why && !d.recommendation) return '';
+  const rec=(d.options||[]).find(o=>o.recommended), recKey = rec?rec.key:d.recommended;
+  return `<details class="dmore"><summary>Ver as opções e os motivos</summary><div class="dmbody">
+    ${d.why?`<p class="dwhy">${mdi(d.why)}</p>`:''}
+    ${eds?decEditions(d,true):''}
+    ${ops?`<ul class="dpc">${d.options.map(o=>`<li><b>${E(o.key)}.</b> ${mdi(o.title)}${o.effect?` <span class="dhint">${mdi(o.effect)}</span>`:''}</li>`).join('')}</ul>`:''}
+    ${d.recommendation?`<p class="drecwhy"><b>${recKey?`Por que ${E(recKey)}:`:'Leitura:'}</b> ${mdi(d.recommendation)}</p>`:''}
+  </div></details>`;
+}
 function decCard(d){
   const kd=DK[d.kind]||['•',d.kind], pr=DPRI[d.priority];
   const rec=(d.options||[]).find(o=>o.recommended), recKey = rec?rec.key:d.recommended;
@@ -1963,7 +2046,8 @@ function decCard(d){
     return `<article class="dcard dsmall" data-st="decidida" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}">
       <div class="dhead">${top}<h2 class="dq">${mdi(d.question)}</h2>
       <p class="dwhy"><b>Escolha:</b> ${mdi(dc.choice)}${dc.note?` <span class="dhint">${mdi(dc.note)}</span>`:''}</p>
-      <p class="dhint">Decidido em ${E(dc.date||'')}. Para desfazer, peça na conversa.</p></div></article>`;
+      <p class="dhint">Decidido em ${E(dc.date||'')}. Para desfazer, peça na conversa.</p></div>
+      ${decDecidedDetail(d)}</article>`;
   }
   return `<article class="dcard" id="dc-${E(d.id)}" data-st="${E(d.state)}" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}" data-q="${E((d.question||'').replace(/\*/g,''))}">
     <div class="dhead">${top}

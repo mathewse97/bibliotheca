@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: kautilya--arthashastra
+    why: "Tradução acadêmica integral de Patrick Olivelle, direta do sânscrito, com notas. Não há tradução portuguesa comprovadamente direta."
     verdict: unassessed
     reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-kautilya, opção recomendada A): tradução acadêmica integral e direta do sânscrito; não há tradução portuguesa comprovadamente direta."
     translator: [olivelle]

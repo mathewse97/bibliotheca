@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: aron--lopium-des-intellectuels
+    why: "Sua escolha, em catálogo pela Vide."
     verdict: unassessed
     reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Três Estrelas, trad. Jorge Bastos)."
     translator: []

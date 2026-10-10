@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: rousseau--du-contrat-social
+    why: "Sua escolha."
     verdict: unassessed
     reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Penguin-Companhia, trad. Eduardo Brandão), que fica anotada na coleção."
     translator: ["Ana Resende"]

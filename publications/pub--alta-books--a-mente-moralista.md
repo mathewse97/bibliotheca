@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: haidt--the-righteous-mind
+    why: "Única edição brasileira."
     verdict: unassessed
     reason: "Única edição brasileira identificada."
     translator: ["Wendy Campos"]

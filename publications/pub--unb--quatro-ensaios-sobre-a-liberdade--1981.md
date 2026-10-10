@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: berlin--two-concepts-of-liberty
+    why: "Traz o ensaio junto com a resposta de Berlin às críticas, que faz parte da leitura dele. Só usado."
     verdict: unassessed
     reason: "Candidato A do cartão d-ed-berlin, recomendado; exibido enquanto o cartão não for decidido."
     translator: [wamberto-ferreira]

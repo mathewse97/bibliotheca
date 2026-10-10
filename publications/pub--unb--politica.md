@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--politika
+    why: "Tradução de Mário da Gama Kury, a mesma nas duas coleções em que a obra aparece."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]

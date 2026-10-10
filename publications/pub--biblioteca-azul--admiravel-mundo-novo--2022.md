@@ -31,6 +31,7 @@ source_of_record: voce
 
 contains:
   - work: huxley--brave-new-world
+    why: "Tradução atual de Fabio Fernandes, com textos de Ursula K. Le Guin e de Samir Machado de Machado."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-huxley, adotando a recomendação)."
     translator: [fabio-fernandes]

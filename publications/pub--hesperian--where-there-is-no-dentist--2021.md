@@ -29,6 +29,7 @@ source_of_record: claude
 
 contains:
   - work: dickson--where-there-is-no-dentist
+    why: "A revisão de 2018, com a informação odontológica atual, só existe em inglês."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-dickson): a revisão de 2018 só existe em inglês."
     translator: null

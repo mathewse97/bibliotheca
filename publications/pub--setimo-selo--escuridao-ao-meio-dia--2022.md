@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: koestler--darkness-at-noon
+    why: "Única edição brasileira traduzida do original alemão redescoberto, e não da versão inglesa pela qual o livro circulou por oitenta anos."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09: é a única edição brasileira traduzida do original alemão (o manuscrito redescoberto), e não da tradução inglesa de Daphne Hardy pela qual o livro circulou por oitenta anos. Resolve a pendência de tradução indireta registrada no STATE.md. Ver a seção Edições da obra."
     translator: [rissatti, jonathas-castro]

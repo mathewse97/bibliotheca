@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: freud--das-unbehagen-in-der-kultur
+    why: "Tradução de Paulo César de Souza, direta do alemão: a mais citada no Brasil e a mesma das Obras completas."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-freud): tradução de Paulo César de Souza, a mais citada."
     translator: [paulo-cesar-souza]

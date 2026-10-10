@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: marx-engels--manifest-kommunistischen-partei
+    why: "Sua indicação: a tradução de Sérgio Tellaroli, direta do alemão."
     verdict: unassessed
     reason: "Confere com a sua indicação (Penguin-Companhia, trad. Sérgio Tellaroli)."
     translator: ["Sérgio Tellaroli"]

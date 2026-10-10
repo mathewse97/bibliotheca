@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: vieira-de-mello--desenvolvimento-e-cultura
+    why: "Única edição em catálogo."
     verdict: unassessed
     reason: "Única edição em catálogo identificada. As anteriores (1963; 3ª ed. Paz e Terra, 1980) só existem em sebo e não foram comparadas."
     translator: []

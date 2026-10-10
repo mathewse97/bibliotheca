@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: lukacs--geschichte-und-klassenbewusstsein
+    why: "Única tradução brasileira integral em catálogo, direta do alemão."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09: única tradução brasileira integral em catálogo, direta do alemão, sobre o texto das Obras Completas (Luchterhand, 1968). Ver a seção Edições da obra."
     translator: [rodnei-nascimento]

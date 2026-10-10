@@ -30,6 +30,7 @@ source_of_record: voce
 
 contains:
   - work: schlaad--medicina-em-areas-remotas-no-brasil
+    why: "Única edição: medicina em áreas remotas pensada para o Brasil."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina, opção A): única edição."
     translator: null

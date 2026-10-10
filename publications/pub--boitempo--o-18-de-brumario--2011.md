@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: marx--achtzehnte-brumaire
+    why: "Sua indicação: a tradução de Nélio Schneider, direta do alemão."
     verdict: unassessed
     reason: "Confere com a sua indicação (Boitempo, trad. Nélio Schneider)."
     translator: ["Nélio Schneider"]

@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: skousen--strategic-relocation
+    why: "A 4ª edição, a mais recente."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: é a 4ª edição, a mais recente, do ISBN que já estava registrado (1735015407). A 3ª (2011) está superada. Ver a seção Edições da obra."
     translator: null

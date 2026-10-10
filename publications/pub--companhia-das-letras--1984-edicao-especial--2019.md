@@ -30,6 +30,7 @@ source_of_record: voce
 
 contains:
   - work: orwell--nineteen-eighty-four
+    why: "A tradução de Heloisa Jahn e Alexandre Hubner, com ensaios sobre a recepção do livro de 1949 até hoje."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-1984, adotando a recomendação)."
     translator: [heloisa-jahn, hubner]

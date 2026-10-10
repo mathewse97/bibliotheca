@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: bezmenov--subversao-teoria-aplicacao-e-confissao-de-um-metodo
+    why: "Única edição deste título; bilíngue."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: é a única edição deste título — a do ISBN que já estava registrado (6599245404). Agora identificada: Audax, 2021, bilíngue. Ver a seção Edições da obra."
     translator: null

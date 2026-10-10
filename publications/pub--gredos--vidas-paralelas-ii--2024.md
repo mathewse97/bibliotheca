@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--themistokles
+    why: "Única tradução direta e acadêmica deste par, com introdução e notas. Em espanhol."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles): única tradução direta e acadêmica deste par."
     translator: [perez-jimenez]

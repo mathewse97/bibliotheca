@@ -33,6 +33,7 @@ source_of_record: claude
 
 contains:
   - work: marrou--histoire-de-leducation-dans-lantiquite
+    why: "Única edição brasileira em catálogo; a tradução histórica de Mário Leônidas Casanova."
     verdict: unassessed
     reason: "Única edição brasileira em catálogo. A tradução de Mário Leônidas Casanova é a histórica, e não foi comparada com o original francês."
     translator: ["Mário Leônidas Casanova"]

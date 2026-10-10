@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hirsch--why-knowledge-matters
+    why: "Única edição brasileira."
     verdict: unassessed
     reason: "Única edição brasileira identificada."
     translator: []
