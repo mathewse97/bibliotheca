@@ -181,6 +181,20 @@ sequence:
                       economia, guerra, religiao, cultura,
                       transformacoes-historicas]
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (curadoria das fotos).
+  # Posição minha, a confirmar: logo depois do panorama de Guarinello e antes
+  # de Osborne, porque o colapso da Idade do Bronze é o que antecede a
+  # formação da Grécia arcaica.
+  - work: cline--1177-bc
+    role: supplementary
+    demand: leve
+    why_here: "O fim do mundo micênico, hitita e do Egito do Novo Império, que
+               abre a Idade das Trevas grega. É o pano de fundo de Homero e o
+               ponto de partida de Osborne."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--avis-rara--1177-ac--2023   # seu exemplar
+
   - work: osborne--greece-in-the-making
     role: foundational
     demand: exigente
@@ -1208,6 +1222,15 @@ original_order: [guarinello--historia-antiga, osborne--greece-in-the-making,
   campbell--the-hero-with-a-thousand-faces]
 
 order_changes:
+  - work: cline--1177-bc
+    from: "não estava na biblioteca"
+    to: "seção I, depois de guarinello--historia-antiga"
+    reason: "Exemplar seu; inclusão decidida por você na curadoria das fotos.
+             A posição é de Claude e fica a confirmar."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-10
+
   - work: finley--the-legacy-of-greece
     from: "fim da seção VII (História, política e mundo grego clássico)"
     to: "início da seção XI (Legado e interpretação moderna)"

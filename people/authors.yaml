@@ -1685,7 +1685,8 @@ jonathas-castro:
   name_display: "Jonathas Ramos de Castro"
   name_variants: []
   dates: null
-  note: "Tradutor, não autor. Cotradutor de Escuridão ao meio-dia (Sétimo Selo)."
+  note: "Tradutor, não autor. Cotradutor de Escuridão ao meio-dia (Sétimo Selo);
+         tradutor de Como escrever boas notas, de Sönke Ahrens (Auster, 2023)."
   role: translator
 
 heitor-ferreira:
@@ -1989,3 +1990,92 @@ schlaad-sascha:
   dates: null
   note: "Organizador, com Juliana Schlaad, de Medicina em áreas remotas no
          Brasil (Manole, 2019)."
+
+humberto-costa:
+  name_display: "Humberto Costa"
+  name_variants: []
+  dates: null
+  note: "Autor brasileiro de Bushcraft: habilidades na natureza (Bonilaure, 2022)."
+
+krakauer:
+  name_display: "Jon Krakauer"
+  name_variants: []
+  dates: null
+  note: null
+
+cline:
+  name_display: "Eric H. Cline"
+  name_variants: []
+  dates: null
+  note: "Arqueólogo e historiador do Mediterrâneo antigo."
+
+leclerc:
+  name_display: "André Leclerc"
+  name_variants: []
+  dates: null
+  note: "Professor de filosofia; autor de Uma introdução à filosofia da mente (Appris)."
+
+stevenson:
+  name_display: "Robert Louis Stevenson"
+  name_variants: []
+  dates: "1850–1894"
+  note: null
+
+defoe:
+  name_display: "Daniel Defoe"
+  name_variants: []
+  dates: "1660–1731"
+  note: null
+
+ahrens:
+  name_display: "Sönke Ahrens"
+  name_variants: []
+  dates: null
+  note: null
+
+london:
+  name_display: "Jack London"
+  name_variants: []
+  dates: "1876–1916"
+  note: null
+
+warburton:
+  name_display: "Nigel Warburton"
+  name_variants: []
+  dates: null
+  note: null
+
+cerbasi:
+  name_display: "Gustavo Cerbasi"
+  name_variants: []
+  dates: null
+  note: null
+
+matos:
+  name_display: "Francisco José de Abreu Matos"
+  name_variants: ["F. J. Abreu Matos"]
+  dates: null
+  note: "Coautor, com Harri Lorenzi, de Plantas medicinais no Brasil."
+
+fabio-alberti:
+  name_display: "Fábio Alberti"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu 1177 a.C., de Eric H. Cline (Avis Rara, 2023)."
+  role: translator
+
+oshea:
+  name_display: "José Roberto O'Shea"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu, apresentou e anotou A Ilha do Tesouro e
+         Robinson Crusoé para os Clássicos Zahar."
+  role: translator
+
+bettoni:
+  name_display: "Rogério Bettoni"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Uma breve história da filosofia, de
+         Nigel Warburton (L&PM, 2012)."
+  role: translator

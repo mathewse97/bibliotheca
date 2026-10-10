@@ -223,6 +223,16 @@ sequence:
     why_here: "Bushcraft: abrigo, fogo, água e ferramenta com o que a mata dá."
     why_here_by: claude
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (curadoria das fotos).
+  - work: costa--bushcraft-habilidades-na-natureza
+    demand: leve
+    why_here: "O mesmo ofício de Canterbury, por autor brasileiro: ferramentas
+               de corte, abrigo, água, fogo, nós e escultura em madeira, com o
+               mato daqui."
+    why_here_by: claude
+    inserted_by: claude          # ver order_changes
+    publication_pref: pub--bonilaure--bushcraft-habilidades-na-natureza--2022   # seu exemplar
+
   - work: gooley--the-lost-art-of-reading-natures-signs
     role: foundational
     demand: leve
@@ -318,6 +328,17 @@ sequence:
                emergência pelo lado do que se cultiva e se colhe."
     why_here_by: claude
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (curadoria das fotos), no
+  # lugar dos livros de Balbach, que não entraram.
+  - work: lorenzi-matos--plantas-medicinais-no-brasil
+    demand: moderado
+    why_here: "As plantas medicinais da flora brasileira com base técnica:
+               química, fitoterapia e etnofarmacologia. Complementa Hoffmann,
+               que é de tradição europeia, pelo que cresce aqui."
+    why_here_by: claude
+    inserted_by: claude          # ver order_changes
+    publication_pref: pub--plantarum--plantas-medicinais-no-brasil--2021   # decisão sua, 2026-10-10
+
   - movement: "Defesa"
     purpose: "Proteção da vida e uso de força defensiva."
     purpose_by: claude
@@ -404,6 +425,26 @@ original_order: [lontro-monteiro--mini-manual-de-tecnica-escutista,
 # `excluded`. Não entra aqui porque nunca teve id.
 
 order_changes:
+  - work: costa--bushcraft-habilidades-na-natureza
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento Sobrevivência, depois de canterbury--bushcraft-101"
+    approved_by: voce
+    date: 2026-10-10
+    reason: "Exemplar seu; inclusão decidida por você na curadoria das fotos.
+             Ao lado de Canterbury por tratar do mesmo ofício."
+    reversible_by: "Remover a participação e o registro da obra."
+
+  - work: lorenzi-matos--plantas-medicinais-no-brasil
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento Medicina e socorro, depois de hoffmann--the-complete-herbs-sourcebook"
+    approved_by: voce
+    date: 2026-10-10
+    reason: "Recomendação de Claude no lugar dos livros de Balbach, aprovada
+             por você na curadoria das fotos."
+    reversible_by: "Remover a participação e o registro da obra."
+
   - work: alton--the-survival-medicine-handbook
     kind: insert
     from: "não estava na biblioteca"
