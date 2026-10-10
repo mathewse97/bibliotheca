@@ -368,6 +368,7 @@ sequence:
                degrada ou se perde' da pergunta da coleção, e pelo critério de
                crítica cultural."
     why_here_by: claude          # seu não: você não escreveu um porquê para ela
+    publication_pref: pub--julio-cheda--entre-a-honra-e-o-nada--2026   # registrada em 2026-10-10 a partir do seu exemplar (ficha CIP): única edição impressa
     # Sem `perspective` nem `subjects_stated`: nas outras três esses campos são
     # literalmente seus, transcritos da sua lista. Preenchê-los aqui a partir
     # da sinopse seria pôr palavras suas onde elas não estão.

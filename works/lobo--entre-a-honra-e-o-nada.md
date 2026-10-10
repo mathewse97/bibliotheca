@@ -88,12 +88,12 @@ física que você possui.
 O Mathews tem o exemplar **físico** e informou o ISBN-13
 978-65-02101-74-2 (2026-09-06).
 
-**Resultado.** Esse ISBN é o do **e-book Kindle** (Julio Lobo, publicado em
-20 de junho de 2026, 225 p.) — é o que a ficha da Amazon exibe. Não se achou
-edição impressa na Amazon, na Estante Virtual nem na busca geral; a página
-do autor na Amazon só lista e-books. O impresso deve ter outro ISBN e outra
-editora ou gráfica.
+**Resultado (atualizado com o exemplar, 2026-10-10).** O ISBN é o do
+**impresso** — está na ficha CIP e no código de barras da quarta capa — e o
+e-book Kindle (20 de junho de 2026, 225 p.) usa o mesmo número. A edição é do
+próprio autor: "Antônio Carlos, SC : Julio Cheda, 2026" (Julio Lobo é o nome
+com que Julio Cheda assina), com a marca Instituto Aegis. O impresso não foi
+achado à venda.
 
-**Pendente:** editora, ano e ISBN do impresso, a tirar da página de créditos
-do exemplar do Mathews. Sem eles não se forma o registro da publicação (o
-id exige editora e ano), e a capa do Kindle não substitui a do impresso.
+**Registro:** `pub--julio-cheda--entre-a-honra-e-o-nada--2026`, a única
+edição impressa. Sem link de compra: a Amazon só vende o Kindle.
