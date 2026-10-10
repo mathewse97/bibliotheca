@@ -603,6 +603,13 @@ def build():
     # A obra continua sem capa e sem edição: isto é exibição, não dado.
     # PRECEDÊNCIA (decisão do Mathews, 2026-09-22): posse → preferência da
     # coleção → veredito → publicação única.
+    # AJUSTE (pedido do Mathews, 2026-10-10): no nível da OBRA (catálogo,
+    # autor, busca) a ordem é posse → veredito → edição escolhida para uma
+    # coleção (`publication_pref`, a da primeira participação que tiver) →
+    # publicação única → a de acesso mais fácil (língua na ordem pt, es, it,
+    # en; em catálogo; com anúncio). Antes, uma escolha feita por cartão de
+    # decisão só aparecia dentro da coleção e a obra ficava sem capa no resto
+    # da interface. As duas últimas saem ATENUADAS: não são escolha dele.
     # A razão: uma edição que ele TEM é por onde ele lê a obra, independentemente
     # de qual é a melhor. Posse é fato sobre a estante; veredito é juízo sobre a
     # edição. O juízo não desloca o fato.
@@ -614,6 +621,31 @@ def build():
         """Publicações desta obra que ele possui, em ordem estável."""
         return sorted([p["publication"] for p in pubs
                        if (pstate.get(p["publication"]) or {}).get("ownership") == "tenho"])
+
+    def _pref_de(wid, w):
+        """Edição escolhida para a obra numa coleção, se houver uma válida."""
+        for m in w["memberships"]:
+            pref = m.get("publication_pref")
+            pub = idx["publications"].get(pref) if pref else None
+            if not pub:
+                continue
+            c = next((c for c in (pub.get("contains") or []) if c.get("work") == wid), None)
+            if c is not None:
+                return {"publication": pref,
+                        "state": "chosen" if c.get("verdict") == "recommended" else "unassessed",
+                        "by_collection": True}
+        return None
+
+    LANG_ORDER = ["pt", "es", "it", "en"]
+
+    def _acesso(pid):
+        """Chave de ordenação: mais acessível primeiro (língua, catálogo, anúncio)."""
+        pub = idx["publications"].get(pid) or {}
+        lang = (pub.get("language") or "").split("-")[0]
+        li = LANG_ORDER.index(lang) if lang in LANG_ORDER else len(LANG_ORDER)
+        return (li, pub.get("language") != "pt-BR",
+                pub.get("availability_br") != "em-catalogo",
+                not pub.get("acquisition"), pid)
 
     for wid, w in idx["works"].items():
         own = _owned(w["publications"])
@@ -627,9 +659,15 @@ def build():
                                     "by_ownership": True}
         elif rec:
             w["display_edition"] = {"publication": rec[0]["publication"], "state": "chosen"}
+        elif _pref_de(wid, w):
+            w["display_edition"] = _pref_de(wid, w)
         elif len(w["publications"]) == 1:
             w["display_edition"] = {"publication": w["publications"][0]["publication"],
                                     "state": "unassessed"}
+        elif w["publications"]:
+            pick = min((p["publication"] for p in w["publications"]), key=_acesso)
+            w["display_edition"] = {"publication": pick, "state": "unassessed",
+                                    "by_access": True}
         else:
             w["display_edition"] = None
         for m in w["memberships"]:

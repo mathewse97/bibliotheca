@@ -720,26 +720,19 @@ items:
   collections: [political-thought]
   priority: media
   state: decidida
-  decided: {date: 2026-10-10, choice: "A — Companhia das Letras, A Fazenda dos Animais, edição especial 2020, trad. Paulo Henriques Britto.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
-  question: "Qual edição de *A revolução dos bichos* / *A Fazenda dos Animais*, de Orwell?"
-  why: "A tradução que estava registrada como sua indicação, de Heitor Aquino Ferreira, é de 1964. Em 2020 a mesma editora publicou tradução nova de Paulo Henriques Britto, com o título original e fortuna crítica; há estudo acadêmico comparando as duas. Hoje a interface exibe a de Britto, provisoriamente."
+  decided: {date: 2026-10-10, choice: "A — Companhia das Letras, A Fazenda dos Animais, edição especial 2020, trad. Paulo Henriques Britto.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política. Depois, a pedido dele, só esta edição fica registrada."}
+  question: "Qual edição de *A Fazenda dos Animais*, de Orwell?"
+  why: "Em 2020 a Companhia das Letras publicou tradução nova de Paulo Henriques Britto, com o título original e fortuna crítica."
   editions:
     - key: A
       pub: pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020
       label: "Companhia das Letras, edição especial, 2020"
-      status: "Registrada · exibida hoje (provisória)"
+      status: "Registrada · escolhida"
       facts: [["Tradução","Paulo Henriques Britto, nova (2020)"],["Aparato","Fortuna crítica organizada por Marcelo Pen"],["Formato","Capa dura, 248 p."]]
       pros: ["Tradutor de primeira linha; título original; aparato crítico"]
       cons: ["Mais cara (há edição de bolso da Penguin-Companhia, sem a fortuna crítica)"]
-    - key: B
-      pub: pub--companhia-das-letras--a-revolucao-dos-bichos--2007
-      label: "Companhia das Letras, 2007"
-      status: "Registrada"
-      facts: [["Tradução","Heitor Aquino Ferreira (1964)"],["Extra","Posfácio de Christopher Hitchens"],["Formato","Brochura, 152 p."]]
-      pros: ["A tradução pela qual o livro foi lido no Brasil por meio século"]
-      cons: ["Tradução de 1964, feita por militar da reserva, sem formação de tradutor literário declarada"]
   options: []
-  recommendation: "A: tradução atual de um dos tradutores literários mais respeitados do país, com aparato crítico. B só vence pelo valor histórico da tradução."
+  recommendation: "A: tradução atual de um dos tradutores literários mais respeitados do país, com aparato crítico."
   recommended: A
 
 - id: d-ed-sunzi
