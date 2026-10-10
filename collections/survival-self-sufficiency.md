@@ -243,12 +243,14 @@ sequence:
     why_here: "Cuidado odontológico onde não há dentista. A Hesperian escreve
                para quem tem de agir sem estrutura."
     why_here_by: claude
+    publication_pref: pub--hesperian--where-there-is-no-dentist--2021   # provisória: a escolha está no cartão d-ed-dickson (2026-10-10)
 
   - work: werner--donde-no-hay-doctor
     demand: moderado
     why_here: "O manual de saúde comunitária de referência mundial, escrito
                para leigos em contexto sem médico."
     why_here_by: claude
+    publication_pref: pub--terracota--donde-no-hay-doctor--2022   # provisória: a escolha está no cartão d-ed-werner (2026-10-10)
 
   # ACRÉSCIMO PÓS-IMPORTAÇÃO — decisão sua de 2026-09-06. Posicionada aqui,
   # entre Werner e o PHTLS, por raciocínio seu explícito de posição
@@ -329,7 +331,8 @@ sequence:
       text: "ASIN/ISBN-10 1735015407, 4ª edição (Amazon). Editora e ano não
              identificados."
       by: claude
-      verified: false
+      verified: true
+    publication_pref: pub--joel-skousen-designs--strategic-relocation--2020   # escolhida em 2026-10-10 (Etapa 1): 4ª edição, a do ISBN já registrado; pesquisa na obra
 
 # `Energia` NÃO tem movimento. Um movimento vazio é proibido pelo modelo, e
 # fabricar um seria fingir conteúdo. A região existe no scope_map; o movimento

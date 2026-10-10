@@ -500,7 +500,7 @@ sequence:
     perspective: "Tragédia, religião e experiência do divino."
     subjects_stated: [dioniso, extase, loucura, identidade, poder, sacrificio,
                       repressao, limites-da-racionalidade]
-    publication_pref: pub--editora-34--euripides-teatro-completo-vi--2026   # provisória: a escolha está no cartão d-ed-bacantes (2026-10-10)
+    publication_pref: pub--editora-34--euripides-teatro-completo-vi--2026   # decisão sua, 2026-10-10 (d-ed-bacantes)
     # As Bacantes ainda não saiu na série da Editora 34 (os volumes publicados
     # vão de I a V). Questão de edição, registrada em review/greco-roman.md §7.
 
@@ -845,7 +845,7 @@ sequence:
      publication_pref: pub--coimbra--vidas-paralelas-solon-e-publicola--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, como as outras Vidas; pesquisa na obra
   - {work: plutarco--themistokles, role: primary-source, demand: moderado,
      why_here: "Guerras Médicas", why_here_by: voce,
-     publication_pref: pub--gredos--vidas-paralelas-ii--2024}   # provisória: a escolha está no cartão d-ed-plutarco-temistocles (2026-10-10)
+     publication_pref: pub--gredos--vidas-paralelas-ii--2024}   # decisão sua, 2026-10-10 (d-ed-plutarco-temistocles)
   - {work: plutarco--perikles, role: primary-source, demand: moderado,
      why_here: "auge de Atenas", why_here_by: voce,
      publication_pref: pub--annablume--vidas-paralelas-pericles-e-fabio-maximo--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra

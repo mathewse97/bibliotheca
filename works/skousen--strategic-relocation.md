@@ -65,3 +65,14 @@ desqualifica a obra pelo critério de necessidade da coleção
 Obra originalmente em inglês, sem edição em português localizada. Pelo §F, na
 ausência de tradução, a edição na língua original é a opção válida quando o
 idioma é um dos que você usa de forma significativa — o que é o caso.
+
+## Edições — pesquisa de 2026-10-10
+
+A identificação estava em aberto: só o ISBN-10 1735015407 (4ª edição).
+
+**Resultado.** É a **4ª edição, 2020**, 348 p., ISBN 978-1735015408, de Joel
+M. Skousen com Andrew Skousen, edição do autor (Joel Skousen Designs segundo
+o Skoob). A 3ª é de 2011. Não há tradução.
+
+**Escolha:** a 4ª edição. A capa registrada foi endireitada a partir do
+modelo 3D do anúncio, que é a única imagem disponível.

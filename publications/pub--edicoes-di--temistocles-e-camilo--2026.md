@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: plutarco--themistokles
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-plutarco-temistocles."
+    reason: "Alternativa: o cartão d-ed-plutarco-temistocles foi decidido em 2026-10-10 pela Gredos; só voltaria a contar se ficasse provado que traduz do grego."
     translator: [bernardo-santos]
     translated_from: unknown
     source_text: null
