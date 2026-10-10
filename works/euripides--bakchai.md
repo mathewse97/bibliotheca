@@ -61,5 +61,5 @@ review/greco-roman.md §7).
 Um artigo de 2023 (*Nuntius Antiquus*) conta sete traduções brasileiras; a
 de Torrano em A é a terceira dele (1995, 2017, 2026).
 
-**Recomendação: A**, no cartão `d-ed-bacantes`, onde a escolha fica com o
-Mathews: fecha a série e é bilíngue. B é a edição mais estudada da peça.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão `d-ed-bacantes`: fecha a
+série e é bilíngue. B é a edição mais estudada da peça.

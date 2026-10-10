@@ -51,3 +51,16 @@ identificada — não indicou qual é, e não a inventei.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+| | Edição | Língua | Situação |
+|---|---|---|---|
+| A | Hesperian, impressão 2021 da revisão de 2018, 248 p. | inglês (original) | importado |
+| B | Paulus, 1985, trad. Associação Brasileira de Tecnologia Alternativa, 218 p. | português do Brasil | usado |
+| C | Hesperian, *Donde no hay dentista*, 2005 | espanhol | importado; não registrada |
+
+A revisão de 2018 (obturações de mercúrio, medicamentos, Tratamento
+Restaurador Atraumático) só existe em inglês.
+
+**Recomendação: A**, no cartão `d-ed-dickson`.

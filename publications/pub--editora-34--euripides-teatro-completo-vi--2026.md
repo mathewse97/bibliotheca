@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: euripides--bakchai
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-bacantes, recomendado; exibido enquanto o cartão não for decidido. Fecha a série que o Mathews usa para Eurípides (volumes I a V)."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-bacantes). Fecha a série que o Mathews usa para Eurípides (volumes I a V)."
     translator: [torrano]
     translated_from: direct
     source_text: null
@@ -81,4 +81,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-bacantes.** Ainda não lançado.
+**Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-bacantes).** Ainda não lançado.

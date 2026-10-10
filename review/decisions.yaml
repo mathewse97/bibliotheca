@@ -914,14 +914,15 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Editora 34, Teatro completo VI, 2026, trad. Jaa Torrano (bilíngue).", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Greco-Romana; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *As Bacantes*, de Eurípides?"
   why: "Antes faltava o volume das Bacantes na série da Editora 34 (trad. Jaa Torrano), que você usa para Eurípides. Agora ele foi anunciado: Teatro completo VI, bilíngue, com lançamento para 26/10/2026. A alternativa forte é a edição comentada de Ordep Serra (2022). Hoje a interface exibe a da Editora 34, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
     - key: A
       pub: pub--editora-34--euripides-teatro-completo-vi--2026
       label: "Editora 34, Teatro completo VI, 2026"
-      status: "Registrada · exibida hoje (provisória) · pré-venda"
+      status: "Registrada · escolhida · pré-venda"
       facts: [["Tradução","Jaa Torrano"],["Formato","Bilíngue grego–português; 480 p.; com Ifigênia em Áulida e Reso"],["Situação","Pré-venda; lançamento anunciado para 26/10/2026"]]
       pros: ["Fecha a série que você já usa (volumes I a V)", "Bilíngue, o formato que você prefere para obras gregas", "Mesmo tradutor de toda a série"]
       cons: ["Ainda não lançado"]
@@ -946,7 +947,8 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Gredos, Vidas paralelas II, 2024, trad. Aurelio Pérez Jiménez.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Greco-Romana; as outras edições registradas continuam como alternativas."}
   question: "Em que edição ler a *Vida de Temístocles*, de Plutarco?"
   why: "As outras Vidas da coleção ficaram na série de Coimbra (tradução direta do grego, com notas), mas essa série não publicou Temístocles e Camilo. Não há tradução acadêmica em português deste par. Hoje a interface exibe a espanhola da Gredos, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -972,6 +974,71 @@ items:
       cons: ["Antiga; tradução provavelmente indireta (não verificado)"]
   options: []
   recommendation: "A: é a única tradução direta e acadêmica disponível. B só passa a valer se ficar provado que é traduzida do grego."
+  recommended: A
+
+- id: d-ed-werner
+  kind: edicao
+  collections: [survival-self-sufficiency]
+  priority: media
+  state: decidir
+  question: "Qual edição de *Onde não há médico*, de David Werner?"
+  why: "É um manual de saúde, então a data da informação médica pesa tanto quanto a língua. A única edição brasileira (Paulus) traz informação de décadas atrás. As edições atualizadas são em espanhol, a língua original, e em inglês. Hoje a interface exibe a espanhola, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--terracota--donde-no-hay-doctor--2022
+      label: "Donde no hay doctor — Terracota/Pax, 2022 (espanhol)"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Autoria","David Werner com Carol Thuman e Jane Maxwell"],["Atualização","'Actualizado para el siglo 21': HIV e aids, dengue, Zika"],["Formato","528 p."],["Situação","Importado (~R$ 160)"]]
+      pros: ["Língua original da obra", "Informação médica atualizada", "Espanhol vem antes do inglês na sua ordem de línguas"]
+      cons: ["Não é português"]
+    - key: B
+      pub: pub--hesperian--where-there-is-no-doctor--2022
+      label: "Where There Is No Doctor — Hesperian, 2022/2023 (inglês)"
+      status: "Registrada"
+      facts: [["Atualização","Revisão de 2023: medicamentos, planejamento familiar, novos tratamentos de infecções"],["Formato","496 p."],["Situação","Importado"]]
+      pros: ["A versão que a Hesperian atualiza com mais frequência"]
+      cons: ["Inglês, abaixo do espanhol na sua ordem de línguas"]
+    - key: C
+      pub: pub--paulus--onde-nao-ha-medico--1994
+      label: "Onde não há médico — Paulus (português do Brasil)"
+      status: "Registrada"
+      facts: [["Formato","440 p., 'edição ampliada'"],["Situação","Usado; exemplares de 1994"]]
+      pros: ["Única edição brasileira"]
+      cons: ["Informação médica de décadas atrás: para um manual de saúde, isso é risco, não detalhe"]
+  options: []
+  recommendation: "A: é a obra na língua original e com informação médica atual. Existe uma edição em português atualizada, a de Moçambique (TALC, 2009, adaptada por Julie Cliff), mas só achei a cerca de R$ 920 e não a registrei."
+  recommended: A
+
+- id: d-ed-dickson
+  kind: edicao
+  collections: [survival-self-sufficiency]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *Onde não há dentista*, de Murray Dickson?"
+  why: "Mesmo dilema de Werner: a única edição brasileira é de 1985; a edição em inglês, língua original, foi revista em 2018. Hoje a interface exibe a inglesa, provisoriamente."
+  editions:
+    - key: A
+      pub: pub--hesperian--where-there-is-no-dentist--2021
+      label: "Where There Is No Dentist — Hesperian, impressão 2021 (inglês)"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Atualização","Edição revista de 2018: obturações de mercúrio, medicamentos, Tratamento Restaurador Atraumático (ART)"],["Formato","248 p."],["Situação","Importado (~R$ 110)"]]
+      pros: ["Língua original", "Informação odontológica atual"]
+      cons: ["Inglês"]
+    - key: B
+      pub: pub--paulus--onde-nao-ha-dentista--1985
+      label: "Onde não há dentista — Paulus, 1985"
+      status: "Registrada"
+      facts: [["Tradução","Associação Brasileira de Tecnologia Alternativa"],["Formato","218 p."],["Situação","Usado"]]
+      pros: ["Português do Brasil"]
+      cons: ["Quarenta anos de atraso; não traz o ART nem as revisões de 2018"]
+    - key: C
+      label: "Donde no hay dentista — Hesperian, 2005 (espanhol)"
+      status: "Não registrada"
+      facts: [["Situação","Importado (~R$ 117)"]]
+      pros: ["Espanhol, acima do inglês na sua ordem de línguas"]
+      cons: ["Anterior à revisão de 2018"]
+  options: []
+  recommendation: "A: a revisão de 2018 só existe em inglês. Aqui a atualização do conteúdo pesa mais que a ordem das línguas."
   recommended: A
 
 # ============================== CONFIRMAR POSIÇÃO ===========================

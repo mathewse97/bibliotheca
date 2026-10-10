@@ -31,7 +31,7 @@ source_of_record: claude
 contains:
   - work: plutarco--themistokles
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-plutarco-temistocles, recomendado; exibido enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles): única tradução direta e acadêmica deste par."
     translator: [perez-jimenez]
     translated_from: direct
     source_text: null
@@ -103,4 +103,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-plutarco-temistocles.**
+**Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles).**

@@ -31,7 +31,7 @@ source_of_record: claude
 contains:
   - work: euripides--bakchai
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-bacantes."
+    reason: "Alternativa: o cartão d-ed-bacantes foi decidido em 2026-10-10 pela edição da Editora 34. É a edição mais comentada da peça."
     translator: [ordep-serra]
     translated_from: direct
     source_text: null

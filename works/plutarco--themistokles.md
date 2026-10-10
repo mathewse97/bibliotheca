@@ -60,5 +60,5 @@ Universidade de Coimbra, que **não publicou** o par Temístocles e Camilo.
 sem informação sobre a língua de partida; se for do inglês, a regra F.1 a
 rejeita enquanto existir tradução direta.
 
-**Recomendação: A**, no cartão `d-ed-plutarco-temistocles`. A é exibida
-enquanto isso.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão
+`d-ed-plutarco-temistocles`.

@@ -58,3 +58,18 @@ até se saber qual edição você possui.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+É um manual de saúde: a data da informação médica é critério de qualidade,
+não detalhe.
+
+| | Edição | Língua | Situação |
+|---|---|---|---|
+| A | Terracota/Pax, 2022, 528 p. — "actualizado para el siglo 21", com Carol Thuman e Jane Maxwell | espanhol (original) | importado |
+| B | Hesperian, revista 2022/2023, 496 p. | inglês | importado |
+| C | Paulus, "edição ampliada", 440 p. (exemplares de 1994) | português do Brasil | usado |
+| D | TALC, 2009, 824 p. — adaptação para Moçambique, de Julie Cliff, Alda Mariano e Khátia Munguambe | português | ~R$ 920; não registrada |
+
+**Recomendação: A**, no cartão `d-ed-werner`: língua original e informação
+atual. A única brasileira (C) está desatualizada.
