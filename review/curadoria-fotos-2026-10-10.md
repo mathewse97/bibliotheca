@@ -1,3 +1,11 @@
+---
+collection: null
+kind: curadoria de exemplares (fotos de páginas de créditos)
+by: claude
+date: 2026-10-10
+status: "decidida pelo Mathews em 2026-10-10: 12 obras registradas, 10 recusadas."
+---
+
 # Curadoria das fotos de páginas de créditos — 2026-10-10
 
 O Mathews enviou fotos das páginas de créditos de 20 livros que tem e que não
