@@ -1962,3 +1962,30 @@ bernardo-santos:
   note: "Tradutor, não autor. Traduziu as Vidas paralelas de Plutarco para as
          Edições DI (2026)."
   role: translator
+
+alton:
+  name_display: "Joseph Alton"
+  name_variants: ["Joe Alton", "Joseph Alton MD"]
+  dates: null
+  note: "Médico. Coautor, com Amy Alton, de The Survival Medicine Handbook."
+
+amy-alton:
+  name_display: "Amy Alton"
+  name_variants: ["Amy Alton APRN"]
+  dates: null
+  note: "Enfermeira de prática avançada. Coautora, com Joseph Alton, de The
+         Survival Medicine Handbook."
+
+schlaad-juliana:
+  name_display: "Juliana R. M. Schlaad"
+  name_variants: []
+  dates: null
+  note: "Organizadora de Medicina em áreas remotas no Brasil (Manole, 2019).
+         Membro da Wilderness Medical Society, segundo a editora."
+
+schlaad-sascha:
+  name_display: "Sascha W. Schlaad"
+  name_variants: []
+  dates: null
+  note: "Organizador, com Juliana Schlaad, de Medicina em áreas remotas no
+         Brasil (Manole, 2019)."

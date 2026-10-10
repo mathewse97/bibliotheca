@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: werner--donde-no-hay-doctor
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-werner, recomendado; exibido enquanto o cartão não for decidido."
+    reason: "Era o candidato recomendado do cartão d-ed-werner, arquivado em 2026-10-10: a obra saiu de Sobrevivência (cartão d-sob-medicina)."
     translator: null
     translated_from: null
     source_text: null
@@ -77,4 +77,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-werner.**
+**Sem veredito.** A obra saiu de Sobrevivência em 2026-10-10 (cartão d-sob-medicina); o cartão d-ed-werner foi arquivado.

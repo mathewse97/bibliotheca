@@ -350,7 +350,8 @@ items:
   kind: obra
   collections: [survival-self-sufficiency]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — trocar Werner por Alton, The Survival Medicine Handbook (4ª ed., 2021); incluir Schlaad, Medicina em áreas remotas no Brasil (Manole, 2019); manter Dickson.", note: "Decisão do Mathews. Aplicado: Werner saiu de Sobrevivência (registrado em excluded; obra e publicações continuam no acervo); Alton entrou no lugar dele e Schlaad depois do PHTLS (posição de Claude, a confirmar), cada um com obra, edição, capa e link de compra; d-ed-werner arquivado."}
   source: review/survival-self-sufficiency.md §9
   question: "Trocar *Onde não há médico* por um manual de medicina de sobrevivência mais atual?"
   why: "Você pediu para pesquisar se há obras melhores sobre os mesmos temas. Werner e Dickson foram escritos nos anos 1970–80 para agentes de saúde em vilas pobres, não para quem fica sem sistema de saúde por tempo indeterminado. Uma avaliação sistemática de Werner (Babu e Eisenberg) achou 'problemas consideráveis' nas recomendações de diagnóstico e tratamento. A edição brasileira de cada um está décadas desatualizada. A pesquisa está em review/survival-self-sufficiency.md §9."
@@ -1007,7 +1008,8 @@ items:
   kind: edicao
   collections: [survival-self-sufficiency]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "Arquivado — Werner saiu da coleção pelo cartão d-sob-medicina (opção A).", note: "Nenhuma edição escolhida. As três publicações continuam registradas, sem coleção."}
   question: "Qual edição de *Onde não há médico*, de David Werner?"
   why: "É um manual de saúde, então a data da informação médica pesa tanto quanto a língua. A única edição brasileira (Paulus) traz informação de décadas atrás. As edições atualizadas são em espanhol, a língua original, e em inglês. Hoje a interface exibe a espanhola, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -1040,7 +1042,8 @@ items:
   kind: edicao
   collections: [survival-self-sufficiency]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Hesperian, impressão 2021 da revisão de 2018 (inglês).", note: "Decisão do Mathews. Aplicado: é a edição exibida e a publication_pref da obra em Sobrevivência; a da Paulus continua como alternativa."}
   question: "Qual edição de *Onde não há dentista*, de Murray Dickson?"
   why: "Mesmo dilema de Werner: a única edição brasileira é de 1985; a edição em inglês, língua original, foi revista em 2018. Hoje a interface exibe a inglesa, provisoriamente."
   editions:

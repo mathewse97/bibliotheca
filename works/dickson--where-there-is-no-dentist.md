@@ -63,4 +63,4 @@ identificada — não indicou qual é, e não a inventei.
 A revisão de 2018 (obturações de mercúrio, medicamentos, Tratamento
 Restaurador Atraumático) só existe em inglês.
 
-**Recomendação: A**, no cartão `d-ed-dickson`.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão `d-ed-dickson`.

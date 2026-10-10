@@ -123,6 +123,22 @@ scope_map:
 # EXCLUÍDA POR DECISÃO SUA
 # ---------------------------------------------------------------------------
 excluded:
+  - work: werner--donde-no-hay-doctor
+    title_as_listed: "Onde não há médicos"
+    reason: "Substituída por Alton, The Survival Medicine Handbook (4ª ed.,
+             2021), que trata do mesmo cuidado continuado sem médico, é atual
+             e parte do cenário da coleção (a ajuda não vem). Werner foi
+             escrito em 1970 para agentes de saúde em vilas pobres; uma
+             avaliação sistemática (Babu e Eisenberg) apontou problemas
+             consideráveis nas recomendações de diagnóstico e tratamento; e a
+             edição brasileira tem décadas. Pesquisa em
+             review/survival-self-sufficiency.md §9."
+    by: voce
+    date: 2026-10-10
+    card: d-sob-medicina
+    note: "O registro da obra e as três publicações (Terracota, Hesperian,
+           Paulus) continuam no acervo, sem coleção."
+
   - work: null
     title_as_listed: "Faça você mesmo (duas edições)"
     reason: "Nem você nem eu conseguimos identificar de forma confiável quais
@@ -243,18 +259,29 @@ sequence:
     why_here: "Cuidado odontológico onde não há dentista. A Hesperian escreve
                para quem tem de agir sem estrutura."
     why_here_by: claude
-    publication_pref: pub--hesperian--where-there-is-no-dentist--2021   # provisória: a escolha está no cartão d-ed-dickson (2026-10-10)
+    publication_pref: pub--hesperian--where-there-is-no-dentist--2021   # decisão sua, 2026-10-10 (d-ed-dickson)
 
-  - work: werner--donde-no-hay-doctor
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (cartão d-sob-medicina,
+  # opção A): ocupa o lugar de Werner, que saiu da coleção (ver `excluded`).
+  - work: alton--the-survival-medicine-handbook
     demand: moderado
-    why_here: "O manual de saúde comunitária de referência mundial, escrito
-               para leigos em contexto sem médico."
+    why_here: "O manual de medicina para quando a ajuda não vem: parte do
+               princípio de que hospital e médico não estão disponíveis, e
+               cobre o cuidado continuado — infecções, doenças crônicas,
+               medicamentos, procedimentos, dentes, plantas medicinais. Toma o
+               lugar de Werner, escrito para agentes de saúde em vilas pobres
+               nos anos 1970 e com recomendações apontadas como problemáticas
+               numa avaliação sistemática."
     why_here_by: claude
-    publication_pref: pub--terracota--donde-no-hay-doctor--2022   # provisória: a escolha está no cartão d-ed-werner (2026-10-10)
+    inserted_by: claude          # ver order_changes
+    publication_pref: pub--doom-and-bloom--the-survival-medicine-handbook--2021   # decisão sua, 2026-10-10 (d-sob-medicina)
 
   # ACRÉSCIMO PÓS-IMPORTAÇÃO — decisão sua de 2026-09-06. Posicionada aqui,
   # entre Werner e o PHTLS, por raciocínio seu explícito de posição
   # intermediária entre os dois.
+  # NOTA 2026-10-10: Werner saiu da coleção e Alton ocupa o lugar dele. O seu
+  # `why_here` abaixo continua citando Werner e foi preservado como escrito;
+  # a posição intermediária vale igualmente entre Alton e o PHTLS.
   - work: silva-conforto--primeiros-socorros
     demand: moderado
     why_here: "Posição intermediária entre Onde não há médico (cuidado de
@@ -271,6 +298,19 @@ sequence:
                dois anteriores em destinatário: é formação técnica, não guia
                leigo."
     why_here_by: claude
+
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (cartão d-sob-medicina,
+  # opção A). Posição minha, a confirmar: depois do PHTLS, porque também é
+  # escrita para profissionais e supõe evacuação; antes de Hoffmann.
+  - work: schlaad--medicina-em-areas-remotas-no-brasil
+    demand: exigente
+    why_here: "A única obra em português sobre medicina longe dos centros
+               médicos, e a única com o que é próprio do Brasil: biomas,
+               animais peçonhentos, doenças tropicais. Escrita para
+               profissionais de saúde; complementa Alton pelo contexto local."
+    why_here_by: claude
+    inserted_by: claude          # ver order_changes
+    publication_pref: pub--manole--medicina-em-areas-remotas-no-brasil--2019   # decisão sua, 2026-10-10 (d-sob-medicina)
 
   - work: hoffmann--the-complete-herbs-sourcebook
     demand: moderado
@@ -363,7 +403,25 @@ original_order: [lontro-monteiro--mini-manual-de-tecnica-escutista,
 # — «Faça você mesmo (duas edições)» — foi descartada por decisão sua e está em
 # `excluded`. Não entra aqui porque nunca teve id.
 
-order_changes: []
+order_changes:
+  - work: alton--the-survival-medicine-handbook
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento Medicina e socorro, no lugar de werner--donde-no-hay-doctor"
+    approved_by: voce
+    date: 2026-10-10
+    reason: "Substitui Werner; cartão d-sob-medicina, opção A."
+    reversible_by: "Remover a participação e devolver Werner à mesma posição."
+
+  - work: schlaad--medicina-em-areas-remotas-no-brasil
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento Medicina e socorro, depois de naemt--phtls-prehospital-trauma-life-support"
+    approved_by: voce
+    date: 2026-10-10
+    reason: "Referência brasileira; cartão d-sob-medicina, opção A. A posição é
+             de Claude e fica a confirmar."
+    reversible_by: "Remover a participação e o registro da obra."
 structural_changes: []
 
 updated: 2026-09-23

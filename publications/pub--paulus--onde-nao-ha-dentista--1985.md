@@ -31,7 +31,7 @@ source_of_record: claude
 contains:
   - work: dickson--where-there-is-no-dentist
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-dickson: a única edição brasileira, de 1985."
+    reason: "Alternativa: o cartão d-ed-dickson foi decidido em 2026-10-10 pela edição inglesa revista. Única edição brasileira, de 1985."
     translator: null
     translated_from: direct
     source_text: null
@@ -76,4 +76,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-dickson.**
+**Alternativa — cartão d-ed-dickson decidido em 2026-10-10 por outra edição.**

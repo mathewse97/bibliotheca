@@ -304,3 +304,8 @@ a edição inglesa revista em 2018 continua a melhor obra sobre o tema. Nenhuma
 obra em português cobre o cuidado continuado sem médico; Schlaad é a melhor
 fonte brasileira e complementa pelo contexto local.
 
+**Decisão do Mathews (2026-10-10): opção A.** Werner saiu da coleção (em
+`excluded`); Alton entrou no lugar dele; Schlaad entrou depois do PHTLS
+(posição de Claude, a confirmar); Dickson ficou, na edição inglesa revista em
+2018 (cartão `d-ed-dickson`, opção A).
+
