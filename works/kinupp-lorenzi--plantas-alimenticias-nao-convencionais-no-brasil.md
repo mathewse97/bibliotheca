@@ -37,6 +37,8 @@ derived_from:
   note: "Entrou pela sua lista como «PANC - Plantas Alimentícias Não Convencionais no Brasil», sem autoria. A autoria foi estabelecida pela pesquisa, não suposta."
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Instituto Plantarum, 2014", note: "A 1ª edição, superada pela 2ª."}
 ---
 
 ## Fatos

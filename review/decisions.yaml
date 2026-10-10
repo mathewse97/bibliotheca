@@ -928,20 +928,21 @@ items:
   kind: edicao
   collections: [religion]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "B — Obras completas, Loyola / Apostolado da Oração, 2006, trad. Francisco de Sales Baptista.", note: "Decisão do Mathews, seguindo a recomendação. A tradução inglesa saiu do registro."}
   question: "Em que edição ler as cartas de São Francisco Xavier?"
   why: "A registrada é a tradução inglesa do Institute of Jesuit Sources (1992), sua indicação. Existe uma edição completa em português, publicada no Brasil: as *Obras completas*, com todos os escritos de Xavier. Pelas regras da biblioteca, o português vem antes do inglês quando a qualidade é comparável."
   editions:
     - key: A
-      pub: pub--jesuit-sources--letters-and-instructions--1992
       label: "Institute of Jesuit Sources, 1992 — M. Joseph Costelloe"
-      status: "Registrada · aparece hoje"
+      status: "Não registrada (removida em 2026-10-10)"
       facts: [["Tradução","M. Joseph Costelloe, S.J., com introdução e notas"],["Conteúdo","138 cartas e instruções"],["Formato","Inglês, 488 p."]]
       pros: ["Sua indicação", "Introdução e notas de especialista"]
       cons: ["Em inglês"]
     - key: B
+      pub: pub--loyola--obras-completas-de-sao-francisco-xavier--2006
       label: "Obras completas, Loyola / Apostolado da Oração, 2006 — Francisco de Sales Baptista"
-      status: "Não registrada"
+      status: "Registrada · escolhida"
       facts: [["Tradução","Francisco de Sales Baptista, S.J."],["Conteúdo","Todos os escritos conhecidos de Xavier"],["Formato","Português, cerca de 820 p."],["Situação","Disponibilidade no Brasil não confirmada (provavelmente usada)"]]
       pros: ["Em português", "Completa", "Usada em artigos acadêmicos brasileiros"]
       cons: ["Notas e aparato não confirmados"]

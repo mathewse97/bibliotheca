@@ -48,7 +48,7 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Obras completas, Loyola / Apostolado da Oração, 2006", note: "Todos os escritos, em português; em decisão."}
+  - {edition: "The Letters and Instructions of Francis Xavier, Institute of Jesuit Sources, 1992", note: "Tradução inglesa anotada, mas só as cartas e em inglês."}
   - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original castelhano, com notas; só usado."}
 ---
 

@@ -52,6 +52,8 @@ derived_from:
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "Mais nova, mas só em inglês."}
 ---
 
 ## Fatos

@@ -43,6 +43,7 @@ source_of_record: voce
 
 contains:
   - work: seymour--guia-pratico-da-autossuficiencia
+    why: "Tradução brasileira, na 6ª edição, do clássico de John Seymour sobre a vida autossuficiente."
     verdict: unassessed
     reason: "Não avaliada. E há um impedimento anterior ao veredito: não se
              sabe QUAL obra de Seymour esta edição traduz (ver

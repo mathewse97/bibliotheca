@@ -41,6 +41,7 @@ source_of_record: voce
 
 contains:
   - work: naemt--phtls-prehospital-trauma-life-support
+    why: "O manual de referência mundial em atendimento pré-hospitalar ao trauma, em português."
     verdict: unassessed
     reason: "Não avaliada."
     translator: []

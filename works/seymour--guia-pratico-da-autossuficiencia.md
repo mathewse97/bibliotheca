@@ -81,6 +81,8 @@ derived_from:
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Guia prático ilustrado da auto-suficiência, Perspectivas & Realidades (Lisboa), 1976", note: "Tradução portuguesa antiga."}
 ---
 
 ## Fatos
