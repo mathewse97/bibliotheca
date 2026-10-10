@@ -961,7 +961,7 @@ items:
   collections: [greco-roman]
   priority: baixa
   state: decidida
-  decided: {date: 2026-10-10, choice: "A — Gredos, Vidas paralelas II, 2024, trad. Aurelio Pérez Jiménez.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Greco-Romana; as outras edições registradas continuam como alternativas."}
+  decided: {date: 2026-10-10, choice: "A — Gredos, Vidas paralelas II, 2024, trad. Aurelio Pérez Jiménez.", note: "Decisão do Mathews: adotar as recomendações. Ele pediu para reabrir e, em 2026-10-10, confirmou A depois da verificação da B: a série da Edições DI se chama As vidas dos nobres gregos e romanos, decalque do título das traduções inglesas (North; Dryden/Clough), e o tradutor, bacharel em matemática, não declara formação em grego. A página de créditos não pôde ser vista; tradução indireta provável, não comprovada. B sai do registro."}
   question: "Em que edição ler a *Vida de Temístocles*, de Plutarco?"
   why: "As outras Vidas da coleção ficaram na série de Coimbra (tradução direta do grego, com notas), mas essa série não publicou Temístocles e Camilo. Não há tradução acadêmica em português deste par. Hoje a interface exibe a espanhola da Gredos, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -973,9 +973,8 @@ items:
       pros: ["Acadêmica e direta do grego", "Traz também Sólon e Péricles: um volume só cobre três das quatro Vidas que faltavam"]
       cons: ["Espanhol"]
     - key: B
-      pub: pub--edicoes-di--temistocles-e-camilo--2026
       label: "Edições DI, 2026 (português)"
-      status: "Registrada"
+      status: "Não registrada (removida em 2026-10-10)"
       facts: [["Tradução","Bernardo Santos"],["Formato","180 p.; série de 7 volumes"],["Situação","Nova, barata (~R$ 30)"]]
       pros: ["Português do Brasil"]
       cons: ["Não se sabe se traduz do grego ou do inglês — se for do inglês, a regra F.1 a rejeita enquanto houver tradução direta", "Sem aparato declarado"]

@@ -1956,14 +1956,6 @@ perez-jimenez:
          Plutarco para a Biblioteca Clásica Gredos."
   role: translator
 
-bernardo-santos:
-  name_display: "Bernardo Santos"
-  name_variants: []
-  dates: null
-  note: "Tradutor, não autor. Traduziu as Vidas paralelas de Plutarco para as
-         Edições DI (2026)."
-  role: translator
-
 alton:
   name_display: "Joseph Alton"
   name_variants: ["Joe Alton", "Joseph Alton MD"]
