@@ -604,9 +604,9 @@ def build():
     # PRECEDÊNCIA (decisão do Mathews, 2026-09-22): posse → preferência da
     # coleção → veredito → publicação única.
     # AJUSTE (pedido do Mathews, 2026-10-10): no nível da OBRA (catálogo,
-    # autor, busca) a ordem é posse → veredito → edição escolhida para uma
-    # coleção (`publication_pref`, a da primeira participação que tiver) →
-    # publicação única → a de acesso mais fácil (língua na ordem pt, es, it,
+    # autor, busca) vale a mesma precedência — posse → edição escolhida para
+    # uma coleção (`publication_pref`, a da primeira participação que tiver) →
+    # veredito → publicação única → a de acesso mais fácil (língua na ordem pt, es, it,
     # en; em catálogo; com anúncio). Antes, uma escolha feita por cartão de
     # decisão só aparecia dentro da coleção e a obra ficava sem capa no resto
     # da interface. As duas últimas saem ATENUADAS: não são escolha dele.
@@ -657,10 +657,10 @@ def build():
             pick = next((o for o in own if o in recset), own[0])
             w["display_edition"] = {"publication": pick, "state": "chosen",
                                     "by_ownership": True}
-        elif rec:
-            w["display_edition"] = {"publication": rec[0]["publication"], "state": "chosen"}
         elif _pref_de(wid, w):
             w["display_edition"] = _pref_de(wid, w)
+        elif rec:
+            w["display_edition"] = {"publication": rec[0]["publication"], "state": "chosen"}
         elif len(w["publications"]) == 1:
             w["display_edition"] = {"publication": w["publications"][0]["publication"],
                                     "state": "unassessed"}
