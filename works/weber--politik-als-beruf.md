@@ -29,6 +29,10 @@ relations:
 
 provenance: []
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora UnB, 2003, trad. Maurício Tragtenberg", note: "Revisão de um germanista, mas só A política como vocação."}
+  - {edition: "Martin Claret, 2015, trad. Marco Antônio Casanova", note: "Tradutor do alemão; edição não confirmada."}
+  - {edition: "Portugal, 2017, trad. Artur Morão", note: "Português de Portugal."}
 ---
 
 ## Fatos

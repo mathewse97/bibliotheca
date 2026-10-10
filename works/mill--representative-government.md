@@ -29,6 +29,8 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora UnB, 1981", note: "Coleção acadêmica, mas antiga e só usada."}
 ---
 
 ## Fatos

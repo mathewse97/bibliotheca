@@ -52,6 +52,9 @@ pending_assignment:
                 contexto para o qual ela foi escrita."
 
 updated: 2026-10-10
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Terracota, 2022 (espanhol)", note: "O original, atualizado; importado."}
+  - {edition: "Hesperian, 2022 (inglês)", note: "Atualizada; importada."}
 ---
 
 ## Fatos

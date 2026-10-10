@@ -58,6 +58,9 @@ provenance:
            dentro de coletâneas de ensaios, e não como volume próprio. A
            publicação a pesquisar é uma coletânea."
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "A arte de escrever ensaio, Iluminuras, 2008", note: "Brasileira e em catálogo, mas coletânea geral; o ensaio fica no meio de outros temas."}
+  - {edition: "Ensaios morais, políticos e literários, Topbooks, 2004", note: "A coletânea inteira, 850 p.; tradutor não confirmado."}
 ---
 
 ## Fatos

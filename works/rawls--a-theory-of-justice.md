@@ -29,6 +29,9 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Martins Fontes, 1997, trad. Almiro Pisetta e Lenita Esteves", note: "Traduz o texto de 1971, não a edição revista."}
+  - {edition: "Editorial Presença (Lisboa)", note: "Portuguesa."}
 ---
 
 ## Fatos

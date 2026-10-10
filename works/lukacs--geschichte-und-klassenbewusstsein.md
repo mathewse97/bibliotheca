@@ -48,6 +48,8 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Martins Fontes, 2003", note: "A mesma tradução; só usada."}
 ---
 
 ## Fatos

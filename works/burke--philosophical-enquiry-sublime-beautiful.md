@@ -53,6 +53,9 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edipro, 2016", note: "Tradução competente, sem apresentação nem notas."}
+  - {edition: "Edições 70 (Lisboa), 2013", note: "Portuguesa."}
 ---
 
 ## Fatos

@@ -50,6 +50,8 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Tempo Brasileiro, trad. Flávio R. Kothe", note: "Tradução anterior; só usada."}
 ---
 
 ## Fatos

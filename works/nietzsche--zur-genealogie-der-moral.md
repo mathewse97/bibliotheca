@@ -44,6 +44,8 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "L&PM, 2018, e edições populares", note: "Sem tradutor ou aparato que as ponham na mesma faixa."}
 ---
 
 ## Fatos

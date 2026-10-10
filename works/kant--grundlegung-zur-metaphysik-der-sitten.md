@@ -50,6 +50,10 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Discurso Editorial / Barcarolla, 2009", note: "A mesma tradução, bilíngue, mas sem as correções de 2025; só usada."}
+  - {edition: "Edições 70, trad. Paulo Quintela", note: "A tradução portuguesa clássica."}
+  - {edition: "Martin Claret, 2019", note: "Edição popular, sem aparato verificado."}
 ---
 
 ## Fatos

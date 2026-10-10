@@ -45,6 +45,8 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Forense Universitária, 2012, trad. Valerio Rohden e António Marques", note: "A mais citada, mas sem oferta nova e sem a Primeira Introdução."}
 ---
 
 ## Fatos

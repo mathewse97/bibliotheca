@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Imprensa da Universidade de Coimbra, 2009", note: "O mesmo texto em edição portuguesa: o caminho para achar o livro se a brasileira não aparecer."}
 ---
 
 ## Fatos

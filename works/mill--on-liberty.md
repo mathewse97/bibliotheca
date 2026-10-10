@@ -29,6 +29,9 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Vozes, trad. Alberto da Rocha Barros", note: "Boa tradução, mas a edição de bolso não traz o aparato."}
+  - {edition: "L&PM, Vide, Lafonte", note: "Tradutor não identificado."}
 ---
 
 ## Fatos

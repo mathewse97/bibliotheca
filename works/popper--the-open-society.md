@@ -29,6 +29,8 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Itatiaia / Edusp, trad. Milton Amado", note: "A única brasileira, mas esgotada há décadas e rara."}
 ---
 
 ## Fatos

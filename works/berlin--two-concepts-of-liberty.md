@@ -29,6 +29,8 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Estudos sobre a humanidade, Companhia das Letras, 2002", note: "Antologia geral de Berlin; sem a resposta dele às críticas. Também esgotada."}
 ---
 
 ## Fatos

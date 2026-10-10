@@ -51,6 +51,8 @@ provenance:
     note: "Fonte enciclopédica geral. A datação e a história da publicação
            devem ser confirmadas em tier 1–4 na pesquisa do §E."
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Vozes de Bolso, 2019; WMF Martins Fontes, 2023", note: "Só a primeira parte, sobre Feuerbach."}
 ---
 
 ## Fatos
