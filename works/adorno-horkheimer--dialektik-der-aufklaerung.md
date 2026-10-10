@@ -69,3 +69,16 @@ sem contexto: Weber e Freud estão pressupostos.
 Fecha `culture--g01`. É a explicação rival das três vozes já presentes: mesmo
 diagnóstico de degradação, causa oposta — a mercadoria, e não o abandono da
 tradição nem o espetáculo.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews (obra acrescentada por lacuna aprovada).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Guido Antonio de Almeida, do alemão | Zahar, 1985 (reimpressões com nova paginação e capa desde 2006), ISBN 978-85-7110-414-3 | **nova**, em catálogo |
+
+**Verificação.** É a única tradução brasileira. Guido Antonio de Almeida é o
+mesmo tradutor da *Fundamentação* de Kant escolhida para Política.
+
+**Escolha: A**, a única.

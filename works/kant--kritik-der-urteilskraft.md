@@ -62,3 +62,20 @@ entrar, é `supplementary` e não a substitui.
 Fecha `culture--g02`. É a fundação da autonomia da arte, que Adorno e
 Horkheimer, *Dialética do Esclarecimento*, tentam salvar — e que a crítica
 sociológica do gosto ataca.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews (obra acrescentada por lacuna aprovada).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Fernando Costa Mattos | Vozes, Pensamento Humano, 2016, 392 p. — traz a Primeira Introdução | **nova**, em catálogo |
+| B | Valerio Rohden e António Marques, da 2ª edição alemã (1793) | Forense Universitária, 1993; 3ª ed. 2012, 390 p. | sem oferta em destaque na Amazon |
+| C | Rohden e Marques (a mesma) | Imprensa Nacional–Casa da Moeda (Lisboa) | portuguesa; cara (~R$ 600) |
+
+**Verificação.** B foi a primeira tradução completa em português e é a mais
+citada; A é a segunda, e uma dissertação da UFMG confirma que traz a
+Primeira Introdução. Nenhuma fonte compara as duas.
+
+**Recomendação: A**, no cartão `d-ed-kant-juizo`, onde a escolha fica com o
+Mathews. A é exibida enquanto isso.

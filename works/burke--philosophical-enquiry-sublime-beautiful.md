@@ -68,3 +68,22 @@ Burke está em Política com as *Reflexões sobre a Revolução em
 França* (1790), escritas trinta e três anos depois. O leitor encontra o autor
 jovem, empirista, escrevendo sobre paixões — e depois o autor maduro
 respondendo à Revolução.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews (obra acrescentada por lacuna aprovada).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Enid Abreu Dobránszky — tradução, apresentação e notas | Editora da Unicamp, 1993; 2ª ed. 2013, 216 p. | **nova**, em catálogo |
+| B | Daniel Moreira Miranda | Edipro, 2016, 160 p. (*…do sublime e da beleza*) | nova |
+| C | (não identificado) | Edições 70 (Lisboa), 2013, 212 p. — declara seguir a 2ª edição inglesa (1759) | portuguesa, importada |
+| D | (não identificado) | Teneo Publishing House, 2024, 210 p. | nova; editora sem tradição acadêmica |
+
+**Faixas.** A está na faixa acadêmica: editora universitária, com
+apresentação e notas da tradutora. B é tradução brasileira competente de
+editora de clássicos, sem aparato declarado. C é portuguesa.
+
+**Escolha: A.** Os créditos de Dobránszky estão confirmados para a 1ª edição;
+presume-se o mesmo texto na 2ª. Não se conferiu se A traduz a 2ª edição
+inglesa (1759), a ampliada com a introdução sobre o gosto.
