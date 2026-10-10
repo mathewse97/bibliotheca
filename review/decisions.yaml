@@ -927,7 +927,8 @@ items:
   kind: edicao
   collections: [political-thought, greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Zahar, A trilogia tebana, trad. Mário da Gama Kury.", note: "Decisão do Mathews, seguindo a recomendação."}
   question: "Em que edição ler *Antígona*, de Sófocles?"
   why: "Hoje a *Antígona* está na *Trilogia tebana* da Zahar (Mário da Gama Kury), sua indicação, que traz também os dois *Édipos* da coleção Greco-Romana. Existe uma *Antígona* avulsa mais elogiada como tradução: a de Lawrence Flores Pereira (Penguin-Companhia, 2023)."
   editions:
