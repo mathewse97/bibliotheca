@@ -55,6 +55,9 @@ derived_from:
          do Mourão. Nenhuma das duas ensina a construir telescópio."
 
 updated: 2026-10-10
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "NightWatch, Firefly, 2023", note: "Introdução mais curta, centrada em cartas do céu."}
+  - {edition: "Turn Left at Orion, Cambridge, 2019", note: "Guia de objetos para observar, não de técnica e equipamento."}
 ---
 
 ## Fatos

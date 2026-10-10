@@ -29,6 +29,9 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Companhia das Letras, 1989", note: "A mesma tradução em formato maior; esgotada."}
+  - {edition: "Dom Quixote (Lisboa), 2024", note: "Portuguesa e importada."}
 ---
 
 ## Fatos

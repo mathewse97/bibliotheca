@@ -54,6 +54,9 @@ derived_from:
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Companhia das Letras, 2009", note: "A mesma tradução, sem os ensaios críticos."}
+  - {edition: "Antofágica, 2022, trad. Antônio Xerxenesky", note: "Tradução nova e ilustrada; aparato de divulgação."}
 ---
 
 ## Fatos

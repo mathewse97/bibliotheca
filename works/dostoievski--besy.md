@@ -44,6 +44,10 @@ derived_from:
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Sétimo Selo, 2023", note: "Tradutor não identificado."}
+  - {edition: "Os possessos, José Olympio, 1951", note: "Traduzida do francês."}
+  - {edition: "Aguilar, 1963", note: "Traduzida do inglês."}
 ---
 
 ## Fatos

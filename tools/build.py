@@ -573,6 +573,10 @@ def build():
         idx["collections"][cid] = d
 
     # ---- publicações -----------------------------------------------------
+    # Nome de exibição da editora (config/publishers.yaml): o arquivo guarda o
+    # identificador curto; o índice leva o nome, para a interface não mostrar
+    # "edicoes-70" onde deve aparecer "Edições 70".
+    pub_names = load_yaml(os.path.join(ROOT, "config/publishers.yaml"))
     for f in sorted(glob.glob(os.path.join(ROOT, "publications/*.md"))):
         if os.path.basename(f).startswith("_"):
             continue
@@ -581,6 +585,8 @@ def build():
         process_acquisition(d, pid, idx, issues)
         d["id"] = pid
         d["body_html"] = md(body)
+        if isinstance(d.get("publisher"), str) and d["publisher"] in pub_names:
+            d["publisher"] = pub_names[d["publisher"]]
         for c in (d.get("contains") or []):
             wid = c.get("work")
             w = idx["works"].get(wid)

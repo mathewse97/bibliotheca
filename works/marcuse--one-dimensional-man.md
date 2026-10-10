@@ -49,6 +49,8 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "A ideologia da sociedade industrial, Zahar, 1967", note: "A tradução histórica; só usada."}
 ---
 
 ## Fatos

@@ -37,6 +37,9 @@ derived_from:
   note: "Entrou pela sua lista. Você não indicou qual edição possui, e por isso nenhum registro de publicação foi criado."
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Onde não há dentista, Paulus, 1985", note: "Em português, mas sem a revisão de 2018; só usada."}
+  - {edition: "Donde no hay dentista, Hesperian, 2005", note: "Em espanhol, também sem a revisão de 2018."}
 ---
 
 ## Fatos

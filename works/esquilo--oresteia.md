@@ -92,6 +92,8 @@ derived_from:
          pesquisa, com fonte em `provenance`; o que continua nulo continua
          nulo de propósito."
 updated: 2026-09-27
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério", note: "Em prosa, inclusive as partes líricas; portuguesa."}
 ---
 
 ## Fatos

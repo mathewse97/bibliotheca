@@ -200,9 +200,20 @@ e objetivo.
 - **Página da obra**, abaixo das edições: bloco "Por que esta edição". Sem
   `why`, o bloco diz "A escolha ainda não foi comparada com outras edições" e
   mostra os dados da tradução — nunca inventa um motivo. Logo abaixo, recolhida,
-  a "Pesquisa de edições": a seção `## Edições…` do corpo da obra.
-- **Página da edição**: o mesmo `why` e, recolhidas, as "Notas da pesquisa"
-  (seção `## Avaliação` do corpo da publicação).
-- **Cartões decididos**: além da escolha, "Ver as opções e os motivos",
-  recolhido, com as edições ou opções, prós e contras e a recomendação.
+  "Outras edições consideradas": o campo `editions_considered` da obra, uma
+  linha por edição (`edition` + `note`, por que não foi a escolhida).
+- **O texto de pesquisa não vai para a tela** (revisão de 2026-10-10, pedido do
+  Mathews): a seção `## Edições…` do corpo da obra e a `## Avaliação` da
+  publicação são registro de trabalho — longas, com tabelas, nomes internos e
+  ids de cartão. Tudo o que a tela mostra é escrito para o leitor: sem
+  "Mathews", sem ids (`d-ed-…`, `pub--…`), sem nomes de campo.
+- **Página da edição**: o mesmo `why`.
+- **Cartões decididos**: a escolha e, recolhido, "Ver as opções e os motivos"
+  com as edições ou opções, prós e contras e a recomendação. A nota interna da
+  decisão (`decided.note`) e o contexto de antes da decisão (`why`) não
+  aparecem.
+- **Editora**: a tela mostra o nome de `config/publishers.yaml`, não o
+  identificador do arquivo.
+- **Celular** (até 600 px): capa e texto empilhados na página da edição e nas
+  edições dos cartões; nenhuma tela pode rolar na horizontal.
 - Ao escolher ou trocar uma edição, o agente escreve o `why` na mesma mudança.

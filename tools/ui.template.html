@@ -994,15 +994,31 @@ details.dmore[open]>summary::before{content:"▾  "}
 .ded dl{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin:6px 0 0;font-size:13px}
 .ded dt{color:var(--ink-faint)}.ded dd{margin:0}
 .ded.ro{cursor:default}.ded.ro:not(.sel):hover{border-color:var(--rule)}
+/* Celular: capa e texto empilhados — lado a lado sobrava uma coluna de três palavras. */
+@media(max-width:600px){
+  .pubhead{flex-direction:column;gap:12px}
+  .pubhead .cover.lg{width:120px}
+  .pubhead .nocover{width:96px;height:132px}
+  .pubhead h1{font-size:1.55rem}
+  .ded{grid-template-columns:1fr;gap:10px;padding:14px}
+  .ded .cover.sm,.ded .dnoimg{width:64px}
+  .ded dl{grid-template-columns:1fr;gap:0}
+  .ded dt{margin-top:6px}
+  .whyed{padding:11px 13px}
+}
 /* Por que esta edição — curto, logo abaixo da edição; a pesquisa fica recolhida. */
 .whyed{margin:10px 0 0;padding:12px 15px;border:1px solid var(--rule);border-left:3px solid var(--accent);border-radius:6px;background:var(--surface)}
 .whyed .k{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:3px}
 .whyed p{margin:0;max-width:68ch}
 .whyed .w + .w{margin-top:8px}
 .whyed .facts{font-size:12.5px;color:var(--ink-soft);margin-top:4px}
-details.research{margin-top:10px;border:1px solid var(--rule);border-radius:6px;background:var(--surface)}
-details.research>summary{cursor:pointer;padding:9px 15px;font-size:13px;color:var(--ink-soft)}
-details.research>.prose{padding:0 15px 12px}
+details.alts{margin-top:8px;border:1px solid var(--rule);border-radius:6px;background:var(--surface)}
+details.alts>summary{cursor:pointer;padding:10px 15px;font-size:13px;color:var(--ink-soft);list-style-position:inside}
+details.alts>summary .n{font-family:var(--mono);font-size:11px;color:var(--ink-faint);margin-left:4px}
+details.alts ul{list-style:none;margin:0;padding:0 15px 6px}
+details.alts li{padding:9px 0;border-top:1px solid var(--rule);display:flex;flex-direction:column;gap:2px}
+details.alts li b{font-weight:600;font-size:13.5px;overflow-wrap:anywhere}
+details.alts li span{font-size:13px;color:var(--ink-soft)}
 .dpc{font-size:13px;margin:8px 0 0;padding:0;list-style:none}
 .dpc .plus{color:var(--accent-ink)}.dpc .minus{color:var(--flag)}
 .dwait{display:flex;gap:12px;align-items:flex-start;margin:14px 22px 0;padding:12px 14px;border-radius:12px;background:var(--surface-2);font-size:14px}
@@ -1661,21 +1677,13 @@ function whyBlock(w){
     <p class="small muted">A escolha ainda não foi comparada com outras edições.</p>
     ${f?`<div class="facts">${E(f.charAt(0).toUpperCase()+f.slice(1))}.</div>`:''}</div>`;
 }
-/* Trecho do corpo a partir do título que começa com `prefix` até o próximo
-   título de mesmo nível ou acima — inclui os subtítulos de dentro. */
-function bodyFrom(html, prefix){
-  if(!html) return '';
-  const re=/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi; let m, start=-1, lvl=0, end=html.length;
-  while((m=re.exec(html))){
-    const t=m[2].replace(/<[^>]+>/g,'').trim();
-    if(start<0){ if(t.startsWith(prefix)){ start=re.lastIndex; lvl=+m[1]; } continue; }
-    if(+m[1]<=lvl){ end=m.index; break; }
-  }
-  return start<0 ? '' : html.slice(start,end).trim();
-}
-function researchBlock(html, prefix, label){
-  const h=bodyFrom(html, prefix);
-  return h && !vazio(h) ? `<details class="research"><summary>${label}</summary><div class="prose">${h}</div></details>` : '';
+/* Outras edições consideradas: `editions_considered` da obra — uma linha por
+   edição, escrita para o leitor. O texto de pesquisa do corpo da obra é
+   registro de trabalho e não vai para a tela. */
+function altsBlock(w){
+  const xs=w.editions_considered||[]; if(!xs.length) return '';
+  return `<details class="alts"><summary>Outras edições consideradas <span class="n">${xs.length}</span></summary>
+    <ul>${xs.map(x=>`<li><b>${mdi(x.edition)}</b><span>${mdi(x.note||'')}</span></li>`).join('')}</ul></details>`;
 }
 
 /* ---------- Obra --------------------------------------------------------- */
@@ -1715,7 +1723,7 @@ function vObra(id){
   </div>`;}).join('')}</div>`
   :`<div class="panel"><p class="small muted" style="margin:0">Nenhuma edição registrada ainda.</p></div>`}
   ${pubs.length?whyBlock(w):''}
-  ${researchBlock(w.body_html,'Edições','Pesquisa de edições')}
+  ${altsBlock(w)}
 
   ${rels.length?`<h2>Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
      <span class="small muted">${E(REL_PT[r.type]||r.type)}</span> ${wLink(r.target)}
@@ -1744,7 +1752,6 @@ function vPub(id){
   ${(()=>{const ws=cs.filter(c=>c.why); if(!ws.length) return '';
     const many=cs.length>1;
     return `<div class="whyed"><div class="k">Por que esta edição</div>${ws.map(c=>`<p class="w">${many?`<b>${E(wTitle(c.work))}.</b> `:''}${mdi(c.why)}</p>`).join('')}</div>`;})()}
-  ${researchBlock(p.body_html,'Avaliação','Notas da pesquisa')}
   ${(()=>{const ex=p.also_contains||[]; const n=cs.length+ex.length;
     return `<h2>${n>1?`Contém ${n} obras`:'Obra'}</h2>
   <div class="rows">${cs.map(c=>`<div class="row"><div class="n">·</div>
@@ -2028,10 +2035,9 @@ function decCands(d){
 /* Cartão decidido: o raciocínio continua consultável, recolhido. */
 function decDecidedDetail(d){
   const eds=(d.editions||[]).length, ops=(d.options||[]).length;
-  if(!eds && !ops && !d.why && !d.recommendation) return '';
+  if(!eds && !ops && !d.recommendation) return '';
   const rec=(d.options||[]).find(o=>o.recommended), recKey = rec?rec.key:d.recommended;
   return `<details class="dmore"><summary>Ver as opções e os motivos</summary><div class="dmbody">
-    ${d.why?`<p class="dwhy">${mdi(d.why)}</p>`:''}
     ${eds?decEditions(d,true):''}
     ${ops?`<ul class="dpc">${d.options.map(o=>`<li><b>${E(o.key)}.</b> ${mdi(o.title)}${o.effect?` <span class="dhint">${mdi(o.effect)}</span>`:''}</li>`).join('')}</ul>`:''}
     ${d.recommendation?`<p class="drecwhy"><b>${recKey?`Por que ${E(recKey)}:`:'Leitura:'}</b> ${mdi(d.recommendation)}</p>`:''}
@@ -2045,7 +2051,7 @@ function decCard(d){
     const dc=d.decided||{};
     return `<article class="dcard dsmall" data-st="decidida" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}">
       <div class="dhead">${top}<h2 class="dq">${mdi(d.question)}</h2>
-      <p class="dwhy"><b>Escolha:</b> ${mdi(dc.choice)}${dc.note?` <span class="dhint">${mdi(dc.note)}</span>`:''}</p>
+      <p class="dwhy"><b>Escolha:</b> ${mdi(dc.choice)}</p>
       <p class="dhint">Decidido em ${E(dc.date||'')}. Para desfazer, peça na conversa.</p></div>
       ${decDecidedDetail(d)}</article>`;
   }

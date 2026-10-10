@@ -56,6 +56,9 @@ derived_from:
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "O zero e o infinito, Globo, 1987", note: "Traduzida do inglês, não do original alemão."}
+  - {edition: "O zero e o infinito, Amarylis, 2013", note: "Também a partir do inglês."}
 ---
 
 ## Fatos

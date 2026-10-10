@@ -359,8 +359,8 @@ items:
   options:
     - {key: A, recommended: true, title: "Trocar Werner por Alton e incluir Schlaad", effect: "Sai *Onde não há médico*. Entra *The Survival Medicine Handbook*, 4ª ed. (2021), como manual principal, e *Medicina em áreas remotas no Brasil* (Manole, 2019) como referência em português para o contexto brasileiro. Dickson fica, na edição inglesa revista em 2018. Eu registro obras e edições."}
     - {key: B, title: "Só trocar Werner por Alton", effect: "Sai Werner, entra Alton. Nenhuma obra brasileira entra. Dickson fica."}
-    - {key: C, title: "Manter Werner e Dickson e incluir Alton", effect: "Nada sai; Alton entra como complemento. Os cartões de edição de Werner e Dickson continuam valendo."}
-    - {key: D, title: "Nada muda", effect: "A coleção fica como está; os cartões d-ed-werner e d-ed-dickson continuam abertos."}
+    - {key: C, title: "Manter Werner e Dickson e incluir Alton", effect: "Nada sai; Alton entra como complemento. As escolhas de edição de Werner e Dickson continuam valendo."}
+    - {key: D, title: "Nada muda", effect: "A coleção fica como está; as edições de Werner e Dickson continuam em aberto."}
   recommendation: "Alton responde exatamente à pergunta da coleção: o livro parte do princípio de que hospital e médico não estão disponíveis por tempo indefinido, e cobre o que Werner cobre (infecções, doenças comuns, medicamentos, parto, dentes) e mais: cuidado de doenças crônicas, procedimentos e plantas medicinais. É de 2021, escrito por um médico e uma enfermeira de prática avançada, com cerca de 700 páginas. Schlaad entra porque nenhum dos manuais estrangeiros trata do que é específico do Brasil, como animais peçonhentos e doenças tropicais. Dickson fica porque não achei nada melhor sobre dentes: a única alternativa específica, o manual de Met Clark (2011), tem 80 páginas."
   composition: true
   composition_note: "Medicina e socorro hoje: Dickson, Werner, Silva e Conforto (primeiros socorros), PHTLS (trauma pré-hospitalar), Hoffmann (ervas). Os dois últimos supõem que haverá atendimento depois; só Werner e Dickson tratam do cuidado continuado sem médico."
@@ -827,7 +827,7 @@ items:
   priority: media
   state: decidir
   question: "Qual edição de *A sociedade aberta e seus inimigos*, de Popper?"
-  why: "Você indicou a da Itatiaia, trad. Milton Amado. Pesquisei: ela é a única tradução brasileira, mas está esgotada há décadas e só se acha rara (um jogo de 2 volumes a R$ 500 na Estante Virtual). A alternativa em catálogo é portuguesa, da Edições 70. Nenhuma fonte compara as duas traduções. Hoje a interface exibe a portuguesa, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  why: "Você indicou a da Itatiaia, trad. Milton Amado. Pesquisei: ela é a única tradução brasileira, mas está esgotada há décadas e só se acha rara (um jogo de 2 volumes a R$ 500 na Estante Virtual). A alternativa em catálogo é portuguesa, da Edições 70. Nenhuma fonte compara as duas traduções. Por enquanto aparece a portuguesa."
   editions:
     - key: A
       pub: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012
@@ -852,7 +852,7 @@ items:
   priority: baixa
   state: decidir
   question: "Em que livro ler *Dois conceitos de liberdade*, de Berlin?"
-  why: "Você pediu uma edição brasileira acadêmica dos ensaios. Há duas coletâneas brasileiras com o ensaio, ambas esgotadas. Nenhuma fonte compara as traduções. Hoje a interface exibe a da UnB, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  why: "Você pediu uma edição brasileira acadêmica dos ensaios. Há duas coletâneas brasileiras com o ensaio, ambas esgotadas. Nenhuma fonte compara as traduções. Por enquanto aparece a da UnB."
   editions:
     - key: A
       pub: pub--unb--quatro-ensaios-sobre-a-liberdade--1981
@@ -1018,7 +1018,7 @@ items:
   collections: [survival-self-sufficiency]
   priority: media
   state: decidida
-  decided: {date: 2026-10-10, choice: "Arquivado — Werner saiu da coleção pelo cartão d-sob-medicina (opção A).", note: "Nenhuma edição escolhida. As três publicações continuam registradas, sem coleção."}
+  decided: {date: 2026-10-10, choice: "Arquivado — Werner saiu de Sobrevivência; Alton ocupa o lugar dele.", note: "Nenhuma edição escolhida. As três publicações continuam registradas, sem coleção."}
   question: "Qual edição de *Onde não há médico*, de David Werner?"
   why: "É um manual de saúde, então a data da informação médica pesa tanto quanto a língua. A única edição brasileira (Paulus) traz informação de décadas atrás. As edições atualizadas são em espanhol, a língua original, e em inglês. Hoje a interface exibe a espanhola, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:

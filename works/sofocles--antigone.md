@@ -75,6 +75,9 @@ derived_from:
          nulo de propósito."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-27
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, mas avulsa. Em decisão."}
+  - {edition: "Perspectiva, 2009, trad. Trajano Vieira", note: "Avulsa."}
 ---
 
 ## Fatos

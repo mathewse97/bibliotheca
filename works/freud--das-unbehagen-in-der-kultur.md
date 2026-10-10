@@ -49,6 +49,10 @@ provenance:
            'civilização' — a escolha entre as duas palavras é assunto da
            pesquisa de edição."
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "O mal-estar na cultura, Autêntica, 2025", note: "Tradução de Maria Rita Salzano Moraes, com glossário; o título traduz Kultur ao pé da letra."}
+  - {edition: "Obras completas, vol. 18, Companhia das Letras, 2010", note: "A mesma tradução, em capa dura, com outros textos."}
+  - {edition: "L&PM, Vozes, Martin Claret", note: "Edições correntes, sem o projeto editorial das duas primeiras."}
 ---
 
 ## Fatos

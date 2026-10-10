@@ -40,6 +40,9 @@ derived_from:
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-10-10
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Penguin-Companhia, 2020", note: "A mesma tradução, de bolso, sem a fortuna crítica."}
+  - {edition: "Biblioteca Azul, Aleph, Melhoramentos (2021)", note: "Outras traduções novas, sem a mesma referência."}
 ---
 
 ## Fatos

@@ -30,6 +30,10 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Odysseus, 2022, trad. Ordep Serra", note: "A edição mais comentada da peça, mas fora da série de Torrano. Fica até o lançamento do volume VI."}
+  - {edition: "Perspectiva, 2003, trad. Trajano Vieira", note: "Fora da série; formato bilíngue não confirmado."}
+  - {edition: "Zahar, 1993, trad. Mário da Gama Kury", note: "Fora da série; não bilíngue."}
 ---
 
 ## Fatos

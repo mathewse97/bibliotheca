@@ -29,6 +29,8 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Dentro da baleia e outros ensaios, Companhia das Letras, 2005", note: "Coletânea maior, mas a presença do ensaio não está confirmada."}
 ---
 
 ## Fatos

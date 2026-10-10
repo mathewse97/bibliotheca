@@ -29,6 +29,9 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Vozes, 1992, trad. Álvaro Valls", note: "A mais citada no Brasil, mas esgotada e sem o aparato sobre as três versões do texto."}
+  - {edition: "Del Rey, 2008", note: "Traz também a Teoria do partisan; tradução não avaliada."}
 ---
 
 ## Fatos
