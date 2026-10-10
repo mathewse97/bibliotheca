@@ -42,3 +42,17 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+Indicação do Mathews: "Editora UnB, edição brasileira". De onde veio: a
+lista original de Política, que não está no repositório (ver STATE.md).
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Beatriz Sidou | Editora UnB, 2001, 232 p., ISBN 978-85-230-0621-1 | exemplares novos e usados na Estante Virtual (a partir de R$ 42,75); a Amazon lista sem oferta em destaque |
+
+**Verificação.** É a única tradução brasileira de *On Democracy* (Yale,
+1998). A 2ª edição inglesa (2015, com Ian Shapiro) não foi traduzida.
+
+**Escolha: A**, a sua indicação, verificada.

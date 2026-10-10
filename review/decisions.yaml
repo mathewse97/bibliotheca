@@ -807,6 +807,57 @@ items:
   recommendation: "B: brasileira, em catálogo, com notas e com a introdução de um especialista em Burke. A continua sendo a mais acadêmica, mas só se você aceitar português de Portugal e importação (ou a versão digital)."
   recommended: B
 
+- id: d-ed-popper
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *A sociedade aberta e seus inimigos*, de Popper?"
+  why: "Você indicou a da Itatiaia, trad. Milton Amado. Pesquisei: ela é a única tradução brasileira, mas está esgotada há décadas e só se acha rara (um jogo de 2 volumes a R$ 500 na Estante Virtual). A alternativa em catálogo é portuguesa, da Edições 70. Nenhuma fonte compara as duas traduções. Hoje a interface exibe a portuguesa, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012
+      label: "Edições 70 (Lisboa), 2012–2013, 2 volumes"
+      status: "Registrada (os dois volumes) · exibida hoje (provisória)"
+      facts: [["Tradução","Miguel Freitas da Costa, revisão de Pedro Bernardo"],["Aparato","Prefácio de João Carlos Espada (especialista em Popper)"],["Coleção","Biblioteca de Teoria Política, 7 e 8"],["Formato","526 + 320 p."],["Situação","Nova; vendida na Amazon como livro importado"]]
+      pros: ["Em catálogo, tradução recente e revisada", "Prefácio acadêmico"]
+      cons: ["Português de Portugal", "Não se sabe de qual edição inglesa traduz"]
+    - key: B
+      label: "Itatiaia / Edusp, 1974 (reimpressões até 1998)"
+      status: "Não registrada"
+      facts: [["Tradução","Milton Amado"],["Títulos dos volumes","O fascínio de Platão; A preamar da profecia: Hegel, Marx e a colheita"],["Formato","2 volumes, cerca de 810 p."],["Situação","Esgotada; rara (~R$ 500 o jogo)"]]
+      pros: ["Sua indicação", "Única tradução brasileira"]
+      cons: ["Só se acha usada e cara", "Antiga; qualidade da tradução não avaliada em fonte"]
+  options: []
+  recommendation: "A: as duas são integrais e nenhuma fonte diz que uma tradução é melhor que a outra. A diferença está em que A pode ser comprada nova, traz prefácio acadêmico e revisão; B é brasileira, mas rara e cara. Se o português do Brasil pesar mais que o preço, escolha B."
+  recommended: A
+
+- id: d-ed-berlin
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Em que livro ler *Dois conceitos de liberdade*, de Berlin?"
+  why: "Você pediu uma edição brasileira acadêmica dos ensaios. Há duas coletâneas brasileiras com o ensaio, ambas esgotadas. Nenhuma fonte compara as traduções. Hoje a interface exibe a da UnB, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--unb--quatro-ensaios-sobre-a-liberdade--1981
+      label: "Quatro ensaios sobre a liberdade — Editora UnB, 1981"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Wamberto Hudson Ferreira"],["Conteúdo","Os quatro ensaios sobre a liberdade e a Introdução em que Berlin responde aos críticos de Dois conceitos"],["Formato","203 p."],["Situação","Esgotada; um exemplar na Estante Virtual (R$ 203) e um na Amazon"]]
+      pros: ["O livro inteiro é sobre liberdade", "A Introdução é a resposta de Berlin às críticas a este ensaio"]
+      cons: ["Difícil de achar", "Antiga; 203 p. parece pouco — integralidade não conferida"]
+    - key: B
+      pub: pub--companhia-das-letras--estudos-sobre-a-humanidade--2002
+      label: "Estudos sobre a humanidade — Companhia das Letras, 2002"
+      status: "Registrada"
+      facts: [["Tradução","Rosaura Eichenberg"],["Organização","Henry Hardy e Roger Hausheer"],["Conteúdo","Antologia ampla (filosofia, política, história das ideias, retratos)"],["Formato","720 p."],["Situação","Esgotada; nove exemplares usados na Estante Virtual, a partir de R$ 189"]]
+      pros: ["Fácil de achar usada", "Tradutora habitual de Berlin na Companhia; organização dos editores do espólio"]
+      cons: ["O ensaio é um entre muitos; não traz a Introdução de Quatro ensaios"]
+  options: []
+  recommendation: "A, porque traz junto a resposta de Berlin às críticas ao ensaio, que faz parte da leitura dele. B é a escolha se você quiser uma antologia geral de Berlin ou não achar A."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

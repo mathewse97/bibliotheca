@@ -545,7 +545,8 @@ sequence:
     demand: exigente
     why_here: "Antissemitismo, imperialismo, massas, ideologia e totalitarismo."
     why_here_by: voce
-    edition_pref: {text: "Companhia das Letras, trad. Roberto Raposo.", by: voce, verified: false}
+    edition_pref: {text: "Companhia das Letras, trad. Roberto Raposo.", by: voce, verified: true}
+    publication_pref: pub--companhia-de-bolso--origens-do-totalitarismo--2013   # escolhida em 2026-10-10 (Etapa 1): sua indicação verificada — única tradução brasileira, impressão em catálogo; pesquisa na obra
 
   - work: koestler--darkness-at-noon
     role: literary-treatment
@@ -569,6 +570,7 @@ sequence:
                e dirigir o curso necessário da história."
     why_here_by: voce
     edition_pref: {text: "Itatiaia, trad. Milton Amado.", by: voce, verified: false}
+    publication_pref: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012   # provisória: a escolha está no cartão d-ed-popper (2026-10-10); vol. 2 em pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013
 
   - work: berlin--two-concepts-of-liberty
     core: true
@@ -581,6 +583,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
+    publication_pref: pub--unb--quatro-ensaios-sobre-a-liberdade--1981   # provisória: a escolha está no cartão d-ed-berlin (2026-10-10)
     # form: essay (no registro da obra). A publicação será provavelmente
     # "Quatro Ensaios sobre a Liberdade", que contém quatro obras.
 
@@ -610,7 +613,8 @@ sequence:
       text: "ASIN/ISBN-10 6599245404 (Amazon). Editora e ano não
              identificados."
       by: claude
-      verified: false
+      verified: true
+    publication_pref: pub--audax--subversao--2021   # escolhida em 2026-10-10 (Etapa 1): única edição; é a do ISBN já registrado; pesquisa na obra
 
   - work: orwell--politics-and-the-english-language
     role: supplementary
@@ -684,6 +688,7 @@ sequence:
     why_here_by: claude
     requires: [marcuse--one-dimensional-man]
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--unesp--mudanca-estrutural-da-esfera-publica--2014   # escolhida em 2026-10-10 (Etapa 1): tradução mais recente e única em catálogo; pesquisa na obra
 
   - work: dahl--on-democracy
     core: true
@@ -692,7 +697,8 @@ sequence:
     why_here: "Democracia como problema institucional: participação,
                competição, representação e pluralismo."
     why_here_by: voce
-    edition_pref: {text: "Editora UnB, edição brasileira.", by: voce, verified: false}
+    edition_pref: {text: "Editora UnB, edição brasileira.", by: voce, verified: true}
+    publication_pref: pub--unb--sobre-a-democracia--2001   # escolhida em 2026-10-10 (Etapa 1): sua indicação verificada — única tradução brasileira; pesquisa na obra
 
   # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO CONFIRMADA
   # por você em 2026-10-05 (cartão d-pos-levitsky): logo depois de Dahl, que descreve como a
@@ -717,7 +723,8 @@ sequence:
       text: "Martins Fontes, trad. Jussara Simões, revisão técnica de
              Álvaro de Vita."
       by: voce
-      verified: false
+      verified: true
+    publication_pref: pub--martins-fontes--uma-teoria-da-justica--2016   # escolhida em 2026-10-10 (Etapa 1): sua indicação verificada — tradução da edição revista; pesquisa na obra
 
   - movement: "IX. Crítica libertária"
     purpose: "A recusa mais radical da premissa comum a quase toda a coleção:

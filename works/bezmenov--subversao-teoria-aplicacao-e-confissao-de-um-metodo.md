@@ -17,8 +17,8 @@ subjects: [guerra-politica, subversao-ideologica, propaganda, totalitarismo]
 
 research_status: partially_researched
 missing: ["título original / relação com as palestras e escritos em inglês de
-          Bezmenov (ex.: Love Letter to America)", editora, ano, tradutor,
-          work_type, date_written]
+          Bezmenov (ex.: Love Letter to America)", tradutor,
+          work_type, date_written]   # editora e ano: Audax, 2021 — ver seção Edições
 priority_library: null
 obsidian_notes: []
 
@@ -82,3 +82,17 @@ Decisão de inclusão em `political-thought`, movimento VII ("Poder, partidos,
 massas e ideologia"), é sua, de 2026-09-06 — ver `collections/political-thought.md`
 e `review/political-thought.md` §6. A pesquisa bibliográfica (editora, ano,
 edição, língua original) continua em aberto.
+
+## Edições — pesquisa de 2026-10-10
+
+A identificação estava em aberto: só o ISBN-10 6599245404, registrado por
+Claude em 2026-09-06 a partir de um anúncio.
+
+**Resultado.** É a edição da **Audax, 2021** — 1ª edição, 416 p., ISBN
+978-6599245404, "Antologia Estratégica I, 1983–1984", **bilíngue
+inglês–português** (capa e ficha do anúncio). A descrição da editora diz ser
+"o primeiro volume do compêndio de trabalhos" de Bezmenov. Não há outra
+edição deste título. Continua sem tradutor identificado e sem sumário
+conferido.
+
+**Escolha:** `pub--audax--subversao--2021`, a única.
