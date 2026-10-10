@@ -39,9 +39,9 @@ contains:
 
 cover:
   file: covers/pub--avis-rara--1177-ac--2023.webp
-  source: "https://m.media-amazon.com/images/I/81Z9bT9HjFL._SL1500_.jpg — imagem do anúncio https://www.amazon.com.br/dp/6559573567, baixada em 2026-10-10"
+  source: "https://m.media-amazon.com/images/I/71vsi3gKvxL._SL1297_.jpg — foto de produto (frente e verso) do anúncio https://www.amazon.com.br/dp/6559573567, baixada em 2026-10-10"
   source_type: retailer
-  format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-10, conforme config/acquisition.yaml."
+  format_note: "Painel da frente recortado da foto de produto e endireitado (transformação de perspectiva, 640×920), convertido para WebP (qualidade 80) em 2026-10-10. Substitui a imagem principal do anúncio, que mostrava a cinta promocional ('A história por trás de A Odisseia'), ausente no exemplar do Mathews."
   represents: publication
   checked: 2026-10-10
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
@@ -63,12 +63,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-10-10
     confidence: verified
-  - claim: "A capa traz 'Eric H. Cline', '1177 a.C.', 'O ano em que a civilização…', 'A história por trás de A Odisseia' e o selo Avis Rara."
+  - claim: "A capa traz 'Eric H. Cline', '1177 a.C.', 'O ano em que a civilização entrou em colapso' e o selo Avis Rara, sem cinta. Confere com a capa da edição no Skoob e com o exemplar do Mathews, que não tem a cinta 'A história por trás de A Odisseia' mostrada na imagem principal da Amazon."
     source: "covers/pub--avis-rara--1177-ac--2023.webp"
     source_tier: null
     retrieved: 2026-10-10
     confidence: verified
-    note: "Exame direto da imagem."
+    note: "Exame direto da imagem; capa trocada em 2026-10-10 a pedido do Mathews."
 
 updated: 2026-10-10
 ---
