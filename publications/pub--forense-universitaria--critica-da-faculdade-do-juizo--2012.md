@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: kant--kritik-der-urteilskraft
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-kant-juizo."
+    reason: "Alternativa: o cartão d-ed-kant-juizo foi decidido em 2026-10-10 pela Vozes. É a tradução mais citada na bibliografia brasileira."
     translator: [rohden, antonio-marques]
     translated_from: direct
     source_text: null
@@ -83,4 +83,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-kant-juizo.**
+**Alternativa — cartão d-ed-kant-juizo decidido em 2026-10-10 por outra edição.**

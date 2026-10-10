@@ -261,7 +261,7 @@ sequence:
                arte, que a coleção inteira pressupõe sem nunca enunciar."
     why_here_by: claude
     closes_gap: culture--g02
-    publication_pref: pub--vozes--critica-da-faculdade-de-julgar--2016   # provisória: a escolha está no cartão d-ed-kant-juizo (2026-10-10)
+    publication_pref: pub--vozes--critica-da-faculdade-de-julgar--2016   # decisão sua, 2026-10-10 (d-ed-kant-juizo)
 
 
   - work: nietzsche--zur-genealogie-der-moral
@@ -308,7 +308,7 @@ sequence:
                de Frankfurt opera sobre Marx — a outra metade é Weber."
     why_here_by: claude
     placement_status: a-confirmar
-    publication_pref: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011   # provisória: a escolha está no cartão d-ed-freud (2026-10-10)
+    publication_pref: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011   # decisão sua, 2026-10-10 (d-ed-freud)
 
 
   - movement: "II. O diagnóstico da degradação, e a disputa pela causa"
