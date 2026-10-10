@@ -47,6 +47,11 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "TEB — Tradução Ecumênica da Bíblia, Loyola", note: "Do mesmo nível, com notas ecumênicas; serve de segunda Bíblia de estudo."}
+  - {edition: "Bíblia do Peregrino, Paulus", note: "Notas literárias ricas; não se confirmou que o texto foi traduzido dos originais."}
+  - {edition: "Almeida, Sociedade Bíblica do Brasil", note: "Referência protestante, sem os livros deuterocanônicos."}
+  - {edition: "Bíblia, trad. Frederico Lourenço, Companhia das Letras", note: "Excelente, mas incompleta, e o Antigo Testamento sai do grego."}
 ---
 
 ## Fatos

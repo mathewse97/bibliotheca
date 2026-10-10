@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: berger--the-sacred-canopy
+    why: "A tradução brasileira padrão, direta do inglês, em catálogo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [barcellos]

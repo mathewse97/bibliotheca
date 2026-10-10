@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: campbell--the-hero-with-a-thousand-faces
+    why: "A tradução mais nova, feita sobre a edição definitiva da Fundação Joseph Campbell."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [ghorayeb, heraclito-pinheiro]

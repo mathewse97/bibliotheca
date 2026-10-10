@@ -46,6 +46,9 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Paidós, 2019", note: "Direta do francês, mas em espanhol."}
+  - {edition: "Zahar, edição antiga em tomos", note: "A mesma tradução; só usada."}
 ---
 
 ## Fatos

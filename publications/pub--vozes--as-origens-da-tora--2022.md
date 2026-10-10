@@ -29,6 +29,7 @@ source_of_record: voce
 
 contains:
   - work: finkelstein-romer--aux-origines-de-la-torah
+    why: "Única tradução em português, em catálogo."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [pezenti]

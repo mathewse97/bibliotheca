@@ -43,6 +43,8 @@ derived_from:
 
 provenance: []
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Bíblia de Jerusalém, Paulus", note: "Notas de alto nível, mas tradução de comissão e confessional."}
 ---
 
 ## Fatos

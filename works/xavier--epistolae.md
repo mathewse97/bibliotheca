@@ -47,6 +47,9 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Obras completas, Loyola / Apostolado da Oração, 2006", note: "Todos os escritos, em português; em decisão."}
+  - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original castelhano, com notas; só usado."}
 ---
 
 ## Fatos

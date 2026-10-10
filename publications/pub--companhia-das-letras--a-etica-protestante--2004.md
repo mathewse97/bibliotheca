@@ -8,12 +8,12 @@ year: 2004
 language: pt-BR
 bilingual: false
 bilingual_pair: null           # não verificado no livro (§E.2 passo 5)
-editor: null
-introduction_by: null
+editor: [pierucci]
+introduction_by: [pierucci]
 register: academic
 framing: null
 format: []
-pages: null
+pages: 336
 isbn13: "9788535904703"
 
 availability_br: em-catalogo
@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: weber--die-protestantische-ethik
+    why: "A tradução de referência no Brasil, direta do alemão, com o aparato de Antônio Flávio Pierucci."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [mariani-de-macedo]

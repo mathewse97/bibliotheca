@@ -54,6 +54,8 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Atravessar o limiar da esperança, Planeta (Lisboa), 1994", note: "Portuguesa; também esgotada."}
 ---
 
 ## Fatos

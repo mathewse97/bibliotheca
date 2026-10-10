@@ -47,6 +47,9 @@ provenance:
     retrieved: 2026-09-19
     confidence: verified
 updated: 2026-09-19
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Pioneira, trad. M. Irene e Tamás Szmrecsányi", note: "A tradução antiga, sem o aparato de Pierucci."}
+  - {edition: "Martin Claret; Edipro", note: "Sem aparato; tradução não avaliada."}
 ---
 
 ## Fatos

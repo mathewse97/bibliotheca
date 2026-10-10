@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: evangelhos-canonicos
+    why: "Tradução direta do grego, de Frederico Lourenço, com notas que explicam o texto sem tomar partido religioso."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [frederico-lourenco]

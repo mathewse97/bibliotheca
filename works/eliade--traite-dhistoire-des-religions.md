@@ -49,6 +49,8 @@ provenance:
     retrieved: 2026-09-20
     confidence: reported
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Cosmos / Asa (Portugal)", note: "A mesma tradução, esgotada."}
 ---
 
 ## Fatos

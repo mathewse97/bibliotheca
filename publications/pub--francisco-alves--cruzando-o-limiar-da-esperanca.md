@@ -28,6 +28,7 @@ source_of_record: claude
 
 contains:
   - work: joao-paulo-ii--varcare-la-soglia-della-speranza
+    why: "A edição brasileira da obra. Só usada."
     verdict: unassessed
     reason: null
     translator: []              # não confirmado

@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: bottero--au-commencement-etaient-les-dieux
+    why: "Única tradução brasileira, direta do francês."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [marcelo-jacques-morais]

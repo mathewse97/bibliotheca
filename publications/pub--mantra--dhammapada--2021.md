@@ -6,7 +6,7 @@ publisher_country: BR
 series: null
 year: 2021
 language: pt-BR
-bilingual: false
+bilingual: true                 # páli e português, com transliteração (sinopse do livreiro, 2026-10-10)
 bilingual_pair: null           # não verificado no livro (§E.2 passo 5)
 editor: null
 introduction_by: null
@@ -28,6 +28,7 @@ source_of_record: claude
 
 contains:
   - work: dhammapada
+    why: "Sua indicação: tradução direta do páli, de José Carlos Calazans, bilíngue, com o texto páli e a transliteração."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [calazans]

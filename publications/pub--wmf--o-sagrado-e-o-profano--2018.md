@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: eliade--das-heilige-und-das-profane
+    why: "A tradução em catálogo, feita do francês em que Eliade escreveu o livro."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [rogerio-fernandes]

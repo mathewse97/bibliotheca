@@ -49,6 +49,9 @@ provenance:
     retrieved: 2026-09-20
     confidence: verified
 updated: 2026-09-20
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Trotta e Cátedra (espanhol)", note: "Diretas do acádio, mas em espanhol e com aparato menor."}
+  - {edition: "Library of Babylonian Literature, Bloomsbury, 2024", note: "O texto no estado da arte, em inglês; complemento acadêmico."}
 ---
 
 ## Fatos

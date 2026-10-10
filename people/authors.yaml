@@ -2104,3 +2104,20 @@ octany-silveira-da-mota:
   note: "Tradutor, não autor. Traduziu, com Leonidas Hegenberg, Ciência e
          política: duas vocações, de Max Weber (Cultrix)."
   role: translator
+
+pierucci:
+  name_display: "Antônio Flávio Pierucci"
+  name_variants: []
+  dates: "1945–2012"
+  note: "Sociólogo da religião (USP). Editou A ética protestante e o espírito
+         do capitalismo (Companhia das Letras, 2004): revisão técnica,
+         apresentação, glossário e índice."
+  role: editor
+
+fabio-r-de-araujo:
+  name_display: "Fabio R. de Araujo"
+  name_variants: []
+  dates: null
+  note: "Organizou, introduziu e traduziu A Tábua de Esmeralda (edição
+         independente, 2017)."
+  role: translator

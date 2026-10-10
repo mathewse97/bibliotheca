@@ -28,6 +28,7 @@ source_of_record: voce
 
 contains:
   - work: biblia
+    why: "A Bíblia de estudo católica mais completa em português: traduzida do hebraico, do aramaico e do grego, com as introduções e notas da Escola Bíblica de Jerusalém."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []
