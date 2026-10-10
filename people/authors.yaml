@@ -290,7 +290,7 @@ vieira-de-mello:
 
 lobo:
   name_display: "Julio Lobo"
-  name_variants: []
+  name_variants: ["Julio Cheda"]   # nome civil, segundo a ficha CIP e o copyright do livro (exemplar do Mathews, 2026-10-10)
   dates: null                 # a pesquisar
   note: "Id pelo sobrenome, como todos os outros. `Lobo` é sobrenome comum e
          pode colidir um dia — António Lobo Antunes seria o caso óbvio. Se
