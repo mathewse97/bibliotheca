@@ -1303,13 +1303,6 @@ pessoa-de-lira:
   dates: null
   note: "Tradutor, do grego; assina prefácio, introdução e glossário."
 
-costelloe:
-  name_display: "M. Joseph Costelloe"
-  name_variants: []
-  dates: null
-  note: "Tradutor, introdutor e anotador do corpus epistolar de Francisco
-         Xavier."
-
 ghorayeb:
   name_display: "Camilo Francisco Ghorayeb"
   name_variants: []
@@ -2120,4 +2113,12 @@ fabio-r-de-araujo:
   dates: null
   note: "Organizou, introduziu e traduziu A Tábua de Esmeralda (edição
          independente, 2017)."
+  role: translator
+
+francisco-de-sales-baptista:
+  name_display: "Francisco de Sales Baptista"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Jesuíta; organizou e traduziu as Obras completas
+         de São Francisco Xavier (Edições Loyola / Apostolado da Oração, 2006)."
   role: translator
