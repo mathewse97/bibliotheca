@@ -1,10 +1,10 @@
 ---
 id: orwell--animal-farm
 id_aliases: []
-title_pt: "A Revolução dos Bichos"
+title_pt: "A Fazenda dos Animais"
 title_original: "Animal Farm: A Fairy Story"
 title_en: "Animal Farm"
-alt_titles: []
+alt_titles: ["A Revolução dos Bichos"]
 authors: [orwell]
 original_language: en
 form: novel
@@ -19,7 +19,6 @@ research_status: partially_researched
 missing:
   - "Confirmação da língua original numa fonte que a declare explicitamente"
   - "Período, tradições e assuntos"
-  - "Nenhuma edição registrada na biblioteca: a indicação (Companhia das Letras, trad. Heitor Aquino Ferreira) continua não verificada"
 priority_library: null
 obsidian_notes: []
 
@@ -40,7 +39,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-09-28
+updated: 2026-10-10
 ---
 
 ## Fatos
@@ -65,39 +64,18 @@ Não pesquisadas. Nenhuma edição está registrada na biblioteca para esta obra
 
 —
 
-## Edições — pesquisa de 2026-10-09
+## Edições
 
-Indicação do Mathews: "Companhia das Letras, trad. Heitor Aquino Ferreira" —
-edição exata. Localizada: 2007, 152 p., ISBN 978-85-359-0955-5, posfácio de
-Christopher Hitchens. Registrada por instrução dele.
+Edição da biblioteca: *A Fazenda dos Animais*, Companhia das Letras, edição
+especial, 2020, tradução de Paulo Henriques Britto, com fortuna crítica
+organizada por Marcelo Pen (capa dura, 248 p.). Escolhida pelo Mathews em
+2026-10-10 (cartão `d-ed-revolucao-dos-bichos`).
 
-Registro, sem comparação: a mesma casa publica *A fazenda dos animais*, nova
-tradução de Paulo Henriques Britto (também em edição especial com fortuna
-crítica organizada por Marcelo Pen).
+Outras traduções em catálogo, não registradas:
 
-### Revisão de 2026-10-09, a pedido do Mathews
-
-**De onde vem a "indicação do Mathews".** O campo `edition_pref` desta obra,
-marcado `by: voce`, foi gravado na importação da lista "Política — Formação
-Geral" (2026-09-05), cujo cabeçalho diz que `editions_pref` é "literalmente
-sua indicação de edição". A cópia arquivada da lista
-(`sources/lists/politica-formacao-geral.md`) não está no repositório, então o
-texto original não pôde ser conferido. O Mathews questionou essas indicações
-em 2026-10-09 e pediu a revisão abaixo.
-
-| | Tradução | Edição | Aparato |
-|---|---|---|---|
-| A | **Paulo Henriques Britto** (2020) | Companhia das Letras, edição especial, capa dura, 248 p. | fortuna crítica org. por Marcelo Pen |
-| A' | Paulo Henriques Britto | Penguin-Companhia, 2020, 136 p. | — |
-| B | Heitor Aquino Ferreira (1964) | Companhia das Letras, 2007, 152 p. | posfácio de Christopher Hitchens |
-| C | Petê Rissatti | Biblioteca Azul, 2021 | apresentação de Orlando Calheiros |
-| D | Daniel Lühmann | Aleph, 2021 | — |
-| E | Sandra Pina | Melhoramentos, 2021 | prefácio de Eduardo Bueno |
-
-A tradução de B é de 1964, feita por um militar da reserva; a de A é de
-Paulo Henriques Britto, professor universitário e um dos tradutores
-literários mais respeitados do país. Um estudo da UFJF compara as duas. A
-edição especial acrescenta a fortuna crítica.
-
-**Conclusão: há edição melhor — A.** Cartão `d-ed-revolucao-dos-bichos`;
-A exibida enquanto isso.
+| Tradução | Edição | Aparato |
+|---|---|---|
+| Paulo Henriques Britto | Penguin-Companhia, 2020, 136 p. | — (bolso, sem a fortuna crítica) |
+| Petê Rissatti | Biblioteca Azul, 2021 | apresentação de Orlando Calheiros |
+| Daniel Lühmann | Aleph, 2021 | — |
+| Sandra Pina | Melhoramentos, 2021 | prefácio de Eduardo Bueno |

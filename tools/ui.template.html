@@ -1381,7 +1381,7 @@ function thumbWork(w, m){
   const prov = de.state!=='chosen';
   const tit = (prov?'edição em exibição — ':'edição escolhida — ')
             + pubTitulo(p)
-            + (de.by_ownership?' (você tem esta)':de.by_collection?' (escolha desta coleção)':'');
+            + (de.by_ownership?' (você tem esta)':de.by_collection?' (escolhida para a coleção)':de.by_access?' (a de acesso mais fácil; ainda sem escolha)':'');
   return `<img class="cover sm${prov?' prov':''}" src="${p.cover.data_uri||p.cover.relative_path}"
             alt="Capa de ${E(p.title_as_published||p.id)}" title="${E(tit)}" loading="lazy">`;
 }
