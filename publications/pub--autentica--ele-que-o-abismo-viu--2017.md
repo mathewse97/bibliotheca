@@ -83,7 +83,7 @@ os candidatos não foram enumerados antes de julgar, como o §E.2 passo 4 exige.
 
 O que está verificado, e que motivou o Mathews a pedir o registro desta edição
 em 23/09/2026: é o mesmo tradutor da edição ilustrada de 2021
-(`pub--autentica--epopeia-de-gilgamesh--2021`), pela mesma editora, com o dobro
+(não registrada), pela mesma editora, com o dobro
 da extensão — 336 páginas contra 160 — traduzida do acádio e **anotada**,
 publicada na coleção Clássica. A edição de 2021 não traz aparato.
 
