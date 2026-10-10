@@ -31,7 +31,7 @@ source_of_record: claude
 contains:
   - work: freud--das-unbehagen-in-der-kultur
     verdict: unassessed
-    reason: "Candidato B do cartão d-ed-freud."
+    reason: "Alternativa: o cartão d-ed-freud foi decidido em 2026-10-10 pela Penguin-Companhia. Tem glossário e o título fiel a Kultur."
     translator: [salzano-moraes]
     translated_from: direct
     source_text: null
@@ -76,4 +76,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-freud.**
+**Alternativa — cartão d-ed-freud decidido em 2026-10-10 por outra edição.**

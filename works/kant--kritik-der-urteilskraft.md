@@ -77,5 +77,4 @@ Sem indicação do Mathews (obra acrescentada por lacuna aprovada).
 citada; A é a segunda, e uma dissertação da UFMG confirma que traz a
 Primeira Introdução. Nenhuma fonte compara as duas.
 
-**Recomendação: A**, no cartão `d-ed-kant-juizo`, onde a escolha fica com o
-Mathews. A é exibida enquanto isso.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão `d-ed-kant-juizo`.

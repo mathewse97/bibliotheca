@@ -81,5 +81,4 @@ editoriais de obras completas. O título é parte da escolha: "civilização" é
 a tradução consagrada; "cultura" traduz literalmente *Kultur*, e a
 coleção se chama Cultura. Nenhuma fonte lida compara as traduções.
 
-**Recomendação: A**, no cartão `d-ed-freud`, onde a escolha fica com o
-Mathews. A é exibida enquanto isso.
+**Decisão do Mathews (2026-10-10): A**, pelo cartão `d-ed-freud`.

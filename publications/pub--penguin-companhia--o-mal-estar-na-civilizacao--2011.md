@@ -31,7 +31,7 @@ source_of_record: claude
 contains:
   - work: freud--das-unbehagen-in-der-kultur
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-freud, recomendado; exibido enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-freud): tradução de Paulo César de Souza, a mais citada."
     translator: [paulo-cesar-souza]
     translated_from: direct
     source_text: null
@@ -81,4 +81,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-freud.**
+**Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-freud).**

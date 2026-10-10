@@ -32,7 +32,7 @@ source_of_record: claude
 contains:
   - work: kant--kritik-der-urteilskraft
     verdict: unassessed
-    reason: "Candidato A do cartão d-ed-kant-juizo, recomendado; exibido enquanto o cartão não for decidido."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo): em catálogo e com a Primeira Introdução."
     translator: [fernando-mattos]
     translated_from: direct
     source_text: null
@@ -86,4 +86,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-kant-juizo.**
+**Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo).**

@@ -862,7 +862,8 @@ items:
   kind: edicao
   collections: [culture]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Vozes, 2016, trad. Fernando Costa Mattos.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Cultura; as outras edições registradas continuam como alternativas."}
   question: "Qual edição da *Crítica da faculdade de julgar*, de Kant?"
   why: "Há duas traduções brasileiras completas, ambas acadêmicas e diretas do alemão. Nenhuma fonte as compara. Hoje a interface exibe a da Vozes, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
@@ -888,7 +889,8 @@ items:
   kind: edicao
   collections: [culture]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-10, choice: "A — Penguin-Companhia, 2011, trad. Paulo César de Souza.", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Cultura; as outras edições registradas continuam como alternativas."}
   question: "Qual edição de *O mal-estar na civilização* (ou *na cultura*), de Freud?"
   why: "Há pelo menos seis traduções brasileiras em catálogo. Duas se destacam por tradutor e aparato. Elas diferem até no título: 'civilização' é a tradução consagrada; 'cultura' é a palavra de Freud (Kultur). Nenhuma fonte compara as duas. Hoje a interface exibe a da Penguin-Companhia, provisoriamente. A pesquisa está no registro da obra, seção Edições."
   editions:
