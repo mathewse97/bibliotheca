@@ -42,3 +42,13 @@ Não pesquisado. Nada neste registro foi verificado.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| **A (escolhida)** | Mário da Gama Kury, direta do grego | Madamu, 3ª ed., 2022, 628 p., os oito livros, índice remissivo, mapas, tabela de pesos e medidas, mais de 600 notas | em catálogo |
+| B | a mesma tradução | Editora UnB (1982; reimpr. 2001) | só usada |
+
+Não há outra tradução brasileira integral. **Escolha: A** — a mesma tradução,
+na edição corrente e mais completa em aparato.

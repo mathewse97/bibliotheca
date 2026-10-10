@@ -2077,3 +2077,19 @@ dyer:
   name_variants: []
   dates: null
   note: "Coautor, com Terence Dickinson, de The Backyard Astronomer's Guide."
+
+leonidas-hegenberg:
+  name_display: "Leonidas Hegenberg"
+  name_variants: ["Leônidas Hegenberg"]
+  dates: null
+  note: "Tradutor, não autor. Traduziu, com Octany Silveira da Mota, Ciência e
+         política: duas vocações, de Max Weber (Cultrix)."
+  role: translator
+
+octany-silveira-da-mota:
+  name_display: "Octany Silveira da Mota"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu, com Leonidas Hegenberg, Ciência e
+         política: duas vocações, de Max Weber (Cultrix)."
+  role: translator

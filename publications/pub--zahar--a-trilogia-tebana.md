@@ -4,7 +4,7 @@ title_as_published: "A trilogia tebana: Édipo Rei, Édipo em Colono, Antígona"
 publisher: zahar
 publisher_country: BR
 series: null
-year: null
+year: 1988
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: sofocles--oidipous-tyrannos
+    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]
@@ -39,6 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: sofocles--oidipous-epi-kolonoi
+    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]
@@ -47,6 +49,7 @@ contains:
     completeness: null
     apparatus: []
   - work: sofocles--antigone
+    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]

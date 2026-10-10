@@ -923,6 +923,31 @@ items:
   recommendation: "A, pelo tradutor, que é o mesmo da Genealogia da moral nesta coleção, e porque é a tradução que a bibliografia brasileira mais cita. Escolha B se preferir o título e a terminologia mais próximos de Freud, com glossário. Se preferir capa dura, o vol. 18 das Obras completas tem a mesma tradução de A."
   recommended: A
 
+- id: d-ed-antigona
+  kind: edicao
+  collections: [political-thought, greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Em que edição ler *Antígona*, de Sófocles?"
+  why: "Hoje a *Antígona* está na *Trilogia tebana* da Zahar (Mário da Gama Kury), sua indicação, que traz também os dois *Édipos* da coleção Greco-Romana. Existe uma *Antígona* avulsa mais elogiada como tradução: a de Lawrence Flores Pereira (Penguin-Companhia, 2023)."
+  editions:
+    - key: A
+      pub: pub--zahar--a-trilogia-tebana
+      label: "Zahar, A trilogia tebana, 1988 — Mário da Gama Kury"
+      status: "Registrada · exibida hoje"
+      facts: [["Tradução","Mário da Gama Kury, direta do grego, em dodecassílabos"],["Conteúdo","Édipo Rei, Édipo em Colono e Antígona, com introdução e notas"]]
+      pros: ["Sua indicação", "Um volume só para as três peças tebanas", "Mesmo tradutor de Tucídides na biblioteca"]
+      cons: ["Tradução de 1988, menos elogiada como poesia"]
+    - key: B
+      label: "Penguin-Companhia, 2023 — Lawrence Flores Pereira"
+      status: "Não registrada"
+      facts: [["Tradução","Lawrence Flores Pereira, direta do grego"],["Formato","232 p.; só Antígona"]]
+      pros: ["A tradução mais elogiada da peça: distingue na forma o coro e as partes dramáticas"]
+      cons: ["Só Antígona: os dois Édipos continuariam na Zahar", "Uma edição a mais na estante"]
+  options: []
+  recommendation: "A: a diferença de tradução não compensa separar a *Antígona* das outras duas peças, e o volume é a sua indicação. B vale se a *Antígona* for leitura central para você, como é em Política."
+  recommended: A
+
 - id: d-ed-bacantes
   kind: edicao
   collections: [greco-roman]

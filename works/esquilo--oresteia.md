@@ -123,3 +123,13 @@ não foi examinada: tradutor, texto-base e completude continuam por verificar.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+| | Tradução | Edição | Notas |
+|---|---|---|---|
+| **A (escolhida)** | Jaa Torrano, direta do grego, em verso livre | Iluminuras, 2004, 3 vol. (*Agamêmnon*, *Coéforas*, *Eumênides*), **bilíngue**, com estudo | resenhada com elogio na revista *Ágora* (Univ. de Aveiro): rigor e literalidade, base nas edições de Denniston e Dennys |
+| B | Manuel de Oliveira Pulquério | Edições 70 (Lisboa), um volume | em prosa, inclusive as partes líricas; português de Portugal |
+
+**Escolha: A.** Bilíngue, acadêmica, e do mesmo tradutor das outras tragédias de
+Ésquilo e da série de Eurípides que a biblioteca usa.

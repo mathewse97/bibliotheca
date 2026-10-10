@@ -4,9 +4,9 @@ title_as_published: "Oresteia III: Eumênides"
 publisher: iluminuras
 publisher_country: BR
 series: "Oresteia (Iluminuras, trad. Jaa Torrano)"
-year: null
+year: 2004
 language: pt-BR
-bilingual: false
+bilingual: true
 bilingual_pair: null
 editor: null
 introduction_by: null
