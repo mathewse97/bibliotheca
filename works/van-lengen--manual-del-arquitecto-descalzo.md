@@ -37,6 +37,9 @@ derived_from:
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência."
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Manual del arquitecto descalzo (espanhol)", note: "O original, em catálogo, mas importado."}
+  - {edition: "The Barefoot Architect, Shelter Publications, 2008", note: "Em inglês."}
 ---
 
 ## Fatos

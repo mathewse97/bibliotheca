@@ -37,6 +37,8 @@ derived_from:
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência."
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora UnB, 1991", note: "A primeira edição; esgotada."}
 ---
 
 ## Fatos

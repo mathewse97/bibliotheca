@@ -29,6 +29,7 @@ source_of_record: claude
 
 contains:
   - work: becker-dalponte--rastros-de-mamiferos-silvestres-brasileiros
+    why: "O guia de campo brasileiro de pegadas e rastros, na edição corrente; a primeira, da UnB, está esgotada."
     verdict: unassessed
     reason: "Não avaliada."
     translator: []

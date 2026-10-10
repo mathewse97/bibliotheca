@@ -41,6 +41,8 @@ derived_from:
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
 updated: 2026-09-06
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "1ª edição", note: "Superada pela 2ª."}
 ---
 
 ## Fatos

@@ -4,7 +4,7 @@ title_as_published: "Mini Manual de Técnica Escutista"
 publisher: coleccao-hipopotamo
 publisher_country: PT
 series: "Colecção Hipopótamo — Livros Escutistas"
-year: 2012
+year: 2016                      # corrigido em 2026-10-10: o ISBN é o da edição de 2016 (Biblioteca Nacional de Portugal)
 language: pt-PT
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: [bolso]
-pages: null
+pages: 216
 isbn13: "978-989-96600-1-4"
 edition_statement: "1ª edição, agosto de 2012"
 
@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: lontro-monteiro--mini-manual-de-tecnica-escutista
+    why: "Manual de técnica escoteira da Associação dos Escoteiros de Portugal, na edição de 2016. Português de Portugal."
     verdict: unassessed
     reason: "Não avaliada."
     translator: []
@@ -39,6 +40,12 @@ contains:
     apparatus: []
 
 provenance:
+  - claim: "Mini manual de técnica escotista, Miguel Lontro e Pedro Monteiro; Associação dos Escoteiros de Portugal, 2016, 216 p., il.; ISBN 978-989-96600-1-4 (há registro de 2014 com a mesma paginação)."
+    source: "https://urn.bnportugal.gov.pt/bibliografia/unimarc/txt?id=1457098"
+    source_tier: 2
+    retrieved: 2026-10-10
+    confidence: reported
+    note: "Lido pelo resumo da busca."
   - claim: "Colecção Hipopótamo, 1ª edição, agosto de 2012, ISBN 978-989-96600-1-4, formato 11x16 cm, tiragem 5000 exemplares; concepção e edição de Miguel Lontro e Pedro Monteiro."
     source: "https://coleccao-hipopotamo.blogspot.com/2013/02/mini-manual-de-tecnica-escutista-ft.html"
     source_tier: null
