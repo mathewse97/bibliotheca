@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "O Encheirídion de Epicteto, Coimbra / Annablume, trad. Aldo Dinucci e Alfredo Julien", note: "Bilíngue, com introdução e comentário; em decisão."}
 ---
 
 ## Fatos

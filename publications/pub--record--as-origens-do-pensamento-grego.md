@@ -4,7 +4,7 @@ title_as_published: "As origens do pensamento grego"
 publisher: record
 publisher_country: BR
 series: null
-year: null
+year: 2006
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 144
 isbn13: "978-85-7432-026-7"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: vernant--les-origines-de-la-pensee-grecque
+    why: "A tradução brasileira de sempre, direta do francês."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [isis-borges]

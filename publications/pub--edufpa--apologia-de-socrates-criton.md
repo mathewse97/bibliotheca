@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: platao--apologia-sokratous
+    why: "Tradução de Carlos Alberto Nunes, direta do grego e bilíngue."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]
@@ -40,6 +41,7 @@ contains:
     completeness: null
     apparatus: []
   - work: platao--kriton
+    why: "Tradução de Carlos Alberto Nunes, direta do grego e bilíngue, no mesmo volume da Apologia."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]

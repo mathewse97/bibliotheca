@@ -4,7 +4,7 @@ title_as_published: "SPQR: A História da Roma Antiga"
 publisher: critica
 publisher_country: BR
 series: null
-year: null
+year: 2023
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: beard--spqr
+    why: "A tradução brasileira, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [reyes-gil]

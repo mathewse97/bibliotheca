@@ -4,7 +4,7 @@ title_as_published: "Greece in the Making, 1200–479 BC"
 publisher: routledge
 publisher_country: GB
 series: null
-year: null
+year: 2009
 language: en
 bilingual: false
 bilingual_pair: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: osborne--greece-in-the-making
+    why: "A 2ª edição, reescrita pelo autor; a única tradução, espanhola, é da primeira versão."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

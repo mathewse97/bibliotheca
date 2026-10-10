@@ -6,14 +6,14 @@ publisher_country: BR
 series: null
 year: null
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["grc","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 576
 isbn13: "978-65-5525-200-2"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--ethika-nikomacheia
+    why: "A tradução brasileira mais recente, de André Malta, com o texto grego ao lado."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [andre-malta]

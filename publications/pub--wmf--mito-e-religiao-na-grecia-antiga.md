@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: vernant--mythe-et-religion-en-grece-ancienne
+    why: "A tradução brasileira mais recente, direta do francês, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [davila-melo]

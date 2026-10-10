@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: grimal--dictionnaire-de-la-mythologie-grecque-et-romaine
+    why: "O dicionário de mitologia de referência, traduzido direto do francês por um classicista."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [jabouille]

@@ -4,7 +4,7 @@ title_as_published: "Odes Olímpicas"
 publisher: mnema
 publisher_country: BR
 series: null
-year: null
+year: 2023
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 528
 isbn13: "978-65-85066-05-1"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: pindaro--olympionikai
+    why: "Única tradução brasileira completa e anotada das Olímpicas, por um especialista em Píndaro."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [de-brose]

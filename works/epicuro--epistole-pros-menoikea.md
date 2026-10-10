@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Cartas & Máximas principais, Penguin-Companhia, trad. Maria Cecília Gomes dos Reis", note: "Mais notas e as três cartas; não é claramente melhor para esta carta."}
 ---
 
 ## Fatos

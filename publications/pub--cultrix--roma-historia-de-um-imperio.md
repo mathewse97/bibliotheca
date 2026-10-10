@@ -4,7 +4,7 @@ title_as_published: "Roma: A história de um império"
 publisher: cultrix
 publisher_country: BR
 series: null
-year: null
+year: 2017
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 440
 isbn13: "978-85-316-1393-7"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: woolf--rome-an-empires-story
+    why: "A tradução brasileira, em catálogo. Traduz a 1ª edição; a revista, de 2022, só existe em inglês."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [mario-molina]

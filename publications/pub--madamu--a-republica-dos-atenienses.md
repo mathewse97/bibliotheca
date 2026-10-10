@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 134
 isbn13: "978-65-86224-40-5"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--athenaion-politeia
+    why: "Tradução nova e direta do grego, por um especialista na obra, com introdução e notas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [denis-correa]

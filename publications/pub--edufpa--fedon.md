@@ -32,6 +32,7 @@ source_of_record: claude
 
 contains:
   - work: platao--phaidon
+    why: "Única edição em português com o texto grego ao lado, na tradução de Carlos Alberto Nunes."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]

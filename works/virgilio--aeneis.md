@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Eneida brasileira, Ateliê/Unicamp, trad. Odorico Mendes", note: "Monumento histórico, de português muito difícil."}
+  - {edition: "Quetzal, 2022, trad. Frederico Lourenço", note: "Excelente, mas portuguesa e sem o latim."}
 ---
 
 ## Fatos

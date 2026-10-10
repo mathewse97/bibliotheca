@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: xenofonte--hellenika
+    why: "Bilíngue grego–inglês. Há uma edição espanhola mais anotada; a escolha está em decisão."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [brownson]

@@ -7,13 +7,13 @@ series: null
 year: 2019
 language: pt-BR
 bilingual: true
-bilingual_pair: ["grc","pt-BR"]
+bilingual_pair: ["la","pt-BR"]   # corrigido em 2026-10-10: o original é latim
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 480
 isbn13: "978-85-7326-748-8"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: apuleio--metamorphoses-asinus-aureus
+    why: "Única edição em português com o latim ao lado, na tradução elogiada de Ruth Guimarães, com notas de Adriane da Silva Duarte."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [ruth-guimaraes]

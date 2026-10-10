@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: mckirahan--philosophy-before-socrates
+    why: "A 2ª edição do original. Há tradução brasileira desta edição; a escolha está em decisão."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [mckirahan]

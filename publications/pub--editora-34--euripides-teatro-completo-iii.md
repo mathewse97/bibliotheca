@@ -4,16 +4,16 @@ title_as_published: "Teatro completo III: As Suplicantes, Electra, Héracles"
 publisher: editora-34
 publisher_country: BR
 series: null
-year: null
+year: 2023
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["grc","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 416
 isbn13: "978-65-5525-154-8"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--hiketides
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -39,6 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--elektra
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -47,6 +49,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--herakles
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]

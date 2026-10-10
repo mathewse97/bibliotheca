@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: herodoto--historiai
+    why: "Única tradução brasileira completa e direta do grego num só volume, de Mário da Gama Kury."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]

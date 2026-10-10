@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Helénicas, Gredos, trad. Orlando Guntiñas Tuñón", note: "Direta, com introdução e notas, em espanhol; em decisão."}
+  - {edition: "The Landmark Xenophon's Hellenika, 2009", note: "O melhor aparato, mas só em inglês."}
 ---
 
 ## Fatos

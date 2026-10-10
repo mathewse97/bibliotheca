@@ -4,7 +4,7 @@ title_as_published: "O Legado da Grécia: uma Nova Avaliação"
 publisher: unb
 publisher_country: BR
 series: null
-year: null
+year: 1998
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -31,9 +31,10 @@ source_of_record: claude
 
 contains:
   - work: finley--the-legacy-of-greece
+    why: "Única edição em português."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
-    translator: []
+    translator: [yvette-vieira-pinto-de-almeida]
     translated_from: null
     source_text: null
     completeness: null

@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Penguin-Companhia, 2023, trad. Rodrigo Tadeu Gonçalves", note: "Recente e em verso que imita o original, mas sem o latim e com menos notas."}
+  - {edition: "Cotovia (Lisboa), 2007, trad. Paulo Farmhouse Alberto", note: "Acadêmica, mas portuguesa e sem o latim."}
 ---
 
 ## Fatos

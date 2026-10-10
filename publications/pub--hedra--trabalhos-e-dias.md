@@ -4,7 +4,7 @@ title_as_published: "Trabalhos e dias"
 publisher: hedra
 publisher_country: BR
 series: null
-year: null
+year: 2022
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 100
 isbn13: "978-65-89705-57-4"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hesiodo--erga-kai-hemerai
+    why: "Tradução direta do grego, de Christian Werner, com introdução e notas; forma par com a Teogonia do mesmo tradutor."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [christian-werner]
