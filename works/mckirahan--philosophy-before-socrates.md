@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "A mesma edição em português, revista por Gabriele Cornelli; em decisão."}
 ---
 
 ## Fatos

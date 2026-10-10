@@ -4,7 +4,7 @@ title_as_published: "Os gregos acreditavam em seus mitos?"
 publisher: unesp
 publisher_country: BR
 series: null
-year: null
+year: 2014
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 208
 isbn13: "978-85-393-0529-2"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: veyne--les-grecs-ont-ils-cru-a-leurs-mythes
+    why: "A tradução brasileira mais recente, direta do francês, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [echalar]

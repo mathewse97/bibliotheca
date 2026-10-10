@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Hucitec, 1995, trad. Francisco Murari Pires", note: "Bilíngue, mas esgotada."}
+  - {edition: "Gulbenkian, 2003, trad. Delfim Ferreira Leão", note: "Muito anotada, mas portuguesa."}
 ---
 
 ## Fatos

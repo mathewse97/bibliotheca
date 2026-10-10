@@ -956,6 +956,106 @@ items:
   recommendation: "B: é completa e em português, e a ordem de línguas da biblioteca a põe antes do inglês. Fique com A se as notas de Costelloe pesarem mais para você que a língua."
   recommended: B
 
+- id: d-ed-mckirahan
+  kind: edicao
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  question: "Em que edição ler *Philosophy Before Socrates*, de Richard McKirahan?"
+  why: "A registrada é o original inglês (2ª edição, Hackett, 2010). Existe tradução brasileira dessa mesma edição, revista por um especialista em pré-socráticos."
+  editions:
+    - key: A
+      label: "A filosofia antes de Sócrates, Paulus, 2013 — Eduardo Wolf Pereira"
+      status: "Não registrada"
+      facts: [["Tradução","Eduardo Wolf Pereira, com revisão técnica de Gabriele Cornelli"],["Texto","A 2ª edição do original"],["Situação","Disponibilidade não confirmada; usados a cerca de R$ 99"]]
+      pros: ["Em português", "A mesma edição do original", "Revista por especialista"]
+      cons: ["Pode estar só usada"]
+    - key: B
+      pub: pub--hackett--philosophy-before-socrates
+      label: "Hackett, 2010 — original inglês"
+      status: "Registrada · aparece hoje"
+      facts: [["Texto","Original, 2ª edição, 512 p."]]
+      pros: ["O texto do autor"]
+      cons: ["Em inglês"]
+  options: []
+  recommendation: "A: é o mesmo livro em português, revisto por um especialista; pela ordem de línguas da biblioteca, vem antes do inglês."
+  recommended: A
+
+- id: d-ed-xenofonte
+  kind: edicao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Em que edição ler as *Helênicas*, de Xenofonte?"
+  why: "Não há tradução das *Helênicas* em português. A registrada é a Loeb, com o grego ao lado e a tradução inglesa de 1918, quase sem notas. A espanhola da Gredos é direta do grego e tem introdução e notas."
+  editions:
+    - key: A
+      pub: pub--loeb--hellenica-i
+      label: "Loeb, 2 volumes — Carleton L. Brownson (inglês)"
+      status: "Registrada · aparece hoje"
+      facts: [["Formato","Bilíngue grego–inglês"],["Tradução","1918–1921"],["Aparato","Mínimo"]]
+      pros: ["O texto grego ao lado"]
+      cons: ["Tradução antiga e quase sem notas", "Inglês"]
+    - key: B
+      label: "Helénicas, Gredos — Orlando Guntiñas Tuñón (espanhol)"
+      status: "Não registrada"
+      facts: [["Tradução","Direta do grego, com introdução e notas"],["Formato","Espanhol, um volume"]]
+      pros: ["Mais anotada", "Espanhol vem antes do inglês na ordem da biblioteca"]
+      cons: ["Sem o texto grego"]
+  options: []
+  recommendation: "B: o espanhol vem antes do inglês nas regras da biblioteca, e as notas fazem diferença numa obra histórica. Fique com A se o texto grego ao lado pesar mais para você."
+  recommended: B
+
+- id: d-ed-epicteto
+  kind: edicao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Em que edição ler o *Manual* de Epicteto?"
+  why: "Os mesmos tradutores, Aldo Dinucci e Alfredo Julien, têm duas edições: a da Penguin-Companhia (2025), à venda no Brasil, com trechos das *Diatribes*; e a de Coimbra / Annablume, bilíngue, com introdução e comentário."
+  editions:
+    - key: A
+      pub: pub--penguin-companhia--manual-do-estoicismo
+      label: "Manual do estoicismo, Penguin-Companhia, 2025"
+      status: "Registrada · aparece hoje"
+      facts: [["Formato","168 p., sem o grego"],["Conteúdo","O Manual, trechos das Diatribes e fragmentos"],["Situação","Em catálogo"]]
+      pros: ["Fácil de comprar", "Textos a mais"]
+      cons: ["Sem o grego; aparato não confirmado"]
+    - key: B
+      label: "O Encheirídion de Epicteto, Coimbra / Annablume"
+      status: "Não registrada"
+      facts: [["Formato","Bilíngue grego–português"],["Aparato","Introdução e comentário; resenha positiva na revista Archai"]]
+      pros: ["Bilíngue e comentada"]
+      cons: ["Disponibilidade no Brasil não confirmada"]
+  options: []
+  recommendation: "B, se você quer estudar o texto: é bilíngue e comentada pelos mesmos tradutores. A, se quer ler com facilidade e ter as Diatribes junto."
+  recommended: B
+
+- id: d-ed-hansen
+  kind: edicao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  question: "Em que edição ler *The Athenian Democracy in the Age of Demosthenes*, de Hansen?"
+  why: "A registrada é a edição inglesa, o texto que o próprio Hansen acompanhou. Em 2022 saiu uma tradução espanhola, com introdução de um especialista."
+  editions:
+    - key: A
+      pub: pub--blackwell--athenian-democracy-demosthenes
+      label: "Blackwell, 1991 — inglês"
+      status: "Registrada · aparece hoje"
+      facts: [["Texto","A versão de referência, traduzida do dinamarquês por J. A. Crook com o autor"]]
+      pros: ["O texto que o autor acompanhou"]
+      cons: ["Inglês; a reedição de 1999 traz bibliografia atualizada"]
+    - key: B
+      label: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022"
+      status: "Não registrada"
+      facts: [["Tradução","Andrés de Francisco, com introdução"],["Situação","Em catálogo"]]
+      pros: ["Espanhol vem antes do inglês na ordem da biblioteca", "Recente"]
+      cons: ["Tradução da tradução inglesa"]
+  options: []
+  recommendation: "A: a espanhola é tradução da versão inglesa, e o inglês é o texto que Hansen acompanhou. B só se você preferir ler em espanhol."
+  recommended: A
+
 - id: d-ed-antigona
   kind: edicao
   collections: [political-thought, greco-roman]

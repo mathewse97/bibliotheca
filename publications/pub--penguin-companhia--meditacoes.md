@@ -4,7 +4,7 @@ title_as_published: "Meditações: Os escritos pessoais de Marco Aurélio Antoni
 publisher: penguin-companhia
 publisher_country: BR
 series: null
-year: null
+year: 2024
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 208
 isbn13: "978-85-8285-177-7"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: marco-aurelio--ta-eis-heauton
+    why: "Tradução direta do grego, de Aldo Dinucci, especialista em estoicismo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [dinucci]

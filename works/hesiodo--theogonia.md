@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Iluminuras, trad. Jaa Torrano", note: "Bilíngue, com o estudo mais famoso, mas tradução de português mais difícil."}
 ---
 
 ## Fatos

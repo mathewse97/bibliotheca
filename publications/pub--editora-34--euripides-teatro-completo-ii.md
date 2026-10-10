@@ -4,16 +4,16 @@ title_as_published: "Teatro completo II: Os Heraclidas, Hipólito, Andrômaca, H
 publisher: editora-34
 publisher_country: BR
 series: null
-year: null
+year: 2022
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["grc","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 488
 isbn13: "978-65-5525-133-3"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--herakleidai
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -39,6 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--hippolytos
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -47,6 +49,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--andromache
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -55,6 +58,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--hekabe
+    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]

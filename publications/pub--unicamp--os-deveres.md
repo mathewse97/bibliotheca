@@ -4,16 +4,16 @@ title_as_published: "Os deveres"
 publisher: unicamp
 publisher_country: BR
 series: null
-year: null
+year: 2025
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["la","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 496
 isbn13: "978-85-268-1792-0"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: cicero--de-officiis
+    why: "A melhor edição em português: recente, com o latim ao lado e notas de Bruno Fregni Bassetto."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [bassetto]

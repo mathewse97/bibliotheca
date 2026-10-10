@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Abril Cultural, trad. Gilda Starzynski", note: "Direta, mas esgotada há décadas."}
+  - {edition: "Inquérito (Portugal), trad. Custódio Magueijo", note: "Portuguesa."}
 ---
 
 ## Fatos

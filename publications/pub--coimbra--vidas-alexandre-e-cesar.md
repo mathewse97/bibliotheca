@@ -4,7 +4,7 @@ title_as_published: "Vidas Paralelas — Alexandre e César"
 publisher: coimbra
 publisher_country: PT
 series: null
-year: null
+year: 2019
 language: pt-PT
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 338
 isbn13: "978-989-26-1745-9"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--alexandros
+    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [fatima-silva, brandao]
@@ -39,6 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: plutarco--kaisar
+    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [fatima-silva, brandao]

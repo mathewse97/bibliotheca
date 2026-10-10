@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Rome: An Empire's Story, 2ª ed., Oxford, 2022", note: "Revista e ampliada pelo autor, mas só em inglês."}
 ---
 
 ## Fatos

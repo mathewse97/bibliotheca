@@ -4,7 +4,7 @@ title_as_published: "Carta sobre a felicidade (a Meneceu)"
 publisher: unesp
 publisher_country: BR
 series: null
-year: null
+year: 2002
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 56
 isbn13: "978-85-7139-397-4"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: epicuro--epistole-pros-menoikea
+    why: "Tradução direta do grego, com apresentação dos tradutores, em edição de bolso."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [lorencini, del-carratore]

@@ -4,7 +4,7 @@ title_as_published: "A tradição clássica: influências gregas e romanas na li
 publisher: setimo-selo
 publisher_country: BR
 series: null
-year: null
+year: 2024
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 724
 isbn13: "978-65-88732-98-4"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: highet--the-classical-tradition
+    why: "Única edição em português, completa e recente."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

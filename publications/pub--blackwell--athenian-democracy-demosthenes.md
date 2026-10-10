@@ -4,7 +4,7 @@ title_as_published: "The Athenian Democracy in the Age of Demosthenes"
 publisher: blackwell
 publisher_country: GB
 series: null
-year: null
+year: 1991
 language: en
 bilingual: false
 bilingual_pair: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hansen--the-athenian-democracy-in-the-age-of-demosthenes
+    why: "O texto que o autor acompanhou. Há tradução espanhola recente; a escolha está em decisão."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

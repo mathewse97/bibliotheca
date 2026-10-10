@@ -4,7 +4,7 @@ title_as_published: "Manual do estoicismo"
 publisher: penguin-companhia
 publisher_country: BR
 series: null
-year: null
+year: 2025
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 168
 isbn13: "978-85-8285-227-9"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: epicteto--encheiridion
+    why: "Tradução direta do grego, com trechos das Diatribes. Há uma edição bilíngue comentada dos mesmos tradutores; a escolha está em decisão."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [dinucci, julien]

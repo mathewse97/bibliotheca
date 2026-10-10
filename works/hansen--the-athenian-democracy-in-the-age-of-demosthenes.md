@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022", note: "Tradução espanhola recente, com introdução de Andrés de Francisco; em decisão."}
 ---
 
 ## Fatos

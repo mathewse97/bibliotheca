@@ -4,10 +4,10 @@ title_as_published: "Eneida"
 publisher: editora-34
 publisher_country: BR
 series: null
-year: null
+year: 2014
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["la","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: virgilio--aeneis
+    why: "Tradução direta em verso, de Carlos Alberto Nunes, com o latim ao lado e notas de João Angelo Oliva Neto."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]

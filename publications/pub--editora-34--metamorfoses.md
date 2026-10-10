@@ -4,16 +4,16 @@ title_as_published: "Metamorfoses"
 publisher: editora-34
 publisher_country: BR
 series: null
-year: null
+year: 2017
 language: pt-BR
-bilingual: false
-bilingual_pair: null
+bilingual: true   # pesquisa de 2026-10-10
+bilingual_pair: ["la","pt-BR"]   # pesquisa de 2026-10-10
 editor: null
 introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 910
 isbn13: "978-85-7326-667-2"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: ovidio--metamorphoses
+    why: "A edição mais completa: o latim ao lado, o poema inteiro, notas e índices."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [lucas-dias]

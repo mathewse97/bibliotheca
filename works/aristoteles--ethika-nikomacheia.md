@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora UnB / Madamu, trad. Mário da Gama Kury", note: "Direta e clássica, sem o grego."}
+  - {edition: "Edipro, trad. Edson Bini", note: "Direta, com notas; menos prestigiada."}
 ---
 
 ## Fatos

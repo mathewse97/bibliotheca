@@ -4,7 +4,7 @@ title_as_published: "Ancient Greek Religion"
 publisher: wiley-blackwell
 publisher_country: US
 series: null
-year: null
+year: 2021
 language: en
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 304
 isbn13: "978-1-119-56562-8"
 
 availability_br: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: mikalson--ancient-greek-religion
+    why: "A 3ª edição (2021), revista e ampliada. Não há tradução."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

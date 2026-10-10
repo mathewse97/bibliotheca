@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Direta e muito anotada, mas em nove volumes, talvez ainda incompleta."}
 ---
 
 ## Fatos

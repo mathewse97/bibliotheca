@@ -4,7 +4,7 @@ title_as_published: "Vidas Paralelas — Demóstenes e Cícero (vol. 15)"
 publisher: coimbra
 publisher_country: PT
 series: null
-year: null
+year: 2012
 language: pt-PT
 bilingual: false
 bilingual_pair: null
@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--demosthenes
+    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [varzeas]

@@ -43,6 +43,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Direta e anotada, mas portuguesa e sem o grego."}
 ---
 
 ## Fatos

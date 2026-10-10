@@ -2130,3 +2130,19 @@ lucia-mathilde-endlich-orth:
   note: "Tradutora, não autora. Traduziu Sociedade sem escolas, de Ivan Illich
          (Vozes, 1973; 7ª ed. 1985)."
   role: translator
+
+artur-morao:
+  name_display: "Artur Morão"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Os gregos antigos, de M. I. Finley (Edições 70), com revisão científica de José Ribeiro Ferreira."
+  role: translator
+
+
+yvette-vieira-pinto-de-almeida:
+  name_display: "Yvette Vieira Pinto de Almeida"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu O legado da Grécia, org. M. I. Finley (Editora UnB)."
+  role: translator
+
