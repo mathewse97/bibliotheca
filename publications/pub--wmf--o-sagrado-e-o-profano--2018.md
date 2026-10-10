@@ -31,7 +31,7 @@ contains:
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [rogerio-fernandes]
-    translated_from: via:fr
+    translated_from: direct      # 2026-10-10: Eliade escreveu em francês; a edição alemã de 1957 já era tradução
     source_text: "edição francesa (Le sacré et le profane)"
     completeness: null
     apparatus: []

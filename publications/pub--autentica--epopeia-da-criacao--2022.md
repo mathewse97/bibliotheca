@@ -30,7 +30,7 @@ contains:
   - work: enuma-elis
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
-    translator: [brandao]
+    translator: [jacyntho-lins-brandao]
     translated_from: direct
     source_text: "acádio"
     completeness: null

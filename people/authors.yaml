@@ -748,9 +748,20 @@ fatima-silva:
 
 brandao:
   name_display: "José Luís Brandão"
-  name_variants: []
+  name_variants: ["José Luís Lopes Brandão"]
   dates: null                 # a pesquisar
-  note: "Tradutor, não autor."
+  note: "Tradutor, não autor. Professor da Universidade de Coimbra; traduz
+         Plutarco na série Autores Gregos e Latinos."
+  role: translator
+
+jacyntho-lins-brandao:
+  name_display: "Jacyntho Lins Brandão"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Professor da UFMG; traduziu do acádio a
+         Epopeia de Gilgámesh (Ele que o abismo viu) e o Enūma Eliš
+         (Autêntica). Separado em 2026-10-10 de José Luís Brandão, com quem
+         estava confundido."
   role: translator
 
 dinucci:
