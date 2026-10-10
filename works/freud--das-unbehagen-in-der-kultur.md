@@ -61,3 +61,25 @@ produz um mal-estar que nenhum progresso técnico resolve.
 Colocação **a confirmar por você** — ver review/culture.md §10. Entra em
 Cultura como uma das explicações de fundo sobre o que a cultura faz com o
 indivíduo, e é metade do enxerto que a Escola de Frankfurt opera sobre Marx.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews.
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Paulo César de Souza | Penguin-Companhia, Grandes Ideias, 2011, 96 p. — *O mal-estar na civilização* | **nova** |
+| A′ | Paulo César de Souza (a mesma) | Obras completas, vol. 18, Companhia das Letras, 2010, capa dura, 496 p., com outros textos de 1930–1936 | nova |
+| B | Maria Rita Salzano Moraes; apresentação de Gilson Iannini e Pedro Heliodoro; glossário | Autêntica, Textos Singulares, 2025, 128 p. — *O mal-estar na cultura* (também no volume de 2020 das Obras Incompletas, 496 p.) | **nova** |
+| C | Renato Zwick | L&PM Pocket, 2010, 192 p. — *O mal-estar na cultura* | nova |
+| D | Nélio Schneider | Vozes, 2026, 208 p. — *O mal-estar na cultura e outros escritos de teoria cultural* | nova |
+| E | Inês A. Lohbauer | Martin Claret, 2021, capa dura, 148 p. | nova |
+| F | Guilherme Marconi Germer e outros | 2020 | nova |
+
+**Faixas.** A e B estão no alto: tradutores especializados e projetos
+editoriais de obras completas. O título é parte da escolha: "civilização" é
+a tradução consagrada; "cultura" traduz literalmente *Kultur*, e a
+coleção se chama Cultura. Nenhuma fonte lida compara as traduções.
+
+**Recomendação: A**, no cartão `d-ed-freud`, onde a escolha fica com o
+Mathews. A é exibida enquanto isso.

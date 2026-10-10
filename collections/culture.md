@@ -236,6 +236,7 @@ sequence:
     why_here_by: claude
     closes_gap: culture--g03
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--iluminuras--a-arte-de-escrever-ensaio--2020   # escolhida em 2026-10-10 (Etapa 1): única coletânea brasileira em catálogo com o ensaio; pesquisa na obra
 
   - work: burke--philosophical-enquiry-sublime-beautiful
     role: foundational
@@ -248,6 +249,7 @@ sequence:
     why_here_by: claude
     requires: [hume--of-the-standard-of-taste]
     inserted_by: claude          # ver order_changes
+    publication_pref: pub--unicamp--uma-investigacao-filosofica-sobre-o-sublime-e-o-belo--2013   # escolhida em 2026-10-10 (Etapa 1): tradução brasileira com apresentação e notas; pesquisa na obra
 
   - work: kant--kritik-der-urteilskraft
     role: foundational
@@ -259,6 +261,7 @@ sequence:
                arte, que a coleção inteira pressupõe sem nunca enunciar."
     why_here_by: claude
     closes_gap: culture--g02
+    publication_pref: pub--vozes--critica-da-faculdade-de-julgar--2016   # provisória: a escolha está no cartão d-ed-kant-juizo (2026-10-10)
 
 
   - work: nietzsche--zur-genealogie-der-moral
@@ -270,6 +273,7 @@ sequence:
                ela é, em boa medida, aplicação deste método a outro objeto."
     why_here_by: claude
     placement_status: a-confirmar
+    publication_pref: pub--companhia-de-bolso--genealogia-da-moral--2009   # escolhida em 2026-10-10 (Etapa 1): tradução de referência (Paulo César de Souza); pesquisa na obra
 
 
   - work: weber--die-protestantische-ethik
@@ -304,6 +308,7 @@ sequence:
                de Frankfurt opera sobre Marx — a outra metade é Weber."
     why_here_by: claude
     placement_status: a-confirmar
+    publication_pref: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011   # provisória: a escolha está no cartão d-ed-freud (2026-10-10)
 
 
   - movement: "II. O diagnóstico da degradação, e a disputa pela causa"
@@ -421,6 +426,7 @@ sequence:
     why_here_by: claude
     closes_gap: culture--g01
     requires: [kant--kritik-der-urteilskraft]
+    publication_pref: pub--zahar--dialetica-do-esclarecimento--1985   # escolhida em 2026-10-10 (Etapa 1): única tradução brasileira; pesquisa na obra
 
 
   - movement: "III. O prolongamento contemporâneo"

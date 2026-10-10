@@ -858,6 +858,58 @@ items:
   recommendation: "A, porque traz junto a resposta de Berlin às críticas ao ensaio, que faz parte da leitura dele. B é a escolha se você quiser uma antologia geral de Berlin ou não achar A."
   recommended: A
 
+- id: d-ed-kant-juizo
+  kind: edicao
+  collections: [culture]
+  priority: media
+  state: decidir
+  question: "Qual edição da *Crítica da faculdade de julgar*, de Kant?"
+  why: "Há duas traduções brasileiras completas, ambas acadêmicas e diretas do alemão. Nenhuma fonte as compara. Hoje a interface exibe a da Vozes, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--vozes--critica-da-faculdade-de-julgar--2016
+      label: "Vozes, 2016"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Fernando Costa Mattos"],["Conteúdo","Traz a Primeira Introdução"],["Coleção","Pensamento Humano (coedição com a Editora Universitária São Francisco)"],["Formato","392 p."],["Situação","Nova, em catálogo"]]
+      pros: ["Tradução mais recente", "Inclui a Primeira Introdução, que Kant não publicou e que expõe o sistema da obra", "Mesmo tradutor das outras Críticas na Vozes"]
+      cons: ["Edição alemã de base não conferida"]
+    - key: B
+      pub: pub--forense-universitaria--critica-da-faculdade-do-juizo--2012
+      label: "Forense Universitária, 3ª ed., 2012"
+      status: "Registrada"
+      facts: [["Tradução","Valerio Rohden e António Marques, da 2ª edição alemã (1793)"],["Formato","390 p."],["Situação","Sem oferta em destaque na Amazon; disponibilidade incerta"]]
+      pros: ["A primeira tradução completa (1993), a mais citada na bibliografia brasileira", "Rohden é tradutor de referência de Kant"]
+      cons: ["Não se sabe se traz a Primeira Introdução", "Pode estar fora de catálogo"]
+  options: []
+  recommendation: "A: as duas são sérias, mas A está em catálogo e traz a Primeira Introdução. B só vence se você quiser acompanhar a bibliografia brasileira, que cita sobretudo a tradução de Rohden e Marques."
+  recommended: A
+
+- id: d-ed-freud
+  kind: edicao
+  collections: [culture]
+  priority: baixa
+  state: decidir
+  question: "Qual edição de *O mal-estar na civilização* (ou *na cultura*), de Freud?"
+  why: "Há pelo menos seis traduções brasileiras em catálogo. Duas se destacam por tradutor e aparato. Elas diferem até no título: 'civilização' é a tradução consagrada; 'cultura' é a palavra de Freud (Kultur). Nenhuma fonte compara as duas. Hoje a interface exibe a da Penguin-Companhia, provisoriamente. A pesquisa está no registro da obra, seção Edições."
+  editions:
+    - key: A
+      pub: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011
+      label: "Penguin-Companhia, 2011 — O mal-estar na civilização"
+      status: "Registrada · exibida hoje (provisória)"
+      facts: [["Tradução","Paulo César de Souza"],["Formato","96 p., série Grandes Ideias"],["Também em","Obras completas, vol. 18 (Companhia das Letras, 2010, capa dura, 496 p., com outros textos de 1930–1936)"],["Situação","Nova, em catálogo"]]
+      pros: ["Tradutor de referência de Freud e de Nietzsche no Brasil", "Mesma tradução das Obras completas"]
+      cons: ["Volume avulso enxuto; aparato não conferido"]
+    - key: B
+      pub: pub--autentica--o-mal-estar-na-cultura--2025
+      label: "Autêntica, 2025 — O mal-estar na cultura"
+      status: "Registrada"
+      facts: [["Tradução","Maria Rita Salzano Moraes"],["Aparato","Apresentação de Gilson Iannini e Pedro Heliodoro; glossário de termos técnicos"],["Formato","128 p., série Textos Singulares"],["Situação","Nova, em catálogo"]]
+      pros: ["Título fiel ao original (Kultur)", "Glossário e apresentação de especialistas", "Da série Obras Incompletas, de projeto editorial acadêmico"]
+      cons: ["Tradução menos citada que a de Souza"]
+  options: []
+  recommendation: "A, pelo tradutor, que é o mesmo da Genealogia da moral nesta coleção, e porque é a tradução que a bibliografia brasileira mais cita. Escolha B se preferir o título e a terminologia mais próximos de Freud, com glossário. Se preferir capa dura, o vol. 18 das Obras completas tem a mesma tradução de A."
+  recommended: A
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch

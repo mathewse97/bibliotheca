@@ -82,3 +82,18 @@ física que você possui.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+O Mathews tem o exemplar **físico** e informou o ISBN-13
+978-65-02101-74-2 (2026-09-06).
+
+**Resultado.** Esse ISBN é o do **e-book Kindle** (Julio Lobo, publicado em
+20 de junho de 2026, 225 p.) — é o que a ficha da Amazon exibe. Não se achou
+edição impressa na Amazon, na Estante Virtual nem na busca geral; a página
+do autor na Amazon só lista e-books. O impresso deve ter outro ISBN e outra
+editora ou gráfica.
+
+**Pendente:** editora, ano e ISBN do impresso, a tirar da página de créditos
+do exemplar do Mathews. Sem eles não se forma o registro da publicação (o
+id exige editora e ano), e a capa do Kindle não substitui a do impresso.

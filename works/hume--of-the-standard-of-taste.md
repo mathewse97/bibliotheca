@@ -76,3 +76,25 @@ prática, pela comparação e pela ausência de preconceito.
 Fecha `culture--g03`. É o degrau que faltava entre a introdução de Suassuna e
 a terceira Crítica: obra curta, de exigência leve, e é a formulação do problema
 que Kant herda.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews (obra acrescentada por lacuna aprovada). O ensaio é
+curto e só sai em coletâneas.
+
+| | Tradução | Coletânea | Situação |
+|---|---|---|---|
+| A | Márcio Suzuki e Pedro Paulo Pimenta (seleção de Pimenta) | *A arte de escrever ensaio e outros ensaios (morais, políticos e literários)*, Iluminuras, Biblioteca Pólen, 2008 (impr. 2020), 336 p. | **nova**, em catálogo |
+| B | (Luciano Trigo, segundo uma cópia do texto; não confirmado) | *Ensaios morais, políticos e literários*, Topbooks / Liberty Fund, 2004, 850 p. — a coletânea inteira | nova (~R$ 90) |
+| C | Pedro Galvão (org. e trad.) | *Do padrão do gosto e outros ensaios sobre as artes e a beleza*, Edições 70 (Lisboa), 2023 | portuguesa; impressa existe, não achada à venda no Brasil (só Kindle) |
+
+**Faixas.** As três são integrais quanto ao ensaio. A é brasileira, de dois
+especialistas em Hume e na estética do século XVIII, em catálogo e de
+tamanho razoável. B é completa mas enorme, com tradutor incerto. C é a mais
+temática — só ensaios sobre arte e gosto — mas portuguesa e difícil de achar
+impressa.
+
+**Escolha: A.** Pela preferência do português do Brasil dentro da mesma faixa
+e pela qualificação dos tradutores. O sumário de A não foi visto inteiro: a
+presença do ensaio está confirmada por cópias extraídas do volume, não por
+ficha bibliográfica.

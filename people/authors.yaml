@@ -1831,3 +1831,68 @@ jussara-simoes:
          Rawls, a partir da edição revista (Martins Fontes, 2008 e reimpressões),
          com revisão técnica de Álvaro de Vita."
   role: translator
+
+suzuki:
+  name_display: "Márcio Suzuki"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu, com Pedro Paulo Pimenta, ensaios de
+         David Hume (A arte de escrever ensaio, Iluminuras, 2008)."
+  role: translator
+
+pedro-pimenta:
+  name_display: "Pedro Paulo Pimenta"
+  name_variants: ["Pedro Pimenta", "Pedro Paulo Garrido Pimenta"]
+  dates: null
+  note: "Tradutor e organizador. Selecionou e traduziu, com Márcio Suzuki,
+         ensaios de David Hume (Iluminuras, 2008)."
+  role: translator
+
+enid-dobranszky:
+  name_display: "Enid Abreu Dobránszky"
+  name_variants: ["Enid Abreu Dobránzky"]
+  dates: null
+  note: "Tradutora, não autora. Traduziu, apresentou e anotou a Investigação
+         filosófica de Burke sobre o sublime e o belo (Editora da Unicamp,
+         1993; 2ª ed. 2013)."
+  role: translator
+
+fernando-mattos:
+  name_display: "Fernando Costa Mattos"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu as Críticas de Kant para a Editora
+         Vozes, entre elas a Crítica da faculdade de julgar (2016)."
+  role: translator
+
+rohden:
+  name_display: "Valerio Rohden"
+  name_variants: ["Valério Rohden"]
+  dates: null
+  note: "Tradutor, não autor. Traduziu com António Marques a Crítica da
+         faculdade do juízo, de Kant (Forense Universitária, 1993)."
+  role: translator
+
+antonio-marques:
+  name_display: "António Marques"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu com Valerio Rohden a Crítica da
+         faculdade do juízo, de Kant (Forense Universitária, 1993)."
+  role: translator
+
+paulo-cesar-souza:
+  name_display: "Paulo César de Souza"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu do alemão as obras de Nietzsche e as
+         Obras completas de Freud para a Companhia das Letras."
+  role: translator
+
+salzano-moraes:
+  name_display: "Maria Rita Salzano Moraes"
+  name_variants: []
+  dates: null
+  note: "Tradutora, não autora. Traduziu O mal-estar na cultura, de Freud,
+         para a série Obras Incompletas de Sigmund Freud (Autêntica)."
+  role: translator

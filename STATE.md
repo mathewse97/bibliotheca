@@ -50,6 +50,10 @@ interface — 12 itens. Os que têm consequência estrutural:
   `sources/lists/`). As `edition_pref` marcadas `by: voce` em Política não
   podem, por isso, ser conferidas contra o texto original. Se o Mathews tiver
   a lista, ela deve ser arquivada nesse caminho.
+- **Lobo, *Entre a honra e o nada*: falta o impresso.** O ISBN informado
+  (978-65-02101-74-2) é o do e-book Kindle; nenhum impresso foi achado à
+  venda. Para registrar a publicação faltam editora, ano e ISBN do exemplar
+  físico do Mathews (página de créditos). Ver a seção Edições da obra.
 - **Relações ainda não escritas** para `dostoievski--besy`, `zamiatin--my` e
   `orwell--animal-farm`: nenhuma parceira defensável encontrada. Ausência
   honesta, não esquecimento.

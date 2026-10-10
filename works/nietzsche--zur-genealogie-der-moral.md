@@ -61,3 +61,21 @@ valores, e porque é o antecedente comum de Frankfurt e de Foucault. O
 argumento contrário é que a obra é filosofia moral antes de ser reflexão
 sobre a cultura, e numa coleção de Filosofia — que não existe — ela estaria
 melhor.
+
+## Edições — pesquisa de 2026-10-10
+
+Sem indicação do Mathews.
+
+| | Tradução | Edição | Situação |
+|---|---|---|---|
+| A | Paulo César de Souza | Companhia de Bolso, 2009, 176 p. | **nova**, em catálogo |
+| B | (o anúncio só nomeia Ivan Pinheiro Machado, editor) | L&PM, 2018, 192 p. (*Sobre a genealogia da moral*) | nova |
+| C | vários | edições populares (Escala, Lafonte, Edipro…) | novas |
+
+**Faixas.** A tradução de Paulo César de Souza, direta do alemão, é a de
+referência no Brasil: é a que ele fez para toda a obra de Nietzsche na
+Companhia das Letras. As demais não têm tradutor nem aparato que as ponham
+na mesma faixa.
+
+**Escolha: A.** Formato de bolso; não se conferiu se mantém as notas do
+tradutor de edições anteriores da casa.
