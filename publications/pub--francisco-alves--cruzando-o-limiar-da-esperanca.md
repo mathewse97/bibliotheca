@@ -4,7 +4,7 @@ title_as_published: "Cruzando o Limiar da Esperança"
 publisher: "Francisco Alves"
 publisher_country: BR
 series: null
-year: null                      # não confirmado em fonte nenhuma
+year: 1994                      # Skoob (tier 7), 2026-10-10
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,7 +13,7 @@ introduction_by: null
 register: popular
 framing: null
 format: []
-pages: null                     # não confirmado
+pages: 209                      # Skoob (tier 7), 2026-10-10
 isbn13: "9788526503151"
 
 availability_br: nao-verificado
@@ -40,7 +40,9 @@ cover:
   file: covers/pub--francisco-alves--cruzando-o-limiar-da-esperanca.webp
   source: "https://m.media-amazon.com/images/I/51SuM2jKnGL._SL1280_.jpg — imagem
            do anúncio https://www.amazon.com.br/dp/8526503146, baixada
-           pelo navegador em 2026-10-09"
+           pelo navegador em 2026-10-09. O ASIN do anúncio é o ISBN de outro
+           livro, mas a imagem mostra esta edição (título, autor e selo
+           Francisco Alves conferidos em 2026-10-10)."
   source_type: retailer
   format_note: "Convertida para WebP (qualidade 80, mesmas dimensões) em 2026-10-09, conforme config/acquisition.yaml."
   represents: publication

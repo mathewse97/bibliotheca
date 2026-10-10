@@ -4,7 +4,7 @@ title_as_published: "Bíblia — Volume I: Novo Testamento, Os quatro evangelhos
 publisher: "Companhia das Letras"
 publisher_country: BR
 series: null
-year: null
+year: 2017
 language: pt-BR
 bilingual: false
 bilingual_pair: null           # não verificado no livro (§E.2 passo 5)
@@ -13,7 +13,7 @@ introduction_by: null
 register: academic
 framing: null
 format: []
-pages: null
+pages: 424
 isbn13: "9788535928815"
 
 availability_br: em-catalogo
