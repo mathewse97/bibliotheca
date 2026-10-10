@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Iluminuras, trad. Jaa Torrano", note: "Bilíngue, com o estudo mais famoso, mas tradução de português mais difícil."}
+  - {edition: "Hedra, 2022, trad. Christian Werner", note: "Tradução mais clara e precisa, mas sem o grego confirmado e com menos estudo."}
 ---
 
 ## Fatos
