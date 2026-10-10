@@ -103,3 +103,14 @@ verificar.
 ## Síntese
 
 —
+
+## Edições — pesquisa de 2026-10-10
+
+| | Tradução | Edição | Notas |
+|---|---|---|---|
+| **A (exibida)** | Mário da Gama Kury, direta do grego, em dodecassílabos | Zahar, *A trilogia tebana*, 1988 — *Édipo Rei*, *Édipo em Colono* e *Antígona* num volume, com introdução e notas | sua indicação; serve às três peças da coleção Greco-Romana |
+| B | Lawrence Flores Pereira, direta do grego | Penguin-Companhia, 2023, 232 p. (antes Topbooks, 2006) — só *Antígona* | a mais elogiada artisticamente: distingue na forma o coro e as partes dramáticas |
+| C | Trajano Vieira | Perspectiva, 2009 | citada em estudos pela leitura mais literal de certas passagens |
+
+**Em aberto:** cartão `d-ed-antigona`. A cobre as três peças; B é a melhor
+*Antígona* isolada.

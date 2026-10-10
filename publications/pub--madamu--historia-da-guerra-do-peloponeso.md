@@ -4,7 +4,7 @@ title_as_published: "História da Guerra do Peloponeso"
 publisher: madamu
 publisher_country: BR
 series: null
-year: null
+year: 2022
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -13,10 +13,10 @@ introduction_by: null
 register: null
 framing: null
 format: []
-pages: null
+pages: 628
 isbn13: "978-65-86224-25-2"
 
-availability_br: null
+availability_br: "em-catalogo"
 availability_checked: null
 links:
   publisher: ""
@@ -31,13 +31,14 @@ source_of_record: claude
 
 contains:
   - work: tucidides--historiai
+    why: "Única tradução brasileira completa, direta do grego (Mário da Gama Kury), com mais de 600 notas, mapas e índice."
     verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    reason: "Pesquisa de 2026-10-10: a Madamu reedita (3ª ed., 2022) a tradução completa de Mário da Gama Kury, direta do grego — 628 p., índice remissivo, mapas, tabela de pesos e medidas e mais de 600 notas. É a única tradução brasileira integral; a edição anterior, da UnB (1982/2001), só se acha usada. Ver a seção Edições da obra."
     translator: [gama-kury]
     translated_from: direct
     source_text: null
     completeness: null
-    apparatus: []
+    apparatus: [notas, indice, mapas]
 
 
 cover:

@@ -4,9 +4,9 @@ title_as_published: "Oresteia I: Agamêmnon"
 publisher: iluminuras
 publisher_country: BR
 series: "Oresteia (Iluminuras, trad. Jaa Torrano)"
-year: null
+year: 2004
 language: pt-BR
-bilingual: false
+bilingual: true
 bilingual_pair: null
 editor: null
 introduction_by: null
@@ -31,8 +31,9 @@ source_of_record: claude
 
 contains:
   - work: esquilo--oresteia
+    why: "Tradução de Jaa Torrano, direta do grego e bilíngue, em três volumes com estudo: o mesmo tradutor das outras tragédias de Ésquilo e de Eurípides na biblioteca."
     verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    reason: "Pesquisa de 2026-10-10: tradução de Jaa Torrano, direta do grego, bilíngue, em três volumes (Iluminuras, 2004), com estudo; resenhada com elogio na revista Ágora (Univ. de Aveiro). Alternativa: Manuel de Oliveira Pulquério (Edições 70, Portugal), em prosa. Ver a seção Edições da obra."
     translator: [torrano]
     translated_from: direct
     source_text: null

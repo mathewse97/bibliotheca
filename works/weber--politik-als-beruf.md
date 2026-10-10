@@ -50,3 +50,16 @@ intelectual é a conferência, não o volume. A publicação brasileira que a
 contém — `pub--cultrix--ciencia-e-politica` — contém também
 [[weber--wissenschaft-als-beruf]], e é ela que guarda editora, tradutor,
 ISBN e formato. Nenhum dos dois registros de obra guarda uma edição.
+
+## Edições — pesquisa de 2026-10-10
+
+| | Tradução | Edição | Notas |
+|---|---|---|---|
+| **A (escolhida)** | Leonidas Hegenberg e Octany Silveira da Mota | Cultrix, *Ciência e política: duas vocações*, 160 p. — as duas conferências | sua indicação; em catálogo; a ficha cita os títulos alemães, mas nenhuma fonte diz de que língua traduziram |
+| B | Maurício Tragtenberg, revisão técnica de Oliver Tolle | Editora UnB, 2003 — só *A política como vocação* | revisão de germanista; disponibilidade não confirmada |
+| C | Marco Antônio Casanova | Martin Claret, 2015, *Ciência e política: duas vocações* | tradutor do alemão (Heidegger, Nietzsche); ISBN não confirmado |
+| D | Artur Morão | Portugal, 2017, com *A ciência como vocação* | português de Portugal |
+
+**Escolha: A**, por ser a sua indicação e estar em catálogo. Nenhuma fonte
+mostra que B ou C sejam melhores; se a página de créditos da Cultrix disser
+que traduz do inglês, a escolha muda para B ou C.
