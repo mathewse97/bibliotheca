@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Fundação Calouste Gulbenkian, trad. Ana Maria Valente", note: "Acadêmica, sobre o texto grego de Kassel, mas portuguesa e não bilíngue."}
+  - {edition: "Globo, trad. Eudoro de Sousa", note: "Com comentário extenso, mas edição antiga."}
 ---
 
 ## Fatos

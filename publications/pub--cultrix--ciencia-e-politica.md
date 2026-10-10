@@ -51,6 +51,7 @@ contains:
     apparatus: []
 
   - work: weber--wissenschaft-als-beruf
+    why: "Sua indicação: as duas conferências de Weber, sobre a ciência e a política, num volume em catálogo."
     verdict: unassessed
     reason: null
     translator: [leonidas-hegenberg, octany-silveira-da-mota]
