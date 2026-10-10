@@ -6,12 +6,12 @@ publisher_country: "BR"
 series: null
 year: 2012
 language: "pt-BR"
-bilingual: false
-bilingual_pair: null
+bilingual: true
+bilingual_pair: zh-pt
 editor: null
 introduction_by: null
 register: "academic"
-framing: "Tradução direta do chinês arcaico, com os comentários clássicos aos aforismos adaptados para o leitor contemporâneo (descrição da editora no anúncio)."
+framing: "Tradução direta do chinês arcaico, bilíngue, com os comentários clássicos de Zhu Xi (1130–1200) a cada aforismo — que, segundo a editora, não aparecem nas outras edições em português."
 format: [capa-dura]
 packaging: "volume"
 pages: 640
@@ -73,10 +73,16 @@ provenance:
     retrieved: 2026-10-09
     confidence: verified
     note: "Exame direto da imagem."
+  - claim: "Tradução pioneira direta do chinês arcaico, com os comentários clássicos; edição bilíngue, cada aforismo comentado por Zhu Xi. Sinedino foi finalista do Prêmio Jabuti de Tradução em 2023."
+    source: "https://agencia.fapesp.br/os-analectos-de-confucio-e-lancado-pela-editora-unesp/16056"
+    source_tier: 4
+    retrieved: 2026-10-10
+    confidence: reported
+    note: "Também: entrevista com o tradutor nos Cadernos de Tradução (UFSC, 2025), https://periodicos.ufsc.br/index.php/traducao/article/view/108437. Bilinguismo afirmado por resenha, não visto no livro."
 
 updated: 2026-10-09
 ---
 
 ## Avaliação
 
-**Sem veredito.** É a edição que o Mathews indicou: a de Giorgio Sinedino, traduzida diretamente do chinês. A Etapa 1 só localizou e registrou o objeto; a comparação com outras traduções fica para a pesquisa de veredito.
+**Sem veredito formal; confirmada na revisão de 2026-10-10.** É a edição que estava registrada como indicação do Mathews: a de Giorgio Sinedino, traduzida diretamente do chinês. A Etapa 1 só localizou e registrou o objeto; a comparação com outras traduções fica para a pesquisa de veredito.

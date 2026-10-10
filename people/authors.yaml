@@ -1733,3 +1733,12 @@ marcelo-pen:
   dates: null
   note: "Crítico. Apresenta e organiza a fortuna crítica das edições especiais
          de 1984 (2019) e A Fazenda dos Animais (2020) da Companhia das Letras."
+
+chiu-yi-chih:
+  name_display: "Chiu Yi Chih"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Professor de filosofia chinesa clássica e de
+         mandarim; traduziu do chinês, com comentários e notas, A arte da
+         guerra para a Edipro (2021, edição bilíngue)."
+  role: translator

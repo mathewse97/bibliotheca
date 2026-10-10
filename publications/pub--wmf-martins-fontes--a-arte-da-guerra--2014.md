@@ -33,7 +33,7 @@ source_of_record: voce
 contains:
   - work: sunzi--bingfa
     verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Martins Fontes, edição de Ralph D. Sawyer, trad. Ana Aguiar Cotrim); localizada e registrada em 2026-10-09. A tradução portuguesa é feita a partir do inglês de Sawyer — indireta."
+    reason: "Candidato B do cartão d-ed-sunzi. Tradução indireta (do inglês de Sawyer); existindo tradução direta do chinês (Edipro, 2021), o §F.1 a recusa."
     translator: [cotrim]
     translated_from: via:en
     source_text: null
