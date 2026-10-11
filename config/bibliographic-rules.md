@@ -393,6 +393,12 @@ faixa (`price_band`), e só como desempate de último recurso.
 - Uma tradução espanhola **não é automaticamente preferível** a uma italiana, e
   uma italiana não é automaticamente preferível a uma inglesa. O que decide é a
   língua original da obra e a qualidade das edições concretas disponíveis.
+- **A edição na língua original vem antes das traduções para outras línguas**
+  (esp., it., ing. e as demais), salvo se a tradução for claramente melhor.
+  Isso só vale quando **não há boa tradução em português**: havendo uma, ela
+  vence o original (nos limites de F.1, F.4 e da faixa de qualidade).
+  Exemplo: obra escrita em inglês sem boa tradução portuguesa → a edição em
+  inglês, não a espanhola. Decisão do Mathews, 2026-10-11.
 - Para obras escritas originalmente em **espanhol, italiano ou inglês**, uma
   edição de alta qualidade **na língua original** pode ser preferível a uma
   tradução portuguesa fraca.
