@@ -612,8 +612,9 @@ def build():
     # AJUSTE (pedido do Mathews, 2026-10-10): no nível da OBRA (catálogo,
     # autor, busca) vale a mesma precedência — posse → edição escolhida para
     # uma coleção (`publication_pref`, a da primeira participação que tiver) →
-    # veredito → publicação única → a de acesso mais fácil (língua na ordem pt, es, it,
-    # en; em catálogo; com anúncio). Antes, uma escolha feita por cartão de
+    # veredito → publicação única → a de acesso mais fácil (português primeiro;
+    # as demais línguas NÃO têm ordem entre si — config/bibliographic-rules.md
+    # §F.2; depois em catálogo; com anúncio). Antes, uma escolha feita por cartão de
     # decisão só aparecia dentro da coleção e a obra ficava sem capa no resto
     # da interface. As duas últimas saem ATENUADAS: não são escolha dele.
     # A razão: uma edição que ele TEM é por onde ele lê a obra, independentemente
@@ -642,14 +643,12 @@ def build():
                         "by_collection": True}
         return None
 
-    LANG_ORDER = ["pt", "es", "it", "en"]
-
     def _acesso(pid):
-        """Chave de ordenação: mais acessível primeiro (língua, catálogo, anúncio)."""
+        """Chave de ordenação: mais acessível primeiro. Só o português é
+        preferido; as outras línguas não têm ordem entre si (§F.2)."""
         pub = idx["publications"].get(pid) or {}
         lang = (pub.get("language") or "").split("-")[0]
-        li = LANG_ORDER.index(lang) if lang in LANG_ORDER else len(LANG_ORDER)
-        return (li, pub.get("language") != "pt-BR",
+        return (lang != "pt",
                 pub.get("availability_br") != "em-catalogo",
                 not pub.get("acquisition"), pid)
 
