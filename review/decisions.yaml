@@ -931,7 +931,7 @@ items:
   state: decidida
   decided: {date: 2026-10-10, choice: "B — Obras completas, Loyola / Apostolado da Oração, 2006, trad. Francisco de Sales Baptista.", note: "Decisão do Mathews, seguindo a recomendação. A tradução inglesa saiu do registro."}
   question: "Em que edição ler as cartas de São Francisco Xavier?"
-  why: "A registrada é a tradução inglesa do Institute of Jesuit Sources (1992), sua indicação. Existe uma edição completa em português, publicada no Brasil: as *Obras completas*, com todos os escritos de Xavier. Pelas regras da biblioteca, o português vem antes do inglês quando a qualidade é comparável."
+  why: "A registrada é a tradução inglesa do Institute of Jesuit Sources (1992), sua indicação. Existe uma edição completa em português, publicada no Brasil: as *Obras completas*, com todos os escritos de Xavier. O português é a língua preferida da biblioteca quando há boa tradução."
   editions:
     - key: A
       label: "Institute of Jesuit Sources, 1992 — M. Joseph Costelloe"
@@ -953,7 +953,7 @@ items:
       pros: ["O texto original, com notas de especialista"]
       cons: ["Em espanhol; só usada"]
   options: []
-  recommendation: "B: é completa e em português, e a ordem de línguas da biblioteca a põe antes do inglês. Fique com A se as notas de Costelloe pesarem mais para você que a língua."
+  recommendation: "B: é completa e em português, a língua preferida da biblioteca. Fique com A se as notas de Costelloe pesarem mais para você que a língua."
   recommended: B
 
 - id: d-ed-mckirahan
@@ -978,7 +978,7 @@ items:
       pros: ["O texto do autor"]
       cons: ["Em inglês"]
   options: []
-  recommendation: "A: é o mesmo livro em português, revisto por um especialista; pela ordem de línguas da biblioteca, vem antes do inglês."
+  recommendation: "A: é o mesmo livro em português, a língua preferida da biblioteca, revisto por um especialista."
   recommended: A
 
 - id: d-ed-xenofonte
@@ -1000,11 +1000,10 @@ items:
       label: "Helénicas, Gredos — Orlando Guntiñas Tuñón (espanhol)"
       status: "Não registrada"
       facts: [["Tradução","Direta do grego, com introdução e notas"],["Formato","Espanhol, um volume"]]
-      pros: ["Mais anotada", "Espanhol vem antes do inglês na ordem da biblioteca"]
+      pros: ["Mais anotada", "Tradução moderna e direta do grego"]
       cons: ["Sem o texto grego"]
   options: []
-  recommendation: "B: o espanhol vem antes do inglês nas regras da biblioteca, e as notas fazem diferença numa obra histórica. Fique com A se o texto grego ao lado pesar mais para você."
-  recommended: B
+  recommendation: "Sem recomendação clara. Não há tradução em português, e entre o espanhol e o inglês a biblioteca não tem preferência de língua. A leva o texto grego, o original, mas numa tradução de 1918 e quase sem notas; B tem tradução moderna e notas, sem o grego. Pesa o que importa mais para você: o grego ao lado ou o aparato."
 
 - id: d-ed-epicteto
   kind: edicao
@@ -1050,7 +1049,7 @@ items:
       label: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022"
       status: "Não registrada"
       facts: [["Tradução","Andrés de Francisco, com introdução"],["Situação","Em catálogo"]]
-      pros: ["Espanhol vem antes do inglês na ordem da biblioteca", "Recente"]
+      pros: ["Recente", "Com introdução de especialista"]
       cons: ["Tradução da tradução inglesa"]
   options: []
   recommendation: "A: a espanhola é tradução da versão inglesa, e o inglês é o texto que Hansen acompanhou. B só se você preferir ler em espanhol."
@@ -1161,7 +1160,7 @@ items:
       label: "Donde no hay doctor — Terracota/Pax, 2022 (espanhol)"
       status: "Registrada · exibida hoje (provisória)"
       facts: [["Autoria","David Werner com Carol Thuman e Jane Maxwell"],["Atualização","'Actualizado para el siglo 21': HIV e aids, dengue, Zika"],["Formato","528 p."],["Situação","Importado (~R$ 160)"]]
-      pros: ["Língua original da obra", "Informação médica atualizada", "Espanhol vem antes do inglês na sua ordem de línguas"]
+      pros: ["Língua original da obra", "Informação médica atualizada"]
       cons: ["Não é português"]
     - key: B
       pub: pub--hesperian--where-there-is-no-doctor--2022
@@ -1169,7 +1168,7 @@ items:
       status: "Registrada"
       facts: [["Atualização","Revisão de 2023: medicamentos, planejamento familiar, novos tratamentos de infecções"],["Formato","496 p."],["Situação","Importado"]]
       pros: ["A versão que a Hesperian atualiza com mais frequência"]
-      cons: ["Inglês, abaixo do espanhol na sua ordem de línguas"]
+      cons: ["Não é português"]
     - key: C
       pub: pub--paulus--onde-nao-ha-medico--1994
       label: "Onde não há médico — Paulus (português do Brasil)"
@@ -1207,10 +1206,10 @@ items:
       label: "Donde no hay dentista — Hesperian, 2005 (espanhol)"
       status: "Não registrada"
       facts: [["Situação","Importado (~R$ 117)"]]
-      pros: ["Espanhol, acima do inglês na sua ordem de línguas"]
+      pros: []
       cons: ["Anterior à revisão de 2018"]
   options: []
-  recommendation: "A: a revisão de 2018 só existe em inglês. Aqui a atualização do conteúdo pesa mais que a ordem das línguas."
+  recommendation: "A: a revisão de 2018 só existe em inglês. Aqui a atualização do conteúdo pesa mais que o idioma: a edição em português é de 1985."
   recommended: A
 
 # ============================== CONFIRMAR POSIÇÃO ===========================

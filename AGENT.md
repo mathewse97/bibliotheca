@@ -124,6 +124,7 @@ responde a quê e como extraí-la.
 | identificadores | `config/bibliographic-rules.md` | §C |
 | hierarquia de fontes, pesquisa de edição | `config/bibliographic-rules.md` | §E |
 | seleção de edição, preferência de idioma | `config/bibliographic-rules.md` | §F |
+|  ↳ **idioma, em uma linha** | só o **português** é preferido, e só havendo boa tradução; **espanhol, italiano e inglês não têm ordem entre si** — "pt, es, it, en" é escopo de busca, não preferência (§F.2, decisão do Mathews de 2026-09-06) | |
 | postura, hipóteses, incerteza visível | `config/curation-rules.md` | §0 |
 | distinções do modelo | `config/curation-rules.md` | §1 |
 | escopo, cobertura, as quatro operações | `config/curation-rules.md` | §2 |
