@@ -311,6 +311,17 @@ sequence:
                       instituicoes, universo-simbolico, religiao-e-sociedade,
                       secularizacao, funcao-social-da-religiao]
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. Posição minha: logo depois
+  # de Berger, com quem forma a tensão registrada abaixo.
+  - work: taylor--a-secular-age
+    role: critical-response
+    demand: exigente
+    why_here: "Responde a Berger: a secularização não como perda de
+               plausibilidade da religião, mas como mudança nas condições do
+               crer, em que a fé passa a ser uma opção entre outras."
+    why_here_by: claude
+    inserted_by: claude
+
   - movement: "III. Mundo religioso do antigo Oriente"
     purpose: "Mesopotâmia, Egito, Canaã, Israel."
     purpose_by: voce
@@ -586,7 +597,22 @@ sequence:
 # Bíblia de Jerusalém. Os campos que ele não escreveu continuam nulos.
 # ---------------------------------------------------------------------------
 
+tensions:
+  - {a: berger--the-sacred-canopy,
+     b: taylor--a-secular-age,
+     about: "O que é a secularização: a religião perdendo plausibilidade
+             social diante da modernização, ou uma mudança nas condições em
+             que se crê, que torna a fé uma opção entre outras sem a fazer
+             desaparecer. Berger depois abandonou a própria tese."}
+
 order_changes:
+  - work: taylor--a-secular-age
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento II, depois de Berger"
+    approved_by: voce
+    date: 2026-10-13
+    reason: "Inclusão aprovada por você; posição minha, junto do interlocutor."
 
   - work: armstrong--a-history-of-god
     kind: move

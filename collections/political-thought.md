@@ -572,6 +572,17 @@ sequence:
     edition_pref: {text: "Itatiaia, trad. Milton Amado.", by: voce, verified: false}
     publication_pref: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012   # provisória: a escolha está no cartão d-ed-popper (2026-10-10); vol. 2 em pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. Posição minha: entre
+  # Popper e Berlin, três diagnósticos das ideologias modernas.
+  - work: voegelin--the-new-science-of-politics
+    role: critical-response
+    demand: exigente
+    why_here: "Outro diagnóstico das ideologias modernas, ao lado de Popper:
+               não o historicismo, mas a promessa de realizar na história a
+               salvação que a fé situava além dela."
+    why_here_by: claude
+    inserted_by: claude
+
   - work: berlin--two-concepts-of-liberty
     core: true
     role: comparative
@@ -889,6 +900,13 @@ original_order: [platao--politeia, aristoteles--politika, tucidides--historiai,
 # ---------------------------------------------------------------------------
 
 order_changes:
+  - work: voegelin--the-new-science-of-politics
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento VII, entre Popper e Berlin"
+    approved_by: voce
+    date: 2026-10-13
+    reason: "Inclusão aprovada por você; posição minha."
 
   # ---------------------------------------------------------------------
   # SHAKESPEARE ENTRA — decisão sua de 2026-09-28. Você optou pelas duas
