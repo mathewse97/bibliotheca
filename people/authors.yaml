@@ -2146,3 +2146,50 @@ yvette-vieira-pinto-de-almeida:
   note: "Tradutora, não autora. Traduziu O legado da Grécia, org. M. I. Finley (Editora UnB)."
   role: translator
 
+
+# Entraram em 2026-10-13: coleção Oriente Próximo e Egito antigos e acréscimos
+# na Greco-Romana (decisão do Mathews, 2026-10-13).
+van-de-mieroop:
+  name_display: "Marc Van De Mieroop"
+  name_variants: ["Marc Van de Mieroop"]
+  dates: null
+  note: "Historiador do antigo Oriente Próximo e do Egito (Columbia University)."
+
+brosius:
+  name_display: "Maria Brosius"
+  name_variants: []
+  dates: null
+  note: "Historiadora do império aquemênida."
+
+rhodes:
+  name_display: "P. J. Rhodes"
+  name_variants: ["Peter John Rhodes"]
+  dates: "1940–2021"
+  note: "Historiador da Grécia clássica (Durham)."
+
+chaniotis:
+  name_display: "Angelos Chaniotis"
+  name_variants: []
+  dates: null
+  note: "Historiador e epigrafista do mundo grego helenístico e imperial
+         (Institute for Advanced Study, Princeton)."
+
+mitchell:
+  name_display: "Stephen Mitchell"
+  name_variants: []
+  dates: null
+  note: "Historiador do Império Romano tardio e da Anatólia antiga. Não é o
+         tradutor homônimo de Gilgamesh e do Tao Te Ching."
+
+cameron:
+  name_display: "Averil Cameron"
+  name_variants: []
+  dates: null
+  note: "Historiadora da Antiguidade tardia e de Bizâncio (Oxford)."
+
+brown-peter:
+  name_display: "Peter Brown"
+  name_variants: []
+  dates: null
+  note: "Historiador da Antiguidade tardia (Princeton). Não é o Peter C. Brown
+         de Make It Stick (id `brown`)."
