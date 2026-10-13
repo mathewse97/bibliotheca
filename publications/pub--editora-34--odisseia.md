@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: homero--odysseia
-    why: "Bilíngue, com o grego ao lado; tradução de Trajano Vieira. Fica junto com a caixa da Penguin-Companhia, por escolha sua."
+    why: "Tradução de Trajano Vieira, direto do grego, com o texto grego ao lado para conferir o original. Fica junto com a sua caixa da Penguin-Companhia, por escolha sua, não no lugar dela."
     verdict: unassessed
     reason: "Decisão do Mathews em 2026-10-10: ele quer as duas edições de Homero — a caixa Penguin-Companhia, que já tem, e esta, bilíngue. Não é alternativa: é a segunda edição da biblioteca."
     translator: [trajano-vieira]

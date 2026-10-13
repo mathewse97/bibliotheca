@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: dickinson-dyer--the-backyard-astronomers-guide
-    why: "A 4ª edição, inteiramente revista: um dos guias gerais de astronomia amadora mais citados."
+    why: "Escolhida por você no lugar do Manual do astrônomo de Mourão: a 4ª edição (2021), revista, deste guia que ensina como observar o céu e com que equipamento. Está em inglês e precisa ser importada."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10 pelo Mathews, no lugar do Manual do astrônomo de Mourão: a edição mais recente."
     translator: null

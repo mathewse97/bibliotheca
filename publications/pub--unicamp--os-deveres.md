@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: cicero--de-officiis
-    why: "A melhor edição em português: recente, com o latim ao lado e notas de Bruno Fregni Bassetto."
+    why: "Tradução recente de Bruno Fregni Bassetto, direto do latim, com o texto latino ao lado para conferir o original e notas. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [bassetto]

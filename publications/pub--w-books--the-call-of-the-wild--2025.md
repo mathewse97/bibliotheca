@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: london--the-call-of-the-wild
-    why: "Seu exemplar, no original em inglês, sem introdução nem notas. Uma edição com aparato fica para depois que você ler esta."
+    why: "Seu exemplar, no original em inglês, só com o texto, sem introdução nem notas. Uma edição com notas e introdução, como a da Oxford World's Classics, fica para depois que você ler esta."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Reimpressão sem aparato. Recomendação registrada: a Oxford World's Classics (org. Earle Labor, com White Fang e contos); o Mathews vai ler esta e decidir depois."
     translator: null

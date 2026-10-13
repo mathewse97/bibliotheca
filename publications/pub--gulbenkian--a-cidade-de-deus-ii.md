@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: agostinho--de-civitate-dei
+    why: "Segundo dos três volumes da mesma tradução completa de J. Dias Pereira, feita direto do latim. É português de Portugal e precisa ser importado."
     verdict: unassessed
     reason: "Volume 2 de 3."
     translator: []

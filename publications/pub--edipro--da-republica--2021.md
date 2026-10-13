@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: cicero--de-re-publica
-    why: "Sua indicação: a tradução de Amador Cisneiros, em catálogo."
+    why: "Indicada por você: a tradução de Amador Cisneiros, feita direto do latim e à venda nova."
     verdict: unassessed
     reason: "Confere com a sua indicação (Edipro, trad. Amador Cisneiros)."
     translator: ["Amador Cisneiros"]

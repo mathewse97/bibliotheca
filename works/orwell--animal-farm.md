@@ -41,8 +41,8 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-10-10
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Penguin-Companhia, 2020", note: "A mesma tradução, de bolso, sem a fortuna crítica."}
-  - {edition: "Biblioteca Azul, Aleph, Melhoramentos (2021)", note: "Outras traduções novas, sem a mesma referência."}
+  - {edition: "Penguin-Companhia, 2020", note: "A mesma tradução de Britto em edição de bolso, mais barata, mas sem os ensaios sobre o livro."}
+  - {edition: "Biblioteca Azul, Aleph, Melhoramentos (2021)", note: "Outras traduções recentes; no máximo trazem uma apresentação ou um prefácio curto, nenhuma tem os ensaios desta edição."}
 ---
 
 ## Sobre a obra

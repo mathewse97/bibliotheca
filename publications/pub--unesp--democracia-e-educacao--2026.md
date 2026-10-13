@@ -35,7 +35,7 @@ source_of_record: voce
 
 contains:
   - work: dewey--democracy-and-education
-    why: "Sua escolha: tradução nova (2026), de Guilherme Mirage Umeda, em catálogo."
+    why: "Sua escolha: tradução nova (2026) de Guilherme Mirage Umeda, com apresentação de Carlota Boto, feita com a Sociedade Brasileira de História da Educação. Fácil de comprar nova; ainda não foi comparada com a tradução antiga."
     verdict: unassessed
     reason: "A edição é escolha do Mathews. A tradução histórica de Rangel e
              Anísio Teixeira existe e não foi examinada; sem comparação, não há

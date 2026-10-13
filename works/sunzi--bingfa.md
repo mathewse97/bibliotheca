@@ -30,9 +30,9 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-10-13
 editions_considered:
-  - {edition: "Edipro, 2021, trad. Chiu Yi Chih, bilíngue", note: "Direta do chinês, mas curta e sem aparato, vendida como livro de lições pessoais e profissionais."}
-  - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O mesmo trabalho no original inglês, direto do chinês."}
-  - {edition: "WMF Martins Fontes, 2014, ed. Ralph D. Sawyer", note: "Traduzida do inglês, sem a tradição de comentadores."}
+  - {edition: "Edipro, 2021, trad. Chiu Yi Chih, bilíngue", note: "Traduzida direto do chinês, com o original ao lado, mas curta, sem notas nem comentários, e vendida como livro de lições profissionais."}
+  - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O mesmo trabalho de Minford no original em inglês, traduzido direto do chinês; ficou de fora por ser em inglês."}
+  - {edition: "WMF Martins Fontes, 2014, ed. Ralph D. Sawyer", note: "Traduzida do inglês como a escolhida, mas sem os comentários dos antigos leitores chineses."}
 ---
 
 ## Sobre a obra

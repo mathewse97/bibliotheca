@@ -28,7 +28,7 @@ source_of_record: claude
 
 contains:
   - work: dhammapada
-    why: "Sua indicação: tradução direta do páli, de José Carlos Calazans, bilíngue, com o texto páli e a transliteração."
+    why: "Sua indicação. Traduzida direto do páli, a língua original, por José Carlos Calazans, com o texto páli ao lado e sua transcrição em letras latinas, para conferir as palavras originais. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [calazans]

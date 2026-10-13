@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Martins Fontes, 2025, trad. Rafael Frate", note: "Direta, com introdução e notas; sem vantagem clara."}
+  - {edition: "Martins Fontes, 2025, trad. Rafael Frate", note: "Tradução de Rafael Frate, também direto do grego, com introdução e notas; não mostrou vantagem clara sobre a de Dinucci."}
 ---
 
 ## Sobre a obra

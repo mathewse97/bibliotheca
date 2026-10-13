@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Rome: An Empire's Story, 2ª ed., Oxford, 2022", note: "Revista e ampliada pelo autor, mas só em inglês."}
+  - {edition: "Rome: An Empire's Story, 2ª ed., Oxford, 2022", note: "Edição revista e ampliada pelo autor em 2022, mas só existe em inglês."}
 ---
 
 ## Sobre a obra

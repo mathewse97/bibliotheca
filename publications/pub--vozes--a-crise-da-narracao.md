@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: han--die-krise-der-narration
-    why: "A única tradução brasileira, feita do alemão por Daniel Guilhermino."
+    why: "A única tradução brasileira, feita direto do alemão por Daniel Guilhermino. Não há outra edição para comparar."
     verdict: unassessed
     reason: "Única edição brasileira identificada."
     translator: ["Daniel Guilhermino"]

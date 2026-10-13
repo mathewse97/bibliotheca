@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: vernant--les-origines-de-la-pensee-grecque
-    why: "A tradução brasileira de sempre, direta do francês."
+    why: "A tradução brasileira de longa data, feita direto do francês por Ísis Borges B. da Fonseca. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [isis-borges]

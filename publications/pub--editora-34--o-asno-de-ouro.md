@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: apuleio--metamorphoses-asinus-aureus
-    why: "Única edição em português com o latim ao lado, na tradução elogiada de Ruth Guimarães, com notas de Adriane da Silva Duarte."
+    why: "Tradução de Ruth Guimarães feita direto do latim, com o texto latino ao lado para conferir o original e notas de Adriane da Silva Duarte. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [ruth-guimaraes]

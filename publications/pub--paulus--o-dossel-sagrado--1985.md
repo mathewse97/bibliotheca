@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: berger--the-sacred-canopy
-    why: "A tradução brasileira padrão, direta do inglês, em catálogo."
+    why: "A tradução brasileira de José Carlos Barcellos, feita direto do inglês e à venda nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [barcellos]

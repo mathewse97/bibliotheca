@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cultrix/Pensamento, trad. Adail Ubirajara Sobral", note: "Feita sobre o texto anterior à edição definitiva; esgotada."}
+  - {edition: "Cultrix/Pensamento, trad. Adail Ubirajara Sobral", note: "Tradução de Adail Ubirajara Sobral, feita sobre uma versão anterior do texto; esgotada."}
 ---
 
 ## Sobre a obra

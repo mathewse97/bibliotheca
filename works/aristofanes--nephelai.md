@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Abril Cultural, trad. Gilda Starzynski", note: "Direta, mas esgotada há décadas."}
-  - {edition: "Inquérito (Portugal), trad. Custódio Magueijo", note: "Portuguesa."}
+  - {edition: "Abril Cultural, trad. Gilda Starzynski", note: "Tradução de Gilda Starzynski, também direto do grego, mas esgotada há décadas."}
+  - {edition: "Inquérito (Portugal), trad. Custódio Magueijo", note: "Tradução de Custódio Magueijo, em português de Portugal."}
 ---
 
 ## Sobre a obra

@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: sofocles--oidipous-tyrannos
-    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
+    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Ainda não foi comparada com outras edições desta peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]
@@ -40,7 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: sofocles--oidipous-epi-kolonoi
-    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
+    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Ainda não foi comparada com outras edições desta peça."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]
@@ -49,7 +49,7 @@ contains:
     completeness: null
     apparatus: []
   - work: sofocles--antigone
-    why: "Sua indicação: as três peças tebanas num só volume, em tradução de Mário da Gama Kury, direta do grego, com introdução e notas."
+    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Para Antígona sozinha há tradução mais elogiada, mas avulsa."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]

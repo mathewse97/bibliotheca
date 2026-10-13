@@ -28,7 +28,7 @@ source_of_record: claude
 
 contains:
   - work: joao-paulo-ii--varcare-la-soglia-della-speranza
-    why: "A edição brasileira da obra. Só usada."
+    why: "A edição brasileira do livro, de 1994, pela Francisco Alves; hoje só se acha usada. O tradutor não está identificado, e ela ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: null
     translator: []              # não confirmado

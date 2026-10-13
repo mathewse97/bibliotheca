@@ -44,7 +44,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-17
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Direta e anotada, mas portuguesa e sem o grego."}
+  - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Tradução de Manuel de Oliveira Pulquério, direto do grego e com notas, mas em português de Portugal e sem o grego ao lado."}
 ---
 
 ## Sobre a obra

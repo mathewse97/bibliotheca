@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--demosthenes
-    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
+    why: "Traduzida direto do grego por Marta Várzeas, com introdução e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de Cícero. Português de Portugal; ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [varzeas]

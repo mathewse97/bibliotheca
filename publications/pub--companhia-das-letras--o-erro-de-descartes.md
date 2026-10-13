@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: damasio--descartes-error
-    why: "Única edição em catálogo na editora."
+    why: "Tradução de Dora Vicente e Georgina Segurado, a única edição que a própria editora vende hoje. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Única edição corrente identificada na própria editora."
     translator: ["Dora Vicente", "Georgina Segurado"]

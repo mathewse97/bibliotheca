@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: ovidio--metamorphoses
-    why: "A edição mais completa: o latim ao lado, o poema inteiro, notas e índices."
+    why: "Traduzida direto do latim por Domingos Lucas Dias, com o latim ao lado para conferir no original as palavras que importam. Traz o poema inteiro, com notas e índices para achar personagens e episódios."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [lucas-dias]

@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: gooley--the-secret-world-of-weather
-    why: "A tiragem corrente: uma tiragem anterior saiu com uma omissão na página 73."
+    why: "A brochura americana à venda hoje, em inglês. Convém comprar esta impressão: segundo a própria editora, uma impressão anterior saiu com um trecho faltando na página 73."
     verdict: recommended
     reason: "Brochura americana corrente, confirmada na editora. Preferida às
              tiragens anteriores por uma razão registrada pela própria

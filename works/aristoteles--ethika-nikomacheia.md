@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Editora UnB / Madamu, trad. Mário da Gama Kury", note: "Direta e clássica, sem o grego."}
-  - {edition: "Edipro, trad. Edson Bini", note: "Direta, com notas; menos prestigiada."}
+  - {edition: "Editora UnB / Madamu, trad. Mário da Gama Kury", note: "A tradução clássica de Mário da Gama Kury, direto do grego, mas sem o texto grego ao lado."}
+  - {edition: "Edipro, trad. Edson Bini", note: "Tradução de Edson Bini, direto do grego e com notas, mas menos reconhecida pelos especialistas."}
 ---
 
 ## Sobre a obra

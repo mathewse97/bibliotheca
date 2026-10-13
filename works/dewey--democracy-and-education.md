@@ -65,7 +65,7 @@ derived_from:
          da publicação."
 updated: 2026-10-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Companhia Editora Nacional, 1952, trad. Godofredo Rangel e Anísio Teixeira", note: "A tradução histórica; só usada."}
+  - {edition: "Companhia Editora Nacional, 1952, trad. Godofredo Rangel e Anísio Teixeira", note: "A tradução histórica de Godofredo Rangel e Anísio Teixeira; só se acha usada e ainda não foi examinada."}
 ---
 
 ## Sobre a obra

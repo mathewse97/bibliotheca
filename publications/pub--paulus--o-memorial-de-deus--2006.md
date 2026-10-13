@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: smith--the-memoirs-of-god
-    why: "A única tradução em português, em catálogo."
+    why: "A única tradução em português, da Paulus, à venda nova. Não se sabe quem traduziu nem se foi direto do inglês; ainda não foi comparada com outras edições."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

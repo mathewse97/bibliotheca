@@ -36,7 +36,7 @@ source_of_record: claude
 
 contains:
   - work: pseudo-apolodoro--bibliotheke
-    why: "Bilíngue e obtenível; as notas de Frazer comparam cada mito com as outras versões antigas. A edição italiana da Valla fica registrada como referência de estudo."
+    why: "Tradução inglesa de James George Frazer, feita direto do grego, com o grego ao lado e notas que, para cada mito, citam e comparam as versões de outros autores antigos. As notas são de 1921; é a edição que se consegue importar. Volume 1 de 2."
     verdict: alternative
     reason: "Alternativa bilíngue acessível, não a edição de referência em
              comentário. As notas de Frazer fazem bem uma coisa específica:

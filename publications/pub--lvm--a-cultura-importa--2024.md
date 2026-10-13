@@ -33,7 +33,7 @@ source_of_record: claude
 
 contains:
   - work: scruton--culture-counts
-    why: "A única tradução brasileira, em catálogo. O tradutor não é creditado nas fontes consultadas."
+    why: "A única tradução brasileira, à venda nova. O tradutor não aparece nas fontes, por isso não há como avaliar a qualidade da tradução."
     verdict: unassessed
     reason: "Única edição brasileira identificada. Sem saber quem traduziu, não há como julgar a tradução nem compará-la ao original inglês (Culture Counts, 2007)."
     translator: []

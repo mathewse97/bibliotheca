@@ -30,10 +30,10 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-10-13
 editions_considered:
-  - {edition: "Editora UnB, trad. Mário da Gama Kury", note: "Direta do grego, com introdução e notas, mas sem o grego ao lado; a edição da UnB é antiga."}
-  - {edition: "Madamu, 2021, trad. Mário da Gama Kury", note: "A mesma tradução, em catálogo, com a numeração de Bekker."}
-  - {edition: "Edipro, 2018, trad. Maria Aparecida de Oliveira Silva", note: "Tradução nova de uma helenista; língua de partida e recepção não confirmadas."}
-  - {edition: "Martins Fontes, trad. Roberto Leal Ferreira", note: "Traduzida do francês."}
+  - {edition: "Editora UnB, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, direto do grego, com introdução e notas, mas sem o grego ao lado e numa edição antiga."}
+  - {edition: "Madamu, 2021, trad. Mário da Gama Kury", note: "A mesma tradução de Kury, à venda nova, com a numeração padrão de Aristóteles, que permite achar passagens citadas em outros livros; sem o grego."}
+  - {edition: "Edipro, 2018, trad. Maria Aparecida de Oliveira Silva", note: "Tradução recente de Maria Aparecida de Oliveira Silva, especialista em grego antigo; não se confirmou se foi feita direto do grego nem como foi recebida."}
+  - {edition: "Martins Fontes, trad. Roberto Leal Ferreira", note: "Tradução de Roberto Leal Ferreira feita a partir de uma versão francesa, e não do original grego."}
 ---
 
 ## Sobre a obra

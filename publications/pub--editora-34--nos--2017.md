@@ -31,7 +31,7 @@ source_of_record: voce
 
 contains:
   - work: zamiatin--my
-    why: "Editora de referência em tradução do russo, com posfácio de Cássio de Oliveira."
+    why: "Escolha sua: Editora 34, a principal casa brasileira de traduções do russo, com posfácio de Cássio de Oliveira. Tradução de Francisco de Araújo, provavelmente direto do russo, mas as fontes não confirmam."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-zamiatin, adotando a recomendação)."
     translator: [francisco-araujo]

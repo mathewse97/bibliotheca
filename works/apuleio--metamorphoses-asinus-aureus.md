@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cotovia (Lisboa), 2007, trad. Delfim Ferreira Leão", note: "Acadêmica, mas portuguesa e sem o latim."}
-  - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Acadêmica; não se confirmou se traz o latim."}
+  - {edition: "Cotovia (Lisboa), 2007, trad. Delfim Ferreira Leão", note: "Edição de perfil universitário, mas em português de Portugal e sem o texto latino ao lado."}
+  - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Tradução de perfil universitário; não se confirmou se traz o texto latino ao lado, como a escolhida."}
 ---
 
 ## Sobre a obra

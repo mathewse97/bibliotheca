@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: jaeger--the-envy-of-angels
-    why: "A única tradução brasileira."
+    why: "A única tradução brasileira; o livro não circula em outras traduções conhecidas, então não há com o que comparar."
     verdict: unassessed
     reason: "Única edição brasileira identificada — não há comparação com
              alternativas porque a obra não circula em outras traduções

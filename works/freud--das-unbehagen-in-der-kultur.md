@@ -50,9 +50,9 @@ provenance:
            pesquisa de edição."
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "O mal-estar na cultura, Autêntica, 2025", note: "Tradução de Maria Rita Salzano Moraes, com glossário; o título traduz Kultur ao pé da letra."}
-  - {edition: "Obras completas, vol. 18, Companhia das Letras, 2010", note: "A mesma tradução, em capa dura, com outros textos."}
-  - {edition: "L&PM, Vozes, Martin Claret", note: "Edições correntes, sem o projeto editorial das duas primeiras."}
+  - {edition: "O mal-estar na cultura, Autêntica, 2025", note: "Tradução recente de Maria Rita Salzano Moraes, com glossário dos termos de Freud; o título diz \"cultura\", mais literal, em vez do consagrado \"civilização\"."}
+  - {edition: "Obras completas, vol. 18, Companhia das Letras, 2010", note: "A mesma tradução de Paulo César de Souza, em capa dura e junto com outros textos de Freud; mais volumosa e cara."}
+  - {edition: "L&PM, Vozes, Martin Claret", note: "Edições avulsas de outros tradutores, fora das coleções de obras completas que dão mais confiança às duas primeiras."}
 ---
 
 ## Sobre a obra

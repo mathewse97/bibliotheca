@@ -36,7 +36,7 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "Historia del Próximo Oriente antiguo, Trotta (Madrid), 2ª ed. 2023", note: "Tradução espanhola; o original em inglês vem antes dela (§F.2)."}
+  - {edition: "Historia del Próximo Oriente antiguo, Trotta (Madrid), 2ª ed. 2023", note: "Tradução para o espanhol; ficou de fora porque o original em inglês é preferível a uma tradução para outra língua estrangeira."}
 ---
 
 ## Sobre a obra

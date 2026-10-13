@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: epopeia-de-gilgamesh
-    why: "Tradução de Jacyntho Lins Brandão, direta do acádio e anotada: as notas fazem diferença numa coleção de estudo da religião."
+    why: "Traduzida direto do acádio, a língua original, por Jacyntho Lins Brandão, com notas que explicam o texto, úteis para quem o estuda. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [jacyntho-lins-brandao]

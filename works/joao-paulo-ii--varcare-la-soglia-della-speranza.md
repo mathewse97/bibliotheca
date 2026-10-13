@@ -55,7 +55,7 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Atravessar o limiar da esperança, Planeta (Lisboa), 1994", note: "Portuguesa; também esgotada."}
+  - {edition: "Atravessar o limiar da esperança, Planeta (Lisboa), 1994", note: "Edição de Portugal, em português europeu, e também esgotada."}
 ---
 
 ## Sobre a obra

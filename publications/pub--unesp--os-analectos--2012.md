@@ -32,7 +32,7 @@ source_of_record: voce
 
 contains:
   - work: confucio--lunyu
-    why: "Sua indicação: a tradução de Giorgio Sinedino, direta do chinês e bilíngue."
+    why: "Sua indicação. Tradução de Giorgio Sinedino direto do chinês antigo, com o original ao lado e, a cada aforismo, os comentários clássicos de Zhu Xi (1130–1200), que segundo a editora não aparecem em outras edições em português. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (tradução de Giorgio Sinedino); localizada e registrada em 2026-10-09. Sem comparação com alternativas, sem veredito."
     translator: [sinedino]

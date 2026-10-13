@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: agostinho--de-civitate-dei
-    why: "Sua indicação: tradução integral, direta do latim, de J. Dias Pereira, em três volumes."
+    why: "Indicada por você: a tradução completa de J. Dias Pereira, feita direto do latim, em três volumes; este é o primeiro. É português de Portugal e precisa ser importada."
     verdict: unassessed
     reason: "Confere com a sua indicação (Gulbenkian, trad. J. Dias Pereira). Volume 1 de 3."
     translator: []

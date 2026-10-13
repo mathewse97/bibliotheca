@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: sunzi--bingfa
-    why: "A versão completa de John Minford, com os comentadores chineses tradicionais e comentário histórico, revista contra o chinês pelo sinólogo André Bueno. Foi traduzida do inglês, não do chinês: aqui o aparato vale mais que a tradução direta."
+    why: "Traduzida do inglês, não do chinês, mas é a versão completa de John Minford: traz os comentários dos antigos leitores chineses e notas históricas, com introdução e revisão do chinês por André Bueno, especialista em China. Uma resenha acadêmica a chama de referência segura."
     verdict: recommended
     reason: "Escolhida pelo Mathews em 2026-10-13 no lugar da Edipro (Chiu Yi Chih), como exceção declarada ao portão 1 do §F.1: a Edipro é direta e bilíngue, mas curta, sem aparato, sem avaliação independente e vendida como livro de lições profissionais; esta é a edição de referência de leitura (resenha na Locus/UFJF, 2021: 'uma das poucas referências seguras em português')."
     translator: [leonardo-alves]

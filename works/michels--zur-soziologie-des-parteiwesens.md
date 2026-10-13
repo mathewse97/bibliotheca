@@ -30,8 +30,8 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Editora UnB, 1982, trad. Arthur Chaudon", note: "Acadêmica, mas de língua de partida incerta; só usada."}
-  - {edition: "Antígona (Lisboa), 2001", note: "Portuguesa e rara."}
+  - {edition: "Editora UnB, 1982, trad. Arthur Chaudon", note: "Tradução acadêmica de Arthur Chaudon, mas não se sabe se foi feita do alemão ou de outra tradução; só se acha usada."}
+  - {edition: "Antígona (Lisboa), 2001", note: "Edição de Portugal, em português europeu, rara e cara."}
 ---
 
 ## Sobre a obra

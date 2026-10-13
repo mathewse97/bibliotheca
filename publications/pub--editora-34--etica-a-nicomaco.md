@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--ethika-nikomacheia
-    why: "A tradução brasileira mais recente, de André Malta, com o texto grego ao lado."
+    why: "A tradução brasileira mais recente, de André Malta, feita direto do grego, com o texto grego ao lado para conferir no original as palavras que importam. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [andre-malta]

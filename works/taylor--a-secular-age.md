@@ -36,7 +36,7 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "A Secular Age, Belknap Press of Harvard University Press, 2007", note: "O original em inglês; a tradução brasileira vem antes dele (§F.2)."}
+  - {edition: "A Secular Age, Belknap Press of Harvard University Press, 2007", note: "O original em inglês; ficou de fora porque há tradução brasileira completa."}
 ---
 
 ## Sobre a obra

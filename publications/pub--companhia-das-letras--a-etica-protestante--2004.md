@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: weber--die-protestantische-ethik
-    why: "A tradução de referência no Brasil, direta do alemão, com o aparato de Antônio Flávio Pierucci."
+    why: "A tradução de referência no Brasil, feita direto do alemão por José Marcos Mariani de Macedo, acompanhada do material explicativo preparado por Antônio Flávio Pierucci, que ajuda a entender o texto e os termos de Weber."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [mariani-de-macedo]

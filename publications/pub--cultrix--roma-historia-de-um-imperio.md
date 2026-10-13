@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: woolf--rome-an-empires-story
-    why: "A tradução brasileira, em catálogo. Traduz a 1ª edição; a revista, de 2022, só existe em inglês."
+    why: "A tradução brasileira, feita direto do inglês por Mário Molina, à venda nova. Traduz a 1ª edição; ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [mario-molina]

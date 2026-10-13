@@ -30,7 +30,7 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Itatiaia / Edusp, trad. Milton Amado", note: "A única brasileira, mas esgotada há décadas e rara."}
+  - {edition: "Itatiaia / Edusp, trad. Milton Amado", note: "Tradução de Milton Amado, a única brasileira, mas esgotada há décadas; só se acha usada, rara e cara."}
 ---
 
 ## Sobre a obra

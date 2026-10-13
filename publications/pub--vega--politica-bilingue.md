@@ -33,7 +33,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--politika
-    why: "A única tradução portuguesa com o grego ao lado: direta, anotada e com introdução e revisão científica de especialista. Português de Portugal; importada."
+    why: "Traduzida direto do grego por dois especialistas portugueses, com o texto grego ao lado para conferir os termos-chave, notas e introdução de especialista. É usada em curso de pós-graduação em filosofia da USP. Português de Portugal; precisa ser importada."
     verdict: recommended
     reason: "Escolhida pelo Mathews em 2026-10-13 no lugar da UnB (Kury), depois da comparação: Kury (UnB e Madamu), Vega bilíngue, Edipro 2018 (Maria Aparecida de Oliveira Silva) e Martins Fontes (Roberto Leal Ferreira, do francês). A Vega é a única edição acadêmica bilíngue, o padrão das outras fontes gregas da biblioteca; usada em ementa de pós-graduação de filosofia da USP."
     translator: [campelo-amaral, carvalho-gomes]

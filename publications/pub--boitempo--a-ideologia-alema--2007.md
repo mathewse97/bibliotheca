@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: marx-engels--die-deutsche-ideologie
-    why: "Única edição integral em português, traduzida do alemão a partir da edição crítica MEGA-2."
+    why: "A única edição completa em português, traduzida direto do alemão por Rubens Enderle, Nélio Schneider e Luciano Cavini Martorano, com base na edição alemã de referência das obras de Marx e Engels. Traz introdução de Emir Sader."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09: é a única edição integral em português, traduzida diretamente do alemão a partir da MEGA-2; as demais trazem só o capítulo sobre Feuerbach. Ver a seção Edições da obra."
     translator: [enderle, nelio-schneider, martorano]

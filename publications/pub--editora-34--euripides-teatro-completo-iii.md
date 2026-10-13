@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--hiketides
-    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
+    why: "Volume III da série de Eurípides traduzida por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -40,7 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--elektra
-    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
+    why: "Volume III da série de Eurípides traduzida por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]
@@ -49,7 +49,7 @@ contains:
     completeness: null
     apparatus: []
   - work: euripides--herakles
-    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
+    why: "Volume III da série de Eurípides traduzida por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]

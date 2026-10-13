@@ -41,7 +41,7 @@ source_of_record: voce           # veio da sua lista, como intenção
 # ---------------------------------------------------------------------------
 contains:
   - work: weber--politik-als-beruf
-    why: "Sua indicação: as duas conferências de Weber, sobre a ciência e a política, num volume em catálogo."
+    why: "Escolha sua: as duas conferências de Weber, sobre a ciência e a política, num volume à venda nova. Tradução de Leonidas Hegenberg e Octany Silveira da Mota; nenhuma fonte confirma se foi feita do alemão."
     verdict: unassessed
     reason: "Pesquisa de 2026-10-10: tradução de Leonidas Hegenberg e Octany Silveira da Mota; a ficha cita os títulos alemães, mas nenhuma fonte diz de que língua traduziram. Alternativas: Editora UnB (2003, trad. Maurício Tragtenberg, revisão técnica do germanista Oliver Tolle; só A política como vocação); Martin Claret (2015, trad. Marco Antônio Casanova, tradutor do alemão; ISBN não confirmado); em Portugal, Artur Morão (2017). Mantida por ser sua indicação e estar em catálogo; ver a seção Edições da obra."
     translator: [leonidas-hegenberg, octany-silveira-da-mota]
@@ -51,7 +51,7 @@ contains:
     apparatus: []
 
   - work: weber--wissenschaft-als-beruf
-    why: "Sua indicação: as duas conferências de Weber, sobre a ciência e a política, num volume em catálogo."
+    why: "Escolha sua: as duas conferências de Weber, sobre a ciência e a política, num só volume. Tradução de Leonidas Hegenberg e Octany Silveira da Mota; não se sabe se foi feita do alemão."
     verdict: unassessed
     reason: null
     translator: [leonidas-hegenberg, octany-silveira-da-mota]

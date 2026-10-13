@@ -30,7 +30,7 @@ source_of_record: voce
 
 contains:
   - work: orwell--nineteen-eighty-four
-    why: "A tradução de Heloisa Jahn e Alexandre Hubner, com ensaios sobre a recepção do livro de 1949 até hoje."
+    why: "Tradução de Heloisa Jahn e Alexandre Hubner, feita direto do inglês. Esta edição especial em capa dura acrescenta uma apresentação de Marcelo Pen e ensaios de autores como Thomas Pynchon, Raymond Williams e Martha Nussbaum, que mostram como o livro foi lido desde 1949."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-1984, adotando a recomendação)."
     translator: [heloisa-jahn, hubner]

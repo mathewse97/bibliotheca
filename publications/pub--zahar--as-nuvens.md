@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristofanes--nephelai
-    why: "Tradução direta do grego, de Mário da Gama Kury, a mais fácil de achar no Brasil e boa de ler como teatro."
+    why: "Tradução de Mário da Gama Kury, feita direto do grego, a mais fácil de achar no Brasil e boa de ler como peça de teatro. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [gama-kury]

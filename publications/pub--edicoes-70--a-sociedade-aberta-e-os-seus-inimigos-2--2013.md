@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: popper--the-open-society
+    why: "Volume 2 de 2, com a mesma tradução, revisão e prefácio; a obra só fica inteira com os dois volumes. Português de Portugal; precisa ser importado."
     verdict: unassessed
     reason: "Volume 2 de 2 — candidato A do cartão d-ed-popper. A obra só fica inteira com o vol. 1 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012)."
     translator: [miguel-freitas-da-costa]

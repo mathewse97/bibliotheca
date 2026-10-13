@@ -52,8 +52,8 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Aleph, trad. Gabriela Soares", note: "Também direta do russo; sem o posfácio."}
-  - {edition: "Novo Século, 2026, trad. Paula Clemente", note: "Direta do russo, com a carta a Stálin; casa sem tradição no russo."}
+  - {edition: "Aleph, trad. Gabriela Soares", note: "Também traduzida direto do russo, com isso declarado, mas sem o posfácio."}
+  - {edition: "Novo Século, 2026, trad. Paula Clemente", note: "Traduzida direto do russo e traz a carta de Zamiátin a Stálin, mas a editora não tem tradição em literatura russa."}
 ---
 
 ## Sobre a obra

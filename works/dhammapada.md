@@ -40,9 +40,9 @@ derived_from:
 provenance: []
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "A Senda da Virtude, Palas Athena, trad. Nissim Cohen", note: "Também do páli, com notas; só usada."}
-  - {edition: "Dhammapada, Pensamento, trad. Georges da Silva", note: "Adaptação, de texto-base incerto."}
-  - {edition: "Gil Fronsdal e outras", note: "Traduzidas do inglês."}
+  - {edition: "A Senda da Virtude, Palas Athena, trad. Nissim Cohen", note: "Também traduzida direto do páli e com notas, mas só se encontra usada."}
+  - {edition: "Dhammapada, Pensamento, trad. Georges da Silva", note: "Uma adaptação livre, e não se sabe de qual texto foi feita."}
+  - {edition: "Gil Fronsdal e outras", note: "Traduzidas do inglês, e não do páli original."}
 ---
 
 ## Sobre a obra

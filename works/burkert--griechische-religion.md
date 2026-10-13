@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Abada (Madri), 2007", note: "Em espanhol."}
+  - {edition: "Abada (Madri), 2007", note: "Tradução em espanhol."}
 ---
 
 ## Sobre a obra

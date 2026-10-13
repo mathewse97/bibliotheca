@@ -30,8 +30,8 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Martins Fontes, 1997, trad. Almiro Pisetta e Lenita Esteves", note: "Traduz o texto de 1971, não a edição revista."}
-  - {edition: "Editorial Presença (Lisboa)", note: "Portuguesa."}
+  - {edition: "Martins Fontes, 1997, trad. Almiro Pisetta e Lenita Esteves", note: "Tradução anterior da mesma editora, feita sobre o texto de 1971, antes das revisões de Rawls."}
+  - {edition: "Editorial Presença (Lisboa)", note: "Tradução de Carlos Pinto Correia, em português de Portugal."}
 ---
 
 ## Sobre a obra

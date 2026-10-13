@@ -33,7 +33,7 @@ source_of_record: voce
 
 contains:
   - work: ibn-khaldun--muqaddimah
-    why: "Única tradução portuguesa integral e direta do árabe. Só se acha usada."
+    why: "A única tradução completa em português feita direto do árabe, por José e Angelina Bierrenbach Khoury, com introdução de Jamil Almansur Haddad. É de 1958 e só se acha usada."
     verdict: unassessed
     reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-ibn-khaldun, opção recomendada A): única tradução portuguesa integral e direta do árabe."
     translator: [khoury, angelina-khoury]

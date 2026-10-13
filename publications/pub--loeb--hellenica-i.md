@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: xenofonte--hellenika
-    why: "Bilíngue grego–inglês. Há uma edição espanhola mais anotada; a escolha está em decisão."
+    why: "Primeiro de dois volumes: o grego ao lado da tradução inglesa de Carleton L. Brownson, feita direto do grego, para conferir o original. Em inglês; pode ainda ser trocada pela edição espanhola, mais anotada."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [brownson]

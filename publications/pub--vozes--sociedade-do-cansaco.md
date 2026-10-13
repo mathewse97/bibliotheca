@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: han--muedigkeitsgesellschaft
-    why: "A única tradução brasileira, feita do alemão por Enio Paulo Giachini."
+    why: "A única tradução brasileira, feita direto do alemão por Enio Paulo Giachini. Não há outra edição para comparar."
     verdict: unassessed
     reason: "Única edição brasileira identificada."
     translator: ["Enio Paulo Giachini"]

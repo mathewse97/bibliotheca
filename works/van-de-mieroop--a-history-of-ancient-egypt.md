@@ -36,9 +36,9 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "O Egito antigo, Ciro Flamarion Cardoso, Brasiliense, 1982", note: "Introdução curta e antiga; outra faixa de escopo e de atualização."}
-  - {edition: "The Rise and Fall of Ancient Egypt, Toby Wilkinson, 2010", note: "Narrativa de divulgação, centrada nos reis."}
-  - {edition: "Historia del Antiguo Egipto, Trotta (Madrid), 2025", note: "Tradução espanhola; o original em inglês vem antes dela (§F.2)."}
+  - {edition: "O Egito antigo, Ciro Flamarion Cardoso, Brasiliense, 1982", note: "Livro brasileiro diferente: introdução curta, de 1982, que não cobre o assunto com a mesma amplitude nem está atualizada."}
+  - {edition: "The Rise and Fall of Ancient Egypt, Toby Wilkinson, 2010", note: "Outro livro, de divulgação, contado em torno dos reis."}
+  - {edition: "Historia del Antiguo Egipto, Trotta (Madrid), 2025", note: "Tradução para o espanhol; ficou de fora porque o original em inglês é preferível a uma tradução para outra língua estrangeira."}
 ---
 
 ## Sobre a obra

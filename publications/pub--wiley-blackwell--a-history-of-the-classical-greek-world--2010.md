@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: rhodes--a-history-of-the-classical-greek-world
-    why: "A 2ª edição, de 2010, com dois capítulos novos sobre vida e cultura. Não há tradução em português."
+    why: "O original em inglês, na 2ª edição (2010), que acrescenta dois capítulos sobre vida e cultura. Não há tradução em português; ainda não se verificou se é fácil comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

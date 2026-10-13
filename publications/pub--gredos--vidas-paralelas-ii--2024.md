@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--themistokles
-    why: "Única tradução direta e acadêmica deste par, com introdução e notas. Em espanhol."
+    why: "Traduzida direto do grego por Aurelio Pérez Jiménez, com introdução e notas; é a única tradução cuidadosa deste par que se sabe ter sido feita do original; a série de Coimbra não o publicou. Em espanhol, capa dura, e precisa ser importada."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles): única tradução direta e acadêmica deste par."
     translator: [perez-jimenez]
@@ -39,6 +39,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: plutarco--solon
+    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição de Coimbra."
     verdict: unassessed
     reason: "Alternativa em espanhol; a escolha para Sólon é a edição de Coimbra."
     translator: [perez-jimenez]
@@ -47,6 +48,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: plutarco--perikles
+    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição da Annablume."
     verdict: unassessed
     reason: "Alternativa em espanhol; a escolha para Péricles é a edição da Annablume."
     translator: [perez-jimenez]

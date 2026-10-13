@@ -33,7 +33,7 @@ source_of_record: claude
 
 contains:
   - work: vieira-de-mello--desenvolvimento-e-cultura
-    why: "A única edição em catálogo; as anteriores (1963 e 1980) só se acham em sebo."
+    why: "Livro escrito em português, sem tradução a avaliar. É a única edição à venda nova; as anteriores, de 1963 e 1980, só em sebo e não foram comparadas."
     verdict: unassessed
     reason: "Única edição em catálogo identificada. As anteriores (1963; 3ª ed. Paz e Terra, 1980) só existem em sebo e não foram comparadas."
     translator: []

@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: locke--second-treatise
-    why: "Sua indicação: o Segundo Tratado vem neste volume, com o Primeiro."
+    why: "Sua indicação: o volume Dois Tratados sobre o Governo, da Martins Fontes, que traz o Segundo Tratado junto com o Primeiro. À venda nova; o tradutor não foi identificado, e ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Confere com a sua indicação (Martins Fontes, Dois Tratados); o Segundo Tratado vem dentro deste volume."
     translator: []

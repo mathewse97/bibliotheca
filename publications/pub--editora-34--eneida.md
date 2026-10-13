@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: virgilio--aeneis
-    why: "Tradução direta em verso, de Carlos Alberto Nunes, com o latim ao lado e notas de João Angelo Oliva Neto."
+    why: "Tradução em verso de Carlos Alberto Nunes, feita direto do latim, com o latim ao lado para conferir e notas de João Angelo Oliva Neto que explicam nomes e alusões."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]

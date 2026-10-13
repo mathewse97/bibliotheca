@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: esquilo--oresteia
+    why: "Volume II da Oresteia de Jaa Torrano, traduzida direto do grego, com o texto grego ao lado. Vem junto com os volumes I e III para completar a trilogia na mesma tradução."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]

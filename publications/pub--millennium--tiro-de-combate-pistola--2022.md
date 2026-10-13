@@ -35,7 +35,7 @@ source_of_record: claude
 
 contains:
   - work: pellegrini-moraes--tiro-de-combate-pistola
-    why: "A 2ª edição (2022), a corrente."
+    why: "Livro escrito em português, sem tradução a julgar. Esta é a 2ª edição, de 2022, a mais recente; ainda não foi comparada com a 1ª."
     verdict: unassessed
     reason: "A publicação está IDENTIFICADA e os seus dados estão confirmados
              em tier 1. O veredito é outra coisa: mede se ESTA edição é o

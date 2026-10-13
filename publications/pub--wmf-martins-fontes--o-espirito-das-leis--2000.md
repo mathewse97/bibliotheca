@@ -32,7 +32,7 @@ source_of_record: voce
 
 contains:
   - work: montesquieu--de-lesprit-des-lois
-    why: "A tradução de Cristina Murachco, a mais citada na literatura acadêmica brasileira. Só usada."
+    why: "Tradução de Cristina Murachco, feita direto do francês, a mais citada em trabalhos acadêmicos brasileiros. Está esgotada e só se encontra usada."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada."
     translator: [murachco]

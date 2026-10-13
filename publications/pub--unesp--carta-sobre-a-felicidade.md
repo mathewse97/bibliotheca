@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: epicuro--epistole-pros-menoikea
-    why: "Tradução direta do grego, com apresentação dos tradutores, em edição de bolso."
+    why: "Traduzida direto do grego por Álvaro Lorencini e Enzo Del Carratore, com uma apresentação dos tradutores, em edição de bolso. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [lorencini, del-carratore]

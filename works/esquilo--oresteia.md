@@ -93,7 +93,7 @@ derived_from:
          nulo de propósito."
 updated: 2026-09-27
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério", note: "Em prosa, inclusive as partes líricas; portuguesa."}
+  - {edition: "Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério", note: "Em português de Portugal e toda em prosa, inclusive as partes cantadas, que no original são poesia."}
 ---
 
 ## Sobre a obra

@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: tucidides--historiai
-    why: "Única tradução brasileira completa, direta do grego (Mário da Gama Kury), com mais de 600 notas, mapas e índice."
+    why: "A única tradução brasileira completa, feita direto do grego por Mário da Gama Kury. Esta reedição de 2022 está à venda nova e traz mais de 600 notas, mapas, tabela de pesos e medidas e índice de assuntos."
     verdict: unassessed
     reason: "Pesquisa de 2026-10-10: a Madamu reedita (3ª ed., 2022) a tradução completa de Mário da Gama Kury, direta do grego — 628 p., índice remissivo, mapas, tabela de pesos e medidas e mais de 600 notas. É a única tradução brasileira integral; a edição anterior, da UnB (1982/2001), só se acha usada. Ver a seção Edições da obra."
     translator: [gama-kury]

@@ -51,7 +51,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Tempo Brasileiro, trad. Flávio R. Kothe", note: "Tradução anterior; só usada."}
+  - {edition: "Tempo Brasileiro, trad. Flávio R. Kothe", note: "Tradução mais antiga, de Flávio R. Kothe, também completa, mas esgotada: só se acha usada."}
 ---
 
 ## Sobre a obra

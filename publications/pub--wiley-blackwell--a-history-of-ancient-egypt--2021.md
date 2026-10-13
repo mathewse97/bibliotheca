@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: van-de-mieroop--a-history-of-ancient-egypt
-    why: "A 2ª edição, revista, de 2021. Não há tradução em português."
+    why: "A 2ª edição, revista, de 2021. É em inglês, porque não há tradução em português; ainda não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

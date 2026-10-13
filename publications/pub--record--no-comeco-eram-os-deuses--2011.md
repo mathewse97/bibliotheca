@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: bottero--au-commencement-etaient-les-dieux
-    why: "Única tradução brasileira, direta do francês."
+    why: "A única tradução brasileira, de Marcelo Jacques de Morais, feita direto do francês e à venda nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [marcelo-jacques-morais]

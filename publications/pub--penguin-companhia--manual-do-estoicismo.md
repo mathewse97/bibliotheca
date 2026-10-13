@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: epicteto--encheiridion
-    why: "Tradução direta do grego, com trechos das Diatribes. Há uma edição bilíngue comentada dos mesmos tradutores; a escolha está em decisão."
+    why: "Traduzida direto do grego por Aldo Dinucci e Alfredo Julien, com trechos das Diatribes. Ainda não foi comparada com outras edições; os mesmos tradutores têm uma edição com o grego ao lado e comentário, e a escolha entre as duas está em aberto."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [dinucci, julien]

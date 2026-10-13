@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: shakespeare--richard-ii
-    why: "Tradução de Barbara Heliodora, com notas."
+    why: "Tradução de Barbara Heliodora, feita direto do inglês, com notas que explicam passagens e referências, e textos de apoio sobre as peças. O volume foi escolhido pelas peças que reúne; ainda não foi comparado com outras traduções."
     verdict: unassessed
     reason: "Nenhuma tradução alternativa foi pesquisada. A tradutora é a
              mesma em todas as caixas comparadas, então a escolha entre elas
@@ -43,7 +43,7 @@ contains:
     completeness: null
     apparatus: [notas, textos-complementares]
   - work: shakespeare--julius-caesar
-    why: "Tradução de Barbara Heliodora, com notas."
+    why: "Tradução de Barbara Heliodora, feita direto do inglês, com notas que explicam passagens e referências, e textos de apoio sobre as peças. Ainda não foi comparada com outras traduções."
     verdict: unassessed
     reason: "Nenhuma tradução alternativa foi pesquisada."
     translator: [barbara-heliodora]

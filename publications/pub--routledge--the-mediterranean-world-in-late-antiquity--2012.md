@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: cameron--the-mediterranean-world-in-late-antiquity
-    why: "A 2ª edição, de 2012, que estende o recorte até 700 e amplia a bibliografia. Não há tradução em português."
+    why: "A 2ª edição, de 2012, que estende o período coberto até o ano 700 e amplia a lista de leituras. Em inglês, sem tradução; não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

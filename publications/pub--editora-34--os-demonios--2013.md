@@ -32,7 +32,7 @@ source_of_record: voce
 
 contains:
   - work: dostoievski--besy
-    why: "Sua indicação: a tradução de Paulo Bezerra, direta do russo."
+    why: "Sua indicação, confirmada: tradução de Paulo Bezerra, descrita por estudiosos como a única feita direto do russo, e não de outra tradução. Bezerra traduziu mais de quarenta obras russas. Fácil de comprar nova."
     verdict: unassessed
     reason: "Edição indicada pelo Mathews (Editora 34, trad. Paulo Bezerra); localizada e registrada em 2026-10-09."
     translator: [paulo-bezerra]

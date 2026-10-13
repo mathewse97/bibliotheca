@@ -76,8 +76,8 @@ derived_from:
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-27
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, mas avulsa: separaria a peça das outras duas tebanas."}
-  - {edition: "Perspectiva, 2009, trad. Trajano Vieira", note: "Avulsa."}
+  - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, traduzida direto do grego por Lawrence Flores Pereira; ficou de fora por vir sozinha, separada das outras duas peças."}
+  - {edition: "Perspectiva, 2009, trad. Trajano Vieira", note: "Tradução de Trajano Vieira, citada por seguir o grego mais de perto em certas passagens; ficou de fora por trazer só Antígona."}
 ---
 
 ## Sobre a obra

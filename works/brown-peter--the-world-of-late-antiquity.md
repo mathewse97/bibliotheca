@@ -36,7 +36,7 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "O fim do mundo clássico, 1972", note: "Tradução portuguesa de 50 anos atrás; editora, tradutor e qualidade não confirmados."}
+  - {edition: "O fim do mundo clássico, 1972", note: "Tradução portuguesa de 1972; não se confirmaram editora, tradutor nem qualidade."}
 ---
 
 ## Sobre a obra

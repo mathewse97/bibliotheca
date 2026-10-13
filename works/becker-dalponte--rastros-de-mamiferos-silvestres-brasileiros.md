@@ -38,7 +38,7 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Editora UnB, 1991", note: "A primeira edição; esgotada."}
+  - {edition: "Editora UnB, 1991", note: "A primeira edição do guia, de 1991; esgotada e substituída pela edição atual."}
 ---
 
 ## Sobre a obra

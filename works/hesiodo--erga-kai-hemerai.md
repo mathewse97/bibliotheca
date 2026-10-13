@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Iluminuras, trad. Mary de Camargo Neves Lafer", note: "Só a primeira parte do poema, até o verso 382."}
-  - {edition: "Segesta, 2012, trad. Alessandro Rolim de Moura", note: "Completa, com introdução e notas; disponibilidade não confirmada."}
+  - {edition: "Iluminuras, trad. Mary de Camargo Neves Lafer", note: "Traz só a primeira parte do poema, até o verso 382."}
+  - {edition: "Segesta, 2012, trad. Alessandro Rolim de Moura", note: "Completa, com introdução e notas, mas não se confirmou se ainda é possível comprá-la."}
 ---
 
 ## Sobre a obra

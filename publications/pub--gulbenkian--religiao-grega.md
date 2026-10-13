@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: burkert--griechische-religion
-    why: "Única tradução em português da principal obra de referência sobre religião grega. Português de Portugal."
+    why: "A única tradução em português, de M. J. Simões Loureiro. É português de Portugal; ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [simoes-loureiro]

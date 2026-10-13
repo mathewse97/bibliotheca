@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: martin-blackwell--alexander-the-great
-    why: "Única tradução, de Maria Luiza X. de A. Borges, em catálogo."
+    why: "A única tradução para o português, de Maria Luiza X. de A. Borges, feita direto do original. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [maria-luiza-borges]

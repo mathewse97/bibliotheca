@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: jaeger-werner--paideia
-    why: "A tradução de referência em português, feita do alemão e revista para o leitor brasileiro."
+    why: "Tradução de Artur M. Parreira, feita direto do alemão e revista para o leitor brasileiro. Ainda não foi comparada com outras edições em português."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [artur-parreira]

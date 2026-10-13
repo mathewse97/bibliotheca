@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--ta-meta-ta-physika
-    why: "Primeira tradução direta do grego publicada no Brasil. Cobre só parte da obra."
+    why: "Tradução de Vivianne de Castilho Moreira, a primeira feita direto do grego publicada no Brasil. A concessão: traz só parte da obra, não o texto completo."
     verdict: recommended
     reason: "Primeira tradução direta do grego publicada no Brasil. Preferida apesar de cobrir apenas parte da obra."
     translator: [castilho-moreira]

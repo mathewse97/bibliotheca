@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: enuma-elis
-    why: "Única tradução em português direta do acádio, de Jacyntho Lins Brandão, com introdução e um comentário amplo."
+    why: "A única tradução em português feita direto do acádio, a língua original, por Jacyntho Lins Brandão, com uma introdução que situa o poema e um comentário extenso sobre o texto. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [jacyntho-lins-brandao]

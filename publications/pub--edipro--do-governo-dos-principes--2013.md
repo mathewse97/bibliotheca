@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: aquino--de-regno
-    why: "Sua indicação: a tradução de Arlindo Veiga dos Santos, em catálogo."
+    why: "Indicada por você: a tradução de Arlindo Veiga dos Santos, feita direto do latim e à venda nova."
     verdict: unassessed
     reason: "Confere com a sua indicação (Edipro, trad. Arlindo Veiga dos Santos)."
     translator: ["Arlindo Veiga dos Santos"]

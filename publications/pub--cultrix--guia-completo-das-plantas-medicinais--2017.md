@@ -33,7 +33,7 @@ source_of_record: voce
 
 contains:
   - work: hoffmann--the-complete-herbs-sourcebook
-    why: "Única edição em português do guia de plantas medicinais de David Hoffmann."
+    why: "A única edição em português, traduzida do inglês por Euclides Luiz Calloni. Ainda não se avaliou a qualidade da tradução nem se o texto está completo."
     verdict: unassessed
     reason: "Não avaliada. A identificação da obra é sólida; a qualidade desta
              tradução, o seu texto-base e a sua completude não foram

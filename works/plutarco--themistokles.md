@@ -32,7 +32,7 @@ derived_from:
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Vidas dos homens ilustres, Editora das Américas, 1953", note: "Antiga e provavelmente traduzida do francês."}
+  - {edition: "Vidas dos homens ilustres, Editora das Américas, 1953", note: "Edição antiga e só usada; o tradutor não é identificado e provavelmente traduziu do francês, não do grego."}
 ---
 
 ## Sobre a obra
