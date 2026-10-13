@@ -2193,3 +2193,16 @@ brown-peter:
   dates: null
   note: "Historiador da Antiguidade tardia (Princeton). Não é o Peter C. Brown
          de Make It Stick (id `brown`)."
+
+leonardo-alves:
+  name_display: "Leonardo Alves"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor."
+
+andre-bueno:
+  name_display: "André Bueno"
+  name_variants: ["André da Silva Bueno"]
+  dates: null
+  note: "Sinólogo brasileiro (UERJ). Introdução e revisão do conteúdo chinês da
+         A arte da guerra da Penguin-Companhia."
