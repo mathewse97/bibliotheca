@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: leclerc--uma-introducao-a-filosofia-da-mente
-    why: "Seu exemplar."
+    why: "Seu exemplar, a 1ª edição. Existe uma 2ª, ampliada (Appris, 2025); você preferiu ficar com a que tem."
     verdict: unassessed
     reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Há 2ª edição, ampliada (Appris, 2025, 203 p.); o Mathews decidiu manter a que tem."
     translator: null

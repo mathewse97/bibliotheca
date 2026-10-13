@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: levitsky-ziblatt--how-democracies-die
-    why: "Única edição brasileira."
+    why: "A única tradução brasileira, de Renato Aguiar, em catálogo."
     verdict: unassessed
     reason: "Única edição brasileira."
     translator: ["Renato Aguiar"]

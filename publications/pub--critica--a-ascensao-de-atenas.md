@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: everitt--the-rise-of-athens
-    why: "Única edição em português, em catálogo."
+    why: "A única tradução em português, de Thereza Christina Rocque da Motta, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [rocque-motta]

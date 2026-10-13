@@ -34,7 +34,7 @@ source_of_record: claude
 
 contains:
   - work: suassuna--iniciacao-a-estetica
-    why: "Original em português, em catálogo."
+    why: "O livro foi escrito em português; esta é a edição da Nova Fronteira, em catálogo."
     verdict: unassessed
     reason: "Original em português, sem tradução envolvida. Nenhuma edição alternativa foi comparada: reedições do mesmo texto não pedem comparação de tradução."
     translator: []

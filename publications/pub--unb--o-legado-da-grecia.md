@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: finley--the-legacy-of-greece
-    why: "Única edição em português."
+    why: "A única tradução em português, de Yvette Vieira Pinto de Almeida."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [yvette-vieira-pinto-de-almeida]

@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: klemperer--lti-lingua-tertii-imperii
-    why: "Única edição brasileira."
+    why: "A única tradução brasileira, em catálogo."
     verdict: unassessed
     reason: "Única edição brasileira identificada."
     translator: []
