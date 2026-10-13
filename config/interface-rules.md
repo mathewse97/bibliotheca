@@ -239,3 +239,29 @@ tela; o código não garantia.
   painel não aparece, e isso é um defeito, não um estado aceitável.
 - Qualquer nível de título no corpo abre uma seção nova na interface, de modo
   que um subtítulo de nota interna não pode cair dentro da seção exibida.
+
+## 11 · Como escrever o porquê de uma edição — 2026-10-13
+
+Pedido do Mathews: os textos de §9 estavam curtos mas não explicavam. "Com
+numeração de Bekker" supõe que ele saiba o que é isso; "anotada", "em
+catálogo", "helenista", "direta" sem mais nada não dizem por que importa.
+
+- **Curto, mas explicando.** Uma a três frases (cerca de 45 palavras) no
+  `why`; uma frase (cerca de 25) em cada nota de `editions_considered`.
+- **Dizer o que o leitor ganha**, não só listar o que a edição tem: quem
+  traduziu e de que língua ("direto do grego, e não de outra tradução"); o
+  que acompanha o texto e para que serve ("o grego ao lado, para conferir as
+  palavras que importam"; "notas que explicam nomes e alusões"); por que o
+  tradutor ou a edição merece confiança, quando há fonte; e a concessão, se
+  houver (Portugal, importada, só usada, em inglês, parcial).
+- **Nenhum termo técnico sem explicação na mesma frase.** Exemplos: numeração
+  de Bekker → "a numeração padrão das obras de Aristóteles, que permite achar
+  qualquer passagem citada em outros livros"; aparato → dizer qual (notas,
+  introdução, índice); helenista → "especialista em grego antigo"; em
+  catálogo → "à venda nova"; texto-base, recepção, língua de partida →
+  reescrever em palavras simples.
+- **Nada inventado e nada de "a melhor" sem comparação.** Se a edição nunca
+  foi comparada com outras, o texto diz o que ela tem e, se for o caso, que
+  ainda não foi comparada.
+- As notas de `editions_considered` dizem, em palavras simples, por que
+  aquela edição não foi a escolhida.
