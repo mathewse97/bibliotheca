@@ -36,7 +36,8 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "The New Science of Politics, University of Chicago Press", note: "O original em inglês, em catálogo; a tradução brasileira vem antes dele (§F.2), mas é antiga e só se acha usada."}
+  - {edition: "Editora UnB, 1979, trad. José Viegas Filho", note: "A primeira tradução brasileira, na Coleção Pensamento Político; antiga e só encontrada usada."}
+  - {edition: "The New Science of Politics, University of Chicago Press", note: "O original em inglês; a tradução brasileira, em catálogo, vem antes dele."}
   - {edition: "História das Ideias Políticas, vol. V, É Realizações, 2016", note: "Parte de um projeto que o próprio Voegelin abandonou; considerado e deixado de fora."}
 ---
 
