@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Ensaio do filósofo britânico Roger Scruton, publicado em 2007. Defende a alta cultura ocidental como herança que forma o juízo e o sentimento, contra o relativismo e o desprezo pela tradição que ele vê na universidade e na cultura contemporâneas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

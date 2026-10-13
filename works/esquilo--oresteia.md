@@ -96,6 +96,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério", note: "Em prosa, inclusive as partes líricas; portuguesa."}
 ---
 
+## Sobre a obra
+
+Trilogia trágica de Ésquilo encenada em 458 a.C., formada por *Agamêmnon*, *Coéforas* e *Eumênides*; é a única trilogia grega que sobreviveu inteira e a última obra do autor. Acompanha o ciclo de vinganças na casa dos Atridas, do assassinato de Agamêmnon por Clitemnestra à vingança de Orestes. Termina com a fundação de um tribunal, o Areópago, que substitui a vingança privada pela justiça de uma instituição que julga.
+
 ## Fatos
 
 Trilogia trágica encenada em 458 a.C. — a única trilogia grega que sobreviveu

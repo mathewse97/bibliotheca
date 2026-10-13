@@ -88,6 +88,10 @@ derived_from:
 updated: 2026-10-05
 ---
 
+## Sobre a obra
+
+Livro de 2014 que sintetiza a psicologia cognitiva da memória para quem estuda, ensina ou treina; dois dos autores, Roediger e McDaniel, são pesquisadores experimentais da área. Argumenta que reler, sublinhar e estudar tudo de uma vez dão uma sensação de domínio que não corresponde a retenção duradoura, e que o que funciona é mais desconfortável: recuperar da memória, espaçar o estudo, intercalar assuntos e aceitar a dificuldade.
+
 ## Fatos
 
 Síntese de psicologia cognitiva da memória escrita para quem estuda, ensina ou

@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Biografia de Júlio César, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Alexandre. Acompanha a carreira de César até seu assassinato, no momento em que a república romana dá lugar ao poder pessoal.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

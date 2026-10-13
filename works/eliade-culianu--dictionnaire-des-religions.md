@@ -47,6 +47,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Obra de referência em verbetes publicada em francês em 1990, quatro anos após a morte de Mircea Eliade. Concebida com ele, que traçou o plano geral, foi redigida em grande parte por seu discípulo Ioan Petru Culianu, com a colaboração de H. S. Wiesner. Apresenta de forma sintética as principais tradições religiosas do mundo e reflete o estado dos estudos por volta de 1990.
+
 ## Fatos
 
 **Eliade morreu em abril de 1986 e o dicionário saiu em 1990.** O projeto foi concebido com ele, que deu o plano geral e o enquadramento conceitual, mas a redação efetiva dos verbetes é substancialmente de **Ioan Petru Culianu**, discípulo próximo e executor literário, com colaboração de **H. S. Wiesner**, executada depois da morte de Eliade. Leia-se como obra de Culianu sob o programa de Eliade.

@@ -61,6 +61,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O zero e o infinito, Amarylis, 2013", note: "Também a partir do inglês."}
 ---
 
+## Sobre a obra
+
+Romance de Arthur Koestler, escrito em alemão entre 1938 e 1940 e publicado pela primeira vez em 1940. Acompanha Rubachov, velho bolchevique preso e interrogado durante os expurgos stalinistas, até a confissão de crimes que não cometeu. É uma das obras literárias centrais sobre o totalitarismo e a lógica da disciplina partidária vista de dentro.
+
 ## Fatos
 
 **Esta é a ficha que muda uma decisão de compra, e por isso vale ler inteira.**

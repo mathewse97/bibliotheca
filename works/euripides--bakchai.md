@@ -36,6 +36,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Zahar, 1993, trad. Mário da Gama Kury", note: "Fora da série; não bilíngue."}
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides encenada postumamente, por volta de 405 a.C. O deus Dioniso chega a Tebas para impor seu culto e enfrenta a resistência do rei Penteu, que acaba destroçado pelas bacantes, entre elas sua própria mãe. É central para compreender a dimensão extática da religião grega e seu conflito com a razão e a ordem política.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

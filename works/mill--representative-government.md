@@ -33,6 +33,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1981", note: "Coleção acadêmica, mas antiga e só usada."}
 ---
 
+## Sobre a obra
+
+Obra de John Stuart Mill publicada em 1861. Defende o governo representativo como a melhor forma de governo e discute suas condições e perigos: a participação dos cidadãos, a competência dos governantes, a representação das minorias e o risco da tirania da maioria.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

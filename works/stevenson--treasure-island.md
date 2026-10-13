@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Romance de aventuras do escocês Robert Louis Stevenson, publicado em livro em 1883. Narrado pelo jovem Jim Hawkins, acompanha a busca por um tesouro enterrado e o confronto com os piratas liderados por Long John Silver. Fixou boa parte da imagem popular dos piratas e tornou-se um clássico do gênero.
+
 ## Fatos
 
 Romance de Robert Louis Stevenson, publicado em livro em 1883.

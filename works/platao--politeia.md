@@ -43,6 +43,10 @@ derived_from:
 updated: 2026-09-17
 ---
 
+## Sobre a obra
+
+Diálogo de Platão, em grego antigo, em dez livros, que parte da pergunta sobre o que é a justiça e responde construindo uma cidade ideal governada por filósofos. Nele se articulam educação, política, ética, teoria do conhecimento e metafísica — incluindo a alegoria da caverna e a crítica da poesia. É a obra central do pensamento platônico e um dos textos fundadores da filosofia política ocidental.
+
 ## Fatos
 
 Pesquisa parcial (piloto de 2026-09-17). Grego antigo, Platão (428–347 a.C.).

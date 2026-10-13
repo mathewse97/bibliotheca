@@ -52,6 +52,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "No princípio eram os deuses, Edições 70, 2006", note: "Também direta do francês, mas portuguesa e importada."}
 ---
 
+## Sobre a obra
+
+Síntese sobre a religião mesopotâmica de Jean Bottéro, um dos principais assiriólogos do século XX, publicada em francês em 2004. Apresenta a crença, os deuses e os mitos da Mesopotâmia a partir dos textos cuneiformes, em linguagem acessível ao leitor não especialista.
+
 ## Fatos
 
 Síntese da religião mesopotâmica por Jean Bottéro, autoridade maior da assiriologia do século XX.

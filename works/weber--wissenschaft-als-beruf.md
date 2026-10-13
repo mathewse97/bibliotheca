@@ -67,6 +67,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Portugal, 2017, trad. Artur Morão", note: "Português de Portugal."}
 ---
 
+## Sobre a obra
+
+Conferência de Max Weber proferida em Munique e publicada em 1919. Descreve a ciência moderna como especializada e sempre destinada a ser superada, e a racionalização como produtora do desencantamento do mundo. Conclui que a ciência pode esclarecer meios e consequências, mas não dizer como se deve viver, e que o professor não deve pregar da cátedra.
+
 ## Fatos
 
 Pesquisa parcial de 2026-09-19, feita para decidir a colocação — não é a

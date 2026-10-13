@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Segesta, 2012, trad. Alessandro Rolim de Moura", note: "Completa, com introdução e notas; disponibilidade não confirmada."}
 ---
 
+## Sobre a obra
+
+Poema didático de Hesíodo, composto em grego por volta de 700 a.C. Dirigido ao irmão Perses, trata da justiça e do trabalho como condição humana, com os mitos de Prometeu e Pandora e das cinco raças, conselhos morais e um calendário das tarefas do campo. Mostra como a religião grega se ligava à vida cotidiana.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

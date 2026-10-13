@@ -33,6 +33,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1982", note: "A mesma tradução; só usada."}
 ---
 
+## Sobre a obra
+
+Obra histórica do ateniense Tucídides sobre a guerra entre Atenas e Esparta (431–404 a.C.), da qual ele foi contemporâneo; a narrativa se interrompe em 411 a.C. Combina relato militar, discursos e análise das causas da guerra, do imperialismo ateniense e do comportamento político em tempos de crise. É considerada um dos fundamentos da historiografia e do realismo político.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

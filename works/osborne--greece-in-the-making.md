@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "La formación de Grecia, Crítica (Barcelona), 1998", note: "Traduz a 1ª edição, superada."}
 ---
 
+## Sobre a obra
+
+Livro de história do classicista britânico Robin Osborne sobre a formação da Grécia, do fim do mundo micênico, por volta de 1200 a.C., até as Guerras Médicas, em 479 a.C. Trata o período arcaico em que surgiram a pólis, a colonização e as formas da cultura grega, recorrendo amplamente às evidências arqueológicas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

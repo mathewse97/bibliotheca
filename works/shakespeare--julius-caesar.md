@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-09-28
 ---
 
+## Sobre a obra
+
+Tragédia de William Shakespeare, datada em geral de 1599 e publicada apenas no Primeiro Fólio de 1623. Encena a conspiração contra César e suas consequências: Brutus mata pelo que César poderia vir a ser, e a peça não decide se ele é herói ou vilão. O discurso de Marco Antônio diante do corpo de César é um exemplo célebre de retórica capaz de virar uma multidão.
+
 ## Fatos
 
 Publicada apenas no First Folio de 1623, sem quarto anterior. A data corrente,

@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides encenada em 412 a.C., baseada na versão do mito segundo a qual Helena nunca esteve em Troia: os deuses enviaram para lá apenas uma imagem dela, enquanto a verdadeira esperava no Egito. A peça narra o reencontro com Menelau e a fuga do casal.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

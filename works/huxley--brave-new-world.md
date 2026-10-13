@@ -53,6 +53,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Biblioteca Azul, 2014, trad. Lino Vallandro e Vidal de Oliveira", note: "A tradução clássica, sem os textos de apoio."}
 ---
 
+## Sobre a obra
+
+Romance distópico de Aldous Huxley, publicado em 1932. Imagina uma sociedade mundial estável em que as pessoas são produzidas em laboratório, condicionadas desde o nascimento e mantidas satisfeitas pelo consumo, pelo sexo e por uma droga, o soma. É a distopia do controle brando, pelo prazer e pelo conformismo, em contraste com as do terror, e um dos romances mais lidos do século XX.
+
 ## Fatos
 
 Romance publicado em 1932. É a ficha mais pobre deste lote: a fonte confirma o

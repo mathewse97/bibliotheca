@@ -41,6 +41,10 @@ editions_considered:
   - {edition: "Historia del Antiguo Egipto, Trotta (Madrid), 2025", note: "Tradução espanhola; o original em inglês vem antes dela (§F.2)."}
 ---
 
+## Sobre a obra
+
+História do Egito antigo escrita em inglês pelo historiador Marc Van De Mieroop, publicada em 2011 e revista em 2021. Cobre desde as origens até o fim do uso dos hieróglifos sob o Império Romano, no século IV d.C., tratando não só dos acontecimentos políticos e culturais, mas também da vida social e econômica.
+
 ## Fatos
 
 História do Egito antigo das origens até a proibição dos hieróglifos sob o Império Romano, no século IV d.C. Segundo a editora, trata eventos políticos e culturais e também a vida social e econômica. Há tradução espanhola (Trotta, 2025); não há tradução portuguesa conhecida.

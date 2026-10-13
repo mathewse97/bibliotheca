@@ -56,6 +56,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Novo Século, 2026, trad. Paula Clemente", note: "Direta do russo, com a carta a Stálin; casa sem tradição no russo."}
 ---
 
+## Sobre a obra
+
+Romance distópico do russo Yevgeny Zamiátin, escrito por volta de 1920–1921. Narra, na forma de diário, a vida de D-503 num Estado Único em que a existência é regulada matematicamente e a individualidade é suprimida. Proibido na União Soviética, foi publicado primeiro em inglês, em 1924, e é considerado um dos precursores da distopia política moderna, como *1984*, de Orwell, que o resenhou.
+
 ## Fatos
 
 Romance russo escrito por volta de 1920. A história de publicação é o fato

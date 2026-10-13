@@ -39,6 +39,10 @@ editions_considered:
   - {edition: "Historia del Próximo Oriente antiguo, Trotta (Madrid), 2ª ed. 2023", note: "Tradução espanhola; o original em inglês vem antes dela (§F.2)."}
 ---
 
+## Sobre a obra
+
+Manual de Marc Van De Mieroop sobre a história do antigo Oriente Próximo — Mesopotâmia, Anatólia, Levante e Irã — de cerca de 3000 a.C. até Alexandre, o Grande. Trata política, sociedade, economia e fontes em conjunto. É o manual padrão em inglês sobre o período.
+
 ## Fatos
 
 Manual de história do Oriente Próximo antigo, da Mesopotâmia, Anatólia, Levante e Irã, de c. 3000 a.C. até Alexandre. Trata política junto com sociedade, economia e fontes. A 4ª edição (out. 2024) incorpora tabuletas cuneiformes publicadas recentemente e escavações novas. Há tradução espanhola (Trotta, 2020; 2ª ed. 2023); não há tradução portuguesa conhecida.

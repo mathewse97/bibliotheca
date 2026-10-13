@@ -38,6 +38,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Livro de Sönke Ahrens, publicado em inglês em 2017, que apresenta o método de fichas do sociólogo Niklas Luhmann, o Zettelkasten, como técnica integrada de leitura, aprendizagem e escrita. Defende que anotar com as próprias palavras e conectar as notas entre si é o que transforma a leitura em compreensão e em texto próprio.
+
 ## Fatos
 
 O método de fichas de Niklas Luhmann (Zettelkasten) como técnica de leitura, aprendizagem e escrita. A tradução brasileira segue a 1ª edição (2017); há 2ª edição em inglês (2022).

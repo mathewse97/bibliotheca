@@ -42,6 +42,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Tragédia de Ésquilo encenada em 467 a.C., última peça de uma trilogia sobre a casa de Laio. Mostra Etéocles defendendo Tebas contra o ataque de sete chefes, entre eles seu irmão Polinices, e termina com os dois irmãos mortos um pela mão do outro, cumprindo a maldição sobre a família de Édipo.
+
 ## Fatos
 
 Não pesquisado além do conteúdo do volume. Data, transmissão e edição

@@ -41,6 +41,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Instituto Plantarum, 2014", note: "A 1ª edição, superada pela 2ª."}
 ---
 
+## Sobre a obra
+
+Guia brasileiro de Valdely Ferreira Kinupp e Harri Lorenzi dedicado às plantas alimentícias não convencionais (PANC) — espécies comestíveis, nativas ou espontâneas, pouco usadas na alimentação corrente. Reúne identificação das plantas e indicações de seu uso como alimento.
+
 ## Fatos
 
 Original brasileiro. Você não nomeou os autores na lista; foram

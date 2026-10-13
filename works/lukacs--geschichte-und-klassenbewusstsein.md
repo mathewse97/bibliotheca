@@ -52,6 +52,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martins Fontes, 2003", note: "A mesma tradução; só usada."}
 ---
 
+## Sobre a obra
+
+Coletânea de ensaios de Georg Lukács publicada em alemão em 1923. Desenvolve o conceito de reificação: sob o capitalismo, relações entre pessoas assumem a forma de relações entre coisas, e isso molda a própria consciência. É um dos textos fundadores do marxismo ocidental e a ponte entre Marx e a crítica da cultura da Escola de Frankfurt.
+
 ## Fatos
 
 Pesquisa parcial. Introduz a reificação: sob o capitalismo, relações entre

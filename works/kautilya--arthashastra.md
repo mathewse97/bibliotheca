@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado sânscrito da Índia antiga sobre a arte de governar, tradicionalmente atribuído a Kautilya, conselheiro do imperador Chandragupta Maurya. Trata da administração do Estado, tributação, direito, espionagem, diplomacia e guerra com um realismo frequentemente comparado ao de Maquiavel. É a principal obra de pensamento político de uma tradição independente da ocidental.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

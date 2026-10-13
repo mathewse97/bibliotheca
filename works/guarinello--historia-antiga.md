@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Introdução à história antiga do historiador Norberto Luiz Guarinello, professor da Universidade de São Paulo. Discute como se constrói a ideia de "história antiga" e situa a Grécia e Roma no conjunto do mundo mediterrâneo, antes do estudo de suas histórias particulares.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

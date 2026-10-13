@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Ensaio do helenista francês Jean-Pierre Vernant, publicado em 1962. Relaciona o nascimento da filosofia grega às transformações da pólis — o espaço público, o debate na ágora e a igualdade entre cidadãos —, mostrando como a nova ordem política favoreceu uma forma de pensamento racional distinta do mito.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

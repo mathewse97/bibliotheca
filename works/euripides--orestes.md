@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, encenada em 408 a.C. Dias depois de matar a mãe, Orestes, atormentado, e Electra são condenados à morte pela assembleia de Argos; abandonados por Menelau, tentam matar Helena e tomam Hermíone como refém, até que Apolo intervém. É uma das peças mais sombrias e desconcertantes do autor, com uma visão crua da política e da violência.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -39,6 +39,10 @@ editions_considered:
   - {edition: "O fim do mundo clássico, 1972", note: "Tradução portuguesa de 50 anos atrás; editora, tradutor e qualidade não confirmados."}
 ---
 
+## Sobre a obra
+
+Ensaio ilustrado de Peter Brown, publicado em inglês em 1971, sobre o mundo mediterrâneo de Marco Aurélio a Maomé. Concentra-se nas transformações culturais, religiosas e filosóficas, sobretudo no mundo de língua grega, e trata o período como criação, e não como decadência. É considerado o livro que praticamente fundou o campo da Antiguidade tardia, embora parte da crítica posterior recuse sua visão otimista.
+
 ## Fatos
 
 Ensaio ilustrado sobre o mundo mediterrâneo de Marco Aurélio a Maomé, centrado nas mudanças culturais, religiosas e filosóficas, sobretudo no mundo de língua grega. Trata o período como criação e não como decadência. Há tradução portuguesa citada como *O fim do mundo clássico* (1972), sem editora e tradutor confirmados, e espanhola (Taurus).

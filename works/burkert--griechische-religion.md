@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Abada (Madri), 2007", note: "Em espanhol."}
 ---
 
+## Sobre a obra
+
+Obra de Walter Burkert, publicada em alemão em 1977, que apresenta a religião grega dos períodos arcaico e clássico como sistema histórico de ritos, santuários, deuses e práticas, e não apenas como conjunto de mitos. Tornou-se obra de referência padrão sobre o assunto.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

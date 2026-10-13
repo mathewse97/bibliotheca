@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, encenada por volta de 424 a.C. Depois da queda de Troia, a rainha Hécuba, escravizada, perde a filha Polixena, sacrificada pelos gregos, e descobre que o filho Polidoro foi assassinado pelo rei trácio a quem fora confiado, contra o qual executa uma vingança terrível.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

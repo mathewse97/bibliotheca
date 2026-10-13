@@ -59,6 +59,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Antofágica, 2022, trad. Antônio Xerxenesky", note: "Tradução nova e ilustrada; aparato de divulgação."}
 ---
 
+## Sobre a obra
+
+Romance distópico de George Orwell, publicado em 1949 como advertência contra o totalitarismo. Winston Smith, funcionário do Partido na Oceania do Grande Irmão, trabalha reescrevendo registros históricos sob um regime que controla a vigilância, a língua (a Novilíngua) e a própria memória. Tornou-se uma das referências centrais do século XX sobre propaganda e controle da realidade.
+
 ## Fatos
 
 Publicado em 1949. A fonte confirma o ano e o propósito declarado — advertência

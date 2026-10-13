@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Biografia de Alexandre, o Grande, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Júlio César. Mais interessado no caráter do que na narrativa militar, Plutarco acompanha a formação, as conquistas e a expansão do mundo macedônio até a morte de Alexandre.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

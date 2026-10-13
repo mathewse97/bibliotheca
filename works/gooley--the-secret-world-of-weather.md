@@ -51,6 +51,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Livro de Tristan Gooley que trata o tempo como fenômeno local e observável, não como previsão regional. Sua tese é que o clima muda a cada passo — de um lado e outro de uma árvore, de uma encosta ou de um prédio — e ensina a ler nuvens, vento e microclimas para entender o que está acontecendo e o que vem. Como os demais livros do autor, usa exemplos do hemisfério norte temperado.
+
 ## Fatos
 
 Trata o clima como fenômeno local e observável, não como boletim regional. A

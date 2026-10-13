@@ -63,6 +63,10 @@ derived_from:
 updated: 2026-09-10
 ---
 
+## Sobre a obra
+
+Livro de Ivan Illich, publicado em inglês em 1971. Argumenta que a escola, como instituição, produz o oposto do que promete: substitui a aprendizagem pela credencial e a autonomia pela dependência de especialistas. Não critica um currículo ou uma pedagogia, mas a própria forma escolar, e propõe redes livres de aprendizagem em seu lugar.
+
 ## Fatos
 
 Illich argumenta que a escola, como instituição, produz o oposto do que

@@ -38,6 +38,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Livro de 2018 dos cientistas políticos de Harvard Steven Levitsky e Daniel Ziblatt. Sustenta que as democracias hoje morrem menos por golpes e mais pela ação de líderes eleitos que corroem as normas informais que as sustentam, sobretudo a tolerância mútua e a contenção no uso das prerrogativas institucionais.
+
 ## Fatos
 
 Livro de 2018, de dois cientistas políticos de Harvard. Argumenta que democracias hoje morrem menos por golpes e mais pela ação de líderes eleitos que corroem as normas informais — tolerância mútua e contenção institucional.

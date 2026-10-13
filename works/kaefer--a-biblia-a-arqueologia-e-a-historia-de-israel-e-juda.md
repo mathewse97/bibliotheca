@@ -47,6 +47,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Introdução breve, escrita em português pelo biblista brasileiro José Ademar Kaefer e publicada em 2015. Examina a história dos reinos de Israel e Judá à luz da arqueologia, confrontando o relato bíblico com os dados materiais e com o contexto dos impérios vizinhos. É uma síntese curta e atualizada; para a mesma questão em maior escala, as referências são autores como Finkelstein e Silberman, Liverani ou Dever.
+
 ## Fatos
 
 **Obra originalmente em português**, de biblista brasileiro — não há questão de tradução (§F.4).

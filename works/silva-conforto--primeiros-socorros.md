@@ -59,6 +59,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Manual brasileiro de primeiros socorros de Evandro de Sena Silva e Cláudia Conforto. Trata dos procedimentos básicos de atendimento a emergências voltados ao leigo.
+
 ## Fatos
 
 Autoria e editora identificadas com confiança moderada (tier 6 — catálogo de

@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra do historiador francês Henri-Irénée Marrou, publicada em 1948. Traça a história da educação no mundo antigo, da Grécia arcaica a Roma e ao início da era cristã, mostrando a formação do ideal clássico de cultura e formação humana. Tornou-se a referência clássica sobre o tema.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

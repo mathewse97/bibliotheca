@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides em que as mães dos chefes mortos no ataque a Tebas pedem a Atenas ajuda para recuperar e sepultar os corpos dos filhos, negados pelos tebanos. Teseu assume a causa, e a peça inclui um debate entre ele e um arauto tebano sobre democracia e tirania.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

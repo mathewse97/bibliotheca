@@ -40,6 +40,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Manifesto educacional publicado por Mortimer Adler em 1982, em nome de um grupo de educadores, propondo para as escolas públicas americanas um mesmo currículo de formação liberal para todos os alunos, sem separação entre trilhas acadêmicas e profissionalizantes. Organiza o ensino em três modos: aquisição de conhecimento por instrução, desenvolvimento de habilidades intelectuais por treino orientado e ampliação da compreensão pela discussão socrática de livros e ideias.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

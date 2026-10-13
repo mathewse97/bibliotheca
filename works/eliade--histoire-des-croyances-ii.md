@@ -51,6 +51,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Segundo volume da história das religiões de Mircea Eliade, publicado em francês em 1978. Vai do budismo de Gautama e das religiões da Índia e da China ao helenismo, ao judaísmo, às religiões de mistério e ao triunfo do cristianismo. Integra uma obra planejada em quatro volumes, dos quais Eliade concluiu três.
+
 ## Fatos
 
 Tomo II de uma obra planejada em quatro volumes. **Eliade morreu em 1986 sem concluir o quarto**; os três tomos franceses (1976–1983) são os únicos de sua autoria. Existe um tomo IV póstumo publicado apenas em espanhol, escrito por vários especialistas segundo as diretrizes temáticas dele — não há equivalente em francês nem em português.

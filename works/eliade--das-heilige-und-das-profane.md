@@ -51,6 +51,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Ensaio de Mircea Eliade publicado primeiro em alemão, em 1957. Em formato breve, sintetiza sua interpretação da experiência religiosa a partir da oposição entre sagrado e profano, examinando o espaço e o tempo sagrados, a natureza e a existência do homem religioso. É uma das introduções mais conhecidas ao pensamento do autor.
+
 ## Fatos
 
 **A obra foi publicada primeiro em alemão, em 1957**, e não em francês. Isto tem consequência bibliográfica direta: a ficha catalográfica da edição brasileira declara como título original *Le sacré et le profane* — ou seja, a tradução portuguesa de Rogério Fernandes é feita **do francês**, língua intermediária.

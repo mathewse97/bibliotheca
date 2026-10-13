@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Romance de Jack London publicado em 1903. Conta a história de Buck, cão doméstico roubado de uma casa na Califórnia e levado para trabalhar puxando trenós no Yukon durante a corrida do ouro, onde aos poucos retorna ao instinto selvagem. É a obra mais conhecida do autor.
+
 ## Fatos
 
 Romance de Jack London, 1903.

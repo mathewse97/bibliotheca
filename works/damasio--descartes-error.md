@@ -61,6 +61,10 @@ pending_assignment:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Livro do neurocientista português António Damásio, publicado em inglês em 1994. A partir de estudos com pacientes que sofreram lesões no córtex pré-frontal, argumenta que a emoção é condição necessária, e não obstáculo, do raciocínio prático e da tomada de decisão, contestando a separação cartesiana entre razão, corpo e emoção. É a obra que apresentou a chamada hipótese do marcador somático.
+
 ## Fatos
 
 Obra fundadora da chamada "hipótese do marcador somático": argumenta, a

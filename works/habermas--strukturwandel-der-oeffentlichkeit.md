@@ -54,6 +54,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Tempo Brasileiro, trad. Flávio R. Kothe", note: "Tradução anterior; só usada."}
 ---
 
+## Sobre a obra
+
+Primeiro grande livro de Jürgen Habermas, publicado em alemão em 1962. Reconstrói a formação histórica de uma esfera pública burguesa de discussão argumentada — cafés, salões, imprensa, associações — e sua degradação quando a publicidade se converte em gestão da opinião pelos meios de massa e pelos interesses organizados. É obra fundadora dos estudos sobre esfera pública e democracia.
+
 ## Fatos
 
 Pesquisa parcial. Reconstrói a formação histórica de um espaço público

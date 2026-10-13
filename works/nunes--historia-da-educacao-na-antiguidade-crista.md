@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra do historiador brasileiro da educação Ruy Afonso da Costa Nunes, parte de uma série em que ele percorre a história da educação no Ocidente. Este volume trata da educação nos primeiros séculos cristãos e de como o cristianismo recebeu e transformou a herança educativa greco-romana.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

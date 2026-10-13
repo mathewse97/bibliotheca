@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides encenada em 428 a.C., premiada no concurso daquele ano. Fedra, esposa de Teseu, é tomada por uma paixão pelo enteado Hipólito, devoto de Ártemis que rejeita Afrodite; a revelação desse amor leva à morte de ambos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

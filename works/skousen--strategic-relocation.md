@@ -45,6 +45,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Guia em inglês de Joel M. Skousen sobre a escolha de onde morar na América do Norte em função da segurança. Avalia regiões segundo riscos geográficos, ambientais e geopolíticos, como forma de reduzir a exposição a desastres e crises.
+
 ## Fatos
 
 Não pesquisado além da identificação do título e do ASIN. Foco geográfico é a

@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editorial Presença (Lisboa)", note: "Portuguesa."}
 ---
 
+## Sobre a obra
+
+Obra de filosofia política de John Rawls, publicada em 1971 e revista pelo autor nos anos seguintes. Por meio da posição original e do véu de ignorância, propõe a justiça como equidade: princípios que garantem liberdades básicas iguais e só admitem desigualdades que beneficiem os menos favorecidos. É considerada a obra que renovou a filosofia política de língua inglesa no século XX.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

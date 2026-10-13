@@ -58,6 +58,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Atravessar o limiar da esperança, Planeta (Lisboa), 1994", note: "Portuguesa; também esgotada."}
 ---
 
+## Sobre a obra
+
+Livro de 1994 em que o papa João Paulo II responde, por escrito, às perguntas do jornalista italiano Vittorio Messori. Trata de questões centrais da fé cristã — a existência de Deus, a salvação, o mal, as outras religiões, a Igreja diante do mundo moderno — em tom pessoal e confessional. Foi um grande êxito editorial e é um dos raros textos em que um papa se expõe fora do formato dos documentos oficiais.
+
 ## Fatos
 
 **O anúncio de varejo atribui esta obra a Senel Paz — erro do catálogo de varejo.** A Agência Brasileira do ISBN mostra por quê: o ISBN **8526503146**, que é o identificador desse anúncio, pertence a *O lobo, o bosque e o homem novo*, de Senel Paz, também pela Francisco Alves. Os dois ISBNs são **adjacentes na mesma sequência da editora** — 8526503146 e 8526503154 — e o catálogo de varejo cruzou os registros vizinhos.

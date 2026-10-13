@@ -57,6 +57,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Ensaio de Julio Lobo publicado em 2026. Segundo a apresentação do próprio livro, pergunta o que resta do indivíduo quando as referências comuns de uma cultura se dissolvem.
+
 ## Fatos
 
 Não pesquisado. Nenhum campo bibliográfico deste registro foi verificado.

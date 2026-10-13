@@ -42,6 +42,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Donde no hay dentista, Hesperian, 2005", note: "Em espanhol, também sem a revisão de 2018."}
 ---
 
+## Sobre a obra
+
+Manual de Murray Dickson publicado em 1983 pela Hesperian, organização que produz livros de saúde para comunidades sem acesso a profissionais. Ensina cuidados odontológicos básicos a quem precisa agir sem estrutura: prevenção, exame, tratamento de problemas comuns e extrações.
+
 ## Fatos
 
 Obra inglesa da Hesperian. A edição em português que você tem NÃO foi

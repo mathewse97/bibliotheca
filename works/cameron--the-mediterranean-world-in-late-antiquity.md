@@ -37,6 +37,10 @@ derived_from:
 updated: 2026-10-13
 ---
 
+## Sobre a obra
+
+Panorama do Mediterrâneo na Antiguidade tardia de Averil Cameron, publicado em inglês em 1993 e ampliado na segunda edição, de 2012, que estende o recorte até 700. Trata de sociedade e economia, cultura e vida privada, cidades e campo, e discute as invasões bárbaras, a periodização e o debate entre declínio e continuidade. É considerada obra padrão sobre o período.
+
 ## Fatos
 
 Panorama do Mediterrâneo de 395 a 700, com capítulos sobre sociedade e economia, cultura e vida privada, e mudança urbana e campo. A 2ª edição estende o recorte até 700, acrescenta um capítulo e discute as 'invasões' bárbaras, a periodização e o debate entre declínio e continuidade. Não há tradução portuguesa conhecida.

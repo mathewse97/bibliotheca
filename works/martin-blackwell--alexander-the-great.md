@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Biografia de Alexandre, o Grande escrita pelos classicistas americanos Thomas R. Martin e Christopher W. Blackwell. Acompanha a vida e as campanhas de Alexandre situando-as no contexto do mundo grego e dos povos que ele conquistou.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

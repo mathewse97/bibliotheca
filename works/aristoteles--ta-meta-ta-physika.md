@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Conjunto de catorze livros de Aristóteles, reunidos depois da sua morte; o título vem da posição que ocupavam após os escritos de física. Investiga o ser enquanto ser, as causas e os princípios primeiros, a substância, o ato e a potência, e culmina na noção de um primeiro motor imóvel. É um dos textos centrais da história da filosofia.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

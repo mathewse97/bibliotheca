@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Direta e muito anotada, mas em nove volumes, talvez ainda incompleta."}
 ---
 
+## Sobre a obra
+
+Obra em prosa de Heródoto de Halicarnasso, escrita em grego no século V a.C. Investiga as origens e o curso das guerras entre gregos e persas, com longas digressões sobre a geografia, os costumes e a história dos povos do mundo conhecido, como Egito, Pérsia e Cítia. É considerada o marco inicial da historiografia ocidental, e Cícero chamou seu autor de "pai da história".
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

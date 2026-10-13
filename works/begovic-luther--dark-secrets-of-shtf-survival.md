@@ -64,6 +64,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Livro em inglês de Selco Begovic e Daisy Luther sobre violência, morte e desordem em situações de colapso. Parte do relato de Selco sobre a sobrevivência numa cidade sitiada durante a guerra da Bósnia, nos anos 1990, e extrai dela lições práticas apresentadas dentro da narrativa, e não em forma de manual.
+
 ## Fatos
 
 Não pesquisado além da identificação do título, autoria e ASIN.

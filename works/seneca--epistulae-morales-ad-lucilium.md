@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Coleção de 124 cartas escritas em latim por Sêneca nos últimos anos de vida, por volta de 62–65 d.C., dirigidas ao amigo Lucílio. Partindo de situações cotidianas, expõem o estoicismo como prática diária: o uso do tempo, a morte, a amizade, o domínio das paixões. É uma das obras mais lidas da filosofia moral romana.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

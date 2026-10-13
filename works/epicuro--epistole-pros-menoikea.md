@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cartas & Máximas principais, Penguin-Companhia, trad. Maria Cecília Gomes dos Reis", note: "Mais notas e as três cartas; não é claramente melhor para esta carta."}
 ---
 
+## Sobre a obra
+
+Carta de Epicuro (341–270 a.C.) a seu discípulo Meneceu, preservada por Diógenes Laércio. Resume a ética epicurista: os deuses não devem ser temidos, a morte nada é para nós, os desejos devem ser avaliados com prudência e a felicidade consiste no prazer entendido como ausência de dor no corpo e de perturbação na alma. É a exposição mais acessível da doutrina moral de Epicuro.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

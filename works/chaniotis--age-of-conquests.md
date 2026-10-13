@@ -40,6 +40,10 @@ editions_considered:
   - {edition: "The Greek World after Alexander, 323–30 BC, Graham Shipley, Routledge, 2000", note: "Boa introdução, mais antiga e de recorte parecido."}
 ---
 
+## Sobre a obra
+
+História do mundo grego de Alexandre à morte de Adriano (336 a.C.–138 d.C.), de Angelos Chaniotis, publicada em inglês em 2018. Narra os reinos sucessores e a conquista romana e trata também da sociedade, das cidades, da religião e da cultura, estendendo o período helenístico até Adriano. Foi descrita como a melhor introdução disponível ao período, embora dê pouca atenção à guerra.
+
 ## Fatos
 
 História do mundo grego de Alexandre à morte de Adriano (336 a.C.–138 d.C.). Narra os reinos sucessores e a conquista romana e trata também sociedade, cidades, religião e cultura; estende o helenismo até Adriano em vez de encerrá-lo em 30 a.C. Há traduções alemã, italiana e grega; não há tradução portuguesa conhecida.

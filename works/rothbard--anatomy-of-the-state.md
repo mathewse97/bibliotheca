@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Ensaio breve do economista libertário americano Murray Rothbard. Descreve o Estado como organização que obtém sua renda pela coerção e examina os meios pelos quais conquista a aceitação dos governados e se protege dos limites que se pretendem impor a ele.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

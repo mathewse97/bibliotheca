@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de filosofia política de Thomas Hobbes, publicado em inglês em 1651. Parte de uma descrição do estado de natureza como guerra de todos contra todos e deduz a necessidade de um contrato pelo qual os homens transferem seu poder a um soberano capaz de garantir a paz. É uma das obras fundadoras da teoria política moderna.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

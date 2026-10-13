@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martins Fontes, 2025, trad. Rafael Frate", note: "Direta, com introdução e notas; sem vantagem clara."}
 ---
 
+## Sobre a obra
+
+Anotações pessoais do imperador romano Marco Aurélio, escritas em grego no século II, sem intenção de publicação. Nelas ele se exorta a viver segundo os princípios estoicos — aceitação da ordem da natureza, domínio de si, dever e serenidade diante da morte. É um dos textos mais lidos da filosofia antiga e o principal testemunho do estoicismo praticado por quem estava no centro do poder.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

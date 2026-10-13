@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Antígona (Lisboa), 2001", note: "Portuguesa e rara."}
 ---
 
+## Sobre a obra
+
+Obra do sociólogo Robert Michels publicada em alemão em 1911. Estudando sobretudo a social-democracia alemã, sustenta que toda grande organização, mesmo as que se dizem democráticas, tende a concentrar o poder numa minoria dirigente — a chamada "lei de ferro da oligarquia". É um clássico da ciência política e da sociologia dos partidos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

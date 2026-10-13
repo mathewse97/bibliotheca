@@ -50,6 +50,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Aguilar, 1963", note: "Traduzida do inglês."}
 ---
 
+## Sobre a obra
+
+Romance de Fiódor Dostoiévski publicado em 1872, inspirado no assassinato de um estudante por um grupo revolucionário ligado a Serguei Netcháiev. Acompanha por dentro uma célula conspiratória numa cidade de província e trata de niilismo, radicalização, ideologia e do que a violência política faz com quem a pratica. É considerado um dos grandes romances políticos da literatura russa.
+
 ## Fatos
 
 Romance russo publicado em 1872. O que a biblioteca queria saber e **não**

@@ -47,6 +47,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Livro de 2007 de James L. Kugel, professor de literatura hebraica em Harvard e de Bíblia na Universidade Bar-Ilan. Percorre a Bíblia hebraica livro a livro, confrontando a leitura dos antigos intérpretes com os resultados da crítica moderna, sem tentar dissolver a tensão entre as duas. É ao mesmo tempo obra de divulgação de alto nível e contribuição própria do autor, cujo método vem de seus estudos sobre a tradição interpretativa antiga.
+
 ## Fatos
 
 Confronta, livro a livro, a leitura dos 'antigos intérpretes' com os resultados da crítica moderna, sem dissolver a incompatibilidade entre as duas.

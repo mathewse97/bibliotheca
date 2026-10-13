@@ -61,6 +61,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Ensaio de interpretação do Brasil de Mário Vieira de Mello, publicado nos anos 1960. Sustenta que a cultura brasileira se organizou sobre o estético, herdado do romantismo francês, e não sobre um compromisso ético-religioso, o que comprometeria qualquer projeto de desenvolvimento que ignore essa base.
+
 ## Fatos
 
 Ensaio de interpretação do Brasil. Primeira edição em 1963 (relatado); 3ª

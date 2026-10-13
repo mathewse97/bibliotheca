@@ -85,6 +85,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Guia prático ilustrado da auto-suficiência, Perspectivas & Realidades (Lisboa), 1976", note: "Tradução portuguesa antiga."}
 ---
 
+## Sobre a obra
+
+Manual do britânico John Seymour (1914–2004), uma das figuras de referência do movimento pela autossuficiência doméstica. Reúne num só volume o cultivo da horta e do campo, a criação de animais, a conservação de alimentos, ofícios artesanais e o aproveitamento de energia na casa, como guia prático para quem quer produzir boa parte do que consome.
+
 ## Fatos
 
 Autoria e existência estabelecidas. O **título original permanece

@@ -48,6 +48,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "L&PM, 2018, e edições populares", note: "Sem tradutor ou aparato que as ponham na mesma faixa."}
 ---
 
+## Sobre a obra
+
+Escrita por Friedrich Nietzsche em 1887, em alemão, *Genealogia da Moral* reúne três dissertações sobre a origem dos valores morais: a oposição entre moral dos senhores e moral dos escravos, a culpa e a má consciência, e o sentido dos ideais ascéticos. Sustenta que os valores não foram descobertos, mas produzidos historicamente, e que é possível perguntar a serviço de quem se formaram. Está na origem da suspeita moderna sobre o caráter natural dos valores, e a crítica da cultura do século XX deve muito ao seu método.
+
 ## Fatos
 
 Pesquisa parcial. Sustenta que os valores morais têm história e proveniência:

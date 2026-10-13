@@ -40,6 +40,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Livro de 1947 do filólogo alemão Victor Klemperer, perseguido pelo regime nazista por sua origem judaica. A partir das anotações que fez durante anos, registra como o vocabulário do Terceiro Reich penetrou a fala comum e o que isso fez com o pensamento de quem a usava. É um testemunho direto e uma das obras clássicas sobre linguagem e totalitarismo.
+
 ## Fatos
 
 Livro de 1947 (relatado). Filólogo alemão perseguido pelo regime, Klemperer anotou durante anos como o vocabulário nazista penetrou a fala comum — e o que isso fez com o pensamento de quem a usava.

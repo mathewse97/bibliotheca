@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Imprensa da Universidade de Coimbra, 2009", note: "O mesmo texto em edição portuguesa: o caminho para achar o livro se a brasileira não aparecer."}
 ---
 
+## Sobre a obra
+
+Tratado latino de Flávio Vegécio, escrito no fim do Império Romano, entre o fim do século IV e o início do V d.C. Resume a organização do exército romano — recrutamento, treinamento, disciplina, tática, fortificação e guerra naval — propondo o retorno às práticas antigas. Foi muito lido e copiado durante a Idade Média como manual de arte militar.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

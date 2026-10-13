@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Livro de finanças pessoais para casais do planejador financeiro Gustavo Cerbasi, publicado em 2004. Trata da organização do dinheiro a dois, do orçamento à formação de patrimônio.
+
 ## Fatos
 
 Finanças pessoais para casais. Publicado em 2004 pela Editora Gente; edição revista pela Sextante (2014, 2016).

@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martins Fontes, trad. Angélica Chiapeta", note: "Direta, sem o latim."}
 ---
 
+## Sobre a obra
+
+Tratado de Cícero escrito em 44 a.C., em forma de carta ao filho, último dos seus escritos filosóficos. Em três livros, trata do honesto, do útil e do conflito aparente entre os dois, adaptando à vida pública romana a ética estoica de Panécio. Foi uma das obras morais mais lidas da Antiguidade até a época moderna.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

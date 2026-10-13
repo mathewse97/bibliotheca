@@ -37,6 +37,10 @@ derived_from:
 updated: 2026-10-13
 ---
 
+## Sobre a obra
+
+História do Império Romano tardio de Stephen Mitchell, publicada em 2007, que vai de Diocleciano a Heráclio (284–641). Centra-se em política, instituições e guerra. Foi saudada como o melhor panorama em um volume desses temas, embora criticada por uma abordagem político-militar mais tradicional, que lê o período mais como declínio do que como continuidade.
+
 ## Fatos
 
 História do Império Romano de Diocleciano a Heráclio (284–641), centrada em política, instituições e guerra; a 2ª edição trata também de desenvolvimentos religiosos. Não há tradução portuguesa conhecida.

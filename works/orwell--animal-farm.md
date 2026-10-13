@@ -45,6 +45,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Biblioteca Azul, Aleph, Melhoramentos (2021)", note: "Outras traduções novas, sem a mesma referência."}
 ---
 
+## Sobre a obra
+
+Novela satírica de George Orwell, publicada em 1945 com o subtítulo *A Fairy Story* (um conto de fadas). Numa fazenda, os animais expulsam o dono e fundam uma comunidade igualitária que degenera em tirania sob os porcos — alegoria da Revolução Russa e do stalinismo, que trata de propaganda, corrupção dos ideais e reescrita do passado. Foi recusada por várias editoras antes de sair, entre elas a Faber & Faber, onde o parecer coube a T. S. Eliot.
+
 ## Fatos
 
 Publicado em 17 de agosto de 1945, por Martin Secker & Warburg, numa primeira

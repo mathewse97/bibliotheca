@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, encenada em 431 a.C. Abandonada por Jasão, que se casa com a filha do rei de Corinto, Medeia mata a rival e o rei e, por fim, os próprios filhos. A peça faz do mito uma investigação sobre paixão, humilhação e vingança, e sobre a condição da mulher estrangeira; está entre as tragédias gregas mais lidas e encenadas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

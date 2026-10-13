@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Rome: An Empire's Story, 2ª ed., Oxford, 2022", note: "Revista e ampliada pelo autor, mas só em inglês."}
 ---
 
+## Sobre a obra
+
+História do Império Romano do historiador britânico Greg Woolf (*Rome: An Empire's Story*, 2012). Acompanha o império em longa duração, examinando como ele se formou, como funcionava e como integrava povos e regiões tão diversos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tese de doutorado de Marshall McLuhan, defendida em Cambridge em 1943 e publicada em livro apenas postumamente. Reconstitui a história das três artes do trivium — gramática, dialética e retórica — da Antiguidade ao Renascimento, como pano de fundo para a obra do escritor elisabetano Thomas Nashe.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -67,3 +67,8 @@ updated: 2026-10-05
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Companhia Editora Nacional, 1952, trad. Godofredo Rangel e Anísio Teixeira", note: "A tradução histórica; só usada."}
 ---
+
+## Sobre a obra
+
+Obra do filósofo norte-americano John Dewey, publicada em 1916, que expõe de forma sistemática sua filosofia da educação. Dewey entende a educação como reconstrução contínua da experiência e a vincula à vida democrática, defendendo uma escola centrada na atividade, na investigação e na participação. É o texto de referência da educação progressista.
+

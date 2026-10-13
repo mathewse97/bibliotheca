@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra introdutória de Ariano Suassuna sobre estética, a filosofia da beleza e da arte. Apresenta as principais concepções do belo e da criação artística ao longo da história do pensamento, em linguagem acessível ao leitor iniciante.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

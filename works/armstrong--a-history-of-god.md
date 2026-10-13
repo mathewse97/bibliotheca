@@ -50,6 +50,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Companhia de Bolso, 2008", note: "A mesma tradução, em formato de bolso."}
 ---
 
+## Sobre a obra
+
+Obra de divulgação de Karen Armstrong, publicada em inglês em 1993. Traça a história das concepções de Deus no judaísmo, no cristianismo e no islamismo, da Antiguidade à modernidade, acompanhando como cada tradição reformulou a ideia ao longo do tempo.
+
 ## Fatos
 
 História das concepções de Deus nas três tradições monoteístas, da Antiguidade à modernidade.

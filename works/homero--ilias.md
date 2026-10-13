@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Poema épico atribuído a Homero, composto em grego na época arcaica. Narra a cólera de Aquiles durante um episódio do último ano da Guerra de Troia, até a morte de Heitor e a devolução de seu corpo a Príamo, com os deuses agindo no mundo dos homens. É, com a *Odisseia*, o texto fundador da literatura grega e uma das bases da cultura grega posterior.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

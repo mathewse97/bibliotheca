@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Gredos, Vidas paralelas II, 2024", note: "Acadêmica, mas em espanhol."}
 ---
 
+## Sobre a obra
+
+Biografia de Péricles, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Fábio Máximo. Trata do estadista que dirigiu Atenas no auge de seu poder, no século V a.C., até o início da Guerra do Peloponeso.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

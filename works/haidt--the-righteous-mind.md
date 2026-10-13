@@ -65,6 +65,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Livro do psicólogo social Jonathan Haidt, publicado em inglês em 2012. Argumenta que o julgamento moral nasce primeiro da intuição, e só depois é justificado pelo raciocínio, e que as divergências políticas e religiosas refletem pesos diferentes dados a fundações morais distintas: cuidado, justiça, lealdade, autoridade, pureza e liberdade.
+
 ## Fatos
 
 Argumenta que o julgamento moral nasce primeiro da intuição — não do

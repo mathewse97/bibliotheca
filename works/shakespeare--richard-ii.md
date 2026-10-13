@@ -49,6 +49,10 @@ derived_from:
 updated: 2026-09-28
 ---
 
+## Sobre a obra
+
+Peça histórica de William Shakespeare, impressa ainda em vida do autor. Ricardo, rei por direito, governa de modo que muitos o veem como tirano e, ao confiscar a herança de Bolingbroke, destrói a regra de sucessão que sustenta o próprio trono; o primo o depõe e precisa então fundar uma legitimidade nova. A cena da deposição foi suprimida das primeiras impressões e só apareceu na edição de 1608.
+
 ## Fatos
 
 **O dado que faz esta peça valer para uma coleção de política:** a cena da

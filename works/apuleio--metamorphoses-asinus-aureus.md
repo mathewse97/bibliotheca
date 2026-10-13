@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Acadêmica; não se confirmou se traz o latim."}
 ---
 
+## Sobre a obra
+
+Romance latino de Apuleio, escrito no século II d.C., o único romance da literatura latina conservado por inteiro. Narra as aventuras de Lúcio, transformado acidentalmente em asno, e intercala muitas histórias, entre elas a fábula de Cupido e Psiquê. Termina com a restauração da forma humana do protagonista por intervenção de Ísis e sua iniciação nos mistérios da deusa, o que faz do livro um testemunho da religiosidade do Império.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Conjunto de catorze odes do poeta grego Píndaro, do século V a.C., compostas para celebrar vencedores dos Jogos Olímpicos. São epinícios, cantos corais de vitória em que o feito atlético é ligado a mitos, aos deuses e à linhagem do vencedor. São um dos principais testemunhos da lírica coral grega.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

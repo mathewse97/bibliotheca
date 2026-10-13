@@ -55,6 +55,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "L&PM, Vozes, Martin Claret", note: "Edições correntes, sem o projeto editorial das duas primeiras."}
 ---
 
+## Sobre a obra
+
+Ensaio de Sigmund Freud escrito em 1929 e publicado em 1930, em alemão. Sustenta que a civilização exige do indivíduo a renúncia às pulsões e que essa renúncia produz um mal-estar permanente, que nenhum progresso técnico resolve. É uma das obras mais influentes de Freud fora da clínica e marcou a crítica da cultura do século XX.
+
 ## Fatos
 
 Pesquisa parcial. A civilização exige renúncia pulsional, e essa renúncia

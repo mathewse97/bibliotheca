@@ -45,6 +45,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "1ª edição", note: "Superada pela 2ª."}
 ---
 
+## Sobre a obra
+
+Manual brasileiro de Marcel Pellegrini e Edimar Moraes, escrito em português, sobre tiro de combate com pistola. Trata dos fundamentos e das habilidades do tiro defensivo, incluindo segurança e manuseio da arma.
+
 ## Fatos
 
 Original brasileiro, em português. Não há questão de tradução: a pesquisa do §E

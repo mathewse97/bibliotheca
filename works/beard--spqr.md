@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+História de Roma antiga escrita por Mary Beard, publicada em inglês em 2015. Percorre cerca de mil anos, das origens da cidade até 212 d.C., quando a cidadania romana foi estendida a quase todos os habitantes livres do Império, e privilegia a política, a sociedade e a maneira como os próprios romanos pensavam a sua história.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -50,6 +50,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Beacon Press; Applewood Books", note: "Só o texto inglês, sem o fac-símile das quatro colunas."}
 ---
 
+## Sobre a obra
+
+Compilação feita por Thomas Jefferson por volta de 1820, a partir de recortes dos evangelhos em grego, latim, francês e inglês. Jefferson reuniu os ensinamentos morais de Jesus e deixou de fora os milagres e a ressurreição, segundo seus pressupostos racionalistas. O manuscrito só foi impresso no início do século XX e mostra como um pensador moderno reinterpretou os evangelhos.
+
 ## Fatos
 
 Manuscrito multilíngue (grego, latim, francês e inglês) montado por Jefferson a partir de recortes dos evangelhos.

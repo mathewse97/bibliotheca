@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Globo, trad. Eudoro de Sousa", note: "Com comentário extenso, mas edição antiga."}
 ---
 
+## Sobre a obra
+
+Tratado de Aristóteles, do século IV a.C., conservado de forma incompleta: a parte dedicada à comédia se perdeu. Define a poesia como imitação (*mímesis*), analisa a tragédia e seus elementos, dá primazia ao enredo e trata da catarse produzida pelo terror e pela piedade. É a primeira teoria sistemática da arte literária no Ocidente e uma referência constante para a crítica posterior.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Romance de Daniel Defoe publicado em 1719, narrado em primeira pessoa por um náufrago que passa décadas numa ilha deserta. O relato acompanha como ele sobrevive, constrói abrigo, cultiva a terra e organiza sua vida sozinho, até o encontro com Sexta-Feira. É frequentemente apontado como um dos marcos iniciais do romance inglês.
+
 ## Fatos
 
 Romance de Daniel Defoe, 1719.

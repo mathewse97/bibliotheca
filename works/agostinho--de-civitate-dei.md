@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra de Santo Agostinho, escrita em latim entre 413 e 426, em resposta aos pagãos que atribuíam ao abandono dos antigos deuses o saque de Roma pelos godos em 410. Ao longo de vinte e dois livros, critica a religião e os valores romanos e desenvolve a contraposição entre a cidade terrena e a cidade de Deus, interpretando a história como o percurso dessas duas comunidades. Tornou-se uma das obras mais influentes do pensamento político e teológico cristão.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

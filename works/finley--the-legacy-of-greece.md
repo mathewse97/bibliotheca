@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Volume coletivo organizado por Moses I. Finley e publicado em 1981, em que especialistas reavaliam a herança grega em diferentes campos, como política, filosofia, ciência, literatura e artes. Mostra como a experiência grega foi reinterpretada e incorporada pelas civilizações posteriores.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

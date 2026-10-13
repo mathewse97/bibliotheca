@@ -42,6 +42,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Tragédia de Ésquilo em que as cinquenta filhas de Dânao fogem do Egito para escapar do casamento com os primos e pedem asilo em Argos. O rei Pelasgo, dividido entre o dever para com os suplicantes e o risco de guerra, submete a decisão à assembleia do povo. É a única peça conservada de uma trilogia.
+
 ## Fatos
 
 Não pesquisado além do conteúdo do volume. Data, transmissão e edição

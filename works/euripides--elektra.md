@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides sobre a vingança dos filhos de Agamêmnon. Electra, casada com um pobre camponês, reencontra o irmão Orestes e com ele mata Egisto e a mãe, Clitemnestra. Eurípides retoma o mito tratado por Ésquilo e Sófocles com tom mais cotidiano e questionador quanto à justiça do matricídio.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Introdução à filosofia da mente escrita em português por André Leclerc, publicada em 2018. Divide-se em três partes: os temas fundamentais da área, como intencionalidade e consciência; o problema mente-corpo, do dualismo cartesiano ao fisicismo de Jaegwon Kim; e questões finais.
+
 ## Fatos
 
 Introdução em três partes: o terreno da filosofia da mente (intencionalidade e consciência), o problema mente-corpo do dualismo cartesiano ao fisicismo de Jaegwon Kim, e temas finais (segundo a descrição da editora). Há 2ª edição, ampliada (2025, 203 p.).

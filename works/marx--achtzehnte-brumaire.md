@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Ensaio de Karl Marx publicado em 1852 sobre o golpe de Estado de Luís Bonaparte na França, em dezembro de 1851. Analisa as classes sociais, os partidos e o Estado no curso da revolução de 1848 e de seu desfecho autoritário. É o texto de onde vem a frase de que a história se repete, "a primeira vez como tragédia, a segunda como farsa", e uma das análises políticas concretas mais estudadas de Marx.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

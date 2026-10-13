@@ -42,6 +42,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Tragédia tradicionalmente atribuída a Ésquilo, cuja autoria é discutida pelos estudiosos. Mostra o titã Prometeu acorrentado a um rochedo por ordem de Zeus, como castigo por ter dado o fogo aos homens, e seu desafio ao novo senhor dos deuses, cujo destino ele afirma conhecer.
+
 ## Fatos
 
 Não pesquisado além do conteúdo do volume. Data, transmissão e edição

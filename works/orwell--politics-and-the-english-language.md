@@ -33,6 +33,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Dentro da baleia e outros ensaios, Companhia das Letras, 2005", note: "Coletânea maior, mas a presença do ensaio não está confirmada."}
 ---
 
+## Sobre a obra
+
+Ensaio de George Orwell publicado em 1946, em inglês. Argumenta que a decadência da linguagem — clichês, eufemismos, abstrações vagas — está ligada à decadência política, e que a prosa obscura serve para tornar defensável o indefensável. Termina com regras práticas para escrever com clareza.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

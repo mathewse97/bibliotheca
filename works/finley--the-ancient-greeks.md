@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Introdução à civilização grega do historiador Moses I. Finley, publicada originalmente em inglês em 1963. Em formato breve, percorre a história, a sociedade, a economia, a política e a cultura dos gregos do período arcaico ao helenístico, e tornou-se uma das sínteses de referência sobre o tema.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

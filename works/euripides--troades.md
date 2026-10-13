@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, encenada em 415 a.C. Após a queda de Troia, Hécuba, Cassandra, Andrômaca e as demais cativas aguardam ser repartidas entre os vencedores, e o pequeno Astíanax é morto pelos gregos. Quase sem ação, a peça é um lamento sobre o sofrimento dos vencidos e é lida como uma das mais fortes denúncias da guerra no teatro antigo.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

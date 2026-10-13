@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cotovia (Lisboa), 2007, trad. Paulo Farmhouse Alberto", note: "Acadêmica, mas portuguesa e sem o latim."}
 ---
 
+## Sobre a obra
+
+Poema narrativo latino de Ovídio, em quinze livros de hexâmetros, concluído por volta de 8 d.C. Encadeia cerca de duzentas e cinquenta histórias mitológicas unidas pelo tema da transformação, da criação do mundo até a apoteose de Júlio César. Foi uma das principais vias pelas quais a mitologia clássica chegou à literatura e à arte da Idade Média e do Renascimento.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

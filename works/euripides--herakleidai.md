@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides em que os filhos de Héracles, perseguidos por Euristeu após a morte do pai, buscam proteção em Atenas. A cidade os acolhe e enfrenta a guerra para defendê-los, e a peça trata do dever de proteger os suplicantes.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

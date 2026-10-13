@@ -39,6 +39,10 @@ editions_considered:
   - {edition: "The Greek World 479–323 BC, Simon Hornblower, Routledge, 4ª ed. 2011", note: "Da mesma faixa: mais analítico, mais regional e mais exigente."}
 ---
 
+## Sobre a obra
+
+Narrativa da história grega de P. J. Rhodes, do fim das Guerras Médicas (478 a.C.) à morte de Alexandre (323 a.C.), publicada em 2006; a segunda edição, de 2010, acrescentou dois capítulos sobre vida e cultura. Cobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia. Paul Cartledge a descreveu como clara, sóbria e detalhada.
+
 ## Fatos
 
 Narrativa da história grega do fim das Guerras Médicas (478 a.C.) à morte de Alexandre (323 a.C.). A 2ª edição acrescentou dois capítulos sobre vida e cultura. Não há tradução portuguesa conhecida.

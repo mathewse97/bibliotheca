@@ -80,6 +80,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Perspectiva, 2009, trad. Trajano Vieira", note: "Avulsa."}
 ---
 
+## Sobre a obra
+
+Tragédia grega de Sófocles, encenada provavelmente na década de 440 a.C. Antígona desafia o decreto de Creonte, rei de Tebas, para dar sepultura ao irmão Polinices, opondo a lei da cidade às leis não escritas dos deuses. O conflito tornou-se um dos casos clássicos da reflexão sobre direito natural e obediência civil.
+
 ## Fatos
 
 Tragédia ática transmitida em grego. A edição crítica de referência do

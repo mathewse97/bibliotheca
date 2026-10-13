@@ -53,6 +53,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cosmos / Asa (Portugal)", note: "A mesma tradução, esgotada."}
 ---
 
+## Sobre a obra
+
+Obra de Mircea Eliade publicada em francês em 1949, que propõe uma morfologia sistemática do sagrado. Examina as hierofanias, isto é, as manifestações do sagrado, no céu, nas águas, na terra, nas pedras, na vegetação, no tempo e no espaço, além do mito e do símbolo. É considerada a exposição mais sistemática de sua fenomenologia da religião.
+
 ## Fatos
 
 A morfologia sistemática do sagrado: hierofanias, céu, água, terra, pedra, tempo e espaço sagrados, mito e símbolo.

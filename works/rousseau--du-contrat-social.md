@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de filosofia política de Jean-Jacques Rousseau, publicado em 1762, em francês. Pergunta como os homens podem associar-se sem perder a liberdade e responde com um pacto pelo qual cada um se submete à vontade geral, da qual também é parte. Com as ideias de soberania popular e de vontade geral, tornou-se um dos textos fundadores da política moderna.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

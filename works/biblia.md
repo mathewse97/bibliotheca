@@ -54,6 +54,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Bíblia, trad. Frederico Lourenço, Companhia das Letras", note: "Excelente, mas incompleta, e o Antigo Testamento sai do grego."}
 ---
 
+## Sobre a obra
+
+Coleção de livros sagrados do judaísmo e do cristianismo, composta em hebraico, aramaico e grego ao longo de mais de um milênio. Reúne narrativas, leis, poesia, profecia, literatura sapiencial, evangelhos e cartas, e sua composição e seu cânone variam entre as tradições judaica, católica, ortodoxa e protestante.
+
 ## Fatos
 
 Obra coletiva e canônica; `authors` vazio.

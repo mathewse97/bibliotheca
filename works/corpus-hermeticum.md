@@ -55,6 +55,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Corpus Hermeticum, Hemus", note: "Indireta e parcial."}
 ---
 
+## Sobre a obra
+
+Coletânea anônima de tratados gregos, escritos provavelmente entre os séculos II e III d.C. e atribuídos ficticiamente ao lendário Hermes Trismegisto. Em forma de diálogos e revelações, trata de Deus, do cosmo, da alma e da salvação pelo conhecimento, misturando elementos platônicos, estoicos e religiosos do Egito helenístico. Traduzido para o latim por Marsilio Ficino no século XV, exerceu grande influência no pensamento do Renascimento.
+
 ## Fatos
 
 Coletânea **anônima e pseudoepigráfica** de tratados gregos, atribuída ficticiamente a Hermes Trismegisto, que não é figura histórica. Os catálogos autoritativos usam 'Hermes Trismegistus' como **cabeçalho convencional de autor** para agrupar o corpus, não como asserção de autoria — por isso `authors` fica vazio. É o mesmo tipo de problema levantado pelo autor corporativo NAEMT em review/survival-self-sufficiency.md §6, mas não o mesmo caso.

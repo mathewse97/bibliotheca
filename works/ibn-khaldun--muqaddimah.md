@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Introdução, escrita em árabe em 1377, à história universal do pensador norte-africano Ibn Khaldun. Examina as causas da ascensão e da queda das dinastias, centrando a análise na *asabiyya*, a coesão de grupo, e no ciclo entre a vida nômade e a urbana. É considerada precursora da sociologia, da historiografia crítica e da economia política.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.
