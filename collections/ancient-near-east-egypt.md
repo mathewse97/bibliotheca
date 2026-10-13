@@ -10,7 +10,11 @@ question_by: claude
 question_status: estabelecida
 question_approved_by: voce
 question_approved_on: 2026-10-12
-# Sem foto de fundo: a interface usa o mosaico das capas (interface-rules.md §5).
+image:                      # foto de fundo do cartão — interface-rules.md §5
+  file: "images/collections/ancient-near-east-egypt.webp"
+  subject: "Busto de estátua de faraó em granito, com o toucado nemes"
+  supplied_by: mathews
+  added: 2026-10-13
 
 source:
   origin: pedido-seu
