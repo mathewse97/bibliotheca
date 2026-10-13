@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: esquilo--persai
-    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
+    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -41,7 +41,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--hepta-epi-thebas
-    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
+    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -50,7 +50,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--hiketides
-    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
+    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]
@@ -59,7 +59,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: esquilo--prometheus-desmotes
-    why: "Tradução de Jaa Torrano, direta do grego e bilíngue."
+    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
     verdict: unassessed
     reason: "Único volume brasileiro com estas peças registrado."
     translator: [torrano]

@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Hucitec, 1995, trad. Francisco Murari Pires", note: "Bilíngue, mas esgotada."}
-  - {edition: "Gulbenkian, 2003, trad. Delfim Ferreira Leão", note: "Muito anotada, mas portuguesa."}
+  - {edition: "Hucitec, 1995, trad. Francisco Murari Pires", note: "Tradução de Francisco Murari Pires com o texto grego ao lado, mas esgotada."}
+  - {edition: "Gulbenkian, 2003, trad. Delfim Ferreira Leão", note: "Tradução de Delfim Ferreira Leão com muitas notas explicativas, mas em português de Portugal."}
 ---
 
 ## Sobre a obra

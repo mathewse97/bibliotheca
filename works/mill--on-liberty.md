@@ -30,8 +30,8 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Vozes, trad. Alberto da Rocha Barros", note: "Boa tradução, mas a edição de bolso não traz o aparato."}
-  - {edition: "L&PM, Vide, Lafonte", note: "Tradutor não identificado."}
+  - {edition: "Vozes, trad. Alberto da Rocha Barros", note: "Boa tradução de Alberto da Rocha Barros, mas a edição de bolso à venda não traz a apresentação de Celso Lafer da edição de 1991."}
+  - {edition: "L&PM, Vide, Lafonte", note: "Edições sem o nome do tradutor no anúncio, por isso não há como avaliar a tradução."}
 ---
 
 ## Sobre a obra

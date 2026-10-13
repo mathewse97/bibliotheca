@@ -30,7 +30,7 @@ source_of_record: voce
 
 contains:
   - work: alton--the-survival-medicine-handbook
-    why: "A 4ª edição, a mais recente: o manual de medicina para quando não há médico nem hospital por perto."
+    why: "A 4ª edição, de 2021, a mais recente, revista e ampliada pelos autores, um médico e uma enfermeira; as anteriores ficaram desatualizadas. Está em inglês, sem tradução, e precisa ser importada; segundo o anúncio, a impressão é em preto e branco."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina, opção A): a 4ª edição, a mais recente, como manual principal de medicina sem médico em Sobrevivência."
     translator: null

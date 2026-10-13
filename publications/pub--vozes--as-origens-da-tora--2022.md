@@ -29,7 +29,7 @@ source_of_record: voce
 
 contains:
   - work: finkelstein-romer--aux-origines-de-la-torah
-    why: "A única tradução em português, feita do francês por Renato Adriano Pezenti, em catálogo."
+    why: "A única tradução em português, feita direto do francês, a língua em que o livro foi escrito, por Renato Adriano Pezenti. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [pezenti]

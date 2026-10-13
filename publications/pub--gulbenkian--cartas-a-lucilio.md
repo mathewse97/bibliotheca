@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: seneca--epistulae-morales-ad-lucilium
-    why: "Única tradução completa em português, direta do latim e anotada. Português de Portugal."
+    why: "Tradução de J. A. Segurado e Campos, feita direto do latim e com notas; é a única completa em português. É português de Portugal; ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [segurado-campos]

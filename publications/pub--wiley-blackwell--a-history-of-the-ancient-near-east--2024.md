@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: van-de-mieroop--a-history-of-the-ancient-near-east
-    why: "A 4ª edição, de 2024, atualizada com tabuletas e escavações recentes. Não há tradução em português."
+    why: "A 4ª edição, de 2024, atualizada com tabuletas e escavações recentes. É em inglês, porque não há tradução em português; ainda não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

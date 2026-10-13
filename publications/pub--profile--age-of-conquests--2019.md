@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: chaniotis--age-of-conquests
-    why: "A brochura da Profile, de 2019; o texto é o da edição de Harvard de 2018. Não há tradução em português."
+    why: "A brochura da Profile, de 2019, com o mesmo texto da edição de Harvard de 2018. Em inglês, sem tradução; não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

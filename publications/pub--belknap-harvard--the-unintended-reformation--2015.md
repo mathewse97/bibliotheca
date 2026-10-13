@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: gregory--the-unintended-reformation
-    why: "A brochura de 2015. Não há tradução em português."
+    why: "A brochura de 2015 da editora da Universidade Harvard, em inglês. Ainda não se confirmou se existe tradução em português nem como está a oferta."
     verdict: unassessed
     reason: "Aprovada pelo Mathews em 2026-10-13. O §F não foi percorrido até o fim: qualidade da tradução e disponibilidade não verificadas."
     translator: []

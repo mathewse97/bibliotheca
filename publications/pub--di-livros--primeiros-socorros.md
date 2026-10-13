@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: silva-conforto--primeiros-socorros
+    why: "Livro escrito em português, sem tradução a avaliar. Edição da DI Livros; ano e demais dados ainda não foram confirmados, e ela não foi comparada com outras edições."
     verdict: unassessed
     reason: "Identificação em tier 6 apenas. Falta confirmação em fonte
              bibliográfica (tier 1-5) antes de qualquer veredito de edição."

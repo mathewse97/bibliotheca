@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: mikalson--ancient-greek-religion
-    why: "A 3ª edição (2021), revista e ampliada. Não há tradução."
+    why: "A 3ª edição, de 2021, revista e ampliada, em inglês, pois não há tradução. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

@@ -50,7 +50,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "A ideologia da sociedade industrial, Zahar, 1967", note: "A tradução histórica; só usada."}
+  - {edition: "A ideologia da sociedade industrial, Zahar, 1967", note: "A primeira tradução brasileira, com outro título; hoje só se acha usada e não foi examinada."}
 ---
 
 ## Sobre a obra

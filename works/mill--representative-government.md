@@ -30,7 +30,7 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Editora UnB, 1981", note: "Coleção acadêmica, mas antiga e só usada."}
+  - {edition: "Editora UnB, 1981", note: "Edição de coleção acadêmica de editora universitária, mas antiga e só encontrada usada."}
 ---
 
 ## Sobre a obra

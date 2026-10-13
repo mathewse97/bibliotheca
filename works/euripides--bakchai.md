@@ -31,9 +31,9 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Odysseus, 2022, trad. Ordep Serra", note: "A edição mais comentada da peça, mas fora da série de Torrano. Fica até o lançamento do volume VI."}
-  - {edition: "Perspectiva, 2003, trad. Trajano Vieira", note: "Fora da série; formato bilíngue não confirmado."}
-  - {edition: "Zahar, 1993, trad. Mário da Gama Kury", note: "Fora da série; não bilíngue."}
+  - {edition: "Odysseus, 2022, trad. Ordep Serra", note: "A edição mais comentada da peça, mas fora da série de Torrano; fica na biblioteca só até sair o volume VI."}
+  - {edition: "Perspectiva, 2003, trad. Trajano Vieira", note: "Tradução de Trajano Vieira, fora da série de Torrano; não está confirmado se traz o grego ao lado."}
+  - {edition: "Zahar, 1993, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, fora da série de Torrano e sem o grego ao lado."}
 ---
 
 ## Sobre a obra

@@ -43,7 +43,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-17
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Minerva (Coimbra), trad. Maria Teresa Schiappa de Azevedo", note: "Mais notas, mas portuguesa e sem o grego."}
+  - {edition: "Minerva (Coimbra), trad. Maria Teresa Schiappa de Azevedo", note: "Tradução de Maria Teresa Schiappa de Azevedo, com mais notas, mas em português de Portugal e sem o grego ao lado."}
 ---
 
 ## Sobre a obra

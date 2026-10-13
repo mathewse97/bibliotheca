@@ -50,7 +50,7 @@ provenance:
     confidence: reported
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cosmos / Asa (Portugal)", note: "A mesma tradução, esgotada."}
+  - {edition: "Cosmos / Asa (Portugal)", note: "A mesma tradução, em edição portuguesa que está esgotada."}
 ---
 
 ## Sobre a obra

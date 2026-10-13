@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: veyne--les-grecs-ont-ils-cru-a-leurs-mythes
-    why: "A tradução brasileira mais recente, direta do francês, em catálogo."
+    why: "A tradução brasileira mais recente, feita direto do francês por Mariana Echalar, e à venda nova."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [echalar]

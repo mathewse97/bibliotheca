@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--poietike
-    why: "Tradução de Paulo Pinheiro, direta do grego e bilíngue, com introdução e notas atentas à pesquisa recente."
+    why: "Tradução de Paulo Pinheiro, feita direto do grego, com introdução e notas que acompanham os estudos recentes sobre a obra. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [paulo-pinheiro]

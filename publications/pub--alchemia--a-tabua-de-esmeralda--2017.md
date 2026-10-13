@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: tabula-smaragdina
-    why: "Traz o texto latino, a tradução e as versões de Newton e de Roger Bacon. Não há edição acadêmica impressa em português ou espanhol."
+    why: "Traz o texto latino ao lado da tradução de Fabio R. de Araujo, feita direto do latim, e ainda as versões de Newton e de Roger Bacon, para comparar. Não existe edição universitária impressa em português ou espanhol."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [fabio-r-de-araujo]

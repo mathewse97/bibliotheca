@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: mitchell--a-history-of-the-later-roman-empire
-    why: "A 2ª edição, de 2015, que acrescenta a parte religiosa. Não há tradução em português."
+    why: "A 2ª edição, de 2015, que acrescenta a parte sobre religião; está em inglês, pois não há tradução em português. Não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

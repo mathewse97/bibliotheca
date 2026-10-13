@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: platao--politeia
-    why: "Bilíngue, com o grego ao lado; tradução de Carlos Alberto Nunes e introdução de Benedito Nunes."
+    why: "Tradução de Carlos Alberto Nunes, feita direto do grego, com o grego ao lado para conferir os termos-chave e uma introdução de Benedito Nunes que situa a obra. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [carlos-alberto-nunes]

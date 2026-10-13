@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: taylor--a-secular-age
-    why: "A única tradução brasileira, completa e direta do inglês."
+    why: "A única tradução brasileira, completa e feita direto do inglês por Nélio Schneider e Luzia Araújo. A qualidade da tradução e a facilidade de compra ainda não foram verificadas."
     verdict: unassessed
     reason: "Aprovada pelo Mathews em 2026-10-13. O §F não foi percorrido até o fim: qualidade da tradução e disponibilidade não verificadas."
     translator: [nelio-schneider, luzia-araujo]

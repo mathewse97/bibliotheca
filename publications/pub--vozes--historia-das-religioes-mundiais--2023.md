@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: noss-grangaard--a-history-of-the-worlds-religions
-    why: "Tradução completa do manual, direta do inglês, por editora acadêmica, em catálogo."
+    why: "Tradução completa do manual, feita direto do inglês por André Szczawlinska Muceniecks. Edição da Vozes de 2023, fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [muceniecks]

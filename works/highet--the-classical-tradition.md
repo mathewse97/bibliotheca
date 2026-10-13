@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Fondo de Cultura Económica, trad. Antonio Alatorre", note: "A célebre tradução espanhola."}
+  - {edition: "Fondo de Cultura Económica, trad. Antonio Alatorre", note: "A célebre tradução espanhola de Antonio Alatorre; ficou de fora por não ser em português."}
 ---
 
 ## Sobre a obra

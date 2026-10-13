@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: canterbury--bushcraft-101
-    why: "Tradução brasileira de Bushcraft 101, com adaptação do Manual do Mundo."
+    why: "Tradução brasileira de Bushcraft 101, por Marcelo Schild, com adaptação do Manual do Mundo. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Não avaliada."
     translator: ["Marcelo Schild"]

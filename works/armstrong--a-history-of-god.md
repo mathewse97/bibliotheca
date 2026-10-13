@@ -47,7 +47,7 @@ provenance:
     confidence: reported
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Companhia de Bolso, 2008", note: "A mesma tradução, em formato de bolso."}
+  - {edition: "Companhia de Bolso, 2008", note: "A mesma tradução de Santarrita, em formato de bolso."}
 ---
 
 ## Sobre a obra

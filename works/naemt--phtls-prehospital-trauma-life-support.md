@@ -53,7 +53,7 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "Mais nova, mas só em inglês."}
+  - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "A edição mais nova, de 2023, mas só existe em inglês."}
 ---
 
 ## Sobre a obra

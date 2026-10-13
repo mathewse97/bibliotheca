@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--bakchai
+    why: "Fica só até sair o volume VI de Torrano. Tradução de Ordep Serra, a edição mais estudada da peça, com introdução sobre a história do texto, comentário trecho a trecho, notas e um ensaio sobre Dioniso."
     verdict: unassessed
     reason: "Alternativa: o cartão d-ed-bacantes foi decidido em 2026-10-10 pela edição da Editora 34. Fica no registro só até o lançamento do Teatro completo VI (previsto para 26/10/2026), por decisão do Mathews em 2026-10-10; depois sai."
     translator: [ordep-serra]

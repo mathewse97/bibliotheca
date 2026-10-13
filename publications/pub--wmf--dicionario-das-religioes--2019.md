@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: eliade-culianu--dictionnaire-des-religions
-    why: "Única tradução brasileira, direta do francês, de Ivone Castilho Benedetti."
+    why: "A única tradução brasileira, feita direto do francês original por Ivone Castilho Benedetti. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [castilho-benedetti]

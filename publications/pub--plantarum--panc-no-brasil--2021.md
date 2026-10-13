@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: kinupp-lorenzi--plantas-alimenticias-nao-convencionais-no-brasil
-    why: "A 2ª edição (2021) do guia de referência sobre PANC, pelo Instituto Plantarum, que publicou a obra."
+    why: "Livro escrito em português, sem tradução a avaliar. É a 2ª edição, de 2021, pelo Instituto Plantarum, editora da obra. Há indício de outra edição brasileira, que ainda não foi comparada com esta."
     verdict: unassessed
     reason: "Não avaliada. Existe indício de outra edição brasileira (Oficina
              de Textos) que não foi comparada — e um veredito é justamente uma

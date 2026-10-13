@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "A mesma edição em português, revista por Gabriele Cornelli; em decisão."}
+  - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "A tradução brasileira desta mesma edição, por Eduardo Wolf Pereira, revista por Gabriele Cornelli; a escolha entre ela e o original ainda não foi feita."}
 ---
 
 ## Sobre a obra

@@ -45,9 +45,9 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Sétimo Selo, 2023", note: "Tradutor não identificado."}
-  - {edition: "Os possessos, José Olympio, 1951", note: "Traduzida do francês."}
-  - {edition: "Aguilar, 1963", note: "Traduzida do inglês."}
+  - {edition: "Sétimo Selo, 2023", note: "Edição recente, mas não se sabe quem traduziu nem de que língua."}
+  - {edition: "Os possessos, José Olympio, 1951", note: "Tradução de Rachel de Queiroz, com o título Os possessos, feita do francês e não do russo."}
+  - {edition: "Aguilar, 1963", note: "Traduzida do inglês, e não do russo."}
 ---
 
 ## Sobre a obra

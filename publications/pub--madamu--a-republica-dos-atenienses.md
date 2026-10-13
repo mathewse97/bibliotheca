@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--athenaion-politeia
-    why: "Tradução nova e direta do grego, por um especialista na obra, com introdução e notas."
+    why: "Tradução recente de Denis Correa, especialista nesta obra, feita direto do grego, com introdução que situa o texto e notas. Ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [denis-correa]

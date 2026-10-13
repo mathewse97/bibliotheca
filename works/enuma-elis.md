@@ -50,8 +50,8 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Trotta e Cátedra (espanhol)", note: "Diretas do acádio, mas em espanhol e com aparato menor."}
-  - {edition: "Library of Babylonian Literature, Bloomsbury, 2024", note: "O texto no estado da arte, em inglês; complemento acadêmico."}
+  - {edition: "Trotta e Cátedra (espanhol)", note: "Também traduzidas direto do acádio, mas em espanhol e com menos notas e comentário."}
+  - {edition: "Library of Babylonian Literature, Bloomsbury, 2024", note: "Em inglês, com a versão do texto mais atualizada pelos estudiosos; serve de complemento para estudo, não de leitura principal."}
 ---
 
 ## Sobre a obra

@@ -32,7 +32,7 @@ source_of_record: voce
 
 contains:
   - work: michels--zur-soziologie-des-parteiwesens
-    why: "Brasileira, integral, direta do alemão e com revisão técnica acadêmica."
+    why: "Tradução completa de Clístenes Hafner Fernandes, a primeira brasileira feita direto do alemão, com todas as notas do autor. Foi revista por Marize Schons, professora de ciência política, que conferiu os termos da área. À venda nova."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-michels, adotando a recomendação)."
     translator: [clistenes-fernandes]

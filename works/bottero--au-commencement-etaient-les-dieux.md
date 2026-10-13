@@ -49,7 +49,7 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "No princípio eram os deuses, Edições 70, 2006", note: "Também direta do francês, mas portuguesa e importada."}
+  - {edition: "No princípio eram os deuses, Edições 70, 2006", note: "Outra tradução direto do francês, mas em português de Portugal e precisa ser importada."}
 ---
 
 ## Sobre a obra

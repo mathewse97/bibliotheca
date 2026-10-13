@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: adler--the-paideia-proposal
-    why: "A única edição brasileira, em catálogo. O tradutor não é creditado nas fontes consultadas."
+    why: "A única edição brasileira encontrada, à venda nova. O nome do tradutor não aparece nas informações disponíveis sobre o livro."
     verdict: unassessed
     reason: "Única edição brasileira identificada; tradutor não creditado nas fontes consultadas."
     translator: []

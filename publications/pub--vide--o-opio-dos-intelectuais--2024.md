@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: aron--lopium-des-intellectuels
-    why: "Tradução brasileira em catálogo, escolhida por você no lugar da antiga, da Três Estrelas. Ainda não foi comparada com outras."
+    why: "Escolha sua, no lugar da tradução mais antiga, de Jorge Bastos, pela Três Estrelas. Edição brasileira à venda nova; ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Três Estrelas, trad. Jorge Bastos)."
     translator: []

@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--alkibiades
-    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
+    why: "Traduzida direto do grego por Maria do Céu Fialho e Nuno Simões Rodrigues, com introdução e notas, na mesma série da Universidade de Coimbra das outras Vidas. É a edição brasileira da série, à venda nova aqui, mas o texto é em português de Portugal."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10: tradução direta do grego, com introdução e notas, da mesma série de Coimbra já usada para as outras Vidas da coleção; esta é a edição brasileira, vendida nova no Brasil. Ver a seção Edições da obra."
     translator: [fialho, nuno-rodrigues]

@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: werner--donde-no-hay-doctor
+    why: "Edição revista em inglês, de 2022, com Carol Thuman e Jane Maxwell; a editora atualiza regularmente as informações médicas, o que importa num manual de saúde. Precisa ser importada."
     verdict: unassessed
     reason: "Candidato do cartão d-ed-werner, arquivado em 2026-10-10: a obra saiu de Sobrevivência (cartão d-sob-medicina)."
     translator: null

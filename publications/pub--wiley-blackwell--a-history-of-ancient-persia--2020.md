@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: brosius--a-history-of-ancient-persia
-    why: "A única edição, de 2020. Não há tradução em português."
+    why: "A única edição, de 2020, em inglês: não há tradução em português. Ainda não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

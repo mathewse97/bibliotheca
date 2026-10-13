@@ -38,8 +38,8 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Onde não há dentista, Paulus, 1985", note: "Em português, mas sem a revisão de 2018; só usada."}
-  - {edition: "Donde no hay dentista, Hesperian, 2005", note: "Em espanhol, também sem a revisão de 2018."}
+  - {edition: "Onde não há dentista, Paulus, 1985", note: "Em português do Brasil, mas é a versão antiga, sem a revisão de 2018, e só se acha usada."}
+  - {edition: "Donde no hay dentista, Hesperian, 2005", note: "Em espanhol e também sem a revisão de 2018."}
 ---
 
 ## Sobre a obra

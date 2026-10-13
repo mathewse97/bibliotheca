@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: corpus-hermeticum
-    why: "A primeira tradução portuguesa direta do grego, por um especialista (David Pessoa de Lira), com glossário grego–português."
+    why: "A primeira tradução em português feita direto do grego, e não de outra tradução, por David Pessoa de Lira, especialista no assunto. Traz um glossário grego–português que explica os termos-chave. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [pessoa-de-lira]

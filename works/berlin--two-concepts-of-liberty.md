@@ -30,7 +30,7 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Estudos sobre a humanidade, Companhia das Letras, 2002", note: "Antologia geral de Berlin; sem a resposta dele às críticas. Também esgotada."}
+  - {edition: "Estudos sobre a humanidade, Companhia das Letras, 2002", note: "Antologia ampla de ensaios de Berlin, que traz este, mas não a resposta dele às críticas; também esgotada."}
 ---
 
 ## Sobre a obra

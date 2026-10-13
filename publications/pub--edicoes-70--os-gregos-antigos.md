@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: finley--the-ancient-greeks
-    why: "Única tradução em português, revista por um especialista em Grécia antiga. Português de Portugal."
+    why: "A única tradução em português, de Artur Morão, revista por um especialista em Grécia antiga. É português de Portugal. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [artur-morao]

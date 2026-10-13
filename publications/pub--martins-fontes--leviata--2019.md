@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: hobbes--leviathan
-    why: "Sua indicação: a edição de Richard Tuck, em catálogo."
+    why: "Indicação sua: a tradução de João Paulo Monteiro e Maria Beatriz Nizza da Silva, na edição organizada por Richard Tuck. Fácil de comprar nova."
     verdict: unassessed
     reason: "Confere com a sua indicação. Edição de Richard Tuck."
     translator: ["João Paulo Monteiro", "Maria Beatriz Nizza da Silva"]

@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: euripides--medeia
-    why: "Faz parte da série de Eurípides de Jaa Torrano: tradução direta do grego, com o texto original ao lado e um estudo para cada peça."
+    why: "Volume I do teatro completo de Eurípides traduzido por Jaa Torrano, direto do grego, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [torrano]

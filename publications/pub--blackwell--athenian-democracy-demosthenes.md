@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hansen--the-athenian-democracy-in-the-age-of-demosthenes
-    why: "O texto que o autor acompanhou. Há tradução espanhola recente; a escolha está em decisão."
+    why: "O texto original em inglês, de 1991, acompanhado pelo próprio autor. Há uma tradução espanhola recente, e a escolha entre as duas ainda está em aberto."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

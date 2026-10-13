@@ -38,8 +38,8 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Manual del arquitecto descalzo (espanhol)", note: "O original, em catálogo, mas importado."}
-  - {edition: "The Barefoot Architect, Shelter Publications, 2008", note: "Em inglês."}
+  - {edition: "Manual del arquitecto descalzo (espanhol)", note: "O original em espanhol, à venda nova, mas precisa ser importado."}
+  - {edition: "The Barefoot Architect, Shelter Publications, 2008", note: "Tradução para o inglês; ficou de fora por não ser em português."}
 ---
 
 ## Sobre a obra

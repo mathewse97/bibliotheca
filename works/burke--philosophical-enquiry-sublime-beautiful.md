@@ -54,8 +54,8 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Edipro, 2016", note: "Tradução competente, sem apresentação nem notas."}
-  - {edition: "Edições 70 (Lisboa), 2013", note: "Portuguesa."}
+  - {edition: "Edipro, 2016", note: "Tradução competente de Daniel Moreira Miranda, mas sem apresentação nem notas que ajudem a ler."}
+  - {edition: "Edições 70 (Lisboa), 2013", note: "Tradução em português de Portugal, de tradutor não identificado; precisa ser importada."}
 ---
 
 ## Sobre a obra

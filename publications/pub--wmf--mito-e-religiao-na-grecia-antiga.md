@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: vernant--mythe-et-religion-en-grece-ancienne
-    why: "A tradução brasileira mais recente, direta do francês, em catálogo."
+    why: "A tradução brasileira mais recente, feita direto do francês por Joana Angélica D'Avila Melo, e à venda nova."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [davila-melo]

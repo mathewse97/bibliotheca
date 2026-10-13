@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: osborne--greece-in-the-making
-    why: "A 2ª edição, reescrita pelo autor; a única tradução, espanhola, é da primeira versão."
+    why: "O original em inglês, na 2ª edição (2009), reescrita pelo próprio autor. Não há tradução em português, e a única tradução existente, em espanhol, é da versão anterior."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

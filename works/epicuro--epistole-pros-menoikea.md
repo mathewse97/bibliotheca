@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cartas & Máximas principais, Penguin-Companhia, trad. Maria Cecília Gomes dos Reis", note: "Mais notas e as três cartas; não é claramente melhor para esta carta."}
+  - {edition: "Cartas & Máximas principais, Penguin-Companhia, trad. Maria Cecília Gomes dos Reis", note: "Traz mais notas e as três cartas de Epicuro, mas não parece claramente melhor para ler esta carta."}
 ---
 
 ## Sobre a obra

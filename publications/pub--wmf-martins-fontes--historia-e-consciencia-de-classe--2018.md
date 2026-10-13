@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: lukacs--geschichte-und-klassenbewusstsein
-    why: "Única tradução brasileira integral em catálogo, direta do alemão."
+    why: "Tradução completa de Rodnei Nascimento, direto do alemão; é a única tradução brasileira integral e está à venda nova. Segue o texto das obras completas do autor, igual ao da primeira edição, de 1923."
     verdict: unassessed
     reason: "Escolhida em 2026-10-09: única tradução brasileira integral em catálogo, direta do alemão, sobre o texto das Obras Completas (Luchterhand, 1968). Ver a seção Edições da obra."
     translator: [rodnei-nascimento]

@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Direta e muito anotada, mas em nove volumes, talvez ainda incompleta."}
+  - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Também direta do grego e com muitas notas, mas dividida em nove volumes, e talvez ainda não publicada por inteiro."}
 ---
 
 ## Sobre a obra

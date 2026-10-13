@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: popper--the-open-society
-    why: "Integral, em catálogo, com prefácio acadêmico. Em português de Portugal, em dois volumes."
+    why: "Tradução integral de Miguel Freitas da Costa, feita direto do inglês e revista por Pedro Bernardo, com prefácio de João Carlos Espada, especialista em Popper. Volume 1 de 2. Português de Portugal; precisa ser importada, mas se compra nova."
     verdict: unassessed
     reason: "Volume 1 de 2 — candidato A do cartão d-ed-popper. A obra só fica inteira com o vol. 2 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013)."
     translator: [miguel-freitas-da-costa]

@@ -30,6 +30,7 @@ source_of_record: claude
 
 contains:
   - work: agostinho--de-civitate-dei
+    why: "Terceiro e último volume da mesma tradução completa de J. Dias Pereira, feita direto do latim. É português de Portugal e precisa ser importado."
     verdict: unassessed
     reason: "Volume 3 de 3."
     translator: []

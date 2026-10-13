@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hesiodo--erga-kai-hemerai
-    why: "Tradução direta do grego, de Christian Werner, com introdução e notas; forma par com a Teogonia do mesmo tradutor."
+    why: "Tradução de Christian Werner, direto do grego, com introdução que situa o poema e notas que explicam nomes e alusões."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [christian-werner]

@@ -38,7 +38,7 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Instituto Plantarum, 2014", note: "A 1ª edição, superada pela 2ª."}
+  - {edition: "Instituto Plantarum, 2014", note: "A 1ª edição, de 2014, substituída pela 2ª, de 2021."}
 ---
 
 ## Sobre a obra

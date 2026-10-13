@@ -40,7 +40,7 @@ source_of_record: voce
 
 contains:
   - work: newman--the-idea-of-a-university
-    why: "Tradução de Bruno Alexander, em catálogo, escolhida por você. Ainda não foi comparada com a outra tradução brasileira, da EDUSC."
+    why: "Escolha sua: a tradução de Bruno Alexander, fácil de comprar nova. Ainda não foi comparada com a outra tradução brasileira, da EDUSC, nem se conferiu se está completa."
     verdict: unassessed
     reason: "Edição escolhida pelo Mathews; tradução e completude não
              examinadas, alternativa da EDUSC não pesquisada."

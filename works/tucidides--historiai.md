@@ -30,7 +30,7 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Editora UnB, 1982", note: "A mesma tradução; só usada."}
+  - {edition: "Editora UnB, 1982", note: "A mesma tradução de Kury na edição anterior; ficou de fora por só ser encontrada usada."}
 ---
 
 ## Sobre a obra

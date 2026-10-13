@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: lorenzi-matos--plantas-medicinais-no-brasil
-    why: "A referência técnico-científica sobre plantas medicinais no Brasil, na edição mais recente."
+    why: "Livro escrito em português, sem tradução a avaliar. Esta é a edição mais recente, de 2021, pelo Instituto Plantarum, à venda nova; foi preferida aos livros de Balbach por ser uma obra de referência técnica e científica."
     verdict: unassessed
     reason: "Escolhida em 2026-10-10 (curadoria das fotos; inclusão aprovada pelo Mathews): a referência técnico-científica no lugar dos livros de Balbach. Edição mais recente."
     translator: null

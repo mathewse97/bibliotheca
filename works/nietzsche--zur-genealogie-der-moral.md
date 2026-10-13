@@ -45,7 +45,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "L&PM, 2018, e edições populares", note: "Sem tradutor ou aparato que as ponham na mesma faixa."}
+  - {edition: "L&PM, 2018, e edições populares", note: "Edições sem tradutor conhecido nem introdução ou notas que as ponham à altura desta."}
 ---
 
 ## Sobre a obra

@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: eliade--traite-dhistoire-des-religions
-    why: "Tradução direta do francês, com o prefácio de Georges Dumézil, em catálogo."
+    why: "Traduzida direto do francês original por Fernando Tomaz e Natália Nunes, com o prefácio de Georges Dumézil. Fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [fernando-tomaz, natalia-nunes]

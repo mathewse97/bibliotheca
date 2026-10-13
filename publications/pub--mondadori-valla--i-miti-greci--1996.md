@@ -37,6 +37,7 @@ source_of_record: claude
 
 contains:
   - work: pseudo-apolodoro--bibliotheke
+    why: "A edição mais rica em explicações: tradução italiana de Maria Grazia Ciani, com introdução, mais de 400 páginas de comentário de Paolo Scarpi, professor de história das religiões, e índice dos mitos. Hoje não se consegue comprar no Brasil."
     verdict: recommended
     reason: "Edição de referência em comentário. O curador, Paolo Scarpi, é
              professor titular de História das Religiões na Universidade de

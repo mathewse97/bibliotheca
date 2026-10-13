@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: campbell--the-hero-with-a-thousand-faces
-    why: "A tradução mais nova, feita sobre a edição definitiva da Fundação Joseph Campbell."
+    why: "A tradução mais nova, de Camilo Francisco Ghorayeb e Heráclito Aragão Pinheiro, feita sobre a versão definitiva do texto, preparada pela Fundação Joseph Campbell. À venda nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [ghorayeb, heraclito-pinheiro]

@@ -29,7 +29,7 @@ source_of_record: claude
 
 contains:
   - work: van-lengen--manual-del-arquitecto-descalzo
-    why: "Única edição em português. Esgotada: procurar usada."
+    why: "A única edição em português. Está esgotada e só se acha usada; não se sabe se foi traduzida direto do espanhol, e ela ainda não foi avaliada."
     verdict: unassessed
     reason: "Não avaliada."
     translator: []               # não consta

@@ -33,7 +33,7 @@ source_of_record: claude
 
 contains:
   - work: bauer-wise--the-well-trained-mind
-    why: "A tradução brasileira, escolhida por você em vez da 4ª edição americana. As duas ainda não foram comparadas."
+    why: "Escolha sua entre as duas edições que você indicou; a outra é a 4ª edição americana, em inglês. Tradução brasileira à venda nova, de tradutor não identificado; as duas ainda não foram comparadas."
     verdict: unassessed
     reason: "Uma das duas edições que você indicou para esta obra (a outra é a 4ª edição americana). Não comparadas."
     translator: []

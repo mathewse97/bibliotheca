@@ -53,8 +53,8 @@ pending_assignment:
 
 updated: 2026-10-10
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Terracota, 2022 (espanhol)", note: "O original, atualizado; importado."}
-  - {edition: "Hesperian, 2022 (inglês)", note: "Atualizada; importada."}
+  - {edition: "Terracota, 2022 (espanhol)", note: "O original em espanhol, atualizado em 2022; precisa ser importado."}
+  - {edition: "Hesperian, 2022 (inglês)", note: "A edição em inglês, atualizada; precisa ser importada."}
 ---
 
 ## Sobre a obra

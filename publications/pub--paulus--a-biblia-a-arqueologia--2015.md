@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda
-    why: "O livro foi escrito em português; esta é a edição da Paulus, em catálogo."
+    why: "O livro foi escrito em português, então não há tradução a avaliar. Esta é a edição da Paulus, de 2015, fácil de comprar nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: []

@@ -50,7 +50,7 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Biblioteca Azul, 2014, trad. Lino Vallandro e Vidal de Oliveira", note: "A tradução clássica, sem os textos de apoio."}
+  - {edition: "Biblioteca Azul, 2014, trad. Lino Vallandro e Vidal de Oliveira", note: "A tradução antiga, pela qual o livro foi lido no Brasil por décadas; ficou de fora por não trazer os textos de apoio."}
 ---
 
 ## Sobre a obra

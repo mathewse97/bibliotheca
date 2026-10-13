@@ -47,8 +47,8 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Paidós, 2019", note: "Direta do francês, mas em espanhol."}
-  - {edition: "Zahar, edição antiga em tomos", note: "A mesma tradução; só usada."}
+  - {edition: "Paidós, 2019", note: "Também traduzida direto do francês, mas em espanhol."}
+  - {edition: "Zahar, edição antiga em tomos", note: "A mesma tradução, numa edição antiga dividida em tomos; só se acha usada."}
 ---
 
 ## Sobre a obra

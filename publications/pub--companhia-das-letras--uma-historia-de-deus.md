@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: armstrong--a-history-of-god
-    why: "Única tradução brasileira, feita do inglês por Marcos Santarrita."
+    why: "A única tradução brasileira, feita do inglês por Marcos Santarrita, à venda nova."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [santarrita]

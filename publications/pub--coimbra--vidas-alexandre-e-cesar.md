@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--alexandros
-    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
+    why: "Traduzida direto do grego por Maria de Fátima Silva e José Luís Brandão, com introdução que situa a obra e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de César. Português de Portugal. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [fatima-silva, brandao]
@@ -40,7 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: plutarco--kaisar
-    why: "Tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas."
+    why: "Traduzida direto do grego por Maria de Fátima Silva e José Luís Brandão, com introdução que situa a obra e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de Alexandre. Português de Portugal. Ainda não foi comparada com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [fatima-silva, brandao]

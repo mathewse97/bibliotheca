@@ -30,8 +30,8 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Companhia das Letras, 1989", note: "A mesma tradução em formato maior; esgotada."}
-  - {edition: "Dom Quixote (Lisboa), 2024", note: "Portuguesa e importada."}
+  - {edition: "Companhia das Letras, 1989", note: "A mesma tradução de Raposo em formato maior, mais confortável de ler, mas esgotada; só se acha usada."}
+  - {edition: "Dom Quixote (Lisboa), 2024", note: "Tradução portuguesa, de tradutor não identificado; precisa ser importada e custa bem mais."}
 ---
 
 ## Sobre a obra

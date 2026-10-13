@@ -38,7 +38,7 @@ source_of_record: claude
 
 contains:
   - work: brown-roediger-mcdaniel--make-it-stick
-    why: "Única tradução brasileira, com notas, leituras sugeridas e apresentação brasileira."
+    why: "A única tradução brasileira, de Henrique de Oliveira Guerra, à venda nova, com notas, sugestões de leitura, índice e apresentação de Claudio de Moura Castro, que revisou os termos técnicos. Não há outra para comparar."
     verdict: unassessed
     reason: "Candidato único: não há outra tradução brasileira desta obra para
              comparar, e sem alternativa examinada não há veredito honesto.

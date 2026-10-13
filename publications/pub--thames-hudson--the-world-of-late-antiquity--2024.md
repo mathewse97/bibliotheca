@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: brown-peter--the-world-of-late-antiquity
-    why: "A reedição de 2024 da Thames & Hudson, com 130 ilustrações. A tradução portuguesa de 1972 não foi confirmada."
+    why: "A reedição de 2024 da Thames & Hudson, com 130 ilustrações, em inglês. Ainda não se verificou se é fácil de comprar no Brasil."
     verdict: unassessed
     reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
     translator: []

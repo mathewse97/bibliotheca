@@ -48,8 +48,8 @@ provenance:
     confidence: verified
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "The Letters and Instructions of Francis Xavier, Institute of Jesuit Sources, 1992", note: "Tradução inglesa anotada, mas só as cartas e em inglês."}
-  - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original castelhano, com notas; só usado."}
+  - {edition: "The Letters and Instructions of Francis Xavier, Institute of Jesuit Sources, 1992", note: "Tradução inglesa com notas, mas só traz as cartas e é em inglês."}
+  - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original em castelhano, com notas; só encontrado usado."}
 ---
 
 ## Sobre a obra

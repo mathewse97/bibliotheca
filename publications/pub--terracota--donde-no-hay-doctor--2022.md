@@ -31,6 +31,7 @@ source_of_record: claude
 
 contains:
   - work: werner--donde-no-hay-doctor
+    why: "O original em espanhol, na nova edição de 2022, atualizada com HIV e aids, dengue e Zika; num manual de saúde, informação recente é essencial. Precisa ser importada."
     verdict: unassessed
     reason: "Era o candidato recomendado do cartão d-ed-werner, arquivado em 2026-10-10: a obra saiu de Sobrevivência (cartão d-sob-medicina)."
     translator: null

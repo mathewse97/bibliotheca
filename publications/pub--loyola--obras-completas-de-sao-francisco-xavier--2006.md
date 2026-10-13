@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: xavier--epistolae
-    why: "Todos os escritos de Xavier, cartas e instruções, num só volume em português."
+    why: "Todos os escritos conhecidos de Xavier, cartas e instruções, num só volume em português, traduzidos direto do original por Francisco de Sales Baptista. É usada em artigos acadêmicos brasileiros; notas e facilidade de compra não confirmadas."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-xavier), no lugar da tradução inglesa do Institute of Jesuit Sources: é completa e em português. Usada em artigos acadêmicos brasileiros sobre Xavier. Notas e disponibilidade não confirmadas."
     translator: [francisco-de-sales-baptista]

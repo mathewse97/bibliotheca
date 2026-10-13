@@ -30,8 +30,8 @@ derived_from:
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-05
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Vozes, 1992, trad. Álvaro Valls", note: "A mais citada no Brasil, mas esgotada e sem o aparato sobre as três versões do texto."}
-  - {edition: "Del Rey, 2008", note: "Traz também a Teoria do partisan; tradução não avaliada."}
+  - {edition: "Vozes, 1992, trad. Álvaro Valls", note: "Tradução de Álvaro Valls, a mais citada no Brasil, mas esgotada e sem as notas sobre as três versões do texto."}
+  - {edition: "Del Rey, 2008", note: "Tradução de Geraldo de Carvalho, à venda nova e com a Teoria do partisan junto; não se sabe de que língua foi traduzida nem se é fiel."}
 ---
 
 ## Sobre a obra

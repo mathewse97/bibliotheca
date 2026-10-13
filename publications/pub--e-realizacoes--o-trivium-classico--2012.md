@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: mcluhan--the-classical-trivium
-    why: "A única tradução brasileira, de Hugo Langone, em catálogo."
+    why: "A única tradução brasileira, de Hugo Langone, feita direto do original e fácil de comprar nova."
     verdict: unassessed
     reason: "Única edição brasileira. Resolve a dúvida registrada na coleção: Hugo Langone é o tradutor, não coautor."
     translator: ["Hugo Langone"]

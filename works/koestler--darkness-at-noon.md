@@ -57,8 +57,8 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "O zero e o infinito, Globo, 1987", note: "Traduzida do inglês, não do original alemão."}
-  - {edition: "O zero e o infinito, Amarylis, 2013", note: "Também a partir do inglês."}
+  - {edition: "O zero e o infinito, Globo, 1987", note: "Traduzida da versão inglesa, e não do original alemão: uma tradução de tradução."}
+  - {edition: "O zero e o infinito, Amarylis, 2013", note: "Ao que tudo indica, também traduzida da versão inglesa, e não do alemão; não foi verificada."}
 ---
 
 ## Sobre a obra

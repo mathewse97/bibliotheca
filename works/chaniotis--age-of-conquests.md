@@ -36,8 +36,8 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "A History of the Hellenistic World, 323–30 BC, R. Malcolm Errington, Blackwell, 2008", note: "Narrativa política mais detalhada do mesmo período; fica para aprofundamento."}
-  - {edition: "The Greek World after Alexander, 323–30 BC, Graham Shipley, Routledge, 2000", note: "Boa introdução, mais antiga e de recorte parecido."}
+  - {edition: "A History of the Hellenistic World, 323–30 BC, R. Malcolm Errington, Blackwell, 2008", note: "Outro livro, de R. Malcolm Errington, com relato político mais detalhado do mesmo período; bom para aprofundar depois."}
+  - {edition: "The Greek World after Alexander, 323–30 BC, Graham Shipley, Routledge, 2000", note: "Outro livro, de Graham Shipley: boa introdução, porém mais antiga e com recorte parecido."}
 ---
 
 ## Sobre a obra
