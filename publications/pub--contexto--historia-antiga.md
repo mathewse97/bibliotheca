@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: guarinello--historia-antiga
-    why: "Original em português, em catálogo."
+    why: "O livro foi escrito em português; esta é a edição da Contexto, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: []

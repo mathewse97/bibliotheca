@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: vargas-llosa--la-civilizacion-del-espectaculo
-    why: "Sua escolha: a tradução brasileira."
+    why: "Tradução de Ivone Benedetti, direta do espanhol, escolhida por você no lugar do original."
     verdict: unassessed
     reason: "Escolhida pelo Mathews para a coleção Cultura. O original espanhol (Alfaguara, 2012) também foi indicado, mas saiu do registro em 2026-10-10: a edição escolhida basta."
     translator: [ivone-benedetti]

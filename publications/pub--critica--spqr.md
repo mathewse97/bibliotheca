@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: beard--spqr
-    why: "A tradução brasileira, em catálogo."
+    why: "Tradução brasileira de Luis Reyes Gil, em catálogo."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [reyes-gil]

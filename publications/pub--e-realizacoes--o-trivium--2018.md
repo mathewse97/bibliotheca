@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: miriam-joseph--the-trivium
-    why: "Única edição brasileira."
+    why: "A única tradução brasileira, de Henrique Paul Dmyterko, com prólogo de Carlos Nougué, em catálogo."
     verdict: unassessed
     reason: "Única edição brasileira. Resolve a dúvida da coleção: Carlos Nougué assina o prólogo, e o tradutor é Henrique Paul Dmyterko."
     translator: ["Henrique Paul Dmyterko"]

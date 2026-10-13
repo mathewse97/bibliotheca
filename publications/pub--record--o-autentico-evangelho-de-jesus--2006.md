@@ -28,7 +28,7 @@ source_of_record: voce
 
 contains:
   - work: vermes--the-authentic-gospel-of-jesus
-    why: "Única tradução em português."
+    why: "A única tradução em português, de Renato Aguiar."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
     reason: null
     translator: [renato-aguiar]

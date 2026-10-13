@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: rothbard--anatomy-of-the-state
-    why: "Sua escolha, em catálogo pela Vide."
+    why: "Tradução de Matheus Pacini, em catálogo, escolhida por você no lugar da tradução anterior do Instituto Mises Brasil."
     verdict: unassessed
     reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Instituto Mises Brasil, trad. Tiago Chabert)."
     translator: ["Matheus Pacini"]
