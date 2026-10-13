@@ -24,6 +24,12 @@ image:                      # foto de fundo do cartão — interface-rules.md §
 # pseudo-apolodoro--bibliotheke, que NÃO vem da lista de origem — entrou
 # por pesquisa, no movimento II, com a sua aprovação nessa data.
 #
+# ATUALIZAÇÃO 2026-10-13: entram sete participações, por decisão do Mathews:
+# Rhodes e Brosius (VII), Chaniotis (VIII) e um movimento novo, XI.
+# Antiguidade tardia (Brown, Mitchell, Cameron e Agostinho, A Cidade de Deus).
+# O antigo XI (Legado) passa a XII; registros anteriores a esta data que citam
+# "seção XI" referem-se ao Legado.
+#
 # A coleção tem 74 membros, não 57. A diferença vem inteiramente da expansão
 # de três entradas de VOLUME em obras individuais (decisão sua, 2026-09-12):
 # ver `structural_changes`. Nenhuma obra foi acrescentada, nenhuma removida.
@@ -120,7 +126,7 @@ scope_map:
     - {id: ciencia-e-medicina-antigas, coverage: absent, pursuit: open,
        note: "Matemática, astronomia, medicina e história natural como parte
               da mesma transformação intelectual que produziu a filosofia."}
-    - {id: helenismo, coverage: thin, pursuit: open,
+    - {id: helenismo, coverage: covered, pursuit: open,
        note: "A expansão macedônica, os reinos sucessores, e as escolas
               filosóficas que respondem à perda do mundo da pólis."}
     - {id: roma-republicana-fontes-antigas, coverage: absent, pursuit: open,
@@ -134,9 +140,17 @@ scope_map:
     - {id: filosofia-romana, coverage: covered, pursuit: open,
        note: "A apropriação romana da filosofia grega como disciplina moral e
               prática de vida."}
-    - {id: religiao-romana-e-cristianismo-antigo, coverage: absent, pursuit: open,
+    - {id: religiao-romana-e-cristianismo-antigo, coverage: thin, pursuit: open,
        note: "Culto romano, religiões do Império, e o cristianismo enquanto
-              fenômeno do mundo antigo."}
+              fenômeno do mundo antigo. Desde 2026-10-13 só pela Antiguidade
+              tardia (Brown, Cameron, Agostinho); culto romano continua
+              ausente."}
+    # REGIÃO NOVA, 2026-10-13, com o movimento XI — decisão do Mathews.
+    - {id: antiguidade-tardia, coverage: covered, pursuit: open,
+       note: "Do Império de Diocleciano ao fim do mundo romano no Mediterrâneo
+              (c. 284–600/700): política, sociedade, economia, cristianização e
+              cultura. É a 'transformação' da pergunta da coleção. Bizâncio
+              depois de c. 641 fica fora."}
     - {id: tecnica-e-materialidade-romanas, coverage: thin, pursuit: open,
        note: "Guerra, engenharia, agronomia, administração e direito: a
               infraestrutura técnica e jurídica que sustentou o Império.
@@ -773,6 +787,18 @@ sequence:
     # Grécia) e Highet foram para o movimento XI, por decisão sua de
     # 2026-09-12. Ver `order_changes`.
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. Posição minha: abre o
+  # movimento como narrativa do período, como Guarinello abre o I.
+  - work: rhodes--a-history-of-the-classical-greek-world
+    role: foundational
+    demand: moderado
+    why_here: "Dá a narrativa contínua de 478 a 323 a.C. que as fontes deste
+               movimento pressupõem: o império ateniense, a Guerra do
+               Peloponeso, o século IV e a Macedônia. Hansen e Finley dão a
+               profundidade; aqui está a sequência dos fatos."
+    why_here_by: claude
+    inserted_by: claude
+
   - work: herodoto--historiai
     role: primary-source
     demand: exigente
@@ -783,6 +809,17 @@ sequence:
     perspective: "Historiografia grega e investigação do passado."
     subjects_stated: [guerras-medicas, povos, costumes, religiao, politica,
                       memoria, gregos-e-persas, explicacao-historica]
+
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. A obra é membro principal
+  # de Oriente Próximo e Egito antigos.
+  - work: brosius--a-history-of-ancient-persia
+    role: critical-response
+    demand: moderado
+    why_here: "O outro lado de Heródoto: o império persa reconstituído pelas
+               suas próprias fontes e pela arqueologia, e as fontes gregas
+               lidas como fontes, não como descrição."
+    why_here_by: claude
+    inserted_by: claude
 
   # PARTICIPAÇÃO NOVA sobre registro existente (Política).
   - work: tucidides--historiai
@@ -895,6 +932,17 @@ sequence:
     perspective: "História de Alexandre e do mundo macedônico."
     subjects_stated: [macedonia, conquista-persa, expansao-grega, imperio,
                       guerra, politica, mundo-helenistico]
+
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13.
+  - work: chaniotis--age-of-conquests
+    role: foundational
+    demand: moderado
+    why_here: "Cobre o que vem depois de Alexandre: os reinos sucessores, a
+               conquista romana, as cidades, a religião e a cultura, até
+               Adriano. É o mundo em que Epicuro e as escolas helenísticas
+               respondem."
+    why_here_by: claude
+    inserted_by: claude
 
   - work: epicuro--epistole-pros-menoikea
     role: primary-source
@@ -1035,7 +1083,57 @@ sequence:
                       autocontrole, destino, responsabilidade]
     requires: [epicteto--encheiridion]
 
-  - movement: "XI. Legado e interpretação moderna do mundo greco-romano"
+  # MOVIMENTO NOVO — decisão sua de 2026-10-13. Título e propósito meus,
+  # aprovados por você. Ordem minha: o ensaio que define o período, a
+  # narrativa política, a sociedade e a economia, e a fonte antiga.
+  - movement: "XI. Antiguidade tardia"
+    purpose: "Do Império de Diocleciano ao fim do mundo romano no
+              Mediterrâneo: como Roma se transformou, se cristianizou e
+              transmitiu a herança clássica."
+    purpose_by: claude
+    title_by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+    regions: [antiguidade-tardia, religiao-romana-e-cristianismo-antigo]
+
+  - work: brown-peter--the-world-of-late-antiquity
+    role: foundational
+    demand: leve
+    why_here: "O ensaio que definiu o campo: o período como criação religiosa e
+               cultural, e não como decadência. Curto, abre o movimento e dá a
+               tese contra a qual os outros livros se medem."
+    why_here_by: claude
+    inserted_by: claude
+
+  - work: mitchell--a-history-of-the-later-roman-empire
+    role: foundational
+    demand: exigente
+    why_here: "A narrativa política, institucional e militar de 284 a 641: o
+               esqueleto dos fatos que Brown interpreta."
+    why_here_by: claude
+    inserted_by: claude
+
+  - work: cameron--the-mediterranean-world-in-late-antiquity
+    role: foundational
+    demand: moderado
+    why_here: "Sociedade, economia, cidade e campo, cultura e vida privada de
+               395 a 700, e o debate entre declínio e continuidade que separa
+               Brown de Mitchell."
+    why_here_by: claude
+    inserted_by: claude
+
+  # PARTICIPAÇÃO NOVA sobre registro existente (Política).
+  - work: agostinho--de-civitate-dei
+    role: primary-source
+    demand: exigente
+    why_here: "A resposta cristã ao saque de Roma de 410: a fonte antiga em que
+               a herança romana é julgada e reinterpretada por dentro."
+    why_here_by: claude
+    inserted_by: claude
+    scope: "Em Política ela entra pela teoria das duas cidades; aqui, como
+            documento da transformação do mundo romano."
+
+  - movement: "XII. Legado e interpretação moderna do mundo greco-romano"
     purpose: "Como a cultura clássica passou a ser estudada, reinterpretada e
               incorporada pela tradição ocidental."
     purpose_by: voce
@@ -1110,7 +1208,9 @@ paths:
             finley--the-ancient-greeks, everitt--the-rise-of-athens,
             kirk-raven-schofield--the-presocratic-philosophers,
             mckirahan--philosophy-before-socrates,
+            brosius--a-history-of-ancient-persia,
             herodoto--historiai,
+            rhodes--a-history-of-the-classical-greek-world,
             esquilo--oresteia,
             sofocles--antigone, sofocles--oidipous-tyrannos,
             euripides--medeia, euripides--herakleidai, euripides--hippolytos,
@@ -1129,6 +1229,7 @@ paths:
             aristoteles--ta-meta-ta-physika,
             martin-blackwell--alexander-the-great,
             epicuro--epistole-pros-menoikea,
+            chaniotis--age-of-conquests,
             virgilio--aeneis, ovidio--metamorphoses,
             cicero--de-officiis, seneca--epistulae-morales-ad-lucilium,
             epicteto--encheiridion, marco-aurelio--ta-eis-heauton,
@@ -1137,6 +1238,10 @@ paths:
             plutarco--kaisar,
             apuleio--metamorphoses-asinus-aureus,
             vegecio--epitoma-rei-militaris,
+            brown-peter--the-world-of-late-antiquity,
+            mitchell--a-history-of-the-later-roman-empire,
+            agostinho--de-civitate-dei,
+            cameron--the-mediterranean-world-in-late-antiquity,
             mikalson--ancient-greek-religion, burkert--griechische-religion,
             vernant--les-origines-de-la-pensee-grecque,
             vernant--mythe-et-religion-en-grece-ancienne,
@@ -1222,6 +1327,64 @@ original_order: [guarinello--historia-antiga, osborne--greece-in-the-making,
   campbell--the-hero-with-a-thousand-faces]
 
 order_changes:
+  - work: rhodes--a-history-of-the-classical-greek-world
+    from: "não estava na biblioteca"
+    to: "seção VII, abrindo o movimento"
+    reason: "Narrativa do período clássico escolhida por você; posição minha."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: brosius--a-history-of-ancient-persia
+    from: "não estava na biblioteca"
+    to: "seção VII, depois de Heródoto"
+    reason: "O império persa visto além das fontes gregas; posição minha."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: chaniotis--age-of-conquests
+    from: "não estava na biblioteca"
+    to: "seção VIII, depois de Alexandre e antes de Epicuro"
+    reason: "O mundo helenístico depois de Alexandre; posição minha."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: brown-peter--the-world-of-late-antiquity
+    from: "não estava na coleção"
+    to: "movimento novo XI. Antiguidade tardia, antes do Legado (agora XII)"
+    reason: "A pergunta da coleção termina em 'transformada e transmitida';
+             a sequência saltava de Roma imperial para a recepção moderna.
+             Movimento e ordem propostos por mim e aprovados por você."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: mitchell--a-history-of-the-later-roman-empire
+    from: "não estava na coleção"
+    to: "movimento novo XI. Antiguidade tardia, antes do Legado (agora XII)"
+    reason: "A pergunta da coleção termina em 'transformada e transmitida';
+             a sequência saltava de Roma imperial para a recepção moderna.
+             Movimento e ordem propostos por mim e aprovados por você."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: cameron--the-mediterranean-world-in-late-antiquity
+    from: "não estava na coleção"
+    to: "movimento novo XI. Antiguidade tardia, antes do Legado (agora XII)"
+    reason: "A pergunta da coleção termina em 'transformada e transmitida';
+             a sequência saltava de Roma imperial para a recepção moderna.
+             Movimento e ordem propostos por mim e aprovados por você."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+  - work: agostinho--de-civitate-dei
+    from: "não estava na coleção"
+    to: "movimento novo XI. Antiguidade tardia, antes do Legado (agora XII)"
+    reason: "A pergunta da coleção termina em 'transformada e transmitida';
+             a sequência saltava de Roma imperial para a recepção moderna.
+             Movimento e ordem propostos por mim e aprovados por você."
+    by: claude
+    approved_by: voce
+    approved_on: 2026-10-13
+
   - work: cline--1177-bc
     from: "não estava na biblioteca"
     to: "seção I, depois de guarinello--historia-antiga"
@@ -1327,18 +1490,18 @@ structural_changes:
     library_effect: "Nenhum."
     membership_effect: "Nenhum."
 
-updated: 2026-10-05
+updated: 2026-10-13
 ---
 
 ## Por que esta ordem
 
-A ordem segue um caminho em treze etapas:
+A ordem segue um caminho em catorze etapas:
 
 > contexto histórico → formação da Grécia → poesia e mito → religião grega →
 > tragédia → nascimento da filosofia → Sócrates, Platão e Aristóteles →
 > historiografia e política → Alexandre e Helenismo → Roma → literatura e
-> religiões romanas → estoicismo romano → legado clássico e interpretações
-> modernas
+> religiões romanas → estoicismo romano → Antiguidade tardia → legado clássico e
+> interpretações modernas
 
 **A ordem não é cronológica: mostra como uma coisa nasce da outra.** O mito
 vira religião praticada, a religião vira drama, o drama vira pergunta
