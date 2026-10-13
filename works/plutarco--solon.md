@@ -32,7 +32,7 @@ derived_from:
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Gredos, Vidas paralelas II, 2024", note: "A mesma tradução espanhola de Pérez Jiménez, direta do grego e anotada, mas em espanhol e importada."}
+  - {edition: "Gredos, Vidas paralelas II, 2024", note: "Tradução espanhola de Aurelio Pérez Jiménez, direta do grego e com notas; ficou como alternativa por ser em espanhol e importada."}
   - {edition: "Vida de Sólon, Relógio d'Água, 1999", note: "Tradução de Delfim Leão, mas só da vida de Sólon, sem a de Publícola, que Plutarco escreveu para ser lida em par."}
 ---
 

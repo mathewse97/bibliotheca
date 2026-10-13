@@ -44,7 +44,7 @@ derived_from:
 provenance: []
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Bíblia de Jerusalém, Paulus", note: "Tem notas excelentes, mas a tradução foi feita por uma equipe e segue uma orientação religiosa, ao contrário da de Lourenço."}
+  - {edition: "Bíblia de Jerusalém, Paulus", note: "Tem notas excelentes, mas a tradução foi feita por uma equipe e segue uma orientação religiosa; a escolhida, de Frederico Lourenço, explica o texto sem tomar partido."}
 ---
 
 ## Sobre a obra

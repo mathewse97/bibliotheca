@@ -265,3 +265,8 @@ catálogo", "helenista", "direta" sem mais nada não dizem por que importa.
   ainda não foi comparada.
 - As notas de `editions_considered` dizem, em palavras simples, por que
   aquela edição não foi a escolhida.
+- **Cada texto se entende sozinho** (acréscimo de 2026-10-13, pedido do
+  Mathews). Nada de "a mesma tradução", "como a escolhida", "desta edição" ou
+  tradutor só pelo sobrenome: o leitor pode ler uma linha sem ter lido as
+  outras. Nome completo do tradutor e, quando ajuda e há fonte, quem ele é
+  ("tradutor brasileiro de muitos clássicos gregos").

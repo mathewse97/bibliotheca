@@ -56,7 +56,7 @@ derived_from:
 
 updated: 2026-10-10
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "NightWatch, Firefly, 2023", note: "Do mesmo autor, mais curto e centrado em mapas do céu por estação; ensina menos sobre técnica e equipamento."}
+  - {edition: "NightWatch, Firefly, 2023", note: "Outro livro de Terence Dickinson, mais curto e centrado em mapas do céu por estação; ensina menos sobre técnica e equipamento."}
   - {edition: "Turn Left at Orion, Cambridge, 2019", note: "Um guia do que observar no céu, com capítulo do hemisfério sul, mas não ensina técnica nem equipamento."}
 ---
 

@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Brasiliense, 1984", note: "Tradução brasileira anterior, esgotada."}
+  - {edition: "Brasiliense, 1984", note: "A primeira tradução brasileira, de 1984, pela Brasiliense; esgotada."}
 ---
 
 ## Sobre a obra

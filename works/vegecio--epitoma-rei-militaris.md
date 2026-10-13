@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Imprensa da Universidade de Coimbra, 2009", note: "O mesmo texto na edição original de Coimbra, importada; há versão digital gratuita. É o caminho se a brasileira não aparecer."}
+  - {edition: "Imprensa da Universidade de Coimbra, 2009", note: "O texto de João Gouveia Monteiro e José Eduardo Braga na edição original da Universidade de Coimbra, importada; há versão digital gratuita. Serve se a edição brasileira não aparecer."}
 ---
 
 ## Sobre a obra

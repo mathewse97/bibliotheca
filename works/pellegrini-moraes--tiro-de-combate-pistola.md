@@ -42,7 +42,7 @@ derived_from:
 
 updated: 2026-09-06
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "1ª edição", note: "A edição anterior, substituída pela 2ª, de 2022."}
+  - {edition: "1ª edição", note: "A primeira edição do manual, substituída pela 2ª, de 2022."}
 ---
 
 ## Sobre a obra

@@ -50,7 +50,7 @@ provenance:
     confidence: reported
 updated: 2026-09-20
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cosmos / Asa (Portugal)", note: "A mesma tradução, em edição portuguesa que está esgotada."}
+  - {edition: "Cosmos / Asa (Portugal)", note: "A tradução de Fernando Tomaz e Natália Nunes numa edição portuguesa, esgotada."}
 ---
 
 ## Sobre a obra

@@ -31,8 +31,8 @@ derived_from:
 updated: 2026-10-13
 editions_considered:
   - {edition: "Edipro, 2021, trad. Chiu Yi Chih, bilíngue", note: "Traduzida direto do chinês, com o original ao lado, mas curta, sem notas nem comentários, e vendida como livro de lições profissionais."}
-  - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O mesmo trabalho de Minford no original em inglês, traduzido direto do chinês; ficou de fora por ser em inglês."}
-  - {edition: "WMF Martins Fontes, 2014, ed. Ralph D. Sawyer", note: "Traduzida do inglês como a escolhida, mas sem os comentários dos antigos leitores chineses."}
+  - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O trabalho de John Minford no original em inglês, traduzido direto do chinês, com os mesmos comentários; ficou de fora por ser em inglês."}
+  - {edition: "WMF Martins Fontes, 2014, ed. Ralph D. Sawyer", note: "Tradução de Ana Aguiar Cotrim feita sobre a versão inglesa de Ralph D. Sawyer, e não do chinês; não traz os comentários dos antigos leitores chineses."}
 ---
 
 ## Sobre a obra

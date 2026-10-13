@@ -49,7 +49,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Martins Fontes, 2003", note: "A mesma tradução, numa edição anterior da Martins Fontes; hoje só se acha usada."}
+  - {edition: "Martins Fontes, 2003", note: "A tradução de Rodnei Nascimento numa edição de 2003 da Martins Fontes; hoje só se acha usada."}
 ---
 
 ## Sobre a obra

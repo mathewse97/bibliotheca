@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "O Encheirídion de Epicteto, Coimbra / Annablume, trad. Aldo Dinucci e Alfredo Julien", note: "Dos mesmos tradutores, com o grego ao lado, introdução e comentário; a escolha entre ela e a da Penguin ainda está em aberto."}
+  - {edition: "O Encheirídion de Epicteto, Coimbra / Annablume, trad. Aldo Dinucci e Alfredo Julien", note: "Dos tradutores Aldo Dinucci e Alfredo Julien, com o grego ao lado, introdução e comentário. Você ainda vai escolher entre esta e a da Penguin-Companhia."}
 ---
 
 ## Sobre a obra

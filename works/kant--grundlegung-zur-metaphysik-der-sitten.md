@@ -51,7 +51,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Discurso Editorial / Barcarolla, 2009", note: "A mesma tradução de Guido de Almeida, com o alemão ao lado, mas sem as correções de 2025; só se acha usada."}
+  - {edition: "Discurso Editorial / Barcarolla, 2009", note: "Tradução de Guido Antônio de Almeida com o alemão ao lado, mas na versão de 2009, sem as correções que ele fez em 2025; só se acha usada."}
   - {edition: "Edições 70, trad. Paulo Quintela", note: "A tradução clássica de Paulo Quintela, também usada em cursos, mas em português de Portugal e com menos introdução e notas nas edições baratas."}
   - {edition: "Martin Claret, 2019", note: "Edição popular, traduzida por Inês A. Lohbauer; não se confirmou se traz introdução ou notas."}
 ---

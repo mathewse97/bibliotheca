@@ -36,7 +36,7 @@ source_of_record: claude
 
 contains:
   - work: pseudo-apolodoro--bibliotheke
-    why: "Volume 2 da mesma edição de Frazer, em inglês, com o grego ao lado e as mesmas notas que comparam as versões antigas de cada mito. De 1921; precisa ser importado."
+    why: "Volume 2 da edição da Loeb traduzida por James George Frazer, em inglês, com o grego ao lado e notas que comparam as versões antigas de cada mito. De 1921; precisa ser importado."
     verdict: alternative
     reason: "Segunda metade da mesma edição. O veredito é o do conjunto: notas
              comparativas excelentes no seu propósito, de 1921, superadas em
