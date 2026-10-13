@@ -416,6 +416,18 @@ sequence:
   # -------------------------------------------------------------------------
 
 
+  # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. Posição minha: logo antes
+  # de Adorno e Horkheimer, como a outra causa proposta.
+  - work: gregory--the-unintended-reformation
+    role: critical-response
+    demand: exigente
+    why_here: "Uma causa diferente para o mesmo diagnóstico: não o
+               espetáculo nem a indústria cultural, mas a Reforma, que ao
+               romper a unidade cristã teria deixado a cultura sem acordo
+               sobre a verdade e sem bem comum."
+    why_here_by: claude
+    inserted_by: claude
+
   - work: adorno-horkheimer--dialektik-der-aufklaerung
     role: critical-response
     demand: exigente
@@ -463,6 +475,13 @@ sequence:
 # `from`. `original_order` continua a guardar a sua lista de três obras.
 # ---------------------------------------------------------------------------
 order_changes:
+  - work: gregory--the-unintended-reformation
+    kind: insert
+    from: "não estava na biblioteca"
+    to: "movimento II, logo antes de Adorno e Horkheimer"
+    approved_by: voce
+    date: 2026-10-13
+    reason: "Inclusão aprovada por você; posição minha."
   - work: hume--of-the-standard-of-taste
     kind: insert
     from: "não estava na biblioteca"
@@ -575,7 +594,6 @@ original_order: [suassuna--iniciacao-a-estetica,
                  vargas-llosa--la-civilizacion-del-espectaculo,
                  scruton--culture-counts]
 
-order_changes: []
 structural_changes: []
 
 updated: 2026-10-05

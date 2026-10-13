@@ -2206,3 +2206,40 @@ andre-bueno:
   dates: null
   note: "Sinólogo brasileiro (UERJ). Introdução e revisão do conteúdo chinês da
          A arte da guerra da Penguin-Companhia."
+
+# Entraram em 2026-10-13 (Voegelin, Taylor, Gregory), decisão do Mathews.
+voegelin:
+  name_display: "Eric Voegelin"
+  name_variants: []
+  dates: "1901–1985"
+  note: "Filósofo político alemão-americano."
+
+taylor:
+  name_display: "Charles Taylor"
+  name_variants: []
+  dates: null
+  note: "Filósofo canadense."
+
+gregory:
+  name_display: "Brad S. Gregory"
+  name_variants: ["Brad Gregory"]
+  dates: null
+  note: "Historiador da Reforma (Universidade de Notre Dame)."
+
+luzia-araujo:
+  name_display: "Luzia Araújo"
+  name_variants: ["Luiza Araújo"]
+  dates: null
+  note: "Tradutora, não autora."
+
+jose-viegas-filho:
+  name_display: "José Viegas Filho"
+  name_variants: []
+  dates: null
+  note: "Diplomata; tradutor, não autor."
+
+galvao-de-sousa:
+  name_display: "José Pedro Galvão de Sousa"
+  name_variants: []
+  dates: null
+  note: "Jurista; apresentação de A nova ciência da política (UnB, 1979)."
