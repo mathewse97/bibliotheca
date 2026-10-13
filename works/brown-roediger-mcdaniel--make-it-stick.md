@@ -34,9 +34,8 @@ relations:
   - type: complements
     target: dehaene--how-we-learn
     note: "Um deles pergunta que práticas de estudo produzem retenção
-           durável; o outro, o que o cérebro faz quando aprende. Ler primeiro o
-           mecanismo e depois a prática é sugestão do próprio Mathews, de
-           2026-10-01."
+           durável; o outro, o que o cérebro faz quando aprende. Vale ler primeiro o
+           mecanismo e depois a prática."
     by: claude
     proposed: 2026-10-01
 

@@ -1570,8 +1570,10 @@ const langPt = v => LANG_PT[v] || v;
 /* seções de um corpo em markdown já convertido: {título: html} */
 function bodySections(html){
   const out = {}; if(!html) return out;
-  const parts = html.split(/<h[23][^>]*>/i).slice(1);
-  parts.forEach(p=>{ const m=/<\/h[23]>/i.exec(p); if(!m) return;
+  /* qualquer nível de título abre uma seção nova: um subtítulo de nota interna
+     nunca vaza para dentro da seção exibida acima dele */
+  const parts = html.split(/<h[2-6][^>]*>/i).slice(1);
+  parts.forEach(p=>{ const m=/<\/h[2-6]>/i.exec(p); if(!m) return;
     out[p.slice(0,m.index).replace(/<[^>]+>/g,'').trim()] = p.slice(m.index+5).trim(); });
   return out;
 }
@@ -1691,8 +1693,9 @@ function vObra(id){
   const w = W(id); if(!w) return '<p>Obra não encontrada.</p>';
   const pubs = w.publications||[];
   const sec = bodySections(w.body_html);
-  const fatos = (sec['Fatos']||'').replace(/^<p>\s*(Pesquisa parcial\.|Não pesquisado\.[^<]*)\s*/,'<p>');
-  const sobre = [fatos, sec['Síntese'], sec['Avaliações acadêmicas']].filter(h=>h && !vazio(h) && !/^<p>\s*<\/p>$/.test(h));
+  /* só a seção escrita para leitura; Fatos, Avaliações e Síntese são o
+     registro de pesquisa e não vão para a tela (interface-rules §10) */
+  const sobre = [sec['Sobre a obra']].filter(h=>h && !vazio(h));
   const facts = [
     (w.title_original && w.title_original!==wTitle(id)) ? ['Título original', E(w.title_original)] : null,
     w.original_language ? ['Língua original', E(langPt(w.original_language))] : null,

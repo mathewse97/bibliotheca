@@ -217,3 +217,25 @@ e objetivo.
 - **Celular** (até 600 px): capa e texto empilhados na página da edição e nas
   edições dos cartões; nenhuma tela pode rolar na horizontal.
 - Ao escolher ou trocar uma edição, o agente escreve o `why` na mesma mudança.
+
+## 10 · Sobre a obra — 2026-10-13
+
+Pedido do Mathews, depois de ver na página de *A Arte da Guerra* uma nota de
+revisão inteira (tabela de edições, "Portão 1", id de cartão) no painel "Sobre
+a obra". A causa: a página juntava as seções Fatos, Avaliações acadêmicas e
+Síntese, que são registro de pesquisa, e qualquer subtítulo (`###`) escrito
+dentro delas vazava junto. A regra de §9 dizia que esse texto não ia para a
+tela; o código não garantia.
+
+- **A página da obra mostra só a seção `## Sobre a obra`** do corpo. Fatos,
+  Avaliações acadêmicas, Síntese, Lugar na biblioteca, Edições, Revisões e
+  notas de modelo continuam no arquivo como registro e nunca vão para a tela.
+- **O texto é escrito para o leitor**: duas a quatro frases dizendo o que a
+  obra é, do que trata e, quando estabelecido, como é vista. Sem "Mathews",
+  sem "registro", "pesquisa", "lista", "veredito", "portão", sem ids, nomes de
+  campo, parágrafos de regra ou datas de trabalho. Não fala de edições (isso é
+  o `why` da publicação, §9). Nada inventado: o que não se sabe fica de fora.
+- **Toda obra nova** entra com `## Sobre a obra` na mesma mudança. Sem ela o
+  painel não aparece, e isso é um defeito, não um estado aceitável.
+- Qualquer nível de título no corpo abre uma seção nova na interface, de modo
+  que um subtítulo de nota interna não pode cair dentro da seção exibida.
