@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: hesiodo--theogonia
-    why: "Tradução completa de Jaa Torrano, com o grego ao lado para conferir o original e um longo estudo dele sobre o poema; mesmo tradutor do Ésquilo e do Eurípides da biblioteca. Leitura mais difícil que a de Werner. Fácil de comprar nova."
+    why: "Tradução completa de Jaa Torrano, com o grego ao lado para conferir o original e um longo estudo dele sobre o poema; é o mesmo tradutor das tragédias de Ésquilo e Eurípides da sua biblioteca. Leitura mais difícil que a de Christian Werner. Fácil de comprar nova."
     verdict: unassessed
     reason: "Escolhida pelo Mathews em 2026-10-10, no lugar da Hedra (Christian Werner): bilíngue e com o estudo de Torrano. A tradução de Torrano é de leitura mais difícil que a de Werner."
     translator: [torrano]

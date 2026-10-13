@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: xenofonte--hellenika
-    why: "Segundo volume da mesma edição: grego ao lado da tradução inglesa de Brownson. Em inglês; ainda não foi comparada a fundo com outras edições."
+    why: "Segundo volume da edição da Loeb: o grego ao lado da tradução inglesa de Carleton L. Brownson. Em inglês; ainda não foi comparada a fundo com outras edições."
     verdict: unassessed
     reason: "Nenhuma edição alternativa foi pesquisada."
     translator: [brownson]

@@ -46,7 +46,7 @@ provenance:
     confidence: verified
 updated: 2026-09-19
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Forense Universitária, 2012, trad. Valerio Rohden e António Marques", note: "A primeira tradução completa e a mais citada, de Rohden e Marques; ficou de fora por não ser achada nova nem trazer a Primeira Introdução."}
+  - {edition: "Forense Universitária, 2012, trad. Valerio Rohden e António Marques", note: "Tradução de Valerio Rohden e António Marques, a primeira completa e a mais citada; ficou de fora por não ser achada nova nem trazer a Primeira Introdução de Kant."}
 ---
 
 ## Sobre a obra

@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Helénicas, Gredos, trad. Orlando Guntiñas Tuñón", note: "Traduzida direto do grego, com introdução e notas, em espanhol; ainda pode substituir a escolhida."}
+  - {edition: "Helénicas, Gredos, trad. Orlando Guntiñas Tuñón", note: "Tradução espanhola de Orlando Guntiñas Tuñón, direta do grego, com introdução e notas; ainda pode substituir a edição inglesa da Loeb."}
   - {edition: "The Landmark Xenophon's Hellenika, 2009", note: "É a edição com o material explicativo mais completo, mas só existe em inglês."}
 ---
 

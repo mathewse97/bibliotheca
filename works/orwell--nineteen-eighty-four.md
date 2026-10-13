@@ -55,7 +55,7 @@ derived_from:
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
 updated: 2026-09-28
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Companhia das Letras, 2009", note: "A mesma tradução, em edição simples, sem a apresentação e os ensaios."}
+  - {edition: "Companhia das Letras, 2009", note: "Tradução de Heloisa Jahn e Alexandre Hubner em edição simples, sem a apresentação e os ensaios sobre o livro."}
   - {edition: "Antofágica, 2022, trad. Antônio Xerxenesky", note: "Tradução nova de Antônio Xerxenesky, com ilustrações e apresentação de Gregório Duvivier, mas sem ensaios que ajudem a entender o livro."}
 ---
 

@@ -36,7 +36,7 @@ derived_from:
 
 updated: 2026-10-13
 editions_considered:
-  - {edition: "The Greek World 479–323 BC, Simon Hornblower, Routledge, 4ª ed. 2011", note: "O livro de Simon Hornblower sobre o mesmo período: mais analítico, mais atento a cada região e mais exigente para o leitor."}
+  - {edition: "The Greek World 479–323 BC, Simon Hornblower, Routledge, 4ª ed. 2011", note: "Livro de Simon Hornblower sobre o mesmo período, 478 a 323 a.C.: mais analítico, mais atento a cada região e mais exigente para o leitor."}
 ---
 
 ## Sobre a obra
