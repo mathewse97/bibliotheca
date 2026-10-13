@@ -738,26 +738,32 @@ items:
   collections: [political-thought]
   priority: media
   state: decidida
-  decided: {date: 2026-10-10, choice: "A — Edipro, 2021, trad. Chiu Yi Chih (bilíngue).", note: "Decisão do Mathews: adotar as recomendações. Aplicado: é a edição exibida e a publication_pref da obra em Política; as outras edições registradas continuam como alternativas."}
+  decided: {date: 2026-10-13, choice: "C — Penguin-Companhia, 2019, versão completa de John Minford (trad. Leonardo Alves).", note: "Decisão do Mathews, 2026-10-13, revendo a de 2026-10-10 (Edipro): a edição com o aparato completo vale mais que a tradução direta curta. Exceção declarada ao portão 1 do §F.1, registrada na regra. A Edipro saiu do acervo."}
   question: "Qual edição de *A arte da guerra*, de Sun Tzu?"
-  why: "A edição registrada antes como sua indicação (WMF Martins Fontes, ed. Sawyer, trad. Ana Aguiar Cotrim) é traduzida do inglês. Existe tradução direta do chinês em catálogo — e, pelas regras da biblioteca, tradução indireta é recusada quando há direta. Hoje a interface exibe a direta, provisoriamente."
+  why: "Muitas edições da obra são indiretas ou vendidas como livro de negócios. A escolha anterior, Edipro, é direta do chinês, mas curta e sem aparato."
   editions:
     - key: A
-      pub: pub--edipro--a-arte-da-guerra--2021
       label: "Edipro, 2021"
-      status: "Registrada · exibida hoje (provisória)"
-      facts: [["Tradução","Chiu Yi Chih, direta do chinês"],["Formato","Bilíngue chinês–português, capa dura, 160 p."],["Extra","Comentários e notas do tradutor"]]
+      status: "Escolhida em 2026-10-10; substituída em 2026-10-13"
+      facts: [["Tradução","Chiu Yi Chih, direta do chinês"],["Formato","Bilíngue chinês–português, capa dura, 160 p."],["Extra","Comentários e notas curtos do tradutor"]]
       pros: ["Direta do chinês, com o original ao lado"]
-      cons: ["Só A arte da guerra (sem os Métodos militares de Sun Pin)"]
+      cons: ["Pouco aparato", "Vendida como livro de lições pessoais e profissionais", "Sem avaliação independente"]
     - key: B
-      label: "WMF Martins Fontes, 2014 (ed. Sawyer)"
-      status: "Não registrada (removida em 2026-10-10: a escolhida basta)"
-      facts: [["Tradução","Ana Aguiar Cotrim, a partir do inglês de Ralph D. Sawyer"],["Extra","Inclui os Métodos militares de Sun Pin; introdução e comentários de Sawyer"],["Formato","342 p."]]
-      pros: ["Aparato histórico de Sawyer; traz também Sun Pin"]
-      cons: ["Tradução indireta — recusada pelo §F.1 enquanto houver direta"]
+      label: "John Minford, Penguin Classics (inglês)"
+      status: "Não registrada"
+      facts: [["Tradução","John Minford, direta do chinês"],["Extra","Comentadores chineses tradicionais e comentário histórico"]]
+      pros: ["Direta do chinês", "Aparato completo"]
+      cons: ["Em inglês"]
+    - key: C
+      pub: pub--penguin-companhia--a-arte-da-guerra--2019
+      label: "Penguin-Companhia, 2019"
+      status: "Escolhida"
+      facts: [["Tradução","Leonardo Alves, do inglês de John Minford"],["Extra","Comentadores tradicionais, comentário histórico; introdução e revisão do chinês por André Bueno"],["Formato","448 p."]]
+      pros: ["Aparato completo em português", "Revista contra o chinês por um sinólogo", "Resenha acadêmica favorável (Locus, UFJF, 2021)"]
+      cons: ["Traduzida do inglês, não do chinês"]
   options: []
-  recommendation: "A: é a única direta do chinês, e é bilíngue. B só se você quiser o Sun Pin e o aparato de Sawyer, sabendo que o texto passou pelo inglês."
-  recommended: A
+  recommendation: "C: é a melhor leitura disponível em português. Pela regra, B (o mesmo trabalho no original inglês) venceria; C fica como exceção, porque o aparato completo e a revisão de André Bueno pesam mais que a tradução direta."
+  recommended: C
 
 - id: d-ed-montesquieu
   kind: edicao

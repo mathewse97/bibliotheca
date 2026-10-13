@@ -345,6 +345,16 @@ passo 4 foi **substituído** — ver F.2]
    intermediária é recusada sempre que exista uma direta, **em qualquer idioma**.
    As reprovações entram como `verdict: rejected` com a razão, não são
    descartadas em silêncio.
+
+   **Exceção — decisão do Mathews, 2026-10-13.** Uma tradução indireta pode
+   vencer a direta (e a bilíngue) quando está claramente numa faixa de
+   qualidade acima: a edição de partida é a de referência, o aparato é
+   completo, e há revisão contra o original por especialista. Caso que a
+   criou: *A arte da guerra*, Penguin-Companhia (Minford, trad. do inglês,
+   revista por André Bueno), no lugar da Edipro (direta e bilíngue, mas curta
+   e sem aparato). A exceção é decidida obra a obra, pelo Mathews, e fica
+   registrada como tal na publicação; não vira preferência geral por
+   indiretas.
 2. **Portão: existência física.** Tem de ser um livro físico obtenível. Se a
    melhor edição acadêmica só existir em formato eletrônico, isso é dito
    abertamente, nunca substituído em silêncio.

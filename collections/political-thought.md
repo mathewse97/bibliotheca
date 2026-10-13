@@ -161,7 +161,7 @@ sequence:
       text: "Martins Fontes, edição de Ralph D. Sawyer, trad. Ana Aguiar Cotrim."
       by: voce
       verified: true
-    publication_pref: pub--edipro--a-arte-da-guerra--2021   # decisão sua, 2026-10-10 (d-ed-sunzi)
+    publication_pref: pub--penguin-companhia--a-arte-da-guerra--2019   # decisão sua, 2026-10-13 (d-ed-sunzi): exceção ao portão da tradução direta
 
   - work: kautilya--arthashastra
     role: primary-source

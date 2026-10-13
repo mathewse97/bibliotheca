@@ -28,7 +28,11 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-13
+editions_considered:
+  - {edition: "Edipro, 2021, trad. Chiu Yi Chih, bilíngue", note: "Direta do chinês, mas curta e sem aparato, vendida como livro de lições pessoais e profissionais."}
+  - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O mesmo trabalho no original inglês, direto do chinês."}
+  - {edition: "WMF Martins Fontes, 2014, ed. Ralph D. Sawyer", note: "Traduzida do inglês, sem a tradição de comentadores."}
 ---
 
 ## Sobre a obra
@@ -67,3 +71,7 @@ conferido. Ele pediu esta revisão.
 
 **Conclusão: há edição melhor — A.** Cartão `d-ed-sunzi`; A exibida
 enquanto isso.
+
+### Atualização de 2026-10-13
+
+A Edipro foi substituída pela Penguin-Companhia (versão completa de Minford, trad. Leonardo Alves, revista por André Bueno), por decisão do Mathews, como exceção ao portão 1 do §F.1. Ver o cartão d-ed-sunzi.
