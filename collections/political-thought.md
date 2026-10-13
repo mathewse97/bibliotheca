@@ -87,7 +87,7 @@ sequence:
                oligarquia, revolução e estabilidade política."
     why_here_by: voce
     edition_pref: {text: "Editora UnB, trad. Mário da Gama Kury.", by: voce, verified: false}
-    publication_pref: pub--unb--politica   # escolha sua, 2026-09-27 (d-ed-politica): confirma a edição que já estava registrada
+    publication_pref: pub--vega--politica-bilingue   # decisão sua, 2026-10-13 (d-ed-politica): bilíngue da Vega no lugar da UnB, nas duas coleções
 
   - work: tucidides--historiai
     role: primary-source

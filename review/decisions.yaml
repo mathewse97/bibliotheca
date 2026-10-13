@@ -405,26 +405,32 @@ items:
   collections: [political-thought, greco-roman]
   priority: media
   state: decidida
-  decided: {date: 2026-09-27, choice: "Edição A — Editora UnB, trad. Mário da Gama Kury.", note: "Confirma a edição que já estava registrada. Aplicada nas duas participações, em Política e em Greco-Romana. Ano e número de páginas continuam não confirmados."}
-  question: "Qual edição da *Política*, de Aristóteles, a biblioteca deve adotar?"
-  why: "As duas têm a mesma tradução, de Mário da Gama Kury. A registrada é a da UnB; existe também uma da Madamu, de 2021."
+  decided: {date: 2026-10-13, choice: "B — Vega (Lisboa), bilíngue, trad. António Campelo Amaral e Carlos de Carvalho Gomes.", note: "Decisão do Mathews, 2026-10-13, revendo a de 2026-09-27 (UnB, Kury), que não tinha comparado traduções. Aplicada nas duas coleções. A UnB saiu do acervo."}
+  question: "Qual edição da *Política*, de Aristóteles?"
+  why: "A edição registrada, da UnB, tinha sido confirmada sem comparação com outras traduções."
   editions:
     - key: A
-      pub: pub--unb--politica
-      label: "UnB"
-      status: "Registrada · exibida hoje"
-      facts: [["Tradução","Mário da Gama Kury"],["ISBN","978-85-230-0011-0"]]
-      pros: ["Já registrada e mantida por você em Greco-Romana (23/09)"]
-      cons: ["Ano e páginas não confirmados"]
+      label: "Kury — UnB ou Madamu (2021)"
+      status: "UnB substituída em 2026-10-13"
+      facts: [["Tradução","Mário da Gama Kury, direta do grego"],["Extra","Introdução e notas; a Madamu traz a numeração de Bekker"]]
+      pros: ["Brasileira", "Madamu em catálogo"]
+      cons: ["Sem o grego ao lado", "Tradutor generalista, pouco aparato"]
     - key: B
-      label: "Madamu"
+      pub: pub--vega--politica-bilingue
+      label: "Vega (Lisboa), bilíngue"
+      status: "Escolhida"
+      facts: [["Tradução","Campelo Amaral e Carvalho Gomes, direta do grego"],["Formato","Bilíngue grego–português, 672 p."],["Extra","Introdução e revisão científica de Mendo Castro Henriques; notas"]]
+      pros: ["Única com o grego ao lado", "Aparato acadêmico", "Usada em pós-graduação da USP"]
+      cons: ["Português de Portugal", "Importada"]
+    - key: C
+      label: "Edipro, 2018"
       status: "Não registrada"
-      facts: [["Tradução","Mário da Gama Kury"],["Edição","2021"],["ISBN","978-6586224085"]]
-      pros: ["Edição recente"]
-      cons: ["Não examinada"]
+      facts: [["Tradução","Maria Aparecida de Oliveira Silva"],["Extra","Numeração de Bekker; apêndice com Plutarco"]]
+      pros: ["Tradução nova, de helenista"]
+      cons: ["Língua de partida e recepção não confirmadas"]
   options: []
-  recommendation: "a tradução é a mesma; a diferença é só o objeto. Você já decidiu manter a UnB em Greco-Romana — confirmar A deixa as duas coleções iguais."
-  recommended: A
+  recommendation: "B: a única edição acadêmica bilíngue, o mesmo padrão das outras fontes gregas da biblioteca. A', o Kury da Madamu, se você preferir brasileira e em catálogo."
+  recommended: B
 
 - id: d-ed-dhammapada
   kind: edicao

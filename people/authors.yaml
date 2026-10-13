@@ -2255,3 +2255,21 @@ alexandre-marques:
   name_variants: []
   dates: null
   note: "Prefácio de A nova ciência da política (Vide, 2025)."
+
+campelo-amaral:
+  name_display: "António Campelo Amaral"
+  name_variants: []
+  dates: null
+  note: "Tradutor (com Carlos de Carvalho Gomes) da Política bilíngue da Vega."
+
+carvalho-gomes:
+  name_display: "Carlos de Carvalho Gomes"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor."
+
+mendo-castro-henriques:
+  name_display: "Mendo Castro Henriques"
+  name_variants: []
+  dates: null
+  note: "Introdução e revisão científica da Política bilíngue da Vega."

@@ -764,7 +764,7 @@ sequence:
     requires: [aristoteles--ethika-nikomacheia]
     scope: "Aqui ela fecha o par ética→política dentro do percurso grego; em
             Política ela é fonte fundadora da teoria política ocidental."
-    publication_pref: pub--unb--politica   # escolha sua, 2026-09-27 (d-ed-politica), válida nas duas coleções
+    publication_pref: pub--vega--politica-bilingue   # decisão sua, 2026-10-13 (d-ed-politica): bilíngue da Vega no lugar da UnB, nas duas coleções
 
   - work: aristoteles--ta-meta-ta-physika
     role: primary-source
