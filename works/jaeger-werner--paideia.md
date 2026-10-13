@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Fondo de Cultura Económica, trad. Xirau e Roces", note: "A clássica tradução espanhola."}
 ---
 
+## Sobre a obra
+
+Obra do filólogo alemão Werner Jaeger, publicada em três volumes a partir de 1933. Acompanha a formação do ideal grego de educação, a *paideia*, de Homero a Platão e Demóstenes, mostrando como poesia, política, filosofia e educação compõem uma mesma tradição cultural. É um clássico dos estudos sobre a Grécia antiga.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

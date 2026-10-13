@@ -51,6 +51,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Zahar, edição antiga em tomos", note: "A mesma tradução; só usada."}
 ---
 
+## Sobre a obra
+
+Primeiro volume da história das religiões de Mircea Eliade, publicado em francês em 1976. Percorre da pré-história às religiões da Mesopotâmia, do Egito, da Índia védica, de Israel e da Grécia, até os mistérios de Elêusis. A obra foi planejada em quatro volumes, mas Eliade morreu em 1986 tendo concluído apenas três.
+
 ## Fatos
 
 Tomo I de uma obra planejada em quatro volumes. **Eliade morreu em 1986 sem concluir o quarto**; os três tomos franceses (1976–1983) são os únicos de sua autoria. Existe um tomo IV póstumo publicado apenas em espanhol, escrito por vários especialistas segundo as diretrizes temáticas dele — não há equivalente em francês nem em português.

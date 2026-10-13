@@ -38,6 +38,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Manual brasileiro de bushcraft de Humberto Costa, publicado em 2022. Trata de ferramentas de corte, abrigos, obtenção de água, fogo, equipamento básico, nós e amarras e escultura em madeira.
+
 ## Fatos
 
 Manual brasileiro de bushcraft: ferramentas de corte, abrigos, água, fogo, equipamento básico, nós e amarras, escultura em madeira (segundo a capa).

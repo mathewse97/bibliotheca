@@ -55,6 +55,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Obra coletiva organizada por Juliana R. M. Schlaad e Sascha W. Schlaad, publicada em 2019 e escrita para profissionais de saúde. Trata da medicina longe dos centros médicos no contexto brasileiro: biomas, animais peçonhentos e doenças tropicais.
+
 ## Fatos
 
 Obra coletiva organizada por Juliana R. M. Schlaad e Sascha W. Schlaad,

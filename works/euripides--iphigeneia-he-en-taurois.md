@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, do fim do século V a.C. Ifigênia, salva por Ártemis do sacrifício em Áulis, serve como sacerdotisa entre os tauros, que imolam os estrangeiros; quando Orestes e Pílades chegam ao país, irmão e irmã se reconhecem e tramam a fuga levando a estátua da deusa. É uma peça de reconhecimento e intriga com desfecho feliz, muito diferente da tragédia de catástrofe.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -33,6 +33,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Estudos sobre a humanidade, Companhia das Letras, 2002", note: "Antologia geral de Berlin; sem a resposta dele às críticas. Também esgotada."}
 ---
 
+## Sobre a obra
+
+Conferência de Isaiah Berlin pronunciada em Oxford em 1958 e depois publicada como ensaio. Distingue a liberdade negativa, ausência de interferência alheia, da liberdade positiva, ser senhor de si, e adverte que esta última pode ser usada para justificar a coerção em nome de um eu verdadeiro. Defende o pluralismo dos valores, que podem ser incompatíveis entre si. É um dos textos mais discutidos da filosofia política do século XX.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

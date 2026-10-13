@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de Murray Rothbard, publicado em 1982, que procura dar ao libertarianismo uma fundamentação ética a partir do direito natural. Desenvolve uma teoria da autopropriedade, da propriedade e dos direitos, e dela deriva uma crítica radical do Estado.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

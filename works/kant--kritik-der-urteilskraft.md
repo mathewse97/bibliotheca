@@ -49,6 +49,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Forense Universitária, 2012, trad. Valerio Rohden e António Marques", note: "A mais citada, mas sem oferta nova e sem a Primeira Introdução."}
 ---
 
+## Sobre a obra
+
+Terceira das críticas de Immanuel Kant, publicada em alemão em 1790. Nela o juízo sobre o belo deixa de descrever uma propriedade do objeto e passa a exprimir um estado do sujeito que contempla, desinteressado e, ainda assim, reivindicando validade universal; trata também do sublime e do juízo teleológico sobre a natureza. É considerada a obra que funda a estética moderna e a ideia de autonomia da arte. Leitura exigente.
+
 ## Fatos
 
 Pesquisa parcial. É a obra que desloca a estética: o juízo sobre o belo deixa

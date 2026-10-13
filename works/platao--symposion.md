@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-09-17
 ---
 
+## Sobre a obra
+
+Diálogo de Platão, em grego antigo, que reproduz os discursos em louvor de Eros feitos num banquete em Atenas, entre eles os de Aristófanes, Agatão e Sócrates. Sócrates relata o ensinamento de Diotima, segundo o qual o amor conduz da beleza dos corpos à contemplação do belo em si. Termina com a entrada de Alcibíades e seu elogio de Sócrates.
+
 ## Fatos
 
 Pesquisa parcial (piloto de 2026-09-17). Grego antigo, Platão (428–347 a.C.).

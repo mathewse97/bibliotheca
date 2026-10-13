@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Poema épico atribuído a Homero, composto em grego na época arcaica. Narra o longo regresso de Odisseu de Troia a Ítaca e sua retomada da casa, ameaçada pelos pretendentes de Penélope. Diferente da *Ilíada*, celebra um heroísmo de inteligência, astúcia e resistência, e está entre as obras mais influentes da literatura ocidental.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

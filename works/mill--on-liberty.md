@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "L&PM, Vide, Lafonte", note: "Tradutor não identificado."}
 ---
 
+## Sobre a obra
+
+Ensaio de John Stuart Mill publicado em 1859. Defende que a sociedade e o Estado só podem coagir o indivíduo para impedir dano a outros, e argumenta pela liberdade de pensamento, de expressão e de modo de vida. É um dos textos fundamentais do liberalismo.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

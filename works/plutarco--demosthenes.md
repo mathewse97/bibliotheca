@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Biografia do orador ateniense Demóstenes, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Cícero. Trata da carreira de Demóstenes e de sua oposição à Macedônia de Filipe II no século IV a.C.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

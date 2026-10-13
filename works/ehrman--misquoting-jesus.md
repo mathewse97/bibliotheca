@@ -51,6 +51,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Livro de divulgação de Bart D. Ehrman, especialista em Novo Testamento, publicado em inglês em 2005. Apresenta ao leitor comum a crítica textual: como os textos do Novo Testamento foram copiados à mão durante séculos, que tipos de alterações os copistas introduziram, por acidente ou intencionalmente, e como os estudiosos procuram reconstituir o texto mais antigo.
+
 ## Fatos
 
 Divulgação de alto nível em crítica textual do Novo Testamento, por especialista.

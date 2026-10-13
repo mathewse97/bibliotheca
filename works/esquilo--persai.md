@@ -42,6 +42,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Tragédia de Ésquilo encenada em 472 a.C., a mais antiga peça grega conservada. Ambientada na corte persa, em Susa, mostra a recepção da notícia da derrota de Xerxes na batalha de Salamina, da qual o próprio Ésquilo participou. É a única tragédia grega sobrevivente sobre um acontecimento histórico recente.
+
 ## Fatos
 
 Não pesquisado além do conteúdo do volume. Data, transmissão e edição

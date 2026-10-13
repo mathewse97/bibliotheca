@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022", note: "Tradução espanhola recente, com introdução de Andrés de Francisco; em decisão."}
 ---
 
+## Sobre a obra
+
+Obra do historiador dinamarquês Mogens Herman Hansen, publicada em 1991. Reconstrói de modo sistemático o funcionamento da democracia ateniense no século IV a.C. — assembleia, conselho, tribunais, magistraturas e cidadania — a partir das fontes. É referência padrão sobre as instituições de Atenas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

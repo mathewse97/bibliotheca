@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Panfleto de Karl Marx e Friedrich Engels publicado em 1848, em alemão, a pedido da Liga dos Comunistas. Apresenta a história como história da luta de classes, descreve a ascensão da burguesia e do capitalismo e anuncia a revolução proletária. É um dos textos políticos mais influentes da era moderna.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

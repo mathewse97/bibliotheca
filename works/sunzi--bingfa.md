@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado militar chinês atribuído a Sun Tzu, tradicionalmente situado entre os séculos VI e V a.C. Em treze capítulos breves, trata de planejamento, terreno, manobra, uso de espiões e da ideia de que a melhor vitória é a obtida sem combate. É um dos textos de estratégia mais lidos do mundo, aplicado muito além da guerra.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

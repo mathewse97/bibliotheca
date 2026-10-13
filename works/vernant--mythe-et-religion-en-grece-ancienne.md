@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Teorema (Lisboa), 1991, trad. Telma Costa", note: "Portuguesa e esgotada."}
 ---
 
+## Sobre a obra
+
+Estudo breve de Jean-Pierre Vernant sobre a religião grega antiga. Mostra como mitos, rituais, culto cívico e organização social formavam um conjunto inseparável, numa religião sem dogma nem igreja, integrada à vida da cidade.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

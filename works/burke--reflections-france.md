@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra de Edmund Burke, publicada em inglês em 1790, em forma de carta, como reação aos primeiros momentos da Revolução Francesa e à sua acolhida na Inglaterra. Critica a pretensão de refazer a sociedade a partir de princípios abstratos e defende a tradição, a prudência e as instituições herdadas. É considerada um texto fundador do conservadorismo político moderno.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

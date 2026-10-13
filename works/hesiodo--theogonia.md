@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Hedra, 2022, trad. Christian Werner", note: "Tradução mais clara e precisa, mas sem o grego confirmado e com menos estudo."}
 ---
 
+## Sobre a obra
+
+Poema de Hesíodo, composto em grego por volta de 700 a.C. Narra a origem do cosmos a partir do Caos e a genealogia dos deuses, até a sucessão de Urano a Crono e a vitória de Zeus, que estabelece a ordem do mundo divino. É a principal fonte literária para a cosmogonia e a religião gregas arcaicas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

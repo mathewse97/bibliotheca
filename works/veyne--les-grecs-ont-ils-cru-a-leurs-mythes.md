@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Brasiliense, 1984", note: "Tradução anterior; esgotada."}
 ---
 
+## Sobre a obra
+
+Ensaio do historiador francês Paul Veyne, publicado em 1983. Pergunta o que significava, para os gregos, "acreditar" nos seus mitos, e defende que a crença admite modalidades diferentes, que convivem e mudam conforme os regimes de verdade de cada época.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

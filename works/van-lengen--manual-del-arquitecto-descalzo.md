@@ -42,6 +42,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "The Barefoot Architect, Shelter Publications, 2008", note: "Em inglês."}
 ---
 
+## Sobre a obra
+
+Manual de construção do arquiteto neerlandês Johan van Lengen, escrito originalmente em espanhol e publicado no México. Ensina a projetar e construir moradias de baixo custo com técnicas simples e materiais locais, adaptadas ao clima de cada região.
+
 ## Fatos
 
 Van Lengen é neerlandês, o que torna fácil supor que o original seja

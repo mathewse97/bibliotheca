@@ -48,6 +48,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Manual universitário de história comparada das religiões, iniciado por John B. Noss em 1949 com o título *Man's Religions* e continuado em sucessivas edições por David S. Noss e Blake R. Grangaard. Apresenta as principais tradições religiosas do mundo, uma a uma, em perspectiva histórica e descritiva. É obra introdutória, não de pesquisa; sua abordagem tem sido criticada por não problematizar a própria categoria de "religião".
+
 ## Fatos
 
 Manual universitário de história comparada das religiões, em linhagem editorial contínua desde 1949. A edição brasileira corresponde, por hipótese não confirmada pela editora, à 14ª edição inglesa (Routledge, 2017).

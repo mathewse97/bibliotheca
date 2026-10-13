@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Ensaio do escritor peruano Mario Vargas Llosa, publicado em espanhol em 2012. Argumenta que a cultura contemporânea passou a se organizar em torno do entretenimento, o que levaria à banalização da arte, do jornalismo, da política e da vida intelectual.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -46,6 +46,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Minerva (Coimbra), trad. Maria Teresa Schiappa de Azevedo", note: "Mais notas, mas portuguesa e sem o grego."}
 ---
 
+## Sobre a obra
+
+Diálogo de Platão, em grego antigo, que narra o último dia de Sócrates e sua morte na prisão. A conversa gira em torno da imortalidade da alma, defendida por vários argumentos, e da filosofia como preparação para a morte. É um dos textos centrais para a doutrina platônica das Formas.
+
 ## Fatos
 
 Pesquisa parcial (piloto de 2026-09-17). Grego antigo, Platão (428–347 a.C.).

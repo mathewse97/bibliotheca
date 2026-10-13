@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Narrativa histórica de divulgação do britânico Anthony Everitt, autor de biografias de Cícero, Augusto e Adriano. Acompanha a formação de Atenas até seu apogeu como principal centro político, artístico e intelectual da Grécia clássica, conduzindo a história por meio de seus personagens e acontecimentos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

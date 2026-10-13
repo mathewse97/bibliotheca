@@ -60,6 +60,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Turn Left at Orion, Cambridge, 2019", note: "Guia de objetos para observar, não de técnica e equipamento."}
 ---
 
+## Sobre a obra
+
+Guia de astronomia amadora dos canadenses Terence Dickinson e Alan Dyer, publicado em 1991 e revisto em edições posteriores. Ensina sobretudo como observar e com quê: binóculos, telescópios, acessórios, técnicas de observação e fotografia do céu. É escrito para o céu do hemisfério norte.
+
 ## Fatos
 
 Guia completo de astronomia amadora: o que observar e, sobretudo, como —

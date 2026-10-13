@@ -70,6 +70,10 @@ derived_from:
 updated: 2026-09-10
 ---
 
+## Sobre a obra
+
+Monografia do medievalista C. Stephen Jaeger, publicada em inglês em 1994. Estuda a cultura das escolas catedrais entre 950 e 1200 e os ideais de conduta e cortesia que elas formaram antes do surgimento das universidades. É obra de referência sobre o período.
+
 ## Fatos
 
 Monografia acadêmica premiada (American Historical Association) sobre a

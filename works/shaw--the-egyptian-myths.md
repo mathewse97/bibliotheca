@@ -46,6 +46,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Guia da mitologia egípcia escrito pelo egiptólogo Garry J. Shaw e publicado em inglês em 2014. Apresenta os deuses, as narrativas e as crenças do Egito antigo para o leitor não especialista, mais como guia de consulta do que como monografia acadêmica.
+
 ## Fatos
 
 Guia moderno da mitologia egípcia, por egiptólogo.

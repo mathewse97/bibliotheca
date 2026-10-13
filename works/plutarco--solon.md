@@ -36,6 +36,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vida de Sólon, Relógio d'Água, 1999", note: "Só a biografia grega, sem o par romano."}
 ---
 
+## Sobre a obra
+
+Biografia de Sólon, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Publícola. Trata do legislador e poeta ateniense do século VI a.C., cujas reformas estão na origem da democracia ateniense.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

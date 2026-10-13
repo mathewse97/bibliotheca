@@ -53,6 +53,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Obra de Peter L. Berger, publicada em inglês em 1967, considerada um clássico da sociologia da religião. Mostra como a religião constrói e legitima um mundo de sentido socialmente compartilhado e formula uma das versões mais influentes da tese da secularização. O próprio autor repudiou essa tese a partir dos anos 1990, afirmando em *The Desecularization of the World* (1999) que ela estava equivocada e, mais tarde, substituindo a ideia de secularização pela de pluralização.
+
 ## Fatos
 
 Clássico canônico da sociologia da religião, ao lado de *A construção social da realidade* (Berger e Luckmann, 1966).

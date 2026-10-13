@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Livro-reportagem de Jon Krakauer, publicado em 1996, que reconstitui a vida e a morte de Christopher McCandless, jovem americano que abandonou tudo para viver isolado e morreu no Alasca em 1992. Investiga suas motivações e o fascínio pela natureza selvagem que o levou até lá.
+
 ## Fatos
 
 Reconstituição jornalística da vida e da morte de Christopher McCandless no Alasca (1992).

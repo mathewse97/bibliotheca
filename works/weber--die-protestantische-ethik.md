@@ -52,6 +52,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martin Claret; Edipro", note: "Sem aparato; tradução não avaliada."}
 ---
 
+## Sobre a obra
+
+Estudo de Max Weber publicado em alemão em 1904–1905 e revisto em 1920. Sustenta que a ética ascética do protestantismo, sobretudo puritano, ao valorizar o trabalho metódico como vocação, contribuiu para formar o espírito do capitalismo racional moderno. É um dos textos fundadores da sociologia e um caso clássico de como ideias religiosas podem moldar a vida econômica.
+
 ## Fatos
 
 Pesquisa parcial. Sustenta que uma ética religiosa — a disciplina ascética

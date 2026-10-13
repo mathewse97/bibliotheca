@@ -51,6 +51,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Poema épico acádio anônimo, cuja versão padrão, conhecida pelo verso inicial "Aquele que o abismo viu", é tradicionalmente atribuída a Sin-léqi-unnínni. Narra os feitos de Gilgámesh, rei de Uruk, sua amizade com Enkídu e, após a morte deste, sua busca pela imortalidade, que inclui o relato do dilúvio. É uma das obras literárias mais antigas que se conhecem e uma via de acesso direto ao imaginário religioso mesopotâmico.
+
 ## Fatos
 
 Epopeia acádia, anônima. A versão padrão é tradicionalmente atribuída a **Sin-léqi-unnínni**, e é assim que a editora brasileira credita — atribuição tradicional, não autoria estabelecida, e por isso `authors` fica vazio.

@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cultrix/Pensamento, trad. Adail Ubirajara Sobral", note: "Feita sobre o texto anterior à edição definitiva; esgotada."}
 ---
 
+## Sobre a obra
+
+Obra de Joseph Campbell, publicada em inglês em 1949, que propõe, com apoio na psicanálise, um padrão comum às narrativas heroicas de diversas culturas, o monomito ou jornada do herói: partida, iniciação e retorno. Teve grande influência fora da academia, inclusive sobre roteiristas de cinema, e é discutida pelos estudiosos de mitologia comparada pela generalização que propõe.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

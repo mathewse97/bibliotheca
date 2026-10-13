@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Fondo de Cultura Económica, trad. Antonio Alatorre", note: "A célebre tradução espanhola."}
 ---
 
+## Sobre a obra
+
+Estudo de Gilbert Highet, publicado em inglês em 1949, sobre a influência da literatura grega e romana nas literaturas ocidentais, da Idade Média ao século XX. Acompanha a transmissão e a reinterpretação dos clássicos em autores e épocas sucessivas, e permanece uma referência sobre o tema.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -53,6 +53,10 @@ provenance:
 updated: 2026-09-19
 ---
 
+## Sobre a obra
+
+Obra de Theodor W. Adorno e Max Horkheimer, escrita em alemão no exílio americano, circulada em 1944 e publicada em 1947. Sustenta que a razão que prometia emancipar converteu-se em instrumento de dominação, e que o mito que ela queria dissolver retorna dentro dela. O capítulo sobre a indústria cultural argumenta que a cultura de massa, produzida como mercadoria, não aliena pela censura, mas pelo entretenimento. É leitura exigente, que pressupõe familiaridade com Weber e Freud.
+
 ## Fatos
 
 Pesquisa parcial. O argumento central: a razão que prometia emancipar

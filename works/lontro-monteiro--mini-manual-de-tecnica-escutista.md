@@ -39,6 +39,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Manual de bolso português, de Miguel Lontro e Pedro Monteiro, publicado em 2012, que condensa as técnicas básicas de campo do escutismo.
+
 ## Fatos
 
 Obra portuguesa, de Portugal — daí «escutista» e não «escoteiro». Não é

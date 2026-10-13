@@ -57,6 +57,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Hesperian, 2022 (inglês)", note: "Atualizada; importada."}
 ---
 
+## Sobre a obra
+
+Manual de saúde de David Werner, escrito originalmente em espanhol a partir de seu trabalho em comunidades rurais do México. Ensina a reconhecer, tratar e prevenir doenças e ferimentos comuns em lugares sem acesso a médico, em linguagem simples e ilustrada. Tornou-se um dos manuais de saúde comunitária mais difundidos no mundo.
+
 ## Fatos
 
 Original ESPANHOL, não inglês. `authors` traz apenas Werner porque é a

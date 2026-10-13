@@ -52,6 +52,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original castelhano, com notas; só usado."}
 ---
 
+## Sobre a obra
+
+Conjunto das cartas e instruções do missionário jesuíta Francisco Xavier, escritas entre 1535 e 1552, sobretudo em espanhol, mas também em português e latim. Registram suas missões na Índia, no Sudeste Asiático e no Japão e seu encontro com povos, culturas e religiões fora da Europa.
+
 ## Fatos
 
 Corpus epistolar, não obra de título único — o `title_original` registra o título da edição crítica latina de referência, *Epistolae S. Francisci Xaverii aliaque eius scripta*, ed. Georg Schurhammer e Josef Wicki, Monumenta Historica Societatis Iesu, Roma.

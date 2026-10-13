@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Coletânea de ditos e diálogos de Confúcio (551–479 a.C.) e de seus discípulos, reunida por seguidores nas gerações posteriores à sua morte. Em aforismos breves, expõe uma concepção de ordem moral e política fundada na virtude, no estudo, no ritual e no exemplo do governante. É o texto central da tradição confuciana e uma das obras mais influentes do pensamento chinês.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

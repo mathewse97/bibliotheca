@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia grega de Sófocles. Édipo, rei de Tebas, investiga a causa da peste que assola a cidade e descobre que ele próprio matou o pai e se casou com a mãe, cumprindo o oráculo que tentara evitar. Aristóteles, na *Poética*, a tomou como modelo da tragédia, e ela permanece uma das peças mais estudadas do teatro ocidental.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Obra de Alexis de Tocqueville, publicada em francês em dois volumes, em 1835 e 1840, a partir de sua viagem aos Estados Unidos. Analisa a democracia como regime político e como estado social marcado pela igualdade de condições, examinando costumes, associações, imprensa, centralização e o risco de uma tirania da maioria. É um clássico do pensamento político moderno.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

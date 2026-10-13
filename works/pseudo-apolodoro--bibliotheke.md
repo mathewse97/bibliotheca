@@ -69,6 +69,10 @@ derived_from:
 updated: 2026-09-22
 ---
 
+## Sobre a obra
+
+Manual de mitologia grega em três livros, em grego antigo, transmitido com uma *Epítome* que preserva o fim perdido da obra. Atribuído falsamente a Apolodoro de Atenas, foi composto nos primeiros séculos da era cristã. Não é obra literária nem interpretação: é um compêndio que segue as fontes gregas e registra muitas vezes mais de uma versão da mesma história, o que o torna obra de consulta para a leitura dos poetas.
+
 ## Fatos
 
 Manual de mitologia grega em três livros, transmitido junto de uma *Epítome*

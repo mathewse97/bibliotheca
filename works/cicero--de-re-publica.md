@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Diálogo de Cícero escrito em latim por volta de 54–51 a.C., conservado apenas em parte; boa porção foi recuperada em 1819 num palimpsesto. Tendo Cipião Emiliano como personagem principal, discute a melhor forma de governo, defende a constituição mista e trata da justiça e da lei. Termina com o "Sonho de Cipião", transmitido separadamente ao longo da Idade Média.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

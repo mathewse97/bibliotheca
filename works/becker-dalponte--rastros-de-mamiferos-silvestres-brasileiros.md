@@ -41,6 +41,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1991", note: "A primeira edição; esgotada."}
 ---
 
+## Sobre a obra
+
+Guia de campo brasileiro de Marlise Becker e Julio C. Dalponte para a identificação de rastros de mamíferos silvestres do país.
+
 ## Fatos
 
 Original brasileiro, em português. Guia de campo — identificação de rastros.

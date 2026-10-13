@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Livro do economista e filósofo Hans-Hermann Hoppe, da escola austríaca, publicado em inglês em 2001. Faz uma crítica libertária da democracia: compara-a desfavoravelmente à monarquia hereditária com base nos incentivos de quem governa, e defende como alternativa uma ordem social fundada na propriedade privada, sem Estado.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

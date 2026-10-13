@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Manual da Irmã Miriam Joseph, professora no Saint Mary's College, em Indiana, nascido de seu curso sobre as três artes liberais da linguagem. Expõe de forma sistemática a lógica, a gramática e a retórica como disciplinas para pensar, ler e escrever bem.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, do fim do século V a.C., sobre a guerra entre Etéocles e Polinices, filhos de Édipo, pelo trono de Tebas. Nesta versão, Jocasta ainda vive e tenta em vão reconciliá-los; o título vem do coro de mulheres fenícias de passagem pela cidade. A peça reúne em amplo painel a ruína da casa de Édipo.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

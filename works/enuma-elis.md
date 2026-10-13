@@ -54,6 +54,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Library of Babylonian Literature, Bloomsbury, 2024", note: "O texto no estado da arte, em inglês; complemento acadêmico."}
 ---
 
+## Sobre a obra
+
+Poema babilônico anônimo da criação, composto em acádio no segundo milênio a.C., com datação debatida. Narra a origem dos deuses, o combate de Marduk contra Tiamat e a criação do mundo a partir do corpo dela, culminando na exaltação de Marduk como rei dos deuses e na fundação da Babilônia. É uma fonte central para conhecer a cosmologia mesopotâmica.
+
 ## Fatos
 
 Poema babilônico de criação, anônimo. `form` nulo pela mesma razão de Gilgámesh.

@@ -48,6 +48,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Livro de Mark S. Smith, publicado em 2004, especialista em religião do Israel antigo e em textos ugaríticos. Em linguagem acessível, examina como a concepção israelita de Deus se formou historicamente a partir das tradições cananeias e como a memória coletiva moldou essa experiência religiosa. Complementa a obra principal do autor, *The Early History of God*.
+
 ## Fatos
 
 Síntese acessível sobre a formação da concepção israelita de Deus, escrita depois das monografias técnicas do autor.

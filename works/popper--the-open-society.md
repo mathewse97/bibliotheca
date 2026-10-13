@@ -33,6 +33,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Itatiaia / Edusp, trad. Milton Amado", note: "A única brasileira, mas esgotada há décadas e rara."}
 ---
 
+## Sobre a obra
+
+Obra em dois volumes de Karl Popper, publicada em 1945, em inglês. Critica o historicismo — a pretensão de conhecer as leis necessárias da história e de dirigi-la — e as filosofias que vê na raiz do totalitarismo, sobretudo Platão, Hegel e Marx. Contra elas, defende a sociedade aberta, que admite a crítica e reforma suas instituições aos poucos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

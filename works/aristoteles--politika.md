@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de Aristóteles, do século IV a.C., que parte da afirmação de que o homem é por natureza um animal político. Examina a cidade e a família, critica propostas de constituição ideal, classifica os regimes segundo quem governa e em vista de quê, e analisa a democracia, a oligarquia, as causas das revoluções e as condições de estabilidade. É uma das obras fundadoras da ciência política.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

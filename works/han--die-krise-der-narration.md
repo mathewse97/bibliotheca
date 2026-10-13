@@ -66,6 +66,10 @@ derived_from:
 updated: 2026-09-19
 ---
 
+## Sobre a obra
+
+Ensaio do filósofo Byung-Chul Han, publicado em alemão em 2023. Sustenta que a lógica aditiva e fragmentária da informação digital corrói a narração, forma que dá sentido e continuidade à experiência, e examina o que se perde quando a narrativa cede lugar à informação.
+
 ## Fatos
 
 Ensaio filosófico sobre a crise da capacidade narrativa na era da

@@ -56,6 +56,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "Mais nova, mas só em inglês."}
 ---
 
+## Sobre a obra
+
+Manual de referência do curso PHTLS, elaborado pela associação americana de técnicos em emergência médica (NAEMT) em conjunto com o Colégio Americano de Cirurgiões. Expõe o protocolo profissional de avaliação e atendimento à vítima de trauma antes da chegada ao hospital, e destina-se à formação técnica, não ao público leigo.
+
 ## Fatos
 
 Autoria corporativa, confirmada em fonte de tier 1: NAEMT, com chancela do

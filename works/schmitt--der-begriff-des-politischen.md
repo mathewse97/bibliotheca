@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Del Rey, 2008", note: "Traz também a Teoria do partisan; tradução não avaliada."}
 ---
 
+## Sobre a obra
+
+Ensaio do jurista alemão Carl Schmitt, publicado em 1927 e revisto em 1932 e 1933. Sustenta que o político se define pela distinção entre amigo e inimigo, e critica o liberalismo por tentar dissolver o conflito em economia e discussão parlamentar. É uma das obras mais influentes e controversas do pensamento político do século XX.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Ensaio de Raymond Aron publicado em francês em 1955. Critica a adesão dos intelectuais franceses ao marxismo e examina os mitos da esquerda, da revolução e do proletariado, tratando a ideologia como uma espécie de religião secular que dispensa o exame dos fatos. É um dos textos clássicos do liberalismo francês do pós-guerra.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

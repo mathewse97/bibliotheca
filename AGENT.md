@@ -132,7 +132,7 @@ responde a quê e como extraí-la.
 | escalonamento, aprovação, reversibilidade | `config/curation-rules.md` | §4, §5 |
 | **fluxo ao entrar uma obra nova** | `config/curation-rules.md` | §6 |
 | o que um agente nunca faz | `config/curation-rules.md` | §7 |
-| **o que chega à tela dele** | `config/interface-rules.md` | inteiro — são 4 seções curtas |
+| **o que chega à tela dele** | `config/interface-rules.md` | inteiro; §10 para o texto da obra |
 | critério de pronto: renderizar e olhar | `config/interface-rules.md` | §3 |
 
 Precedência, nos dois arquivos: uma instrução direta do Mathews vence o

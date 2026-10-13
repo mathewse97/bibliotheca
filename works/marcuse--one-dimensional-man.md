@@ -53,6 +53,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A ideologia da sociedade industrial, Zahar, 1967", note: "A tradução histórica; só usada."}
 ---
 
+## Sobre a obra
+
+Obra de Herbert Marcuse publicada em 1964. Sustenta que a sociedade industrial avançada absorve a contestação e produz as necessidades que depois satisfaz; se a classe trabalhadora foi integrada, o sujeito da mudança teria de ser procurado em outro lugar. Foi um dos livros mais influentes da Escola de Frankfurt e da nova esquerda dos anos 1960.
+
 ## Fatos
 
 Pesquisa parcial. É o texto em que a Escola de Frankfurt volta a ter programa

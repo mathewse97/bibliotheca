@@ -37,6 +37,10 @@ derived_from:
 updated: 2026-10-13
 ---
 
+## Sobre a obra
+
+História do império aquemênida de Maria Brosius, publicada em inglês em 2020 numa série de manuais de história antiga. Acompanha o império da fundação ao colapso diante de Alexandre, em 330 a.C., lendo criticamente as fontes gregas, que tendem a estereotipar os persas, ao lado da arqueologia e das fontes produzidas no próprio império.
+
 ## Fatos
 
 História do império aquemênida, da fundação ao colapso em 330 a.C. Lê criticamente as fontes gregas, que tendem a estereotipar os persas, ao lado da evidência arqueológica e das fontes em línguas do próprio império. Não há tradução portuguesa conhecida.

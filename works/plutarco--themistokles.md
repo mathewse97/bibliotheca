@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vidas dos homens ilustres, Editora das Américas, 1953", note: "Antiga e provavelmente traduzida do francês."}
 ---
 
+## Sobre a obra
+
+Biografia de Temístocles, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Camilo. Trata do estadista ateniense que fez de Atenas uma potência naval e conduziu a vitória grega em Salamina, nas Guerras Médicas, antes de terminar no exílio.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

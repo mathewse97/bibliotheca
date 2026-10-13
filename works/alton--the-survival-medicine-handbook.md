@@ -54,6 +54,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Manual de medicina de sobrevivência para leigos, de Joseph e Amy Alton, publicado em 2013 e revisto e ampliado em edições posteriores. Parte do princípio de que hospital e médico não estão disponíveis e cobre o cuidado continuado: infecções, doenças crônicas, medicamentos, procedimentos, problemas dentários e plantas medicinais.
+
 ## Fatos
 
 Manual de medicina de sobrevivência para leigos, escrito para o cenário em que

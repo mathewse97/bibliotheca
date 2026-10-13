@@ -59,6 +59,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Antologia bilíngue, em inglês e português, de textos de Yuri Bezmenov dos anos de 1983 e 1984, apresentada como primeiro volume de uma compilação de seus trabalhos. Bezmenov foi um desertor da KGB que, depois de 1970, passou a escrever e dar palestras em inglês sobre a subversão ideológica praticada pela União Soviética.
+
 ## Fatos
 
 Não pesquisado em profundidade. Yuri Bezmenov foi um desertor da KGB que,

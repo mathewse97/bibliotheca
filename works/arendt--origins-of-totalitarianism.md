@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Dom Quixote (Lisboa), 2024", note: "Portuguesa e importada."}
 ---
 
+## Sobre a obra
+
+Obra de Hannah Arendt publicada em 1951, dividida em três partes: antissemitismo, imperialismo e totalitarismo. Reconstrói os elementos que se cristalizaram no nazismo e no stalinismo e analisa o totalitarismo como forma nova de domínio, baseada nas massas, na ideologia e no terror. É um dos estudos clássicos da teoria política do século XX.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

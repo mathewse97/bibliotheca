@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edipro, trad. Edson Bini", note: "Direta, com notas; menos prestigiada."}
 ---
 
+## Sobre a obra
+
+Tratado de Aristóteles, do século IV a.C., em dez livros. Investiga o bem humano, identificado com a felicidade (*eudaimonia*) entendida como atividade conforme à virtude, e examina as virtudes morais como disposições de meio-termo, a prudência, a justiça, a amizade e o prazer. É uma das obras fundadoras da ética ocidental.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

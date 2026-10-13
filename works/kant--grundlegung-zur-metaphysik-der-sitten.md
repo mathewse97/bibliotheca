@@ -56,6 +56,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martin Claret, 2019", note: "Edição popular, sem aparato verificado."}
 ---
 
+## Sobre a obra
+
+Obra de Immanuel Kant publicada em 1785, em alemão, que funda a moral na razão prática: uma ação tem valor moral pelo princípio que a governa, não por suas consequências. Daí formula o imperativo categórico, a autonomia da vontade e o princípio de tratar a humanidade sempre também como fim, nunca apenas como meio. É um dos textos centrais da ética moderna e o ponto de partida de boa parte da filosofia moral e política posterior, inclusive de Rawls.
+
 ## Fatos
 
 Pesquisa parcial. O texto expõe a moral a partir da razão prática: uma ação

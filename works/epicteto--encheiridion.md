@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O Encheirídion de Epicteto, Coimbra / Annablume, trad. Aldo Dinucci e Alfredo Julien", note: "Bilíngue, com introdução e comentário; em decisão."}
 ---
 
+## Sobre a obra
+
+Breve manual de ética estoica que reúne ensinamentos do filósofo Epicteto (séc. I–II d.C.), compilado por seu discípulo Arriano. Parte da distinção entre o que depende de nós e o que não depende, e propõe exercícios para governar juízos e desejos e viver com serenidade diante do que não se controla. É um dos textos mais lidos do estoicismo.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

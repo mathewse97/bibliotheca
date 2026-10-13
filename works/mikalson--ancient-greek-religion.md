@@ -36,6 +36,10 @@ provenance_note: "Autoria ampliada em 2026-09-12: a edição da Wiley-Blackwell
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Introdução à religião grega antiga de Jon D. Mikalson, com Andrej Petrovic e Ivana Petrovic. Trata a religião efetivamente praticada — deuses, cultos, santuários, festivais, sacrifícios — distinguindo-a do mito e da literatura.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

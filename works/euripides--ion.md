@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, escrita no fim do século V a.C. Creúsa, princesa de Atenas, chega a Delfos sem saber que o jovem servidor do templo, Íon, é o filho que teve de Apolo e abandonou ao nascer; a peça avança por equívocos e uma tentativa de assassinato até o reconhecimento entre mãe e filho. Põe em questão a conduta dos deuses e reelabora o mito de origem dos atenienses.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

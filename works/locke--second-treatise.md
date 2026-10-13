@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Segunda parte dos *Dois Tratados sobre o Governo*, de John Locke, publicados em 1689. Parte do estado de natureza e dos direitos naturais à vida, à liberdade e à propriedade para fundar o governo no consentimento dos governados, limitado por esses direitos, e para justificar a resistência quando ele os viola. É um dos textos fundadores do liberalismo político.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

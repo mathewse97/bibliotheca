@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de Nicolau Maquiavel escrito por volta de 1513 e publicado postumamente em 1532. Examina como o príncipe conquista e conserva o poder, tratando a política segundo a realidade efetiva das coisas e não como extensão da moral. É considerado o marco inicial do pensamento político moderno.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

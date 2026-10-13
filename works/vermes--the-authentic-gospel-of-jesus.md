@@ -51,6 +51,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Livro de Géza Vermes, publicado em 2003, estudioso conhecido pelas pesquisas sobre o Jesus histórico em seu contexto judaico (*Jesus the Jew*, 1973). Aplica critérios de autenticidade a todos os ditos atribuídos a Jesus nos evangelhos sinóticos para reconstruir sua mensagem original. É obra de tese forte, e os próprios critérios de autenticidade foram depois questionados por outros estudiosos.
+
 ## Fatos
 
 Aplica critérios de autenticidade a todos os ditos de Jesus nos sinóticos. Géza Vermes é figura central da pesquisa sobre o 'Jesus judeu' (*Jesus the Jew*, 1973).

@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides em que Héracles, ao voltar dos trabalhos e salvar a família de um usurpador, é tomado por uma loucura enviada por Hera e mata a esposa e os filhos. Recobrado, pensa em se matar, mas é acolhido por Teseu, que o leva para Atenas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

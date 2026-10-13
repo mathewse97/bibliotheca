@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Inquérito (Portugal), trad. Custódio Magueijo", note: "Portuguesa."}
 ---
 
+## Sobre a obra
+
+Comédia de Aristófanes, encenada em Atenas em 423 a.C. e conservada numa versão revista pelo autor. Um pai endividado manda o filho à escola de Sócrates para aprender a vencer qualquer causa com argumentos, e a peça satiriza a nova educação sofística e a investigação da natureza. O retrato de Sócrates que ela fixou é lembrado por Platão na *Apologia* como uma das origens do preconceito contra o filósofo.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

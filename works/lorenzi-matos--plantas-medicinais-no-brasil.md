@@ -38,6 +38,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Obra de referência de Harri Lorenzi e Francisco José de Abreu Matos, publicada pela primeira vez em 2002, sobre as plantas mais usadas na medicina popular brasileira, nativas e exóticas. Reúne, para cada espécie, informações químicas, fitoterápicas e etnofarmacológicas.
+
 ## Fatos
 
 Referência técnico-científica sobre as espécies mais usadas na medicina popular brasileira, com dados químicos, fitoterápicos e etnofarmacológicos.

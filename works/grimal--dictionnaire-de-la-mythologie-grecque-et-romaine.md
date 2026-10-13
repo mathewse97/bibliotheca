@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Dicionário de referência do helenista francês Pierre Grimal, publicado originalmente em 1951. Organizado em verbetes, reúne personagens e episódios da mitologia grega e romana, com as variantes dos mitos e as fontes antigas que os transmitem. É instrumento de consulta, mais do que de leitura contínua.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

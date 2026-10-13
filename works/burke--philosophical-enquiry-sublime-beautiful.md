@@ -58,6 +58,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edições 70 (Lisboa), 2013", note: "Portuguesa."}
 ---
 
+## Sobre a obra
+
+Tratado de estética de Edmund Burke, publicado em inglês em 1757 e ampliado em 1759. Separa o belo do sublime e os funda em paixões distintas: o belo no prazer e na sociabilidade, o sublime no terror experimentado a uma distância segura. É a obra que dá ao sublime estatuto próprio na estética moderna e que Kant retomaria depois.
+
 ## Fatos
 
 Pesquisa parcial. Separa o belo do sublime e os funda em paixões distintas: o

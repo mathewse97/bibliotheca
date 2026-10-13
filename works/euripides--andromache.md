@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia de Eurípides, provavelmente dos anos 420 a.C. Após a queda de Troia, Andrômaca, viúva de Heitor, é escrava e concubina de Neoptólemo e se vê ameaçada de morte, junto com o filho, pela esposa dele, Hermíone, e pelo pai desta, Menelau.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

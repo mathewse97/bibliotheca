@@ -47,6 +47,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Bíblia de Jerusalém, Paulus", note: "Notas de alto nível, mas tradução de comissão e confessional."}
 ---
 
+## Sobre a obra
+
+Os quatro evangelhos do Novo Testamento — Mateus, Marcos, Lucas e João —, escritos em grego no século I d.C. Narram a vida, os ensinamentos, a morte e a ressurreição de Jesus, e são as fontes centrais para o estudo histórico e literário do cristianismo das origens.
+
 ## Fatos
 
 Obra coletiva e canônica, sem autoria no sentido comum — `authors` fica vazio. `form` nulo pelas mesmas razões das outras obras canônicas.

@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Gulbenkian, 2003, trad. Delfim Ferreira Leão", note: "Muito anotada, mas portuguesa."}
 ---
 
+## Sobre a obra
+
+Tratado atribuído a Aristóteles ou à sua escola, conhecido quase só por um papiro publicado em 1891. A primeira parte narra a história constitucional de Atenas até o fim do século V a.C.; a segunda descreve o funcionamento das instituições democráticas no tempo do autor, como assembleia, conselho, magistraturas e tribunais. É fonte fundamental para a história da democracia ateniense.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

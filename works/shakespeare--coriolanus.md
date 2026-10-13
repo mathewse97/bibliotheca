@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-09-28
 ---
 
+## Sobre a obra
+
+Tragédia romana de William Shakespeare, publicada postumamente no Primeiro Fólio de 1623. Conta a história de Caio Márcio Coriolano, herói militar que despreza a plebe e não tolera que ela tenha conquistado, com os tribunos, uma voz institucional própria. É a peça de Shakespeare mais diretamente dedicada ao problema da representação popular, vista do ponto de vista de quem a recusa.
+
 ## Fatos
 
 A mais diretamente política das três, e a única sobre **representação popular**.

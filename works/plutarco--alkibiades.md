@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Biografia de Alcibíades, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Coriolano. Acompanha o político ateniense, discípulo de Sócrates, cujas mudanças de lado marcaram a Guerra do Peloponeso e a crise de Atenas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

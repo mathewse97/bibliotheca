@@ -48,6 +48,10 @@ provenance:
 updated: 2026-09-20
 ---
 
+## Sobre a obra
+
+Livro de 2019, escrito originalmente em francês, em forma de diálogo entre o arqueólogo Israel Finkelstein e o exegeta Thomas Römer. Os dois expõem e confrontam o que a arqueologia e a crítica bíblica dizem hoje sobre a formação do Pentateuco, composto no contexto dos impérios assírio, babilônico e persa. É uma síntese de alta divulgação, útil como introdução avançada ao tema.
+
 ## Fatos
 
 Livro escrito a quatro mãos, em formato de **diálogo entre arqueologia e exegese** — dois coautores reais, sem entrevistador oculto.

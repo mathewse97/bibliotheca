@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Tratado de Montesquieu publicado em 1748. Estuda as leis em relação ao clima, aos costumes, à religião, ao comércio e às formas de governo, que classifica em república, monarquia e despotismo. Sua defesa da separação dos poderes teve grande influência nas constituições modernas.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

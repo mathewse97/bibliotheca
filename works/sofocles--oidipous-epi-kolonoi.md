@@ -33,6 +33,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Tragédia grega de Sófocles, a última que escreveu, encenada postumamente em 401 a.C. Mostra Édipo, velho, cego e exilado, chegando a Colono, nos arredores de Atenas, onde encontra acolhida e morre de forma misteriosa, tornando-se protetor da terra que o recebe.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

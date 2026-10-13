@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-10-10
 ---
 
+## Sobre a obra
+
+Introdução à filosofia ocidental de Nigel Warburton, publicada em inglês em 2011. Em quarenta capítulos curtos, percorre a história do pensamento de Sócrates ao século XX, apresentando cada filósofo por meio de suas ideias centrais e de sua vida.
+
 ## Fatos
 
 Introdução histórica à filosofia ocidental em quarenta capítulos curtos, de Sócrates ao século XX.

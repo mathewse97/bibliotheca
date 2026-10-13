@@ -90,6 +90,10 @@ derived_from:
 updated: 2026-10-05
 ---
 
+## Sobre a obra
+
+Livro do neurocientista francês Stanislas Dehaene, professor do Collège de France que pesquisa leitura e cognição numérica. Em vez de recomendar técnicas de estudo, explica o que o cérebro faz quando aprende e por que ainda aprende melhor, com muito menos dados, do que as máquinas inspiradas nele. Organiza a aprendizagem em quatro pilares (atenção, engajamento ativo, retorno sobre o erro e consolidação) e tira deles consequências para o ensino.
+
 ## Fatos
 
 Neurociência cognitiva da aprendizagem, por um pesquisador do Collège de France

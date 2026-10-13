@@ -31,6 +31,10 @@ derived_from:
 updated: 2026-09-05
 ---
 
+## Sobre a obra
+
+Livro do cientista político norte-americano Robert Dahl, publicado em 1998, que apresenta de forma acessível a teoria democrática que ele desenvolveu ao longo da carreira. Discute o que é a democracia, por que preferi-la e quais instituições políticas ela exige num país moderno, além das condições que a favorecem ou a ameaçam. Dahl é um dos principais teóricos da democracia pluralista do século XX.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

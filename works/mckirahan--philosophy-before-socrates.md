@@ -34,6 +34,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "A mesma edição em português, revista por Gabriele Cornelli; em decisão."}
 ---
 
+## Sobre a obra
+
+Introdução de Richard D. McKirahan à filosofia grega anterior a Sócrates. Reúne os fragmentos e testemunhos dos primeiros pensadores, traduzidos para o inglês, acompanhados de comentário explicativo, com abordagem mais introdutória que a obra de Kirk, Raven e Schofield.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

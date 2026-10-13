@@ -44,6 +44,10 @@ derived_from:
 updated: 2026-09-17
 ---
 
+## Sobre a obra
+
+Diálogo de Platão, em grego antigo, passado na prisão dias antes da execução de Sócrates. Críton tenta convencê-lo a fugir; Sócrates recusa, argumentando que não se deve cometer injustiça nem em resposta a uma injustiça, e dá voz às Leis de Atenas, com as quais teria um acordo. Trata da relação entre a consciência individual, a justiça e a obediência à cidade.
+
 ## Fatos
 
 Pesquisa parcial (piloto de 2026-09-17). Grego antigo, Platão (428–347 a.C.).

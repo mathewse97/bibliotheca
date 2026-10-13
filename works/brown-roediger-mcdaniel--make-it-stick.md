@@ -34,9 +34,8 @@ relations:
   - type: complements
     target: dehaene--how-we-learn
     note: "Um deles pergunta que práticas de estudo produzem retenção
-           durável; o outro, o que o cérebro faz quando aprende. Ler primeiro o
-           mecanismo e depois a prática é sugestão do próprio Mathews, de
-           2026-10-01."
+           durável; o outro, o que o cérebro faz quando aprende. Vale ler primeiro o
+           mecanismo e depois a prática."
     by: claude
     proposed: 2026-10-01
 
@@ -88,6 +87,10 @@ derived_from:
          não consegui confirmar está em missing."
 updated: 2026-10-05
 ---
+
+## Sobre a obra
+
+Livro de 2014 que sintetiza a psicologia cognitiva da memória para quem estuda, ensina ou treina; dois dos autores, Roediger e McDaniel, são pesquisadores experimentais da área. Argumenta que reler, sublinhar e estudar tudo de uma vez dão uma sensação de domínio que não corresponde a retenção duradoura, e que o que funciona é mais desconfortável: recuperar da memória, espaçar o estudo, intercalar assuntos e aceitar a dificuldade.
 
 ## Fatos
 

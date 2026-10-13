@@ -62,6 +62,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Guia de plantas medicinais em ordem alfabética, do fitoterapeuta britânico David Hoffmann. Apresenta as ervas e seus usos no tratamento de males cotidianos.
+
 ## Fatos
 
 Obra original identificada com segurança, por correspondência de subtítulo

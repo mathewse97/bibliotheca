@@ -47,6 +47,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Direta e anotada, mas portuguesa e sem o grego."}
 ---
 
+## Sobre a obra
+
+Obra de Platão, em grego antigo, que apresenta a defesa de Sócrates no julgamento de 399 a.C., em que foi acusado de impiedade e de corromper os jovens e condenado à morte. Sócrates explica sua missão de examinar a si mesmo e aos outros e afirma que uma vida sem exame não vale a pena ser vivida. É uma das principais fontes sobre a figura de Sócrates.
+
 ## Fatos
 
 Pesquisa parcial (piloto de 2026-09-17). Grego antigo, Platão (428–347 a.C.).

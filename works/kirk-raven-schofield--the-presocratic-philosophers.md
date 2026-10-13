@@ -32,6 +32,10 @@ derived_from:
 updated: 2026-09-12
 ---
 
+## Sobre a obra
+
+Obra de referência sobre os primeiros filósofos gregos, de Tales aos atomistas, organizada por G. S. Kirk, J. E. Raven e M. Schofield. Apresenta os fragmentos e testemunhos antigos no original grego, com tradução e comentário crítico, acompanhando a passagem da explicação mítica para a investigação racional do cosmos. É há décadas um dos principais manuais acadêmicos sobre os pré-socráticos.
+
 ## Fatos
 
 Não pesquisado. Nada neste registro foi verificado.

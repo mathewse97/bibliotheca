@@ -38,6 +38,10 @@ derived_from:
 updated: 2026-09-06
 ---
 
+## Sobre a obra
+
+Manual de bushcraft do instrutor americano Dave Canterbury, publicado em inglês em 2014. Ensina a se manter na mata com pouco equipamento e com o que a natureza oferece: ferramentas de corte, fogo, abrigo, água, cordas e nós.
+
 ## Fatos
 
 Obra inglesa. A menção a «Manual do Mundo» na sua lista era informação de

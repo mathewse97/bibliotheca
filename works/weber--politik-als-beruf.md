@@ -35,6 +35,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Portugal, 2017, trad. Artur Morão", note: "Português de Portugal."}
 ---
 
+## Sobre a obra
+
+Conferência de Max Weber proferida em Munique e publicada em 1919. Define o Estado pelo monopólio do uso legítimo da violência, distingue tipos de dominação legítima e discute o que a política exige de quem a pratica, opondo a ética da convicção à ética da responsabilidade. É um dos textos mais citados da teoria política do século XX.
+
 ## Fatos
 
 Ainda não pesquisado. Nada aqui foi verificado.

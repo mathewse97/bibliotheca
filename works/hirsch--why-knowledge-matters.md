@@ -52,6 +52,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Livro de E. D. Hirsch Jr., publicado em inglês em 2016. Sustenta que a capacidade de ler e pensar depende de um conhecimento de fundo amplo e partilhado, e atribui a queda dos resultados escolares e a desigualdade entre alunos às teorias que trocaram o conteúdo por "habilidades" genéricas e pelo desenvolvimento natural da criança. Apoia-se em argumentos da ciência cognitiva e em dados de desempenho escolar.
+
 ## Fatos
 
 Livro de 2016 (Harvard Education Press). Hirsch sustenta que a habilidade

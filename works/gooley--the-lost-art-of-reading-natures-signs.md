@@ -62,6 +62,10 @@ derived_from:
 updated: 2026-09-23
 ---
 
+## Sobre a obra
+
+Livro do britânico Tristan Gooley, publicado em 2014, que reúne mais de 850 pistas observáveis ao ar livre — em árvores, plantas, animais, vento, nuvens, sol, lua, estrelas, água e relevo — e um método para relacioná-las. Não é guia de espécies nem manual de sobrevivência, mas uma arte de deduzir direção, tempo e presença de água e animais sem instrumentos. Foi escrito para o hemisfério norte temperado: o método vale em qualquer lugar, mas parte dos exemplos se inverte no Brasil.
+
 ## Fatos
 
 Catálogo de mais de 850 pistas observáveis ao ar livre — em árvores, plantas,

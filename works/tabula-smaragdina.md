@@ -51,6 +51,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "The Emerald Tablet, Brian Cotnoir, Khepri Press, 2014", note: "Traduções novas das versões árabe e latina, mas em tiragem de luxo, praticamente inacessível."}
 ---
 
+## Sobre a obra
+
+Texto curto e enigmático atribuído a Hermes Trismegisto, mas de origem árabe medieval, dos séculos VIII–IX, e difundido na Europa em versões latinas a partir do século XII. Em poucas sentenças formula princípios como a correspondência entre o que está em cima e o que está embaixo, e tornou-se um dos textos fundadores da tradição alquímica e hermética.
+
 ## Fatos
 
 **Não é texto da Antiguidade greco-egípcia**, ao contrário do que a sua associação a Hermes Trismegisto sugere: é de **origem árabe medieval**. Anônima e pseudoepigráfica; `authors` vazio pela mesma razão do Corpus.

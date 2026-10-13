@@ -59,6 +59,10 @@ derived_from:
 updated: 2026-09-22
 ---
 
+## Sobre a obra
+
+Manual universitário americano de Howard A. Ozmon e Samuel M. Craver que organiza a filosofia da educação por escolas filosóficas — idealismo, realismo, pragmatismo, existencialismo e as correntes analítica e crítica, entre outras. De cada uma deriva as consequências para currículo, método e papel do professor, com trechos das fontes primárias junto da exposição. Mais do que narrar uma história ou propor um programa, mapeia as posições em disputa.
+
 ## Fatos
 
 Manual universitário americano que organiza a filosofia da educação **por

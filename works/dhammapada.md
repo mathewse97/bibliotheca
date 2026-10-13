@@ -45,6 +45,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Gil Fronsdal e outras", note: "Traduzidas do inglês."}
 ---
 
+## Sobre a obra
+
+Coletânea de versos atribuídos ao Buda, integrante do cânone páli (no Khuddaka Nikāya), de compilação antiga e datação debatida. Em 423 estrofes distribuídas por 26 capítulos, trata da mente, da disciplina moral, do desapego e do caminho para a libertação. É um dos textos budistas mais lidos e traduzidos.
+
 ## Fatos
 
 Obra anônima do cânone páli (Khuddaka Nikāya); aforismos atribuídos ao Buda. `authors` vazio, `form` nulo.
