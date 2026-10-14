@@ -492,3 +492,60 @@ de cada obra aponta para a edição escolhida por você.
   (bilíngue, já registrada) e a Gulbenkian (Rocha Pereira), que é a indicação
   da coleção. *Política* — duas candidatas: Madamu e UnB (mesmo tradutor, Gama
   Kury); a indicação e o registro são UnB.
+
+---
+
+# 10 · Auditoria pela pirâmide de Adler — 2026-10-14
+
+Primeira aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews.
+Juízo do agente, não decisão: o nível de cada obra fica registrado aqui e não
+vai para a tela. Tudo o que pede mudança virou cartão em `review/decisions.yaml`
+(`d-pol-adler-*`). Nenhuma obra foi movida, tirada ou trocada.
+
+**Níveis:** A — releitura (inesgotável); B — uma leitura séria; C — informação
+ou consulta. **Papel:** 1 fonte central; 2 cobre posição ou problema que
+nenhuma outra cobre; 3 melhor guia para fonte difícil; 4 tratamento literário.
+
+**Resultado:** 54 obras — 29 A, 20 B, 5 C. A coleção é sólida; o excesso, onde
+existe, está no movimento VII (16 obras) e em obras recentes ou de divulgação.
+
+| movimento | A | B | C |
+|---|---|---|---|
+| I | Platão, Aristóteles, Tucídides, Sófocles (*Antígona*), Ésquilo (*Oresteia*) | Cícero | — |
+| II | Confúcio, Ibn Khaldun | Sunzi (encaixe fraco na pergunta: estratégia, não legitimidade), Kautilya | — |
+| III | Agostinho | Aquino, *Do Governo dos Príncipes* | — |
+| IV | Maquiavel, Shakespeare ×3, Hobbes, Locke, Montesquieu, Rousseau, Kant | — | — |
+| V | Burke, Tocqueville, Mill (*Sobre a Liberdade*) | Mill (*Governo Representativo*) | — |
+| VI | *Manifesto*, Dostoiévski (*Os Demônios*) | *A Ideologia Alemã*, *18 de Brumário*, Lukács, Marcuse | — |
+| VII | Weber, Schmitt, Huxley, Arendt, Berlin, *1984* | Michels, Zamiátin, Koestler, Popper, Voegelin, Aron, Orwell (ensaio), Klemperer, *A Fazenda dos Animais* | Bezmenov |
+| VIII | Rawls | Habermas | Dahl (*Sobre a Democracia*), Levitsky e Ziblatt |
+| IX | — | Rothbard (*Ética da Liberdade*) | Rothbard (*Anatomia do Estado*: porta de entrada, já julgada não redundante em §4.1), Hoppe |
+
+**Leitura parcial indicada** (vai para "Como ler" quando a seção for escrita):
+Tucídides (livro I; II, oração fúnebre; III, Mitilene e Córcira; V, diálogo
+dos mélios); Kautilya (livros I e VI); Ibn Khaldun (capítulos 1–3); Agostinho
+(livros I–V, XIV, XIX); Hobbes (partes I–II); Montesquieu (livros I–VIII, XI,
+XIX); Tocqueville (vol. 1 e parte IV do vol. 2); *A Ideologia Alemã* (parte I);
+Lukács (ensaio da reificação); Arendt (parte III); Rawls (parte I).
+
+**Pontos que viraram cartão:**
+
+1. Bezmenov — saída ou consulta (`d-pol-adler-bezmenov`).
+2. Levitsky e Ziblatt — saída ou consulta (`d-pol-adler-levitsky`).
+3. Aquino — o porquê do Mathews cita lei natural, que está no *Tratado da Lei*
+   (Suma Teológica I-II, q. 90–97) e não em *Do Governo dos Príncipes*, que
+   ficou inacabado e foi continuado por Ptolomeu de Lucca
+   (`d-pol-adler-aquino`).
+4. Dahl — *Sobre a Democracia* é introdução; *A Democracia e seus Críticos*
+   (1989) é a obra madura. Obra com ★ (`d-pol-adler-dahl`).
+5. Cinco ficções sobre totalitarismo no VII; a sobreposição maior é *A Fazenda
+   dos Animais* com *1984*, e Zamiátin está contido nas duas
+   (`d-pol-adler-distopias`).
+6. Lukács, Marcuse e Habermas pesam mais que Marx, e *O Capital* falta
+   (`d-pol-adler-marxismo`).
+7. Hoppe — com Nozick decidido (`d-pol-nozick`), repete a posição libertária
+   de forma mais polêmica (`d-pol-adler-hoppe`).
+
+**Lacunas:** nenhuma nova. O critério confirma *O Federalista*, Nozick e *A
+Personalidade Autoritária* (já decididos, à espera de pesquisa) e *O Capital*
+(candidato em g03, levado ao cartão 6).

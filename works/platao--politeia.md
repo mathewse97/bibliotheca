@@ -40,7 +40,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-17
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Fundação Calouste Gulbenkian, trad. Maria Helena da Rocha Pereira", note: "Tradução de Maria Helena da Rocha Pereira, de Coimbra, com notas, mas importada de Portugal e sem o grego ao lado."}
   - {edition: "Martins Fontes, trad. Anna Lia Amaral de Almeida Prado", note: "Tradução brasileira de Anna Lia Amaral de Almeida Prado, direto do grego e com notas, mas sem o texto grego ao lado."}
@@ -49,6 +49,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Diálogo de Platão, em grego antigo, em dez livros, que parte da pergunta sobre o que é a justiça e responde construindo uma cidade ideal governada por filósofos. Nele se articulam educação, política, ética, teoria do conhecimento e metafísica — incluindo a alegoria da caverna e a crítica da poesia. É a obra central do pensamento platônico e um dos textos fundadores da filosofia política ocidental.
+
+## Como ler
+
+- **A pergunta:** o que é a justiça, e vale mais ser justo do que injusto mesmo quando ninguém está vendo?
+- **Onde está o centro:** o livro I abre o problema; os livros II a IV constroem a cidade e definem a justiça como cada parte fazendo o que lhe cabe, na cidade e na alma; V a VII trazem os filósofos governantes e a alegoria da caverna; VIII e IX mostram como os regimes degeneram até a tirania, a parte mais política do livro.
+- **Postura:** é um diálogo, e nem toda fala é a posição final de Platão; as ideias são testadas na conversa. Leia inteiro e na ordem, lembrando que a cidade é um modo de ver a alma em ponto grande. Leia antes da *Política* de Aristóteles, que critica este livro.
 
 ## Fatos
 

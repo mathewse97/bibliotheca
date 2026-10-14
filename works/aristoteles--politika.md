@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "Editora UnB, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, tradutor brasileiro de muitos clássicos gregos, feita direto do grego, com introdução e notas, mas sem o grego ao lado. Edição antiga da editora da Universidade de Brasília."}
   - {edition: "Madamu, 2021, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, tradutor brasileiro de muitos clássicos gregos, à venda nova. Traz a numeração usada para citar Aristóteles, que ajuda a achar passagens mencionadas em outros livros, mas não tem o grego ao lado."}
@@ -39,6 +39,12 @@ editions_considered:
 ## Sobre a obra
 
 Tratado de Aristóteles, do século IV a.C., que parte da afirmação de que o homem é por natureza um animal político. Examina a cidade e a família, critica propostas de constituição ideal, classifica os regimes segundo quem governa e em vista de quê, e analisa a democracia, a oligarquia, as causas das revoluções e as condições de estabilidade. É uma das obras fundadoras da ciência política.
+
+## Como ler
+
+- **A pergunta:** qual é o melhor regime, e qual é o melhor possível para uma cidade real?
+- **Onde está o centro:** o livro I (o homem como animal político); o III (quem é cidadão, e os seis regimes, três retos e três desviados, conforme quem governa vise ao bem comum ou ao próprio); os livros IV a VI (democracia, oligarquia, o regime misto e as causas das revoluções); e VII e VIII (o regime ideal e a educação). O livro II critica *A República* de Platão.
+- **Postura:** são textos de ensino, não um livro polido; às vezes secos ou repetitivos, e a ordem dos livros é discutida pelos estudiosos. Leia como análise, atento às distinções e aos exemplos de cidades gregas reais. Leia depois de *A República*.
 
 ## Fatos
 

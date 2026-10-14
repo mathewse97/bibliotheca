@@ -272,6 +272,63 @@ existir. O caso é `political-thought`, movimento X — e a redistribuição dos
 seis membros é obra a obra, com pesquisa antes e aprovação dele em cada uma.
 Ver o cartão `d-pol-movimento-x` em `review/decisions.yaml`.
 
+### 2.9 A pirâmide de Adler: toda obra precisa justificar o lugar — decisão do Mathews, 2026-10-14
+
+Vale para **todas** as coleções, para as obras que entram e para as que já
+estão. Vem da última parte de *Como Ler Livros*, de Mortimer Adler e Charles
+Van Doren: a maioria dos livros serve para informar, uma parte menor ensina
+algo numa leitura séria e se esgota, e pouquíssimos se releem a vida toda sem
+se esgotar.
+
+**O teste tem duas partes, e a obra precisa passar nas duas.**
+
+1. **Papel.** A obra cumpre pelo menos um destes papéis na coleção em que
+   entra:
+   - **fonte central** para a pergunta da coleção;
+   - **cobre uma posição ou um problema que nenhuma outra obra da coleção
+     cobre** (o teste de redundância);
+   - **é o melhor guia disponível para uma fonte difícil** (é aqui que entram
+     os comentários e as introduções);
+   - **tratamento literário** de um problema que a coleção trata pela teoria
+     (§2.8);
+   - para obra **prática** (manual, guia técnico): é aplicável e foi testada
+     por quem tem experiência real.
+2. **Nível.** A obra recebe um dos três níveis da pirâmide, e o nível decide o
+   que ela pode ser na coleção:
+   - **A — releitura**: inesgotável; é núcleo, e é o que se lê inteiro com
+     calma;
+   - **B — uma leitura séria**: ensina, mas se esgota; fica com papel claro;
+   - **C — informação ou consulta**: fica **só** se for a melhor opção para a
+     sua função. Duas obras de nível C com a mesma função são uma redundância
+     a apontar.
+
+**O que a regra muda na prática.**
+
+- **Obra nova:** a proposta de entrada diz qual papel ela cumpre e em que
+  nível está, com a razão. Uma obra sem papel não é proposta.
+- **Obra que já está:** uma auditoria pela pirâmide **aponta**; não tira nada.
+  Saída, troca e redundância viram cartão em `review/decisions.yaml` e são
+  decisão dele (§4, §5, §7). Obras com ★ dele nunca saem por iniciativa do
+  agente.
+- **Leitura parcial:** quando uma obra grande só precisa ser lida em parte
+  para servir à coleção, a auditoria diz quais partes. Isso vai para a seção
+  "Como ler" da obra (`config/interface-rules.md` §13).
+
+**Limites, para a regra não ser aplicada às cegas.**
+
+- O cânone de Adler é ocidental, filosófico e literário. Para tradições não
+  ocidentais e para coleções práticas (como Sobrevivência), vale o teste do
+  **papel**; o nível se aplica com o critério de livro prático, não o de
+  grande livro.
+- "Testado pelo tempo" vale para fontes e literatura. Para comentário,
+  história moderna e ciência, o recente costuma ser o melhor, e não perde
+  nível por ser recente.
+- O nível é juízo do agente, registrado com a razão, e não é fato. Ele fica na
+  revisão da coleção (`review/<coleção>.md`), não no registro da obra, e não
+  aparece na tela.
+
+Primeira aplicação: `review/political-thought.md` §10.
+
 ---
 
 ## 3 · Preservação
@@ -401,6 +458,8 @@ consistência** — nunca contorna a estrutura existente em silêncio:
 3. determinar a que coleções pertence genuinamente, com papel, posição,
    prerequisitos locais e argumento **por coleção** — três coleções, três
    argumentos, não um copiado três vezes;
+   3.1. passar pelo teste da §2.9 em cada coleção: qual papel cumpre e em que
+   nível da pirâmide está. Sem papel, não entra;
 4. estabelecer relações com o que já existe, incluindo as oposições;
 5. reavaliar as coleções afetadas: `scope_map`, cobertura, registros de lacuna,
    relações, prerequisitos e lógica de sequência;

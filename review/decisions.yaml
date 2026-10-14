@@ -1234,6 +1234,138 @@ items:
   recommendation: "A: a revisão de 2018 só existe em inglês. Aqui a atualização do conteúdo pesa mais que o idioma: a edição em português é de 1985."
   recommended: A
 
+# ============================== MUDAR UMA COLEÇÃO ===========================
+# Auditoria de Política pela pirâmide de Adler (curation-rules.md §2.9),
+# 2026-10-14. Registro de pesquisa: review/political-thought.md §10.
+
+- id: d-pol-adler-bezmenov
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Tirar de Política o livro de Yuri Bezmenov sobre a subversão soviética?"
+  why: "*Subversão: Teoria, Aplicação e Confissão de um Método* reúne palestras e entrevistas de 1983 e 1984 de Yuri Bezmenov, ex-agente da KGB, o serviço secreto soviético, que fugiu para o Ocidente. Ele conta como a União Soviética tentava desestabilizar outros países por dentro, com propaganda. É um depoimento, não um argumento sobre quando um governo é legítimo, que é a pergunta da coleção. E o tema da propaganda já está em obras mais sólidas: *1984*, de George Orwell, e *LTI*, o estudo de Victor Klemperer sobre a língua do nazismo."
+  options:
+    - {key: A, recommended: true, title: "Tirar da coleção", effect: "Sai de Política. O livro continua registrado na biblioteca, sem coleção, e pode voltar quando você quiser."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional: não é passo obrigatório da coleção."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, uma obra precisa cumprir na coleção um papel que nenhuma outra cumpre. Esta não cumpre: a propaganda já está explicada por livros que se releem. Se o testemunho de quem esteve dentro te interessa, a B mantém o livro sem pesar na sequência."
+  candidates:
+    - {title: "Subversão: Teoria, Aplicação e Confissão de um Método", author: "Yuri Bezmenov · palestras de 1983–84", adds: "Depoimento de um ex-agente soviético sobre propaganda e desestabilização.", facts: ["Hoje na parte sobre poder e ideologia", "-Depoimento, não argumento"]}
+    - {title: "1984", author: "George Orwell · 1949", adds: "Já na coleção. A propaganda e a reescrita da verdade num regime total.", facts: ["+Já está na coleção"]}
+    - {title: "LTI: A Linguagem do Terceiro Reich", author: "Victor Klemperer · 1947", adds: "Já na coleção. Um filólogo judeu registra, dia a dia, como o nazismo mudou o sentido das palavras.", facts: ["+Já está na coleção"]}
+
+- id: d-pol-adler-levitsky
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Tirar de Política *Como as Democracias Morrem*, de Steven Levitsky e Daniel Ziblatt?"
+  why: "Livro de 2018 de dois cientistas políticos de Harvard: as democracias de hoje morrem menos por golpes e mais por líderes eleitos que vão corroendo as regras não escritas, como a tolerância com o adversário. Fui eu que o propus, como contraponto ao livro de Robert Dahl sobre democracia. É um bom livro, mas é de divulgação, apoiado em casos recentes, e envelhece rápido. Pela pirâmide de Adler, é obra de informação: lê-se uma vez e não se relê."
+  options:
+    - {key: A, recommended: true, title: "Tirar da coleção", effect: "Sai de Política. O livro continua registrado na biblioteca, sem coleção."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a pergunta da coleção é com que direito alguém governa. O livro trata de um fenômeno de conjuntura. Funciona melhor como leitura avulsa do que como passo da coleção."
+
+- id: d-pol-adler-aquino
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trocar a obra de Tomás de Aquino em Política pelo *Tratado da Lei*?"
+  why: "Hoje está *Do Governo dos Príncipes* (c. 1267), de Tomás de Aquino, teólogo e filósofo do século XIII: um texto curto, escrito como conselho a um rei, que defende a monarquia voltada ao bem comum. Aquino o deixou inacabado, e outro autor o completou. Você incluiu Aquino por lei natural, autoridade, bem comum e legitimidade. Mas a lei natural, a ideia de uma lei acima das leis humanas, está em outro texto: o *Tratado da Lei*, um trecho curto da *Suma Teológica*, a obra principal dele."
+  options:
+    - {key: A, recommended: true, title: "Trocar pelo *Tratado da Lei*", effect: "O *Tratado da Lei* entra no mesmo lugar da coleção, e *Do Governo dos Príncipes* sai. Eu pesquiso a edição em português."}
+    - {key: B, title: "Manter os dois", effect: "O *Tratado da Lei* entra logo antes; *Do Governo dos Príncipes* fica como leitura curta sobre a monarquia."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "é o texto de Aquino que a tradição política cita até hoje, e o único que responde de frente à pergunta da coleção: quando uma lei injusta deixa de obrigar. É também o problema que *Antígona*, de Sófocles, já na coleção, põe em cena."
+  candidates:
+    - {title: "Tratado da Lei (Suma Teológica I-II, questões 90 a 97)", author: "Tomás de Aquino · c. 1271", verdict: resolve, best: true, adds: "O que é lei, os quatro tipos de lei (eterna, natural, humana e divina) e por que uma lei humana injusta não é verdadeira lei.", facts: ["Curto", "-Edição em português a verificar"]}
+    - {title: "Do Governo dos Príncipes", author: "Tomás de Aquino · c. 1267", adds: "Hoje na coleção. Conselho a um rei sobre a melhor forma de governo e sobre a tirania.", facts: ["Curto", "-Inacabado; completado por outro autor"]}
+
+- id: d-pol-adler-dahl
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trocar o livro de Robert Dahl em Política pela obra mais completa dele?"
+  why: "Hoje está *Sobre a Democracia* (1998), de Robert Dahl, cientista político americano e um dos principais teóricos da democracia do século XX. É uma introdução curta e acessível ao que ele pensou a vida toda. A obra madura é *A Democracia e seus Críticos* (1989): nela ele expõe as objeções mais fortes à democracia, desde Platão, e responde a cada uma, o que toca de frente a pergunta da coleção. O livro atual tem a sua ★, então a decisão é sua."
+  options:
+    - {key: A, title: "Trocar por *A Democracia e seus Críticos*", effect: "A obra madura entra no lugar; a introdução sai. Eu pesquiso a edição em português."}
+    - {key: B, recommended: true, title: "Manter os dois", effect: "A introdução fica como porta de entrada e a obra madura entra logo depois."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a introdução tem a sua ★ e é boa porta de entrada, como *A Anatomia do Estado* é para a *Ética da Liberdade* de Murray Rothbard. A obra madura acrescenta o que falta: a democracia defendida contra os seus críticos."
+  candidates:
+    - {title: "A Democracia e seus Críticos", author: "Robert Dahl · 1989", verdict: resolve, best: true, adds: "As objeções à democracia, de Platão aos anarquistas, e a resposta de Dahl a cada uma.", facts: ["Longo", "-Edição em português a verificar"]}
+    - {title: "Sobre a Democracia", author: "Robert Dahl · 1998", adds: "Hoje na coleção. Introdução curta: o que é democracia, por que preferi-la e que instituições ela exige.", facts: ["Leve", "★ sua"]}
+
+- id: d-pol-adler-distopias
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Manter os cinco romances sobre totalitarismo como passos obrigatórios de Política?"
+  why: "A parte da coleção sobre poder, partidos e ideologia tem 16 obras, quase um terço do total, e cinco são romances sobre regimes totalitários. Cada um mostra um modo de controle, mas há sobreposição: os dois de George Orwell tratam da mesma revolução traída, e *Nós*, de Yevgeny Zamiátin, é a fonte de ideias que *Admirável Mundo Novo* e *1984* retomaram. Três deles têm a sua ★: *Admirável Mundo Novo*, *A Fazenda dos Animais* e *1984*."
+  options:
+    - {key: A, title: "Manter os cinco como estão", effect: "Nada muda."}
+    - {key: B, recommended: true, title: "*Nós* e *A Fazenda dos Animais* viram leitura complementar", effect: "Os dois ficam na coleção, marcados como opcionais. A sequência principal fica com *Admirável Mundo Novo*, de Aldous Huxley, *O Zero e o Infinito*, de Arthur Koestler, e *1984*, de George Orwell."}
+    - {key: C, title: "Só *Nós*, de Yevgeny Zamiátin, vira leitura complementar", effect: "Os quatro outros continuam como passos da coleção."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "os três que ficam centrais mostram três modos diferentes de controle: pelo prazer (*Admirável Mundo Novo*), pela confissão forçada (*O Zero e o Infinito*) e pelo terror com a reescrita da verdade (*1984*). Os outros dois continuam ao alcance, sem pesar na sequência."
+  candidates:
+    - {title: "Nós", author: "Yevgeny Zamiátin · 1921", adds: "O primeiro romance do gênero: um Estado que regula a vida matematicamente e apaga o indivíduo.", facts: ["-Ideias retomadas pelos outros dois"]}
+    - {title: "Admirável Mundo Novo", author: "Aldous Huxley · 1932", adds: "Controle pelo prazer, pelo consumo e pelo condicionamento desde o nascimento.", facts: ["★ sua", "+Modo de controle próprio"]}
+    - {title: "O Zero e o Infinito", author: "Arthur Koestler · 1940", adds: "Um velho revolucionário, preso nos expurgos de Stálin, acaba confessando crimes que não cometeu.", facts: ["+Único visto de dentro do partido"]}
+    - {title: "A Fazenda dos Animais", author: "George Orwell · 1945", adds: "Fábula: os animais expulsam o dono e a revolução degenera em tirania dos porcos.", facts: ["★ sua", "-Mesmo tema de 1984, em forma curta"]}
+    - {title: "1984", author: "George Orwell · 1949", adds: "Vigilância total, terror e reescrita do passado pelo partido.", facts: ["★ sua", "+Modo de controle próprio"]}
+
+- id: d-pol-adler-marxismo
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trazer *O Capital*, de Karl Marx, para Política, e no lugar de qual obra?"
+  why: "A coleção tem três obras exigentes de pensadores do século XX ligados à tradição marxista: Georg Lukács, Herbert Marcuse e Jürgen Habermas. Juntas pesam mais que o próprio Marx, de quem a coleção tem só textos curtos: o *Manifesto Comunista*, *O 18 de Brumário* e a primeira parte de *A Ideologia Alemã*. Falta a obra principal dele, *O Capital*, em que Marx explica como, para ele, o capitalismo funciona e explora o trabalho."
+  options:
+    - {key: A, recommended: true, title: "Incluir *O Capital* (livro I) e tirar *O Homem Unidimensional*, de Herbert Marcuse", effect: "*O Capital* entra com indicação das partes centrais; *O Homem Unidimensional* sai da coleção. Os livros de Georg Lukács e Jürgen Habermas ficam."}
+    - {key: B, title: "Incluir *O Capital* sem tirar nenhum", effect: "A coleção ganha mais uma obra longa e exigente."}
+    - {key: C, title: "Manter como está", effect: "Nada muda; Marx continua representado só pelos textos curtos."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, a obra principal de um autor vem antes dos herdeiros dele. Dos três, *O Homem Unidimensional* é o mais preso à década de 1960 e o que mais depende de *História e Consciência de Classe*. Este explica a ideia que os outros usam, e *Mudança Estrutural da Esfera Pública* trata de outro assunto: a democracia e o debate público."
+  candidates:
+    - {title: "O Capital, livro I", author: "Karl Marx · 1867", verdict: resolve, best: true, adds: "A obra principal de Marx: mercadoria, trabalho, mais-valia (o valor que o trabalhador produz além do que recebe) e acumulação.", facts: ["Longo; leitura parcial indicada", "-Edição a escolher"]}
+    - {title: "História e Consciência de Classe", author: "Georg Lukács · 1923", adds: "Fica. Como o capitalismo faz relações entre pessoas parecerem relações entre coisas; a ponte entre Marx e os críticos da cultura.", facts: ["+Ideia usada pelos outros dois"]}
+    - {title: "O Homem Unidimensional", author: "Herbert Marcuse · 1964", adds: "Sairia. Como a sociedade de consumo absorve a contestação e cria as necessidades que satisfaz.", facts: ["-Mais datado", "-Depende de Lukács"]}
+    - {title: "Mudança Estrutural da Esfera Pública", author: "Jürgen Habermas · 1962", adds: "Fica. Como surgiu o debate público argumentado (cafés, imprensa, associações) e como decaiu com os meios de massa.", facts: ["+Trata da democracia"]}
+
+- id: d-pol-adler-hoppe
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Com Robert Nozick entrando em Política, manter *Democracia, o Deus que Falhou*, de Hans-Hermann Hoppe, como passo obrigatório?"
+  why: "A parte da coleção sobre crítica libertária, a posição de que o Estado deve ser mínimo ou nem existir, tem três obras: duas de Murray Rothbard e *Democracia, o Deus que Falhou* (2001), de Hans-Hermann Hoppe, economista alemão que compara a democracia, para pior, com a monarquia hereditária. Você já decidiu incluir *Anarquia, Estado e Utopia* (1974), de Robert Nozick, a defesa clássica do Estado mínimo e a resposta direta a John Rawls. Com esse livro, a posição libertária fica bem servida, e o de Hans-Hermann Hoppe repete parte dela de forma mais polêmica. O livro tem a sua ★."
+  options:
+    - {key: A, title: "Manter como está", effect: "A parte libertária fica com quatro obras."}
+    - {key: B, recommended: true, title: "*Democracia, o Deus que Falhou* vira leitura complementar", effect: "Fica na coleção, marcado como opcional, depois dos livros de Murray Rothbard e Robert Nozick."}
+    - {key: C, title: "Tirar da coleção", effect: "Sai de Política; o livro continua registrado na biblioteca."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a tese do livro (a monarquia seria melhor que a democracia) é própria dele, e por isso ele não deve sair. Mas, com *Anarquia, Estado e Utopia* e os dois livros de Murray Rothbard, a posição libertária já está dita pelos textos de base, e este vira o aprofundamento para quem quiser ir além."
+  candidates:
+    - {title: "Democracia, o Deus que Falhou", author: "Hans-Hermann Hoppe · 2001", adds: "Crítica da democracia pelos incentivos de quem governa; defende uma ordem sem Estado.", facts: ["★ sua", "-Polêmico; repete parte da posição"]}
+    - {title: "Anarquia, Estado e Utopia", author: "Robert Nozick · 1974", adds: "Já decidido que entra. A defesa clássica do Estado mínimo, escrita contra Rawls.", facts: ["+Decidido em 27/09"]}
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch
@@ -1346,6 +1478,20 @@ items:
   state: decidida
   question: "Onde entra a literatura que complementa uma obra teórica, histórica ou técnica?"
   decided: {date: 2026-09-27, choice: "Dentro do movimento que ela complementa, com papel de tratamento literário e aresta apontando para a obra tratada — não agrupada com as outras obras literárias por serem literatura. Vale para todas as coleções.", note: "Gravado como §2.8 das regras de curadoria. Reversível: remover a §2.8; nenhum membro foi movido por esta decisão, e a redistribuição do movimento X de Política é decisão separada, ainda aberta em d-pol-movimento-x."}
+
+- id: d-reg-piramide-adler
+  kind: regra
+  collections: []
+  state: decidida
+  question: "Usar a pirâmide de Adler como critério para incluir e manter obras?"
+  decided: {date: 2026-10-14, choice: "Sim. Toda obra precisa cumprir um papel que nenhuma outra cumpre na coleção e recebe um nível: releitura, uma leitura séria, ou informação e consulta. Vale para as que entram e para as que já estão; saídas e trocas viram cartão e são decisão sua.", note: "Gravado como §2.9 das regras de curadoria. Primeira aplicação: auditoria de Política, com sete cartões em Mudar uma coleção. Reversível: remover a §2.9; nenhuma obra foi mexida por esta regra."}
+
+- id: d-reg-como-ler
+  kind: regra
+  collections: []
+  state: decidida
+  question: "Criar na página da obra uma seção que diga como ler aquela obra?"
+  decided: {date: 2026-10-14, choice: "Sim. Seção Como ler logo depois de Sobre a obra, específica da obra: a pergunta que ela responde, onde está o centro (e o que dá para ler em parte) e a postura de leitura.", note: "Gravado como §13 das regras da interface. Piloto em A República, Política de Aristóteles e Leviatã. Reversível: remover a §13 e as seções das três obras."}
 
 # ============================== AGUARDANDO =================================
 

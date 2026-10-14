@@ -34,6 +34,7 @@ interface — 12 itens. Os que têm consequência estrutural:
 |---|---|---|
 | Se uma regra deve proibir derivar o **propósito de um movimento** das obras que ele hoje contém | cartão `d-reg-proposito-movimento` | 2026-09-27 |
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
+| Auditoria de Política pela pirâmide de Adler: duas saídas, duas trocas e três grupos com redundância | cartões `d-pol-adler-*`; registro em `review/political-thought.md` §10 | 2026-10-14 |
 
 **Regra de edições, combinada em 2026-10-10:** com a edição escolhida, as
 alternativas saem do registro. Ficam só: volumes da mesma edição; edição que
@@ -42,6 +43,16 @@ função diferente (referência de estudo). Exceções vigentes: a Valla do
 Pseudo-Apolodoro (referência); as duas edições de Homero (ele quer as duas);
 a Odysseus de *As Bacantes* — **remover depois de 26/10/2026**, quando sai o
 Teatro completo VI da Editora 34.
+
+---
+
+## Regras novas de 2026-10-14
+
+- **Pirâmide de Adler** (`config/curation-rules.md` §2.9): toda obra precisa de
+  um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
+  as outras seis coleções, uma por vez, a pedido dele.
+- **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
+  Piloto em três obras; as demais entram aos poucos, começando pelas de nível A.
 
 ---
 
