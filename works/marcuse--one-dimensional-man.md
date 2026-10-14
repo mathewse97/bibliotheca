@@ -8,7 +8,7 @@ alt_titles: []
 authors: [marcuse]
 original_language: en
 form: book
-work_type: political-theory
+work_type: filosofia
 date_written: "1964"
 date_sort: 1964
 period: modernidade-tardia
@@ -48,7 +48,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A ideologia da sociedade industrial, Zahar, 1967", note: "A primeira tradução brasileira, com outro título; hoje só se acha usada e não foi examinada."}
 ---
@@ -56,6 +56,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Herbert Marcuse publicada em 1964. Sustenta que a sociedade industrial avançada absorve a contestação e produz as necessidades que depois satisfaz; se a classe trabalhadora foi integrada, o sujeito da mudança teria de ser procurado em outro lugar. Foi um dos livros mais influentes da Escola de Frankfurt e da nova esquerda dos anos 1960.
+
+## Como ler
+
+- **A pergunta:** por que a sociedade industrial avançada consegue absorver quase toda contestação?
+- **Onde está o centro:** a primeira parte, sobre a sociedade unidimensional, que cria as necessidades que depois satisfaz; e a segunda, sobre o pensamento unidimensional, que perde a capacidade de imaginar outra coisa.
+- **Postura:** É um livro denso, de 1964, preso ao seu tempo em vários pontos. Leia buscando a tese central e compare com *Admirável Mundo Novo*, de Aldous Huxley, que a encena em romance.
 
 ## Fatos
 

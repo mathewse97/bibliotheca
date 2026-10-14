@@ -8,7 +8,7 @@ alt_titles: []
 authors: [vargas-llosa]
 original_language: es
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null
@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio do escritor peruano Mario Vargas Llosa, publicado em espanhol em 2012. Argumenta que a cultura contemporânea passou a se organizar em torno do entretenimento, o que levaria à banalização da arte, do jornalismo, da política e da vida intelectual.
+
+## Como ler
+
+- **A pergunta:** o que acontece com a cultura quando ela passa a existir para entreter?
+- **Onde está o centro:** o ensaio que dá título ao livro e os capítulos sobre a banalização da arte, do jornalismo, da política e da religião.
+- **Postura:** É um ensaio acessível, de escritor, e se lê depressa. Leia como diagnóstico a avaliar: Mario Vargas Llosa generaliza a partir da própria experiência. Compare com Roger Scruton e Byung-Chul Han.
 
 ## Fatos
 

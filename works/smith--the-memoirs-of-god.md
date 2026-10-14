@@ -9,7 +9,7 @@ alt_titles: []
 authors: [smith]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2004"
 date_sort: 2004
 period: null
@@ -27,7 +27,12 @@ missing:
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda
+    note: "Kaefer mostra a história de Israel e Judá pela arqueologia; Smith, como a religião desses reinos se formou a partir de Canaã."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import
@@ -45,12 +50,18 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de Mark S. Smith, publicado em 2004, especialista em religião do Israel antigo e em textos ugaríticos. Em linguagem acessível, examina como a concepção israelita de Deus se formou historicamente a partir das tradições cananeias e como a memória coletiva moldou essa experiência religiosa. Complementa a obra principal do autor, *The Early History of God*.
+
+## Como ler
+
+- **A pergunta:** como o Deus único de Israel surgiu a partir das tradições religiosas de Canaã?
+- **Onde está o centro:** os capítulos sobre a relação entre Javé e os deuses cananeus e sobre o papel da memória coletiva na formação da religião israelita.
+- **Postura:** É um livro acessível de um grande especialista, mas pressupõe alguma familiaridade com a Bíblia hebraica. Leia depois de *A Bíblia, a Arqueologia e a História de Israel e Judá*, de José Ademar Kaefer.
 
 ## Fatos
 

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [plutarco]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: historia
 date_written: null
 date_sort: null
 period: null
@@ -30,7 +30,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Gredos, Vidas paralelas II, 2024", note: "Tradução espanhola de Aurelio Pérez Jiménez, direta do grego e com notas; ficou como alternativa por ser em espanhol e importada."}
 ---
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Biografia de Péricles, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Fábio Máximo. Trata do estadista que dirigiu Atenas no auge de seu poder, no século V a.C., até o início da Guerra do Peloponeso.
+
+## Como ler
+
+- **A pergunta:** o que permite a um líder conduzir uma democracia sem bajulá-la?
+- **Onde está o centro:** a formação com o filósofo Anaxágoras, as obras da Acrópole, entre elas o Partenon, e a peste no começo da guerra contra Esparta.
+- **Postura:** É uma biografia curta, mais interessada no caráter do que nos fatos. Compare com o livro II de Tucídides, onde está a oração fúnebre de Péricles.
 
 ## Fatos
 

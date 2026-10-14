@@ -8,7 +8,7 @@ alt_titles: []
 authors: [schlaad-juliana, schlaad-sascha]   # organizadores; obra coletiva
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2019"
 date_sort: 2019
 period: null
@@ -52,12 +52,18 @@ derived_from:
   note: "Entrou em Sobrevivência pela opção A do cartão, como referência
          brasileira. Ver review/survival-self-sufficiency.md §9."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra coletiva organizada por Juliana R. M. Schlaad e Sascha W. Schlaad, publicada em 2019 e escrita para profissionais de saúde. Trata da medicina longe dos centros médicos no contexto brasileiro: biomas, animais peçonhentos e doenças tropicais.
+
+## Como ler
+
+- **A pergunta:** como praticar medicina longe dos centros médicos, nas condições próprias do Brasil?
+- **Onde está o centro:** os capítulos sobre os biomas, os animais peçonhentos e as doenças tropicais.
+- **Postura:** É obra escrita para profissionais de saúde: o leigo aproveita sobretudo as partes sobre animais peçonhentos e prevenção. Use como consulta, ao lado dos manuais para leigos.
 
 ## Fatos
 

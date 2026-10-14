@@ -8,7 +8,7 @@ alt_titles: []
 authors: [kaefer]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: historia
 date_written: "2015"
 date_sort: 2015
 period: null
@@ -26,7 +26,12 @@ missing:
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: finkelstein-romer--aux-origines-de-la-torah
+    note: "A mesma pergunta, o que a arqueologia diz sobre a história bíblica: Kaefer em síntese breve, Finkelstein e Römer em diálogo aprofundado."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import
@@ -44,12 +49,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Introdução breve, escrita em português pelo biblista brasileiro José Ademar Kaefer e publicada em 2015. Examina a história dos reinos de Israel e Judá à luz da arqueologia, confrontando o relato bíblico com os dados materiais e com o contexto dos impérios vizinhos. É uma síntese curta e atualizada; para a mesma questão em maior escala, as referências são autores como Finkelstein e Silberman, Liverani ou Dever.
+
+## Como ler
+
+- **A pergunta:** o que a arqueologia diz sobre a história de Israel e Judá contada na Bíblia?
+- **Onde está o centro:** o livro inteiro: é uma síntese curta que confronta o relato bíblico com os dados materiais e o contexto dos impérios vizinhos.
+- **Postura:** Lê-se de uma vez, como introdução em português. Para aprofundar, siga para *Às Origens da Torá*, de Israel Finkelstein e Thomas Römer.
 
 ## Fatos
 

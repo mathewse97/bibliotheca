@@ -8,10 +8,7 @@ alt_titles: []
 author: damasio
 original_language: en
 form: book
-work_type: null                  # obra acadêmica de neurociência com forte
-                                 # componente teórico/filosófico; nenhuma das
-                                 # cinco categorias do blueprint encaixa com
-                                 # segurança. Levantado, não decidido.
+work_type: ciencia
 date_written: "1994"
 date_sort: 1994
 period: null
@@ -58,12 +55,18 @@ pending_assignment:
                Essa é uma decisão sua, não inferida aqui."
   exempt_from_orphan_check: true
 
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro do neurocientista português António Damásio, publicado em inglês em 1994. A partir de estudos com pacientes que sofreram lesões no córtex pré-frontal, argumenta que a emoção é condição necessária, e não obstáculo, do raciocínio prático e da tomada de decisão, contestando a separação cartesiana entre razão, corpo e emoção. É a obra que apresentou a chamada hipótese do marcador somático.
+
+## Como ler
+
+- **A pergunta:** a emoção atrapalha a razão, ou é necessária para decidir bem?
+- **Onde está o centro:** os primeiros capítulos, com o caso de Phineas Gage, operário que teve o crânio atravessado por uma barra de ferro em 1848, e o de pacientes atuais com lesões parecidas; e os capítulos sobre a hipótese do marcador somático.
+- **Postura:** É neurociência para leitores não especialistas, com partes técnicas sobre o cérebro que podem ser lidas mais depressa. Leia buscando o argumento contra a separação entre razão e emoção.
 
 ## Fatos
 

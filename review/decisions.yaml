@@ -372,6 +372,75 @@ items:
     - {title: "NOLS Wilderness Medicine (7ª ed.) e Medicine for the Outdoors (7ª ed.)", author: "Schimelpfenig, 2021 · Auerbach e outros, 2023", verdict: outra, adds: "Excelentes, mas são primeiros socorros para estabilizar até a evacuação — o terreno que Silva e Conforto e o PHTLS já cobrem na coleção.", facts: ["Inglês", "NOLS tem edição em espanhol (2016)"]}
     - {title: "Emergency Dentistry Handbook", author: "Met Clark · 2011", verdict: outra, adds: "Odontologia em ambientes austeros, mas tem só 80 páginas: não substitui Dickson.", facts: ["Paladin Press"]}
 
+- id: d-greco-adler-lucrecio
+  kind: obra
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Incluir em Greco-Romana o poema de Lucrécio sobre a natureza das coisas?"
+  why: "O epicurismo, a filosofia que busca a felicidade na ausência de dor e de medo, está na coleção só por uma carta curta de Epicuro. Falta a exposição completa: *Da Natureza das Coisas*, poema em latim de Tito Lucrécio Caro (século I a.C.). Ele explica o mundo como átomos em movimento, sem intervenção dos deuses, para livrar o homem do medo da morte. É uma das obras-primas da poesia latina e a principal fonte do epicurismo que chegou até nós. Sem ele, a filosofia romana da coleção é só estoica."
+  options:
+    - {key: A, recommended: true, title: "Incluir Lucrécio, *Da Natureza das Coisas*", effect: "Entra na parte de filosofia moral romana, antes de Cícero, que escreveu depois dele. Eu pesquiso a melhor edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A filosofia romana da coleção fica só com os estoicos e Cícero; a questão é arquivada."}
+  recommendation: "é o caso que o critério de Adler mais claramente pede: uma obra que se relê a vida toda e expõe por inteiro uma posição que nenhuma outra obra da coleção expõe. A carta de Epicuro fica como resumo, e Lucrécio como a obra."
+  candidates:
+    - {title: "Da Natureza das Coisas", author: "Tito Lucrécio Caro · c. 55 a.C.", verdict: resolve, best: true, adds: "O epicurismo inteiro, em poema: átomos, a alma mortal, por que não temer a morte nem os deuses.", facts: ["Parte de filosofia romana, antes de Cícero", "-Edição em português a verificar"]}
+
+# Auditoria pela pirâmide de Adler, 2026-10-14 — obras que faltam.
+
+- id: d-rel-adler-classicos
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: "review/religion.md, auditoria pela pirâmide de Adler"
+  question: "Incluir em Religião os três clássicos que fundaram o estudo moderno da religião?"
+  why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são livros que se releem, e a coleção hoje lê os herdeiros sem os fundadores."
+  options:
+    - {key: A, recommended: true, title: "Incluir os três", effect: "Entram na parte de teoria, antes de Eliade: Otto, Durkheim e James. Eu pesquiso as edições em português."}
+    - {key: B, title: "Incluir só Otto e Durkheim", effect: "Os dois de que Eliade e Berger dependem diretamente. William James fica para depois."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: D, title: "Descartar", effect: "A teoria da coleção fica sem os fundadores; a questão é arquivada."}
+  recommendation: "cada um abre um dos três caminhos que a coleção já segue: a sociologia (Durkheim, depois Weber e Berger), a fenomenologia (Otto, depois Eliade) e a psicologia (James, que hoje não tem representante). Os três têm tradução em português."
+  candidates:
+    - {title: "O Sagrado", author: "Rudolf Otto · 1917", verdict: resolve, best: true, adds: "A experiência do sagrado como algo que atrai e aterroriza ao mesmo tempo. Eliade abre *O Sagrado e o Profano* citando este livro.", facts: ["Curto", "-Edição a pesquisar"]}
+    - {title: "As Formas Elementares da Vida Religiosa", author: "Émile Durkheim · 1912", verdict: resolve, best: true, adds: "A religião como forma de a sociedade representar a si mesma, estudada a partir dos povos aborígenes da Austrália.", facts: ["Longo", "-Edição a pesquisar"]}
+    - {title: "As Variedades da Experiência Religiosa", author: "William James · 1902", verdict: resolve, adds: "A experiência religiosa estudada pela psicologia: conversão, misticismo, santidade.", facts: ["Longo", "-Edição a pesquisar"]}
+
+- id: d-edu-adler-emilio
+  kind: obra
+  collections: [education]
+  priority: media
+  state: decidir
+  source: "review/education.md §10"
+  question: "Incluir em Educação o *Emílio*, de Jean-Jacques Rousseau?"
+  why: "*Emílio, ou Da Educação* (1762) é o livro que funda a educação centrada na criança e no seu desenvolvimento natural. A coleção tem John Dewey, que herda essa ideia, e Mortimer Adler e E. D. Hirsch, que a combatem, mas não a voz original. O século XVIII já aparecia como ausência no mapa da coleção."
+  options:
+    - {key: A, recommended: true, title: "Incluir o *Emílio*", effect: "Entra na parte sobre as posições em disputa, antes de Dewey. Eu pesquiso a edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A posição progressista fica representada só por Dewey; a questão é arquivada."}
+  recommendation: "pelo critério de Adler, a fonte vem antes dos herdeiros. Com o *Emílio*, Dewey passa a ser lido como continuação de uma tradição, e não como ponto de partida."
+  candidates:
+    - {title: "Emílio, ou Da Educação", author: "Jean-Jacques Rousseau · 1762", verdict: resolve, best: true, adds: "A educação de um menino imaginário, do nascimento à idade adulta, longe da sociedade e segundo a natureza.", facts: ["Longo", "+Há tradução em português"]}
+
+- id: d-cult-adler-eliot
+  kind: obra
+  collections: [culture]
+  priority: media
+  state: decidir
+  source: "review/culture.md §14"
+  question: "Incluir em Cultura as *Notas para a Definição de Cultura*, de T. S. Eliot?"
+  why: "A pergunta da coleção é o que é a cultura e como ela se transmite, se degrada ou se perde. O livro clássico sobre exatamente isso é o do poeta T. S. Eliot, de 1948: a cultura como modo de vida inteiro, transmitido pela família, pelas classes e pelas regiões, e o que acontece quando essa transmissão se rompe. Os diagnósticos que a coleção traz depois (Roger Scruton, Mario Vargas Llosa) dialogam com ele."
+  options:
+    - {key: A, recommended: true, title: "Incluir as *Notas para a Definição de Cultura*", effect: "Entra na primeira parte da coleção, a que pergunta o que é a cultura. Eu pesquiso a edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A questão é arquivada."}
+  recommendation: "é o livro que responde de frente à pergunta da coleção, curto e escrito por um dos grandes poetas do século XX. Roger Scruton escreveu muito sobre Eliot e retoma as suas ideias."
+  candidates:
+    - {title: "Notas para a Definição de Cultura", author: "T. S. Eliot · 1948", verdict: resolve, best: true, adds: "O que é cultura, como ela se transmite e por que não pode ser planejada.", facts: ["Curto", "+Há tradução em português"]}
+
 # ============================== ESCOLHER EDIÇÃO =============================
 
 - id: d-ed-republica
@@ -1234,6 +1303,269 @@ items:
   recommendation: "A: a revisão de 2018 só existe em inglês. Aqui a atualização do conteúdo pesa mais que o idioma: a edição em português é de 1985."
   recommended: A
 
+# ============================== MUDAR UMA COLEÇÃO ===========================
+# Auditoria de Política pela pirâmide de Adler (curation-rules.md §2.9),
+# 2026-10-14. Registro de pesquisa: review/political-thought.md §10.
+
+- id: d-pol-adler-bezmenov
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Tirar de Política o livro de Yuri Bezmenov sobre a subversão soviética?"
+  why: "*Subversão: Teoria, Aplicação e Confissão de um Método* reúne palestras e entrevistas de 1983 e 1984 de Yuri Bezmenov, ex-agente da KGB, o serviço secreto soviético, que fugiu para o Ocidente. Ele conta como a União Soviética tentava desestabilizar outros países por dentro, com propaganda. É um depoimento, não um argumento sobre quando um governo é legítimo, que é a pergunta da coleção. E o tema da propaganda já está em obras mais sólidas: *1984*, de George Orwell, e *LTI*, o estudo de Victor Klemperer sobre a língua do nazismo."
+  options:
+    - {key: A, recommended: true, title: "Tirar da coleção", effect: "Sai de Política. O livro continua registrado na biblioteca, sem coleção, e pode voltar quando você quiser."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional: não é passo obrigatório da coleção."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, uma obra precisa cumprir na coleção um papel que nenhuma outra cumpre. Esta não cumpre: a propaganda já está explicada por livros que se releem. Se o testemunho de quem esteve dentro te interessa, a B mantém o livro sem pesar na sequência."
+  candidates:
+    - {title: "Subversão: Teoria, Aplicação e Confissão de um Método", author: "Yuri Bezmenov · palestras de 1983–84", adds: "Depoimento de um ex-agente soviético sobre propaganda e desestabilização.", facts: ["Hoje na parte sobre poder e ideologia", "-Depoimento, não argumento"]}
+    - {title: "1984", author: "George Orwell · 1949", adds: "Já na coleção. A propaganda e a reescrita da verdade num regime total.", facts: ["+Já está na coleção"]}
+    - {title: "LTI: A Linguagem do Terceiro Reich", author: "Victor Klemperer · 1947", adds: "Já na coleção. Um filólogo judeu registra, dia a dia, como o nazismo mudou o sentido das palavras.", facts: ["+Já está na coleção"]}
+
+- id: d-pol-adler-levitsky
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Tirar de Política *Como as Democracias Morrem*, de Steven Levitsky e Daniel Ziblatt?"
+  why: "Livro de 2018 de dois cientistas políticos de Harvard: as democracias de hoje morrem menos por golpes e mais por líderes eleitos que vão corroendo as regras não escritas, como a tolerância com o adversário. Fui eu que o propus, como contraponto ao livro de Robert Dahl sobre democracia. É um bom livro, mas é de divulgação, apoiado em casos recentes, e envelhece rápido. Pela pirâmide de Adler, é obra de informação: lê-se uma vez e não se relê."
+  options:
+    - {key: A, recommended: true, title: "Tirar da coleção", effect: "Sai de Política. O livro continua registrado na biblioteca, sem coleção."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a pergunta da coleção é com que direito alguém governa. O livro trata de um fenômeno de conjuntura. Funciona melhor como leitura avulsa do que como passo da coleção."
+
+- id: d-pol-adler-aquino
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trocar a obra de Tomás de Aquino em Política pelo *Tratado da Lei*?"
+  why: "Hoje está *Do Governo dos Príncipes* (c. 1267), de Tomás de Aquino, teólogo e filósofo do século XIII: um texto curto, escrito como conselho a um rei, que defende a monarquia voltada ao bem comum. Aquino o deixou inacabado, e outro autor o completou. Você incluiu Aquino por lei natural, autoridade, bem comum e legitimidade. Mas a lei natural, a ideia de uma lei acima das leis humanas, está em outro texto: o *Tratado da Lei*, um trecho curto da *Suma Teológica*, a obra principal dele."
+  options:
+    - {key: A, recommended: true, title: "Trocar pelo *Tratado da Lei*", effect: "O *Tratado da Lei* entra no mesmo lugar da coleção, e *Do Governo dos Príncipes* sai. Eu pesquiso a edição em português."}
+    - {key: B, title: "Manter os dois", effect: "O *Tratado da Lei* entra logo antes; *Do Governo dos Príncipes* fica como leitura curta sobre a monarquia."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "é o texto de Aquino que a tradição política cita até hoje, e o único que responde de frente à pergunta da coleção: quando uma lei injusta deixa de obrigar. É também o problema que *Antígona*, de Sófocles, já na coleção, põe em cena."
+  candidates:
+    - {title: "Tratado da Lei (Suma Teológica I-II, questões 90 a 97)", author: "Tomás de Aquino · c. 1271", verdict: resolve, best: true, adds: "O que é lei, os quatro tipos de lei (eterna, natural, humana e divina) e por que uma lei humana injusta não é verdadeira lei.", facts: ["Curto", "-Edição em português a verificar"]}
+    - {title: "Do Governo dos Príncipes", author: "Tomás de Aquino · c. 1267", adds: "Hoje na coleção. Conselho a um rei sobre a melhor forma de governo e sobre a tirania.", facts: ["Curto", "-Inacabado; completado por outro autor"]}
+
+- id: d-pol-adler-dahl
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trocar o livro de Robert Dahl em Política pela obra mais completa dele?"
+  why: "Hoje está *Sobre a Democracia* (1998), de Robert Dahl, cientista político americano e um dos principais teóricos da democracia do século XX. É uma introdução curta e acessível ao que ele pensou a vida toda. A obra madura é *A Democracia e seus Críticos* (1989): nela ele expõe as objeções mais fortes à democracia, desde Platão, e responde a cada uma, o que toca de frente a pergunta da coleção. O livro atual tem a sua ★, então a decisão é sua."
+  options:
+    - {key: A, title: "Trocar por *A Democracia e seus Críticos*", effect: "A obra madura entra no lugar; a introdução sai. Eu pesquiso a edição em português."}
+    - {key: B, recommended: true, title: "Manter os dois", effect: "A introdução fica como porta de entrada e a obra madura entra logo depois."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a introdução tem a sua ★ e é boa porta de entrada, como *A Anatomia do Estado* é para a *Ética da Liberdade* de Murray Rothbard. A obra madura acrescenta o que falta: a democracia defendida contra os seus críticos."
+  candidates:
+    - {title: "A Democracia e seus Críticos", author: "Robert Dahl · 1989", verdict: resolve, best: true, adds: "As objeções à democracia, de Platão aos anarquistas, e a resposta de Dahl a cada uma.", facts: ["Longo", "-Edição em português a verificar"]}
+    - {title: "Sobre a Democracia", author: "Robert Dahl · 1998", adds: "Hoje na coleção. Introdução curta: o que é democracia, por que preferi-la e que instituições ela exige.", facts: ["Leve", "★ sua"]}
+
+- id: d-pol-adler-distopias
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Manter os cinco romances sobre totalitarismo como passos obrigatórios de Política?"
+  why: "A parte da coleção sobre poder, partidos e ideologia tem 16 obras, quase um terço do total, e cinco são romances sobre regimes totalitários. Cada um mostra um modo de controle, mas há sobreposição: os dois de George Orwell tratam da mesma revolução traída, e *Nós*, de Yevgeny Zamiátin, é a fonte de ideias que *Admirável Mundo Novo* e *1984* retomaram. Três deles têm a sua ★: *Admirável Mundo Novo*, *A Fazenda dos Animais* e *1984*."
+  options:
+    - {key: A, title: "Manter os cinco como estão", effect: "Nada muda."}
+    - {key: B, recommended: true, title: "*Nós* e *A Fazenda dos Animais* viram leitura complementar", effect: "Os dois ficam na coleção, marcados como opcionais. A sequência principal fica com *Admirável Mundo Novo*, de Aldous Huxley, *O Zero e o Infinito*, de Arthur Koestler, e *1984*, de George Orwell."}
+    - {key: C, title: "Só *Nós*, de Yevgeny Zamiátin, vira leitura complementar", effect: "Os quatro outros continuam como passos da coleção."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "os três que ficam centrais mostram três modos diferentes de controle: pelo prazer (*Admirável Mundo Novo*), pela confissão forçada (*O Zero e o Infinito*) e pelo terror com a reescrita da verdade (*1984*). Os outros dois continuam ao alcance, sem pesar na sequência."
+  candidates:
+    - {title: "Nós", author: "Yevgeny Zamiátin · 1921", adds: "O primeiro romance do gênero: um Estado que regula a vida matematicamente e apaga o indivíduo.", facts: ["-Ideias retomadas pelos outros dois"]}
+    - {title: "Admirável Mundo Novo", author: "Aldous Huxley · 1932", adds: "Controle pelo prazer, pelo consumo e pelo condicionamento desde o nascimento.", facts: ["★ sua", "+Modo de controle próprio"]}
+    - {title: "O Zero e o Infinito", author: "Arthur Koestler · 1940", adds: "Um velho revolucionário, preso nos expurgos de Stálin, acaba confessando crimes que não cometeu.", facts: ["+Único visto de dentro do partido"]}
+    - {title: "A Fazenda dos Animais", author: "George Orwell · 1945", adds: "Fábula: os animais expulsam o dono e a revolução degenera em tirania dos porcos.", facts: ["★ sua", "-Mesmo tema de 1984, em forma curta"]}
+    - {title: "1984", author: "George Orwell · 1949", adds: "Vigilância total, terror e reescrita do passado pelo partido.", facts: ["★ sua", "+Modo de controle próprio"]}
+
+- id: d-pol-adler-marxismo
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Trazer *O Capital*, de Karl Marx, para Política, e no lugar de qual obra?"
+  why: "A coleção tem três obras exigentes de pensadores do século XX ligados à tradição marxista: Georg Lukács, Herbert Marcuse e Jürgen Habermas. Juntas pesam mais que o próprio Marx, de quem a coleção tem só textos curtos: o *Manifesto Comunista*, *O 18 de Brumário* e a primeira parte de *A Ideologia Alemã*. Falta a obra principal dele, *O Capital*, em que Marx explica como, para ele, o capitalismo funciona e explora o trabalho."
+  options:
+    - {key: A, recommended: true, title: "Incluir *O Capital* (livro I) e tirar *O Homem Unidimensional*, de Herbert Marcuse", effect: "*O Capital* entra com indicação das partes centrais; *O Homem Unidimensional* sai da coleção. Os livros de Georg Lukács e Jürgen Habermas ficam."}
+    - {key: B, title: "Incluir *O Capital* sem tirar nenhum", effect: "A coleção ganha mais uma obra longa e exigente."}
+    - {key: C, title: "Manter como está", effect: "Nada muda; Marx continua representado só pelos textos curtos."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, a obra principal de um autor vem antes dos herdeiros dele. Dos três, *O Homem Unidimensional* é o mais preso à década de 1960 e o que mais depende de *História e Consciência de Classe*. Este explica a ideia que os outros usam, e *Mudança Estrutural da Esfera Pública* trata de outro assunto: a democracia e o debate público."
+  candidates:
+    - {title: "O Capital, livro I", author: "Karl Marx · 1867", verdict: resolve, best: true, adds: "A obra principal de Marx: mercadoria, trabalho, mais-valia (o valor que o trabalhador produz além do que recebe) e acumulação.", facts: ["Longo; leitura parcial indicada", "-Edição a escolher"]}
+    - {title: "História e Consciência de Classe", author: "Georg Lukács · 1923", adds: "Fica. Como o capitalismo faz relações entre pessoas parecerem relações entre coisas; a ponte entre Marx e os críticos da cultura.", facts: ["+Ideia usada pelos outros dois"]}
+    - {title: "O Homem Unidimensional", author: "Herbert Marcuse · 1964", adds: "Sairia. Como a sociedade de consumo absorve a contestação e cria as necessidades que satisfaz.", facts: ["-Mais datado", "-Depende de Lukács"]}
+    - {title: "Mudança Estrutural da Esfera Pública", author: "Jürgen Habermas · 1962", adds: "Fica. Como surgiu o debate público argumentado (cafés, imprensa, associações) e como decaiu com os meios de massa.", facts: ["+Trata da democracia"]}
+
+- id: d-pol-adler-hoppe
+  kind: colecao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  source: review/political-thought.md §10
+  question: "Com Robert Nozick entrando em Política, manter *Democracia, o Deus que Falhou*, de Hans-Hermann Hoppe, como passo obrigatório?"
+  why: "A parte da coleção sobre crítica libertária, a posição de que o Estado deve ser mínimo ou nem existir, tem três obras: duas de Murray Rothbard e *Democracia, o Deus que Falhou* (2001), de Hans-Hermann Hoppe, economista alemão que compara a democracia, para pior, com a monarquia hereditária. Você já decidiu incluir *Anarquia, Estado e Utopia* (1974), de Robert Nozick, a defesa clássica do Estado mínimo e a resposta direta a John Rawls. Com esse livro, a posição libertária fica bem servida, e o de Hans-Hermann Hoppe repete parte dela de forma mais polêmica. O livro tem a sua ★."
+  options:
+    - {key: A, title: "Manter como está", effect: "A parte libertária fica com quatro obras."}
+    - {key: B, recommended: true, title: "*Democracia, o Deus que Falhou* vira leitura complementar", effect: "Fica na coleção, marcado como opcional, depois dos livros de Murray Rothbard e Robert Nozick."}
+    - {key: C, title: "Tirar da coleção", effect: "Sai de Política; o livro continua registrado na biblioteca."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a tese do livro (a monarquia seria melhor que a democracia) é própria dele, e por isso ele não deve sair. Mas, com *Anarquia, Estado e Utopia* e os dois livros de Murray Rothbard, a posição libertária já está dita pelos textos de base, e este vira o aprofundamento para quem quiser ir além."
+  candidates:
+    - {title: "Democracia, o Deus que Falhou", author: "Hans-Hermann Hoppe · 2001", adds: "Crítica da democracia pelos incentivos de quem governa; defende uma ordem sem Estado.", facts: ["★ sua", "-Polêmico; repete parte da posição"]}
+    - {title: "Anarquia, Estado e Utopia", author: "Robert Nozick · 1974", adds: "Já decidido que entra. A defesa clássica do Estado mínimo, escrita contra Rawls.", facts: ["+Decidido em 27/09"]}
+
+# Auditoria de Greco-Romana pela pirâmide de Adler, 2026-10-14.
+# Registro de pesquisa: review/greco-roman.md §9.
+
+- id: d-greco-adler-tragedias
+  kind: colecao
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Manter as quinze tragédias de Eurípides como passos obrigatórios de Greco-Romana?"
+  why: "Eurípides, o mais jovem dos três grandes autores de tragédia de Atenas (século V a.C.), tem quinze peças na coleção. Elas entraram porque você indicou os volumes completos da tradução de Jaa Torrano. Ésquilo está completo, com sete peças, e Sófocles tem só três das sete que sobreviveram. Para Adler, todas as tragédias gregas são de releitura: o problema não é a qualidade, é o peso. São quinze passos seguidos do mesmo autor."
+  options:
+    - {key: A, recommended: true, title: "Cinco de Eurípides ficam obrigatórias; as outras dez viram leitura complementar", effect: "Ficam como passos: *Medeia*, *Hipólito*, *Electra*, *As Troianas* e *As Bacantes*. As outras dez continuam na coleção e nos seus livros, marcadas como opcionais."}
+    - {key: B, title: "A opção A e, além disso, completar Sófocles", effect: "Entram as quatro peças de Sófocles que faltam (*Ájax*, *Electra*, *Filoctetes* e *As Traquínias*), e ele fica completo como Ésquilo. Eu pesquiso a edição."}
+    - {key: C, title: "Manter as quinze como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "as cinco escolhidas mostram o que faz Eurípides diferente dos outros dois: a paixão que destrói (*Medeia*, *Hipólito*), a releitura crítica de um mito que Ésquilo já tinha tratado (*Electra*), a guerra vista pelas vítimas (*As Troianas*) e o confronto do homem com o deus (*As Bacantes*). As outras dez continuam ao alcance, sem pesar na sequência."
+  candidates:
+    - {title: "Medeia", author: "Eurípides · 431 a.C.", adds: "A mulher estrangeira abandonada que se vinga matando os próprios filhos.", facts: ["Ficaria obrigatória"]}
+    - {title: "Hipólito", author: "Eurípides · 428 a.C.", adds: "A paixão de Fedra pelo enteado, e o jovem destruído por recusar o amor.", facts: ["Ficaria obrigatória"]}
+    - {title: "Electra", author: "Eurípides · c. 420 a.C.", adds: "O mesmo mito da *Oresteia* de Ésquilo, recontado sem heroísmo.", facts: ["Ficaria obrigatória", "+Lida contra Ésquilo"]}
+    - {title: "As Troianas", author: "Eurípides · 415 a.C.", adds: "As mulheres de Troia depois da derrota: a guerra contada pelas vítimas.", facts: ["Ficaria obrigatória"]}
+    - {title: "As Bacantes", author: "Eurípides · c. 405 a.C.", adds: "O deus Dioniso se vinga do rei que o recusa; a última e mais estranha das peças dele.", facts: ["Ficaria obrigatória"]}
+
+- id: d-greco-adler-introducoes
+  kind: colecao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Quatro introduções que repetem uma obra maior da coleção: deixar como leitura complementar?"
+  why: "Em quatro pontos, a coleção tem uma introdução mais leve ao lado de uma obra mais completa sobre o mesmo assunto. Pelo critério de Adler, cada obra precisa cumprir um papel que nenhuma outra cumpre, e estas quatro repetem o papel da obra maior. Nenhuma sairia da biblioteca: viram leitura opcional, para quem quiser uma entrada mais fácil. Abra a comparação abaixo para ver cada par."
+  options:
+    - {key: A, recommended: true, title: "As quatro viram leitura complementar", effect: "Ficam na coleção, marcadas como opcionais. A sequência principal fica com as obras maiores."}
+    - {key: B, title: "Tirar as quatro da coleção", effect: "Saem de Greco-Romana; os registros continuam na biblioteca, sem coleção."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois. Se quiser decidir uma a uma, responda dizendo quais."}
+  recommendation: "são boas portas de entrada, e por isso não devem sair. Mas, como passos obrigatórios, fazem você ler duas vezes o mesmo assunto, uma vez de forma leve e outra a fundo."
+  candidates:
+    - {title: "A Ascensão de Atenas", author: "Anthony Everitt · 2016", adds: "Narrativa de divulgação da história de Atenas. Repete *Greece in the Making*, de Robin Osborne, e *A History of the Classical Greek World*, de P. J. Rhodes, que contam o mesmo período a fundo.", facts: ["-Divulgação"]}
+    - {title: "Ancient Greek Religion", author: "Jon D. Mikalson · 2005", adds: "Introdução à religião grega praticada: cultos, festas, sacrifícios. Repete *Religião Grega*, de Walter Burkert, a obra de referência sobre o assunto.", facts: ["-Em inglês"]}
+    - {title: "Philosophy Before Socrates", author: "Richard D. McKirahan · 1994", adds: "Os textos dos primeiros filósofos gregos com comentário. Repete *Os Pré-Socráticos*, de G. S. Kirk, J. E. Raven e M. Schofield, a coletânea padrão.", facts: ["-Em inglês"]}
+    - {title: "Roma: A História de um Império", author: "Greg Woolf · 2012", adds: "Panorama do Império Romano em longa duração. Repete *SPQR*, de Mary Beard, e, no período final, os três livros da parte sobre Antiguidade tardia.", facts: ["-Período coberto por outras obras"]}
+
+- id: d-greco-adler-campbell
+  kind: colecao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Tirar *O Herói de Mil Faces*, de Joseph Campbell, de Greco-Romana? Ele continua em Religião."
+  why: "Livro de 1949 em que Joseph Campbell, estudioso americano de mitologia, propõe que os mitos heroicos de todas as culturas seguem um mesmo roteiro, a jornada do herói: partida, provas e retorno. Influenciou muito o cinema, mas os estudiosos de mitologia o criticam por forçar mitos muito diferentes num molde só. Não trata do mundo greco-romano em particular, e a coleção já tem quem estude o mito grego por dentro: Jean-Pierre Vernant e Paul Veyne. O livro também está na coleção Religião, onde a comparação entre culturas é o próprio assunto."
+  options:
+    - {key: A, recommended: true, title: "Tirar de Greco-Romana", effect: "Sai desta coleção e continua em Religião. Nada sai da biblioteca."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica nas duas coleções; aqui, marcado como opcional."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a pergunta de Greco-Romana é como a cultura grega se formou e foi herdada. Campbell responde a outra pergunta, sobre o que todos os mitos teriam em comum, e essa pergunta já tem lugar em Religião."
+
+- id: d-rel-adler-panoramas
+  kind: colecao
+  collections: [religion]
+  priority: baixa
+  state: decidir
+  source: "review/religion.md, auditoria pela pirâmide de Adler"
+  question: "Dois panoramas gerais de Religião repetem o papel da *História das Crenças* de Eliade: deixar como leitura complementar?"
+  why: "A coleção abre com quatro panoramas antes de qualquer fonte: os três volumes da *História das Crenças e das Ideias Religiosas*, de Mircea Eliade, *Uma História de Deus*, de Karen Armstrong, e o manual *História das Religiões Mundiais*, de John B. Noss e sucessores. Os dois últimos são introduções de divulgação e repetem, em versão mais leve, o papel da obra de Eliade."
+  options:
+    - {key: A, recommended: true, title: "Os dois viram leitura complementar", effect: "Ficam na coleção, marcados como opcionais. A sequência principal começa pela obra de Eliade."}
+    - {key: B, title: "Só o manual de Noss vira complementar", effect: "*Uma História de Deus* continua como passo, por tratar só das três religiões abraâmicas."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "são boas portas de entrada e por isso não devem sair; como passos obrigatórios, fazem ler três vezes o mesmo panorama antes de chegar às fontes."
+  candidates:
+    - {title: "Uma História de Deus", author: "Karen Armstrong · 1993", adds: "A ideia de Deus no judaísmo, no cristianismo e no islã, em divulgação fluida e de tese.", facts: ["-Divulgação"]}
+    - {title: "História das Religiões Mundiais", author: "John B. Noss e sucessores · 1949, edições revistas", adds: "Manual universitário que apresenta as grandes tradições uma a uma.", facts: ["-Manual introdutório"]}
+
+- id: d-edu-adler-fontes
+  kind: colecao
+  collections: [education]
+  priority: alta
+  state: decidir
+  source: "review/education.md §10"
+  question: "Trazer para Educação *A República*, de Platão, e a *Política*, de Aristóteles, que já estão na biblioteca?"
+  why: "A coleção conta dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Dois dos textos que fundaram esse ideal já estão na biblioteca, em outras coleções: *A República*, em que Platão desenha a educação dos guardiões da cidade (livros II, III e VII, com a alegoria da caverna), e a *Política*, em que Aristóteles trata da educação dos cidadãos (livros VII e VIII). Entrariam como participação: nada a comprar."
+  options:
+    - {key: A, recommended: true, title: "Trazer os dois", effect: "Entram no começo da coleção, antes de Henri-Irénée Marrou, com indicação dos livros que tratam de educação."}
+    - {key: B, title: "Trazer só *A República*", effect: "O texto mais influente sobre educação na Antiguidade entra; a *Política* fica só em Política e Greco-Romana."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "Marrou e Werner Jaeger estudam exatamente estes textos. Com eles na coleção, você lê a fonte antes do estudo, e sem gastar nada. Não substitui o cartão sobre *A Doutrina Cristã*, de Agostinho, que traz a tradição cristã."
+  candidates:
+    - {title: "A República", author: "Platão · séc. IV a.C.", verdict: resolve, best: true, adds: "A educação dos guardiões pela música e pela ginástica, e a subida do filósofo da caverna ao sol.", facts: ["+Já na biblioteca", "Livros II, III e VII"]}
+    - {title: "Política", author: "Aristóteles · séc. IV a.C.", verdict: resolve, adds: "A educação como tarefa da cidade, e o que ensinar aos jovens.", facts: ["+Já na biblioteca", "Livros VII e VIII"]}
+
+- id: d-sob-adler-repetidos
+  kind: colecao
+  collections: [survival-self-sufficiency]
+  priority: baixa
+  state: decidir
+  source: "review/survival-self-sufficiency.md §9"
+  question: "Três manuais de Sobrevivência que repetem outros ou servem pouco ao Brasil: deixar como consulta complementar?"
+  why: "Pelo critério de Adler para livros práticos, um manual vale se é aplicável e se cumpre uma função que nenhum outro da coleção cumpre. Três ficam fracos nesse teste: o guia de ervas de David Hoffmann, britânico, ao lado do livro técnico de plantas medicinais brasileiras de Harri Lorenzi e F. J. Abreu Matos; o *Mini Manual de Técnica Escutista*, português, que resume o que Dave Canterbury e Humberto Costa ensinam por inteiro; e *Strategic Relocation*, de Joel Skousen, cujas análises de região são só da América do Norte."
+  options:
+    - {key: A, recommended: true, title: "Os três viram consulta complementar", effect: "Ficam na coleção e na biblioteca, marcados como opcionais."}
+    - {key: B, title: "Tirar os três da coleção", effect: "Saem de Sobrevivência; os registros continuam na biblioteca, sem coleção."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois. Se quiser decidir um a um, responda dizendo quais."}
+  recommendation: "nenhum é ruim, mas os três são reserva, não base. No livro de Skousen, os critérios para escolher onde morar continuam úteis no Brasil, e vale lê-los."
+  candidates:
+    - {title: "O Guia Completo das Plantas Medicinais", author: "David Hoffmann", adds: "Ervas e seus usos, em ordem alfabética, a partir da tradição britânica.", facts: ["-Plantas de outro clima"]}
+    - {title: "Mini Manual de Técnica Escutista", author: "Miguel Lontro e Pedro Monteiro · 2012", adds: "Técnicas básicas de campo em formato de bolso.", facts: ["-Resume outros dois manuais"]}
+    - {title: "Strategic Relocation", author: "Joel M. Skousen", adds: "Como escolher onde morar segundo os riscos de cada região.", facts: ["-Análises só da América do Norte", "+Critérios gerais úteis"]}
+
+- id: d-ane-adler-fontes
+  kind: colecao
+  collections: [ancient-near-east-egypt]
+  priority: alta
+  state: decidir
+  source: "review/ancient-near-east-egypt.md, auditoria pela pirâmide de Adler"
+  question: "Dar ao Oriente Próximo e Egito antigos as suas próprias fontes?"
+  why: "A coleção pergunta como funcionavam o Estado, a sociedade, a escrita e a crença dessas civilizações, e responde só com historiadores modernos: nenhum texto da época. Duas fontes já estão na biblioteca, na coleção Religião: a *Epopeia de Gilgámesh* e o *Enuma Elish*, o poema babilônico da criação. Para o Estado e a sociedade falta uma: o *Código de Hamurábi*, rei da Babilônia por volta de 1750 a.C., o mais célebre conjunto de leis da Antiguidade."
+  options:
+    - {key: A, recommended: true, title: "Trazer *Gilgámesh* e *Enuma Elish* e incluir o *Código de Hamurábi*", effect: "As duas primeiras entram na parte sobre escrita, crença e mito, sem compra; o Código entra na parte sobre Estado e sociedade, e eu pesquiso a edição."}
+    - {key: B, title: "Só trazer *Gilgámesh* e *Enuma Elish*", effect: "Nada a comprar; o Código fica para depois."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, quem estuda uma civilização lê o que ela escreveu, não só o que se escreveu sobre ela. Gilgámesh e o Enuma Elish já estão na sua biblioteca; o Código de Hamurábi é curto e tem edições em português."
+  candidates:
+    - {title: "Epopeia de Gilgámesh", author: "anônimo, versão babilônica", verdict: resolve, best: true, adds: "O rei que busca a imortalidade; inclui o relato do dilúvio.", facts: ["+Já na biblioteca"]}
+    - {title: "Enuma Elish", author: "anônimo, Babilônia", verdict: resolve, best: true, adds: "A criação do mundo e a ascensão de Marduk, deus da Babilônia.", facts: ["+Já na biblioteca"]}
+    - {title: "Código de Hamurábi", author: "Hamurábi, rei da Babilônia · c. 1750 a.C.", verdict: resolve, adds: "Cerca de 280 leis sobre propriedade, família, comércio e punições, gravadas numa estela de pedra.", facts: ["Curto", "-Edição a pesquisar"]}
+
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
 - id: d-pos-hirsch
@@ -1325,6 +1657,21 @@ items:
   composition_note: "O movimento I tem hoje quatro obras, todas do mundo antigo: A República, a Política, Tucídides e Cícero."
 
 
+- id: d-pos-como-ler-livros
+  kind: posicao
+  collections: [education]
+  priority: baixa
+  state: decidir
+  work: adler-van-doren--how-to-read-a-book
+  collection: education
+  question: "*Como Ler Livros*, de Mortimer Adler e Charles Van Doren, fica em Educação, na parte sobre a prática, depois de *A Mente Bem Treinada*?"
+  why: "O livro entrou a seu pedido, e a posição é minha. Ele é o método de ler os grandes livros que a *Proposta Paideia*, do mesmo Adler, põe no centro da formação. Por isso o pus na parte prática da coleção, ao lado do guia de Susan Wise Bauer e Jessie Wise para educar em casa pelo modelo clássico."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Logo depois da *Proposta Paideia*", effect: "Fica na parte sobre a recuperação do ideal clássico, junto do outro livro de Adler."}
+    - {key: C, title: "Quero outra posição", effect: "Me diga onde, ou peça que eu traga alternativas."}
+  recommendation: "a coleção vai do porquê (história e filosofia da educação) ao como (a prática). Este livro é todo do como: ensina a ler, não discute por que ler."
+
 # ============================== MUDAR UMA REGRA =============================
 
 - id: d-reg-proposito-movimento
@@ -1346,6 +1693,20 @@ items:
   state: decidida
   question: "Onde entra a literatura que complementa uma obra teórica, histórica ou técnica?"
   decided: {date: 2026-09-27, choice: "Dentro do movimento que ela complementa, com papel de tratamento literário e aresta apontando para a obra tratada — não agrupada com as outras obras literárias por serem literatura. Vale para todas as coleções.", note: "Gravado como §2.8 das regras de curadoria. Reversível: remover a §2.8; nenhum membro foi movido por esta decisão, e a redistribuição do movimento X de Política é decisão separada, ainda aberta em d-pol-movimento-x."}
+
+- id: d-reg-piramide-adler
+  kind: regra
+  collections: []
+  state: decidida
+  question: "Usar a pirâmide de Adler como critério para incluir e manter obras?"
+  decided: {date: 2026-10-14, choice: "Sim. Toda obra precisa cumprir um papel que nenhuma outra cumpre na coleção e recebe um nível: releitura, uma leitura séria, ou informação e consulta. Vale para as que entram e para as que já estão; saídas e trocas viram cartão e são decisão sua.", note: "Gravado como §2.9 das regras de curadoria. Primeira aplicação: auditoria de Política, com sete cartões em Mudar uma coleção. Reversível: remover a §2.9; nenhuma obra foi mexida por esta regra."}
+
+- id: d-reg-como-ler
+  kind: regra
+  collections: []
+  state: decidida
+  question: "Criar na página da obra uma seção que diga como ler aquela obra?"
+  decided: {date: 2026-10-14, choice: "Sim. Seção Como ler logo depois de Sobre a obra, específica da obra: a pergunta que ela responde, onde está o centro (e o que dá para ler em parte) e a postura de leitura.", note: "Gravado como §13 das regras da interface. Piloto em A República, Política de Aristóteles e Leviatã. Reversível: remover a §13 e as seções das três obras."}
 
 # ============================== AGUARDANDO =================================
 

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [krakauer]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1996"
 date_sort: 1996
 period: null
@@ -41,12 +41,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro-reportagem de Jon Krakauer, publicado em 1996, que reconstitui a vida e a morte de Christopher McCandless, jovem americano que abandonou tudo para viver isolado e morreu no Alasca em 1992. Investiga suas motivações e o fascínio pela natureza selvagem que o levou até lá.
+
+## Como ler
+
+- **A pergunta:** o que levou um jovem com tudo para dar certo a abandonar tudo e morrer sozinho no Alasca?
+- **Onde está o centro:** a reconstituição da viagem de Christopher McCandless, os relatos de quem o conheceu no caminho e os capítulos em que Jon Krakauer compara o caso com o de outros jovens, inclusive o seu.
+- **Postura:** É reportagem, que se lê como romance. Leia também como lição sobre os limites do despreparo: McCandless tinha coragem e ideal, mas pouco conhecimento prático.
 
 ## Fatos
 

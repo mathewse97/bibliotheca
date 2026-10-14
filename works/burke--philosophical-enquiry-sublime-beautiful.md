@@ -11,7 +11,7 @@ alt_titles: []
 authors: [burke]
 original_language: en
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1757 (primeira edição); 1759 (segunda, ampliada)"
 date_sort: 1757
 period: iluminismo
@@ -52,7 +52,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edipro, 2016", note: "Tradução competente de Daniel Moreira Miranda, mas sem apresentação nem notas que ajudem a ler."}
   - {edition: "Edições 70 (Lisboa), 2013", note: "Tradução em português de Portugal, de tradutor não identificado; precisa ser importada."}
@@ -61,6 +61,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tratado de estética de Edmund Burke, publicado em inglês em 1757 e ampliado em 1759. Separa o belo do sublime e os funda em paixões distintas: o belo no prazer e na sociabilidade, o sublime no terror experimentado a uma distância segura. É a obra que dá ao sublime estatuto próprio na estética moderna e que Kant retomaria depois.
+
+## Como ler
+
+- **A pergunta:** por que nos agradam tanto o belo quanto o que nos assusta, como uma tempestade vista de longe?
+- **Onde está o centro:** a parte I (o prazer e a dor, e o terror visto a distância como fonte do sublime); a parte II (o que produz o sublime: a obscuridade, o poder, a vastidão, o infinito); e a parte III (o belo: o pequeno, o liso, o delicado).
+- **Postura:** É um tratado de capítulos breves, e se lê inteiro. Edmund Burke explica tudo pelas sensações e pelo corpo, o que hoje soa ingênuo: interessa menos a explicação do que a distinção entre belo e sublime, que Kant vai retomar.
 
 ## Fatos
 

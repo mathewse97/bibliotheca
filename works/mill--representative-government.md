@@ -8,7 +8,7 @@ alt_titles: []
 authors: [mill]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null
@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1981", note: "Edição de coleção acadêmica de editora universitária, mas antiga e só encontrada usada."}
 ---
@@ -36,6 +36,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de John Stuart Mill publicada em 1861. Defende o governo representativo como a melhor forma de governo e discute suas condições e perigos: a participação dos cidadãos, a competência dos governantes, a representação das minorias e o risco da tirania da maioria.
+
+## Como ler
+
+- **A pergunta:** qual é a melhor forma de governo, e como evitar que a maioria esmague as minorias?
+- **Onde está o centro:** o capítulo III, sobre por que o governo representativo é a melhor forma; o capítulo VII, sobre a falsa e a verdadeira democracia e a representação das minorias; e o capítulo VIII, sobre a extensão do voto.
+- **Postura:** É argumentado com clareza, mas algumas propostas de John Stuart Mill soam estranhas hoje, como o voto com peso maior para os mais instruídos. Leia separando os princípios das soluções da época.
 
 ## Fatos
 

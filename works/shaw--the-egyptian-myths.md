@@ -8,7 +8,7 @@ alt_titles: []
 authors: [shaw]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2014"
 date_sort: 2014
 period: null
@@ -43,12 +43,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Guia da mitologia egípcia escrito pelo egiptólogo Garry J. Shaw e publicado em inglês em 2014. Apresenta os deuses, as narrativas e as crenças do Egito antigo para o leitor não especialista, mais como guia de consulta do que como monografia acadêmica.
+
+## Como ler
+
+- **A pergunta:** quem eram os deuses egípcios, e que histórias se contavam sobre eles?
+- **Onde está o centro:** os capítulos sobre a criação do mundo, sobre Osíris, Ísis e Hórus, e sobre a viagem dos mortos.
+- **Postura:** É um guia acessível, para consulta e para leitura corrida. Compare com os mitos mesopotâmicos que a coleção traz nas fontes, a *Epopeia de Gilgámesh* e o *Enuma Elish*.
 
 ## Fatos
 

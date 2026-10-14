@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: pi
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: filosofia
 date_written: "cânone páli, compilação antiga (datação debatida)"
 date_sort: -300
 period: null
@@ -38,7 +38,7 @@ derived_from:
          `missing`."
 
 provenance: []
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A Senda da Virtude, Palas Athena, trad. Nissim Cohen", note: "Também traduzida direto do páli e com notas, mas só se encontra usada."}
   - {edition: "Dhammapada, Pensamento, trad. Georges da Silva", note: "Uma adaptação livre, e não se sabe de qual texto foi feita."}
@@ -48,6 +48,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Coletânea de versos atribuídos ao Buda, integrante do cânone páli (no Khuddaka Nikāya), de compilação antiga e datação debatida. Em 423 estrofes distribuídas por 26 capítulos, trata da mente, da disciplina moral, do desapego e do caminho para a libertação. É um dos textos budistas mais lidos e traduzidos.
+
+## Como ler
+
+- **A pergunta:** como se libertar do sofrimento, segundo o ensinamento atribuído ao Buda?
+- **Onde está o centro:** são 423 versos em 26 capítulos curtos. Os primeiros, sobre a mente (tudo o que somos é resultado do que pensamos), dão o tom; depois voltam a atenção, a raiva, o desejo e o ideal do sábio.
+- **Postura:** Não é para ler de uma vez: leia poucos versos por dia e pense neles. Ajuda ter lido antes *What the Buddha Taught*, de Walpola Rahula, que explica os conceitos que os versos supõem, como as quatro nobres verdades, o carma e o nirvana.
 
 ## Fatos
 

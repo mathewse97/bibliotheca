@@ -8,7 +8,7 @@ alt_titles: []
 authors: [humberto-costa]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2022"
 date_sort: 2022
 period: null
@@ -35,12 +35,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual brasileiro de bushcraft de Humberto Costa, publicado em 2022. Trata de ferramentas de corte, abrigos, obtenção de água, fogo, equipamento básico, nós e amarras e escultura em madeira.
+
+## Como ler
+
+- **A pergunta:** como se manter na mata brasileira com ferramentas simples e habilidade?
+- **Onde está o centro:** os capítulos sobre ferramentas de corte, abrigo, água e fogo; nós e amarras e escultura em madeira vêm depois.
+- **Postura:** É um manual: leia inteiro em casa e pratique no campo. Por ser brasileiro, complementa o de Dave Canterbury, escrito para a América do Norte.
 
 ## Fatos
 

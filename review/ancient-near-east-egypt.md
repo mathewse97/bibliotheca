@@ -48,3 +48,21 @@ A partir daí ele pediu as alternativas atuais e depois a avaliação da série
   Estante Virtual estão bloqueadas a partir do ambiente.
 - **Capas**: nenhuma; os sites de capa estão bloqueados.
 - **Posições, papéis e argumentos** são meus e ficam a confirmar.
+
+---
+
+## Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
+
+| nível | obras |
+|---|---|
+| B | Van De Mieroop ×2, Cline, Brosius, Bottéro, Finkelstein e Römer, Smith |
+| C | Shaw, Kaefer |
+
+**Achado principal:** a coleção não tem nenhuma fonte antiga. Pergunta por
+Estado, sociedade, economia, escrita e crença e só responde com estudos
+modernos. Duas fontes já estão na biblioteca, em Religião: a *Epopeia de
+Gilgámesh* e o *Enuma Elish*; entram como participação, sem compra. Falta uma
+fonte sobre Estado e sociedade: o *Código de Hamurábi*. Cartão
+`d-ane-adler-fontes`.

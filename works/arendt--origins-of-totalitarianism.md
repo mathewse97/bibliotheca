@@ -8,7 +8,7 @@ alt_titles: []
 authors: [arendt]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: historia
 date_written: null
 date_sort: null
 period: null
@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Companhia das Letras, 1989", note: "Tradução de Roberto Raposo, a única brasileira, em formato grande e mais confortável de ler; está esgotada e só se acha usada."}
   - {edition: "Dom Quixote (Lisboa), 2024", note: "Tradução portuguesa, de tradutor não identificado; precisa ser importada e custa bem mais."}
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Hannah Arendt publicada em 1951, dividida em três partes: antissemitismo, imperialismo e totalitarismo. Reconstrói os elementos que se cristalizaram no nazismo e no stalinismo e analisa o totalitarismo como forma nova de domínio, baseada nas massas, na ideologia e no terror. É um dos estudos clássicos da teoria política do século XX.
+
+## Como ler
+
+- **A pergunta:** como foi possível o totalitarismo, um tipo de regime que não existia antes do século XX?
+- **Onde está o centro:** a parte III, "Totalitarismo": as massas, o movimento, a propaganda, a polícia secreta e os campos de concentração. As partes I (antissemitismo) e II (imperialismo) mostram os elementos que se cristalizaram nele.
+- **Postura:** É longo e denso, e mistura história e teoria; não espere uma narrativa contínua. Se o tempo for curto, comece pela parte III e pelo capítulo final, "Ideologia e terror", acrescentado em 1958.
 
 ## Fatos
 

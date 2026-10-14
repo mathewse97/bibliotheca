@@ -8,10 +8,7 @@ alt_titles: []
 author: han
 original_language: de
 form: book
-work_type: null                  # ensaio filosófico breve; "teoria" é o
-                                 # candidato mais próximo do vocabulário, não
-                                 # decidido aqui — depende da coleção em que
-                                 # a obra vier a entrar.
+work_type: filosofia
 date_written: "2010"
 date_sort: 2010
 period: null
@@ -65,12 +62,18 @@ derived_from:
   date: 2026-09-12
   transcribed: [title_pt, ISBN]
 
-updated: 2026-09-19
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio curto do filósofo Byung-Chul Han, publicado em alemão em 2010. Descreve a passagem da sociedade disciplinar, analisada por Foucault, para uma "sociedade do desempenho", em que o sujeito explora a si mesmo e o esgotamento, a depressão e o burnout substituem a repressão como forma de poder. É o livro que tornou o autor conhecido internacionalmente.
+
+## Como ler
+
+- **A pergunta:** por que a nossa época produz tanto esgotamento, depressão e burnout?
+- **Onde está o centro:** a passagem da sociedade disciplinar, que proíbe, para a sociedade do desempenho, em que cada um explora a si mesmo acreditando ser livre.
+- **Postura:** É um ensaio curto, que se lê numa tarde. Leia como diagnóstico a discutir: Byung-Chul Han generaliza muito, mas a imagem do sujeito que se explora sozinho é a ideia que fica.
 
 ## Fatos
 

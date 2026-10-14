@@ -37,6 +37,16 @@ relations:
     by: claude
     proposed: 2026-09-28
     approved_by: voce
+  - type: complements
+    target: huxley--brave-new-world
+    note: "As duas distopias centrais do século XX, lidas melhor juntas: o controle pela dor e pelo medo em Orwell, pelo prazer e pelo consumo em Huxley."
+    by: claude
+    proposed: 2026-10-14
+  - type: influenced_by
+    target: zamiatin--my
+    note: "Orwell resenhou *Nós* em 1946, três anos antes de publicar *1984*, e o Estado de vigilância total do seu romance retoma ideias de Zamiátin."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Romance do autor inglês George Orwell, publicado em 1949 como advertência contra o totalitarismo; também publicado sob o título 1984."
@@ -53,7 +63,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-09-28
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Companhia das Letras, 2009", note: "Tradução de Heloisa Jahn e Alexandre Hubner em edição simples, sem a apresentação e os ensaios sobre o livro."}
   - {edition: "Antofágica, 2022, trad. Antônio Xerxenesky", note: "Tradução nova de Antônio Xerxenesky, com ilustrações e apresentação de Gregório Duvivier, mas sem ensaios que ajudem a entender o livro."}
@@ -62,6 +72,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Romance distópico de George Orwell, publicado em 1949 como advertência contra o totalitarismo. Winston Smith, funcionário do Partido na Oceania do Grande Irmão, trabalha reescrevendo registros históricos sob um regime que controla a vigilância, a língua (a Novilíngua) e a própria memória. Tornou-se uma das referências centrais do século XX sobre propaganda e controle da realidade.
+
+## Como ler
+
+- **A pergunta:** como um poder total controla não só o que as pessoas fazem, mas o que pensam e lembram?
+- **Onde está o centro:** a primeira parte (Winston reescrevendo o passado no Ministério da Verdade, a novilíngua e o duplipensar); o livro atribuído a Goldstein, que explica o regime por dentro; e a terceira parte, o interrogatório de O'Brien e o quarto 101.
+- **Postura:** Lê-se de uma vez, como romance. Note como a língua é instrumento de poder, o mesmo tema do ensaio *A Política e a Língua Inglesa*, de Orwell. Compare com *Admirável Mundo Novo*, de Aldous Huxley: aqui o controle é pela dor.
 
 ## Fatos
 

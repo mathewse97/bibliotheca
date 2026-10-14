@@ -8,7 +8,7 @@ alt_titles: []
 authors: [rhodes]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2006 (1ª ed.); 2ª ed., 2010"
 date_sort: 2006
 period: null
@@ -34,7 +34,7 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "The Greek World 479–323 BC, Simon Hornblower, Routledge, 4ª ed. 2011", note: "Livro de Simon Hornblower sobre o mesmo período, 478 a 323 a.C.: mais analítico, mais atento a cada região e mais exigente para o leitor."}
 ---
@@ -42,6 +42,12 @@ editions_considered:
 ## Sobre a obra
 
 Narrativa da história grega de P. J. Rhodes, do fim das Guerras Médicas (478 a.C.) à morte de Alexandre (323 a.C.), publicada em 2006; a segunda edição, de 2010, acrescentou dois capítulos sobre vida e cultura. Cobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia. Paul Cartledge a descreveu como clara, sóbria e detalhada.
+
+## Como ler
+
+- **A pergunta:** o que aconteceu no mundo grego entre as Guerras Médicas e a morte de Alexandre?
+- **Onde está o centro:** os capítulos sobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia; e os dois capítulos sobre vida e cultura acrescentados na segunda edição.
+- **Postura:** É uma narrativa clara e sóbria, que serve de fio contínuo para as fontes antigas da coleção. Leia por partes, ao lado de Heródoto, Tucídides e Xenofonte.
 
 ## Fatos
 

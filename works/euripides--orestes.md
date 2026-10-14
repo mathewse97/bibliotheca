@@ -8,7 +8,7 @@ alt_titles: []
 authors: [euripides]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: esquilo--oresteia
+    note: "O mesmo Orestes depois de matar a mãe: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:
@@ -30,12 +35,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Eurípides, encenada em 408 a.C. Dias depois de matar a mãe, Orestes, atormentado, e Electra são condenados à morte pela assembleia de Argos; abandonados por Menelau, tentam matar Helena e tomam Hermíone como refém, até que Apolo intervém. É uma das peças mais sombrias e desconcertantes do autor, com uma visão crua da política e da violência.
+
+## Como ler
+
+- **A pergunta:** o que acontece quando a vingança de Orestes, em vez de fundar a justiça, só gera mais violência?
+- **Onde está o centro:** a condenação de Orestes e Electra pela assembleia de Argos, o abandono por Menelau, o ataque a Helena e o rapto de Hermíone, e a intervenção de Apolo no final.
+- **Postura:** É uma das peças mais sombrias e desconcertantes de Eurípides. Compare com as *Eumênides*, a última parte da *Oresteia* de Ésquilo, que termina num tribunal. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

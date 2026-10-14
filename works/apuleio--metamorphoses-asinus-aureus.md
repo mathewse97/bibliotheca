@@ -8,7 +8,7 @@ alt_titles: []
 authors: [apuleio]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cotovia (Lisboa), 2007, trad. Delfim Ferreira Leão", note: "Tradução de Delfim Ferreira Leão, professor de estudos clássicos em Coimbra, mas em português de Portugal e sem o texto latino ao lado."}
   - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Tradução direta de Sandra Braga Bianchet, professora de latim da UFMG, aparentemente sem o texto latino ao lado."}
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Romance latino de Apuleio, escrito no século II d.C., o único romance da literatura latina conservado por inteiro. Narra as aventuras de Lúcio, transformado acidentalmente em asno, e intercala muitas histórias, entre elas a fábula de Cupido e Psiquê. Termina com a restauração da forma humana do protagonista por intervenção de Ísis e sua iniciação nos mistérios da deusa, o que faz do livro um testemunho da religiosidade do Império.
+
+## Como ler
+
+- **A pergunta:** o que acontece com um homem curioso demais, transformado em animal, e como ele recupera a forma humana?
+- **Onde está o centro:** as aventuras de Lúcio transformado em asno; a fábula de Cupido e Psiquê, contada no meio do livro (livros IV a VI), que é a parte mais célebre; e o livro XI, em que a deusa Ísis o salva e ele se inicia nos seus mistérios.
+- **Postura:** É um romance de aventuras, cômico e às vezes obsceno: leia pelo prazer das histórias encaixadas umas nas outras. O livro XI muda de tom e dá sentido ao resto; não o pule.
 
 ## Fatos
 

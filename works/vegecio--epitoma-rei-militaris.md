@@ -8,7 +8,7 @@ alt_titles: []
 authors: [vegecio]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: pratico
 date_written: null
 date_sort: null
 period: null
@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Imprensa da Universidade de Coimbra, 2009", note: "O texto de João Gouveia Monteiro e José Eduardo Braga na edição original da Universidade de Coimbra, importada; há versão digital gratuita. Serve se a edição brasileira não aparecer."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tratado latino de Flávio Vegécio, escrito no fim do Império Romano, entre o fim do século IV e o início do V d.C. Resume a organização do exército romano — recrutamento, treinamento, disciplina, tática, fortificação e guerra naval — propondo o retorno às práticas antigas. Foi muito lido e copiado durante a Idade Média como manual de arte militar.
+
+## Como ler
+
+- **A pergunta:** como o exército romano recrutava, treinava e combatia, segundo quem queria restaurar as práticas antigas?
+- **Onde está o centro:** os quatro livros: o recrutamento e o treinamento; a organização da legião; a tática e a estratégia, com o prefácio de onde vem a máxima "quem quer a paz, prepare a guerra"; e o cerco e a guerra naval.
+- **Postura:** É um tratado técnico: leia o livro I e o livro III inteiros e consulte os outros. Repare que Vegécio descreve um exército ideal do passado, não o da sua época.
 
 ## Fatos
 

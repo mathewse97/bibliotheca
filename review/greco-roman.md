@@ -344,3 +344,64 @@ ISBN, e pedem conferência antes de qualquer troca.
 
 `euripides--bakchai` e `kirk-raven-schofield--the-presocratic-philosophers`
 continuam sem edição registrada (Kirk: decisão sua de 2026-09-12, por preço).
+
+---
+
+# 9 · Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do
+agente, não decisão. O que pede mudança virou cartão (`d-greco-adler-*`);
+nenhuma obra foi movida, tirada ou trocada.
+
+**Níveis:** A releitura; B uma leitura séria; C informação ou consulta.
+
+**Composição:** 87 obras — 60 fontes antigas e 27 estudos modernos.
+
+**Fontes antigas (60).** Quase todas A: Hesíodo, Homero, os três trágicos,
+Aristófanes, Platão, Aristóteles, Heródoto, Tucídides, Plutarco, Virgílio,
+Ovídio, Cícero, Sêneca, Epicteto, Marco Aurélio, Agostinho, Epicuro. B:
+Píndaro, Xenofonte (*Helênicas*), *Constituição de Atenas*, Apuleio, as
+tragédias menores de Ésquilo (*Os Persas*, *Os Sete contra Tebas*, *As
+Suplicantes*) e dez de Eurípides. C: Pseudo-Apolodoro (catálogo de mitos, papel
+de consulta ao lado de Grimal) e Vegécio (manual militar; fica, porque é a única
+obra sobre a dimensão militar).
+
+**Estudos modernos (27).**
+
+| nível | obras |
+|---|---|
+| B | Osborne, Finley (*Os Gregos Antigos*), Jaeger, Burkert, Vernant ×2, Veyne, Kirk-Raven-Schofield, Rhodes, Brosius, Hansen, Chaniotis, Beard, Brown, Mitchell, Cameron, Highet, Martin e Blackwell |
+| C | Guarinello (fica: enquadramento curto de Grécia e Roma juntas), Cline (já complementar), Grimal (consulta legítima), Finley (*O Legado da Grécia*), Everitt, Mikalson, McKirahan, Woolf, Campbell |
+
+**Achados:**
+
+1. **Tragédia desequilibrada.** Eurípides tem 15 peças na sequência, Ésquilo
+   está completo (7) e Sófocles tem 3 das 7. As peças são todas de releitura;
+   o problema é o peso de quinze passos obrigatórios do mesmo autor
+   (`d-greco-adler-tragedias`).
+2. **Quatro introduções que repetem uma obra maior:** Everitt (Osborne e
+   Rhodes), Mikalson (Burkert), McKirahan (Kirk-Raven-Schofield), Woolf (Beard,
+   e o período posterior agora coberto pela Antiguidade tardia)
+   (`d-greco-adler-introducoes`).
+3. **Campbell** não trata do mundo greco-romano e é criticado pela
+   generalização; continua em Religião (`d-greco-adler-campbell`).
+4. **Lacuna nova: Lucrécio**, *Da Natureza das Coisas*. O epicurismo está só
+   pela *Carta a Meneceu*, e a filosofia romana da coleção fica só estoica
+   (`d-greco-adler-lucrecio`).
+5. **Antiguidade tardia:** três panoramas modernos (Brown, Mitchell, Cameron)
+   para uma fonte (Agostinho). Há sobreposição entre Mitchell e Cameron, mas a
+   decisão de incluir os três é de 2026-10-12; registrado aqui, sem cartão.
+6. **Martin e Blackwell** ficaram fora do cartão 2: é a única narrativa moderna
+   da vida de Alexandre, e não repete Plutarco nem Chaniotis.
+
+**Já em cartão antes desta auditoria, e confirmados pelo critério:**
+historiadores romanos (`d-greco-romanas`), ciência e medicina
+(`d-greco-ciencia`), *O Ciclope* e *Alceste* (`d-greco-ciclope-alceste`),
+comédias de Aristófanes (`d-greco-aristofanes`), *Vida de Cícero*
+(`d-greco-cicero`).
+
+**Leitura parcial indicada** (para "Como ler"): Heródoto (livros I e V–IX);
+Tucídides (como em Política); *Metafísica* (livros I, IV, VII e XII); *Ética a
+Nicômaco* (I–III, VI, VIII e X); Jaeger (volume I); Burkert (capítulos sobre
+deuses e ritual); Sêneca (seleção de cartas); Agostinho (como em Política);
+Highet e Hansen (por consulta).

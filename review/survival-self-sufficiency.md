@@ -309,3 +309,27 @@ fonte brasileira e complementa pelo contexto local.
 (posição de Claude, a confirmar); Dickson ficou, na edição inglesa revista em
 2018 (cartão `d-ed-dickson`, opção A).
 
+
+---
+
+# 9 · Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada. Numa coleção prática, vale o critério de Adler para livros práticos:
+aplicável, testado, de autor com experiência real; e a pergunta de redundância.
+
+| nível | obras |
+|---|---|
+| B (referência que se usa a vida toda) | Seymour, Werner*, Dickson, PHTLS, Lorenzi e Matos, Kinupp e Lorenzi, Van Lengen, Canterbury, Costa, Gooley (*sinais*), Schlaad |
+| C | Lontro e Monteiro, Hoffmann, Gooley (*tempo*), Becker e Dalponte (guia de campo, consulta legítima), Silva e Conforto, Alton, Pellegrini e Moraes, Skousen |
+
+(*Werner está fora da coleção desde a troca por Alton, cartão d-sob-medicina.)
+
+**Achados (cartão `d-sob-adler-repetidos`):**
+
+1. *O Guia Completo das Plantas Medicinais*, de David Hoffmann, repete o papel
+   de *Plantas Medicinais no Brasil*, de Harri Lorenzi e F. J. Abreu Matos,
+   com plantas do clima britânico.
+2. O *Mini Manual de Técnica Escutista*, de Portugal, repete em resumo o que
+   Dave Canterbury e Humberto Costa ensinam por inteiro.
+3. *Strategic Relocation*, de Joel Skousen: os critérios valem; as análises
+   regionais são só da América do Norte.

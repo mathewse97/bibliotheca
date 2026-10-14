@@ -8,7 +8,7 @@ alt_titles: []
 authors: [esquilo]
 original_language: grc
 form: null                      # tragédia — slug de form a confirmar no vocabulário
-work_type: primary-source
+work_type: literatura
 date_written: null              # a pesquisar (§E)
 date_sort: null
 period: null
@@ -39,12 +39,18 @@ derived_from:
   collection: greco-roman
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Ésquilo encenada em 472 a.C., a mais antiga peça grega conservada. Ambientada na corte persa, em Susa, mostra a recepção da notícia da derrota de Xerxes na batalha de Salamina, da qual o próprio Ésquilo participou. É a única tragédia grega sobrevivente sobre um acontecimento histórico recente.
+
+## Como ler
+
+- **A pergunta:** como os vencedores podem pensar a derrota do inimigo?
+- **Onde está o centro:** o sonho da rainha Atossa, a chegada do mensageiro com a notícia de Salamina, a aparição do fantasma do rei Dario e a entrada de Xerxes derrotado.
+- **Postura:** É a peça grega mais antiga que chegou até nós, e Ésquilo lutou em Salamina: leia buscando como ele mostra a derrota persa como castigo da desmedida, sem zombar dos vencidos. Compare com os livros VII e VIII de Heródoto.
 
 ## Fatos
 

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [platao]
 original_language: grc
 form: speech
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null              # cronologia relativa disputada; não fixada (ver Fatos)
 date_sort: null
 period: null
@@ -26,7 +26,12 @@ missing: ["data/grupo cronológico com fonte tier 4–5 específica",
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: aristofanes--nephelai
+    note: "Na *Apologia*, Sócrates diz que a imagem dele criada pela comédia de Aristófanes, pendurado num cesto e ensinando a vencer qualquer discussão, ajudou a formar o preconceito que levou à acusação."
+    by: claude
+    proposed: 2026-10-14
 provenance:
   - claim: "Língua original grego antigo; título original; forma."
     source: "https://plato.stanford.edu/entries/plato/ (Kraut, SEP, 'Plato')"
@@ -42,7 +47,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-17
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Tradução de Manuel de Oliveira Pulquério, de Coimbra, direto do grego e com notas, mas importada de Portugal e sem o grego ao lado."}
   - {edition: "L&PM Pocket, trad. André Malta", note: "Tradução de André Malta, professor de grego da USP, em edição de bolso com o Êutifron, mas sem o texto grego ao lado."}
@@ -51,6 +56,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Platão, em grego antigo, que apresenta a defesa de Sócrates no julgamento de 399 a.C., em que foi acusado de impiedade e de corromper os jovens e condenado à morte. Sócrates explica sua missão de examinar a si mesmo e aos outros e afirma que uma vida sem exame não vale a pena ser vivida. É uma das principais fontes sobre a figura de Sócrates.
+
+## Como ler
+
+- **A pergunta:** o que vale mais: a própria vida, ou a busca da verdade e a fidelidade a si mesmo?
+- **Onde está o centro:** a resposta às acusações antigas, a imagem de Sócrates criada pelas *Nuvens* de Aristófanes; a história do oráculo de Delfos, que disse que ninguém era mais sábio que Sócrates; a imagem de Sócrates como o moscardo que desperta a cidade; e as palavras finais sobre a morte.
+- **Postura:** É curta e se lê de uma vez. Não é a transcrição do julgamento, mas a versão de Platão, discípulo de Sócrates. Leia como o retrato de um modo de viver: uma vida sem exame não vale a pena ser vivida.
 
 ## Fatos
 

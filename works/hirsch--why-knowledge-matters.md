@@ -8,7 +8,7 @@ alt_titles: []
 authors: [hirsch]
 original_language: en
 form: book
-work_type: null                 # candidato: teoria/crítica educacional — slug novo vai a revisão (§6.8)
+work_type: ciencias-sociais
 date_written: "2016"
 date_sort: 2016
 period: null
@@ -28,6 +28,11 @@ relations:
      note: "Os dois defendem um currículo comum e rico em conteúdo para todos
             na escola pública americana; Adler parte do ideal clássico, Hirsch
             da ciência cognitiva e dos resultados escolares.", by: claude}
+  - type: criticizes
+    target: dewey--democracy-and-education
+    note: "Hirsch atribui o declínio escolar às teorias que trocaram o conteúdo por habilidades e pelo desenvolvimento natural da criança, linhagem de que Dewey é o principal representante."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Why Knowledge Matters: Rescuing Our Children from Failed
@@ -49,12 +54,18 @@ derived_from:
   collection: education
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de E. D. Hirsch Jr., publicado em inglês em 2016. Sustenta que a capacidade de ler e pensar depende de um conhecimento de fundo amplo e partilhado, e atribui a queda dos resultados escolares e a desigualdade entre alunos às teorias que trocaram o conteúdo por "habilidades" genéricas e pelo desenvolvimento natural da criança. Apoia-se em argumentos da ciência cognitiva e em dados de desempenho escolar.
+
+## Como ler
+
+- **A pergunta:** o que faz uma criança aprender a ler e pensar bem: habilidades genéricas, ou conhecimento?
+- **Onde está o centro:** o argumento de que a compreensão depende de um conhecimento de fundo amplo e partilhado; e a crítica das teorias educacionais que trocaram o conteúdo por habilidades e pelo desenvolvimento natural da criança.
+- **Postura:** É um livro de argumento, apoiado em ciência cognitiva e em dados escolares, com polêmica aberta. Leia confrontando com *Democracia e Educação*, de John Dewey, que representa a posição criticada.
 
 ## Fatos
 

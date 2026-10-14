@@ -8,7 +8,7 @@ alt_titles: []
 authors: [dickinson, dyer]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: "1991 (1ª ed.); 2021 (4ª ed., revista e ampliada)"
 date_sort: 1991
 period: null
@@ -54,7 +54,7 @@ derived_from:
          astrônomo: cobre técnica e equipamento em profundidade, que é o papel
          do Mourão. Nenhuma das duas ensina a construir telescópio."
 
-updated: 2026-10-10
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "NightWatch, Firefly, 2023", note: "Outro livro de Terence Dickinson, mais curto e centrado em mapas do céu por estação; ensina menos sobre técnica e equipamento."}
   - {edition: "Turn Left at Orion, Cambridge, 2019", note: "Um guia do que observar no céu, com capítulo do hemisfério sul, mas não ensina técnica nem equipamento."}
@@ -63,6 +63,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Guia de astronomia amadora dos canadenses Terence Dickinson e Alan Dyer, publicado em 1991 e revisto em edições posteriores. Ensina sobretudo como observar e com quê: binóculos, telescópios, acessórios, técnicas de observação e fotografia do céu. É escrito para o céu do hemisfério norte.
+
+## Como ler
+
+- **A pergunta:** como observar o céu com binóculos ou telescópio, e com que equipamento?
+- **Onde está o centro:** os capítulos sobre a escolha de binóculos e telescópios e sobre as técnicas de observação; a fotografia do céu vem depois.
+- **Postura:** É um guia de uso: leia as partes de equipamento antes de comprar e as de observação ao começar a observar. É escrito para o céu do hemisfério norte; parte das constelações citadas não aparece no Brasil.
 
 ## Fatos
 

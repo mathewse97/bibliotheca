@@ -8,7 +8,7 @@ alt_titles: []
 authors: [voegelin]
 original_language: en
 form: book
-work_type: null
+work_type: filosofia
 date_written: "1952 (conferências de 1951)"
 date_sort: 1952
 period: null
@@ -20,7 +20,12 @@ missing: [work_type]
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: popper--the-open-society
+    note: "Dois diagnósticos das ideologias modernas, publicados com poucos anos de distância e por caminhos opostos: Popper a partir da razão crítica, Voegelin a partir da ordem religiosa."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Editora UnB, Coleção Pensamento Político, 1979, trad. José Viegas Filho, apresentação de José Pedro Galvão de Sousa (Síntese, v. 43, 2016)."
@@ -34,7 +39,7 @@ derived_from:
   date: 2026-10-13
   note: "Avaliada a partir de um roteiro sobre religião e modernidade trazido pelo Mathews; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "Editora UnB, 1979, trad. José Viegas Filho", note: "A primeira tradução brasileira, de José Viegas Filho; antiga e só encontrada usada."}
   - {edition: "The New Science of Politics, University of Chicago Press", note: "O original em inglês; ficou de fora porque há tradução brasileira à venda nova."}
@@ -44,6 +49,12 @@ editions_considered:
 ## Sobre a obra
 
 Livro de Eric Voegelin, publicado em inglês em 1952 a partir de conferências dadas na Universidade de Chicago em 1951. Propõe que a ciência política volte a perguntar pela ordem da existência humana e da sociedade, e não só descreva instituições, e interpreta as ideologias modernas como um gnosticismo: a tentativa de realizar dentro da história a salvação que a fé cristã situava além dela. É a obra que o tornou conhecido e a melhor porta de entrada para seu pensamento.
+
+## Como ler
+
+- **A pergunta:** o que as ideologias modernas têm em comum com as antigas heresias gnósticas?
+- **Onde está o centro:** a introdução, sobre a ciência política que deve voltar a perguntar pela ordem; e os capítulos IV a VI, sobre o gnosticismo como essência da modernidade, a revolução puritana e o fim da modernidade.
+- **Postura:** São conferências densas, com vocabulário próprio: leia devagar e anote as definições. Eric Voegelin escreve contra o positivismo e contra as ideologias; compare com *A Sociedade Aberta*, de Karl Popper, que critica as mesmas ideologias por outro caminho.
 
 ## Fatos
 

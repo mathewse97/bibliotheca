@@ -8,7 +8,7 @@ alt_titles: []
 authors: [esquilo]
 original_language: grc
 form: null                      # tragédia — slug de form a confirmar no vocabulário
-work_type: primary-source
+work_type: literatura
 date_written: null              # a pesquisar (§E)
 date_sort: null
 period: null
@@ -39,12 +39,18 @@ derived_from:
   collection: greco-roman
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Ésquilo em que as cinquenta filhas de Dânao fogem do Egito para escapar do casamento com os primos e pedem asilo em Argos. O rei Pelasgo, dividido entre o dever para com os suplicantes e o risco de guerra, submete a decisão à assembleia do povo. É a única peça conservada de uma trilogia.
+
+## Como ler
+
+- **A pergunta:** o que uma cidade deve a quem pede asilo, mesmo correndo o risco de uma guerra?
+- **Onde está o centro:** a chegada das filhas de Dânao a Argos e o dilema do rei Pelasgo, que submete a decisão à assembleia do povo.
+- **Postura:** O coro, das próprias suplicantes, carrega quase a peça inteira, o que a torna diferente das outras tragédias. É a única parte conservada de uma trilogia.
 
 ## Fatos
 

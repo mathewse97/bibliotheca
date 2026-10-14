@@ -8,7 +8,7 @@ alt_titles: []
 authors: [euripides]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: esquilo--oresteia
+    note: "Recontam o mesmo mito, e Eurípides responde a Ésquilo de forma direta: a cena em que Electra reconhece o irmão zomba dos sinais de reconhecimento usados nas *Coéforas*."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:
@@ -30,12 +35,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Eurípides sobre a vingança dos filhos de Agamêmnon. Electra, casada com um pobre camponês, reencontra o irmão Orestes e com ele mata Egisto e a mãe, Clitemnestra. Eurípides retoma o mito tratado por Ésquilo e Sófocles com tom mais cotidiano e questionador quanto à justiça do matricídio.
+
+## Como ler
+
+- **A pergunta:** existe vingança justa, ou ela destrói também quem a executa?
+- **Onde está o centro:** a abertura, com Electra casada com um camponês e vivendo na pobreza; a cena em que ela reconhece o irmão Orestes, que zomba da cena equivalente de Ésquilo; o assassinato da mãe, Clitemnestra; e o remorso dos dois no final.
+- **Postura:** Rende mais depois da *Oresteia*: Eurípides reconta o mesmo mito tirando dele o heroísmo. Repare como os personagens parecem gente comum, e não figuras de lenda.
 
 ## Fatos
 

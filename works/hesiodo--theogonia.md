@@ -8,7 +8,7 @@ alt_titles: []
 authors: [hesiodo]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Hedra, 2022, trad. Christian Werner", note: "Tradução de Christian Werner, mais clara e precisa, mas sem confirmação do grego ao lado e com menos texto explicativo."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Poema de Hesíodo, composto em grego por volta de 700 a.C. Narra a origem do cosmos a partir do Caos e a genealogia dos deuses, até a sucessão de Urano a Crono e a vitória de Zeus, que estabelece a ordem do mundo divino. É a principal fonte literária para a cosmogonia e a religião gregas arcaicas.
+
+## Como ler
+
+- **A pergunta:** como surgiram o mundo e os deuses, e como Zeus chegou a reinar?
+- **Onde está o centro:** o hino às Musas que abre o poema, em que o poeta recebe delas o canto; a sucessão dos deuses (Urano destronado por Cronos, Cronos por Zeus); a guerra contra os Titãs; e Prometeu e Pandora, a origem dos males humanos.
+- **Postura:** É poesia feita para ser ouvida: leia em voz alta se puder, sem se perder nas listas de nomes, que fazem parte da forma. Uma árvore genealógica dos deuses ao lado ajuda muito.
 
 ## Fatos
 

@@ -104,7 +104,7 @@ alt_titles: []
 authors: [{authors}]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: null                 # pratico | literatura | historia | ciencia | filosofia | ciencias-sociais (§E.5)
 date_written: null
 date_sort: null
 period: null

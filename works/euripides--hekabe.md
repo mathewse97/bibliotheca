@@ -8,7 +8,7 @@ alt_titles: []
 authors: [euripides]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -30,12 +30,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Eurípides, encenada por volta de 424 a.C. Depois da queda de Troia, a rainha Hécuba, escravizada, perde a filha Polixena, sacrificada pelos gregos, e descobre que o filho Polidoro foi assassinado pelo rei trácio a quem fora confiado, contra o qual executa uma vingança terrível.
+
+## Como ler
+
+- **A pergunta:** o que o sofrimento extremo faz de uma pessoa?
+- **Onde está o centro:** o sacrifício de Polixena, filha de Hécuba, pelos gregos; a descoberta de que o filho Polidoro foi assassinado pelo rei trácio a quem fora confiado; e a vingança de Hécuba.
+- **Postura:** Repare como a vítima se torna carrasco, e como os gregos vencedores não saem melhores. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

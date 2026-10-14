@@ -8,7 +8,7 @@ alt_titles: []
 authors: [adorno, horkheimer]
 original_language: de
 form: book
-work_type: primary-source
+work_type: filosofia
 date_written: "1944 (circulação restrita); 1947 (publicação)"
 date_sort: 1947
 period: modernidade-tardia
@@ -50,12 +50,18 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra de Theodor W. Adorno e Max Horkheimer, escrita em alemão no exílio americano, circulada em 1944 e publicada em 1947. Sustenta que a razão que prometia emancipar converteu-se em instrumento de dominação, e que o mito que ela queria dissolver retorna dentro dela. O capítulo sobre a indústria cultural argumenta que a cultura de massa, produzida como mercadoria, não aliena pela censura, mas pelo entretenimento. É leitura exigente, que pressupõe familiaridade com Weber e Freud.
+
+## Como ler
+
+- **A pergunta:** por que a razão que prometia libertar os homens dos mitos acabou produzindo novas formas de dominação?
+- **Onde está o centro:** o primeiro ensaio, "O conceito de esclarecimento"; o excurso sobre Ulisses, lido como o primeiro homem moderno, que se amarra ao mastro para ouvir as sereias sem se perder; e o capítulo sobre a indústria cultural, o cinema, o rádio e a música produzidos em série.
+- **Postura:** É denso, escrito em fragmentos e com frases difíceis de propósito. Se quiser uma entrada mais concreta, comece pelo capítulo da indústria cultural e volte depois ao primeiro ensaio. Foi escrito no exílio americano, durante a Segunda Guerra.
 
 ## Fatos
 

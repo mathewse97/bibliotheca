@@ -8,7 +8,7 @@ alt_titles: ["O guia completo das plantas medicinais: ervas de A a Z para tratar
 authors: [hoffmann]
 original_language: en
 form: book
-work_type: null                 # §E
+work_type: pratico
 date_written: null
 date_sort: null
 period: null
@@ -59,12 +59,18 @@ derived_from:
 # — "a coleção de autossuficiência for criada" — cumpriu-se. A obra é membro de
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Guia de plantas medicinais em ordem alfabética, do fitoterapeuta britânico David Hoffmann. Apresenta as ervas e seus usos no tratamento de males cotidianos.
+
+## Como ler
+
+- **A pergunta:** que planta serve para quê, e como prepará-la?
+- **Onde está o centro:** os verbetes das plantas, em ordem alfabética, com os seus usos.
+- **Postura:** É obra de consulta: leia a introdução sobre o preparo das ervas e depois consulte as plantas conforme a necessidade. Planta medicinal também tem efeito colateral e contraindicação: não substitui um médico.
 
 ## Fatos
 

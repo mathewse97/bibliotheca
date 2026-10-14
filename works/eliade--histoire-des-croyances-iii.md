@@ -9,7 +9,7 @@ alt_titles: []
 authors: [eliade]
 original_language: fr
 form: book
-work_type: null
+work_type: historia
 date_written: "1983"
 date_sort: 1983
 period: null
@@ -48,12 +48,18 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Terceiro e último volume escrito por Mircea Eliade de sua história das religiões, publicado em francês em 1983. Trata de Maomé e do islã, do cristianismo medieval, do judaísmo e de outras tradições até a época das Reformas. A obra foi planejada em quatro volumes, mas o autor morreu em 1986 sem concluir o quarto.
+
+## Como ler
+
+- **A pergunta:** como as religiões se transformaram de Maomé até a época das Reformas?
+- **Onde está o centro:** os capítulos sobre o islã, o cristianismo medieval e as heresias e místicas da Idade Média.
+- **Postura:** Leia por partes, conforme a tradição que estiver estudando. É o último volume que Mircea Eliade concluiu; a obra ficou sem a parte moderna.
 
 ## Fatos
 

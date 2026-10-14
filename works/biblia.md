@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: he
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: filosofia
 date_written: "composição em camadas, séc. XII a.C. – II d.C."
 date_sort: -500
 period: null
@@ -46,7 +46,7 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "TEB — Tradução Ecumênica da Bíblia, Loyola", note: "Tradução Ecumênica da Bíblia, do mesmo nível, com notas escritas por estudiosos de várias igrejas; serve como segunda Bíblia de estudo."}
   - {edition: "Bíblia do Peregrino, Paulus", note: "Traz boas notas sobre o texto como literatura, mas não se confirmou que foi traduzida das línguas originais."}
@@ -57,6 +57,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Coleção de livros sagrados do judaísmo e do cristianismo, composta em hebraico, aramaico e grego ao longo de mais de um milênio. Reúne narrativas, leis, poesia, profecia, literatura sapiencial, evangelhos e cartas, e sua composição e seu cânone variam entre as tradições judaica, católica, ortodoxa e protestante.
+
+## Como ler
+
+- **A pergunta:** como um povo entendeu a sua relação com um Deus único, ao longo de mais de mil anos de história e de escrita?
+- **Onde está o centro:** na primeira vez, não se lê de ponta a ponta. Um caminho: o Gênesis (a criação e os patriarcas); o Êxodo (a saída do Egito e a Lei no Sinai); os livros de Samuel e dos Reis; profetas como Amós e Isaías; os Salmos, Jó e o Eclesiastes; e, no Novo Testamento, os evangelhos, os Atos dos Apóstolos e a Carta aos Romanos. As introduções da edição a cada livro já são uma formação.
+- **Postura:** É uma biblioteca, não um livro: dezenas de livros de gêneros diferentes (narrativa, lei, poesia, profecia, cartas), escritos e reunidos ao longo de séculos. Leia cada livro conforme o seu gênero, com as notas. Mortimer Adler trata os livros sagrados como caso à parte: quem crê os lê com fé; para estudar, leia-os como textos de história e de literatura, sem pressupor nem negar a fé.
 
 ## Fatos
 

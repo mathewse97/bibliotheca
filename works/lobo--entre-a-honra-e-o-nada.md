@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lobo]
 original_language: null         # provavelmente pt, mas não verificado
 form: null                      # book | essay | lecture | speech | dialogue | treatise | novel | play
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null
@@ -54,12 +54,18 @@ derived_from:
 # A obra é membro de `culture`, e a participação — papel, exigência e o
 # argumento da colocação — vive lá, não aqui.
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio de Julio Lobo publicado em 2026. Segundo a apresentação do próprio livro, pergunta o que resta do indivíduo quando as referências comuns de uma cultura se dissolvem.
+
+## Como ler
+
+- **A pergunta:** o que resta do indivíduo quando as referências comuns de uma cultura se dissolvem?
+- **Onde está o centro:** a contraposição do título: a honra, como ideia de um valor que obriga, e o nada que fica quando ela desaparece.
+- **Postura:** É um ensaio recente, de 2026, ainda sem recepção crítica: leia como argumento a avaliar, confrontando-o com os outros diagnósticos da coleção, de Mario Vargas Llosa, Roger Scruton e Byung-Chul Han.
 
 ## Fatos
 

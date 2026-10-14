@@ -8,7 +8,7 @@ alt_titles: []
 authors: [plutarco]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: historia
 date_written: null
 date_sort: null
 period: null
@@ -30,7 +30,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Paumape, 1992, trad. Gilson César Cardoso", note: "Edição brasileira antiga, só usada, sem avaliação acadêmica que confirme a qualidade da tradução."}
 ---
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Biografia do orador ateniense Demóstenes, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Cícero. Trata da carreira de Demóstenes e de sua oposição à Macedônia de Filipe II no século IV a.C.
+
+## Como ler
+
+- **A pergunta:** o que pode a palavra contra a força?
+- **Onde está o centro:** a formação do orador, que venceu dificuldades de fala, os discursos contra Filipe da Macedônia e a morte, quando a causa já estava perdida.
+- **Postura:** É uma biografia curta, escrita para ser comparada com a de Cícero, outro orador que enfrentou um homem forte e morreu por isso. Plutarco busca o caráter, não a história completa.
 
 ## Fatos
 

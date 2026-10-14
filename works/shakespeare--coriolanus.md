@@ -41,12 +41,18 @@ derived_from:
   note: "Não veio de lista de bootstrap. Entrou em 2026-09-28, depois da
          pesquisa do lote 3 e da sua decisão de adquirir as duas caixas da
          Nova Fronteira."
-updated: 2026-09-28
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia romana de William Shakespeare, publicada postumamente no Primeiro Fólio de 1623. Conta a história de Caio Márcio Coriolano, herói militar que despreza a plebe e não tolera que ela tenha conquistado, com os tribunos, uma voz institucional própria. É a peça de Shakespeare mais diretamente dedicada ao problema da representação popular, vista do ponto de vista de quem a recusa.
+
+## Como ler
+
+- **A pergunta:** pode governar quem despreza o povo, e o povo pode governar sem ele?
+- **Onde está o centro:** a cena de abertura (a revolta da fome e a fábula do corpo, contada por Menênio); o ato II, quando Coriolano precisa pedir os votos do povo para ser cônsul e não consegue; e os atos IV e V, o exílio e a volta contra Roma.
+- **Postura:** É uma peça dura, sem herói simpático. Leia atento aos tribunos, representantes do povo, e à mãe, Volúmnia, que formou o filho e no fim o desarma. Shakespeare tirou a história da *Vida de Coriolano*, de Plutarco.
 
 ## Fatos
 

@@ -442,6 +442,16 @@ sequence:
                       curriculo, leitura, escrita, organizacao-do-estudo]
     publication_pref: pub--klasika-liber--a-mente-bem-treinada--2021   # decisão sua, 2026-09-23: a edição em português
 
+  # ENTRADA NOVA — pedido seu de 2026-10-14. Posição minha, a confirmar.
+  - work: adler-van-doren--how-to-read-a-book
+    role: supplementary
+    demand: moderado
+    why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
+    why_here_by: claude
+    placement_status: a-confirmar
+    inserted_by: claude
+    publication_pref: pub--kirion--como-ler-livros--2025
+
   # MOVIMENTO E REGIÃO NOVOS — decisão sua de 2026-09-10, pós-importação. A
   # região `critica-da-escola` já estava declarada `absent` desde a
   # importação original (2026-09-05) e já tinha esta obra citada como
@@ -565,21 +575,38 @@ sequence:
 
 paths: []                      # nenhum ainda — 12 obras não pedem compressão
 
+# TENSÕES — questões em disputa, à maneira da leitura sintópica de Mortimer
+# Adler (Como Ler Livros, parte IV): a questão em termos neutros e a
+# resposta de cada obra. `a` e `b` são as duas obras centrais (as checagens
+# da build leem esses dois campos); `positions` traz a resposta de cada
+# obra que toma posição, inclusive outras além de a e b. Respostas escritas
+# pelo agente em 2026-10-14; ver config/curation-rules.md §2.10.
 tensions:
-  - {a: newman--the-idea-of-a-university, b: weber--wissenschaft-als-beruf,
-     about: "Se a universidade pode formar — o conhecimento liberal como fim
-             em si, que aperfeiçoa o intelecto — ou se a universidade moderna
-             só entrega método e clareza, e a escolha dos fins fica fora do
-             seu alcance."}
-  - {a: adler--the-paideia-proposal, b: weber--wissenschaft-als-beruf,
-     about: "Se a educação pode formar o caráter e indicar fins — a premissa
-             que a cadeia inteira pressupõe e que Adler torna programa — ou se
-             a instituição moderna só pode entregar método e clareza, deixando
-             a escolha dos fins fora do seu alcance."}
-  - {a: adler--the-paideia-proposal, b: illich--deschooling-society,
-     about: "Se a formação humana exige a instituição escolar, redirecionada
-             para o cânone clássico, ou se a escola é, ela mesma, o
-             obstáculo à formação que promete dar."}
+  - a: newman--the-idea-of-a-university
+    b: weber--wissenschaft-als-beruf
+    about: "A universidade pode formar a pessoa, ou só transmitir método e conhecimento?"
+    positions:
+      - {work: newman--the-idea-of-a-university, answer: "Pode formar: o conhecimento liberal é um fim em si e aperfeiçoa o intelecto, e é para isso que a universidade existe."}
+      - {work: weber--wissenschaft-als-beruf, answer: "Só método e clareza: a ciência não diz como devemos viver, e o professor não deve fazer profecia na sala de aula."}
+  - a: adler--the-paideia-proposal
+    b: weber--wissenschaft-als-beruf
+    about: "A educação pode formar o caráter e indicar fins?"
+    positions:
+      - {work: adler--the-paideia-proposal, answer: "Pode e deve: a escola tem de formar a mente e o caráter de todos, pela instrução, pelo treino e pela discussão dos grandes livros."}
+      - {work: weber--wissenschaft-als-beruf, answer: "Não, na instituição moderna: ela entrega método e clareza, e a escolha dos fins fica com cada um."}
+  - a: adler--the-paideia-proposal
+    b: illich--deschooling-society
+    about: "A formação humana precisa da escola?"
+    positions:
+      - {work: adler--the-paideia-proposal, answer: "Precisa, mas de outra escola: a mesma educação liberal para todos, sem separar quem vai estudar de quem vai trabalhar."}
+      - {work: illich--deschooling-society, answer: "Não: a escola ensina a confundir aprender com receber diploma. A formação viria de redes livres que ligam quem quer aprender a quem sabe."}
+  - a: dewey--democracy-and-education
+    b: hirsch--why-knowledge-matters
+    about: "Ensinar deve partir da experiência da criança ou de um conhecimento comum a transmitir?"
+    positions:
+      - {work: dewey--democracy-and-education, answer: "Da experiência: aprender é reconstruir a experiência, e a escola deve ser uma pequena comunidade democrática."}
+      - {work: hirsch--why-knowledge-matters, answer: "Do conhecimento: sem um conteúdo amplo e partilhado não há compreensão, e trocá-lo por habilidades aumenta a desigualdade."}
+      - {work: adler--the-paideia-proposal, answer: "De um mesmo currículo para todos, mas ensinado de três modos, um deles a discussão, em que o aluno pensa por si."}
 # Deixou de ser [] com esta adição. Ver review/education.md §3 — o achado
 # registrado ali (zero tensões porque os 9 membros originais pertenciam a
 # uma só tradição) continua descrevendo corretamente a lista original; esta

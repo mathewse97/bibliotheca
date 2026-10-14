@@ -8,7 +8,7 @@ alt_titles: []
 authors: [mill]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null
@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: influenced_by
+    target: tocqueville--de-la-democratie-en-amerique
+    note: "Mill resenhou *A Democracia na América* e tomou dela o medo da tirania da maioria, que em *Sobre a Liberdade* vira pressão da opinião, e não só do governo."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:
@@ -28,7 +33,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vozes, trad. Alberto da Rocha Barros", note: "Boa tradução de Alberto da Rocha Barros, mas a edição de bolso à venda não traz a apresentação de Celso Lafer da edição de 1991."}
   - {edition: "L&PM, Vide, Lafonte", note: "Edições sem o nome do tradutor no anúncio, por isso não há como avaliar a tradução."}
@@ -37,6 +42,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Ensaio de John Stuart Mill publicado em 1859. Defende que a sociedade e o Estado só podem coagir o indivíduo para impedir dano a outros, e argumenta pela liberdade de pensamento, de expressão e de modo de vida. É um dos textos fundamentais do liberalismo.
+
+## Como ler
+
+- **A pergunta:** até onde a sociedade pode interferir na vida de um indivíduo?
+- **Onde está o centro:** o capítulo 1 (o princípio do dano: só se pode coagir alguém para impedir dano a outros); o capítulo 2 (a liberdade de pensamento e de discussão, mesmo para opiniões falsas); e o capítulo 3 (a individualidade como parte do bem-estar).
+- **Postura:** É curto e claro, e se lê inteiro. Teste o princípio em casos concretos de hoje e veja onde ele resolve e onde hesita. Mill teme menos o governo do que a pressão da opinião da maioria, o que aprendeu com Alexis de Tocqueville.
 
 ## Fatos
 

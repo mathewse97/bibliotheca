@@ -8,7 +8,7 @@ alt_titles: []
 authors: [euripides]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null
@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Odysseus, 2022, trad. Ordep Serra", note: "Tradução de Ordep Serra, a edição mais comentada da peça, mas fora da série de Eurípides traduzida por Jaa Torrano, que você usa para as outras peças; fica na biblioteca só até sair o volume VI dessa série."}
   - {edition: "Perspectiva, 2003, trad. Trajano Vieira", note: "Tradução de Trajano Vieira, fora da série de Eurípides traduzida por Jaa Torrano, que você usa para as outras peças; não está confirmado se traz o grego ao lado."}
@@ -39,6 +39,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tragédia de Eurípides encenada postumamente, por volta de 405 a.C. O deus Dioniso chega a Tebas para impor seu culto e enfrenta a resistência do rei Penteu, que acaba destroçado pelas bacantes, entre elas sua própria mãe. É central para compreender a dimensão extática da religião grega e seu conflito com a razão e a ordem política.
+
+## Como ler
+
+- **A pergunta:** o que acontece quando a razão e a ordem tentam reprimir o que há de irracional e sagrado no homem?
+- **Onde está o centro:** o prólogo de Dioniso, disfarçado de estrangeiro; os encontros entre ele e o rei Penteu, que o prende e acaba seduzido por ele; o relato do mensageiro sobre as bacantes no monte; e o final terrível, com Agave, mãe de Penteu.
+- **Postura:** É uma peça estranha e ambígua: não decida cedo de que lado Eurípides está. Repare em Dioniso, deus do vinho e do teatro, que conduz a peça inteira. Foi encenada depois da morte do autor.
 
 ## Fatos
 

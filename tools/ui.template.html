@@ -1631,7 +1631,15 @@ function collExtras(k){
   }
 
   if(tens.length){
-    out += `<h2>Tensões</h2><div class="rows">${tens.map(t=>`<div class="row"><div class="n">⇄</div>
+    /* Questões em disputa (leitura sintópica, curation-rules §2.10): com
+       `positions`, a questão vira o título e cada obra dá a sua resposta */
+    out += `<h2>Questões em disputa</h2><div class="rows">${tens.map(t=>(t.positions||[]).length
+      ? `<div class="row"><div class="n">⇄</div><div class="t">
+        <div style="font-weight:600">${mdi(t.about)}</div>
+        ${t.positions.map(p=>{const au=((W(p.work)||{}).authors||[]).map(a=>(A(a)||{}).name_display||a).join(', ');
+          return `<div class="small" style="margin-top:6px">${wLink(p.work)}${au?` <span class="muted">· ${E(au)}</span>`:''}<div class="muted">${mdi(p.answer)}</div></div>`;}).join('')}
+        </div><div></div></div>`
+      : `<div class="row"><div class="n">⇄</div>
       <div class="t">${wLink(t.a)} <span class="muted">⇄</span> ${wLink(t.b)}
       ${t.about?`<div class="small muted">${E(t.about)}</div>`:''}</div><div></div></div>`).join('')}</div>`;
   }
@@ -1696,6 +1704,9 @@ function vObra(id){
   /* só a seção escrita para leitura; Fatos, Avaliações e Síntese são o
      registro de pesquisa e não vão para a tela (interface-rules §10) */
   const sobre = [sec['Sobre a obra']].filter(h=>h && !vazio(h));
+  /* "Como ler": a pergunta, o centro e a postura de leitura desta obra
+     (interface-rules §13). Opcional: sem ela, nada aparece */
+  const ler = [sec['Como ler']].filter(h=>h && !vazio(h));
   const facts = [
     (w.title_original && w.title_original!==wTitle(id)) ? ['Título original', E(w.title_original)] : null,
     w.original_language ? ['Língua original', E(langPt(w.original_language))] : null,
@@ -1705,6 +1716,7 @@ function vObra(id){
   <p class="muted">${(w.authors||[]).map(a=>lk('autor/'+a,(A(a)||{}).name_display||a)).join(', ')||'Autoria a confirmar'}</p>
   ${facts.length?`<dl class="kv">${facts.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`:''}
   ${sobre.length?`<h2>Sobre a obra</h2><div class="panel prose">${sobre.join('')}</div>`:''}
+  ${ler.length?`<h2>Como ler</h2><div class="panel prose">${ler.join('')}</div>`:''}
 
   ${w.memberships.length?`<h2>Nas coleções</h2><div class="rows">${w.memberships.map(m=>`<div class="row">
     <div class="n">${m.n}</div>
@@ -1730,7 +1742,7 @@ function vObra(id){
 
   ${rels.length?`<h2>Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
      <span class="small muted">${E(REL_PT[r.type]||r.type)}</span> ${wLink(r.target)}
-     ${r.note?`<div class="small muted">${E(r.note)}</div>`:''}</div><div></div></div>`).join('')}</div>`:''}
+     ${r.note?`<div class="small muted">${mdi(r.note)}</div>`:''}</div><div></div></div>`).join('')}</div>`:''}
 
   ${personalPanel('work', id)}`;
 }

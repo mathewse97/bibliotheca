@@ -8,7 +8,7 @@ alt_titles: ["Novo Onde Não Há Médico", "Onde não há médicos"]
 authors: [werner]
 original_language: es
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: "1970"
 date_sort: 1970
 period: null
@@ -51,7 +51,7 @@ pending_assignment:
                 saúde comunitária ou de cooperação em países pobres, que é o
                 contexto para o qual ela foi escrita."
 
-updated: 2026-10-10
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Terracota, 2022 (espanhol)", note: "O original em espanhol, atualizado em 2022; precisa ser importado."}
   - {edition: "Hesperian, 2022 (inglês)", note: "A edição em inglês, atualizada; precisa ser importada."}
@@ -60,6 +60,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual de saúde de David Werner, escrito originalmente em espanhol a partir de seu trabalho em comunidades rurais do México. Ensina a reconhecer, tratar e prevenir doenças e ferimentos comuns em lugares sem acesso a médico, em linguagem simples e ilustrada. Tornou-se um dos manuais de saúde comunitária mais difundidos no mundo.
+
+## Como ler
+
+- **A pergunta:** como reconhecer, tratar e prevenir os problemas de saúde mais comuns onde não há médico?
+- **Onde está o centro:** os primeiros capítulos, sobre como examinar um doente, os remédios caseiros e o uso correto dos medicamentos; o resto se consulta por problema.
+- **Postura:** Leia os capítulos iniciais antes de precisar e use o resto como consulta. É muito ilustrado e escrito para quem não tem formação; procure atendimento sempre que possível.
 
 ## Fatos
 

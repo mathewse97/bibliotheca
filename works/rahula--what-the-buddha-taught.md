@@ -8,7 +8,7 @@ alt_titles: []
 authors: [rahula]
 original_language: en
 form: book
-work_type: null
+work_type: filosofia
 date_written: "1959 (2ª ed. ampliada 1974)"
 date_sort: 1959
 period: null
@@ -51,12 +51,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Exposição da doutrina budista escrita em inglês por Walpola Rahula, monge do Sri Lanka, publicada em 1959 e ampliada em 1974. Apresenta os ensinamentos centrais do budismo — as Quatro Nobres Verdades, o não-eu, a meditação — a partir dos textos em páli, cujas traduções no apêndice são do próprio autor. É uma apresentação de dentro da tradição Theravada.
+
+## Como ler
+
+- **A pergunta:** o que o Buda ensinou, segundo os textos mais antigos?
+- **Onde está o centro:** os capítulos sobre as quatro nobres verdades (o sofrimento, a sua origem, o fim do sofrimento e o caminho que leva a ele), a doutrina do não-eu e a meditação. No fim, uma seleção de textos.
+- **Postura:** É curto e claro, escrito por um monge budista do Sri Lanka para leitores ocidentais. É uma apresentação feita de dentro da tradição Theravada: leia como exposição de quem crê, e use-a para entender o *Dhammapada*.
 
 ## Fatos
 

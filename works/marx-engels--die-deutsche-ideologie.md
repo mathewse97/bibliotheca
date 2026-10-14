@@ -8,7 +8,7 @@ alt_titles: []
 authors: [marx, engels]
 original_language: de
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1845–1846 (escrita); 1932 (primeira publicação, póstuma)"
 date_sort: 1846
 period: modernidade
@@ -50,7 +50,7 @@ provenance:
     confidence: reported
     note: "Fonte enciclopédica geral. A datação e a história da publicação
            devem ser confirmadas em tier 1–4 na pesquisa do §E."
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vozes de Bolso, 2019; WMF Martins Fontes, 2023", note: "Trazem só a primeira parte, sobre Feuerbach, e não a obra inteira."}
 ---
@@ -58,6 +58,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Karl Marx e Friedrich Engels escrita em 1845–1846, que ficou inédita em vida dos autores e só foi publicada em 1932. É o texto em que a concepção materialista da história aparece de forma mais direta: as ideias de uma época não flutuam acima da vida material, são produzidas por ela. Também polemiza com Feuerbach e os jovens hegelianos.
+
+## Como ler
+
+- **A pergunta:** de onde vêm as ideias de uma época: delas mesmas, ou da vida material das pessoas?
+- **Onde está o centro:** a primeira parte, sobre Feuerbach, onde aparece a concepção materialista da história. O resto é polêmica com filósofos alemães da época e pode ser deixado de lado.
+- **Postura:** O texto ficou inacabado e só foi publicado em 1932: leia a primeira parte como rascunho de uma ideia, que Karl Marx retomou depois em obras mais acabadas.
 
 ## Fatos
 

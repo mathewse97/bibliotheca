@@ -8,9 +8,7 @@ alt_titles: []
 authors: [ozmon, craver]
 original_language: en
 form: book
-work_type: null                 # manual universitário sistemático; não há slug
-                                # para esta categoria no vocabulário, e criar um
-                                # é decisão de classificação, não limpeza
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null
@@ -56,12 +54,18 @@ derived_from:
          o veredito da edição é, portanto, de candidato único. Colocação: o
          movimento II de Educação e Formação Humana, criado na mesma data por
          instrução dele para receber a camada sistemática que faltava."
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual universitário americano de Howard A. Ozmon e Samuel M. Craver que organiza a filosofia da educação por escolas filosóficas — idealismo, realismo, pragmatismo, existencialismo e as correntes analítica e crítica, entre outras. De cada uma deriva as consequências para currículo, método e papel do professor, com trechos das fontes primárias junto da exposição. Mais do que narrar uma história ou propor um programa, mapeia as posições em disputa.
+
+## Como ler
+
+- **A pergunta:** que filosofia está por trás de cada programa educativo?
+- **Onde está o centro:** os capítulos por escola filosófica (idealismo, realismo, pragmatismo, existencialismo, filosofia analítica, teorias críticas), cada um com as consequências para o currículo, o método e o papel do professor.
+- **Postura:** É um manual universitário: leia a introdução e depois os capítulos das escolas que estão em disputa na coleção, sobretudo o realismo e o pragmatismo. Os trechos de fontes primárias valem mais que o resumo.
 
 ## Fatos
 

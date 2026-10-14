@@ -8,7 +8,7 @@ alt_titles: []
 authors: [platao]
 original_language: grc
 form: dialogue
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null              # cronologia relativa disputada; não fixada (ver Fatos)
 date_sort: null
 period: null
@@ -41,7 +41,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-17
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "EDUFPA, trad. Carlos Alberto Nunes", note: "Tradução de Carlos Alberto Nunes com o grego ao lado, mas antiga e quase sem notas que expliquem o texto."}
   - {edition: "Minerva (Coimbra), trad. Maria Teresa Schiappa de Azevedo", note: "Tradução de Maria Teresa Schiappa de Azevedo, com notas, mas importada de Portugal e sem o grego ao lado."}
@@ -50,6 +50,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Diálogo de Platão, em grego antigo, que narra o último dia de Sócrates e sua morte na prisão. A conversa gira em torno da imortalidade da alma, defendida por vários argumentos, e da filosofia como preparação para a morte. É um dos textos centrais para a doutrina platônica das Formas.
+
+## Como ler
+
+- **A pergunta:** a alma é imortal, e por que o filósofo não deve temer a morte?
+- **Onde está o centro:** a filosofia como preparação para a morte; os argumentos sobre a imortalidade da alma, entre eles o da reminiscência (aprender é lembrar); as objeções de Símias e Cebes e a resposta de Sócrates, com a teoria das Formas; e a narração da morte de Sócrates.
+- **Postura:** Os argumentos são difíceis, e alguns são fracos: Platão mostra os próprios discípulos duvidando deles. Leia como discussão a avaliar, não como dogma. As páginas finais, sobre a morte de Sócrates, estão entre as mais célebres da filosofia.
 
 ## Fatos
 

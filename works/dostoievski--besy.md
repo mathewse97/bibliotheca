@@ -43,7 +43,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-09-28
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Sétimo Selo, 2023", note: "Edição recente, mas não se sabe quem traduziu nem de que língua."}
   - {edition: "Os possessos, José Olympio, 1951", note: "Tradução de Rachel de Queiroz, com o título Os possessos, feita do francês e não do russo."}
@@ -53,6 +53,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Romance de Fiódor Dostoiévski publicado em 1872, inspirado no assassinato de um estudante por um grupo revolucionário ligado a Serguei Netcháiev. Acompanha por dentro uma célula conspiratória numa cidade de província e trata de niilismo, radicalização, ideologia e do que a violência política faz com quem a pratica. É considerado um dos grandes romances políticos da literatura russa.
+
+## Como ler
+
+- **A pergunta:** o que acontece com as pessoas e com uma sociedade quando a fé e a moral se dissolvem e as ideias radicais ocupam o seu lugar?
+- **Onde está o centro:** a primeira parte demora: apresenta a cidade e Stepan Trofímovitch, o velho liberal. A ação ganha força com Piotr Verkhovenski, que organiza uma célula revolucionária, e com Stavróguin, o centro enigmático do livro. O capítulo "Na casa de Tíkhon", a confissão de Stavróguin, foi cortado na primeira publicação e costuma vir em apêndice: vale ler.
+- **Postura:** Leia como romance, deixando os personagens falarem; Dostoiévski dá voz forte às ideias que combate. O enredo parte de um crime real de 1869, cometido pelo grupo de Serguei Netcháiev.
 
 ## Fatos
 

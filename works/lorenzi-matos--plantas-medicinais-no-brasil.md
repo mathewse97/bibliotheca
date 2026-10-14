@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lorenzi, matos]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2002 (1ª ed.); 2008 (2ª); 2021 (3ª)"
 date_sort: 2002
 period: null
@@ -35,12 +35,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra de referência de Harri Lorenzi e Francisco José de Abreu Matos, publicada pela primeira vez em 2002, sobre as plantas mais usadas na medicina popular brasileira, nativas e exóticas. Reúne, para cada espécie, informações químicas, fitoterápicas e etnofarmacológicas.
+
+## Como ler
+
+- **A pergunta:** quais são as plantas medicinais usadas no Brasil, e o que se sabe delas com base técnica?
+- **Onde está o centro:** as fichas das espécies, com identificação, uso popular e informação química e farmacológica.
+- **Postura:** É obra de referência: consulte por planta. Note a diferença entre o uso popular e o que foi comprovado; planta medicinal pode ter efeitos colaterais e não substitui um médico.
 
 ## Fatos
 

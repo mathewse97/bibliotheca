@@ -8,7 +8,7 @@ alt_titles: []
 authors: [weber]
 original_language: de
 form: book
-work_type: sociology
+work_type: ciencias-sociais
 date_written: "1904–1905 (ensaios); 1920 (versão revista)"
 date_sort: 1905
 period: modernidade-tardia
@@ -46,7 +46,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Pioneira, trad. M. Irene e Tamás Szmrecsányi", note: "A tradução antiga de M. Irene e Tamás Szmrecsányi, sem as notas e explicações de Antônio Flávio Pierucci."}
   - {edition: "Martin Claret; Edipro", note: "Edições sem notas nem introdução, com traduções que não foram avaliadas."}
@@ -55,6 +55,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Estudo de Max Weber publicado em alemão em 1904–1905 e revisto em 1920. Sustenta que a ética ascética do protestantismo, sobretudo puritano, ao valorizar o trabalho metódico como vocação, contribuiu para formar o espírito do capitalismo racional moderno. É um dos textos fundadores da sociologia e um caso clássico de como ideias religiosas podem moldar a vida econômica.
+
+## Como ler
+
+- **A pergunta:** por que o capitalismo moderno nasceu onde nasceu, e que papel teve nisso uma ética religiosa?
+- **Onde está o centro:** a primeira parte, que apresenta o problema e o espírito do capitalismo, com os conselhos de Benjamin Franklin; o capítulo sobre a ideia de vocação em Lutero; e a segunda parte, sobre a ética dos puritanos e a doutrina da predestinação de Calvino. O final, com a imagem da jaula de ferro, é célebre.
+- **Postura:** O argumento é fino e costuma ser mal resumido: Weber não diz que a religião causou o capitalismo, mas que houve uma afinidade entre os dois. As notas de rodapé são longas e importantes; leia ao menos parte delas.
 
 ## Fatos
 

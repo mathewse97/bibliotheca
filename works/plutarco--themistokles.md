@@ -8,7 +8,7 @@ alt_titles: []
 authors: [plutarco]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: historia
 date_written: null
 date_sort: null
 period: null
@@ -30,7 +30,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vidas dos homens ilustres, Editora das Américas, 1953", note: "Edição antiga e só usada; o tradutor não é identificado e provavelmente traduziu do francês, não do grego."}
 ---
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Biografia de Temístocles, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Camilo. Trata do estadista ateniense que fez de Atenas uma potência naval e conduziu a vitória grega em Salamina, nas Guerras Médicas, antes de terminar no exílio.
+
+## Como ler
+
+- **A pergunta:** o que faz um líder que salva a cidade e depois é expulso por ela?
+- **Onde está o centro:** a lei que deu a Atenas uma frota de guerra, a astúcia antes da batalha de Salamina e o exílio, que terminou na corte do rei persa.
+- **Postura:** É uma biografia curta, mais interessada no caráter do que nos fatos. Compare com os livros VII e VIII de Heródoto, que contam a mesma guerra.
 
 ## Fatos
 

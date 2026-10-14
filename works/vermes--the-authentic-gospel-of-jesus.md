@@ -8,7 +8,7 @@ alt_titles: []
 authors: [vermes]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2003"
 date_sort: 2003
 period: null
@@ -48,12 +48,18 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de Géza Vermes, publicado em 2003, estudioso conhecido pelas pesquisas sobre o Jesus histórico em seu contexto judaico (*Jesus the Jew*, 1973). Aplica critérios de autenticidade a todos os ditos atribuídos a Jesus nos evangelhos sinóticos para reconstruir sua mensagem original. É obra de tese forte, e os próprios critérios de autenticidade foram depois questionados por outros estudiosos.
+
+## Como ler
+
+- **A pergunta:** quais ditos atribuídos a Jesus nos evangelhos são provavelmente autênticos?
+- **Onde está o centro:** a explicação dos critérios de autenticidade e a análise dos ditos, agrupados por tema.
+- **Postura:** É obra de tese forte: Géza Vermes reconstrói um Jesus judeu, mestre e curandeiro. Leia com os evangelhos ao lado, e sabendo que os critérios que ele usa foram depois questionados por outros estudiosos.
 
 ## Fatos
 

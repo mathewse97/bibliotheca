@@ -8,7 +8,7 @@ alt_titles: []
 authors: [eliade, culianu]
 original_language: fr
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: null
+work_type: historia
 date_written: "1990"
 date_sort: 1990
 period: null
@@ -44,12 +44,18 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra de referência em verbetes publicada em francês em 1990, quatro anos após a morte de Mircea Eliade. Concebida com ele, que traçou o plano geral, foi redigida em grande parte por seu discípulo Ioan Petru Culianu, com a colaboração de H. S. Wiesner. Apresenta de forma sintética as principais tradições religiosas do mundo e reflete o estado dos estudos por volta de 1990.
+
+## Como ler
+
+- **A pergunta:** o que é, em poucas páginas, uma tradição religiosa que aparece nas leituras?
+- **Onde está o centro:** os verbetes por tradição, cada um com uma síntese e uma bibliografia.
+- **Postura:** É obra de consulta: abra quando um nome ou uma tradição aparecer nas outras leituras. Reflete o estado dos estudos por volta de 1990.
 
 ## Fatos
 

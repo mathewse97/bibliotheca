@@ -8,7 +8,7 @@ alt_titles: []
 authors: [alton, amy-alton]
 original_language: en
 form: book
-work_type: null                 # §E — sem slug para manual prático (como Werner)
+work_type: pratico
 date_written: "2013 (1ª ed.); 2021 (4ª ed., revista e ampliada)"
 date_sort: 2013
 period: null
@@ -51,12 +51,18 @@ derived_from:
   note: "Entrou em Sobrevivência no lugar de Werner, opção A do cartão. Ver
          review/survival-self-sufficiency.md §9."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual de medicina de sobrevivência para leigos, de Joseph e Amy Alton, publicado em 2013 e revisto e ampliado em edições posteriores. Parte do princípio de que hospital e médico não estão disponíveis e cobre o cuidado continuado: infecções, doenças crônicas, medicamentos, procedimentos, problemas dentários e plantas medicinais.
+
+## Como ler
+
+- **A pergunta:** como cuidar da saúde de uma família quando médico e hospital não estão disponíveis por semanas ou meses?
+- **Onde está o centro:** os capítulos sobre o que ter em casa (medicamentos e material), as infecções e os ferimentos, que são o que mais mata sem atendimento; os demais (doenças crônicas, dentes, plantas medicinais) servem de consulta.
+- **Postura:** É um manual: leia as partes gerais antes de precisar, e use o resto como consulta. Parte do pressuposto de um colapso prolongado; em emergência comum, procure atendimento. Está em inglês, sem tradução.
 
 ## Fatos
 

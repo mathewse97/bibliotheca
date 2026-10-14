@@ -8,7 +8,7 @@ alt_titles: []
 authors: [michels]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: ciencias-sociais
 date_written: null
 date_sort: null
 period: null
@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1982, trad. Arthur Chaudon", note: "Tradução acadêmica de Arthur Chaudon, mas não se sabe se foi feita do alemão ou de outra tradução; só se acha usada."}
   - {edition: "Antígona (Lisboa), 2001", note: "Edição de Portugal, em português europeu, rara e cara."}
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra do sociólogo Robert Michels publicada em alemão em 1911. Estudando sobretudo a social-democracia alemã, sustenta que toda grande organização, mesmo as que se dizem democráticas, tende a concentrar o poder numa minoria dirigente — a chamada "lei de ferro da oligarquia". É um clássico da ciência política e da sociologia dos partidos.
+
+## Como ler
+
+- **A pergunta:** por que toda grande organização, mesmo a que se diz democrática, acaba dirigida por uma minoria?
+- **Onde está o centro:** as partes sobre as causas técnicas e psicológicas da liderança nas organizações, e a conclusão com a lei de ferro da oligarquia.
+- **Postura:** É um clássico da sociologia, com exemplos tirados da social-democracia alemã do começo do século XX. Leia buscando o argumento geral e teste-o em organizações que você conhece.
 
 ## Fatos
 

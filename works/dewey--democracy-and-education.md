@@ -8,8 +8,7 @@ alt_titles: []
 authors: [dewey]
 original_language: en
 form: book
-work_type: primary-source       # mesmo critério de Illich: Dewey não comenta a
-                                # posição progressista, formula-a
+work_type: filosofia
 date_written: "1916"
 date_sort: 1916
 period: null
@@ -63,7 +62,7 @@ derived_from:
   note: "Cartão d-edu-dewey, opção A. O Mathews trouxe a ficha da edição
          Unesp; o que pude conferir está em provenance, o resto em missing
          da publicação."
-updated: 2026-10-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Companhia Editora Nacional, 1952, trad. Godofredo Rangel e Anísio Teixeira", note: "A tradução histórica de Godofredo Rangel e Anísio Teixeira; só se acha usada e ainda não foi examinada."}
 ---
@@ -72,3 +71,8 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 Obra do filósofo norte-americano John Dewey, publicada em 1916, que expõe de forma sistemática sua filosofia da educação. Dewey entende a educação como reconstrução contínua da experiência e a vincula à vida democrática, defendendo uma escola centrada na atividade, na investigação e na participação. É o texto de referência da educação progressista.
 
+## Como ler
+
+- **A pergunta:** que educação convém a uma sociedade democrática, e o que é aprender?
+- **Onde está o centro:** os primeiros capítulos (a educação como necessidade da vida e como função social); o capítulo sobre a educação como crescimento; o capítulo 7, sobre a concepção democrática da educação; e os capítulos sobre experiência e pensamento.
+- **Postura:** O texto é abstrato e às vezes repetitivo: leia buscando as teses, não os detalhes. É a posição que Mortimer Adler, na *Proposta Paideia*, reivindica no ideal democrático e recusa no método.

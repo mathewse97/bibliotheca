@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: akk
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: literatura
 date_written: "versão padrão ninivita, 2º–1º milênio a.C. (datação debatida)"
 date_sort: -1200
 period: null
@@ -48,12 +48,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Poema épico acádio anônimo, cuja versão padrão, conhecida pelo verso inicial "Aquele que o abismo viu", é tradicionalmente atribuída a Sin-léqi-unnínni. Narra os feitos de Gilgámesh, rei de Uruk, sua amizade com Enkídu e, após a morte deste, sua busca pela imortalidade, que inclui o relato do dilúvio. É uma das obras literárias mais antigas que se conhecem e uma via de acesso direto ao imaginário religioso mesopotâmico.
+
+## Como ler
+
+- **A pergunta:** pode um homem escapar da morte, e o que dá sentido a uma vida que vai acabar?
+- **Onde está o centro:** a amizade entre Gilgámesh, rei de Uruk, e Enkidu, o homem selvagem que se torna civilizado; a morte de Enkidu, que lança Gilgámesh na busca da imortalidade; o encontro com Utnapíshtim, o sobrevivente do dilúvio, que conta a sua história na tabuinha XI; e a planta da juventude roubada pela serpente.
+- **Postura:** O texto chegou em tabuinhas de argila quebradas, e as lacunas aparecem marcadas na tradução: não se prenda a elas, siga a história. Repare no relato do dilúvio, muito parecido com o de Noé no Gênesis e mais antigo que ele.
 
 ## Fatos
 

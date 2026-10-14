@@ -8,7 +8,7 @@ alt_titles: []
 authors: [gregory]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2012"
 date_sort: 2012
 period: null
@@ -34,12 +34,18 @@ derived_from:
   date: 2026-10-13
   note: "Avaliada a partir de um roteiro sobre religião e modernidade trazido pelo Mathews; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro do historiador Brad S. Gregory, publicado em inglês em 2012. Sustenta que a Reforma, sem querer, produziu o mundo secular: ao romper a unidade doutrinal cristã, abriu caminho para um pluralismo de crenças sem acordo sobre a verdade, para a exclusão da religião do saber, para a ausência de um bem comum e para o domínio do consumo. É obra erudita e de tese forte, que vários resenhistas leem como apologética católica.
+
+## Como ler
+
+- **A pergunta:** como a Reforma do século XVI, sem querer, produziu o mundo secular de hoje?
+- **Onde está o centro:** os seis capítulos, cada um seguindo um fio da Idade Média até o presente: Deus excluído da explicação do mundo, as doutrinas relativizadas, as igrejas controladas pelo Estado, a moral tornada subjetiva, o consumo e o saber secularizado.
+- **Postura:** É obra erudita e de tese forte, que vários resenhistas leem como apologética católica. Leia como argumento a avaliar, separando a pesquisa histórica, que é sólida, do julgamento sobre a modernidade.
 
 ## Fatos
 

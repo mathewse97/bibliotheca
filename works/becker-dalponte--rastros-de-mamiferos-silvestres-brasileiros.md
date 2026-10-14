@@ -8,7 +8,7 @@ alt_titles: []
 authors: [becker, dalponte]
 original_language: pt-BR
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: null
 date_sort: null
 period: null
@@ -36,7 +36,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência."
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 1991", note: "A primeira edição do guia, de 1991; esgotada e substituída pela edição atual."}
 ---
@@ -44,6 +44,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Guia de campo brasileiro de Marlise Becker e Julio C. Dalponte para a identificação de rastros de mamíferos silvestres do país.
+
+## Como ler
+
+- **A pergunta:** que animal passou por aqui, e quando?
+- **Onde está o centro:** as fichas de cada espécie, com as pegadas e os outros sinais que ela deixa; e a parte introdutória sobre como observar e registrar um rastro.
+- **Postura:** É um guia de campo: não se lê de ponta a ponta. Leia a introdução em casa e leve o livro para o mato, comparando o que encontrar com as fichas.
 
 ## Fatos
 

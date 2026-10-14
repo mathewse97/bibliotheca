@@ -396,8 +396,8 @@ sequence:
   - work: biblia       # entrada 30 da lista dele
     role: primary-source
     demand: exigente
-    why_here: null                 # ele não escreveu justificativa para esta entrada
-    why_here_by: null
+    why_here: "A fonte das tradições judaica e cristã, que as obras vizinhas da coleção estudam por fora: pela arqueologia, pela história e pela crítica dos textos. Leia buscando como os livros foram compostos e reunidos, e confira na própria fonte o que Israel Finkelstein, Thomas Römer, Mark Smith e James Kugel dizem dela."
+    why_here_by: claude            # 2026-10-14: a entrada estava sem texto
     perspective: null
     subjects_stated: []
     note: "Obra de CONSULTA, não leitura corrida: 2208 páginas. O uso
@@ -597,13 +597,27 @@ sequence:
 # Bíblia de Jerusalém. Os campos que ele não escreveu continuam nulos.
 # ---------------------------------------------------------------------------
 
+# TENSÕES — questões em disputa, à maneira da leitura sintópica de Mortimer
+# Adler (Como Ler Livros, parte IV): a questão em termos neutros e a
+# resposta de cada obra. `a` e `b` são as duas obras centrais (as checagens
+# da build leem esses dois campos); `positions` traz a resposta de cada
+# obra que toma posição, inclusive outras além de a e b. Respostas escritas
+# pelo agente em 2026-10-14; ver config/curation-rules.md §2.10.
 tensions:
-  - {a: berger--the-sacred-canopy,
-     b: taylor--a-secular-age,
-     about: "O que é a secularização: a religião perdendo plausibilidade
-             social diante da modernização, ou uma mudança nas condições em
-             que se crê, que torna a fé uma opção entre outras sem a fazer
-             desaparecer. Berger depois abandonou a própria tese."}
+  - a: berger--the-sacred-canopy
+    b: taylor--a-secular-age
+    about: "O que é a secularização?"
+    positions:
+      - {work: berger--the-sacred-canopy, answer: "A religião perdendo plausibilidade: a modernização e o pluralismo enfraquecem o \"dossel sagrado\" que dava a todos um mundo com sentido. Anos depois, Peter Berger abandonou a tese."}
+      - {work: taylor--a-secular-age, answer: "Uma mudança nas condições do crer: a fé passa a ser uma opção entre outras, sem desaparecer."}
+      - {work: weber--die-protestantische-ethik, answer: "Um processo que a própria religião ajudou a produzir: a ética protestante racionalizou a vida e contribuiu para o desencantamento do mundo."}
+  - a: eliade--das-heilige-und-das-profane
+    b: berger--the-sacred-canopy
+    about: "A religião se explica por si mesma ou pela sociedade?"
+    positions:
+      - {work: eliade--das-heilige-und-das-profane, answer: "Por si mesma: o sagrado é uma realidade própria, que o homem religioso experimenta, e reduzi-lo à sociedade perde o essencial."}
+      - {work: berger--the-sacred-canopy, answer: "Pela sociedade, como método: a religião é construção humana que dá à ordem social uma legitimação sagrada, sem que o sociólogo afirme ou negue a sua verdade."}
+      - {work: weber--die-protestantische-ethik, answer: "Pelas duas direções: ideias religiosas moldam a conduta e a economia, e não só o contrário."}
 
 order_changes:
   - work: taylor--a-secular-age

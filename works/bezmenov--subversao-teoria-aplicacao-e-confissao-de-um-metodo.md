@@ -8,7 +8,7 @@ alt_titles: []
 author: bezmenov
 original_language: null           # não pesquisado — ver Fatos
 form: book
-work_type: null                   # §E
+work_type: ciencias-sociais
 date_written: null
 date_sort: null
 period: null
@@ -56,12 +56,18 @@ derived_from:
   note: "Você decidiu a inclusão em political-thought e o movimento; a
          identificação bibliográfica é de Claude e permanece parcial."
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Antologia bilíngue, em inglês e português, de textos de Yuri Bezmenov dos anos de 1983 e 1984, apresentada como primeiro volume de uma compilação de seus trabalhos. Bezmenov foi um desertor da KGB que, depois de 1970, passou a escrever e dar palestras em inglês sobre a subversão ideológica praticada pela União Soviética.
+
+## Como ler
+
+- **A pergunta:** como, segundo um ex-agente soviético, um país pode ser desestabilizado por dentro, pela propaganda e pela influência?
+- **Onde está o centro:** a descrição das fases da subversão ideológica e os exemplos que Yuri Bezmenov tira da própria experiência no serviço secreto soviético.
+- **Postura:** São palestras e entrevistas, não um estudo: leia como depoimento de quem esteve dentro, com o interesse e os limites de um depoimento. Confronte com obras mais sólidas sobre propaganda, como *LTI*, de Victor Klemperer, e *1984*, de George Orwell.
 
 ## Fatos
 

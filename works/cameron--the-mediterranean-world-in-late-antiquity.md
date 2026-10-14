@@ -8,7 +8,7 @@ alt_titles: []
 authors: [cameron]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1993 (1ª ed., 395–600); 2ª ed., 2012"
 date_sort: 1993
 period: null
@@ -34,12 +34,18 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Panorama do Mediterrâneo na Antiguidade tardia de Averil Cameron, publicado em inglês em 1993 e ampliado na segunda edição, de 2012, que estende o recorte até 700. Trata de sociedade e economia, cultura e vida privada, cidades e campo, e discute as invasões bárbaras, a periodização e o debate entre declínio e continuidade. É considerada obra padrão sobre o período.
+
+## Como ler
+
+- **A pergunta:** o que mudou e o que continuou no Mediterrâneo entre o fim do Império Romano do Ocidente e a chegada do islã?
+- **Onde está o centro:** os capítulos sobre sociedade e economia, cidades e campo, e a discussão sobre o debate entre declínio e continuidade.
+- **Postura:** É um manual acadêmico, claro e equilibrado, que se lê por partes. Averil Cameron apresenta as posições dos historiadores antes de tomar a sua: anote as divergências.
 
 ## Fatos
 

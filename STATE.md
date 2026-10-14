@@ -34,6 +34,9 @@ interface — 12 itens. Os que têm consequência estrutural:
 |---|---|---|
 | Se uma regra deve proibir derivar o **propósito de um movimento** das obras que ele hoje contém | cartão `d-reg-proposito-movimento` | 2026-09-27 |
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
+| Auditoria de Política pela pirâmide de Adler: duas saídas, duas trocas e três grupos com redundância | cartões `d-pol-adler-*`; registro em `review/political-thought.md` §10 | 2026-10-14 |
+| Auditoria de Greco-Romana pela pirâmide de Adler: tragédias de Eurípides, quatro introduções repetidas, Campbell e a lacuna de Lucrécio | cartões `d-greco-adler-*`; registro em `review/greco-roman.md` §9 | 2026-10-14 |
+| Auditoria das outras cinco coleções: clássicos fundadores em Religião, fontes em Educação e Oriente Próximo, Eliot em Cultura, manuais repetidos em Sobrevivência | cartões `d-rel-adler-*`, `d-edu-adler-*`, `d-cult-adler-eliot`, `d-sob-adler-repetidos`, `d-ane-adler-fontes`; registros nas revisões de cada coleção | 2026-10-14 |
 
 **Regra de edições, combinada em 2026-10-10:** com a edição escolhida, as
 alternativas saem do registro. Ficam só: volumes da mesma edição; edição que
@@ -42,6 +45,22 @@ função diferente (referência de estudo). Exceções vigentes: a Valla do
 Pseudo-Apolodoro (referência); as duas edições de Homero (ele quer as duas);
 a Odysseus de *As Bacantes* — **remover depois de 26/10/2026**, quando sai o
 Teatro completo VI da Editora 34.
+
+---
+
+## Regras novas de 2026-10-14
+
+- **Pirâmide de Adler** (`config/curation-rules.md` §2.9): toda obra precisa de
+  um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
+  feitas as sete coleções (2026-10-14).
+- **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
+  Feito (2026-10-14): todas as 231 obras. Obra nova entra com Como ler
+  junto de Sobre a obra.
+- **Tipo de cada obra** (`config/vocabularies.yaml`, `work_type`): as 230
+  classificadas em 2026-10-14; 13 casos duvidosos listados no próprio
+  vocabulário.
+- **Por que está aqui** (`config/interface-rules.md` §14): diz também o que
+  buscar na obra naquela coleção; 20 textos vazios reescritos.
 
 ---
 
@@ -64,10 +83,8 @@ Teatro completo VI da Editora 34.
 - **Decidido em 2026-10-05:** Educação admite a ciência da aprendizagem
   (opção A de `d-edu-ciencia-aprendizagem`). Dehaene e Brown, Roediger e
   McDaniel entraram no movimento VIII novo. Ver `review/education.md` §11.
-- **Classificação `work_type` pendente** em três obras — Hirsch, Brown/Roediger/
-  McDaniel e Dehaene. O vocabulário tem cinco categorias do documento fundador
-  e nenhuma descreve síntese de ciência empírica. Slug novo é decisão de
-  classificação (`curation-rules.md` §6.8), não escolha de preenchimento.
+- **Classificação `work_type`: resolvida em 2026-10-14.** As 230 obras foram
+  classificadas nos seis tipos de Adler (`config/vocabularies.yaml`).
 - **Cinco conclusões `stale`** de revalidação (três em Educação, uma em
   Cultura, uma em Greco-Romana): a biblioteca mudou e parte da evidência
   deixou de valer. Nenhuma foi reexaminada.

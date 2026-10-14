@@ -8,7 +8,7 @@ alt_titles: []
 authors: [bottero]
 original_language: fr
 form: book
-work_type: null
+work_type: historia
 date_written: "2004"
 date_sort: 2004
 period: null
@@ -30,6 +30,11 @@ relations:
   - type: complements
     target: enuma-elis
     note: "Síntese moderna da religião cujo texto fundador o Enūma Eliš é."
+  - type: commentary_on
+    target: epopeia-de-gilgamesh
+    note: "Jean Bottéro, que também traduziu a epopeia, lê *Gilgámesh* como documento da religião mesopotâmica."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import
@@ -47,7 +52,7 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "No princípio eram os deuses, Edições 70, 2006", note: "Outra tradução direto do francês, mas em português de Portugal e precisa ser importada."}
 ---
@@ -55,6 +60,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Síntese sobre a religião mesopotâmica de Jean Bottéro, um dos principais assiriólogos do século XX, publicada em francês em 2004. Apresenta a crença, os deuses e os mitos da Mesopotâmia a partir dos textos cuneiformes, em linguagem acessível ao leitor não especialista.
+
+## Como ler
+
+- **A pergunta:** o que os mesopotâmios acreditavam, e como a religião funcionava na sociedade deles?
+- **Onde está o centro:** a apresentação dos deuses e da relação entre eles e os homens; e a leitura dos grandes mitos, como o da criação e o do dilúvio, a partir dos textos cuneiformes.
+- **Postura:** É escrito por um grande especialista para leitores não especialistas, e se lê por inteiro. Leia junto das próprias fontes, a *Epopeia de Gilgámesh* e o *Enuma Elish*, que estão na biblioteca.
 
 ## Fatos
 

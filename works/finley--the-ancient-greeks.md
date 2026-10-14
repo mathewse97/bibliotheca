@@ -8,7 +8,7 @@ alt_titles: []
 authors: [finley]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: historia
 date_written: null
 date_sort: null
 period: null
@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "The Ancient Greeks, Penguin, 1963/1977 (original inglês)", note: "O original inglês evita pequenas falhas da tradução, mas também só se acha usado e não traz conteúdo a mais."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Introdução à civilização grega do historiador Moses I. Finley, publicada originalmente em inglês em 1963. Em formato breve, percorre a história, a sociedade, a economia, a política e a cultura dos gregos do período arcaico ao helenístico, e tornou-se uma das sínteses de referência sobre o tema.
+
+## Como ler
+
+- **A pergunta:** quem foram os gregos antigos, da época arcaica à helenística?
+- **Onde está o centro:** o livro inteiro: é uma síntese curta da história, da sociedade, da economia, da política e da cultura gregas.
+- **Postura:** Lê-se de uma vez, como introdução geral. Moses Finley foi um grande historiador da economia e da sociedade antigas: repare na atenção que ele dá à escravidão e à vida material.
 
 ## Fatos
 

@@ -16,7 +16,7 @@ alt_titles: ["The Lost Art of Reading Nature's Signs",
 authors: [gooley]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: null
 date_sort: 2014
 period: null
@@ -59,12 +59,18 @@ derived_from:
          reduziu a duas, e ele aprovou. As outras três — How to Read Nature,
          How to Read Water e The Natural Navigator — foram examinadas e
          recusadas por sobreposição com esta, não por esquecimento."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro do britânico Tristan Gooley, publicado em 2014, que reúne mais de 850 pistas observáveis ao ar livre — em árvores, plantas, animais, vento, nuvens, sol, lua, estrelas, água e relevo — e um método para relacioná-las. Não é guia de espécies nem manual de sobrevivência, mas uma arte de deduzir direção, tempo e presença de água e animais sem instrumentos. Foi escrito para o hemisfério norte temperado: o método vale em qualquer lugar, mas parte dos exemplos se inverte no Brasil.
+
+## Como ler
+
+- **A pergunta:** como deduzir direção, tempo, água e presença de animais só observando o ambiente?
+- **Onde está o centro:** os capítulos sobre as pistas que dão direção (árvores, plantas, sol, lua e estrelas) e o método de juntar várias pistas até chegar a uma conclusão.
+- **Postura:** Lê-se aos poucos e se pratica em caminhadas. É escrito para o hemisfério norte temperado: o método vale em qualquer lugar, mas no Brasil várias pistas se invertem (na maior parte do ano, o sol do meio-dia fica ao norte, e não ao sul).
 
 ## Fatos
 

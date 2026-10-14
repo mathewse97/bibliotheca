@@ -838,27 +838,67 @@ paths:
 # ===========================================================================
 # TENSÕES — renderizadas como oposição, nunca como sequência
 # ===========================================================================
-tensions:                      # RASCUNHO de Claude, a partir das suas escolhas
+# TENSÕES — questões em disputa, à maneira da leitura sintópica de Mortimer
+# Adler (Como Ler Livros, parte IV): a questão em termos neutros e a
+# resposta de cada obra. `a` e `b` são as duas obras centrais (as checagens
+# da build leem esses dois campos); `positions` traz a resposta de cada
+# obra que toma posição, inclusive outras além de a e b. Respostas escritas
+# pelo agente em 2026-10-14; ver config/curation-rules.md §2.10.
+tensions:
   by: claude
   status: proposta
   pairs:
-    - {a: hobbes--leviathan, b: locke--second-treatise,
-       about: "Se o poder soberano pode ser legitimamente resistido."}
-    - {a: locke--second-treatise, b: rousseau--du-contrat-social,
-       about: "Se a liberdade se preserva limitando o soberano ou constituindo-o."}
-    - {a: rousseau--du-contrat-social, b: burke--reflections-france,
-       about: "Se a ordem política pode ser refundada pela razão."}
-    - {a: marx--achtzehnte-brumaire, b: tocqueville--de-la-democratie-en-amerique,
-       about: "Se a igualdade democrática liberta ou dissolve."}
-    - {a: marx-engels--manifest-kommunistischen-partei, b: popper--the-open-society,
-       about: "Se a história tem um curso que se possa conhecer e dirigir."}
-    - {a: rawls--a-theory-of-justice, b: rothbard--the-ethics-of-liberty,
-       about: "Se a redistribuição é exigência da justiça ou violação de direito."}
-    - {a: arendt--origins-of-totalitarianism, b: schmitt--der-begriff-des-politischen,
-       about: "Se o político se define pela ação em comum ou pela distinção
-               amigo/inimigo."}
-    - {a: orwell--nineteen-eighty-four, b: huxley--brave-new-world,
-       about: "Se o controle se impõe pela dor ou pelo prazer."}
+    - a: hobbes--leviathan
+      b: locke--second-treatise
+      about: "Pode o poder soberano ser legitimamente resistido?"
+      positions:
+        - {work: hobbes--leviathan, answer: "Não. Quem se submete ao soberano conserva só o direito de defender a própria vida; resistir a ele é voltar à guerra de todos contra todos."}
+        - {work: locke--second-treatise, answer: "Sim. Quando o governo viola a vida, a liberdade e os bens que existe para proteger, ele se dissolve, e o povo pode resistir."}
+        - {work: aquino--de-regno, answer: "Contra o tirano, sim, mas pela autoridade pública, e não por iniciativa de qualquer um; e é preciso pesar se a resistência não traz males maiores."}
+    - a: locke--second-treatise
+      b: rousseau--du-contrat-social
+      about: "A liberdade se preserva limitando o soberano, ou constituindo-o?"
+      positions:
+        - {work: locke--second-treatise, answer: "Limitando. O governo existe para proteger direitos anteriores a ele, e os seus poderes são limitados e divididos."}
+        - {work: rousseau--du-contrat-social, answer: "Constituindo. Cada um se dá inteiro à comunidade e obedece só à vontade geral, da qual faz parte: ser livre é obedecer à lei que se deu a si mesmo."}
+        - {work: berlin--two-concepts-of-liberty, answer: "Limitando. A liberdade é o espaço em que ninguém me impede; constituir o soberano em nome da liberdade abre caminho para a coerção \"para o bem\" das pessoas."}
+    - a: rousseau--du-contrat-social
+      b: burke--reflections-france
+      about: "Uma ordem política pode ser refundada pela razão?"
+      positions:
+        - {work: rousseau--du-contrat-social, answer: "Sim. Um pacto entre todos e um legislador sábio podem dar a um povo instituições legítimas, mesmo que ele não as tenha herdado."}
+        - {work: burke--reflections-france, answer: "Não. A ordem política é herança de gerações, e a razão de um só momento não substitui a experiência acumulada nas instituições."}
+    - a: marx--achtzehnte-brumaire
+      b: tocqueville--de-la-democratie-en-amerique
+      about: "A igualdade democrática liberta ou dissolve?"
+      positions:
+        - {work: marx--achtzehnte-brumaire, answer: "A igualdade só política é formal e esconde a dominação de classe: em 1851, a república terminou entregando o poder a um aventureiro."}
+        - {work: tocqueville--de-la-democratie-en-amerique, answer: "As duas coisas: liberta das hierarquias antigas, mas isola os indivíduos e pode gerar um despotismo brando, se associações e costumes não o impedirem."}
+    - a: marx-engels--manifest-kommunistischen-partei
+      b: popper--the-open-society
+      about: "A história tem um curso que se possa conhecer e dirigir?"
+      positions:
+        - {work: marx-engels--manifest-kommunistischen-partei, answer: "Sim. A história é a história da luta de classes, e o capitalismo produz a classe que vai superá-lo."}
+        - {work: popper--the-open-society, answer: "Não. Não há leis da história; a crença nelas justifica sacrificar o presente a um futuro imaginado. A política deve corrigir aos poucos o que se mostrar errado."}
+    - a: rawls--a-theory-of-justice
+      b: rothbard--the-ethics-of-liberty
+      about: "A redistribuição é exigência da justiça ou violação de direito?"
+      positions:
+        - {work: rawls--a-theory-of-justice, answer: "Exigência. Desigualdades só são justas se beneficiarem os menos favorecidos, e as instituições básicas devem garantir isso."}
+        - {work: rothbard--the-ethics-of-liberty, answer: "Violação. Cada pessoa é dona de si e do que adquiriu sem violência; tirar à força para redistribuir é roubo, mesmo quando feito pelo Estado."}
+    - a: arendt--origins-of-totalitarianism
+      b: schmitt--der-begriff-des-politischen
+      about: "O que define o político?"
+      positions:
+        - {work: arendt--origins-of-totalitarianism, answer: "A ação e a palavra em comum entre pessoas iguais; o totalitarismo é o regime que destrói esse espaço e isola os homens."}
+        - {work: schmitt--der-begriff-des-politischen, answer: "A distinção entre amigo e inimigo; onde ela some, some a política, e o liberalismo tenta em vão dissolvê-la em discussão e comércio."}
+    - a: orwell--nineteen-eighty-four
+      b: huxley--brave-new-world
+      about: "Como um poder total controla as pessoas?"
+      positions:
+        - {work: orwell--nineteen-eighty-four, answer: "Pela dor: vigilância, medo, tortura e a reescrita da verdade. O fim do poder é o próprio poder."}
+        - {work: huxley--brave-new-world, answer: "Pelo prazer: condicionamento, consumo e droga fazem as pessoas amarem a própria servidão."}
+        - {work: zamiatin--my, answer: "Pela razão calculada: tudo é planejado e transparente, e a imaginação, que permitiria desejar outra coisa, é eliminada."}
 
 # ===========================================================================
 # ORDEM ORIGINAL E DESVIOS

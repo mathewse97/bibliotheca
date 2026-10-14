@@ -39,7 +39,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-10-10
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Penguin-Companhia, 2020", note: "Tradução de Paulo Henriques Britto em edição de bolso, mais barata, mas sem os ensaios sobre o livro."}
   - {edition: "Biblioteca Azul, Aleph, Melhoramentos (2021)", note: "Outras traduções recentes; no máximo trazem uma apresentação ou um prefácio curto, sem ensaios sobre o livro."}
@@ -48,6 +48,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Novela satírica de George Orwell, publicada em 1945 com o subtítulo *A Fairy Story* (um conto de fadas). Numa fazenda, os animais expulsam o dono e fundam uma comunidade igualitária que degenera em tirania sob os porcos — alegoria da Revolução Russa e do stalinismo, que trata de propaganda, corrupção dos ideais e reescrita do passado. Foi recusada por várias editoras antes de sair, entre elas a Faber & Faber, onde o parecer coube a T. S. Eliot.
+
+## Como ler
+
+- **A pergunta:** como uma revolução feita em nome da igualdade termina em tirania?
+- **Onde está o centro:** a revolta dos animais e os Sete Mandamentos; a disputa entre os porcos Bola-de-Neve e Napoleão; e a mudança gradual dos mandamentos até o último: todos os animais são iguais, mas alguns são mais iguais que outros.
+- **Postura:** É uma fábula curta, que se lê numa tarde. Leia como alegoria da Revolução Russa, com os personagens correspondendo a figuras reais, mas também como lição geral sobre o poder e a propaganda.
 
 ## Fatos
 

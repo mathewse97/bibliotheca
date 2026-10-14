@@ -8,7 +8,7 @@ alt_titles: []
 author: han
 original_language: de
 form: book
-work_type: null                  # mesmo problema de han--muedigkeitsgesellschaft
+work_type: filosofia
 date_written: "2023"
 date_sort: 2023
 period: null
@@ -63,12 +63,18 @@ derived_from:
          tradução vive na publicação, não aqui, seguindo o mesmo padrão já
          usado para Canterbury/Manual do Mundo em Sobrevivência."
 
-updated: 2026-09-19
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio do filósofo Byung-Chul Han, publicado em alemão em 2023. Sustenta que a lógica aditiva e fragmentária da informação digital corrói a narração, forma que dá sentido e continuidade à experiência, e examina o que se perde quando a narrativa cede lugar à informação.
+
+## Como ler
+
+- **A pergunta:** o que se perde quando a narrativa, que dá sentido à experiência, cede lugar à informação?
+- **Onde está o centro:** o ensaio inteiro, curto, que contrapõe a narração, que liga os acontecimentos numa história, à informação, que só se acumula.
+- **Postura:** Lê-se de uma vez. Byung-Chul Han escreve em frases curtas e afirmativas: leia como provocação a pensar, e não como demonstração. Leia depois de *Sociedade do Cansaço*, do mesmo autor.
 
 ## Fatos
 

@@ -237,9 +237,17 @@ hirsch:
 
 adler:
   name_display: "Mortimer Adler"
+  name_variants: ["Mortimer J. Adler", "Mortimer Jerome Adler"]
+  dates: "1902–2001"
+  note: "Filósofo americano, editor dos Great Books of the Western World e
+         autor de Como Ler Livros (com Charles Van Doren, 1972)."
+
+van-doren:
+  name_display: "Charles Van Doren"
   name_variants: []
-  dates: null                 # a pesquisar
-  note: null
+  dates: "1926–2019"
+  note: "Escritor e editor americano, coautor da versão de 1972 de Como Ler
+         Livros, com Mortimer Adler. Entrou em 2026-10-14."
 
 mcluhan:
   name_display: "Marshall McLuhan"

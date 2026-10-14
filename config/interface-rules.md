@@ -227,7 +227,8 @@ Síntese, que são registro de pesquisa, e qualquer subtítulo (`###`) escrito
 dentro delas vazava junto. A regra de §9 dizia que esse texto não ia para a
 tela; o código não garantia.
 
-- **A página da obra mostra só a seção `## Sobre a obra`** do corpo. Fatos,
+- **A página da obra mostra só as seções `## Sobre a obra` e `## Como ler`**
+  (esta desde 2026-10-14, §13) do corpo. Fatos,
   Avaliações acadêmicas, Síntese, Lugar na biblioteca, Edições, Revisões e
   notas de modelo continuam no arquivo como registro e nunca vão para a tela.
 - **O texto é escrito para o leitor**: duas a quatro frases dizendo o que a
@@ -285,3 +286,62 @@ Pedido do Mathews, ao escolher para *As Nuvens* um volume que traz também
 - O volume continua aparecendo na página da obra como outra edição, e a
   página da edição continua mostrando o livro inteiro (§8).
 
+## 13 · Como ler — 2026-10-14
+
+Decisão do Mathews, a partir de *Como Ler Livros*, de Mortimer Adler: cada
+tipo de texto pede uma postura diferente, e cada obra tem uma pergunta própria
+que deve guiar a leitura. A página da obra ganha uma seção `## Como ler`, logo
+depois de "Sobre a obra".
+
+- **Específica da obra, nunca genérica.** "Leia com atenção aos argumentos"
+  serve para qualquer livro e por isso não serve para nenhum. O texto diz o
+  que só vale para esta obra.
+- **Três itens, nesta ordem, cada um com o rótulo em negrito:**
+  - **A pergunta:** a pergunta central que a obra responde, e que deve guiar
+    a leitura;
+  - **Onde está o centro:** as partes que importam mais e, quando a obra é
+    grande, o que dá para ler em parte ou pular sem perder o argumento;
+  - **Postura:** como ler (argumento a avaliar, narrativa a viver,
+    manual a aplicar, consulta), o que costuma confundir e, quando houver,
+    o que ler antes e por quê.
+- **Curta:** cerca de 80 a 120 palavras no total. Mesmas proibições de §10:
+  sem termos internos, sem ids, sem edições. Termo técnico só com explicação
+  na mesma frase (§11). Autor sempre com nome completo e a obra citada pelo
+  título.
+- **Nada inventado.** A pergunta central e as partes centrais são afirmações
+  sobre a obra e saem da pesquisa ou de conhecimento estabelecido sobre ela.
+  Sem base, a seção não é escrita.
+- **Toda obra tem a seção desde 2026-10-14.** Obra nova entra com "Como
+  ler" na mesma mudança que traz "Sobre a obra". Em manuais e obras de
+  consulta, a Postura diz como usar o livro (ler antes de precisar,
+  consultar na hora, praticar com instrutor).
+- **As relações continuam na lista de relações.** "Como ler" pode citar a
+  relação principal ("leia depois de…"); o resto fica na lista, que é
+  clicável e mostra a relação inversa na outra obra.
+
+Piloto: *A República* de Platão, *Política* de Aristóteles e *Leviatã* de
+Thomas Hobbes.
+
+## 14 · Por que está aqui: o que buscar nesta coleção — 2026-10-14
+
+Decisão do Mathews. O texto `why_here` de cada participação aparece na página
+da obra, em "Nas coleções". Ele passa a dizer duas coisas: **por que a obra
+está nesta coleção** e **o que buscar nela aqui**. A mesma obra é lida de modo
+diferente conforme a pergunta da coleção: *Antígona* em Greco-Romana é o
+conflito entre família e cidade; em Política, a pergunta sobre a legitimidade
+do governo.
+
+- **Uma a três frases.** O que a obra é, em poucas palavras, para quem não a
+  conhece, e "leia buscando…" ou "leia comparando com…" quando ajuda.
+- **Nunca um texto de processo.** "Idem", "expansão do volume", "argumento
+  seu, acima" não dizem nada ao leitor. Vinte textos assim, todos do agente,
+  foram reescritos nesta data.
+- **Obra em mais de uma coleção tem um texto diferente em cada uma.** Texto
+  copiado de uma coleção para outra é defeito.
+- **O texto do Mathews (`why_here_by: voce`) pode ser reescrito pelo agente
+  quando isso o melhora** (autorização dele, 2026-10-14): por exemplo, quando
+  não diz o que buscar na obra ou só lista temas. A versão anterior fica
+  registrada no campo `why_here_previous`, que não vai para a tela, e
+  `why_here_by` passa a `claude`.
+- Não repete a seção "Como ler" (§13), que vale para a obra em qualquer
+  coleção.

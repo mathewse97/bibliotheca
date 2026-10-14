@@ -8,7 +8,7 @@ alt_titles: []
 authors: [london]
 original_language: en
 form: novel
-work_type: null
+work_type: literatura
 date_written: "1903"
 date_sort: 1903
 period: null
@@ -41,12 +41,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Romance de Jack London publicado em 1903. Conta a história de Buck, cão doméstico roubado de uma casa na Califórnia e levado para trabalhar puxando trenós no Yukon durante a corrida do ouro, onde aos poucos retorna ao instinto selvagem. É a obra mais conhecida do autor.
+
+## Como ler
+
+- **A pergunta:** o que acontece com um ser domesticado quando é jogado num mundo brutal?
+- **Onde está o centro:** a história de Buck, do roubo na Califórnia aos trenós do Yukon durante a corrida do ouro, e o retorno progressivo ao instinto selvagem.
+- **Postura:** É um romance curto, que se lê de uma vez. Repare como Jack London conta tudo do ponto de vista do cão, e na lei dura da sobrevivência que ele descreve.
 
 ## Fatos
 

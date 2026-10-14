@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: la
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: filosofia
 date_written: "origem árabe, séc. VIII–IX; versões latinas a partir do séc. XII"
 date_sort: 850
 period: null
@@ -46,7 +46,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "The Emerald Tablet, Brian Cotnoir, Khepri Press, 2014", note: "Traduções novas das versões árabe e latina, em inglês, mas em tiragem de luxo, praticamente impossível de comprar."}
 ---
@@ -54,6 +54,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Texto curto e enigmático atribuído a Hermes Trismegisto, mas de origem árabe medieval, dos séculos VIII–IX, e difundido na Europa em versões latinas a partir do século XII. Em poucas sentenças formula princípios como a correspondência entre o que está em cima e o que está embaixo, e tornou-se um dos textos fundadores da tradição alquímica e hermética.
+
+## Como ler
+
+- **A pergunta:** como o que está em cima se relaciona com o que está embaixo, e como a matéria se transforma?
+- **Onde está o centro:** o texto inteiro tem poucas linhas, e a frase central é a de que o que está embaixo é como o que está em cima.
+- **Postura:** É curtíssimo e enigmático, e durante séculos foi lido como a chave da alquimia. Leia depois do *Corpus Hermeticum*, mais de uma vez, atento às imagens. A atribuição a Hermes é lendária: a versão mais antiga conhecida é árabe, dos séculos VIII e IX.
 
 ## Fatos
 

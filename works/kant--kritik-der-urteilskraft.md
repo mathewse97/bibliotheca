@@ -8,7 +8,7 @@ alt_titles: ["Crítica do Juízo"]
 authors: [kant]
 original_language: de
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1790"
 date_sort: 1790
 period: iluminismo
@@ -44,7 +44,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Forense Universitária, 2012, trad. Valerio Rohden e António Marques", note: "Tradução de Valerio Rohden e António Marques, a primeira completa e a mais citada; ficou de fora por não ser achada nova nem trazer a Primeira Introdução de Kant."}
 ---
@@ -52,6 +52,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Terceira das críticas de Immanuel Kant, publicada em alemão em 1790. Nela o juízo sobre o belo deixa de descrever uma propriedade do objeto e passa a exprimir um estado do sujeito que contempla, desinteressado e, ainda assim, reivindicando validade universal; trata também do sublime e do juízo teleológico sobre a natureza. É considerada a obra que funda a estética moderna e a ideia de autonomia da arte. Leitura exigente.
+
+## Como ler
+
+- **A pergunta:** o que dizemos quando chamamos algo de belo, e por que esperamos que os outros concordem, se o juízo nasce do sentimento?
+- **Onde está o centro:** a Analítica do belo, com os quatro momentos (o belo agrada sem interesse; agrada a todos sem depender de um conceito; tem a forma de uma finalidade sem fim; e é necessário); a Analítica do sublime; e a parte sobre o gênio e as belas-artes. A segunda metade do livro, sobre a finalidade na natureza, pode ficar para depois.
+- **Postura:** É difícil e usa o vocabulário próprio de Kant: leia devagar, um momento por vez, e reconstrua cada um com um exemplo seu. Rende mais depois de David Hume e Edmund Burke, de quem Kant recebe os problemas.
 
 ## Fatos
 

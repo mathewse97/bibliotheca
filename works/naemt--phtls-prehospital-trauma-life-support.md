@@ -13,7 +13,7 @@ authors: [naemt]
 #   se você preferir outra, o id_aliases resolve.
 original_language: en
 form: book
-work_type: null                 # §E
+work_type: pratico
 date_written: null
 date_sort: null
 period: null
@@ -51,7 +51,7 @@ derived_from:
 # — "a coleção de autossuficiência for criada" — cumpriu-se. A obra é membro de
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "A edição mais nova, de 2023, mas só existe em inglês."}
 ---
@@ -59,6 +59,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual de referência do curso PHTLS, elaborado pela associação americana de técnicos em emergência médica (NAEMT) em conjunto com o Colégio Americano de Cirurgiões. Expõe o protocolo profissional de avaliação e atendimento à vítima de trauma antes da chegada ao hospital, e destina-se à formação técnica, não ao público leigo.
+
+## Como ler
+
+- **A pergunta:** como avaliar e atender uma vítima de trauma antes de ela chegar ao hospital?
+- **Onde está o centro:** os capítulos sobre a avaliação inicial da vítima e o controle das ameaças imediatas à vida, como hemorragias e vias aéreas.
+- **Postura:** É manual de curso profissional: não basta lê-lo, é preciso fazer o curso com prática supervisionada. Use como referência técnica, ao lado de um manual de primeiros socorros para leigos.
 
 ## Fatos
 

@@ -10,7 +10,7 @@ alt_titles: []
 authors: [begovic, luther]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: null
 date_sort: null
 period: null
@@ -61,12 +61,18 @@ derived_from:
   date: 2026-09-06
   transcribed: [title_en, authors]
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro em inglês de Selco Begovic e Daisy Luther sobre violência, morte e desordem em situações de colapso. Parte do relato de Selco sobre a sobrevivência numa cidade sitiada durante a guerra da Bósnia, nos anos 1990, e extrai dela lições práticas apresentadas dentro da narrativa, e não em forma de manual.
+
+## Como ler
+
+- **A pergunta:** o que acontece com as pessoas e com a ordem quando uma cidade fica sem Estado, sem lei e sem abastecimento?
+- **Onde está o centro:** o relato de Selco Begovic sobre o cerco de uma cidade na guerra da Bósnia, nos anos 1990, e as lições sobre violência, confiança e escolhas que ele tira dessa experiência.
+- **Postura:** É testemunho, não manual: leia como relato de quem viveu, sabendo que é a experiência de uma pessoa num lugar. Algumas passagens são duras. Está em inglês.
 
 ## Fatos
 
