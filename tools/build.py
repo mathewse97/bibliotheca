@@ -625,9 +625,13 @@ def build():
     pstate = (idx.get("state") or {}).get("publications") or {}
 
     def _owned(pubs):
-        """Publicações desta obra que ele possui, em ordem estável."""
+        """Publicações desta obra que ele possui, em ordem estável. Um volume
+        em que a obra está marcada como `alternative` não conta: ele foi
+        comprado por outra obra, e a obra continua lida pela edição escolhida
+        (decisão do Mathews, 2026-10-14; interface-rules §12)."""
         return sorted([p["publication"] for p in pubs
-                       if (pstate.get(p["publication"]) or {}).get("ownership") == "tenho"])
+                       if (pstate.get(p["publication"]) or {}).get("ownership") == "tenho"
+                       and p.get("verdict") != "alternative"])
 
     def _pref_de(wid, w):
         """Edição escolhida para a obra numa coleção, se houver uma válida."""

@@ -272,3 +272,16 @@ catálogo", "helenista", "direta" sem mais nada não dizem por que importa.
   tradutor só pelo sobrenome: o leitor pode ler uma linha sem ter lido as
   outras. Nome completo do tradutor e, quando ajuda e há fonte, quem ele é
   ("tradutor brasileiro de muitos clássicos gregos").
+
+## 12 · Posse não substitui a edição escolhida de uma alternativa — 2026-10-14
+
+Pedido do Mathews, ao escolher para *As Nuvens* um volume que traz também
+*Prometeu*, *Édipo Rei* e *Medeia*, peças que ele lê por outras edições.
+
+- Uma edição que ele tem continua sendo a edição mostrada das obras que ela
+  contém, **exceto** das obras em que o volume está marcado como
+  `verdict: alternative`. Para essas, vale a escolha normal (preferência da
+  coleção, edição recomendada).
+- O volume continua aparecendo na página da obra como outra edição, e a
+  página da edição continua mostrando o livro inteiro (§8).
+
