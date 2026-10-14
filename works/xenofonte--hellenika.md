@@ -31,8 +31,9 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Helénicas, Gredos, trad. Orlando Guntiñas Tuñón", note: "Tradução espanhola de Orlando Guntiñas Tuñón, direta do grego, com introdução e notas; ainda pode substituir a edição inglesa da Loeb."}
-  - {edition: "The Landmark Xenophon's Hellenika, 2009", note: "É a edição com o material explicativo mais completo, mas só existe em inglês."}
+  - {edition: "Hellenica, Loeb Classical Library, 2 vols., trad. Carleton L. Brownson", note: "Tem o grego ao lado, mas a tradução inglesa de Carleton L. Brownson é de 1918–1921, quase sem notas, em dois volumes."}
+  - {edition: "Elleniche, BUR Rizzoli, 2002, trad. Giovanna Daverio Rocchi", note: "Tradução italiana moderna de Giovanna Daverio Rocchi, com o grego ao lado e introdução, mas importada e cara, perto de R$ 700."}
+  - {edition: "Helénicas, Gredos, trad. Orlando Guntiñas Tuñón", note: "Tradução espanhola de Orlando Guntiñas Tuñón, direta do grego e com notas, mas de 1977 e sem os mapas e apêndices."}
 ---
 
 ## Sobre a obra

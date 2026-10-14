@@ -3,6 +3,7 @@
 # `edicoes-70`). A interface mostra o nome abaixo. Identificador sem entrada
 # aqui aparece como está — e a build avisa.
 alta-books: "Alta Books"
+anchor: "Anchor Books"
 annablume: "Annablume"
 appris: "Appris"
 artmed: "Artmed"

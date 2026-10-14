@@ -2294,3 +2294,24 @@ crook:
   dates: null
   note: "Historiador britânico; preparou com Hansen a versão inglesa de The Athenian Democracy in the Age of Demosthenes."
   role: translator
+
+marincola:
+  name_display: "John Marincola"
+  name_variants: []
+  dates: null
+  note: "Tradutor das Helênicas de Xenofonte na série Landmark; professor de estudos clássicos (Florida State University)."
+  role: translator
+
+strassler:
+  name_display: "Robert B. Strassler"
+  name_variants: []
+  dates: null
+  note: "Organizador da série Landmark de historiadores antigos."
+  role: editor
+
+david-thomas:
+  name_display: "David Thomas"
+  name_variants: []
+  dates: null
+  note: "Autor da introdução das Helênicas na série Landmark."
+  role: editor

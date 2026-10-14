@@ -850,7 +850,7 @@ sequence:
                       hegemonia-espartana, conflitos-politicos, guerras,
                       transformacoes-do-mundo-grego]
     requires: [tucidides--historiai]
-    publication_pref: pub--loeb--hellenica-i   # 2026-10-10: a obra vem em dois volumes Loeb; o vol. I representa o conjunto. Vol. II: pub--loeb--hellenica-ii
+    publication_pref: pub--anchor--landmark-xenophons-hellenika--2010   # 2026-10-14: Landmark no lugar da Loeb
 
   - work: aristoteles--athenaion-politeia
     role: primary-source
