@@ -321,8 +321,8 @@ Hoje todos os 53 registros de obra e a única publicação estão
 
 A classificação é produto da pesquisa, não do import: uma obra nova recebe o
 tipo quando é pesquisada, nunca por suposição a partir do título. Desde
-2026-10-14 o vocabulário é **fechado**, com os seis tipos de Mortimer Adler
-mais `religioso` e `consulta` (`config/vocabularies.yaml`; critério em
+2026-10-14 o vocabulário é **fechado** nos seis tipos de Mortimer Adler, e só
+neles (`config/vocabularies.yaml`; critério em
 `config/curation-rules.md` §2.9). Classificação duvidosa entre dois tipos fica
 com o predominante e é anotada na revisão da coleção; um tipo novo é decisão
 do Mathews.

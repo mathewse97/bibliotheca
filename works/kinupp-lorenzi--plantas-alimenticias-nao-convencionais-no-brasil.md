@@ -8,7 +8,7 @@ alt_titles: []
 authors: [kinupp, lorenzi]
 original_language: pt-BR
 form: book
-work_type: consulta
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

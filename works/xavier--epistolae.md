@@ -8,7 +8,7 @@ alt_titles: []
 authors: [xavier]
 original_language: es
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: religioso
+work_type: historia
 date_written: "1535–1552"
 date_sort: 1545
 period: null

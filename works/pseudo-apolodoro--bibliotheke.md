@@ -8,7 +8,7 @@ alt_titles: ["Bibliotheca", "Biblioteca mitológica"]
 authors: [pseudo-apolodoro]
 original_language: grc
 form: book
-work_type: consulta
+work_type: literatura
 date_written: null              # séc. I–II d.C. (faixa relatada, não data)
 date_sort: null
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [rahula]
 original_language: en
 form: book
-work_type: religioso
+work_type: filosofia
 date_written: "1959 (2ª ed. ampliada 1974)"
 date_sort: 1959
 period: null

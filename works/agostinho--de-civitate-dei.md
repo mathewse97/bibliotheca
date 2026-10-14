@@ -8,7 +8,7 @@ alt_titles: []
 authors: [agostinho]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: religioso
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null

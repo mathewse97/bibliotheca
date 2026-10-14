@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: grc
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: religioso
+work_type: filosofia
 date_written: "séc. II–III d.C."
 date_sort: 200
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: pi
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: religioso
+work_type: filosofia
 date_written: "cânone páli, compilação antiga (datação debatida)"
 date_sort: -300
 period: null

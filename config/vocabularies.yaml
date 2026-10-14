@@ -117,45 +117,55 @@ work_type:
   source: "config/curation-rules.md §2.9 e decisão do Mathews de 2026-10-14;
            os seis tipos vêm de Mortimer Adler e Charles Van Doren, *Como Ler
            Livros*, parte III"
-  note: "O que a obra É, e portanto como se lê. Distinto do `role` da
-         participação, que é como ela FUNCIONA numa coleção: 'fonte primária'
-         e 'comentário' são papéis e não tipos. Por isso primary-source,
-         political-theory, sociology e political-sociology saíram em
-         2026-10-14 (ver `replaced`). Obra mista recebe o tipo predominante.
-         Não aparece na tela (interface-rules.md §6); serve à escrita de
-         'Como ler' (§13) e ao sinal de lacuna `type-monoculture`.
-         Um tipo novo é decisão do Mathews, não do agente."
-  values: [filosofia, historia, ciencias-sociais, ciencia, literatura,
-           pratico, religioso, consulta]
+  note: "O que a obra É, e portanto como se lê. São os SEIS tipos de Adler,
+         e só eles (decisão do Mathews, 2026-10-14: fiel a Adler). Distinto
+         do `role` da participação, que é como a obra FUNCIONA numa coleção:
+         'fonte primária' e 'comentário' são papéis e não tipos. Obra mista
+         recebe o tipo predominante. Não aparece na tela
+         (interface-rules.md §6); serve à escrita de 'Como ler' (§13) e ao
+         sinal de lacuna `type-monoculture`."
+  values: [pratico, literatura, historia, ciencia, filosofia, ciencias-sociais]
   glosses:
-    filosofia:        "argumento sobre questões fundamentais — inclui ética e
-                       política. Lê-se para avaliar o argumento. (Adler conta
-                       ética e política também como 'livros práticos' no
-                       sentido de princípios; aqui ficam em filosofia, porque
-                       a postura de leitura é a do argumento.)"
-    historia:         "narra e interpreta o passado real — inclui biografia,
-                       história das ideias, da religião e da literatura, e
-                       reportagem. Lê-se atento a fontes e interpretação."
-    ciencias-sociais: "sociedade, política, economia, psicologia, antropologia
-                       como estudo, não como narrativa do passado."
-    ciencia:          "ciências naturais, matemática e ciência experimental
-                       (neurociência, psicologia cognitiva)."
-    literatura:       "poesia, teatro, romance, epopeia, mito em forma
-                       poética. Lê-se para viver a obra antes de julgá-la."
-    pratico:          "manual, guia de ação, proposta de reforma, tratado de
-                       técnica (inclusive militar e de governo, como Sunzi e
-                       Kautilya). Lê-se para aplicar."
-    religioso:        "texto sagrado e teologia. Adler trata à parte os livros
-                       canônicos e a teologia, que partem da fé."
-    consulta:         "dicionário, guia de identificação, catálogo: não se lê
-                       de ponta a ponta. Acréscimo à lista de Adler."
+    pratico:          "Adler, 'livros práticos': manual, guia de ação,
+                       proposta de reforma, tratado de técnica (inclusive
+                       militar e de governo, como Sun Tzu e Kautilya), e
+                       guias de identificação usados em campo. Lê-se para
+                       aplicar."
+    literatura:       "Adler, 'literatura imaginativa': poesia, teatro,
+                       romance, epopeia, mito em forma narrativa. Lê-se para
+                       viver a obra antes de julgá-la."
+    historia:         "Adler, 'história': narra e interpreta o passado real.
+                       Inclui biografia, história das ideias, da religião e da
+                       literatura, reportagem e dicionários históricos (Grimal,
+                       Eliade-Culianu). Lê-se atento às fontes e à
+                       interpretação."
+    ciencia:          "Adler, 'ciência e matemática': ciências naturais,
+                       matemática e ciência experimental (neurociência,
+                       psicologia cognitiva)."
+    filosofia:        "Adler, 'filosofia': argumento sobre questões
+                       fundamentais, incluindo ética e política. Também
+                       teologia e livros sagrados: Adler trata os dois dentro
+                       do capítulo sobre filosofia, numa nota sobre teologia e
+                       outra sobre livros canônicos, lidos com a ressalva de
+                       que partem da fé. (Adler conta ética e política também
+                       como 'livros práticos' no sentido de princípios; aqui
+                       ficam em filosofia, porque a postura de leitura é a do
+                       argumento.)"
+    ciencias-sociais: "Adler, 'ciências sociais': sociedade, política,
+                       economia, psicologia, antropologia, como estudo e não
+                       como narrativa do passado."
+  how_to_consult: "Obra feita para consulta (dicionário, guia de
+                   identificação) não é um sétimo tipo: recebe o tipo do seu
+                   conteúdo, e o modo de usar vai na 'Postura' de Como ler."
   replaced:
     - {from: primary-source, to: "o tipo da obra; 'fonte primária' continua como `role`", date: 2026-10-14}
     - {from: political-theory, to: "filosofia ou ciencias-sociais, conforme a obra", date: 2026-10-14}
     - {from: sociology, to: ciencias-sociais, date: 2026-10-14}
     - {from: political-sociology, to: ciencias-sociais, date: 2026-10-14}
+    - {from: religioso, to: "filosofia (teologia e livros sagrados); cartas de Francisco Xavier para historia", date: 2026-10-14, note: "criado e retirado no mesmo dia: não é tipo de Adler"}
+    - {from: consulta, to: "o tipo do conteúdo (pratico ou historia; Pseudo-Apolodoro, literatura)", date: 2026-10-14, note: "criado e retirado no mesmo dia: não é tipo de Adler"}
   doubtful:                 # tipo predominante escolhido; o outro também cabia
-    - {work: agostinho--de-civitate-dei, chosen: religioso, also: filosofia}
+    - {work: agostinho--de-civitate-dei, chosen: filosofia, also: historia}
     - {work: arendt--origins-of-totalitarianism, chosen: historia, also: filosofia}
     - {work: ibn-khaldun--muqaddimah, chosen: ciencias-sociais, also: historia}
     - {work: kautilya--arthashastra, chosen: pratico, also: filosofia}
@@ -166,8 +176,8 @@ work_type:
     - {work: bezmenov--subversao-teoria-aplicacao-e-confissao-de-um-metodo, chosen: ciencias-sociais, also: historia}
     - {work: adler--the-paideia-proposal, chosen: pratico, also: filosofia}
     - {work: orwell--politics-and-the-english-language, chosen: filosofia, also: pratico}
-    - {work: enuma-elis, chosen: literatura, also: religioso}
-    - {work: pseudo-apolodoro--bibliotheke, chosen: consulta, also: literatura}
+    - {work: enuma-elis, chosen: literatura, also: filosofia}
+    - {work: pseudo-apolodoro--bibliotheke, chosen: literatura, also: historia}
   history: "O valor `literatura` foi criado por decisão do Mathews em
             2026-09-28 e é mantido. Antes de 2026-10-14 o vocabulário era
             aberto e 187 das 230 obras tinham o campo vazio."

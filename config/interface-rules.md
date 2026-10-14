@@ -337,7 +337,9 @@ do governo.
   foram reescritos nesta data.
 - **Obra em mais de uma coleção tem um texto diferente em cada uma.** Texto
   copiado de uma coleção para outra é defeito.
-- **O texto do Mathews (`why_here_by: voce`) não é reescrito pelo agente.** Se
-  ele não diz o que buscar, o agente pode propor, nunca substituir.
+- **O texto do Mathews (`why_here_by: voce`) pode ser reescrito pelo agente
+  quando isso o melhora** (autorização dele, 2026-10-14): por exemplo, quando
+  não diz o que buscar na obra ou só lista temas. A versão anterior fica
+  registrada num comentário ao lado, e `why_here_by` passa a `claude`.
 - Não repete a seção "Como ler" (§13), que vale para a obra em qualquer
   coleção.

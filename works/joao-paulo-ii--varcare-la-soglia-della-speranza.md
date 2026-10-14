@@ -8,7 +8,7 @@ alt_titles: []
 authors: [joao-paulo-ii, messori]
 original_language: it
 form: book
-work_type: religioso
+work_type: filosofia
 date_written: "1994"
 date_sort: 1994
 period: null
