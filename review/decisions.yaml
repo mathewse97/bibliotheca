@@ -1532,6 +1532,21 @@ items:
   composition_note: "O movimento I tem hoje quatro obras, todas do mundo antigo: A República, a Política, Tucídides e Cícero."
 
 
+- id: d-pos-como-ler-livros
+  kind: posicao
+  collections: [education]
+  priority: baixa
+  state: decidir
+  work: adler-van-doren--how-to-read-a-book
+  collection: education
+  question: "*Como Ler Livros*, de Mortimer Adler e Charles Van Doren, fica em Educação, na parte sobre a prática, depois de *A Mente Bem Treinada*?"
+  why: "O livro entrou a seu pedido, e a posição é minha. Ele é o método de ler os grandes livros que a *Proposta Paideia*, do mesmo Adler, põe no centro da formação. Por isso o pus na parte prática da coleção, ao lado do guia de Susan Wise Bauer e Jessie Wise para educar em casa pelo modelo clássico."
+  options:
+    - {key: A, recommended: true, title: "Confirmar aqui", effect: "A posição deixa de ser provisória."}
+    - {key: B, title: "Logo depois da *Proposta Paideia*", effect: "Fica na parte sobre a recuperação do ideal clássico, junto do outro livro de Adler."}
+    - {key: C, title: "Quero outra posição", effect: "Me diga onde, ou peça que eu traga alternativas."}
+  recommendation: "a coleção vai do porquê (história e filosofia da educação) ao como (a prática). Este livro é todo do como: ensina a ler, não discute por que ler."
+
 # ============================== MUDAR UMA REGRA =============================
 
 - id: d-reg-proposito-movimento

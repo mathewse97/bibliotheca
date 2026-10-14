@@ -442,6 +442,16 @@ sequence:
                       curriculo, leitura, escrita, organizacao-do-estudo]
     publication_pref: pub--klasika-liber--a-mente-bem-treinada--2021   # decisão sua, 2026-09-23: a edição em português
 
+  # ENTRADA NOVA — pedido seu de 2026-10-14. Posição minha, a confirmar.
+  - work: adler-van-doren--how-to-read-a-book
+    role: supplementary
+    demand: moderado
+    why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
+    why_here_by: claude
+    placement_status: a-confirmar
+    inserted_by: claude
+    publication_pref: pub--kirion--como-ler-livros--2025
+
   # MOVIMENTO E REGIÃO NOVOS — decisão sua de 2026-09-10, pós-importação. A
   # região `critica-da-escola` já estava declarada `absent` desde a
   # importação original (2026-09-05) e já tinha esta obra citada como
