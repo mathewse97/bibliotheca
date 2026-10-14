@@ -998,23 +998,30 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-14, choice: "C — The Landmark Xenophon's Hellenika (Anchor, 2010), trad. John Marincola.", note: "Decisão do Mathews, 2026-10-14, depois da pesquisa da Greco-Romana: a italiana da BUR (grego ao lado) custava R$ 709; a Landmark, R$ 160, em estoque, com mapas e apêndices. A Loeb saiu do acervo."}
   question: "Em que edição ler as *Helênicas*, de Xenofonte?"
   why: "Não há tradução das *Helênicas* em português. A registrada é a Loeb, com o grego ao lado e a tradução inglesa de 1918, quase sem notas. A espanhola da Gredos é direta do grego e tem introdução e notas."
   editions:
     - key: A
-      pub: pub--loeb--hellenica-i
       label: "Loeb, 2 volumes — Carleton L. Brownson (inglês)"
-      status: "Registrada · aparece hoje"
+      status: "Substituída em 2026-10-14"
       facts: [["Formato","Bilíngue grego–inglês"],["Tradução","1918–1921"],["Aparato","Mínimo"]]
       pros: ["O texto grego ao lado"]
       cons: ["Tradução antiga e quase sem notas", "Inglês"]
     - key: B
       label: "Helénicas, Gredos — Orlando Guntiñas Tuñón (espanhol)"
-      status: "Não registrada"
+      status: "Não escolhida"
       facts: [["Tradução","Direta do grego, com introdução e notas"],["Formato","Espanhol, um volume"]]
       pros: ["Mais anotada", "Tradução moderna e direta do grego"]
       cons: ["Sem o texto grego"]
+    - key: C
+      pub: pub--anchor--landmark-xenophons-hellenika--2010
+      label: "The Landmark Xenophon's Hellenika, Anchor, 2010 — John Marincola (inglês)"
+      status: "Escolhida"
+      facts: [["Tradução","John Marincola, moderna, direta do grego"],["Extra","Mapas, notas, cronologia, 16 apêndices de especialistas"],["Situação","Em estoque, cerca de R$ 160"]]
+      pros: ["O material explicativo mais completo", "Fácil de comprar"]
+      cons: ["Sem o texto grego", "Inglês"]
   options: []
   recommendation: "Sem recomendação clara. Não há tradução em português, e entre o espanhol e o inglês a biblioteca não tem preferência de língua. A leva o texto grego, o original, mas numa tradução de 1918 e quase sem notas; B tem tradução moderna e notas, sem o grego. Pesa o que importa mais para você: o grego ao lado ou o aparato."
 
