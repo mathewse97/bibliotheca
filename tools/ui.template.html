@@ -1631,7 +1631,15 @@ function collExtras(k){
   }
 
   if(tens.length){
-    out += `<h2>Tensões</h2><div class="rows">${tens.map(t=>`<div class="row"><div class="n">⇄</div>
+    /* Questões em disputa (leitura sintópica, curation-rules §2.10): com
+       `positions`, a questão vira o título e cada obra dá a sua resposta */
+    out += `<h2>Questões em disputa</h2><div class="rows">${tens.map(t=>(t.positions||[]).length
+      ? `<div class="row"><div class="n">⇄</div><div class="t">
+        <div style="font-weight:600">${mdi(t.about)}</div>
+        ${t.positions.map(p=>{const au=((W(p.work)||{}).authors||[]).map(a=>(A(a)||{}).name_display||a).join(', ');
+          return `<div class="small" style="margin-top:6px">${wLink(p.work)}${au?` <span class="muted">· ${E(au)}</span>`:''}<div class="muted">${mdi(p.answer)}</div></div>`;}).join('')}
+        </div><div></div></div>`
+      : `<div class="row"><div class="n">⇄</div>
       <div class="t">${wLink(t.a)} <span class="muted">⇄</span> ${wLink(t.b)}
       ${t.about?`<div class="small muted">${E(t.about)}</div>`:''}</div><div></div></div>`).join('')}</div>`;
   }

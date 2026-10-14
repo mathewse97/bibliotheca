@@ -1251,29 +1251,37 @@ paths:
 # ===========================================================================
 # TENSÕES — desacordos reais entre membros, preservados e não sintetizados
 # ===========================================================================
+# TENSÕES — questões em disputa, à maneira da leitura sintópica de Mortimer
+# Adler (Como Ler Livros, parte IV): a questão em termos neutros e a
+# resposta de cada obra. `a` e `b` são as duas obras centrais (as checagens
+# da build leem esses dois campos); `positions` traz a resposta de cada
+# obra que toma posição, inclusive outras além de a e b. Respostas escritas
+# pelo agente em 2026-10-14; ver config/curation-rules.md §2.10.
 tensions:
-  - {a: veyne--les-grecs-ont-ils-cru-a-leurs-mythes,
-     b: burkert--griechische-religion,
-     about: "Se a religião grega pode ser descrita como um sistema de crenças e
-             ritos reconstituível historicamente, ou se a própria categoria de
-             'acreditar' é uma projeção moderna sobre um mundo que organizava a
-             verdade de outro modo."}
-  - {a: vernant--mythe-et-religion-en-grece-ancienne,
-     b: burkert--griechische-religion,
-     about: "Se o que explica a religião grega é a estrutura social e mental que
-             o mito articula, ou a continuidade histórica e ritual do culto —
-             estruturalismo contra história das religiões."}
-  - {a: campbell--the-hero-with-a-thousand-faces,
-     b: vernant--les-origines-de-la-pensee-grecque,
-     about: "Se os mitos gregos são instâncias de um padrão narrativo universal,
-             ou produtos de uma configuração social e histórica específica que
-             se dissolve quando universalizada."}
-  - {a: aristofanes--nephelai,
-     b: platao--apologia-sokratous,
-     about: "Quem era Sócrates: um sofista que ensinava a fazer o argumento mais
-             fraco parecer o mais forte, ou o seu oposto exato. As duas fontes
-             são contemporâneas e incompatíveis, e a Apologia responde
-             nominalmente à comédia."}
+  - a: veyne--les-grecs-ont-ils-cru-a-leurs-mythes
+    b: burkert--griechische-religion
+    about: "Pode-se descrever a religião grega como um sistema de crenças e ritos?"
+    positions:
+      - {work: veyne--les-grecs-ont-ils-cru-a-leurs-mythes, answer: "Não sem cuidado: \"acreditar\" tem modos diferentes, e os gregos acreditavam e não acreditavam ao mesmo tempo, conforme o que cada época tinha por verdade."}
+      - {work: burkert--griechische-religion, answer: "Sim: pelos ritos, santuários, deuses e práticas, a religião grega pode ser reconstruída historicamente como um sistema."}
+  - a: vernant--mythe-et-religion-en-grece-ancienne
+    b: burkert--griechische-religion
+    about: "O que explica a religião grega?"
+    positions:
+      - {work: vernant--mythe-et-religion-en-grece-ancienne, answer: "A estrutura social e mental que o mito articula: religião e cidade são inseparáveis."}
+      - {work: burkert--griechische-religion, answer: "A continuidade histórica do ritual, com raízes muito anteriores à cidade."}
+  - a: campbell--the-hero-with-a-thousand-faces
+    b: vernant--les-origines-de-la-pensee-grecque
+    about: "Os mitos gregos são variações de um padrão universal, ou produtos de uma sociedade e de uma época?"
+    positions:
+      - {work: campbell--the-hero-with-a-thousand-faces, answer: "De um padrão universal: a jornada do herói, enraizada na psique humana, se repete em todas as culturas."}
+      - {work: vernant--les-origines-de-la-pensee-grecque, answer: "De uma configuração histórica: o pensamento grego nasce da cidade e do seu espaço público, e universalizá-lo apaga o que o torna grego."}
+  - a: aristofanes--nephelai
+    b: platao--apologia-sokratous
+    about: "Quem era Sócrates?"
+    positions:
+      - {work: aristofanes--nephelai, answer: "Um mestre de sofistas, que especula sobre o céu e ensina a fazer o argumento mais fraco vencer o mais forte."}
+      - {work: platao--apologia-sokratous, answer: "O oposto: alguém que só sabe que não sabe, examina os outros por missão do deus e nunca ensinou por dinheiro."}
 
 # ===========================================================================
 # ORDEM ORIGINAL E DESVIOS

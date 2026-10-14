@@ -329,6 +329,24 @@ se esgotar.
 
 Primeira aplicação: `review/political-thought.md` §10.
 
+### 2.10 Tensões são questões em disputa — decisão do Mathews, 2026-10-14
+
+As tensões de uma coleção seguem a leitura sintópica de Adler (*Como Ler
+Livros*, parte IV): uma questão em termos neutros e a resposta de cada obra da
+coleção que toma posição sobre ela.
+
+- **A questão** (`about`) é uma pergunta que todas as obras envolvidas
+  aceitariam como a pergunta delas, sem pressupor nenhuma resposta.
+- **As posições** (`positions`) dão a resposta de cada obra em uma ou duas
+  frases, nas palavras do leitor e não do jargão do autor. Entram todas as
+  obras da coleção que respondem à questão, não só duas.
+- `a` e `b` continuam sendo as duas obras centrais, porque as checagens da
+  build leem esses campos.
+- Uma tensão só existe quando as obras discordam de fato sobre a mesma
+  pergunta. Coleções de manuais ou de panoramas podem não ter nenhuma, e isso
+  não é defeito.
+- Na tela, a seção se chama "Questões em disputa".
+
 ---
 
 ## 3 · Preservação

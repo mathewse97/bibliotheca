@@ -583,12 +583,31 @@ order_changes:
 paths: []                      # onze obras — a compressão começa a fazer sentido;
                                # ver review/culture.md §10
 
-tensions: []
-# Vazio, e AQUI isso continua a não ser um achado. Em Educação, nove obras de
-# uma só tradição sem nenhuma tensão era um sintoma. Com quatro obras ainda não
-# há amostra, e tratar o vazio como significado seria fabricar um problema.
-# Registrado como caracterização e não como pendência: três das quatro
-# diagnosticam um declínio, e nenhuma as contesta. Ver review/culture.md §4.
+# TENSÕES — questões em disputa, à maneira da leitura sintópica de Mortimer
+# Adler (Como Ler Livros, parte IV): a questão em termos neutros e a
+# resposta de cada obra. `a` e `b` são as duas obras centrais (as checagens
+# da build leem esses dois campos); `positions` traz a resposta de cada
+# obra que toma posição, inclusive outras além de a e b. Respostas escritas
+# pelo agente em 2026-10-14; ver config/curation-rules.md §2.10.
+tensions:
+  - a: vargas-llosa--la-civilizacion-del-espectaculo
+    b: adorno-horkheimer--dialektik-der-aufklaerung
+    about: "O que causa a degradação da cultura?"
+    positions:
+      - {work: vargas-llosa--la-civilizacion-del-espectaculo, answer: "O entretenimento, que tomou o lugar da cultura como valor central da sociedade."}
+      - {work: adorno-horkheimer--dialektik-der-aufklaerung, answer: "A indústria cultural: a lógica da mercadoria e da produção em série aplicada à arte, que padroniza e domestica."}
+      - {work: scruton--culture-counts, answer: "O abandono da tradição e o relativismo, sobretudo nas universidades, que deixaram de transmitir a alta cultura."}
+      - {work: gregory--the-unintended-reformation, answer: "A ruptura da Reforma, que sem querer acabou com o acordo sobre a verdade e deixou o pluralismo sem um bem comum."}
+      - {work: han--muedigkeitsgesellschaft, answer: "A sociedade do desempenho, em que cada um se explora e se esgota, e a informação toma o lugar da narração."}
+  - a: hume--of-the-standard-of-taste
+    b: kant--kritik-der-urteilskraft
+    about: "O juízo sobre a beleza é só pessoal, ou pode valer para todos?"
+    positions:
+      - {work: hume--of-the-standard-of-taste, answer: "Nasce do sentimento, mas há um padrão: o juízo dos críticos de gosto apurado, pela prática, pela comparação e pela ausência de preconceito."}
+      - {work: burke--philosophical-enquiry-sublime-beautiful, answer: "Vale para todos porque se apoia em sensações comuns a todos os homens; as diferenças vêm do conhecimento e da atenção."}
+      - {work: kant--kritik-der-urteilskraft, answer: "É subjetivo, mas exige o acordo de todos, porque não depende de interesse nem de conceito: quem diz \"é belo\" fala como se falasse por todos."}
+# 2026-10-14: a coleção tinha tensions: [] com a nota de que, com quatro obras,
+# não havia amostra para tensões. Com dezesseis, há duas questões em disputa.
 
 original_order: [suassuna--iniciacao-a-estetica,
                  vargas-llosa--la-civilizacion-del-espectaculo,
