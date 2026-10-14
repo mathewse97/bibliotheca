@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: continues
+    target: homero--ilias
+    note: "A *Odisseia* conta a volta para casa de um dos heróis da guerra de Troia narrada na *Ilíada*, e supõe o mundo e os personagens dela."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: continues
+    target: sofocles--oidipous-tyrannos
+    note: "*Édipo em Colono* acompanha Édipo, já cego e exilado, depois do que *Édipo Rei* conta, embora Sófocles o tenha escrito muitos anos depois."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

@@ -27,7 +27,12 @@ missing:
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda
+    note: "Kaefer mostra a história de Israel e Judá pela arqueologia; Smith, como a religião desses reinos se formou a partir de Canaã."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import

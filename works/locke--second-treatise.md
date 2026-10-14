@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: hobbes--leviathan
+    note: "Os dois partem do estado de natureza e do contrato, e chegam a conclusões opostas: o soberano absoluto em Hobbes, o governo limitado e o direito de resistência em Locke."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

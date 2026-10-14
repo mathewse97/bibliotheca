@@ -42,6 +42,11 @@ relations:
     note: "As duas distopias centrais do século XX, lidas melhor juntas: o controle pela dor e pelo medo em Orwell, pelo prazer e pelo consumo em Huxley."
     by: claude
     proposed: 2026-10-14
+  - type: influenced_by
+    target: zamiatin--my
+    note: "Orwell resenhou *Nós* em 1946, três anos antes de publicar *1984*, e o Estado de vigilância total do seu romance retoma ideias de Zamiátin."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Romance do autor inglês George Orwell, publicado em 1949 como advertência contra o totalitarismo; também publicado sob o título 1984."

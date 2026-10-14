@@ -25,6 +25,12 @@ relations:
     note: "O livro II da *Política* examina e recusa a cidade de *A República*: a comunidade de bens, de mulheres e de filhos, e a unidade excessiva que Platão quer para a cidade."
     by: claude
     proposed: 2026-10-14
+  - type: continues
+    target: aristoteles--ethika-nikomacheia
+    note: "A *Ética a Nicômaco* termina anunciando a investigação sobre a cidade e as leis; a *Política* é essa continuação. Uma trata do homem bom, a outra da cidade que o forma."
+    by: claude
+    proposed: 2026-10-14
+
 provenance: []
 
 derived_from:

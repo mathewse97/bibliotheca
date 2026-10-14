@@ -30,6 +30,11 @@ relations:
   - type: complements
     target: enuma-elis
     note: "Síntese moderna da religião cujo texto fundador o Enūma Eliš é."
+  - type: commentary_on
+    target: epopeia-de-gilgamesh
+    note: "Jean Bottéro, que também traduziu a epopeia, lê *Gilgámesh* como documento da religião mesopotâmica."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import

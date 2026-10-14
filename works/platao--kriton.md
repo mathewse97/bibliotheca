@@ -26,7 +26,18 @@ missing: ["data/grupo cronológico com fonte tier 4–5 específica",
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: continues
+    target: platao--apologia-sokratous
+    note: "O *Críton* se passa na prisão, dias depois do julgamento narrado na *Apologia*: Sócrates, já condenado, recusa fugir."
+    by: claude
+    proposed: 2026-10-14
+  - type: complements
+    target: sofocles--antigone
+    note: "Duas respostas opostas à lei injusta: Antígona desobedece em nome de uma lei mais alta; Sócrates obedece mesmo condenado injustamente."
+    by: claude
+    proposed: 2026-10-14
+
 provenance:
   - claim: "Língua original grego antigo; título original; forma."
     source: "https://plato.stanford.edu/entries/plato/ (Kraut, SEP, 'Plato')"

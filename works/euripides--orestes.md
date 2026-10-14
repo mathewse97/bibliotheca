@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: esquilo--oresteia
+    note: "O mesmo Orestes depois de matar a mãe: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

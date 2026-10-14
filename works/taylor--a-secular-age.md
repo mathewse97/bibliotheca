@@ -20,7 +20,12 @@ missing: [work_type]
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: berger--the-sacred-canopy
+    note: "Charles Taylor responde à tese da secularização que Peter Berger formulou: a religião não perde plausibilidade simplesmente; mudam as condições em que se crê."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Unisinos, São Leopoldo, 2010, 930 p., ISBN 978-85-7431-377-1, trad. Nélio Schneider e Luzia Araújo (resenha na Rever, 2015)."

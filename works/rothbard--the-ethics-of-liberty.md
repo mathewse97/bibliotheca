@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: opposing_tradition_to
+    target: rawls--a-theory-of-justice
+    note: "Duas teorias da justiça opostas no ponto central: a redistribuição como exigência da justiça em Rawls, como violação de direitos em Rothbard."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

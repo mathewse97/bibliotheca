@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: sofocles--antigone
+    note: "As duas peças tratam do mesmo direito: o de sepultar os mortos contra a proibição de quem governa. Em Sófocles uma irmã desafia o rei; em Eurípides, Atenas vai à guerra pelos corpos."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

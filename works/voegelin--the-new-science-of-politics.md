@@ -20,7 +20,12 @@ missing: [work_type]
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: popper--the-open-society
+    note: "Dois diagnósticos das ideologias modernas, publicados com poucos anos de distância e por caminhos opostos: Popper a partir da razão crítica, Voegelin a partir da ordem religiosa."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Editora UnB, Coleção Pensamento Político, 1979, trad. José Viegas Filho, apresentação de José Pedro Galvão de Sousa (Síntese, v. 43, 2016)."

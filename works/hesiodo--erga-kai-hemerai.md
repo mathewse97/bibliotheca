@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: hesiodo--theogonia
+    note: "Os dois poemas de Hesíodo: a *Teogonia* conta o mundo dos deuses; *Os Trabalhos e os Dias*, a vida dos homens sob o reinado de Zeus. Prometeu e Pandora aparecem nos dois."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

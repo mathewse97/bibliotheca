@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: mcluhan--the-classical-trivium
+    note: "McLuhan conta a história das três artes da linguagem; a Irmã Miriam Joseph ensina a praticá-las."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

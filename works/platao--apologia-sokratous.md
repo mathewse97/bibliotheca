@@ -26,7 +26,12 @@ missing: ["data/grupo cronológico com fonte tier 4–5 específica",
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: aristofanes--nephelai
+    note: "Na *Apologia*, Sócrates diz que a imagem dele criada pela comédia de Aristófanes, pendurado num cesto e ensinando a vencer qualquer discussão, ajudou a formar o preconceito que levou à acusação."
+    by: claude
+    proposed: 2026-10-14
 provenance:
   - claim: "Língua original grego antigo; título original; forma."
     source: "https://plato.stanford.edu/entries/plato/ (Kraut, SEP, 'Plato')"

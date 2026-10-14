@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: beard--spqr
+    note: "*SPQR* conta Roma até 212 d.C.; Woolf acompanha o império em longa duração, até a sua transformação."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

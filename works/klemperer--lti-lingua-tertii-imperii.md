@@ -20,7 +20,12 @@ missing: ["recepção acadêmica", "work_type (classificação nova, vai a revis
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: orwell--politics-and-the-english-language
+    note: "O que Orwell argumenta em ensaio, que a linguagem corrompida corrompe o pensamento, Klemperer registrou como testemunha sob o nazismo."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Publicado em 1947. Klemperer, filólogo, reuniu em diário as

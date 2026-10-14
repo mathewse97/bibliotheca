@@ -20,7 +20,12 @@ missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do am
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: brown-peter--the-world-of-late-antiquity
+    note: "Duas leituras opostas do mesmo período: Mitchell vê sobretudo declínio político e militar; Peter Brown, criação cultural e religiosa."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Wiley Blackwell, 2ª ed., 2015, brochura, xix + 544 p., ISBN 978-1-118-31242-1 (registro da TU München; livreiros dão 576 p.)."

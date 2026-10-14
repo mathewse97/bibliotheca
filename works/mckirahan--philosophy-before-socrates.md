@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: kirk-raven-schofield--the-presocratic-philosophers
+    note: "Os mesmos fragmentos dos primeiros filósofos gregos, com comentário: McKirahan para quem começa, Kirk, Raven e Schofield como obra de referência."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

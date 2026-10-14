@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: influenced_by
+    target: rothbard--the-ethics-of-liberty
+    note: "Hans-Hermann Hoppe foi colaborador de Murray Rothbard e parte da fundamentação libertária que *A Ética da Liberdade* expõe."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

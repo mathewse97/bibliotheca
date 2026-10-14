@@ -28,6 +28,11 @@ relations:
      note: "Os dois defendem um currículo comum e rico em conteúdo para todos
             na escola pública americana; Adler parte do ideal clássico, Hirsch
             da ciência cognitiva e dos resultados escolares.", by: claude}
+  - type: criticizes
+    target: dewey--democracy-and-education
+    note: "Hirsch atribui o declínio escolar às teorias que trocaram o conteúdo por habilidades e pelo desenvolvimento natural da criança, linhagem de que Dewey é o principal representante."
+    by: claude
+    proposed: 2026-10-14
 
 provenance:
   - claim: "Why Knowledge Matters: Rescuing Our Children from Failed

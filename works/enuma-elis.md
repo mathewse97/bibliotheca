@@ -30,6 +30,11 @@ relations:
   - type: complements
     target: epopeia-de-gilgamesh
     note: "Cosmogonia e epopeia do mesmo mundo religioso."
+  - type: complements
+    target: hesiodo--theogonia
+    note: "Duas narrativas da origem do mundo e da sucessão dos deuses até um rei dos deuses, Marduk na Babilônia e Zeus na Grécia; os estudiosos discutem os paralelos entre elas."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import

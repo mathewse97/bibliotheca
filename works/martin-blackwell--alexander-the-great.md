@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: plutarco--alexandros
+    note: "A biografia moderna e a antiga do mesmo homem: Plutarco busca o caráter; Martin e Blackwell, o contexto histórico."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

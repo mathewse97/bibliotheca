@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: vargas-llosa--la-civilizacion-del-espectaculo
+    note: "Dois diagnósticos parecidos da degradação da cultura por caminhos diferentes: o filósofo defende a alta cultura; o escritor descreve a sua troca pelo entretenimento."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

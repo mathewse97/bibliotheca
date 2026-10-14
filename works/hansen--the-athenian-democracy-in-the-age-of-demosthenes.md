@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: aristoteles--athenaion-politeia
+    note: "A *Constituição de Atenas* descreve as instituições democráticas no século IV a.C.; Hansen as reconstrói de modo sistemático, usando-a como uma das fontes principais."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

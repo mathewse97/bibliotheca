@@ -19,7 +19,18 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: influenced_by
+    target: mill--on-liberty
+    note: "Berlin defende a liberdade negativa na linha de John Stuart Mill e discute *Sobre a Liberdade* diretamente."
+    by: claude
+    proposed: 2026-10-14
+  - type: responds_to
+    target: rousseau--du-contrat-social
+    note: "Rousseau é um dos autores que Berlin examina como exemplo da liberdade positiva levada a justificar a coerção, a ideia de ser forçado a ser livre."
+    by: claude
+    proposed: 2026-10-14
+
 provenance: []
 
 derived_from:

@@ -1734,7 +1734,7 @@ function vObra(id){
 
   ${rels.length?`<h2>Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
      <span class="small muted">${E(REL_PT[r.type]||r.type)}</span> ${wLink(r.target)}
-     ${r.note?`<div class="small muted">${E(r.note)}</div>`:''}</div><div></div></div>`).join('')}</div>`:''}
+     ${r.note?`<div class="small muted">${mdi(r.note)}</div>`:''}</div><div></div></div>`).join('')}</div>`:''}
 
   ${personalPanel('work', id)}`;
 }

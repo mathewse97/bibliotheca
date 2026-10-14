@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: esquilo--hepta-epi-thebas
+    note: "Eurípides reconta a guerra que Ésquilo pôs em cena em *Os Sete contra Tebas*, e os estudiosos leem uma passagem da peça como alfinetada no longo catálogo de guerreiros de Ésquilo."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

@@ -19,7 +19,18 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: homero--ilias
+    note: "A segunda metade da *Eneida*, a guerra no Lácio, é a resposta romana à *Ilíada*, com cenas e personagens que a espelham."
+    by: claude
+    proposed: 2026-10-14
+  - type: responds_to
+    target: homero--odysseia
+    note: "A primeira metade da *Eneida*, as viagens de Eneias, é a resposta romana à *Odisseia*."
+    by: claude
+    proposed: 2026-10-14
+
 provenance: []
 
 derived_from:

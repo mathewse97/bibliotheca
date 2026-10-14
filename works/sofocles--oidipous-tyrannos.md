@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: aristoteles--poietike
+    note: "Aristóteles toma *Édipo Rei* como modelo de tragédia na *Poética*: a reviravolta e o reconhecimento acontecem juntos. Uma é o exemplo, a outra a teoria."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

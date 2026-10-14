@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: rothbard--the-ethics-of-liberty
+    note: "O ensaio curto e o tratado do mesmo autor: a *Anatomia* apresenta as teses sobre o Estado que *A Ética da Liberdade* fundamenta."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: maquiavel--il-principe
+    note: "Dois tratados sobre como conservar o poder com realismo, de tradições sem contato: a Índia antiga e a Florença do século XVI. A comparação é clássica."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

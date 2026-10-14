@@ -26,7 +26,12 @@ missing:
 priority_library: null
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: complements
+    target: finkelstein-romer--aux-origines-de-la-torah
+    note: "A mesma pergunta, o que a arqueologia diz sobre a história bíblica: Kaefer em síntese breve, Finkelstein e Römer em diálogo aprofundado."
+    by: claude
+    proposed: 2026-10-14
 
 derived_from:
   source: bootstrap-import
