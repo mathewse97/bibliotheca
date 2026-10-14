@@ -83,10 +83,8 @@ Teatro completo VI da Editora 34.
 - **Decidido em 2026-10-05:** Educação admite a ciência da aprendizagem
   (opção A de `d-edu-ciencia-aprendizagem`). Dehaene e Brown, Roediger e
   McDaniel entraram no movimento VIII novo. Ver `review/education.md` §11.
-- **Classificação `work_type` pendente** em três obras — Hirsch, Brown/Roediger/
-  McDaniel e Dehaene. O vocabulário tem cinco categorias do documento fundador
-  e nenhuma descreve síntese de ciência empírica. Slug novo é decisão de
-  classificação (`curation-rules.md` §6.8), não escolha de preenchimento.
+- **Classificação `work_type`: resolvida em 2026-10-14.** As 230 obras foram
+  classificadas nos seis tipos de Adler (`config/vocabularies.yaml`).
 - **Cinco conclusões `stale`** de revalidação (três em Educação, uma em
   Cultura, uma em Greco-Romana): a biblioteca mudou e parte da evidência
   deixou de valer. Nenhuma foi reexaminada.
