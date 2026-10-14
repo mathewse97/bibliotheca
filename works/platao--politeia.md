@@ -41,6 +41,9 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-09-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Fundação Calouste Gulbenkian, trad. Maria Helena da Rocha Pereira", note: "Tradução de Maria Helena da Rocha Pereira, de Coimbra, com notas, mas importada de Portugal e sem o grego ao lado."}
+  - {edition: "Martins Fontes, trad. Anna Lia Amaral de Almeida Prado", note: "Tradução brasileira de Anna Lia Amaral de Almeida Prado, direto do grego e com notas, mas sem o texto grego ao lado."}
 ---
 
 ## Sobre a obra

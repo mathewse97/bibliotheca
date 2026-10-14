@@ -31,18 +31,18 @@ source_of_record: claude
 
 contains:
   - work: plutarco--alexandros
-    why: "Traduzida direto do grego por Maria de Fátima Silva e José Luís Brandão, com introdução que situa a obra e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de César. Português de Portugal. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução direta do grego por Maria de Fátima Silva e José Luís Brandão, professores da Universidade de Coimbra, com introdução e notas que situam pessoas e fatos. Vem junto com a Vida de César. Português de Portugal."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: BUR, Alessandro e Cesare, trad. Domenico Magnino; Paumape, 1992, trad. Gilson César Cardoso."
     translator: [fatima-silva, brandao]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: plutarco--kaisar
-    why: "Traduzida direto do grego por Maria de Fátima Silva e José Luís Brandão, com introdução que situa a obra e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de Alexandre. Português de Portugal. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução direta do grego por Maria de Fátima Silva e José Luís Brandão, professores da Universidade de Coimbra, com introdução e notas que situam pessoas e fatos. Vem junto com a Vida de Alexandre. Português de Portugal."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: BUR, Alessandro e Cesare, trad. Domenico Magnino; Paumape, 1992, trad. Gilson César Cardoso."
     translator: [fatima-silva, brandao]
     translated_from: direct
     source_text: null

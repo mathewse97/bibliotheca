@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Fondo de Cultura Económica, trad. Xirau e Roces", note: "A clássica tradução espanhola de Xirau e Roces; ficou de fora por não ser em português."}
+  - {edition: "Paideia, Fondo de Cultura Económica, trad. Joaquín Xirau e Wenceslao Roces", note: "Clássica tradução espanhola, mas sem vantagem sobre a portuguesa completa e à venda."}
 ---
 
 ## Sobre a obra

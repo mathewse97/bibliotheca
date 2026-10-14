@@ -31,12 +31,13 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Fondo de Cultura Económica, trad. Antonio Alatorre", note: "A célebre tradução espanhola de Antonio Alatorre; ficou de fora por não ser em português."}
+  - {edition: "The Classical Tradition, Oxford University Press, 2015", note: "O original inglês, à venda, com prefácio de Harold Bloom; preferível se a tradução brasileira se mostrar fraca."}
+  - {edition: "La tradición clásica, Fondo de Cultura Económica, trad. Antonio Alatorre", note: "Célebre tradução espanhola do filólogo mexicano Antonio Alatorre, mas o original inglês é igualmente acessível."}
 ---
 
 ## Sobre a obra
 
-Estudo de Gilbert Highet, publicado em inglês em 1949, sobre a influência da literatura grega e romana nas literaturas ocidentais, da Idade Média ao século XX. Acompanha a transmissão e a reinterpretação dos clássicos em autores e épocas sucessivas, e permanece uma referência sobre o tema.
+Estudo de Gilbert Highet, publicado em inglês em 1949, sobre a influência da literatura grega e romana nas literaturas ocidentais, da Idade Média ao século XX. Acompanha a transmissão e a reinterpretação dos clássicos em autores e épocas sucessivas, e permanece uma referência sobre o tema. Não é livro para ler de ponta a ponta: rende mais consultado capítulo a capítulo, ao lado da leitura dos clássicos e dos autores que os retomaram.
 
 ## Fatos
 

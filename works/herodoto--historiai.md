@@ -31,7 +31,9 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Também direta do grego e com muitas notas, mas dividida em nove volumes, e talvez ainda não publicada por inteiro."}
+  - {edition: "Edipro, trad. Maria Aparecida de Oliveira Silva", note: "Direta do grego e muito anotada pela pesquisadora Maria Aparecida de Oliveira Silva, mas em nove volumes, e o último ainda não saiu confirmadamente."}
+  - {edition: "Fondazione Lorenzo Valla/Mondadori, Le Storie, 9 vols.", note: "Edição italiana de referência, com o grego ao lado e comentário amplo de especialistas, mas em nove volumes caros e importados."}
+  - {edition: "Edições 70 (Lisboa), equipe da Universidade de Coimbra", note: "Tradução direta e anotada por professores de Coimbra, mas em português de Portugal e ainda sem todos os nove livros publicados."}
 ---
 
 ## Sobre a obra

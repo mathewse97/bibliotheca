@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: osborne--greece-in-the-making
-    why: "O original em inglês, na 2ª edição (2009), reescrita pelo próprio autor. Não há tradução em português, e a única tradução existente, em espanhol, é da versão anterior."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "O original inglês na 2ª edição, de 2009, reescrita por Robin Osborne, professor de história antiga em Cambridge, com a arqueologia mais recente. Em inglês, pois não há tradução em português."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: La formación de Grecia, Crítica (Barcelona), 1998."
     translator: []
     translated_from: null
     source_text: null

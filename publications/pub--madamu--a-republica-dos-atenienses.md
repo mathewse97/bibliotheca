@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--athenaion-politeia
-    why: "Tradução recente de Denis Correa, especialista nesta obra, feita direto do grego, com introdução que situa o texto e notas. Ainda não foi comparada a fundo com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução recente de Denis Correa, professor da UFRB que pesquisa esta obra, feita direto do grego, com introdução e notas que explicam as reformas e as instituições da democracia ateniense. Saiu com o título A República dos Atenienses."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Gulbenkian, 2003, trad. Delfim Ferreira Leão; Hucitec, 1995, trad. Francisco Murari Pires."
     translator: [denis-correa]
     translated_from: direct
     source_text: null

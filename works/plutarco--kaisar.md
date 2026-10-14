@@ -42,6 +42,9 @@ derived_from:
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "BUR, Alessandro e Cesare, trad. Domenico Magnino", note: "Edição italiana com o grego ao lado e notas de Barbara Scardigli, mas em italiano e sem volume equivalente confirmado para Demóstenes."}
+  - {edition: "Paumape, 1992, trad. Gilson César Cardoso", note: "Edição brasileira antiga, só usada, sem avaliação acadêmica que confirme a qualidade da tradução."}
 ---
 
 ## Sobre a obra

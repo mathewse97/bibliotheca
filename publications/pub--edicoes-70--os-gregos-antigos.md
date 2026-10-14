@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: finley--the-ancient-greeks
-    why: "A única tradução em português, de Artur Morão, revista por um especialista em Grécia antiga. É português de Portugal. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Única tradução em português, de Artur Morão, revista por José Ribeiro Ferreira, professor de grego da Universidade de Coimbra. É português de Portugal e tem pequenas imprecisões em nomes de povos, sem prejudicar a leitura."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: The Ancient Greeks, Penguin, 1963/1977 (original inglês)."
     translator: [artur-morao]
     translated_from: null
     source_text: null

@@ -34,6 +34,8 @@ provenance_note: "Autoria ampliada em 2026-09-12: a edição da Wiley-Blackwell
                   Petrovic e Ivana Petrovic como coautores. Isso é propriedade
                   da OBRA nesta edição, não só da publicação."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Ancient Greek Religion, 2ª ed., Blackwell, 2010", note: "Edição anterior, sem os dois capítulos novos e a bibliografia atualizada da 3ª edição."}
 ---
 
 ## Sobre a obra

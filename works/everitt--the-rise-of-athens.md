@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "The Rise of Athens, Random House, 2016 (original inglês)", note: "O original inglês não traz nada a mais para um livro de divulgação já bem servido em português."}
 ---
 
 ## Sobre a obra

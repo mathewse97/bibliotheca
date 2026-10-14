@@ -31,6 +31,8 @@ derived_from:
          pesquisa seria inventar."
   import_note: "Volume COLETIVO. Finley é organizador, não autor: cada ensaio tem autor próprio. Registrado como uma obra editada enquanto os ensaios individuais não forem pesquisados — o que está declarado, não resolvido."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "The Legacy of Greece, Oxford, 1981 (original inglês)", note: "O original inglês também está esgotado e não traz nada a mais que justifique deixar a tradução brasileira."}
 ---
 
 ## Sobre a obra

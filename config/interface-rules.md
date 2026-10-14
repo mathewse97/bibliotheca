@@ -231,7 +231,9 @@ tela; o código não garantia.
   Avaliações acadêmicas, Síntese, Lugar na biblioteca, Edições, Revisões e
   notas de modelo continuam no arquivo como registro e nunca vão para a tela.
 - **O texto é escrito para o leitor**: duas a quatro frases dizendo o que a
-  obra é, do que trata e, quando estabelecido, como é vista. Sem "Mathews",
+  obra é, do que trata e, quando estabelecido, como é vista. Quando ajuda,
+  diz também como a obra se lê (de ponta a ponta, por consulta, aos poucos),
+  pedido do Mathews de 2026-10-14. Sem "Mathews",
   sem "registro", "pesquisa", "lista", "veredito", "portão", sem ids, nomes de
   campo, parágrafos de regra ou datas de trabalho. Não fala de edições (isso é
   o `why` da publicação, §9). Nada inventado: o que não se sabe fica de fora.

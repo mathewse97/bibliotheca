@@ -31,6 +31,9 @@ derived_from:
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Perspectiva, trad. Trajano Vieira", note: "Recriação em verso das três peças por Trajano Vieira, professor de grego da Unicamp; esgotada na editora, só se acha usada."}
+  - {edition: "Loeb Classical Library, trad. Hugh Lloyd-Jones", note: "Grego e inglês lado a lado, por Hugh Lloyd-Jones, professor de grego em Oxford; em inglês, importada e com poucas notas."}
 ---
 
 ## Sobre a obra

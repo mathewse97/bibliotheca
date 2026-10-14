@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: burkert--griechische-religion
-    why: "A única tradução em português, de M. J. Simões Loureiro. É português de Portugal; ainda não foi comparada a fundo com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Única tradução em português do manual clássico de Walter Burkert sobre a religião grega, feita por M. J. Simões Loureiro para a Fundação Calouste Gulbenkian. É português de Portugal e pode ser preciso comprar usada."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Greek Religion, Blackwell/Harvard, 1985, trad. John Raffan; La religión griega, Abada (Madri), 2007."
     translator: [simoes-loureiro]
     translated_from: direct
     source_text: null

@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Rome: An Empire's Story, 2ª ed., Oxford, 2022", note: "Edição revista e ampliada pelo autor em 2022, mas só existe em inglês."}
+  - {edition: "Roma: A história de um império, Cultrix, 2017, trad. Mário Molina", note: "Tradução brasileira de Mário Molina, à venda nova, mas da 1ª edição, de 2012, anterior à revisão e ampliação feitas pelo autor em 2022."}
 ---
 
 ## Sobre a obra

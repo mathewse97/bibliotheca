@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: vernant--mythe-et-religion-en-grece-ancienne
-    why: "A tradução brasileira mais recente, feita direto do francês por Joana Angélica D'Avila Melo, e à venda nova."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Joana Angélica D'Avila Melo, direta do francês, da introdução curta de Jean-Pierre Vernant aos deuses, ritos e mitos gregos. À venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: O mito e a religião na Grécia Antiga, Teorema (Lisboa), 1991, trad. Telma Costa."
     translator: [davila-melo]
     translated_from: direct
     source_text: null

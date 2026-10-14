@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: epicteto--encheiridion
-    why: "Traduzida direto do grego por Aldo Dinucci e Alfredo Julien, com trechos das Diatribes. Ainda não foi comparada com outras edições; os mesmos tradutores têm uma edição com o grego ao lado e comentário, e a escolha entre as duas está em aberto."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Aldo Dinucci, professor da Universidade Federal de Sergipe e especialista em estoicismo, e de Alfredo Julien, feita direto do grego. Traz junto trechos das Diatribes, as aulas de Epicteto de onde o Manual foi resumido. Sem o grego ao lado."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com a edição bilíngue e comentada dos mesmos tradutores (Imprensa da Universidade de Coimbra / Annablume, 2014), que ele não encontrou à venda."
     translator: [dinucci, julien]
     translated_from: direct
     source_text: null

@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Eneida brasileira, Ateliê/Unicamp, trad. Odorico Mendes", note: "A tradução histórica de Odorico Mendes, importante, mas num português muito difícil de ler hoje."}
-  - {edition: "Quetzal, 2022, trad. Frederico Lourenço", note: "Tradução excelente de Frederico Lourenço, mas em português de Portugal e sem o latim ao lado."}
+  - {edition: "Cotovia (Lisboa), 2020, trad. Carlos Ascenso André", note: "Tradução recente em verso de Carlos Ascenso André, especialista em latim da Universidade de Coimbra, com introdução e notas, mas em português de Portugal e importada."}
+  - {edition: "Eneida brasileira, Ateliê/Unicamp, trad. Odorico Mendes", note: "A tradução histórica de Odorico Mendes, bem anotada, mas num português do século XIX muito difícil de ler hoje."}
 ---
 
 ## Sobre a obra

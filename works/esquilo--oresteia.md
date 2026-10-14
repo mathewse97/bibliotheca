@@ -93,6 +93,8 @@ derived_from:
          nulo de propósito."
 updated: 2026-09-27
 editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Zahar, trad. Mário da Gama Kury", note: "Oréstia de Mário da Gama Kury, direta do grego, em um volume e fácil de ler, mas sem o grego ao lado."}
+  - {edition: "Perspectiva, trad. Trajano Vieira", note: "Agamêmnon recriado em verso por Trajano Vieira, professor de grego da Unicamp; traz só a primeira das três peças."}
   - {edition: "Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério", note: "Em português de Portugal e toda em prosa, inclusive as partes cantadas, que no original são poesia."}
 ---
 

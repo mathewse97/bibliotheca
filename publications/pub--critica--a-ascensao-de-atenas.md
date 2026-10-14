@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: everitt--the-rise-of-athens
-    why: "A única tradução em português, de Thereza Christina Rocque da Motta, à venda nova. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Thereza Christina Rocque da Motta, completa e à venda nova, da história de Atenas narrada por Anthony Everitt para o leitor geral."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: The Rise of Athens, Random House, 2016 (original inglês)."
     translator: [rocque-motta]
     translated_from: direct
     source_text: null

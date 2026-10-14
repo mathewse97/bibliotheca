@@ -40,6 +40,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23. A autoria de Ésquilo é discutida pelos estudiosos — a verificar no §E."
 updated: 2026-09-23
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Zahar, trad. Mário da Gama Kury", note: "Prometeu acorrentado traduzido por Mário da Gama Kury, direto do grego e fluente, mas sem o grego ao lado e sem as outras três peças."}
+  - {edition: "Perspectiva, 1997, trad. Trajano Vieira", note: "Prometeu recriado em verso por Trajano Vieira, professor de grego da Unicamp; traz só esta peça de Ésquilo."}
 ---
 
 ## Sobre a obra

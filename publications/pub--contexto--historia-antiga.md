@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: guarinello--historia-antiga
-    why: "O livro foi escrito em português, então não há tradução a avaliar; esta é a edição da Contexto, fácil de comprar nova."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Livro escrito em português por Norberto Luiz Guarinello, professor de história antiga da USP, que repensa como se conta a história do mundo mediterrâneo. Edição única da Contexto, à venda nova."
+    verdict: recommended
+    reason: "Livro escrito em português: não há tradução a comparar. Mantida por decisão do Mathews em 2026-10-14."
     translator: []
     translated_from: null
     source_text: null

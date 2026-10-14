@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora 34, 2010, Medeia, trad. Trajano Vieira", note: "Medeia traduzida por Trajano Vieira, professor de grego da Unicamp, também com o grego ao lado; boa opção, mas avulsa, só esta peça."}
+  - {edition: "Zahar, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, direta do grego e fácil de ler, num volume com Medeia, Hipólito e As Troianas, mas sem o grego ao lado."}
 ---
 
 ## Sobre a obra

@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Dictionnaire de la mythologie grecque et romaine, PUF (original francês)", note: "O original francês não acrescenta verbetes; a tradução portuguesa serve para consulta."}
 ---
 
 ## Sobre a obra

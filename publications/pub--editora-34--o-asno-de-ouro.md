@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: apuleio--metamorphoses-asinus-aureus
-    why: "Tradução de Ruth Guimarães feita direto do latim, com o texto latino ao lado para conferir o original e notas de Adriane da Silva Duarte. Ainda não foi comparada a fundo com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução da escritora Ruth Guimarães, feita direto do latim e elogiada por sua fidelidade, com o texto latino ao lado para conferir e apresentação de Adriane da Silva Duarte, professora da USP."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Cotovia (Lisboa), 2007, trad. Delfim Ferreira Leão; Appris, 2020, trad. Sandra Braga Bianchet."
     translator: [ruth-guimaraes]
     translated_from: direct
     source_text: null

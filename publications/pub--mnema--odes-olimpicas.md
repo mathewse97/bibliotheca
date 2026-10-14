@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: pindaro--olympionikai
-    why: "Tradução completa das Odes Olímpicas, feita direto do grego por Robert de Brose, especialista em Píndaro, com notas. É a única tradução brasileira completa e anotada delas."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução completa das Odes Olímpicas feita direto do grego por Robert de Brose, professor de grego que estuda Píndaro há anos, com introdução, notas que explicam mitos e alusões, e as biografias antigas do poeta."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Kotter, 2018, trad. Roosevelt Rocha; 7 Letras, 2016, trad. Glória Braga Onelley e Shirley Peçanha."
     translator: [de-brose]
     translated_from: direct
     source_text: null

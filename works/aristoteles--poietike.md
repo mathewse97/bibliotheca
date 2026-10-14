@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Fundação Calouste Gulbenkian, trad. Ana Maria Valente", note: "Tradução de Ana Maria Valente, cuidadosa e de perfil universitário, mas em português de Portugal e sem o texto grego ao lado."}
-  - {edition: "Globo, trad. Eudoro de Sousa", note: "Tradução de Eudoro de Sousa com longo comentário que explica o texto, mas é uma edição antiga."}
+  - {edition: "Fundação Calouste Gulbenkian, trad. Ana Maria Valente", note: "Tradução de Ana Maria Valente, cuidadosa e de perfil universitário, mas importada de Portugal e sem o texto grego ao lado."}
+  - {edition: "Globo, trad. Eudoro de Sousa", note: "Tradução de Eudoro de Sousa com longo comentário que explica o texto, mas é uma edição antiga, difícil de achar."}
 ---
 
 ## Sobre a obra

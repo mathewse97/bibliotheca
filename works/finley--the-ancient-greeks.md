@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "The Ancient Greeks, Penguin, 1963/1977 (original inglês)", note: "O original inglês evita pequenas falhas da tradução, mas também só se acha usado e não traz conteúdo a mais."}
 ---
 
 ## Sobre a obra

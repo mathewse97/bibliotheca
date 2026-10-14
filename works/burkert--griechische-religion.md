@@ -31,7 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Abada (Madri), 2007", note: "Tradução em espanhol."}
+  - {edition: "Greek Religion, Blackwell/Harvard, 1985, trad. John Raffan", note: "A versão inglesa mais citada, de John Raffan; fica como alternativa se a edição portuguesa for difícil de achar."}
+  - {edition: "La religión griega, Abada (Madri), 2007", note: "Tradução espanhola recente e resenhada, mas sem vantagem sobre a portuguesa."}
 ---
 
 ## Sobre a obra
