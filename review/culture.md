@@ -611,3 +611,26 @@ Vargas Llosa: a coleção lê pela **tradução da Objetiva** (`publication_pref
 A capa não aparecia porque havia duas edições sem preferência nem veredito, e
 a regra de exibição (build.py) não escolhe entre elas sozinha. `verdict`
 continua `unassessed` nas duas.
+
+---
+
+# 14 · Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
+
+| nível | obras |
+|---|---|
+| A | *Poética*, Hume, Burke, Kant (*Crítica da Faculdade do Juízo*), Nietzsche (*Genealogia da Moral*), Weber (*A Ética Protestante*), Freud, Adorno e Horkheimer |
+| B | Scruton, Vieira de Mello, Gregory, Han (*Sociedade do Cansaço*) |
+| C | Suassuna (introdução, fica como porta de entrada), Vargas Llosa, Lobo (2026, sem recepção ainda), Han (*A Crise da Narração*) |
+
+**Achados:**
+
+1. **Falta o clássico sobre a própria pergunta da coleção**: T. S. Eliot,
+   *Notas para a Definição de Cultura* (1948), sobre como a cultura se
+   transmite (pela família, pelas classes, pelas regiões) e o que acontece
+   quando essa transmissão se rompe. Cartão `d-cult-adler-eliot`.
+2. Os diagnósticos contemporâneos (Vargas Llosa, Scruton, Lobo, Han ×2) são
+   muitos para o peso que têm, mas cada um aponta uma causa diferente, que é o
+   que a parte II discute. Sem cartão. O ensaio de Julio Lobo, de 2026, ainda
+   não passou pelo teste do tempo; reavaliar quando houver recepção.

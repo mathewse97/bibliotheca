@@ -388,6 +388,59 @@ items:
   candidates:
     - {title: "Da Natureza das Coisas", author: "Tito Lucrécio Caro · c. 55 a.C.", verdict: resolve, best: true, adds: "O epicurismo inteiro, em poema: átomos, a alma mortal, por que não temer a morte nem os deuses.", facts: ["Parte de filosofia romana, antes de Cícero", "-Edição em português a verificar"]}
 
+# Auditoria pela pirâmide de Adler, 2026-10-14 — obras que faltam.
+
+- id: d-rel-adler-classicos
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: "review/religion.md, auditoria pela pirâmide de Adler"
+  question: "Incluir em Religião os três clássicos que fundaram o estudo moderno da religião?"
+  why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são livros que se releem, e a coleção hoje lê os herdeiros sem os fundadores."
+  options:
+    - {key: A, recommended: true, title: "Incluir os três", effect: "Entram na parte de teoria, antes de Eliade: Otto, Durkheim e James. Eu pesquiso as edições em português."}
+    - {key: B, title: "Incluir só Otto e Durkheim", effect: "Os dois de que Eliade e Berger dependem diretamente. William James fica para depois."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: D, title: "Descartar", effect: "A teoria da coleção fica sem os fundadores; a questão é arquivada."}
+  recommendation: "cada um abre um dos três caminhos que a coleção já segue: a sociologia (Durkheim, depois Weber e Berger), a fenomenologia (Otto, depois Eliade) e a psicologia (James, que hoje não tem representante). Os três têm tradução em português."
+  candidates:
+    - {title: "O Sagrado", author: "Rudolf Otto · 1917", verdict: resolve, best: true, adds: "A experiência do sagrado como algo que atrai e aterroriza ao mesmo tempo. Eliade abre *O Sagrado e o Profano* citando este livro.", facts: ["Curto", "-Edição a pesquisar"]}
+    - {title: "As Formas Elementares da Vida Religiosa", author: "Émile Durkheim · 1912", verdict: resolve, best: true, adds: "A religião como forma de a sociedade representar a si mesma, estudada a partir dos povos aborígenes da Austrália.", facts: ["Longo", "-Edição a pesquisar"]}
+    - {title: "As Variedades da Experiência Religiosa", author: "William James · 1902", verdict: resolve, adds: "A experiência religiosa estudada pela psicologia: conversão, misticismo, santidade.", facts: ["Longo", "-Edição a pesquisar"]}
+
+- id: d-edu-adler-emilio
+  kind: obra
+  collections: [education]
+  priority: media
+  state: decidir
+  source: "review/education.md §10"
+  question: "Incluir em Educação o *Emílio*, de Jean-Jacques Rousseau?"
+  why: "*Emílio, ou Da Educação* (1762) é o livro que funda a educação centrada na criança e no seu desenvolvimento natural. A coleção tem John Dewey, que herda essa ideia, e Mortimer Adler e E. D. Hirsch, que a combatem, mas não a voz original. O século XVIII já aparecia como ausência no mapa da coleção."
+  options:
+    - {key: A, recommended: true, title: "Incluir o *Emílio*", effect: "Entra na parte sobre as posições em disputa, antes de Dewey. Eu pesquiso a edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A posição progressista fica representada só por Dewey; a questão é arquivada."}
+  recommendation: "pelo critério de Adler, a fonte vem antes dos herdeiros. Com o *Emílio*, Dewey passa a ser lido como continuação de uma tradição, e não como ponto de partida."
+  candidates:
+    - {title: "Emílio, ou Da Educação", author: "Jean-Jacques Rousseau · 1762", verdict: resolve, best: true, adds: "A educação de um menino imaginário, do nascimento à idade adulta, longe da sociedade e segundo a natureza.", facts: ["Longo", "+Há tradução em português"]}
+
+- id: d-cult-adler-eliot
+  kind: obra
+  collections: [culture]
+  priority: media
+  state: decidir
+  source: "review/culture.md §14"
+  question: "Incluir em Cultura as *Notas para a Definição de Cultura*, de T. S. Eliot?"
+  why: "A pergunta da coleção é o que é a cultura e como ela se transmite, se degrada ou se perde. O livro clássico sobre exatamente isso é o do poeta T. S. Eliot, de 1948: a cultura como modo de vida inteiro, transmitido pela família, pelas classes e pelas regiões, e o que acontece quando essa transmissão se rompe. Os diagnósticos que a coleção traz depois (Roger Scruton, Mario Vargas Llosa) dialogam com ele."
+  options:
+    - {key: A, recommended: true, title: "Incluir as *Notas para a Definição de Cultura*", effect: "Entra na primeira parte da coleção, a que pergunta o que é a cultura. Eu pesquiso a edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A questão é arquivada."}
+  recommendation: "é o livro que responde de frente à pergunta da coleção, curto e escrito por um dos grandes poetas do século XX. Roger Scruton escreveu muito sobre Eliot e retoma as suas ideias."
+  candidates:
+    - {title: "Notas para a Definição de Cultura", author: "T. S. Eliot · 1948", verdict: resolve, best: true, adds: "O que é cultura, como ela se transmite e por que não pode ser planejada.", facts: ["Curto", "+Há tradução em português"]}
+
 # ============================== ESCOLHER EDIÇÃO =============================
 
 - id: d-ed-republica
@@ -1440,6 +1493,78 @@ items:
     - {key: C, title: "Manter como está", effect: "Nada muda."}
     - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
   recommendation: "a pergunta de Greco-Romana é como a cultura grega se formou e foi herdada. Campbell responde a outra pergunta, sobre o que todos os mitos teriam em comum, e essa pergunta já tem lugar em Religião."
+
+- id: d-rel-adler-panoramas
+  kind: colecao
+  collections: [religion]
+  priority: baixa
+  state: decidir
+  source: "review/religion.md, auditoria pela pirâmide de Adler"
+  question: "Dois panoramas gerais de Religião repetem o papel da *História das Crenças* de Eliade: deixar como leitura complementar?"
+  why: "A coleção abre com quatro panoramas antes de qualquer fonte: os três volumes da *História das Crenças e das Ideias Religiosas*, de Mircea Eliade, *Uma História de Deus*, de Karen Armstrong, e o manual *História das Religiões Mundiais*, de John B. Noss e sucessores. Os dois últimos são introduções de divulgação e repetem, em versão mais leve, o papel da obra de Eliade."
+  options:
+    - {key: A, recommended: true, title: "Os dois viram leitura complementar", effect: "Ficam na coleção, marcados como opcionais. A sequência principal começa pela obra de Eliade."}
+    - {key: B, title: "Só o manual de Noss vira complementar", effect: "*Uma História de Deus* continua como passo, por tratar só das três religiões abraâmicas."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "são boas portas de entrada e por isso não devem sair; como passos obrigatórios, fazem ler três vezes o mesmo panorama antes de chegar às fontes."
+  candidates:
+    - {title: "Uma História de Deus", author: "Karen Armstrong · 1993", adds: "A ideia de Deus no judaísmo, no cristianismo e no islã, em divulgação fluida e de tese.", facts: ["-Divulgação"]}
+    - {title: "História das Religiões Mundiais", author: "John B. Noss e sucessores · 1949, edições revistas", adds: "Manual universitário que apresenta as grandes tradições uma a uma.", facts: ["-Manual introdutório"]}
+
+- id: d-edu-adler-fontes
+  kind: colecao
+  collections: [education]
+  priority: alta
+  state: decidir
+  source: "review/education.md §10"
+  question: "Trazer para Educação *A República*, de Platão, e a *Política*, de Aristóteles, que já estão na biblioteca?"
+  why: "A coleção conta dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Dois dos textos que fundaram esse ideal já estão na biblioteca, em outras coleções: *A República*, em que Platão desenha a educação dos guardiões da cidade (livros II, III e VII, com a alegoria da caverna), e a *Política*, em que Aristóteles trata da educação dos cidadãos (livros VII e VIII). Entrariam como participação: nada a comprar."
+  options:
+    - {key: A, recommended: true, title: "Trazer os dois", effect: "Entram no começo da coleção, antes de Henri-Irénée Marrou, com indicação dos livros que tratam de educação."}
+    - {key: B, title: "Trazer só *A República*", effect: "O texto mais influente sobre educação na Antiguidade entra; a *Política* fica só em Política e Greco-Romana."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "Marrou e Werner Jaeger estudam exatamente estes textos. Com eles na coleção, você lê a fonte antes do estudo, e sem gastar nada. Não substitui o cartão sobre *A Doutrina Cristã*, de Agostinho, que traz a tradição cristã."
+  candidates:
+    - {title: "A República", author: "Platão · séc. IV a.C.", verdict: resolve, best: true, adds: "A educação dos guardiões pela música e pela ginástica, e a subida do filósofo da caverna ao sol.", facts: ["+Já na biblioteca", "Livros II, III e VII"]}
+    - {title: "Política", author: "Aristóteles · séc. IV a.C.", verdict: resolve, adds: "A educação como tarefa da cidade, e o que ensinar aos jovens.", facts: ["+Já na biblioteca", "Livros VII e VIII"]}
+
+- id: d-sob-adler-repetidos
+  kind: colecao
+  collections: [survival-self-sufficiency]
+  priority: baixa
+  state: decidir
+  source: "review/survival-self-sufficiency.md §9"
+  question: "Três manuais de Sobrevivência que repetem outros ou servem pouco ao Brasil: deixar como consulta complementar?"
+  why: "Pelo critério de Adler para livros práticos, um manual vale se é aplicável e se cumpre uma função que nenhum outro da coleção cumpre. Três ficam fracos nesse teste: o guia de ervas de David Hoffmann, britânico, ao lado do livro técnico de plantas medicinais brasileiras de Harri Lorenzi e F. J. Abreu Matos; o *Mini Manual de Técnica Escutista*, português, que resume o que Dave Canterbury e Humberto Costa ensinam por inteiro; e *Strategic Relocation*, de Joel Skousen, cujas análises de região são só da América do Norte."
+  options:
+    - {key: A, recommended: true, title: "Os três viram consulta complementar", effect: "Ficam na coleção e na biblioteca, marcados como opcionais."}
+    - {key: B, title: "Tirar os três da coleção", effect: "Saem de Sobrevivência; os registros continuam na biblioteca, sem coleção."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois. Se quiser decidir um a um, responda dizendo quais."}
+  recommendation: "nenhum é ruim, mas os três são reserva, não base. No livro de Skousen, os critérios para escolher onde morar continuam úteis no Brasil, e vale lê-los."
+  candidates:
+    - {title: "O Guia Completo das Plantas Medicinais", author: "David Hoffmann", adds: "Ervas e seus usos, em ordem alfabética, a partir da tradição britânica.", facts: ["-Plantas de outro clima"]}
+    - {title: "Mini Manual de Técnica Escutista", author: "Miguel Lontro e Pedro Monteiro · 2012", adds: "Técnicas básicas de campo em formato de bolso.", facts: ["-Resume outros dois manuais"]}
+    - {title: "Strategic Relocation", author: "Joel M. Skousen", adds: "Como escolher onde morar segundo os riscos de cada região.", facts: ["-Análises só da América do Norte", "+Critérios gerais úteis"]}
+
+- id: d-ane-adler-fontes
+  kind: colecao
+  collections: [ancient-near-east-egypt]
+  priority: alta
+  state: decidir
+  source: "review/ancient-near-east-egypt.md, auditoria pela pirâmide de Adler"
+  question: "Dar ao Oriente Próximo e Egito antigos as suas próprias fontes?"
+  why: "A coleção pergunta como funcionavam o Estado, a sociedade, a escrita e a crença dessas civilizações, e responde só com historiadores modernos: nenhum texto da época. Duas fontes já estão na biblioteca, na coleção Religião: a *Epopeia de Gilgámesh* e o *Enuma Elish*, o poema babilônico da criação. Para o Estado e a sociedade falta uma: o *Código de Hamurábi*, rei da Babilônia por volta de 1750 a.C., o mais célebre conjunto de leis da Antiguidade."
+  options:
+    - {key: A, recommended: true, title: "Trazer *Gilgámesh* e *Enuma Elish* e incluir o *Código de Hamurábi*", effect: "As duas primeiras entram na parte sobre escrita, crença e mito, sem compra; o Código entra na parte sobre Estado e sociedade, e eu pesquiso a edição."}
+    - {key: B, title: "Só trazer *Gilgámesh* e *Enuma Elish*", effect: "Nada a comprar; o Código fica para depois."}
+    - {key: C, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+  recommendation: "pelo critério de Adler, quem estuda uma civilização lê o que ela escreveu, não só o que se escreveu sobre ela. Gilgámesh e o Enuma Elish já estão na sua biblioteca; o Código de Hamurábi é curto e tem edições em português."
+  candidates:
+    - {title: "Epopeia de Gilgámesh", author: "anônimo, versão babilônica", verdict: resolve, best: true, adds: "O rei que busca a imortalidade; inclui o relato do dilúvio.", facts: ["+Já na biblioteca"]}
+    - {title: "Enuma Elish", author: "anônimo, Babilônia", verdict: resolve, best: true, adds: "A criação do mundo e a ascensão de Marduk, deus da Babilônia.", facts: ["+Já na biblioteca"]}
+    - {title: "Código de Hamurábi", author: "Hamurábi, rei da Babilônia · c. 1750 a.C.", verdict: resolve, adds: "Cerca de 280 leis sobre propriedade, família, comércio e punições, gravadas numa estela de pedra.", facts: ["Curto", "-Edição a pesquisar"]}
 
 # ============================== CONFIRMAR POSIÇÃO ===========================
 

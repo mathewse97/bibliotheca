@@ -754,3 +754,32 @@ consegui consultar — Bruno Alexander fica como informado por você.
 - O salto cronológico que motivou a lacuna continua visível no movimento I:
   Newman não está na cadeia histórica, está no VII. E o século XVIII
   (`iluminismo-seculo-xviii`) continua sem obra própria.
+
+---
+
+# 10 · Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
+
+| nível | obras |
+|---|---|
+| A | Dewey, Newman, *Como Ler Livros* |
+| B | Marrou, Jaeger (*A Inveja dos Anjos*), Hirsch, *Proposta Paideia*, McLuhan, Miriam Joseph, Illich, Weber (*A Ciência como Vocação*), Dehaene, *Fixe o Conhecimento* |
+| C | Nunes ×4 (série narrativa, fica pelo fio que dá à parte histórica), Ozmon e Craver (manual que mapeia as posições), Bauer e Wise, Ahrens |
+
+**Achados:**
+
+1. **A coleção percorre o ideal clássico sem nenhum dos seus textos
+   fundadores, e dois deles já estão na biblioteca:** *A República*, de Platão
+   (a educação dos guardiões nos livros II, III e VII), e a *Política*, de
+   Aristóteles (a educação, nos livros VII e VIII). Entram como participação,
+   sem compra. Cartão `d-edu-adler-fontes`.
+2. **Falta o *Emílio*, de Rousseau (1762)**, o texto que funda a educação
+   centrada na criança, de que Dewey descende. Já estava anotado como ausência
+   na região do Iluminismo (§3) e preterido por Newman na lacuna g02, que
+   pedia a defesa da tradição; aqui o papel é outro: a voz original da posição
+   que Adler e Hirsch combatem. Cartão `d-edu-adler-emilio`.
+3. **Já em cartão e confirmado:** um texto em que o ideal clássico é praticado
+   (`d-edu-fonte`, Agostinho, *A Doutrina Cristã*).
+4. Sem redundância que justifique cartão: os quatro volumes de Ruy Afonso da
+   Costa Nunes formam uma só narrativa.

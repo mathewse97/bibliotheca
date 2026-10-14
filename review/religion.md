@@ -877,3 +877,30 @@ de varejo.
 - **Cruzando o Limiar da Esperança — EM ABERTO**: você vai procurar outra
   edição. A Francisco Alves ISBN-10 8526503146 (1994, 210 p.) não foi
   registrada: preço inviável no anúncio (R$ 1.371).
+
+---
+
+## Auditoria pela pirâmide de Adler — 2026-10-14
+
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
+
+| nível | obras |
+|---|---|
+| A | *Gilgámesh*, *Enuma Elish*, Bíblia, Evangelhos, *Dhammapada*, Weber (*A Ética Protestante*) |
+| B | Eliade (*História das crenças* I–III, *Tratado*, *O Sagrado e o Profano*), Berger, Taylor, Bottéro, Finkelstein e Römer, Smith, Kugel, Vermes, Rahula, *Corpus Hermeticum*, cartas de Francisco Xavier |
+| C | Armstrong, Noss e Grangaard, Dicionário Eliade-Culianu (consulta legítima), Shaw, Kaefer, Ehrman, Jefferson, João Paulo II, *Tábua de Esmeralda*, Campbell |
+
+**Achados:**
+
+1. **Faltam os três clássicos fundadores do estudo da religião**, que a parte de
+   teoria pressupõe: Émile Durkheim, *As Formas Elementares da Vida Religiosa*
+   (1912), origem da sociologia da religião de que Berger descende; Rudolf Otto,
+   *O Sagrado* (1917), de que Eliade parte em *O Sagrado e o Profano*; e William
+   James, *As Variedades da Experiência Religiosa* (1902), a psicologia da
+   experiência religiosa. Cartão `d-rel-adler-classicos`.
+2. **Panoramas que repetem o papel da História de Eliade:** Karen Armstrong e o
+   manual de Noss e Grangaard. Cartão `d-rel-adler-panoramas`.
+3. **Já em cartão e confirmados pelo critério:** o peso de Eliade sem
+   contestação (`d-rel-eliade`), as religiões específicas que só têm budismo
+   (`d-rel-especificas`) e o movimento de cristianismo sem Padres da Igreja,
+   escolástica nem Reforma (`d-rel-cristianismo`).

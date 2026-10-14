@@ -36,6 +36,7 @@ interface — 12 itens. Os que têm consequência estrutural:
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
 | Auditoria de Política pela pirâmide de Adler: duas saídas, duas trocas e três grupos com redundância | cartões `d-pol-adler-*`; registro em `review/political-thought.md` §10 | 2026-10-14 |
 | Auditoria de Greco-Romana pela pirâmide de Adler: tragédias de Eurípides, quatro introduções repetidas, Campbell e a lacuna de Lucrécio | cartões `d-greco-adler-*`; registro em `review/greco-roman.md` §9 | 2026-10-14 |
+| Auditoria das outras cinco coleções: clássicos fundadores em Religião, fontes em Educação e Oriente Próximo, Eliot em Cultura, manuais repetidos em Sobrevivência | cartões `d-rel-adler-*`, `d-edu-adler-*`, `d-cult-adler-eliot`, `d-sob-adler-repetidos`, `d-ane-adler-fontes`; registros nas revisões de cada coleção | 2026-10-14 |
 
 **Regra de edições, combinada em 2026-10-10:** com a edição escolhida, as
 alternativas saem do registro. Ficam só: volumes da mesma edição; edição que
@@ -51,7 +52,7 @@ Teatro completo VI da Editora 34.
 
 - **Pirâmide de Adler** (`config/curation-rules.md` §2.9): toda obra precisa de
   um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
-  as outras seis coleções, uma por vez, a pedido dele.
+  feitas as sete coleções (2026-10-14).
 - **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
   Feito (2026-10-14): todas as 231 obras. Obra nova entra com Como ler
   junto de Sobre a obra.
