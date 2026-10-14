@@ -34,8 +34,8 @@ source_of_record: voce
 contains:
   - work: ibn-khaldun--muqaddimah
     why: "A única tradução completa em português feita direto do árabe, por José e Angelina Bierrenbach Khoury, com introdução de Jamil Almansur Haddad. É de 1958 e só se acha usada."
-    verdict: unassessed
-    reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-ibn-khaldun, opção recomendada A): única tradução portuguesa integral e direta do árabe."
+    verdict: recommended
+    reason: "Melhor em português, não a melhor acadêmica: a referência acadêmica é a tradução inglesa de Franz Rosenthal (Princeton), considerada no cartão d-ed-ibn-khaldun e não registrada. Só se acha usada e cara. Decisão do Mathews em 2026-10-10 (cartão d-ed-ibn-khaldun, opção recomendada A): única tradução portuguesa integral e direta do árabe."
     translator: [khoury, angelina-khoury]
     translated_from: direct
     source_text: null

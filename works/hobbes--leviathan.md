@@ -29,6 +29,8 @@ derived_from:
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
 updated: 2026-10-14
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edipro, trad. Daniel Moreira Miranda", note: "Outra tradução brasileira, de Daniel Moreira Miranda, à venda nova; sem o texto estabelecido nem o aparato de Richard Tuck."}
 ---
 
 ## Sobre a obra

@@ -33,8 +33,8 @@ source_of_record: voce
 contains:
   - work: dostoievski--besy
     why: "Sua indicação, confirmada: tradução de Paulo Bezerra, descrita por estudiosos como a única feita direto do russo, e não de outra tradução. Bezerra traduziu mais de quarenta obras russas. Fácil de comprar nova."
-    verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Editora 34, trad. Paulo Bezerra); localizada e registrada em 2026-10-09."
+    verdict: recommended
+    reason: "Veredito formal em 2026-10-14: comparada com as outras traduções em português (Rachel de Queiroz, José Olympio, 1951, feita do francês; Aguilar, 1963, feita do inglês; Sétimo Selo, 2023, sem tradutor nem língua de partida identificados), é a única feita direto do russo. Indicação do Mathews, localizada em 2026-10-09."
     translator: [paulo-bezerra]
     translated_from: direct
     source_text: null
