@@ -48,7 +48,7 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Trotta e Cátedra (espanhol)", note: "Também traduzidas direto do acádio, mas em espanhol e com menos notas e comentário."}
   - {edition: "Library of Babylonian Literature, Bloomsbury, 2024", note: "Em inglês, com a versão do texto mais atualizada pelos estudiosos; serve de complemento para estudo, não de leitura principal."}
@@ -57,6 +57,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Poema babilônico anônimo da criação, composto em acádio no segundo milênio a.C., com datação debatida. Narra a origem dos deuses, o combate de Marduk contra Tiamat e a criação do mundo a partir do corpo dela, culminando na exaltação de Marduk como rei dos deuses e na fundação da Babilônia. É uma fonte central para conhecer a cosmologia mesopotâmica.
+
+## Como ler
+
+- **A pergunta:** como o mundo passou do caos à ordem, e por que Marduk, o deus da Babilônia, reina sobre os outros deuses?
+- **Onde está o centro:** o começo, com as águas primordiais, Apsu (a água doce) e Tiamat (a água salgada); a guerra entre os deuses jovens e Tiamat; a vitória de Marduk, que parte o corpo dela ao meio e faz dele o céu e a terra; a criação dos homens para servir aos deuses; e a lista final dos cinquenta nomes de Marduk.
+- **Postura:** É um poema que era recitado nas festas de ano novo da Babilônia, e tem também função política: exaltar o deus da cidade. Leia comparando com o primeiro capítulo do Gênesis e com a *Teogonia* de Hesíodo, que contam a origem do mundo de outros modos.
 
 ## Fatos
 

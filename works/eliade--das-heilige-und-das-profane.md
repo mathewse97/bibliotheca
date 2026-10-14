@@ -48,12 +48,18 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio de Mircea Eliade publicado primeiro em alemão, em 1957. Em formato breve, sintetiza sua interpretação da experiência religiosa a partir da oposição entre sagrado e profano, examinando o espaço e o tempo sagrados, a natureza e a existência do homem religioso. É uma das introduções mais conhecidas ao pensamento do autor.
+
+## Como ler
+
+- **A pergunta:** como o homem religioso vive o espaço, o tempo e a natureza de um modo diferente do homem moderno sem religião?
+- **Onde está o centro:** os quatro capítulos: o espaço sagrado (o templo como centro do mundo); o tempo sagrado e os mitos (a festa que repete a origem); a natureza como sagrada; e a existência humana santificada, com os ritos de passagem.
+- **Postura:** É curto e acessível, uma síntese das ideias de Mircea Eliade. Leia como teoria a avaliar: Eliade generaliza muito, e os estudiosos criticam a ideia de um homem religioso universal. Os exemplos vêm de muitas culturas; anote os que se repetem.
 
 ## Fatos
 

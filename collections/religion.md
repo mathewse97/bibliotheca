@@ -396,8 +396,8 @@ sequence:
   - work: biblia       # entrada 30 da lista dele
     role: primary-source
     demand: exigente
-    why_here: null                 # ele não escreveu justificativa para esta entrada
-    why_here_by: null
+    why_here: "A fonte das tradições judaica e cristã, que as obras vizinhas da coleção estudam por fora: pela arqueologia, pela história e pela crítica dos textos. Leia buscando como os livros foram compostos e reunidos, e confira na própria fonte o que Israel Finkelstein, Thomas Römer, Mark Smith e James Kugel dizem dela."
+    why_here_by: claude            # 2026-10-14: a entrada estava sem texto
     perspective: null
     subjects_stated: []
     note: "Obra de CONSULTA, não leitura corrida: 2208 páginas. O uso

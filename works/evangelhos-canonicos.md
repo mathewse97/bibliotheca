@@ -42,7 +42,7 @@ derived_from:
          `missing`."
 
 provenance: []
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Bíblia de Jerusalém, Paulus", note: "Tem notas excelentes, mas a tradução foi feita por uma equipe e segue uma orientação religiosa; a escolhida, de Frederico Lourenço, explica o texto sem tomar partido."}
 ---
@@ -50,6 +50,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Os quatro evangelhos do Novo Testamento — Mateus, Marcos, Lucas e João —, escritos em grego no século I d.C. Narram a vida, os ensinamentos, a morte e a ressurreição de Jesus, e são as fontes centrais para o estudo histórico e literário do cristianismo das origens.
+
+## Como ler
+
+- **A pergunta:** quem foi Jesus, e o que cada evangelista quis dizer sobre ele?
+- **Onde está o centro:** Marcos, o mais antigo e o mais curto; Mateus, com o Sermão da Montanha (capítulos 5 a 7); Lucas, com as parábolas do bom samaritano e do filho pródigo; e João, diferente dos outros três, com o prólogo sobre o Verbo. Em todos, os relatos da paixão e da ressurreição.
+- **Postura:** Leia cada evangelho inteiro e de uma vez, como uma obra com autor e intenção próprios, e não como trechos soltos. Compare os três primeiros, chamados sinóticos porque contam muitas cenas em comum, e repare no que cada um muda.
 
 ## Fatos
 

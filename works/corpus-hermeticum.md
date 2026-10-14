@@ -49,7 +49,7 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Hermetica, trad. Brian Copenhaver, Cambridge, 1992", note: "A tradução de referência entre estudiosos, em inglês, que inclui também o Asclépio; serve como complemento, não como leitura principal."}
   - {edition: "Corpus Hermeticum, Hemus", note: "Traduzida de outra tradução, e não do grego, e incompleta."}
@@ -58,6 +58,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Coletânea anônima de tratados gregos, escritos provavelmente entre os séculos II e III d.C. e atribuídos ficticiamente ao lendário Hermes Trismegisto. Em forma de diálogos e revelações, trata de Deus, do cosmo, da alma e da salvação pelo conhecimento, misturando elementos platônicos, estoicos e religiosos do Egito helenístico. Traduzido para o latim por Marsilio Ficino no século XV, exerceu grande influência no pensamento do Renascimento.
+
+## Como ler
+
+- **A pergunta:** como a alma humana, presa ao corpo, pode conhecer Deus e voltar a ele?
+- **Onde está o centro:** o tratado I, *Poimandres*, em que um ser divino revela a criação do mundo e do homem e o caminho de volta da alma; e o tratado XIII, sobre o renascimento espiritual.
+- **Postura:** São tratados gregos dos primeiros séculos depois de Cristo, atribuídos ao mítico Hermes Trismegisto. No Renascimento foram tidos por antiquíssimos, até que o erudito Isaac Casaubon mostrou, em 1614, que eram tardios. Leia como documento do pensamento religioso do fim da Antiguidade, em que se misturam filosofia platônica, religião egípcia e ideias próximas do cristianismo.
 
 ## Fatos
 
