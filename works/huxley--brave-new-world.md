@@ -48,7 +48,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-09-28
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Biblioteca Azul, 2014, trad. Lino Vallandro e Vidal de Oliveira", note: "A tradução antiga, pela qual o livro foi lido no Brasil por décadas; ficou de fora por não trazer os textos de apoio."}
 ---
@@ -56,6 +56,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Romance distópico de Aldous Huxley, publicado em 1932. Imagina uma sociedade mundial estável em que as pessoas são produzidas em laboratório, condicionadas desde o nascimento e mantidas satisfeitas pelo consumo, pelo sexo e por uma droga, o soma. É a distopia do controle brando, pelo prazer e pelo conformismo, em contraste com as do terror, e um dos romances mais lidos do século XX.
+
+## Como ler
+
+- **A pergunta:** e se a dominação não precisasse de violência, porque as pessoas aprenderam a amar a própria servidão?
+- **Onde está o centro:** os primeiros capítulos mostram a fabricação de pessoas e o condicionamento; a chegada de John, o Selvagem, criado fora do sistema, abre o confronto; e a conversa dele com o Administrador Mustafá Mond, nos capítulos 16 e 17, é o coração filosófico do livro.
+- **Postura:** É um romance de ideias, e se lê de uma vez. Compare com *1984*, de George Orwell: lá o controle é pelo medo, aqui pelo prazer e pelo consumo.
 
 ## Fatos
 

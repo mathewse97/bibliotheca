@@ -91,7 +91,7 @@ derived_from:
          Greco-Romana. Os campos preenchidos em 2026-09-27 são produto de
          pesquisa, com fonte em `provenance`; o que continua nulo continua
          nulo de propósito."
-updated: 2026-09-27
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Zahar, trad. Mário da Gama Kury", note: "Oréstia de Mário da Gama Kury, direta do grego, em um volume e fácil de ler, mas sem o grego ao lado."}
   - {edition: "Perspectiva, trad. Trajano Vieira", note: "Agamêmnon recriado em verso por Trajano Vieira, professor de grego da Unicamp; traz só a primeira das três peças."}
@@ -101,6 +101,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Trilogia trágica de Ésquilo encenada em 458 a.C., formada por *Agamêmnon*, *Coéforas* e *Eumênides*; é a única trilogia grega que sobreviveu inteira e a última obra do autor. Acompanha o ciclo de vinganças na casa dos Atridas, do assassinato de Agamêmnon por Clitemnestra à vingança de Orestes. Termina com a fundação de um tribunal, o Areópago, que substitui a vingança privada pela justiça de uma instituição que julga.
+
+## Como ler
+
+- **A pergunta:** como se sai de um ciclo de vingança, em que cada morte exige outra?
+- **Onde está o centro:** são três peças em sequência. *Agamêmnon*: o rei volta de Troia e é morto pela esposa. *Coéforas*: o filho, Orestes, mata a mãe para vingar o pai. *Eumênides*: Orestes é julgado num tribunal criado pela deusa Atena, em Atenas. A última peça é a que responde à pergunta.
+- **Postura:** Leia as três em ordem, como uma obra só. O coro carrega boa parte do sentido e é o trecho mais difícil: vale reler os cantos corais devagar.
 
 ## Fatos
 

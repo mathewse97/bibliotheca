@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: criticizes
+    target: platao--politeia
+    note: "O primeiro volume inteiro é um ataque a *A República*, lida por Popper como projeto de sociedade fechada. Ler Platão antes muda a leitura de Popper."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

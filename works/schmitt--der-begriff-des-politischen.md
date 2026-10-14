@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Vozes, 1992, trad. Álvaro Valls", note: "Tradução de Álvaro Valls, a mais citada no Brasil, mas esgotada e sem as notas sobre as três versões do texto."}
   - {edition: "Del Rey, 2008", note: "Tradução de Geraldo de Carvalho, à venda nova e com a Teoria do partisan junto; não se sabe de que língua foi traduzida nem se é fiel."}
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Ensaio do jurista alemão Carl Schmitt, publicado em 1927 e revisto em 1932 e 1933. Sustenta que o político se define pela distinção entre amigo e inimigo, e critica o liberalismo por tentar dissolver o conflito em economia e discussão parlamentar. É uma das obras mais influentes e controversas do pensamento político do século XX.
+
+## Como ler
+
+- **A pergunta:** o que é o político, aquilo que o distingue da moral, da economia e do direito?
+- **Onde está o centro:** os primeiros capítulos, com a distinção entre amigo e inimigo como critério do político (o inimigo público, não o pessoal); e depois a crítica do liberalismo, que, segundo Schmitt, tenta dissolver o político em discussão e comércio.
+- **Postura:** É um ensaio curto e retoricamente forte, e se lê inteiro. Leia como argumento a avaliar com cuidado: Schmitt aderiu ao nazismo em 1933, e o livro é discutido tanto pelos que o combatem quanto pelos que aproveitam o seu diagnóstico do liberalismo.
 
 ## Fatos
 

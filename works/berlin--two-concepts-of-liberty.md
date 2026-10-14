@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Estudos sobre a humanidade, Companhia das Letras, 2002", note: "Antologia ampla de ensaios de Berlin, que traz este, mas não a resposta dele às críticas; também esgotada."}
 ---
@@ -36,6 +36,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Conferência de Isaiah Berlin pronunciada em Oxford em 1958 e depois publicada como ensaio. Distingue a liberdade negativa, ausência de interferência alheia, da liberdade positiva, ser senhor de si, e adverte que esta última pode ser usada para justificar a coerção em nome de um eu verdadeiro. Defende o pluralismo dos valores, que podem ser incompatíveis entre si. É um dos textos mais discutidos da filosofia política do século XX.
+
+## Como ler
+
+- **A pergunta:** o que significa ser livre: não sofrer interferência, ou ser senhor de si mesmo?
+- **Onde está o centro:** a distinção entre liberdade negativa (o espaço em que ninguém me impede) e liberdade positiva (o governo de si); o argumento de que a liberdade positiva, levada ao extremo, serviu para justificar a coerção "para o bem" das pessoas; e o final, sobre o pluralismo de valores.
+- **Postura:** É curto e se lê inteiro, devagar. Berlin não diz que a liberdade positiva é falsa, só que é mais fácil de perverter. Rende mais depois de *Sobre a Liberdade*, de John Stuart Mill, e do *Contrato Social*, de Jean-Jacques Rousseau, que ele discute.
 
 ## Fatos
 

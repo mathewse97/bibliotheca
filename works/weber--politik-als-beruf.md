@@ -28,7 +28,7 @@ relations:
             à separação; era para isso que ela existia."}
 
 provenance: []
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 2003, trad. Maurício Tragtenberg", note: "Tradução de Maurício Tragtenberg revista por um especialista em alemão, mas traz só esta conferência."}
   - {edition: "Martin Claret, 2015, trad. Marco Antônio Casanova", note: "Tradutor experiente do alemão, mas a edição não foi confirmada."}
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Conferência de Max Weber proferida em Munique e publicada em 1919. Define o Estado pelo monopólio do uso legítimo da violência, distingue tipos de dominação legítima e discute o que a política exige de quem a pratica, opondo a ética da convicção à ética da responsabilidade. É um dos textos mais citados da teoria política do século XX.
+
+## Como ler
+
+- **A pergunta:** o que é o Estado, e que tipo de pessoa pode fazer da política uma profissão sem perder a eficácia nem a consciência?
+- **Onde está o centro:** o começo (o Estado como monopólio da violência física legítima, e os três tipos de dominação legítima: tradicional, carismática e legal) e o final (a ética da convicção e a ética da responsabilidade, e a política como uma perfuração lenta de tábuas duras).
+- **Postura:** É uma conferência de 1919, feita a estudantes em Munique logo depois da derrota alemã, e se lê inteira. O meio, sobre a história dos partidos e dos políticos profissionais, é o trecho mais datado e pode ser lido mais depressa.
 
 ## Fatos
 

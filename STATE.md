@@ -53,7 +53,13 @@ Teatro completo VI da Editora 34.
   um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
   as outras seis coleções, uma por vez, a pedido dele.
 - **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
-  Piloto em três obras; as demais entram aos poucos, começando pelas de nível A.
+  Feito: as 29 obras de nível A de Política (2026-10-14). Próximo lote: as de
+  nível A de Greco-Romana, depois as outras coleções.
+- **Tipo de cada obra** (`config/vocabularies.yaml`, `work_type`): as 230
+  classificadas em 2026-10-14; 13 casos duvidosos listados no próprio
+  vocabulário.
+- **Por que está aqui** (`config/interface-rules.md` §14): diz também o que
+  buscar na obra naquela coleção; 20 textos vazios reescritos.
 
 ---
 

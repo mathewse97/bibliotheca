@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Coletânea de ditos e diálogos de Confúcio (551–479 a.C.) e de seus discípulos, reunida por seguidores nas gerações posteriores à sua morte. Em aforismos breves, expõe uma concepção de ordem moral e política fundada na virtude, no estudo, no ritual e no exemplo do governante. É o texto central da tradição confuciana e uma das obras mais influentes do pensamento chinês.
+
+## Como ler
+
+- **A pergunta:** como se governa bem: pela força e pela lei, ou pelo exemplo de quem governa?
+- **Onde está o centro:** não há sequência de argumento: são ditos curtos, em vinte livros. O centro está nos conceitos que voltam o tempo todo: a humanidade ou benevolência (*ren*), os ritos e as formas corretas de conduta (*li*), o homem nobre pela virtude e não pelo nascimento (*junzi*) e a correção dos nomes.
+- **Postura:** Leia aos poucos, poucos ditos por vez, anotando os conceitos que se repetem; o sentido vem da soma. Notas ou uma boa introdução ajudam, porque muitos ditos supõem o contexto da China antiga.
 
 ## Fatos
 

@@ -49,7 +49,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Discurso Editorial / Barcarolla, 2009", note: "Tradução de Guido Antônio de Almeida com o alemão ao lado, mas na versão de 2009, sem as correções que ele fez em 2025; só se acha usada."}
   - {edition: "Edições 70, trad. Paulo Quintela", note: "A tradução clássica de Paulo Quintela, também usada em cursos, mas em português de Portugal e com menos introdução e notas nas edições baratas."}
@@ -59,6 +59,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Immanuel Kant publicada em 1785, em alemão, que funda a moral na razão prática: uma ação tem valor moral pelo princípio que a governa, não por suas consequências. Daí formula o imperativo categórico, a autonomia da vontade e o princípio de tratar a humanidade sempre também como fim, nunca apenas como meio. É um dos textos centrais da ética moderna e o ponto de partida de boa parte da filosofia moral e política posterior, inclusive de Rawls.
+
+## Como ler
+
+- **A pergunta:** o que torna uma ação moralmente boa, e de onde vem a obrigação moral?
+- **Onde está o centro:** a seção I (a boa vontade e o dever); a seção II (o imperativo categórico e as suas fórmulas: agir só segundo a regra que se possa querer como lei para todos, e tratar a humanidade sempre como fim, nunca só como meio); e a seção III (a liberdade como autonomia).
+- **Postura:** É curto e difícil, com vocabulário próprio: leia uma seção por vez e reconstrua cada passo com palavras suas. Nesta biblioteca, ele prepara a leitura de *Uma Teoria da Justiça*, de John Rawls, que se apoia nele.
 
 ## Fatos
 

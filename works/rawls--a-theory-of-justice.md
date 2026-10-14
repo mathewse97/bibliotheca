@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: influenced_by
+    target: kant--grundlegung-zur-metaphysik-der-sitten
+    note: "Rawls apresenta a posição original como uma interpretação procedimental da autonomia kantiana: as pessoas como fins, escolhendo princípios como seres livres e iguais."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:
@@ -28,7 +33,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martins Fontes, 1997, trad. Almiro Pisetta e Lenita Esteves", note: "Tradução de Almiro Pisetta e Lenita Esteves, feita sobre o texto de 1971, antes das revisões que Rawls considerou definitivas."}
   - {edition: "Editorial Presença (Lisboa)", note: "Tradução de Carlos Pinto Correia, em português de Portugal."}
@@ -37,6 +42,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de filosofia política de John Rawls, publicada em 1971 e revista pelo autor nos anos seguintes. Por meio da posição original e do véu de ignorância, propõe a justiça como equidade: princípios que garantem liberdades básicas iguais e só admitem desigualdades que beneficiem os menos favorecidos. É considerada a obra que renovou a filosofia política de língua inglesa no século XX.
+
+## Como ler
+
+- **A pergunta:** que princípios de justiça pessoas livres e iguais escolheriam se não soubessem o lugar que ocupariam na sociedade?
+- **Onde está o centro:** a parte I, sobretudo os capítulos 1 a 3: a posição original e o véu de ignorância, e os dois princípios (liberdades básicas iguais para todos; desigualdades só quando beneficiam os menos favorecidos). As partes II e III aplicam e defendem a teoria.
+- **Postura:** É longo e argumentado passo a passo: leia a parte I com atenção e consulte o resto. Rawls escreve contra o utilitarismo e se apoia em Immanuel Kant. A resposta mais conhecida é *Anarquia, Estado e Utopia*, de Robert Nozick.
 
 ## Fatos
 

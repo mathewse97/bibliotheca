@@ -19,7 +19,12 @@ research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
 obsidian_notes: []
 
-relations: []
+relations:
+  - type: responds_to
+    target: esquilo--oresteia
+    note: "Recontam o mesmo mito, e Eurípides responde a Ésquilo de forma direta: a cena em que Electra reconhece o irmão zomba dos sinais de reconhecimento usados nas *Coéforas*."
+    by: claude
+    proposed: 2026-10-14
 provenance: []
 
 derived_from:

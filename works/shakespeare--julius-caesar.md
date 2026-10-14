@@ -41,12 +41,18 @@ derived_from:
   note: "Não veio de lista de bootstrap. Entrou em 2026-09-28, depois da
          pesquisa do lote 3 e da sua decisão de adquirir as duas caixas da
          Nova Fronteira."
-updated: 2026-09-28
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de William Shakespeare, datada em geral de 1599 e publicada apenas no Primeiro Fólio de 1623. Encena a conspiração contra César e suas consequências: Brutus mata pelo que César poderia vir a ser, e a peça não decide se ele é herói ou vilão. O discurso de Marco Antônio diante do corpo de César é um exemplo célebre de retórica capaz de virar uma multidão.
+
+## Como ler
+
+- **A pergunta:** é legítimo matar um governante pelo que ele poderia vir a se tornar?
+- **Onde está o centro:** o monólogo de Bruto no ato II, em que ele decide matar César não pelo que César fez, mas pelo que poderia fazer; e, no ato III, o assassinato e os dois discursos fúnebres, o de Bruto e o de Marco Antônio, que vira a multidão.
+- **Postura:** Leia de uma vez, como teatro, e compare os dois discursos do ato III: um argumenta, o outro manipula. O título engana: o centro da peça é Bruto, e César morre na metade.
 
 ## Fatos
 

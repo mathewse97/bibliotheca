@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tratado de Montesquieu publicado em 1748. Estuda as leis em relação ao clima, aos costumes, à religião, ao comércio e às formas de governo, que classifica em república, monarquia e despotismo. Sua defesa da separação dos poderes teve grande influência nas constituições modernas.
+
+## Como ler
+
+- **A pergunta:** por que cada povo tem as leis que tem, e que arranjo das instituições preserva a liberdade?
+- **Onde está o centro:** os livros I a VIII (os três governos, república, monarquia e despotismo, e o princípio que move cada um: a virtude, a honra e o medo); o livro XI (a constituição da Inglaterra e a separação dos poderes); e o livro XIX (o espírito geral de uma nação).
+- **Postura:** A obra é muito longa, em livros curtos e capítulos às vezes de uma linha: leia por partes. Montesquieu observa e compara mais do que deduz de princípios; anote as relações que ele estabelece entre clima, costumes, comércio e leis.
 
 ## Fatos
 

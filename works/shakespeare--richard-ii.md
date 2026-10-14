@@ -46,12 +46,18 @@ derived_from:
   note: "Não veio de lista de bootstrap. Entrou em 2026-09-28, depois da
          pesquisa do lote 3 e da sua decisão de adquirir as duas caixas da
          Nova Fronteira."
-updated: 2026-09-28
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Peça histórica de William Shakespeare, impressa ainda em vida do autor. Ricardo, rei por direito, governa de modo que muitos o veem como tirano e, ao confiscar a herança de Bolingbroke, destrói a regra de sucessão que sustenta o próprio trono; o primo o depõe e precisa então fundar uma legitimidade nova. A cena da deposição foi suprimida das primeiras impressões e só apareceu na edição de 1608.
+
+## Como ler
+
+- **A pergunta:** o que resta da autoridade de um rei legítimo quando ele governa mal, e alguém pode depô-lo?
+- **Onde está o centro:** o ato III, quando Ricardo volta da Irlanda e desmorona diante da revolta de Bolingbroke; a cena da deposição no ato IV, em que o próprio rei entrega a coroa; e o monólogo de Ricardo na prisão, no ato V.
+- **Postura:** É uma peça histórica, toda em verso: leia de uma vez, como teatro. Repare no contraste: Ricardo fala como rei ungido por Deus, e Bolingbroke age quase sem discursar. A peça abre a série de Shakespeare sobre as guerras que essa deposição desencadeia.
 
 ## Fatos
 

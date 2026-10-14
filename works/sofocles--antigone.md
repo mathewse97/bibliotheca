@@ -74,7 +74,7 @@ derived_from:
          pesquisa, com fonte em `provenance`; o que continua nulo continua
          nulo de propósito."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-27
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Perspectiva, trad. Trajano Vieira", note: "Recriação em verso das três peças por Trajano Vieira, professor de grego da Unicamp; esgotada na editora, só se acha usada."}
   - {edition: "Penguin-Companhia, 2023, trad. Lawrence Flores Pereira", note: "A Antígona mais elogiada, traduzida direto do grego por Lawrence Flores Pereira, professor da UFSM; vem sozinha, sem as outras duas peças."}
@@ -84,6 +84,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tragédia grega de Sófocles, encenada provavelmente na década de 440 a.C. Antígona desafia o decreto de Creonte, rei de Tebas, para dar sepultura ao irmão Polinices, opondo a lei da cidade às leis não escritas dos deuses. O conflito tornou-se um dos casos clássicos da reflexão sobre direito natural e obediência civil.
+
+## Como ler
+
+- **A pergunta:** quando a lei da cidade contradiz uma lei mais alta, a quem se deve obedecer?
+- **Onde está o centro:** o confronto entre Antígona e o rei Creonte, em que ela invoca as leis não escritas dos deuses; a cena de Hêmon, filho de Creonte, que fala pela opinião da cidade; e a chegada do adivinho Tirésias.
+- **Postura:** É teatro: leia de uma vez, antes de julgar. Nenhum dos lados é simplesmente certo: Creonte defende a ordem da cidade, Antígona o dever com os mortos, e os dois são inflexíveis. É curta e se lê numa tarde.
 
 ## Fatos
 

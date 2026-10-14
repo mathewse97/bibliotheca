@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra de Santo Agostinho, escrita em latim entre 413 e 426, em resposta aos pagãos que atribuíam ao abandono dos antigos deuses o saque de Roma pelos godos em 410. Ao longo de vinte e dois livros, critica a religião e os valores romanos e desenvolve a contraposição entre a cidade terrena e a cidade de Deus, interpretando a história como o percurso dessas duas comunidades. Tornou-se uma das obras mais influentes do pensamento político e teológico cristão.
+
+## Como ler
+
+- **A pergunta:** se Roma foi saqueada mesmo cristã, o que vale a cidade dos homens, e onde está a verdadeira justiça?
+- **Onde está o centro:** os livros I a V (a resposta a quem culpou o cristianismo pelo saque de Roma em 410, e a crítica da glória romana); o livro XIV (as duas cidades, fundadas por dois amores: o amor de si até o desprezo de Deus e o amor de Deus até o desprezo de si); e o livro XIX (a paz, e a definição de povo e de república, contra a de Cícero).
+- **Postura:** A obra é enorme e cheia de digressões: leia por partes, não de ponta a ponta. Agostinho escreve como teólogo, parte da fé, e julga a política a partir dela.
 
 ## Fatos
 
