@@ -44,12 +44,18 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de 2007 de James L. Kugel, professor de literatura hebraica em Harvard e de Bíblia na Universidade Bar-Ilan. Percorre a Bíblia hebraica livro a livro, confrontando a leitura dos antigos intérpretes com os resultados da crítica moderna, sem tentar dissolver a tensão entre as duas. É ao mesmo tempo obra de divulgação de alto nível e contribuição própria do autor, cujo método vem de seus estudos sobre a tradição interpretativa antiga.
+
+## Como ler
+
+- **A pergunta:** como ler a Bíblia hebraica levando a sério tanto a leitura dos antigos intérpretes quanto a crítica moderna?
+- **Onde está o centro:** o primeiro capítulo, com as quatro suposições dos intérpretes antigos (o texto é enigmático, atual, perfeito e inspirado por Deus); e depois os capítulos que percorrem a Bíblia livro a livro.
+- **Postura:** É longo, mas cada capítulo se lê sozinho: leia com a Bíblia ao lado, no livro correspondente. James Kugel não tenta resolver a tensão entre as duas leituras, e o livro termina com essa pergunta em aberto.
 
 ## Fatos
 

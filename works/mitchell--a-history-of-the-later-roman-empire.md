@@ -34,12 +34,18 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 História do Império Romano tardio de Stephen Mitchell, publicada em 2007, que vai de Diocleciano a Heráclio (284–641). Centra-se em política, instituições e guerra. Foi saudada como o melhor panorama em um volume desses temas, embora criticada por uma abordagem político-militar mais tradicional, que lê o período mais como declínio do que como continuidade.
+
+## Como ler
+
+- **A pergunta:** como o Império Romano se reorganizou e se defendeu entre Diocleciano e Heráclio?
+- **Onde está o centro:** a narrativa política e militar, e os capítulos sobre as instituições, o exército e a Igreja.
+- **Postura:** É um manual acadêmico extenso: leia por partes e use como consulta. Lê o período mais como declínio do que como continuidade; compare com *The World of Late Antiquity*, de Peter Brown.
 
 ## Fatos
 

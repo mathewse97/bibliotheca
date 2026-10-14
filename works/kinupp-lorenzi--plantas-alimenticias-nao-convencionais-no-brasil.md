@@ -36,7 +36,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista como «PANC - Plantas Alimentícias Não Convencionais no Brasil», sem autoria. A autoria foi estabelecida pela pesquisa, não suposta."
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Instituto Plantarum, 2014", note: "A 1ª edição, de 2014, substituída pela 2ª, de 2021."}
 ---
@@ -44,6 +44,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Guia brasileiro de Valdely Ferreira Kinupp e Harri Lorenzi dedicado às plantas alimentícias não convencionais (PANC) — espécies comestíveis, nativas ou espontâneas, pouco usadas na alimentação corrente. Reúne identificação das plantas e indicações de seu uso como alimento.
+
+## Como ler
+
+- **A pergunta:** que plantas comestíveis já crescem por perto, e como usá-las na alimentação?
+- **Onde está o centro:** as fichas das plantas, com fotos para identificação e indicações de uso e preparo.
+- **Postura:** É obra de consulta: use para identificar plantas que encontrar e experimentar as receitas. Identifique sempre com segurança antes de comer: há plantas tóxicas parecidas com as comestíveis.
 
 ## Fatos
 

@@ -311,9 +311,10 @@ depois de "Sobre a obra".
 - **Nada inventado.** A pergunta central e as partes centrais são afirmações
   sobre a obra e saem da pesquisa ou de conhecimento estabelecido sobre ela.
   Sem base, a seção não é escrita.
-- **Opcional, ao contrário de "Sobre a obra".** Sem a seção, a página
-  simplesmente não a mostra; a falta não é defeito. Entra aos poucos, a
-  começar pelas obras de nível A da pirâmide (`curation-rules.md` §2.9).
+- **Toda obra tem a seção desde 2026-10-14.** Obra nova entra com "Como
+  ler" na mesma mudança que traz "Sobre a obra". Em manuais e obras de
+  consulta, a Postura diz como usar o livro (ler antes de precisar,
+  consultar na hora, praticar com instrutor).
 - **As relações continuam na lista de relações.** "Como ler" pode citar a
   relação principal ("leia depois de…"); o resto fica na lista, que é
   clicável e mostra a relação inversa na outra obra.

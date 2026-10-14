@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Hellenica, Loeb Classical Library, 2 vols., trad. Carleton L. Brownson", note: "Tem o grego ao lado, mas a tradução inglesa de Carleton L. Brownson é de 1918–1921, quase sem notas, em dois volumes."}
   - {edition: "Elleniche, BUR Rizzoli, 2002, trad. Giovanna Daverio Rocchi", note: "Tradução italiana moderna de Giovanna Daverio Rocchi, com o grego ao lado e introdução, mas importada e cara, perto de R$ 700."}
@@ -39,6 +39,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra histórica do ateniense Xenofonte que retoma a narrativa no ponto em que Tucídides a interrompe, em 411 a.C., e a leva até a batalha de Mantineia, em 362 a.C. Cobre o fim da Guerra do Peloponeso, a hegemonia espartana e a ascensão de Tebas.
+
+## Como ler
+
+- **A pergunta:** o que aconteceu na Grécia depois do ponto em que Tucídides parou, até a batalha de Mantineia?
+- **Onde está o centro:** os dois primeiros livros, que terminam a Guerra do Peloponeso; e os seguintes, sobre a hegemonia de Esparta e a ascensão de Tebas.
+- **Postura:** É história narrativa, mais simples e menos analítica que a de Tucídides; Xenofonte admirava Esparta, e isso aparece. Leia logo depois de Tucídides, para ver a continuação.
 
 ## Fatos
 

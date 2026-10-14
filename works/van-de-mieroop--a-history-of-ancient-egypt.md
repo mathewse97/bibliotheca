@@ -34,7 +34,7 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "O Egito antigo, Ciro Flamarion Cardoso, Brasiliense, 1982", note: "Livro brasileiro diferente: introdução curta, de 1982, que não cobre o assunto com a mesma amplitude nem está atualizada."}
   - {edition: "The Rise and Fall of Ancient Egypt, Toby Wilkinson, 2010", note: "Outro livro, de divulgação, contado em torno dos reis."}
@@ -44,6 +44,12 @@ editions_considered:
 ## Sobre a obra
 
 História do Egito antigo escrita em inglês pelo historiador Marc Van De Mieroop, publicada em 2011 e revista em 2021. Cobre desde as origens até o fim do uso dos hieróglifos sob o Império Romano, no século IV d.C., tratando não só dos acontecimentos políticos e culturais, mas também da vida social e econômica.
+
+## Como ler
+
+- **A pergunta:** como surgiu, funcionou e se transformou a civilização egípcia ao longo de três mil anos?
+- **Onde está o centro:** os capítulos por período, do Antigo ao Novo Império e ao Egito sob domínio estrangeiro, e as partes sobre sociedade e economia.
+- **Postura:** É um manual universitário, claro e atualizado, em inglês: leia por períodos. Repare como Marc Van De Mieroop usa os documentos da época para contar a história.
 
 ## Fatos
 

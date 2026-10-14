@@ -62,7 +62,7 @@ Coleção de livros sagrados do judaísmo e do cristianismo, composta em hebraic
 
 - **A pergunta:** como um povo entendeu a sua relação com um Deus único, ao longo de mais de mil anos de história e de escrita?
 - **Onde está o centro:** na primeira vez, não se lê de ponta a ponta. Um caminho: o Gênesis (a criação e os patriarcas); o Êxodo (a saída do Egito e a Lei no Sinai); os livros de Samuel e dos Reis; profetas como Amós e Isaías; os Salmos, Jó e o Eclesiastes; e, no Novo Testamento, os evangelhos, os Atos dos Apóstolos e a Carta aos Romanos. As introduções da edição a cada livro já são uma formação.
-- **Postura:** É uma biblioteca, não um livro: dezenas de livros de gêneros diferentes (narrativa, lei, poesia, profecia, cartas), escritos e reunidos ao longo de séculos. Leia cada livro conforme o seu gênero, com as notas. Adler trata os livros sagrados como caso à parte: quem crê os lê com fé; para estudar, leia-os como textos de história e de literatura, sem pressupor nem negar a fé.
+- **Postura:** É uma biblioteca, não um livro: dezenas de livros de gêneros diferentes (narrativa, lei, poesia, profecia, cartas), escritos e reunidos ao longo de séculos. Leia cada livro conforme o seu gênero, com as notas. Mortimer Adler trata os livros sagrados como caso à parte: quem crê os lê com fé; para estudar, leia-os como textos de história e de literatura, sem pressupor nem negar a fé.
 
 ## Fatos
 

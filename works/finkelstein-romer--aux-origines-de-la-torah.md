@@ -45,12 +45,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de 2019, escrito originalmente em francês, em forma de diálogo entre o arqueólogo Israel Finkelstein e o exegeta Thomas Römer. Os dois expõem e confrontam o que a arqueologia e a crítica bíblica dizem hoje sobre a formação do Pentateuco, composto no contexto dos impérios assírio, babilônico e persa. É uma síntese de alta divulgação, útil como introdução avançada ao tema.
+
+## Como ler
+
+- **A pergunta:** como o Pentateuco, os cinco primeiros livros da Bíblia, foi composto, segundo a arqueologia e a crítica dos textos?
+- **Onde está o centro:** o diálogo entre o arqueólogo Israel Finkelstein e o exegeta Thomas Römer sobre o contexto dos impérios assírio, babilônico e persa em que os textos foram escritos.
+- **Postura:** É alta divulgação em forma de conversa, e se lê com fluidez. Leia com a Bíblia ao lado, conferindo os trechos discutidos.
 
 ## Fatos
 

@@ -58,12 +58,18 @@ derived_from:
   collection: culture
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Ensaio de interpretação do Brasil de Mário Vieira de Mello, publicado nos anos 1960. Sustenta que a cultura brasileira se organizou sobre o estético, herdado do romantismo francês, e não sobre um compromisso ético-religioso, o que comprometeria qualquer projeto de desenvolvimento que ignore essa base.
+
+## Como ler
+
+- **A pergunta:** por que a cultura brasileira se organizou em torno do estético, e não do ético, e o que isso tem a ver com o desenvolvimento?
+- **Onde está o centro:** a tese central sobre a herança do romantismo francês e as consequências que o autor tira para o Brasil.
+- **Postura:** É um ensaio de interpretação do Brasil dos anos 1960, de tese forte: leia como argumento a avaliar, e pergunte se o diagnóstico ainda vale.
 
 ## Fatos
 

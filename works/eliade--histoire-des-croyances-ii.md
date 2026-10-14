@@ -48,12 +48,18 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Segundo volume da história das religiões de Mircea Eliade, publicado em francês em 1978. Vai do budismo de Gautama e das religiões da Índia e da China ao helenismo, ao judaísmo, às religiões de mistério e ao triunfo do cristianismo. Integra uma obra planejada em quatro volumes, dos quais Eliade concluiu três.
+
+## Como ler
+
+- **A pergunta:** como se formaram as grandes tradições religiosas entre o Buda e o triunfo do cristianismo?
+- **Onde está o centro:** os capítulos sobre o budismo, as religiões da China, o helenismo, as religiões de mistério e as origens do cristianismo.
+- **Postura:** Leia por partes, conforme a tradição que estiver estudando; não é para ler de uma vez.
 
 ## Fatos
 

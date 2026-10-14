@@ -30,12 +30,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Eurípides, do fim do século V a.C. Ifigênia, salva por Ártemis do sacrifício em Áulis, serve como sacerdotisa entre os tauros, que imolam os estrangeiros; quando Orestes e Pílades chegam ao país, irmão e irmã se reconhecem e tramam a fuga levando a estátua da deusa. É uma peça de reconhecimento e intriga com desfecho feliz, muito diferente da tragédia de catástrofe.
+
+## Como ler
+
+- **A pergunta:** irmãos separados podem se reencontrar e escapar de um destino cruel?
+- **Onde está o centro:** a situação de Ifigênia, sacerdotisa numa terra onde se sacrificam estrangeiros; a chegada de Orestes e Pílades; a cena de reconhecimento; e a fuga com a estátua de Ártemis.
+- **Postura:** É uma peça de aventura e de final feliz, muito diferente da tragédia de catástrofe. Aristóteles, na *Poética*, elogia a cena de reconhecimento desta peça. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

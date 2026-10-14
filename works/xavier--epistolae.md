@@ -46,7 +46,7 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "The Letters and Instructions of Francis Xavier, Institute of Jesuit Sources, 1992", note: "Tradução inglesa com notas, mas só traz as cartas e é em inglês."}
   - {edition: "Cartas y escritos, BAC, 1996", note: "O texto original em castelhano, com notas; só encontrado usado."}
@@ -55,6 +55,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Conjunto das cartas e instruções do missionário jesuíta Francisco Xavier, escritas entre 1535 e 1552, sobretudo em espanhol, mas também em português e latim. Registram suas missões na Índia, no Sudeste Asiático e no Japão e seu encontro com povos, culturas e religiões fora da Europa.
+
+## Como ler
+
+- **A pergunta:** como um missionário cristão do século XVI viu os povos e as religiões da Ásia?
+- **Onde está o centro:** as cartas da Índia e, sobretudo, as do Japão, onde Francisco Xavier encontrou uma cultura que admirou.
+- **Postura:** São cartas, escritas para os companheiros jesuítas e para serem lidas na Europa: leia como documento histórico, notando tanto o olhar de missionário quanto o que ele aprende com os outros.
 
 ## Fatos
 

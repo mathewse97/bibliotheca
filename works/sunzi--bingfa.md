@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "Edipro, 2021, trad. Chiu Yi Chih, bilíngue", note: "Traduzida direto do chinês, com o original ao lado, mas curta, sem notas nem comentários, e vendida como livro de lições profissionais."}
   - {edition: "The Art of War, John Minford, Penguin Classics (versão completa)", note: "O trabalho de John Minford no original em inglês, traduzido direto do chinês, com os mesmos comentários; ficou de fora por ser em inglês."}
@@ -38,6 +38,12 @@ editions_considered:
 ## Sobre a obra
 
 Tratado militar chinês atribuído a Sun Tzu, tradicionalmente situado entre os séculos VI e V a.C. Em treze capítulos breves, trata de planejamento, terreno, manobra, uso de espiões e da ideia de que a melhor vitória é a obtida sem combate. É um dos textos de estratégia mais lidos do mundo, aplicado muito além da guerra.
+
+## Como ler
+
+- **A pergunta:** como vencer um conflito, de preferência sem precisar lutar?
+- **Onde está o centro:** os treze capítulos são curtos; os mais citados são o terceiro, sobre vencer sem combater, e o último, sobre o uso de espiões.
+- **Postura:** Lê-se numa tarde, mas vale reler devagar, pois cada frase é uma máxima. Uma edição com comentários ajuda, porque o texto é conciso e cheio de imagens tiradas da China antiga.
 
 ## Fatos
 

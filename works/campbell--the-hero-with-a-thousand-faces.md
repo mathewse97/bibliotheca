@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cultrix/Pensamento, trad. Adail Ubirajara Sobral", note: "Tradução de Adail Ubirajara Sobral, feita sobre uma versão antiga do texto de Campbell, que ele depois revisou; está esgotada."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra de Joseph Campbell, publicada em inglês em 1949, que propõe, com apoio na psicanálise, um padrão comum às narrativas heroicas de diversas culturas, o monomito ou jornada do herói: partida, iniciação e retorno. Teve grande influência fora da academia, inclusive sobre roteiristas de cinema, e é discutida pelos estudiosos de mitologia comparada pela generalização que propõe.
+
+## Como ler
+
+- **A pergunta:** os mitos heroicos de todas as culturas seguem um mesmo roteiro?
+- **Onde está o centro:** a primeira parte, a aventura do herói em três etapas, a partida, a iniciação e o retorno; a segunda, sobre o ciclo cósmico, é menos lida.
+- **Postura:** Leia como hipótese a avaliar: Joseph Campbell tira exemplos de muitas culturas para mostrar um padrão, e os estudiosos o criticam por forçar mitos muito diferentes num só molde. Teste o modelo com os mitos que você já leu nas fontes.
 
 ## Fatos
 

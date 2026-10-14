@@ -80,7 +80,7 @@ derived_from:
 # — "a coleção de autossuficiência for criada" — cumpriu-se. A obra é membro de
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Guia prático ilustrado da auto-suficiência, Perspectivas & Realidades (Lisboa), 1976", note: "Tradução portuguesa antiga, de 1976, publicada em Lisboa."}
 ---
@@ -88,6 +88,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual do britânico John Seymour (1914–2004), uma das figuras de referência do movimento pela autossuficiência doméstica. Reúne num só volume o cultivo da horta e do campo, a criação de animais, a conservação de alimentos, ofícios artesanais e o aproveitamento de energia na casa, como guia prático para quem quer produzir boa parte do que consome.
+
+## Como ler
+
+- **A pergunta:** como produzir em casa boa parte do que se consome, da comida à energia?
+- **Onde está o centro:** as partes sobre a horta, os animais e a conservação de alimentos; os ofícios artesanais e a energia vêm depois.
+- **Postura:** É um guia ilustrado para consultar por assunto, não para ler de ponta a ponta. Foi escrito para o clima britânico: adapte calendários de plantio e espécies ao Brasil.
 
 ## Fatos
 

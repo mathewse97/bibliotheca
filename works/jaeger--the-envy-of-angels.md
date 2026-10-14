@@ -63,12 +63,18 @@ derived_from:
          (dentro do movimento I, logo após Nunes — Idade Média) é raciocínio
          de Claude."
 
-updated: 2026-09-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Monografia do medievalista C. Stephen Jaeger, publicada em inglês em 1994. Estuda a cultura das escolas catedrais entre 950 e 1200 e os ideais de conduta e cortesia que elas formaram antes do surgimento das universidades. É obra de referência sobre o período.
+
+## Como ler
+
+- **A pergunta:** como as escolas das catedrais medievais formavam homens antes de existirem universidades?
+- **Onde está o centro:** os capítulos sobre o ideal de conduta e de presença que essas escolas ensinavam, e sobre a passagem dessa cultura para o ensino mais intelectual das universidades.
+- **Postura:** É uma monografia acadêmica, densa e cheia de citações em latim traduzidas: leia por partes. Repare na tese de que se educava o caráter por imitação dos mestres, não só pelo estudo dos livros.
 
 ## Fatos
 

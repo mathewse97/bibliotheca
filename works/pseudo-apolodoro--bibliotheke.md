@@ -66,12 +66,18 @@ derived_from:
          `religion` (movimento VII, antes do Campbell) foi examinada e NÃO
          proposta — o movimento é hermético e a obra não pertence a essa
          tradição."
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual de mitologia grega em três livros, em grego antigo, transmitido com uma *Epítome* que preserva o fim perdido da obra. Atribuído falsamente a Apolodoro de Atenas, foi composto nos primeiros séculos da era cristã. Não é obra literária nem interpretação: é um compêndio que segue as fontes gregas e registra muitas vezes mais de uma versão da mesma história, o que o torna obra de consulta para a leitura dos poetas.
+
+## Como ler
+
+- **A pergunta:** qual é a versão antiga deste mito, e quais são as variantes?
+- **Onde está o centro:** os três livros, que vão da origem dos deuses às grandes famílias heroicas, e a *Epítome*, que conserva o fim perdido, com a guerra de Troia e os retornos.
+- **Postura:** É um compêndio de mitos, não literatura: use como consulta ao ler os poetas e os trágicos, ao lado do dicionário de Pierre Grimal.
 
 ## Fatos
 

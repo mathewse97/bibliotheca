@@ -49,7 +49,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Tempo Brasileiro, trad. Flávio R. Kothe", note: "Tradução mais antiga, de Flávio R. Kothe, também completa, mas esgotada: só se acha usada."}
 ---
@@ -57,6 +57,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Primeiro grande livro de Jürgen Habermas, publicado em alemão em 1962. Reconstrói a formação histórica de uma esfera pública burguesa de discussão argumentada — cafés, salões, imprensa, associações — e sua degradação quando a publicidade se converte em gestão da opinião pelos meios de massa e pelos interesses organizados. É obra fundadora dos estudos sobre esfera pública e democracia.
+
+## Como ler
+
+- **A pergunta:** como surgiu o debate público em que cidadãos discutem razões, e por que ele se degradou?
+- **Onde está o centro:** os capítulos sobre a formação da esfera pública burguesa nos séculos XVII e XVIII (cafés, salões, imprensa, associações) e os capítulos sobre a sua decadência, quando a opinião passa a ser fabricada pela publicidade e pelos meios de massa.
+- **Postura:** É o primeiro livro de Jürgen Habermas, denso e histórico: leia por partes. Leia buscando o ideal de debate racional que ele descreve e se esse ideal alguma vez existiu, o que os críticos discutem.
 
 ## Fatos
 

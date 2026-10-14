@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra do historiador brasileiro da educação Ruy Afonso da Costa Nunes, parte de uma série em que ele percorre a história da educação no Ocidente. Este volume trata da educação no Renascimento e do humanismo renascentista.
+
+## Como ler
+
+- **A pergunta:** o que o humanismo do Renascimento mudou na educação?
+- **Onde está o centro:** os capítulos sobre os humanistas e as suas escolas, e sobre a volta aos autores antigos.
+- **Postura:** É obra de historiador brasileiro, escrita com clareza para estudantes, e se lê por inteiro. Leia em sequência com os outros volumes de Ruy Afonso da Costa Nunes na coleção, notando o que cada época conserva e o que muda da anterior.
 
 ## Fatos
 

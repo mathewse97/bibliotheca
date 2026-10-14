@@ -35,12 +35,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista como «Dave Canterbury (manual do mundo)». «Manual do Mundo» NÃO é coautor da obra: é coautoria da adaptação brasileira, e por isso vive na publicação, não aqui."
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual de bushcraft do instrutor americano Dave Canterbury, publicado em inglês em 2014. Ensina a se manter na mata com pouco equipamento e com o que a natureza oferece: ferramentas de corte, fogo, abrigo, água, cordas e nós.
+
+## Como ler
+
+- **A pergunta:** como se manter na mata com pouco equipamento, usando o que a natureza oferece?
+- **Onde está o centro:** os cinco itens que o autor considera essenciais (a ferramenta de corte, o fogo, o abrigo, o recipiente para água e a corda) e os capítulos sobre como usá-los.
+- **Postura:** É um manual: leia inteiro em casa e pratique no campo, de preferência com alguém experiente. É escrito para as matas da América do Norte; plantas e condições diferem no Brasil.
 
 ## Fatos
 

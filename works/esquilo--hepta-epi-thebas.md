@@ -39,12 +39,18 @@ derived_from:
   collection: greco-roman
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Ésquilo encenada em 467 a.C., última peça de uma trilogia sobre a casa de Laio. Mostra Etéocles defendendo Tebas contra o ataque de sete chefes, entre eles seu irmão Polinices, e termina com os dois irmãos mortos um pela mão do outro, cumprindo a maldição sobre a família de Édipo.
+
+## Como ler
+
+- **A pergunta:** pode alguém escapar de uma maldição de família, e o que um governante deve à cidade?
+- **Onde está o centro:** os discursos em que Etéocles posta um defensor diante de cada um dos sete atacantes de Tebas, e a decisão de enfrentar ele mesmo o irmão Polinices.
+- **Postura:** É a última peça de uma trilogia cujas outras partes se perderam: leia sabendo disso. Compare com *As Fenícias*, de Eurípides, que conta a mesma guerra.
 
 ## Fatos
 

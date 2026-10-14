@@ -33,7 +33,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Itatiaia / Edusp, trad. Milton Amado", note: "Tradução de Milton Amado, a única brasileira, mas esgotada há décadas; só se acha usada, rara e cara."}
 ---
@@ -41,6 +41,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra em dois volumes de Karl Popper, publicada em 1945, em inglês. Critica o historicismo — a pretensão de conhecer as leis necessárias da história e de dirigi-la — e as filosofias que vê na raiz do totalitarismo, sobretudo Platão, Hegel e Marx. Contra elas, defende a sociedade aberta, que admite a crítica e reforma suas instituições aos poucos.
+
+## Como ler
+
+- **A pergunta:** por que tantas filosofias acabaram justificando a sociedade fechada, e o que é uma sociedade aberta?
+- **Onde está o centro:** o primeiro volume, sobre Platão; e o segundo, sobre Hegel e Marx e a crítica do historicismo, a pretensão de conhecer as leis da história.
+- **Postura:** É um livro de combate, escrito durante a Segunda Guerra: Karl Popper é duro com os autores que critica, e os especialistas em Platão contestam parte da leitura dele. Leia *A República* antes do primeiro volume.
 
 ## Fatos
 

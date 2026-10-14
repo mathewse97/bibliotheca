@@ -53,7 +53,7 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Atravessar o limiar da esperança, Planeta (Lisboa), 1994", note: "Edição de Portugal, em português europeu, e também esgotada."}
 ---
@@ -61,6 +61,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Livro de 1994 em que o papa João Paulo II responde, por escrito, às perguntas do jornalista italiano Vittorio Messori. Trata de questões centrais da fé cristã — a existência de Deus, a salvação, o mal, as outras religiões, a Igreja diante do mundo moderno — em tom pessoal e confessional. Foi um grande êxito editorial e é um dos raros textos em que um papa se expõe fora do formato dos documentos oficiais.
+
+## Como ler
+
+- **A pergunta:** como o papa responde às perguntas mais difíceis sobre a fé: Deus existe, por que o mal, o que dizer das outras religiões?
+- **Onde está o centro:** as respostas sobre a existência de Deus e o mal, sobre as outras religiões e sobre a Igreja diante do mundo moderno.
+- **Postura:** É um livro de perguntas e respostas, em tom pessoal: lê-se de uma vez ou por temas. Leia como testemunho de fé de quem a vive por dentro, o oposto dos estudos de fora que a coleção traz antes.
 
 ## Fatos
 

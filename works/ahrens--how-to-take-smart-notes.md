@@ -35,12 +35,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de Sönke Ahrens, publicado em inglês em 2017, que apresenta o método de fichas do sociólogo Niklas Luhmann, o Zettelkasten, como técnica integrada de leitura, aprendizagem e escrita. Defende que anotar com as próprias palavras e conectar as notas entre si é o que transforma a leitura em compreensão e em texto próprio.
+
+## Como ler
+
+- **A pergunta:** como transformar o que se lê em compreensão e em texto próprio, sem depender de força de vontade?
+- **Onde está o centro:** a explicação do método de fichas do sociólogo Niklas Luhmann (o Zettelkasten): notas curtas, escritas com as próprias palavras, ligadas umas às outras; e os passos práticos para montar o sistema e escrever a partir dele.
+- **Postura:** É um livro prático: leia de uma vez e comece a aplicar logo, num livro que esteja lendo. O método só faz sentido praticado; teste-o por algumas semanas antes de julgar.
 
 ## Fatos
 

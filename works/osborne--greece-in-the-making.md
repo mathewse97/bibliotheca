@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "La formación de Grecia, Crítica (Barcelona), 1998", note: "Tradução espanhola da 1ª edição, que o autor depois reescreveu; esgotada."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Livro de história do classicista britânico Robin Osborne sobre a formação da Grécia, do fim do mundo micênico, por volta de 1200 a.C., até as Guerras Médicas, em 479 a.C. Trata o período arcaico em que surgiram a pólis, a colonização e as formas da cultura grega, recorrendo amplamente às evidências arqueológicas.
+
+## Como ler
+
+- **A pergunta:** como se formou a Grécia, do fim do mundo micênico às Guerras Médicas?
+- **Onde está o centro:** os capítulos sobre o surgimento da pólis, a colonização e as formas da cultura grega no período arcaico, com ampla discussão da arqueologia.
+- **Postura:** É um livro acadêmico, exigente e cheio de evidência material: leia por partes. Repare como Robin Osborne usa a arqueologia para corrigir o que as fontes escritas dizem.
 
 ## Fatos
 

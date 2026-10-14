@@ -34,12 +34,18 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 História do império aquemênida de Maria Brosius, publicada em inglês em 2020 numa série de manuais de história antiga. Acompanha o império da fundação ao colapso diante de Alexandre, em 330 a.C., lendo criticamente as fontes gregas, que tendem a estereotipar os persas, ao lado da arqueologia e das fontes produzidas no próprio império.
+
+## Como ler
+
+- **A pergunta:** como foi o império persa visto pelas suas próprias fontes, e não só pelos gregos que o combateram?
+- **Onde está o centro:** a narrativa da fundação por Ciro até a queda diante de Alexandre; e os capítulos sobre a administração, a corte e a religião, onde a leitura crítica das fontes gregas aparece melhor.
+- **Postura:** É um manual acadêmico, claro e bem organizado: lê-se por partes. Leia em diálogo com Heródoto: aqui se vê o outro lado das Guerras Médicas.
 
 ## Fatos
 

@@ -82,12 +82,18 @@ derived_from:
          Conferi cada campo contra a página da editora brasileira e a da
          editora original antes de gravar; o que a pesquisa dele trazia e eu
          não consegui confirmar está em missing."
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de 2014 que sintetiza a psicologia cognitiva da memória para quem estuda, ensina ou treina; dois dos autores, Roediger e McDaniel, são pesquisadores experimentais da área. Argumenta que reler, sublinhar e estudar tudo de uma vez dão uma sensação de domínio que não corresponde a retenção duradoura, e que o que funciona é mais desconfortável: recuperar da memória, espaçar o estudo, intercalar assuntos e aceitar a dificuldade.
+
+## Como ler
+
+- **A pergunta:** o que de fato funciona para aprender e lembrar, e por que os métodos mais comuns enganam?
+- **Onde está o centro:** os primeiros capítulos, que mostram por que reler e sublinhar dão uma falsa sensação de domínio; os capítulos sobre recuperar da memória, espaçar e intercalar o estudo; e o capítulo final, com recomendações práticas para estudantes e professores.
+- **Postura:** É ciência explicada com exemplos: lê-se depressa. Teste as técnicas no seu próprio estudo enquanto lê, a começar por tentar lembrar o capítulo antes de passar ao seguinte.
 
 ## Fatos
 

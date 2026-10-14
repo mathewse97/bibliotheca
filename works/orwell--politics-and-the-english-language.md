@@ -28,7 +28,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Dentro da baleia e outros ensaios, Companhia das Letras, 2005", note: "Coletânea maior, organizada por Daniel Piza; provavelmente traz o ensaio, mas o índice da edição brasileira não o confirma."}
 ---
@@ -36,6 +36,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Ensaio de George Orwell publicado em 1946, em inglês. Argumenta que a decadência da linguagem — clichês, eufemismos, abstrações vagas — está ligada à decadência política, e que a prosa obscura serve para tornar defensável o indefensável. Termina com regras práticas para escrever com clareza.
+
+## Como ler
+
+- **A pergunta:** por que a linguagem política é tão vaga, e o que isso tem a ver com a política?
+- **Onde está o centro:** a análise dos cinco trechos de prosa ruim do começo; a tese de que a linguagem obscura serve para defender o indefensável; e as seis regras práticas do final.
+- **Postura:** É um ensaio curto: leia inteiro e depois aplique as regras ao que você escreve. Leia junto de *1984*, de George Orwell, que leva a mesma ideia ao extremo com a novilíngua.
 
 ## Fatos
 

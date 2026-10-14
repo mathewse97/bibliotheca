@@ -56,12 +56,18 @@ derived_from:
          pesquisa de Claude não havia alcançado confirmação tier 1-5 antes
          disso (precedência: sua palavra direta vence)."
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual brasileiro de primeiros socorros de Evandro de Sena Silva e Cláudia Conforto. Trata dos procedimentos básicos de atendimento a emergências voltados ao leigo.
+
+## Como ler
+
+- **A pergunta:** o que fazer numa emergência até a chegada de socorro?
+- **Onde está o centro:** os procedimentos básicos: avaliar a vítima, chamar ajuda, parar sangramentos, lidar com engasgos, queimaduras e fraturas.
+- **Postura:** Leia inteiro antes de precisar: numa emergência não há tempo para procurar no livro. Faça também um curso prático; a leitura sozinha não ensina a reanimação.
 
 ## Fatos
 

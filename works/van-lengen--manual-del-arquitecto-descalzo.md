@@ -36,7 +36,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência."
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Manual del arquitecto descalzo (espanhol)", note: "O original em espanhol, à venda nova, mas precisa ser importado."}
   - {edition: "The Barefoot Architect, Shelter Publications, 2008", note: "Tradução para o inglês; ficou de fora por não ser em português."}
@@ -45,6 +45,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual de construção do arquiteto neerlandês Johan van Lengen, escrito originalmente em espanhol e publicado no México. Ensina a projetar e construir moradias de baixo custo com técnicas simples e materiais locais, adaptadas ao clima de cada região.
+
+## Como ler
+
+- **A pergunta:** como construir uma casa barata, sólida e adequada ao clima, com materiais locais?
+- **Onde está o centro:** as partes sobre o planejamento conforme o clima, os materiais (terra, bambu, madeira) e as técnicas de construção, muito ilustradas.
+- **Postura:** É um manual para consultar e aplicar, não para ler de uma vez. Leia primeiro a parte de planejamento e depois os capítulos do material que tiver à mão.
 
 ## Fatos
 

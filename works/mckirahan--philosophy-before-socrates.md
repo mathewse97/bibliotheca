@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "Tradução brasileira de Eduardo Wolf Pereira, revista por Gabriele Cornelli, professor da UnB; não se confirmou se os fragmentos gregos foram vertidos do grego ou do inglês."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Introdução de Richard D. McKirahan à filosofia grega anterior a Sócrates. Reúne os fragmentos e testemunhos dos primeiros pensadores, traduzidos para o inglês, acompanhados de comentário explicativo, com abordagem mais introdutória que a obra de Kirk, Raven e Schofield.
+
+## Como ler
+
+- **A pergunta:** o que pensaram os primeiros filósofos gregos, explicado para quem está começando?
+- **Onde está o centro:** os capítulos por filósofo, cada um com os textos traduzidos e um comentário explicativo.
+- **Postura:** É uma introdução mais fácil que *Os Pré-Socráticos*, de Kirk, Raven e Schofield: leia por filósofo, primeiro os textos, depois o comentário. Está em inglês.
 
 ## Fatos
 

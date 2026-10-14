@@ -55,7 +55,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Política — Formação Geral.
          Os campos preenchidos em 2026-09-28 são produto de pesquisa, com
          fonte em `provenance`; o que continua nulo continua nulo de propósito."
-updated: 2026-09-28
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O zero e o infinito, Globo, 1987", note: "Traduzida da versão inglesa, e não do original alemão: uma tradução de tradução."}
   - {edition: "O zero e o infinito, Amarylis, 2013", note: "Ao que tudo indica, também traduzida da versão inglesa, e não do alemão; não foi verificada."}
@@ -64,6 +64,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Romance de Arthur Koestler, escrito em alemão entre 1938 e 1940 e publicado pela primeira vez em 1940. Acompanha Rubachov, velho bolchevique preso e interrogado durante os expurgos stalinistas, até a confissão de crimes que não cometeu. É uma das obras literárias centrais sobre o totalitarismo e a lógica da disciplina partidária vista de dentro.
+
+## Como ler
+
+- **A pergunta:** por que um velho revolucionário confessa crimes que não cometeu?
+- **Onde está o centro:** os três interrogatórios de Rubachov, e as suas lembranças das vezes em que ele mesmo sacrificou outros pelo partido.
+- **Postura:** Lê-se como romance, de uma vez. Repare na lógica do partido, que Rubachov aceita até o fim: o livro mostra o totalitarismo por dentro, na cabeça de quem o serviu.
 
 ## Fatos
 

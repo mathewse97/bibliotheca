@@ -45,7 +45,7 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Beacon Press; Applewood Books", note: "Trazem só o texto em inglês, sem a reprodução das páginas originais com as quatro colunas."}
 ---
@@ -53,6 +53,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Compilação feita por Thomas Jefferson por volta de 1820, a partir de recortes dos evangelhos em grego, latim, francês e inglês. Jefferson reuniu os ensinamentos morais de Jesus e deixou de fora os milagres e a ressurreição, segundo seus pressupostos racionalistas. O manuscrito só foi impresso no início do século XX e mostra como um pensador moderno reinterpretou os evangelhos.
+
+## Como ler
+
+- **A pergunta:** o que sobra dos evangelhos quando se tiram os milagres e a ressurreição?
+- **Onde está o centro:** a seleção inteira, que é curta, e sobretudo o que Thomas Jefferson deixou de fora.
+- **Postura:** Leia depois dos evangelhos, de preferência com eles ao lado, notando os cortes. O livro diz pouco sobre Jesus e muito sobre como um homem do Iluminismo leu a religião.
 
 ## Fatos
 

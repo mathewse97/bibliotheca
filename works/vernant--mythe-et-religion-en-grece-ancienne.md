@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O mito e a religião na Grécia Antiga, Teorema (Lisboa), 1991, trad. Telma Costa", note: "Tradução de Telma Costa em português de Portugal, esgotada e sem vantagem sobre a brasileira."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Estudo breve de Jean-Pierre Vernant sobre a religião grega antiga. Mostra como mitos, rituais, culto cívico e organização social formavam um conjunto inseparável, numa religião sem dogma nem igreja, integrada à vida da cidade.
+
+## Como ler
+
+- **A pergunta:** como era uma religião sem dogma, sem livro sagrado e sem igreja?
+- **Onde está o centro:** o livro inteiro, curto: mitos, rituais e culto cívico como um sistema integrado à vida da cidade.
+- **Postura:** Lê-se de uma vez, como síntese. Leia depois das introduções históricas à religião grega e antes de Paul Veyne, que leva a pergunta sobre a crença adiante.
 
 ## Fatos
 

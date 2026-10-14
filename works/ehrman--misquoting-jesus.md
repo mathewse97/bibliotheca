@@ -48,12 +48,18 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de divulgação de Bart D. Ehrman, especialista em Novo Testamento, publicado em inglês em 2005. Apresenta ao leitor comum a crítica textual: como os textos do Novo Testamento foram copiados à mão durante séculos, que tipos de alterações os copistas introduziram, por acidente ou intencionalmente, e como os estudiosos procuram reconstituir o texto mais antigo.
+
+## Como ler
+
+- **A pergunta:** o texto do Novo Testamento que lemos hoje é o que os autores escreveram?
+- **Onde está o centro:** os capítulos sobre como os livros eram copiados à mão, sobre os tipos de alteração que os copistas fizeram, por engano ou de propósito, e sobre os exemplos célebres, como a mulher adúltera no Evangelho de João.
+- **Postura:** É obra de divulgação, clara e com uma tese: Bart Ehrman enfatiza as alterações. Leia sabendo que outros especialistas avaliam o peso dessas variantes de modo diferente.
 
 ## Fatos
 

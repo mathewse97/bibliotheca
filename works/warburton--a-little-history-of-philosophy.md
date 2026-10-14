@@ -41,12 +41,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Introdução à filosofia ocidental de Nigel Warburton, publicada em inglês em 2011. Em quarenta capítulos curtos, percorre a história do pensamento de Sócrates ao século XX, apresentando cada filósofo por meio de suas ideias centrais e de sua vida.
+
+## Como ler
+
+- **A pergunta:** quais foram as grandes perguntas da filosofia ocidental, e quem as fez?
+- **Onde está o centro:** os quarenta capítulos curtos, de Sócrates ao século XX, cada um sobre um filósofo e a sua ideia central.
+- **Postura:** É uma introdução leve, que se lê um capítulo por vez, na ordem ou não. Use como mapa para escolher os filósofos que quer ler nas fontes.
 
 ## Fatos
 

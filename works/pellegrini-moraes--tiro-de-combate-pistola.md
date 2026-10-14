@@ -40,7 +40,7 @@ derived_from:
 # — "a coleção de autossuficiência for criada" — cumpriu-se. A obra é membro de
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "1ª edição", note: "A primeira edição do manual, substituída pela 2ª, de 2022."}
 ---
@@ -48,6 +48,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual brasileiro de Marcel Pellegrini e Edimar Moraes, escrito em português, sobre tiro de combate com pistola. Trata dos fundamentos e das habilidades do tiro defensivo, incluindo segurança e manuseio da arma.
+
+## Como ler
+
+- **A pergunta:** quais são os fundamentos do tiro defensivo com pistola, e como treiná-los com segurança?
+- **Onde está o centro:** os capítulos sobre segurança e manuseio da arma, e os fundamentos do tiro.
+- **Postura:** É um manual técnico: a leitura prepara, mas não substitui o treino com instrutor habilitado. Leia primeiro, e inteira, a parte de segurança.
 
 ## Fatos
 

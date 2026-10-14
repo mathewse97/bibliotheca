@@ -87,12 +87,18 @@ derived_from:
                 paginas, ISBN]
   note: "Pesquisa trazida pronta pelo Mathews e conferida por mim. A conferência
          encontrou um erro de ISBN na pesquisa dele — registrado na publicação."
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro do neurocientista francês Stanislas Dehaene, professor do Collège de France que pesquisa leitura e cognição numérica. Em vez de recomendar técnicas de estudo, explica o que o cérebro faz quando aprende e por que ainda aprende melhor, com muito menos dados, do que as máquinas inspiradas nele. Organiza a aprendizagem em quatro pilares (atenção, engajamento ativo, retorno sobre o erro e consolidação) e tira deles consequências para o ensino.
+
+## Como ler
+
+- **A pergunta:** o que o cérebro faz quando aprende, e o que isso ensina sobre como ensinar?
+- **Onde está o centro:** a terceira parte, sobre os quatro pilares da aprendizagem: a atenção, o engajamento ativo, o retorno sobre o erro e a consolidação, que acontece em boa parte durante o sono. As duas primeiras partes explicam o que é aprender e como o cérebro faz isso.
+- **Postura:** É ciência explicada por um pesquisador de primeira linha: lê-se de ponta a ponta. Leia antes de *Fixe o Conhecimento*, que traduz esses princípios em técnicas de estudo.
 
 ## Fatos
 

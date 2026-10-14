@@ -35,12 +35,18 @@ derived_from:
   collection: political-thought
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de 2018 dos cientistas políticos de Harvard Steven Levitsky e Daniel Ziblatt. Sustenta que as democracias hoje morrem menos por golpes e mais pela ação de líderes eleitos que corroem as normas informais que as sustentam, sobretudo a tolerância mútua e a contenção no uso das prerrogativas institucionais.
+
+## Como ler
+
+- **A pergunta:** como as democracias morrem hoje, se não é mais por golpes de Estado?
+- **Onde está o centro:** os quatro sinais de comportamento autoritário num político; os exemplos históricos; e o argumento sobre as duas regras não escritas que protegem a democracia: a tolerância com o adversário e a contenção no uso dos poderes do cargo.
+- **Postura:** É ciência política para o grande público, e se lê depressa. Os exemplos recentes envelhecem; o que fica é a lista de sinais e a tese sobre as regras não escritas.
 
 ## Fatos
 

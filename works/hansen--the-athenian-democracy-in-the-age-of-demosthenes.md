@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022, trad. Andrés de Francisco", note: "Boa tradução espanhola com introdução do tradutor, professor da Complutense, mas feita a partir da própria versão inglesa."}
   - {edition: "Blackwell, 1991", note: "Primeira impressão inglesa, hoje só usada; a de 1999 tem o mesmo texto e ainda está à venda."}
@@ -38,6 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Obra do historiador dinamarquês Mogens Herman Hansen, publicada em 1991. Reconstrói de modo sistemático o funcionamento da democracia ateniense no século IV a.C. — assembleia, conselho, tribunais, magistraturas e cidadania — a partir das fontes. É referência padrão sobre as instituições de Atenas.
+
+## Como ler
+
+- **A pergunta:** como funcionava, em detalhe, a democracia de Atenas no século IV a.C.?
+- **Onde está o centro:** os capítulos sobre a assembleia, o conselho, os tribunais e os magistrados, e o capítulo sobre quem era cidadão.
+- **Postura:** É uma obra de referência, para consulta: leia os capítulos conforme as instituições aparecerem em Demóstenes, na *Constituição de Atenas* ou em Plutarco. Está em inglês.
 
 ## Fatos
 

@@ -36,12 +36,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência, identificada por você como «Coleção Hipopótamo»."
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual de bolso português, de Miguel Lontro e Pedro Monteiro, publicado em 2012, que condensa as técnicas básicas de campo do escutismo.
+
+## Como ler
+
+- **A pergunta:** quais são as técnicas básicas de campo que todo escoteiro aprende?
+- **Onde está o centro:** as partes sobre nós e amarras, orientação, fogo e acampamento.
+- **Postura:** É um manual de bolso: leia inteiro uma vez, pratique, e leve na mochila para consulta. É português de Portugal; alguns termos diferem dos do Brasil.
 
 ## Fatos
 

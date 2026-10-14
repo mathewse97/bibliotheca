@@ -45,7 +45,7 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Paidós, 2019", note: "Também traduzida direto do francês, mas em espanhol."}
   - {edition: "Zahar, edição antiga em tomos", note: "A tradução de Roberto Cortes de Lacerda numa edição antiga da Zahar, dividida em tomos; só se acha usada."}
@@ -54,6 +54,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Primeiro volume da história das religiões de Mircea Eliade, publicado em francês em 1976. Percorre da pré-história às religiões da Mesopotâmia, do Egito, da Índia védica, de Israel e da Grécia, até os mistérios de Elêusis. A obra foi planejada em quatro volumes, mas Eliade morreu em 1986 tendo concluído apenas três.
+
+## Como ler
+
+- **A pergunta:** como as religiões nasceram e se transformaram, da pré-história à Grécia antiga?
+- **Onde está o centro:** os capítulos sobre as religiões da Mesopotâmia, do Egito, de Israel e da Grécia, que dialogam com as outras obras da biblioteca.
+- **Postura:** É uma obra extensa e de capítulos curtos: leia por partes, conforme a tradição que estiver estudando, e use a bibliografia comentada do fim. Mircea Eliade interpreta, além de narrar.
 
 ## Fatos
 

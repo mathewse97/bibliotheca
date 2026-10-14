@@ -42,12 +42,18 @@ derived_from:
          collections/survival-self-sufficiency.md, região
          `planejamento-risco-localizacao`."
 
-updated: 2026-09-06
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Guia em inglês de Joel M. Skousen sobre a escolha de onde morar na América do Norte em função da segurança. Avalia regiões segundo riscos geográficos, ambientais e geopolíticos, como forma de reduzir a exposição a desastres e crises.
+
+## Como ler
+
+- **A pergunta:** onde morar para estar mais seguro diante de desastres e crises?
+- **Onde está o centro:** os critérios para avaliar uma região (riscos naturais, ambientais e geopolíticos) e as análises regionais.
+- **Postura:** É um guia escrito para a América do Norte: as análises regionais não valem para o Brasil, mas os critérios sim. Leia os capítulos gerais e aplique-os ao lugar onde você vive.
 
 ## Fatos
 

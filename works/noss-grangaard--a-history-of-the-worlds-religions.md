@@ -45,12 +45,18 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Manual universitário de história comparada das religiões, iniciado por John B. Noss em 1949 com o título *Man's Religions* e continuado em sucessivas edições por David S. Noss e Blake R. Grangaard. Apresenta as principais tradições religiosas do mundo, uma a uma, em perspectiva histórica e descritiva. É obra introdutória, não de pesquisa; sua abordagem tem sido criticada por não problematizar a própria categoria de "religião".
+
+## Como ler
+
+- **A pergunta:** quais são as grandes tradições religiosas do mundo, e como cada uma se formou?
+- **Onde está o centro:** os capítulos por tradição, cada um com a história e as crenças principais.
+- **Postura:** É um manual universitário: use como mapa, lendo o capítulo da tradição antes de ir aos estudos e às fontes dela. Os críticos apontam que ele trata "religião" como uma categoria óbvia, sem discuti-la.
 
 ## Fatos
 

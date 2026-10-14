@@ -30,12 +30,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Tragédia de Eurípides encenada em 412 a.C., baseada na versão do mito segundo a qual Helena nunca esteve em Troia: os deuses enviaram para lá apenas uma imagem dela, enquanto a verdadeira esperava no Egito. A peça narra o reencontro com Menelau e a fuga do casal.
+
+## Como ler
+
+- **A pergunta:** e se a guerra de Troia tivesse sido travada por um fantasma?
+- **Onde está o centro:** a revelação de que a verdadeira Helena ficou no Egito, o reencontro com Menelau, que custa a acreditar, e o plano de fuga.
+- **Postura:** É uma peça de intriga com final feliz, quase uma comédia em alguns momentos. Repare no tema da aparência e da verdade, e na ironia: a guerra inteira foi por uma imagem. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

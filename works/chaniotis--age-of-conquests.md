@@ -34,7 +34,7 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "A History of the Hellenistic World, 323–30 BC, R. Malcolm Errington, Blackwell, 2008", note: "Outro livro, de R. Malcolm Errington, com relato político mais detalhado do mesmo período; bom para aprofundar depois."}
   - {edition: "The Greek World after Alexander, 323–30 BC, Graham Shipley, Routledge, 2000", note: "Outro livro, de Graham Shipley: boa introdução, porém mais antiga e com recorte parecido."}
@@ -43,6 +43,12 @@ editions_considered:
 ## Sobre a obra
 
 História do mundo grego de Alexandre à morte de Adriano (336 a.C.–138 d.C.), de Angelos Chaniotis, publicada em inglês em 2018. Narra os reinos sucessores e a conquista romana e trata também da sociedade, das cidades, da religião e da cultura, estendendo o período helenístico até Adriano. Foi descrita como a melhor introdução disponível ao período, embora dê pouca atenção à guerra.
+
+## Como ler
+
+- **A pergunta:** o que aconteceu ao mundo grego depois de Alexandre, até a conquista romana se completar?
+- **Onde está o centro:** a narrativa dos reinos sucessores e da expansão romana, e os capítulos sobre a sociedade, as cidades, a religião e a cultura do período.
+- **Postura:** É a melhor introdução disponível ao período, bem escrita e atualizada; lê-se por partes. Dá pouca atenção às guerras, que estão em outros livros.
 
 ## Fatos
 

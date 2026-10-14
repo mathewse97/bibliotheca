@@ -53,10 +53,8 @@ Teatro completo VI da Editora 34.
   um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
   as outras seis coleções, uma por vez, a pedido dele.
 - **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
-  Feito (2026-10-14): as obras de releitura de Política, Greco-Romana,
-  Religião, Cultura e Educação, e Como Ler Livros: 91 obras. Faltam as de
-  nível B e C (panoramas modernos, introduções, manuais), inclusive todo
-  Oriente Próximo e Egito e todo Sobrevivência.
+  Feito (2026-10-14): todas as 231 obras. Obra nova entra com Como ler
+  junto de Sobre a obra.
 - **Tipo de cada obra** (`config/vocabularies.yaml`, `work_type`): as 230
   classificadas em 2026-10-14; 13 casos duvidosos listados no próprio
   vocabulário.

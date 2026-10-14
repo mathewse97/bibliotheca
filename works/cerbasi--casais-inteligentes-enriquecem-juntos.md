@@ -41,12 +41,18 @@ derived_from:
   date: 2026-10-10
   note: "Curadoria das fotos de páginas de créditos enviadas pelo Mathews; inclusão decidida por ele."
 
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de finanças pessoais para casais do planejador financeiro Gustavo Cerbasi, publicado em 2004. Trata da organização do dinheiro a dois, do orçamento à formação de patrimônio.
+
+## Como ler
+
+- **A pergunta:** como um casal organiza o dinheiro a dois, do orçamento do mês ao patrimônio de longo prazo?
+- **Onde está o centro:** os capítulos sobre como conversar sobre dinheiro e montar o orçamento do casal, e os que tratam de poupança e investimento.
+- **Postura:** É um livro prático e rápido: leia junto com o cônjuge e aplique os exercícios. Os números e produtos financeiros citados envelhecem; os princípios ficam.
 
 ## Fatos
 

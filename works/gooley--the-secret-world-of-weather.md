@@ -48,12 +48,18 @@ derived_from:
          microclima ocorrem em qualquer lugar — inclusive numa rua de cidade —
          enquanto os outros recortes dependem de estar perto de água ou em
          rota."
-updated: 2026-09-23
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de Tristan Gooley que trata o tempo como fenômeno local e observável, não como previsão regional. Sua tese é que o clima muda a cada passo — de um lado e outro de uma árvore, de uma encosta ou de um prédio — e ensina a ler nuvens, vento e microclimas para entender o que está acontecendo e o que vem. Como os demais livros do autor, usa exemplos do hemisfério norte temperado.
+
+## Como ler
+
+- **A pergunta:** o que o tempo está fazendo agora, exatamente onde eu estou, e o que ele vai fazer nas próximas horas?
+- **Onde está o centro:** os capítulos sobre nuvens e vento, e os que mostram como o tempo muda de um lado para o outro de uma árvore, de uma encosta ou de um prédio.
+- **Postura:** Leia aos poucos e observe o céu enquanto lê. Como os outros livros de Tristan Gooley, usa exemplos do hemisfério norte temperado; adapte ao clima brasileiro.
 
 ## Fatos
 

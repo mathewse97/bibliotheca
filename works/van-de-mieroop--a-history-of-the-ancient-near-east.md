@@ -34,7 +34,7 @@ derived_from:
   date: 2026-10-13
   note: "Pesquisa pedida pelo Mathews a partir do Egito antigo; inclusão aprovada por ele em 2026-10-13."
 
-updated: 2026-10-13
+updated: 2026-10-14
 editions_considered:
   - {edition: "Historia del Próximo Oriente antiguo, Trotta (Madrid), 2ª ed. 2023", note: "Tradução para o espanhol; ficou de fora porque o original em inglês é preferível a uma tradução para outra língua estrangeira."}
 ---
@@ -42,6 +42,12 @@ editions_considered:
 ## Sobre a obra
 
 Manual de Marc Van De Mieroop sobre a história do antigo Oriente Próximo — Mesopotâmia, Anatólia, Levante e Irã — de cerca de 3000 a.C. até Alexandre, o Grande. Trata política, sociedade, economia e fontes em conjunto. É o manual padrão em inglês sobre o período.
+
+## Como ler
+
+- **A pergunta:** como surgiram e se sucederam os Estados e impérios do antigo Oriente Próximo, de cerca de 3000 a.C. a Alexandre?
+- **Onde está o centro:** os capítulos por período: das primeiras cidades da Mesopotâmia aos impérios assírio, babilônico e persa.
+- **Postura:** É o manual padrão em inglês sobre o período: leia por partes, como fio contínuo para as outras obras da coleção. Uma cronologia e um mapa ao lado ajudam a não se perder entre os reinos.
 
 ## Fatos
 

@@ -36,7 +36,7 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista. Você não indicou qual edição possui, e por isso nenhum registro de publicação foi criado."
 
-updated: 2026-09-06
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Onde não há dentista, Paulus, 1985", note: "Em português do Brasil, mas é a versão antiga, sem a revisão de 2018, e só se acha usada."}
   - {edition: "Donde no hay dentista, Hesperian, 2005", note: "Em espanhol e também sem a revisão de 2018."}
@@ -45,6 +45,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Manual de Murray Dickson publicado em 1983 pela Hesperian, organização que produz livros de saúde para comunidades sem acesso a profissionais. Ensina cuidados odontológicos básicos a quem precisa agir sem estrutura: prevenção, exame, tratamento de problemas comuns e extrações.
+
+## Como ler
+
+- **A pergunta:** como cuidar dos dentes de uma comunidade sem dentista, da prevenção à extração?
+- **Onde está o centro:** os capítulos sobre prevenção e exame da boca, e os que ensinam a tratar os problemas mais comuns.
+- **Postura:** É um manual escrito para agentes de saúde: leia as partes de prevenção e exame antes de precisar, e use o resto como consulta. Procedimentos como extrações exigem treino; o livro não substitui a prática supervisionada.
 
 ## Fatos
 

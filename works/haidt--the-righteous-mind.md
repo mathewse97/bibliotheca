@@ -59,12 +59,18 @@ derived_from:
   date: 2026-09-12
   transcribed: [title_pt, ISBN]
 
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro do psicólogo social Jonathan Haidt, publicado em inglês em 2012. Argumenta que o julgamento moral nasce primeiro da intuição, e só depois é justificado pelo raciocínio, e que as divergências políticas e religiosas refletem pesos diferentes dados a fundações morais distintas: cuidado, justiça, lealdade, autoridade, pureza e liberdade.
+
+## Como ler
+
+- **A pergunta:** por que pessoas boas discordam tanto em política e religião?
+- **Onde está o centro:** a primeira parte, com a imagem do elefante e do condutor (a intuição vem primeiro, o raciocínio justifica depois); a segunda, sobre as fundações morais; e a terceira, sobre como a moral une os grupos e ao mesmo tempo os cega.
+- **Postura:** É psicologia social escrita para o grande público, e se lê com facilidade. Leia como hipótese apoiada em pesquisa, e repare que Jonathan Haidt se coloca entre os lados que descreve.
 
 ## Fatos
 
