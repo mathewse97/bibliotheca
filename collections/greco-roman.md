@@ -436,8 +436,7 @@ sequence:
   - work: esquilo--persai
     role: primary-source
     demand: exigente
-    why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
-               tradutor e em edição bilíngue."
+    why_here: "A mais antiga peça grega conservada e a única tragédia sobre um fato recente: a derrota persa em Salamina, contada do lado dos vencidos. Leia buscando como Atenas pensa a própria vitória como castigo da desmedida do inimigo."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
@@ -445,8 +444,7 @@ sequence:
   - work: esquilo--hepta-epi-thebas
     role: primary-source
     demand: exigente
-    why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
-               tradutor e em edição bilíngue."
+    why_here: "Última peça da trilogia de Ésquilo sobre a casa de Édipo: os dois filhos dele se matam disputando Tebas. Leia buscando a maldição de família que passa de geração em geração, e compare com *As Fenícias*, de Eurípides, sobre a mesma guerra."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
@@ -454,8 +452,7 @@ sequence:
   - work: esquilo--hiketides
     role: primary-source
     demand: exigente
-    why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
-               tradutor e em edição bilíngue."
+    why_here: "As filhas de Dânao pedem asilo em Argos, e o rei só as acolhe depois de consultar o povo. Leia buscando uma das primeiras imagens da decisão coletiva no teatro e o dever sagrado de proteger quem pede abrigo."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
@@ -463,8 +460,7 @@ sequence:
   - work: esquilo--prometheus-desmotes
     role: primary-source
     demand: exigente
-    why_here: "Completa o Ésquilo da coleção além da Oresteia, no mesmo
-               tradutor e em edição bilíngue."
+    why_here: "O titã acorrentado por Zeus por ter dado o fogo aos homens. Leia buscando a pergunta sobre a justiça dos deuses e sobre o preço do saber humano. A autoria de Ésquilo é discutida pelos estudiosos."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
@@ -489,20 +485,19 @@ sequence:
   - work: sofocles--oidipous-tyrannos
     role: primary-source
     demand: exigente
-    why_here: "Entrou pela expansão do volume A Trilogia Tebana. O argumento é
-               seu e vale para as três peças; está acima, verbatim."
+    why_here: "O rei que investiga um crime e descobre que o culpado é ele mesmo. Leia buscando o tema das três peças tebanas, conhecimento e cegueira: quem vê não sabe, e o adivinho cego, que sabe, não é ouvido."
     why_here_by: claude
 
   - work: sofocles--oidipous-epi-kolonoi
     role: primary-source
     demand: exigente
-    why_here: "Idem — expansão do mesmo volume."
+    why_here: "A última peça de Sófocles, encenada depois da morte dele: Édipo, velho, cego e exilado, encontra abrigo e morte perto de Atenas. Leia buscando como o culpado se torna figura sagrada, e como Atenas trata o estrangeiro."
     why_here_by: claude
 
   - work: sofocles--antigone
     role: primary-source
     demand: exigente
-    why_here: "Idem — expansão do mesmo volume."
+    why_here: "Antígona enterra o irmão contra a ordem do rei Creonte. Nesta coleção, leia buscando o conflito entre família e cidade e entre lei divina e lei humana. Em Política, a mesma peça é lida pela pergunta sobre a legitimidade do governo."
     why_here_by: claude
 
   - work: euripides--medeia
@@ -545,16 +540,16 @@ sequence:
   #            recorrente sobre a sociedade e o indivíduo."
   # -------------------------------------------------------------------------
   - {work: euripides--herakleidai, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo II; argumento seu, acima.",
+     why_here: "Os filhos de Héracles pedem a Atenas proteção contra quem os persegue. Leia buscando a imagem que Atenas faz de si mesma, como cidade que acolhe os fracos, e o sacrifício voluntário de uma jovem para salvar a família.",
      why_here_by: claude}
   - {work: euripides--hippolytos, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo II; argumento seu, acima.",
+     why_here: "Fedra se apaixona pelo enteado Hipólito, que recusa o amor e a deusa que o representa. Leia buscando o desejo como força que destrói e os deuses como potências indiferentes ao sofrimento humano.",
      why_here_by: claude}
   - {work: euripides--andromache, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo II; argumento seu, acima.",
+     why_here: "A viúva de Heitor, feita escrava do filho de Aquiles, é perseguida pela esposa legítima dele. Leia buscando a condição da mulher capturada na guerra e a crítica a Esparta, inimiga de Atenas quando a peça foi escrita.",
      why_here_by: claude}
   - {work: euripides--hekabe, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo II; argumento seu, acima.",
+     why_here: "A rainha de Troia, depois da queda da cidade, perde os últimos filhos e se vinga. Leia buscando como o sofrimento extremo transforma a vítima em carrasco.",
      why_here_by: claude}
 
   # -------------------------------------------------------------------------
@@ -568,13 +563,13 @@ sequence:
   #            da relação entre mito, política e ética."
   # -------------------------------------------------------------------------
   - {work: euripides--hiketides, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo III; argumento seu, acima.",
+     why_here: "As mães dos chefes mortos diante de Tebas pedem a Atenas que recupere os corpos dos filhos. Leia buscando o debate sobre democracia e tirania no meio da peça e o direito dos mortos à sepultura, o mesmo de *Antígona*.",
      why_here_by: claude}
   - {work: euripides--elektra, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo III; argumento seu, acima.",
+     why_here: "O mesmo mito das *Coéforas*, a segunda peça da *Oresteia* de Ésquilo: Electra e Orestes matam a mãe para vingar o pai. Leia comparando com Ésquilo: aqui não há heroísmo, só uma vingança que destrói os vingadores.",
      why_here_by: claude}
   - {work: euripides--herakles, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo III; argumento seu, acima.",
+     why_here: "O maior dos heróis volta dos trabalhos, salva a família e, enlouquecido pela deusa Hera, a mata. Leia buscando a pergunta sobre responsabilidade: o que resta de um homem depois de um crime que ele não quis.",
      why_here_by: claude}
 
   # -------------------------------------------------------------------------
@@ -588,14 +583,14 @@ sequence:
   #            forte à leitura do teatro de Eurípides."
   # -------------------------------------------------------------------------
   - {work: euripides--troades, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo IV; argumento seu, acima.",
+     why_here: "As mulheres de Troia esperam ser levadas como escravas depois da derrota. Encenada em 415 a.C., pouco depois de Atenas massacrar a população da ilha de Melos. Leia buscando a guerra contada pelas vítimas.",
      why_here_by: claude}
   - {work: euripides--iphigeneia-he-en-taurois, role: primary-source,
      demand: exigente,
-     why_here: "Expansão do volume Teatro Completo IV; argumento seu, acima.",
+     why_here: "Ifigênia, que todos julgavam sacrificada pelo pai, vive como sacerdotisa numa terra bárbara e reconhece o irmão Orestes. Leia buscando como Eurípides mistura tragédia e aventura, com reconhecimento, fuga e final feliz.",
      why_here_by: claude}
   - {work: euripides--ion, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo IV; argumento seu, acima.",
+     why_here: "Um jovem criado no templo de Apolo descobre ser filho do deus com uma princesa ateniense. Leia buscando a questão da origem e da identidade, e a crítica a um deus que engana os humanos.",
      why_here_by: claude}
 
   # -------------------------------------------------------------------------
@@ -608,13 +603,13 @@ sequence:
   #            reelabora criticamente os mitos tradicionais."
   # -------------------------------------------------------------------------
   - {work: euripides--helene, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo V; argumento seu, acima.",
+     why_here: "Nesta versão do mito, Helena nunca esteve em Troia: os deuses mandaram para lá só uma imagem dela. Leia buscando a distância entre aparência e verdade, e uma guerra inteira travada por um fantasma.",
      why_here_by: claude}
   - {work: euripides--phoinissai, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo V; argumento seu, acima.",
+     why_here: "A guerra entre Etéocles e Polinices, filhos de Édipo, pelo trono de Tebas. Leia comparando com *Os Sete contra Tebas*, de Ésquilo, e com as peças tebanas de Sófocles: Eurípides junta o ciclo inteiro numa só peça.",
      why_here_by: claude}
   - {work: euripides--orestes, role: primary-source, demand: exigente,
-     why_here: "Expansão do volume Teatro Completo V; argumento seu, acima.",
+     why_here: "Depois de matar a mãe, Orestes enlouquece e é julgado pela assembleia de Argos. Leia comparando com a *Oresteia*: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe.",
      why_here_by: claude}
 
   - work: aristofanes--nephelai

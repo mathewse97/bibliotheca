@@ -320,3 +320,24 @@ depois de "Sobre a obra".
 
 Piloto: *A República* de Platão, *Política* de Aristóteles e *Leviatã* de
 Thomas Hobbes.
+
+## 14 · Por que está aqui: o que buscar nesta coleção — 2026-10-14
+
+Decisão do Mathews. O texto `why_here` de cada participação aparece na página
+da obra, em "Nas coleções". Ele passa a dizer duas coisas: **por que a obra
+está nesta coleção** e **o que buscar nela aqui**. A mesma obra é lida de modo
+diferente conforme a pergunta da coleção: *Antígona* em Greco-Romana é o
+conflito entre família e cidade; em Política, a pergunta sobre a legitimidade
+do governo.
+
+- **Uma a três frases.** O que a obra é, em poucas palavras, para quem não a
+  conhece, e "leia buscando…" ou "leia comparando com…" quando ajuda.
+- **Nunca um texto de processo.** "Idem", "expansão do volume", "argumento
+  seu, acima" não dizem nada ao leitor. Vinte textos assim, todos do agente,
+  foram reescritos nesta data.
+- **Obra em mais de uma coleção tem um texto diferente em cada uma.** Texto
+  copiado de uma coleção para outra é defeito.
+- **O texto do Mathews (`why_here_by: voce`) não é reescrito pelo agente.** Se
+  ele não diz o que buscar, o agente pode propor, nunca substituir.
+- Não repete a seção "Como ler" (§13), que vale para a obra em qualquer
+  coleção.
