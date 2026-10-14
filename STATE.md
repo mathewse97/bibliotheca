@@ -35,6 +35,7 @@ interface — 12 itens. Os que têm consequência estrutural:
 | Se uma regra deve proibir derivar o **propósito de um movimento** das obras que ele hoje contém | cartão `d-reg-proposito-movimento` | 2026-09-27 |
 | O crescimento do movimento VII de Política (de 10 para 15 obras) pede subdivisão | registrado em `collections/political-thought.md` | 2026-09-28 |
 | Auditoria de Política pela pirâmide de Adler: duas saídas, duas trocas e três grupos com redundância | cartões `d-pol-adler-*`; registro em `review/political-thought.md` §10 | 2026-10-14 |
+| Auditoria de Greco-Romana pela pirâmide de Adler: tragédias de Eurípides, quatro introduções repetidas, Campbell e a lacuna de Lucrécio | cartões `d-greco-adler-*`; registro em `review/greco-roman.md` §9 | 2026-10-14 |
 
 **Regra de edições, combinada em 2026-10-10:** com a edição escolhida, as
 alternativas saem do registro. Ficam só: volumes da mesma edição; edição que

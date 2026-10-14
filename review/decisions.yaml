@@ -372,6 +372,22 @@ items:
     - {title: "NOLS Wilderness Medicine (7ª ed.) e Medicine for the Outdoors (7ª ed.)", author: "Schimelpfenig, 2021 · Auerbach e outros, 2023", verdict: outra, adds: "Excelentes, mas são primeiros socorros para estabilizar até a evacuação — o terreno que Silva e Conforto e o PHTLS já cobrem na coleção.", facts: ["Inglês", "NOLS tem edição em espanhol (2016)"]}
     - {title: "Emergency Dentistry Handbook", author: "Met Clark · 2011", verdict: outra, adds: "Odontologia em ambientes austeros, mas tem só 80 páginas: não substitui Dickson.", facts: ["Paladin Press"]}
 
+- id: d-greco-adler-lucrecio
+  kind: obra
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Incluir em Greco-Romana o poema de Lucrécio sobre a natureza das coisas?"
+  why: "O epicurismo, a filosofia que busca a felicidade na ausência de dor e de medo, está na coleção só por uma carta curta de Epicuro. Falta a exposição completa: *Da Natureza das Coisas*, poema em latim de Tito Lucrécio Caro (século I a.C.). Ele explica o mundo como átomos em movimento, sem intervenção dos deuses, para livrar o homem do medo da morte. É uma das obras-primas da poesia latina e a principal fonte do epicurismo que chegou até nós. Sem ele, a filosofia romana da coleção é só estoica."
+  options:
+    - {key: A, recommended: true, title: "Incluir Lucrécio, *Da Natureza das Coisas*", effect: "Entra na parte de filosofia moral romana, antes de Cícero, que escreveu depois dele. Eu pesquiso a melhor edição em português."}
+    - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
+    - {key: C, title: "Descartar", effect: "A filosofia romana da coleção fica só com os estoicos e Cícero; a questão é arquivada."}
+  recommendation: "é o caso que o critério de Adler mais claramente pede: uma obra que se relê a vida toda e expõe por inteiro uma posição que nenhuma outra obra da coleção expõe. A carta de Epicuro fica como resumo, e Lucrécio como a obra."
+  candidates:
+    - {title: "Da Natureza das Coisas", author: "Tito Lucrécio Caro · c. 55 a.C.", verdict: resolve, best: true, adds: "O epicurismo inteiro, em poema: átomos, a alma mortal, por que não temer a morte nem os deuses.", facts: ["Parte de filosofia romana, antes de Cícero", "-Edição em português a verificar"]}
+
 # ============================== ESCOLHER EDIÇÃO =============================
 
 - id: d-ed-republica
@@ -1365,6 +1381,65 @@ items:
   candidates:
     - {title: "Democracia, o Deus que Falhou", author: "Hans-Hermann Hoppe · 2001", adds: "Crítica da democracia pelos incentivos de quem governa; defende uma ordem sem Estado.", facts: ["★ sua", "-Polêmico; repete parte da posição"]}
     - {title: "Anarquia, Estado e Utopia", author: "Robert Nozick · 1974", adds: "Já decidido que entra. A defesa clássica do Estado mínimo, escrita contra Rawls.", facts: ["+Decidido em 27/09"]}
+
+# Auditoria de Greco-Romana pela pirâmide de Adler, 2026-10-14.
+# Registro de pesquisa: review/greco-roman.md §9.
+
+- id: d-greco-adler-tragedias
+  kind: colecao
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Manter as quinze tragédias de Eurípides como passos obrigatórios de Greco-Romana?"
+  why: "Eurípides, o mais jovem dos três grandes autores de tragédia de Atenas (século V a.C.), tem quinze peças na coleção. Elas entraram porque você indicou os volumes completos da tradução de Jaa Torrano. Ésquilo está completo, com sete peças, e Sófocles tem só três das sete que sobreviveram. Para Adler, todas as tragédias gregas são de releitura: o problema não é a qualidade, é o peso. São quinze passos seguidos do mesmo autor."
+  options:
+    - {key: A, recommended: true, title: "Cinco de Eurípides ficam obrigatórias; as outras dez viram leitura complementar", effect: "Ficam como passos: *Medeia*, *Hipólito*, *Electra*, *As Troianas* e *As Bacantes*. As outras dez continuam na coleção e nos seus livros, marcadas como opcionais."}
+    - {key: B, title: "A opção A e, além disso, completar Sófocles", effect: "Entram as quatro peças de Sófocles que faltam (*Ájax*, *Electra*, *Filoctetes* e *As Traquínias*), e ele fica completo como Ésquilo. Eu pesquiso a edição."}
+    - {key: C, title: "Manter as quinze como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "as cinco escolhidas mostram o que faz Eurípides diferente dos outros dois: a paixão que destrói (*Medeia*, *Hipólito*), a releitura crítica de um mito que Ésquilo já tinha tratado (*Electra*), a guerra vista pelas vítimas (*As Troianas*) e o confronto do homem com o deus (*As Bacantes*). As outras dez continuam ao alcance, sem pesar na sequência."
+  candidates:
+    - {title: "Medeia", author: "Eurípides · 431 a.C.", adds: "A mulher estrangeira abandonada que se vinga matando os próprios filhos.", facts: ["Ficaria obrigatória"]}
+    - {title: "Hipólito", author: "Eurípides · 428 a.C.", adds: "A paixão de Fedra pelo enteado, e o jovem destruído por recusar o amor.", facts: ["Ficaria obrigatória"]}
+    - {title: "Electra", author: "Eurípides · c. 420 a.C.", adds: "O mesmo mito da *Oresteia* de Ésquilo, recontado sem heroísmo.", facts: ["Ficaria obrigatória", "+Lida contra Ésquilo"]}
+    - {title: "As Troianas", author: "Eurípides · 415 a.C.", adds: "As mulheres de Troia depois da derrota: a guerra contada pelas vítimas.", facts: ["Ficaria obrigatória"]}
+    - {title: "As Bacantes", author: "Eurípides · c. 405 a.C.", adds: "O deus Dioniso se vinga do rei que o recusa; a última e mais estranha das peças dele.", facts: ["Ficaria obrigatória"]}
+
+- id: d-greco-adler-introducoes
+  kind: colecao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Quatro introduções que repetem uma obra maior da coleção: deixar como leitura complementar?"
+  why: "Em quatro pontos, a coleção tem uma introdução mais leve ao lado de uma obra mais completa sobre o mesmo assunto. Pelo critério de Adler, cada obra precisa cumprir um papel que nenhuma outra cumpre, e estas quatro repetem o papel da obra maior. Nenhuma sairia da biblioteca: viram leitura opcional, para quem quiser uma entrada mais fácil. Abra a comparação abaixo para ver cada par."
+  options:
+    - {key: A, recommended: true, title: "As quatro viram leitura complementar", effect: "Ficam na coleção, marcadas como opcionais. A sequência principal fica com as obras maiores."}
+    - {key: B, title: "Tirar as quatro da coleção", effect: "Saem de Greco-Romana; os registros continuam na biblioteca, sem coleção."}
+    - {key: C, title: "Manter como estão", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois. Se quiser decidir uma a uma, responda dizendo quais."}
+  recommendation: "são boas portas de entrada, e por isso não devem sair. Mas, como passos obrigatórios, fazem você ler duas vezes o mesmo assunto, uma vez de forma leve e outra a fundo."
+  candidates:
+    - {title: "A Ascensão de Atenas", author: "Anthony Everitt · 2016", adds: "Narrativa de divulgação da história de Atenas. Repete *Greece in the Making*, de Robin Osborne, e *A History of the Classical Greek World*, de P. J. Rhodes, que contam o mesmo período a fundo.", facts: ["-Divulgação"]}
+    - {title: "Ancient Greek Religion", author: "Jon D. Mikalson · 2005", adds: "Introdução à religião grega praticada: cultos, festas, sacrifícios. Repete *Religião Grega*, de Walter Burkert, a obra de referência sobre o assunto.", facts: ["-Em inglês"]}
+    - {title: "Philosophy Before Socrates", author: "Richard D. McKirahan · 1994", adds: "Os textos dos primeiros filósofos gregos com comentário. Repete *Os Pré-Socráticos*, de G. S. Kirk, J. E. Raven e M. Schofield, a coletânea padrão.", facts: ["-Em inglês"]}
+    - {title: "Roma: A História de um Império", author: "Greg Woolf · 2012", adds: "Panorama do Império Romano em longa duração. Repete *SPQR*, de Mary Beard, e, no período final, os três livros da parte sobre Antiguidade tardia.", facts: ["-Período coberto por outras obras"]}
+
+- id: d-greco-adler-campbell
+  kind: colecao
+  collections: [greco-roman]
+  priority: baixa
+  state: decidir
+  source: review/greco-roman.md §9
+  question: "Tirar *O Herói de Mil Faces*, de Joseph Campbell, de Greco-Romana? Ele continua em Religião."
+  why: "Livro de 1949 em que Joseph Campbell, estudioso americano de mitologia, propõe que os mitos heroicos de todas as culturas seguem um mesmo roteiro, a jornada do herói: partida, provas e retorno. Influenciou muito o cinema, mas os estudiosos de mitologia o criticam por forçar mitos muito diferentes num molde só. Não trata do mundo greco-romano em particular, e a coleção já tem quem estude o mito grego por dentro: Jean-Pierre Vernant e Paul Veyne. O livro também está na coleção Religião, onde a comparação entre culturas é o próprio assunto."
+  options:
+    - {key: A, recommended: true, title: "Tirar de Greco-Romana", effect: "Sai desta coleção e continua em Religião. Nada sai da biblioteca."}
+    - {key: B, title: "Manter como leitura complementar", effect: "Fica nas duas coleções; aqui, marcado como opcional."}
+    - {key: C, title: "Manter como está", effect: "Nada muda."}
+    - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
+  recommendation: "a pergunta de Greco-Romana é como a cultura grega se formou e foi herdada. Campbell responde a outra pergunta, sobre o que todos os mitos teriam em comum, e essa pergunta já tem lugar em Religião."
 
 # ============================== CONFIRMAR POSIÇÃO ===========================
 
