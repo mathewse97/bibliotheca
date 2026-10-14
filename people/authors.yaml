@@ -2273,3 +2273,24 @@ mendo-castro-henriques:
   name_variants: []
   dates: null
   note: "Introdução e revisão científica da Política bilíngue da Vega."
+
+cornelli:
+  name_display: "Gabriele Cornelli"
+  name_variants: []
+  dates: null
+  note: "Tradutor do Fédon (Penguin-Companhia, 2025); professor de filosofia antiga da UnB."
+  role: translator
+
+gomes-dos-reis:
+  name_display: "Maria Cecília Gomes dos Reis"
+  name_variants: []
+  dates: null
+  note: "Tradutora das Cartas & Máximas principais de Epicuro (Penguin-Companhia)."
+  role: translator
+
+crook:
+  name_display: "J. A. Crook"
+  name_variants: ["John Anthony Crook"]
+  dates: null
+  note: "Historiador britânico; preparou com Hansen a versão inglesa de The Athenian Democracy in the Age of Demosthenes."
+  role: translator

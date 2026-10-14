@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: cicero--de-officiis
-    why: "Tradução recente de Bruno Fregni Bassetto, direto do latim, com o texto latino ao lado para conferir o original e notas. Ainda não foi comparada a fundo com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução recente de Bruno Fregni Bassetto, professor aposentado da USP e estudioso do latim, feita direto do original, com o texto latino ao lado para conferir as palavras e notas que explicam o contexto."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Martins Fontes, 1999, trad. Angélica Chiappetta."
     translator: [bassetto]
     translated_from: direct
     source_text: null

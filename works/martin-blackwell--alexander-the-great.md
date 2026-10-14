@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Alexander the Great: The Story of an Ancient Life, Cambridge UP, 2012", note: "O original inglês não traz nada a mais que justifique deixar a tradução brasileira."}
 ---
 
 ## Sobre a obra

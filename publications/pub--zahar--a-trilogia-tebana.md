@@ -31,27 +31,27 @@ source_of_record: claude
 
 contains:
   - work: sofocles--oidipous-tyrannos
-    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Ainda não foi comparada com outras edições desta peça."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, tradutor premiado pela Academia Brasileira de Letras, com introdução e notas que explicam nomes e alusões. Sem o grego ao lado."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Perspectiva, trad. Trajano Vieira; Penguin-Companhia, 2023, trad. Lawrence Flores Pereira; Loeb Classical Library, trad. Hugh Lloyd-Jones."
     translator: [gama-kury]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: sofocles--oidipous-epi-kolonoi
-    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Ainda não foi comparada com outras edições desta peça."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, tradutor premiado pela Academia Brasileira de Letras, com introdução e notas que explicam nomes e alusões. Sem o grego ao lado."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Perspectiva, trad. Trajano Vieira; Penguin-Companhia, 2023, trad. Lawrence Flores Pereira; Loeb Classical Library, trad. Hugh Lloyd-Jones."
     translator: [gama-kury]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: sofocles--antigone
-    why: "Escolha sua: Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, com introdução e notas que explicam nomes e alusões. Para Antígona sozinha há tradução mais elogiada, mas avulsa."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Édipo Rei, Édipo em Colono e Antígona num só volume, traduzidas direto do grego, em verso, por Mário da Gama Kury, tradutor premiado pela Academia Brasileira de Letras, com introdução e notas que explicam nomes e alusões. Sem o grego ao lado."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Perspectiva, trad. Trajano Vieira; Penguin-Companhia, 2023, trad. Lawrence Flores Pereira; Loeb Classical Library, trad. Hugh Lloyd-Jones."
     translator: [gama-kury]
     translated_from: direct
     source_text: null

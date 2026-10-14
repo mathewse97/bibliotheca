@@ -32,7 +32,8 @@ derived_from:
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB / Madamu, trad. Mário da Gama Kury", note: "A tradução clássica de Mário da Gama Kury, direto do grego, mas sem o texto grego ao lado."}
-  - {edition: "Edipro, trad. Edson Bini", note: "Tradução de Edson Bini, direto do grego e com notas, mas menos reconhecida pelos especialistas."}
+  - {edition: "Edipro, trad. Edson Bini", note: "Tradução de Edson Bini, direto do grego e com notas, mas menos reconhecida pelos especialistas e sem o grego ao lado."}
+  - {edition: "Nova Cultural, trad. Leonel Vallandro e Gerd Bornheim", note: "Tradução de Leonel Vallandro e Gerd Bornheim feita a partir de uma versão inglesa, e não do grego."}
 ---
 
 ## Sobre a obra

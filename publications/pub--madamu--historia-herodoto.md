@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: herodoto--historiai
-    why: "Tradução de Mário da Gama Kury, direto do grego: a única brasileira completa num só volume. Ainda não foi comparada em detalhe com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Mário da Gama Kury, feita direto do grego e reeditada pela Madamu em 2023: é a única versão brasileira completa num só volume. As notas são poucas; para estudo detalhado existe a edição italiana da Fondazione Lorenzo Valla, com grego ao lado e comentário."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, por enquanto: a Edipro (Maria Aparecida de Oliveira Silva, nove volumes, muito anotada) deve substituí-la quando o livro IX sair. Comparada também com a Fondazione Lorenzo Valla e a Edições 70."
     translator: [gama-kury]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: martin-blackwell--alexander-the-great
-    why: "A única tradução para o português, de Maria Luiza X. de A. Borges, feita direto do original. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Maria Luiza X. de A. Borges para a biografia curta de Alexandre escrita por dois professores americanos, Thomas R. Martin e Christopher W. Blackwell. Clara e atual, à venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Alexander the Great: The Story of an Ancient Life, Cambridge UP, 2012."
     translator: [maria-luiza-borges]
     translated_from: direct
     source_text: null

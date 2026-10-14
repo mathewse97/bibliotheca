@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Teorema (Lisboa), 1991, trad. Telma Costa", note: "Tradução de Telma Costa em português de Portugal, esgotada."}
+  - {edition: "O mito e a religião na Grécia Antiga, Teorema (Lisboa), 1991, trad. Telma Costa", note: "Tradução de Telma Costa em português de Portugal, esgotada e sem vantagem sobre a brasileira."}
 ---
 
 ## Sobre a obra

@@ -42,6 +42,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Tradução de Manuel de Oliveira Pulquério, de Coimbra, direto do grego e com notas, mas importada de Portugal e sem o grego ao lado."}
+  - {edition: "L&PM Pocket, trad. André Malta", note: "Tradução de André Malta, professor de grego da USP, em edição de bolso com o Êutifron, mas sem o texto grego ao lado."}
 ---
 
 ## Sobre a obra

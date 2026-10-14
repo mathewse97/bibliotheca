@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: esquilo--oresteia
-    why: "Volume III da Oresteia de Jaa Torrano, traduzida direto do grego, com o texto grego ao lado. Vem junto com os volumes I e II para completar a trilogia na mesma tradução."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Jaa Torrano, professor de grego da USP, direto do grego e em verso, com o grego ao lado e um estudo em cada um dos três volumes; elogiada pelo rigor na revista Ágora, da Universidade de Aveiro."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, trad. Trajano Vieira; Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério."
     translator: [torrano]
     translated_from: direct
     source_text: null

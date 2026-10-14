@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: grimal--dictionnaire-de-la-mythologie-grecque-et-romaine
-    why: "O dicionário de mitologia mais usado como referência, traduzido direto do francês por Victor Jabouille, especialista em literatura grega e latina. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "O dicionário de mitologia de Pierre Grimal, traduzido direto do francês por Victor Jabouille, estudioso português da cultura clássica. Cada verbete reúne as versões do mito e indica os autores antigos que as contam."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Dictionnaire de la mythologie grecque et romaine, PUF (original francês)."
     translator: [jabouille]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: vernant--les-origines-de-la-pensee-grecque
-    why: "A tradução brasileira de longa data, feita direto do francês por Ísis Borges B. da Fonseca. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Ísis Borges B. da Fonseca, feita direto do francês e reimpressa há décadas, do ensaio em que Jean-Pierre Vernant liga o nascimento da filosofia à vida da cidade grega."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14; a pesquisa não encontrou outra edição que justificasse a troca."
     translator: [isis-borges]
     translated_from: direct
     source_text: null

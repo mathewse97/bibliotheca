@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: plutarco--demosthenes
-    why: "Traduzida direto do grego por Marta Várzeas, com introdução e notas, na mesma série da Universidade de Coimbra das outras Vidas. Vem com a Vida de Cícero. Português de Portugal; ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução direta do grego por Marta Várzeas, professora da Universidade do Porto, com introdução e notas sobre como Plutarco liga caráter e destino. Vem junto com a Vida de Cícero. Português de Portugal."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: BUR, Alessandro e Cesare, trad. Domenico Magnino; Paumape, 1992, trad. Gilson César Cardoso."
     translator: [varzeas]
     translated_from: direct
     source_text: null

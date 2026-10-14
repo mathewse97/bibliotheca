@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: marco-aurelio--ta-eis-heauton
-    why: "Tradução de Aldo Dinucci, especialista em estoicismo, feita direto do grego, e não de outra tradução. Não foi feita uma comparação detalhada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Aldo Dinucci, professor da Universidade Federal de Sergipe e especialista em estoicismo, feita direto do grego, e não de outra tradução, o que evita a linguagem de autoajuda comum nas edições populares."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Martins Fontes, 2025, trad. Rafael Frate."
     translator: [dinucci]
     translated_from: direct
     source_text: null

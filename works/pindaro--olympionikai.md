@@ -30,6 +30,9 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Kotter, 2018, trad. Roosevelt Rocha", note: "Traz todas as odes e fragmentos de Píndaro, traduzidos por Roosevelt Rocha, professor da UFPR, mas com notas mais breves."}
+  - {edition: "7 Letras, 2016, trad. Glória Braga Onelley e Shirley Peçanha", note: "Tradução anotada das Olímpicas por Glória Braga Onelley e Shirley Peçanha, com comentário menos extenso."}
 ---
 
 ## Sobre a obra

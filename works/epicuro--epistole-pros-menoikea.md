@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Cartas & Máximas principais, Penguin-Companhia, trad. Maria Cecília Gomes dos Reis", note: "Traz mais notas e as três cartas de Epicuro, mas não parece claramente melhor para ler esta carta."}
+  - {edition: "Editora Unesp, trad. Álvaro Lorencini e Enzo Del Carratore", note: "Tradução de Álvaro Lorencini e Enzo Del Carratore, direto do grego, em livrinho de bolso só com uma breve apresentação, sem notas que expliquem o texto."}
 ---
 
 ## Sobre a obra

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: mckirahan--philosophy-before-socrates
-    why: "A 2ª edição do original em inglês, em que o próprio autor traduz os textos gregos que comenta. Existe tradução brasileira desta edição, e a escolha entre as duas ainda está em aberto."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "O original em inglês, na 2ª edição, em que Richard D. McKirahan traduz ele mesmo do grego os fragmentos que comenta, de modo que o comentário e a tradução combinam palavra por palavra. É importado."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Paulus, 2013, trad. Eduardo Wolf Pereira."
     translator: [mckirahan]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: esquilo--oresteia
-    why: "Tradução de Jaa Torrano direto do grego, em verso, com o grego ao lado e um estudo; elogiada pelo rigor numa revista acadêmica portuguesa. É o mesmo tradutor das outras tragédias de Ésquilo e de Eurípides da sua biblioteca."
-    verdict: unassessed
-    reason: "Pesquisa de 2026-10-10: tradução de Jaa Torrano, direta do grego, bilíngue, em três volumes (Iluminuras, 2004), com estudo; resenhada com elogio na revista Ágora (Univ. de Aveiro). Alternativa: Manuel de Oliveira Pulquério (Edições 70, Portugal), em prosa. Ver a seção Edições da obra."
+    why: "Tradução de Jaa Torrano, professor de grego da USP, direto do grego e em verso, com o grego ao lado e um estudo em cada um dos três volumes; elogiada pelo rigor na revista Ágora, da Universidade de Aveiro."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, trad. Trajano Vieira; Edições 70 (Lisboa), trad. Manuel de Oliveira Pulquério."
     translator: [torrano]
     translated_from: direct
     source_text: null

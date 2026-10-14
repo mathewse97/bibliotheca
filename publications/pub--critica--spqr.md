@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: beard--spqr
-    why: "Tradução brasileira de Luis Reyes Gil, de 2023. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Luis Reyes Gil, resenhada na revista acadêmica Classica, com o texto completo de Mary Beard sobre mil anos de Roma. Está à venda nova, em reimpressão de 2023."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: SPQR, Profile Books, 2015 (original inglês)."
     translator: [reyes-gil]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: veyne--les-grecs-ont-ils-cru-a-leurs-mythes
-    why: "A tradução brasileira mais recente, feita direto do francês por Mariana Echalar, e à venda nova."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução brasileira de Mariana Echalar, direta do francês, do ensaio em que Paul Veyne pergunta de que modo os gregos acreditavam nos próprios mitos. A edição mais recente, à venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Brasiliense, 1984; Acreditaram os Gregos nos seus Mitos?, Edições 70 (Lisboa)."
     translator: [echalar]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: aristoteles--ethika-nikomacheia
-    why: "A tradução brasileira mais recente, de André Malta, feita direto do grego, com o texto grego ao lado para conferir no original as palavras que importam. Ainda não foi comparada a fundo com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de André Malta, professor de grego da USP, feita direto do grego e fiel ao estilo seco e conciso de Aristóteles, com o texto grego ao lado para conferir os termos-chave da ética."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Editora UnB / Madamu, trad. Mário da Gama Kury; Edipro, trad. Edson Bini; Nova Cultural, trad. Leonel Vallandro e Gerd Bornheim."
     translator: [andre-malta]
     translated_from: direct
     source_text: null

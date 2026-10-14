@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: finley--the-legacy-of-greece
-    why: "A única tradução em português, de Yvette Vieira Pinto de Almeida, numa edição de 1998 da editora da Universidade de Brasília. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Única tradução em português, de Yvette Vieira Pinto de Almeida, da coletânea em que M. I. Finley reuniu catorze especialistas sobre a herança grega. Edição da Universidade de Brasília, hoje provavelmente só usada."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: The Legacy of Greece, Oxford, 1981 (original inglês)."
     translator: [yvette-vieira-pinto-de-almeida]
     translated_from: null
     source_text: null

@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "Tradução brasileira do livro de McKirahan, por Eduardo Wolf Pereira, revista por Gabriele Cornelli, especialista em filosofia grega. Você ainda vai escolher entre ela e o original em inglês."}
+  - {edition: "A filosofia antes de Sócrates, Paulus, 2013, trad. Eduardo Wolf Pereira", note: "Tradução brasileira de Eduardo Wolf Pereira, revista por Gabriele Cornelli, professor da UnB; não se confirmou se os fragmentos gregos foram vertidos do grego ou do inglês."}
 ---
 
 ## Sobre a obra

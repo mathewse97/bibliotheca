@@ -30,6 +30,8 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "SPQR, Profile Books, 2015 (original inglês)", note: "O original inglês não traz nada a mais que justifique trocar uma tradução brasileira competente e fácil de achar."}
 ---
 
 ## Sobre a obra

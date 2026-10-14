@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Martins Fontes, trad. Angélica Chiapeta", note: "Tradução de Angélica Chiapeta, direto do latim, mas sem o texto latino ao lado."}
+  - {edition: "Martins Fontes, 1999, trad. Angélica Chiappetta", note: "Tradução de Angélica Chiappetta, direto do latim, mas sem o texto latino ao lado e com menos notas."}
 ---
 
 ## Sobre a obra

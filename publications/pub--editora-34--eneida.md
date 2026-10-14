@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: virgilio--aeneis
-    why: "Tradução em verso de Carlos Alberto Nunes, feita direto do latim, com o latim ao lado para conferir e notas de João Angelo Oliva Neto que explicam nomes e alusões."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução em verso de Carlos Alberto Nunes, feita direto do latim e com ritmo próximo ao do original, reeditada com o latim ao lado e notas de João Angelo Oliva Neto, professor da USP, que explicam nomes e alusões."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Cotovia (Lisboa), 2020, trad. Carlos Ascenso André; Eneida brasileira, Ateliê/Unicamp, trad. Odorico Mendes."
     translator: [carlos-alberto-nunes]
     translated_from: direct
     source_text: null

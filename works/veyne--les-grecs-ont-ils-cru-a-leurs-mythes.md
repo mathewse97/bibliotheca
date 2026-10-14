@@ -31,7 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Brasiliense, 1984", note: "A primeira tradução brasileira, de 1984, pela Brasiliense; esgotada."}
+  - {edition: "Brasiliense, 1984", note: "Primeira tradução brasileira, de 1984, hoje esgotada."}
+  - {edition: "Acreditaram os Gregos nos seus Mitos?, Edições 70 (Lisboa)", note: "Tradução em português de Portugal, sem vantagem sobre a brasileira mais recente."}
 ---
 
 ## Sobre a obra

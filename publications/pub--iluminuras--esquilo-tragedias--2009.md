@@ -32,36 +32,36 @@ source_of_record: claude
 
 contains:
   - work: esquilo--persai
-    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
-    verdict: unassessed
-    reason: "Único volume brasileiro com estas peças registrado."
+    why: "Tragédias de Ésquilo traduzidas direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Reúne num só volume Persas, Sete contra Tebas, Suplicantes e Prometeu."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, 1997, trad. Trajano Vieira."
     translator: [torrano]
     translated_from: direct
     source_text: null
     completeness: complete
     apparatus: []
   - work: esquilo--hepta-epi-thebas
-    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
-    verdict: unassessed
-    reason: "Único volume brasileiro com estas peças registrado."
+    why: "Tragédias de Ésquilo traduzidas direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Reúne num só volume Persas, Sete contra Tebas, Suplicantes e Prometeu."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, 1997, trad. Trajano Vieira."
     translator: [torrano]
     translated_from: direct
     source_text: null
     completeness: complete
     apparatus: []
   - work: esquilo--hiketides
-    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
-    verdict: unassessed
-    reason: "Único volume brasileiro com estas peças registrado."
+    why: "Tragédias de Ésquilo traduzidas direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Reúne num só volume Persas, Sete contra Tebas, Suplicantes e Prometeu."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, 1997, trad. Trajano Vieira."
     translator: [torrano]
     translated_from: direct
     source_text: null
     completeness: complete
     apparatus: []
   - work: esquilo--prometheus-desmotes
-    why: "Volume com as tragédias de Ésquilo traduzidas por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original. À venda nova; ainda não foi comparado com outras edições."
-    verdict: unassessed
-    reason: "Único volume brasileiro com estas peças registrado."
+    why: "Tragédias de Ésquilo traduzidas direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Reúne num só volume Persas, Sete contra Tebas, Suplicantes e Prometeu."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Zahar, trad. Mário da Gama Kury; Perspectiva, 1997, trad. Trajano Vieira."
     translator: [torrano]
     translated_from: direct
     source_text: null

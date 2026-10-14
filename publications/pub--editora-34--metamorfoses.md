@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: ovidio--metamorphoses
-    why: "Traduzida direto do latim por Domingos Lucas Dias, com o latim ao lado para conferir no original as palavras que importam. Traz o poema inteiro, com notas e índices para achar personagens e episódios."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução completa de Domingos Lucas Dias, filólogo formado em Lisboa, feita direto do latim, com o latim ao lado para conferir, notas, apresentação de João Angelo Oliva Neto (USP) e índices para achar personagens, mitos e lugares."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Penguin-Companhia, 2023, trad. Rodrigo Tadeu Gonçalves; Cotovia (Lisboa), 2007, trad. Paulo Farmhouse Alberto."
     translator: [lucas-dias]
     translated_from: direct
     source_text: null

@@ -31,9 +31,9 @@ source_of_record: claude
 
 contains:
   - work: highet--the-classical-tradition
-    why: "A única edição em português, completa e recente (2024). Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Primeira edição em português, de 2024, completa, do estudo de Gilbert Highet sobre como gregos e romanos moldaram a literatura do Ocidente, da Idade Média ao século XX. O tradutor não vem identificado nas fichas de venda."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: The Classical Tradition, Oxford University Press, 2015; La tradición clásica, Fondo de Cultura Económica, trad. Antonio Alatorre."
     translator: []
     translated_from: null
     source_text: null

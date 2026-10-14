@@ -31,8 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Penguin-Companhia, 2023, trad. Rodrigo Tadeu Gonçalves", note: "Tradução recente de Rodrigo Tadeu Gonçalves, em versos que imitam o ritmo do original, mas sem o latim ao lado e com menos notas."}
-  - {edition: "Cotovia (Lisboa), 2007, trad. Paulo Farmhouse Alberto", note: "Tradução cuidadosa de Paulo Farmhouse Alberto, mas em português de Portugal e sem o latim ao lado."}
+  - {edition: "Penguin-Companhia, 2023, trad. Rodrigo Tadeu Gonçalves", note: "Tradução recente de Rodrigo Tadeu Gonçalves, professor da UFPR, em versos que imitam o ritmo latino, mas sem o latim ao lado e com menos notas."}
+  - {edition: "Cotovia (Lisboa), 2007, trad. Paulo Farmhouse Alberto", note: "Tradução cuidadosa de Paulo Farmhouse Alberto, professor em Lisboa, mas em português de Portugal e sem o latim ao lado."}
 ---
 
 ## Sobre a obra

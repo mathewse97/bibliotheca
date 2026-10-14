@@ -31,7 +31,7 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "La formación de Grecia, Crítica (Barcelona), 1998", note: "Tradução espanhola, mas da 1ª edição, que o autor depois reescreveu."}
+  - {edition: "La formación de Grecia, Crítica (Barcelona), 1998", note: "Tradução espanhola da 1ª edição, que o autor depois reescreveu; esgotada."}
 ---
 
 ## Sobre a obra

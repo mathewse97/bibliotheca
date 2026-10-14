@@ -32,18 +32,18 @@ source_of_record: claude
 
 contains:
   - work: platao--apologia-sokratous
-    why: "Tradução de Carlos Alberto Nunes, feita direto do grego, com o texto grego ao lado para conferir no original as palavras que importam. Vem no mesmo volume do Críton."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Carlos Alberto Nunes, tradutor de Homero e Virgílio, feita direto do grego, com o texto grego ao lado para conferir as palavras que importam. Traz no mesmo volume o Críton, que continua a cena da Apologia."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Edições 70, trad. Manuel de Oliveira Pulquério; L&PM Pocket, trad. André Malta."
     translator: [carlos-alberto-nunes]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: platao--kriton
-    why: "Tradução de Carlos Alberto Nunes, feita direto do grego, com o texto grego ao lado para conferir no original as palavras que importam. Vem no mesmo volume da Apologia. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Tradução de Carlos Alberto Nunes, tradutor de Homero e Virgílio, feita direto do grego, com o texto grego ao lado para conferir as palavras que importam. Vem no mesmo volume da Apologia de Sócrates, que prepara esta conversa na prisão."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Edições 70, trad. Manuel de Oliveira Pulquério; L&PM Pocket, trad. André Malta."
     translator: [carlos-alberto-nunes]
     translated_from: direct
     source_text: null

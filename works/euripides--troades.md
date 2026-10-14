@@ -31,6 +31,8 @@ derived_from:
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
 updated: 2026-09-12
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Zahar, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, direta do grego e fácil de ler, num volume com Medeia, Hipólito e As Troianas, mas sem o grego ao lado."}
 ---
 
 ## Sobre a obra

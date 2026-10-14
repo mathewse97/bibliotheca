@@ -31,27 +31,27 @@ source_of_record: claude
 
 contains:
   - work: euripides--troades
-    why: "Volume IV do teatro completo de Eurípides traduzido por Jaa Torrano, direto do grego, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Volume IV do teatro completo de Eurípides traduzido direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. À venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Editora 34, 2010, Medeia, trad. Trajano Vieira; Editora 34, 2015, Hipólito, trad. Trajano Vieira; Zahar, trad. Mário da Gama Kury."
     translator: [torrano]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: euripides--iphigeneia-he-en-taurois
-    why: "Volume IV do teatro completo de Eurípides traduzido por Jaa Torrano, direto do grego, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Volume IV do teatro completo de Eurípides traduzido direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. À venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Editora 34, 2010, Medeia, trad. Trajano Vieira; Editora 34, 2015, Hipólito, trad. Trajano Vieira; Zahar, trad. Mário da Gama Kury."
     translator: [torrano]
     translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
   - work: euripides--ion
-    why: "Volume IV da série de Eurípides traduzida por Jaa Torrano direto do grego, com o texto grego ao lado para conferir no original e um estudo sobre cada peça. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Nenhuma edição alternativa foi pesquisada."
+    why: "Volume IV do teatro completo de Eurípides traduzido direto do grego por Jaa Torrano, professor de grego da USP, com o texto grego ao lado para conferir as palavras no original e um estudo do tradutor sobre cada peça. À venda nova."
+    verdict: recommended
+    reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Editora 34, 2010, Medeia, trad. Trajano Vieira; Editora 34, 2015, Hipólito, trad. Trajano Vieira; Zahar, trad. Mário da Gama Kury."
     translator: [torrano]
     translated_from: direct
     source_text: null

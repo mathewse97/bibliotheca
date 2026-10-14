@@ -31,7 +31,8 @@ derived_from:
          pesquisa seria inventar."
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022", note: "Tradução espanhola de 2022, com introdução de Andrés de Francisco que situa o livro; ainda pode substituir a edição inglesa."}
+  - {edition: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022, trad. Andrés de Francisco", note: "Boa tradução espanhola com introdução do tradutor, professor da Complutense, mas feita a partir da própria versão inglesa."}
+  - {edition: "Blackwell, 1991", note: "Primeira impressão inglesa, hoje só usada; a de 1999 tem o mesmo texto e ainda está à venda."}
 ---
 
 ## Sobre a obra

@@ -972,20 +972,21 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-14, choice: "B — o original inglês (Hackett, 2010).", note: "Decisão do Mathews, 2026-10-14, seguindo a recomendação da pesquisa da Greco-Romana: na Paulus não se confirmou se os fragmentos gregos foram traduzidos do grego ou do inglês; no original, o comentário se apoia nas traduções do próprio autor."}
   question: "Em que edição ler *Philosophy Before Socrates*, de Richard McKirahan?"
   why: "A registrada é o original inglês (2ª edição, Hackett, 2010). Existe tradução brasileira dessa mesma edição, revista por um especialista em pré-socráticos."
   editions:
     - key: A
       label: "A filosofia antes de Sócrates, Paulus, 2013 — Eduardo Wolf Pereira"
-      status: "Não registrada"
+      status: "Não escolhida"
       facts: [["Tradução","Eduardo Wolf Pereira, com revisão técnica de Gabriele Cornelli"],["Texto","A 2ª edição do original"],["Situação","Disponibilidade não confirmada; usados a cerca de R$ 99"]]
       pros: ["Em português", "A mesma edição do original", "Revista por especialista"]
       cons: ["Pode estar só usada"]
     - key: B
       pub: pub--hackett--philosophy-before-socrates
       label: "Hackett, 2010 — original inglês"
-      status: "Registrada · aparece hoje"
+      status: "Escolhida"
       facts: [["Texto","Original, 2ª edição, 512 p."]]
       pros: ["O texto do autor"]
       cons: ["Em inglês"]
@@ -1021,20 +1022,21 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-14, choice: "A — Manual do estoicismo, Penguin-Companhia, 2025.", note: "Decisão do Mathews, 2026-10-14: a edição bilíngue de Coimbra / Annablume não foi encontrada à venda."}
   question: "Em que edição ler o *Manual* de Epicteto?"
   why: "Os mesmos tradutores, Aldo Dinucci e Alfredo Julien, têm duas edições: a da Penguin-Companhia (2025), à venda no Brasil, com trechos das *Diatribes*; e a de Coimbra / Annablume, bilíngue, com introdução e comentário."
   editions:
     - key: A
       pub: pub--penguin-companhia--manual-do-estoicismo
       label: "Manual do estoicismo, Penguin-Companhia, 2025"
-      status: "Registrada · aparece hoje"
+      status: "Escolhida"
       facts: [["Formato","168 p., sem o grego"],["Conteúdo","O Manual, trechos das Diatribes e fragmentos"],["Situação","Em catálogo"]]
       pros: ["Fácil de comprar", "Textos a mais"]
       cons: ["Sem o grego; aparato não confirmado"]
     - key: B
       label: "O Encheirídion de Epicteto, Coimbra / Annablume"
-      status: "Não registrada"
+      status: "Não encontrada à venda"
       facts: [["Formato","Bilíngue grego–português"],["Aparato","Introdução e comentário; resenha positiva na revista Archai"]]
       pros: ["Bilíngue e comentada"]
       cons: ["Disponibilidade no Brasil não confirmada"]
@@ -1046,20 +1048,21 @@ items:
   kind: edicao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-14, choice: "A — a versão inglesa, na impressão revista da University of Oklahoma Press (1999).", note: "Decisão do Mathews, 2026-10-14. Troca só de impressão: a Blackwell de 1991 só se acha usada; a Oklahoma de 1999 tem o mesmo texto e está à venda. A Blackwell saiu do acervo."}
   question: "Em que edição ler *The Athenian Democracy in the Age of Demosthenes*, de Hansen?"
   why: "A registrada é a edição inglesa, o texto que o próprio Hansen acompanhou. Em 2022 saiu uma tradução espanhola, com introdução de um especialista."
   editions:
     - key: A
-      pub: pub--blackwell--athenian-democracy-demosthenes
-      label: "Blackwell, 1991 — inglês"
-      status: "Registrada · aparece hoje"
+      pub: pub--oklahoma--athenian-democracy-demosthenes
+      label: "Versão inglesa — Blackwell, 1991; Oklahoma, 1999"
+      status: "Escolhida, na impressão de 1999"
       facts: [["Texto","A versão de referência, traduzida do dinamarquês por J. A. Crook com o autor"]]
       pros: ["O texto que o autor acompanhou"]
       cons: ["Inglês; a reedição de 1999 traz bibliografia atualizada"]
     - key: B
       label: "La democracia ateniense en la época de Demóstenes, Capitán Swing, 2022"
-      status: "Não registrada"
+      status: "Não escolhida"
       facts: [["Tradução","Andrés de Francisco, com introdução"],["Situação","Em catálogo"]]
       pros: ["Recente", "Com introdução de especialista"]
       cons: ["Tradução da tradução inglesa"]

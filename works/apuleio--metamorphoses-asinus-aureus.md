@@ -32,7 +32,7 @@ derived_from:
 updated: 2026-09-12
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Cotovia (Lisboa), 2007, trad. Delfim Ferreira Leão", note: "Tradução de Delfim Ferreira Leão, professor de estudos clássicos em Coimbra, mas em português de Portugal e sem o texto latino ao lado."}
-  - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Tradução de Sandra Braga Bianchet, de perfil universitário; não se confirmou se traz o texto latino ao lado."}
+  - {edition: "Appris, 2020, trad. Sandra Braga Bianchet", note: "Tradução direta de Sandra Braga Bianchet, professora de latim da UFMG, aparentemente sem o texto latino ao lado."}
 ---
 
 ## Sobre a obra
