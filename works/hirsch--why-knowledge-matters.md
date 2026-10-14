@@ -8,7 +8,7 @@ alt_titles: []
 authors: [hirsch]
 original_language: en
 form: book
-work_type: null                 # candidato: teoria/crítica educacional — slug novo vai a revisão (§6.8)
+work_type: ciencias-sociais
 date_written: "2016"
 date_sort: 2016
 period: null

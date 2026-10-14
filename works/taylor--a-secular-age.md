@@ -8,7 +8,7 @@ alt_titles: []
 authors: [taylor]
 original_language: en
 form: book
-work_type: null
+work_type: filosofia
 date_written: "2007"
 date_sort: 2007
 period: null

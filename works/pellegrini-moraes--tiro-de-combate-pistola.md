@@ -8,7 +8,7 @@ alt_titles: []
 authors: [pellegrini, moraes]
 original_language: pt-BR
 form: book
-work_type: null                 # §E
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

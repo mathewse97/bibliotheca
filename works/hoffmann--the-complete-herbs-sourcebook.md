@@ -8,7 +8,7 @@ alt_titles: ["O guia completo das plantas medicinais: ervas de A a Z para tratar
 authors: [hoffmann]
 original_language: en
 form: book
-work_type: null                 # §E
+work_type: consulta
 date_written: null
 date_sort: null
 period: null

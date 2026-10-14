@@ -8,7 +8,7 @@ alt_titles: []
 authors: [gregory]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2012"
 date_sort: 2012
 period: null

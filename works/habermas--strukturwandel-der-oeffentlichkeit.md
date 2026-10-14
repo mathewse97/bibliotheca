@@ -8,7 +8,7 @@ alt_titles: []
 authors: [habermas]
 original_language: de
 form: book
-work_type: political-theory
+work_type: ciencias-sociais
 date_written: "1962"
 date_sort: 1962
 period: modernidade-tardia

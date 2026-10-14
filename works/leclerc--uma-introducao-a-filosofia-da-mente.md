@@ -8,7 +8,7 @@ alt_titles: []
 authors: [leclerc]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: filosofia
 date_written: "2018 (1ª ed.); 2025 (2ª ed., ampliada)"
 date_sort: 2018
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [rhodes]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2006 (1ª ed.); 2ª ed., 2010"
 date_sort: 2006
 period: null

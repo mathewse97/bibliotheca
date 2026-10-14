@@ -15,7 +15,7 @@ alt_titles: ["Guia prático da auto-suficiência: plantar, colher, construir uma
 authors: [seymour]
 original_language: en
 form: book
-work_type: null                 # §E — vocabulário sem slug para manual prático
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

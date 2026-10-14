@@ -8,7 +8,7 @@ alt_titles: []
 authors: [silva, conforto]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

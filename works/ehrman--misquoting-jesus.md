@@ -9,7 +9,7 @@ alt_titles: []
 authors: [ehrman]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2005"
 date_sort: 2005
 period: null

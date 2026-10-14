@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lorenzi, matos]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: consulta
 date_written: "2002 (1ª ed.); 2008 (2ª); 2021 (3ª)"
 date_sort: 2002
 period: null

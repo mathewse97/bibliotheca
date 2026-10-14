@@ -8,7 +8,7 @@ alt_titles: []
 authors: [eliade, culianu]
 original_language: fr
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: null
+work_type: consulta
 date_written: "1990"
 date_sort: 1990
 period: null

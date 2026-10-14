@@ -11,7 +11,7 @@ alt_titles: []
 authors: [burke]
 original_language: en
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1757 (primeira edição); 1759 (segunda, ampliada)"
 date_sort: 1757
 period: iluminismo

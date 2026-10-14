@@ -11,11 +11,7 @@ alt_titles: []
 author: jaeger
 original_language: en
 form: book
-work_type: null                  # §E — monografia histórica acadêmica; nenhuma
-                                 # das cinco categorias do blueprint encaixa
-                                 # com segurança (nem fonte primária, nem
-                                 # "comentário" no sentido de comentar um
-                                 # texto específico). Levantado, não decidido.
+work_type: historia
 date_written: "1994"
 date_sort: 1994
 period: idade-media

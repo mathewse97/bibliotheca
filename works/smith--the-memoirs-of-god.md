@@ -9,7 +9,7 @@ alt_titles: []
 authors: [smith]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2004"
 date_sort: 2004
 period: null

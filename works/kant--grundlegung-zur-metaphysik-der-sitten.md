@@ -8,7 +8,7 @@ alt_titles: []
 authors: [kant]
 original_language: de
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1785"
 date_sort: 1785
 period: iluminismo

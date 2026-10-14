@@ -8,7 +8,7 @@ alt_titles: []
 author: bezmenov
 original_language: null           # não pesquisado — ver Fatos
 form: book
-work_type: null                   # §E
+work_type: ciencias-sociais
 date_written: null
 date_sort: null
 period: null

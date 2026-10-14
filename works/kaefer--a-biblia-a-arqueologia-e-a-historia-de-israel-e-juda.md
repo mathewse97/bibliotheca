@@ -8,7 +8,7 @@ alt_titles: []
 authors: [kaefer]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: historia
 date_written: "2015"
 date_sort: 2015
 period: null

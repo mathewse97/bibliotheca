@@ -10,7 +10,7 @@ alt_titles: []
 authors: [begovic, luther]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 author: illich
 original_language: en
 form: book
-work_type: primary-source          # ver Nota de modelo
+work_type: ciencias-sociais
 date_written: "1971"
 date_sort: 1971
 period: modernidade-tardia

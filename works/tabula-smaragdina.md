@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: la
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: religioso
 date_written: "origem árabe, séc. VIII–IX; versões latinas a partir do séc. XII"
 date_sort: 850
 period: null

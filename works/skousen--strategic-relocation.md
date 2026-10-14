@@ -8,7 +8,7 @@ alt_titles: []
 author: skousen
 original_language: en
 form: book
-work_type: null                  # §E
+work_type: pratico
 date_written: null                # 4ª edição — ano não confirmado
 date_sort: null
 period: null

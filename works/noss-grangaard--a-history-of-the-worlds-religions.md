@@ -8,7 +8,7 @@ alt_titles: []
 authors: [noss, grangaard]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1949 (1ª ed., como *Man's Religions*, de John B. Noss)"
 date_sort: 1949
 period: null

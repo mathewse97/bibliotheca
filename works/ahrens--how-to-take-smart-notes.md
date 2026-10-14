@@ -8,7 +8,7 @@ alt_titles: []
 authors: [ahrens]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: "2017 (1ª ed.); 2022 (2ª ed., em inglês)"
 date_sort: 2017
 period: null

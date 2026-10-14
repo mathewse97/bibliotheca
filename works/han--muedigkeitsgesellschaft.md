@@ -8,10 +8,7 @@ alt_titles: []
 author: han
 original_language: de
 form: book
-work_type: null                  # ensaio filosófico breve; "teoria" é o
-                                 # candidato mais próximo do vocabulário, não
-                                 # decidido aqui — depende da coleção em que
-                                 # a obra vier a entrar.
+work_type: filosofia
 date_written: "2010"
 date_sort: 2010
 period: null

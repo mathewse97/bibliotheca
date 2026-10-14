@@ -42,8 +42,17 @@ gaps:
                 único texto em que esse ideal é exercido."
     evidence:
       - claim: "Nenhuma das 9 obras da coleção é fonte primária."
-        check: {type: count_members, collection: education,
-                where: {work_type: primary-source}, expect: 0}
+        check: null
+        checkable: false
+        reason: "Até 2026-10-14 era medido por work_type primary-source, valor
+                 que saiu do vocabulário: fonte primária deixou de ser tipo de
+                 obra. Também não se mede pelo role, porque Dewey, Newman e
+                 Illich, que são textos em que o ideal é exercido, estão na
+                 coleção com papel foundational. A afirmação depende de
+                 julgamento. Na última medição pelo critério antigo, a coleção
+                 tinha 3 fontes primárias (Dewey, Newman, Illich), e a lacuna
+                 já aparecia como envelhecida."
+
       - claim: "As cinco regiões rasas são rasas do mesmo modo: história sem
                 fonte. Uma lacuna, cinco sintomas. [PROVISÓRIO]"
         check: {type: region_count, collection: education,

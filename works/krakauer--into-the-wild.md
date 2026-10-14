@@ -8,7 +8,7 @@ alt_titles: []
 authors: [krakauer]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1996"
 date_sort: 1996
 period: null

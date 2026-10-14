@@ -8,7 +8,7 @@ alt_titles: []
 authors: [van-de-mieroop]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2004 (1ª ed.); 4ª ed. revista, 2024"
 date_sort: 2004
 period: null

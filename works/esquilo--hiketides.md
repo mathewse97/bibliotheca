@@ -8,7 +8,7 @@ alt_titles: []
 authors: [esquilo]
 original_language: grc
 form: null                      # tragédia — slug de form a confirmar no vocabulário
-work_type: primary-source
+work_type: literatura
 date_written: null              # a pesquisar (§E)
 date_sort: null
 period: null

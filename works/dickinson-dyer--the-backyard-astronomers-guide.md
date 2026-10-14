@@ -8,7 +8,7 @@ alt_titles: []
 authors: [dickinson, dyer]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: "1991 (1ª ed.); 2021 (4ª ed., revista e ampliada)"
 date_sort: 1991
 period: null

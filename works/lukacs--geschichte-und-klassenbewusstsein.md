@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lukacs]
 original_language: de
 form: book
-work_type: political-theory
+work_type: filosofia
 date_written: "1923"
 date_sort: 1923
 period: modernidade-tardia

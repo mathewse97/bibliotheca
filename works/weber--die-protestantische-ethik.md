@@ -8,7 +8,7 @@ alt_titles: []
 authors: [weber]
 original_language: de
 form: book
-work_type: sociology
+work_type: ciencias-sociais
 date_written: "1904–1905 (ensaios); 1920 (versão revista)"
 date_sort: 1905
 period: modernidade-tardia

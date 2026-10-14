@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: he
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: religioso
 date_written: "composição em camadas, séc. XII a.C. – II d.C."
 date_sort: -500
 period: null

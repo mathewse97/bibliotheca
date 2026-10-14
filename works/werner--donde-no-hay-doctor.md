@@ -8,7 +8,7 @@ alt_titles: ["Novo Onde Não Há Médico", "Onde não há médicos"]
 authors: [werner]
 original_language: es
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: "1970"
 date_sort: 1970
 period: null

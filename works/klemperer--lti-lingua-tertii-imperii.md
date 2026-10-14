@@ -8,7 +8,7 @@ alt_titles: []
 authors: [klemperer]
 original_language: de
 form: book
-work_type: null
+work_type: historia
 date_written: "1947"
 date_sort: 1947
 period: null

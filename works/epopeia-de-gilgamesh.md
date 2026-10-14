@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: akk
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: literatura
 date_written: "versão padrão ninivita, 2º–1º milênio a.C. (datação debatida)"
 date_sort: -1200
 period: null

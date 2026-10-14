@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lontro, monteiro]
 original_language: pt-PT
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: "2012"
 date_sort: 2012
 period: null

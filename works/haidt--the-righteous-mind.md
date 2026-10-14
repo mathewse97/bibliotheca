@@ -11,10 +11,7 @@ alt_titles: []
 author: haidt
 original_language: en
 form: book
-work_type: null                  # psicologia moral empírica com argumento
-                                 # teórico amplo; mesmo problema de
-                                 # classificação que as outras três desta
-                                 # remessa.
+work_type: ciencias-sociais
 date_written: "2012"
 date_sort: 2012
 period: null

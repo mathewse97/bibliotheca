@@ -16,7 +16,7 @@ alt_titles: ["The Lost Art of Reading Nature's Signs",
 authors: [gooley]
 original_language: en
 form: book
-work_type: null
+work_type: pratico
 date_written: null
 date_sort: 2014
 period: null

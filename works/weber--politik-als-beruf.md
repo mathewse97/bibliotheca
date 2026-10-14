@@ -8,7 +8,7 @@ alt_titles: ["A ciência e a política como vocação"]   # como parte do volume
 author: weber
 original_language: de
 form: lecture                    # ← NÃO é um livro. Conferência.
-work_type: political-sociology
+work_type: ciencias-sociais
 date_written: "1919"
 date_sort: 1919
 period: modernidade-tardia

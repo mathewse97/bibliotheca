@@ -8,7 +8,7 @@ alt_titles: []
 authors: [alton, amy-alton]
 original_language: en
 form: book
-work_type: null                 # §E — sem slug para manual prático (como Werner)
+work_type: pratico
 date_written: "2013 (1ª ed.); 2021 (4ª ed., revista e ampliada)"
 date_sort: 2013
 period: null

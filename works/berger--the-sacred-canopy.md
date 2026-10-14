@@ -9,7 +9,7 @@ alt_titles: []
 authors: [berger]
 original_language: en
 form: book
-work_type: null
+work_type: ciencias-sociais
 date_written: "1967"
 date_sort: 1967
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [adorno, horkheimer]
 original_language: de
 form: book
-work_type: primary-source
+work_type: filosofia
 date_written: "1944 (circulação restrita); 1947 (publicação)"
 date_sort: 1947
 period: modernidade-tardia

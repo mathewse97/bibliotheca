@@ -8,7 +8,7 @@ alt_titles: []
 authors: [sofocles]
 original_language: grc
 form: play
-work_type: literatura         # valor criado por decisão sua em 2026-09-28
+work_type: literatura
 date_written: null              # ver provenance: "talvez a década de 440 a.C."
 date_sort: null
 period: null

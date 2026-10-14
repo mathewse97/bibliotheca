@@ -8,7 +8,7 @@ alt_titles: []
 authors: [defoe]
 original_language: en
 form: novel
-work_type: null
+work_type: literatura
 date_written: "1719"
 date_sort: 1719
 period: null

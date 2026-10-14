@@ -9,7 +9,7 @@ alt_titles: []
 authors: [eliade]
 original_language: fr
 form: book
-work_type: null
+work_type: historia
 date_written: "1978"
 date_sort: 1978
 period: null

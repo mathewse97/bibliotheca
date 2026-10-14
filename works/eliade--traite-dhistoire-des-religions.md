@@ -8,7 +8,7 @@ alt_titles: []
 authors: [eliade]
 original_language: fr
 form: treatise
-work_type: null
+work_type: ciencias-sociais
 date_written: "1949"
 date_sort: 1949
 period: null

@@ -10,7 +10,7 @@ alt_titles: []
 authors: [finkelstein, romer]
 original_language: fr
 form: book
-work_type: null
+work_type: historia
 date_written: "2019"
 date_sort: 2019
 period: null

@@ -8,7 +8,7 @@ alt_titles: ["Desenvolvimento e cultura: o problema do esteticismo no Brasil"]
 authors: [vieira-de-mello]
 original_language: pt
 form: book
-work_type: null                 # candidato: teoria/comentário da cultura — slug novo vai a revisão (§6.8)
+work_type: ciencias-sociais
 date_written: "1963 (primeira edição; relatado, não verificado em catálogo)"
 date_sort: 1963
 period: null

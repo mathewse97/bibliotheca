@@ -8,7 +8,7 @@ alt_titles: ["Sobre o Padrão do Gosto"]
 authors: [hume]
 original_language: en
 form: essay
-work_type: primary-source
+work_type: filosofia
 date_written: "1757"
 date_sort: 1757
 period: iluminismo

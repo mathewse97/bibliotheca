@@ -8,7 +8,7 @@ alt_titles: []
 authors: [van-lengen]
 original_language: es
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [warburton]
 original_language: en
 form: book
-work_type: null
+work_type: filosofia
 date_written: "2011"
 date_sort: 2011
 period: null

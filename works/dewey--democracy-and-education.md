@@ -8,8 +8,7 @@ alt_titles: []
 authors: [dewey]
 original_language: en
 form: book
-work_type: primary-source       # mesmo critério de Illich: Dewey não comenta a
-                                # posição progressista, formula-a
+work_type: filosofia
 date_written: "1916"
 date_sort: 1916
 period: null

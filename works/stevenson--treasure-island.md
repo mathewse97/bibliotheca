@@ -8,7 +8,7 @@ alt_titles: []
 authors: [stevenson]
 original_language: en
 form: novel
-work_type: null
+work_type: literatura
 date_written: "1883"
 date_sort: 1883
 period: null

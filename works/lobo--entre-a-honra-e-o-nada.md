@@ -8,7 +8,7 @@ alt_titles: []
 authors: [lobo]
 original_language: null         # provavelmente pt, mas não verificado
 form: null                      # book | essay | lecture | speech | dialogue | treatise | novel | play
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null

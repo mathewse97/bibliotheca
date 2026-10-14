@@ -8,7 +8,7 @@ alt_titles: []
 authors: [cerbasi]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2004"
 date_sort: 2004
 period: null

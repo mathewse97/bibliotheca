@@ -8,7 +8,7 @@ alt_titles: []
 authors: [cameron]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1993 (1ª ed., 395–600); 2ª ed., 2012"
 date_sort: 1993
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [van-de-mieroop]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2011 (1ª ed.); 2ª ed. revista, 2021"
 date_sort: 2011
 period: null

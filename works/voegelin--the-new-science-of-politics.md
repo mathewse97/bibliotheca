@@ -8,7 +8,7 @@ alt_titles: []
 authors: [voegelin]
 original_language: en
 form: book
-work_type: null
+work_type: filosofia
 date_written: "1952 (conferências de 1951)"
 date_sort: 1952
 period: null

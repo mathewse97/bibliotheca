@@ -8,9 +8,7 @@ alt_titles: []
 author: weber
 original_language: de
 form: lecture
-work_type: political-sociology   # provisório — a conferência é sociologia
-                                 # da ciência e da vocação acadêmica; a
-                                 # classificação definitiva pertence ao §E
+work_type: ciencias-sociais
 date_written: "1917 (proferida); 1919 (publicada)"
 date_sort: 1917
 period: modernidade-tardia

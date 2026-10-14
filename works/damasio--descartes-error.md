@@ -8,10 +8,7 @@ alt_titles: []
 author: damasio
 original_language: en
 form: book
-work_type: null                  # obra acadêmica de neurociência com forte
-                                 # componente teórico/filosófico; nenhuma das
-                                 # cinco categorias do blueprint encaixa com
-                                 # segurança. Levantado, não decidido.
+work_type: ciencia
 date_written: "1994"
 date_sort: 1994
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [schlaad-juliana, schlaad-sascha]   # organizadores; obra coletiva
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2019"
 date_sort: 2019
 period: null

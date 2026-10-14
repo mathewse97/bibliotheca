@@ -9,7 +9,7 @@ alt_titles:
 authors: [newman]
 original_language: en
 form: book
-work_type: primary-source       # Newman não narra a formação liberal: defende-a
+work_type: filosofia
 date_written: "1852–1858"       # discursos de Dublin (1852) e palestras
                                 # seguintes; reunidos como The Idea of a
                                 # University em 1873 — datas correntes, não

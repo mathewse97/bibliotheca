@@ -8,7 +8,7 @@ alt_titles: []
 authors: []
 original_language: akk
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: literatura
 date_written: "2º milênio a.C. (datação de composição debatida)"
 date_sort: -1500
 period: null

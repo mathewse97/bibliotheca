@@ -9,7 +9,7 @@ alt_titles: []
 authors: [armstrong]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1993"
 date_sort: 1993
 period: null

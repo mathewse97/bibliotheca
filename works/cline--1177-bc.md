@@ -8,7 +8,7 @@ alt_titles: []
 authors: [cline]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2014 (1ª ed.); 2021 (ed. revista e atualizada)"
 date_sort: 2014
 period: null

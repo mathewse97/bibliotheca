@@ -9,7 +9,7 @@ alt_titles: []
 authors: [jefferson]
 original_language: en
 form: null                      # vocabulário não tem valor para esta forma (§6.8)
-work_type: primary-source
+work_type: religioso
 date_written: "manuscrito montado c. 1820; primeira impressão 1895/1904"
 date_sort: 1820
 period: null

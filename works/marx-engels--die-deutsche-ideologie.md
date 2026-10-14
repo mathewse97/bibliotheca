@@ -8,7 +8,7 @@ alt_titles: []
 authors: [marx, engels]
 original_language: de
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1845–1846 (escrita); 1932 (primeira publicação, póstuma)"
 date_sort: 1846
 period: modernidade

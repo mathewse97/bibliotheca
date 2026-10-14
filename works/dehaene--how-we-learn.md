@@ -9,7 +9,7 @@ alt_titles:
 authors: [dehaene]
 original_language: en
 form: book
-work_type: null                 # mesmo caso de make-it-stick: classificação nova, vai a revisão
+work_type: ciencia
 date_written: "2020"
 date_sort: 2020
 period: null

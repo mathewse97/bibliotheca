@@ -8,7 +8,7 @@ alt_titles: []
 authors: [platao]
 original_language: grc
 form: speech
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null              # cronologia relativa disputada; não fixada (ver Fatos)
 date_sort: null
 period: null

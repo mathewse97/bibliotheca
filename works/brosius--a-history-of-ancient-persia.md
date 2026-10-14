@@ -8,7 +8,7 @@ alt_titles: []
 authors: [brosius]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2020"
 date_sort: 2020
 period: null

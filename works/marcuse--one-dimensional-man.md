@@ -8,7 +8,7 @@ alt_titles: []
 authors: [marcuse]
 original_language: en
 form: book
-work_type: political-theory
+work_type: filosofia
 date_written: "1964"
 date_sort: 1964
 period: modernidade-tardia

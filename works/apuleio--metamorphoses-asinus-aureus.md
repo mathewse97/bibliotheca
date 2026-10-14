@@ -8,7 +8,7 @@ alt_titles: []
 authors: [apuleio]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: literatura
 date_written: null
 date_sort: null
 period: null

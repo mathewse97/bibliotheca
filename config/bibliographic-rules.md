@@ -319,10 +319,13 @@ Hoje todos os 53 registros de obra e a única publicação estão
 
 ## E.5 `work_type` pertence ao §E
 
-Todos os 53 registros de obra trazem `work_type: null  # … (§E)`: a
-classificação é produto da pesquisa, não do import. O vocabulário está em
-`config/vocabularies.yaml` e é **aberto** — a lista declarada no cabeçalho dos
-registros termina em reticências, e portanto não pode ser fechada aqui.
+A classificação é produto da pesquisa, não do import: uma obra nova recebe o
+tipo quando é pesquisada, nunca por suposição a partir do título. Desde
+2026-10-14 o vocabulário é **fechado**, com os seis tipos de Mortimer Adler
+mais `religioso` e `consulta` (`config/vocabularies.yaml`; critério em
+`config/curation-rules.md` §2.9). Classificação duvidosa entre dois tipos fica
+com o predominante e é anotada na revisão da coleção; um tipo novo é decisão
+do Mathews.
 
 ---
 

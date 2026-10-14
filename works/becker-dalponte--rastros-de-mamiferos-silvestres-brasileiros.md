@@ -8,7 +8,7 @@ alt_titles: []
 authors: [becker, dalponte]
 original_language: pt-BR
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: consulta
 date_written: null
 date_sort: null
 period: null

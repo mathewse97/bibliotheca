@@ -8,10 +8,7 @@ alt_titles: []
 authors: [brown, roediger, mcdaniel]
 original_language: en
 form: book
-work_type: null                 # candidato: ciência empírica da aprendizagem —
-                                # slug novo é decisão de classificação e vai a
-                                # revisão (curation-rules.md §6.8), como ficou
-                                # hirsch--why-knowledge-matters
+work_type: ciencia
 date_written: "2014"
 date_sort: 2014
 period: null

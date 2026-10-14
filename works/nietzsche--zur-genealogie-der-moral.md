@@ -8,7 +8,7 @@ alt_titles: ["Genealogia da Moral: uma polêmica"]
 authors: [nietzsche]
 original_language: de
 form: treatise
-work_type: primary-source
+work_type: filosofia
 date_written: "1887"
 date_sort: 1887
 period: modernidade

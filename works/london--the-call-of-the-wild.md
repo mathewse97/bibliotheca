@@ -8,7 +8,7 @@ alt_titles: []
 authors: [london]
 original_language: en
 form: novel
-work_type: null
+work_type: literatura
 date_written: "1903"
 date_sort: 1903
 period: null

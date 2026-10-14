@@ -8,7 +8,7 @@ alt_titles: []
 authors: [bottero]
 original_language: fr
 form: book
-work_type: null
+work_type: historia
 date_written: "2004"
 date_sort: 2004
 period: null

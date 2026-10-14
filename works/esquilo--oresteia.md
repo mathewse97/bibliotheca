@@ -8,7 +8,7 @@ alt_titles: []
 authors: [esquilo]
 original_language: grc
 form: play                      # trilogia: três tragédias que formam UMA obra — ver `## Fatos`
-work_type: literatura         # valor criado por decisão sua em 2026-09-28
+work_type: literatura
 date_written: "458 a.C."
 date_sort: -458
 period: null

@@ -8,7 +8,7 @@ alt_titles: []
 authors: [brown-peter]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "1971"
 date_sort: 1971
 period: null

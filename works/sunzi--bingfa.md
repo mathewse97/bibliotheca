@@ -8,7 +8,7 @@ alt_titles: []
 authors: [sunzi]
 original_language: null
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: pratico
 date_written: null
 date_sort: null
 period: null

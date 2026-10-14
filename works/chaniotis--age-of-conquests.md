@@ -8,7 +8,7 @@ alt_titles: []
 authors: [chaniotis]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2018"
 date_sort: 2018
 period: null

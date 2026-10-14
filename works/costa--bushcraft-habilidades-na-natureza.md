@@ -8,7 +8,7 @@ alt_titles: []
 authors: [humberto-costa]
 original_language: pt-BR
 form: book
-work_type: null
+work_type: pratico
 date_written: "2022"
 date_sort: 2022
 period: null

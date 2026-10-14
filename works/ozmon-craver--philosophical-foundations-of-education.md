@@ -8,9 +8,7 @@ alt_titles: []
 authors: [ozmon, craver]
 original_language: en
 form: book
-work_type: null                 # manual universitário sistemático; não há slug
-                                # para esta categoria no vocabulário, e criar um
-                                # é decisão de classificação, não limpeza
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null

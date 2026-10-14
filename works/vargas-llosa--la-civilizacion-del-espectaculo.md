@@ -8,7 +8,7 @@ alt_titles: []
 authors: [vargas-llosa]
 original_language: es
 form: null                      # book | essay | lecture | dialogue | treatise | novel …
-work_type: null                 # primary-source | political-theory | … (§E)
+work_type: filosofia
 date_written: null
 date_sort: null
 period: null

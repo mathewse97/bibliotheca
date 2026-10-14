@@ -8,7 +8,7 @@ alt_titles: []
 authors: [vermes]
 original_language: en
 form: book
-work_type: null
+work_type: historia
 date_written: "2003"
 date_sort: 2003
 period: null

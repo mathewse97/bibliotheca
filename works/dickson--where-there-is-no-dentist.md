@@ -8,7 +8,7 @@ alt_titles: []
 authors: [dickson]
 original_language: en
 form: book
-work_type: null                 # §E — sem slug para manual prático; ver review/
+work_type: pratico
 date_written: "1983"
 date_sort: 1983
 period: null

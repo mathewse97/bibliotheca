@@ -8,7 +8,7 @@ alt_titles: []
 author: han
 original_language: de
 form: book
-work_type: null                  # mesmo problema de han--muedigkeitsgesellschaft
+work_type: filosofia
 date_written: "2023"
 date_sort: 2023
 period: null

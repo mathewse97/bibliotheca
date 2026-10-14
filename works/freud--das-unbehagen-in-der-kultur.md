@@ -8,7 +8,7 @@ alt_titles: ["O Mal-Estar na Cultura"]
 authors: [freud]
 original_language: de
 form: book
-work_type: primary-source
+work_type: ciencias-sociais
 date_written: "1929 (escrita); 1930 (publicada)"
 date_sort: 1930
 period: modernidade-tardia
