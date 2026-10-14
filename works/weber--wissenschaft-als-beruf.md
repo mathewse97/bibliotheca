@@ -59,7 +59,7 @@ provenance:
            de 1917 para a conferência sobre a ciência, que consta no campo
            date_written, NÃO foi confirmada nesta fonte e continua por
            verificar."
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Martin Claret, 2015, trad. Marco Antônio Casanova", note: "Tradutor experiente do alemão, mas a edição não foi confirmada."}
   - {edition: "Portugal, 2017, trad. Artur Morão", note: "Tradução de Artur Morão em português de Portugal."}
@@ -68,6 +68,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Conferência de Max Weber proferida em Munique e publicada em 1919. Descreve a ciência moderna como especializada e sempre destinada a ser superada, e a racionalização como produtora do desencantamento do mundo. Conclui que a ciência pode esclarecer meios e consequências, mas não dizer como se deve viver, e que o professor não deve pregar da cátedra.
+
+## Como ler
+
+- **A pergunta:** o que a ciência e a universidade podem dar a quem estuda, e o que não podem?
+- **Onde está o centro:** o começo, sobre as condições da carreira acadêmica; o meio, sobre o desencantamento do mundo pela racionalização; e o final, em que Max Weber diz que o professor não deve fazer profecia na sala de aula, porque a ciência não responde à pergunta sobre como devemos viver.
+- **Postura:** É uma conferência curta, feita a estudantes em Munique, e se lê inteira. Leia junto de *A Política como Vocação*, a conferência irmã, e repare no tom sóbrio: Weber se recusa a consolar os ouvintes.
 
 ## Fatos
 

@@ -60,12 +60,18 @@ derived_from:
          como candidata em review/gaps/education.yaml, gap education--g03)
          é raciocínio de Claude a partir do que já estava registrado."
 
-updated: 2026-09-10
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Livro de Ivan Illich, publicado em inglês em 1971. Argumenta que a escola, como instituição, produz o oposto do que promete: substitui a aprendizagem pela credencial e a autonomia pela dependência de especialistas. Não critica um currículo ou uma pedagogia, mas a própria forma escolar, e propõe redes livres de aprendizagem em seu lugar.
+
+## Como ler
+
+- **A pergunta:** a escola educa, ou ensina as pessoas a confundir aprender com receber um diploma?
+- **Onde está o centro:** o capítulo 1, sobre por que é preciso tirar da escola o monopólio da educação; e o capítulo 6, sobre as teias de aprendizagem, a alternativa que Ivan Illich propõe: redes que ligam quem quer aprender a objetos, a colegas e a quem sabe.
+- **Postura:** É um ensaio polêmico e curto: leia inteiro. Separe o diagnóstico, que muitos aceitam, da proposta, que é a parte mais discutível. É a posição oposta à de Mortimer Adler: Adler quer uma escola melhor, Illich não quer a escola.
 
 ## Fatos
 

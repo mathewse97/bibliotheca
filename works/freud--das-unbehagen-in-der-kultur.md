@@ -48,7 +48,7 @@ provenance:
            alemão diz 'Kultur', e a tradução consagrada em português diz
            'civilização' — a escolha entre as duas palavras é assunto da
            pesquisa de edição."
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O mal-estar na cultura, Autêntica, 2025", note: "Tradução recente de Maria Rita Salzano Moraes, com glossário dos termos de Freud; o título diz \"cultura\", mais literal, em vez do consagrado \"civilização\"."}
   - {edition: "Obras completas, vol. 18, Companhia das Letras, 2010", note: "A tradução de Paulo César de Souza dentro do volume 18 das obras completas de Freud, em capa dura e com outros textos; mais volumosa e cara."}
@@ -58,6 +58,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Ensaio de Sigmund Freud escrito em 1929 e publicado em 1930, em alemão. Sustenta que a civilização exige do indivíduo a renúncia às pulsões e que essa renúncia produz um mal-estar permanente, que nenhum progresso técnico resolve. É uma das obras mais influentes de Freud fora da clínica e marcou a crítica da cultura do século XX.
+
+## Como ler
+
+- **A pergunta:** por que a civilização, criada para nos proteger do sofrimento, nos deixa tão insatisfeitos?
+- **Onde está o centro:** o capítulo I (o sentimento oceânico, em resposta ao escritor Romain Rolland, a respeito da religião); o III (a civilização exige a renúncia aos instintos); o V e o VI (a agressividade e a pulsão de morte); e o VII e o VIII (o sentimento de culpa como preço da civilização).
+- **Postura:** É um ensaio curto e acessível, mas supõe os conceitos da psicanálise. Leia como argumento sobre a cultura, e não como ciência comprovada: muitas premissas de Sigmund Freud são hoje discutidas.
 
 ## Fatos
 

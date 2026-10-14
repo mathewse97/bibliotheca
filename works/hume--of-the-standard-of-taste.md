@@ -57,7 +57,7 @@ provenance:
     note: "Consequência prática para o §E: em português o texto costuma vir
            dentro de coletâneas de ensaios, e não como volume próprio. A
            publicação a pesquisar é uma coletânea."
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "A arte de escrever ensaio, Iluminuras, 2008", note: "Brasileira e fácil de comprar nova, mas é uma coletânea geral: o ensaio fica no meio de textos sobre outros assuntos."}
   - {edition: "Ensaios morais, políticos e literários, Topbooks, 2004", note: "A coletânea inteira dos ensaios, com 850 páginas; o nome do tradutor não está confirmado."}
@@ -66,6 +66,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Ensaio de David Hume publicado em 1757. Parte de um paradoxo: o gosto parece puramente subjetivo, e no entanto ninguém aceita que um poeta menor valha tanto quanto Milton. Hume busca um padrão que respeite as duas intuições e o encontra no juízo convergente de críticos qualificados, formados pela prática, pela comparação e pela ausência de preconceito. Formula o problema que Kant retomaria na *Crítica da faculdade do juízo*.
+
+## Como ler
+
+- **A pergunta:** se a beleza depende do sentimento de cada um, como pode haver um gosto melhor que outro?
+- **Onde está o centro:** o problema do começo: dizem que gosto não se discute, e no entanto ninguém iguala um poeta medíocre a Milton; a história dos dois parentes de Sancho Pança que provam um vinho e sentem gosto de couro e de ferro, quando no fundo do barril havia uma chave presa a uma correia de couro; e as qualidades do bom crítico: sensibilidade delicada, prática, comparação, ausência de preconceito e bom senso.
+- **Postura:** É um ensaio curto: leia de uma vez e depois volte ao argumento. Repare onde David Hume admite que restam diferenças legítimas de gosto, ligadas à idade, ao temperamento e à época.
 
 ## Fatos
 

@@ -50,10 +50,15 @@ derived_from:
                 ISBN, formato, dimensoes]
   note: "Cartão d-edu-newman, opção A, com a colocação corrigida por você
          para o movimento VII (ver review/education.md §13)."
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Conjunto de conferências e ensaios de John Henry Newman, reunidos entre 1852 e 1858 a partir de sua atuação na fundação da Universidade Católica da Irlanda. Defende o conhecimento liberal como fim em si mesmo e a universidade como lugar de ensino do saber universal, voltado à formação do intelecto. É um dos textos clássicos sobre a ideia de universidade.
 
+## Como ler
+
+- **A pergunta:** para que serve a universidade, e o conhecimento vale por si mesmo?
+- **Onde está o centro:** os discursos V a VIII: o conhecimento como fim em si mesmo; o conhecimento em relação ao saber, à habilidade profissional e à religião; e o retrato célebre do cavalheiro como fruto da educação liberal.
+- **Postura:** São conferências do século XIX, de prosa longa e cuidada: leia devagar, um discurso por vez. John Henry Newman escreve como católico, para fundar uma universidade católica na Irlanda, mas a defesa da educação liberal vale para além disso.

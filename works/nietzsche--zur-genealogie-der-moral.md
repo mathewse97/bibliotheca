@@ -43,7 +43,7 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-19
     confidence: verified
-updated: 2026-09-19
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "L&PM, 2018, e edições populares", note: "Edições populares sem tradutor conhecido e sem introdução ou notas."}
 ---
@@ -51,6 +51,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Escrita por Friedrich Nietzsche em 1887, em alemão, *Genealogia da Moral* reúne três dissertações sobre a origem dos valores morais: a oposição entre moral dos senhores e moral dos escravos, a culpa e a má consciência, e o sentido dos ideais ascéticos. Sustenta que os valores não foram descobertos, mas produzidos historicamente, e que é possível perguntar a serviço de quem se formaram. Está na origem da suspeita moderna sobre o caráter natural dos valores, e a crítica da cultura do século XX deve muito ao seu método.
+
+## Como ler
+
+- **A pergunta:** de onde vêm os nossos valores morais, e a que interesses eles serviram?
+- **Onde está o centro:** a primeira dissertação (bom e mau, bom e ruim: a revolta dos escravos na moral, nascida do ressentimento); a segunda (a culpa, a má consciência e a dívida); e a terceira (o que significam os ideais ascéticos).
+- **Postura:** É um texto polêmico, escrito para provocar, e não uma história no sentido do historiador. Leia como hipótese a avaliar, separando o argumento da retórica. O prefácio explica o método e vale a leitura.
 
 ## Fatos
 

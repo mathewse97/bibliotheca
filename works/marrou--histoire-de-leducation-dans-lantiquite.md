@@ -28,12 +28,18 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-09-05
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Obra do historiador francês Henri-Irénée Marrou, publicada em 1948. Traça a história da educação no mundo antigo, da Grécia arcaica a Roma e ao início da era cristã, mostrando a formação do ideal clássico de cultura e formação humana. Tornou-se a referência clássica sobre o tema.
+
+## Como ler
+
+- **A pergunta:** como os gregos e os romanos educavam, e como nasceu a ideia de formação que o Ocidente herdou?
+- **Onde está o centro:** a primeira parte, da educação dos heróis de Homero à de Platão e Isócrates; a segunda, a educação helenística, que Marrou considera o modelo clássico por excelência, com a escola, a gramática e a retórica; e a terceira, sobre Roma e a passagem à escola cristã.
+- **Postura:** É obra de historiador, longa mas muito legível, e pode ser lida por partes. Repare na tese central: a educação clássica que o Ocidente herdou é sobretudo a helenística, e não a de Atenas no século V a.C.
 
 ## Fatos
 

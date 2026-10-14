@@ -197,9 +197,9 @@ sequence:
   - work: suassuna--iniciacao-a-estetica
     role: foundational
     demand: moderado
-    why_here: "É um excelente ponto de entrada para a filosofia da arte,
-               escrito por um autor que alia erudição e clareza."
-    why_here_by: voce
+    why_here: "Introdução à filosofia da arte escrita pelo dramaturgo Ariano Suassuna, que alia erudição e clareza. Leia buscando o mapa das grandes perguntas da estética (o que é o belo, o que é a arte) antes de ir aos autores que as formularam."
+    why_here_by: claude
+    why_here_previous: "É um excelente ponto de entrada para a filosofia da arte, escrito por um autor que alia erudição e clareza."
     perspective: "Teoria da arte e estética."
     subjects_stated: [beleza, arte, experiencia-estetica, criacao-artistica,
                       tradicao-ocidental, cultura-brasileira]
@@ -323,9 +323,9 @@ sequence:
   - work: vargas-llosa--la-civilizacion-del-espectaculo
     role: critical-response
     demand: leve
-    why_here: "É uma leitura mais acessível e jornalística, embora também
-               provoque reflexão."
-    why_here_by: voce
+    why_here: "Ensaio do escritor peruano Mario Vargas Llosa, mais acessível e jornalístico que os outros diagnósticos da coleção. Leia buscando a tese de que a cultura virou entretenimento, e o que ele acha que se perde com isso."
+    why_here_by: claude
+    why_here_previous: "É uma leitura mais acessível e jornalística, embora também provoque reflexão."
     perspective: "Ensaio cultural e crítica social."
     subjects_stated: [cultura-como-entretenimento, midia, banalizacao-da-arte,
                       debate-publico]
@@ -335,9 +335,9 @@ sequence:
   - work: scruton--culture-counts
     role: critical-response
     demand: moderado
-    why_here: "Indicado para quem deseja compreender uma defesa filosófica da
-               tradição cultural ocidental."
-    why_here_by: voce
+    why_here: "Defesa filosófica da tradição cultural ocidental pelo filósofo Roger Scruton. Leia buscando o argumento de que a alta cultura transmite um modo de sentir e de julgar que não se aprende de outro jeito, e confronte-o com o diagnóstico de Mario Vargas Llosa."
+    why_here_by: claude
+    why_here_previous: "Indicado para quem deseja compreender uma defesa filosófica da tradição cultural ocidental."
     perspective: "Filosofia da cultura e conservadorismo."
     subjects_stated: [alta-cultura, religiao, beleza, tradicao,
                       identidade-cultural, critica-ao-relativismo]
