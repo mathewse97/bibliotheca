@@ -42,7 +42,7 @@ própria seção e não é repetido aqui.
 |---|---|---|
 | §C | `# §C · Identificadores` | forma dos ids, formas observadas, `id_aliases` |
 | §E | `# §E · Hierarquia de fontes e pesquisa de edição` | escala de fontes, suposições recusadas, fluxo em dez passos, o que a pesquisa produz e o que nunca faz, quando uma obra está pesquisada, `work_type` |
-| §F | `# §F · Seleção de edição e preferência de idioma` | procedimento, preferência de idioma, edições bilíngues |
+| §F | `# §F · Seleção de edição e preferência de idioma` | procedimento, preferência de idioma, edições bilíngues, o mesmo critério para todas as obras (F.7) |
 
 Extrair uma seção sem ler o arquivo inteiro:
 
@@ -497,3 +497,25 @@ registradas (`acquisition`); se um link quebrar, o Mathews avisa. Uma escolha
 dele se registra como **escolha dele, com data** — não pela lista de onde veio.
 Também não se registram observações sem uso para ele, como a existência de
 versões digitais de uma edição.
+
+## F.7 O mesmo critério para todas as obras — decisão do Mathews, 2026-10-14
+
+Toda obra recebe o mesmo critério alto de escolha de edição do §F.1, sem
+exceção. Não importa o tipo da obra (`work_type`) nem o nível dela na pirâmide
+de Adler (`curation-rules.md` §2.9): um dicionário, um manual de sobrevivência
+ou um panorama moderno passa pelos mesmos portões e pela mesma comparação de
+qualidade que um grande livro.
+
+- **Nunca vale "qualquer edição boa serve".** Toda escolha compara as edições
+  existentes e diz por que esta e não as outras (`interface-rules.md` §11).
+- **O nível da pirâmide decide o lugar da obra na coleção, não o cuidado com a
+  edição.** Uma obra de consulta pode ter menos peso na sequência; a edição
+  dela é escolhida com o mesmo rigor.
+- **A ordem dos lotes de pesquisa é só sequência** (`research-procedure.md`
+  §2): começar pelas obras de maior peso não autoriza pesquisar as seguintes
+  com menos rigor.
+- O que muda de obra para obra são os critérios que pesam, não a exigência:
+  num clássico pesam a tradução e o aparato; num manual técnico, a atualidade
+  da edição e a adequação ao Brasil; num dicionário, a edição revista mais
+  recente e a qualidade da tradução.
+
