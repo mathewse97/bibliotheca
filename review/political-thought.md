@@ -502,8 +502,8 @@ Juízo do agente, não decisão: o nível de cada obra fica registrado aqui e n�
 vai para a tela. Tudo o que pede mudança virou cartão em `review/decisions.yaml`
 (`d-pol-adler-*`). Nenhuma obra foi movida, tirada ou trocada.
 
-**Níveis:** A — releitura (inesgotável); B — uma leitura séria; C — informação
-ou consulta. **Papel:** 1 fonte central; 2 cobre posição ou problema que
+**Níveis:** A — grande livro; B — livro de estudo; C — informação ou
+consulta. **Papel:** 1 fonte central; 2 cobre posição ou problema que
 nenhuma outra cobre; 3 melhor guia para fonte difícil; 4 tratamento literário.
 
 **Resultado:** 54 obras — 29 A, 20 B, 5 C. A coleção é sólida; o excesso, onde
