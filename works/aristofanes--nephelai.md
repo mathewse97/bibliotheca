@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "As nuvens, Só para mulheres, Um deus chamado dinheiro, Zahar, 1995, trad. Mário da Gama Kury", note: "A mesma tradução de Mário da Gama Kury em edição mais simples, com notas breves, num volume com outras duas comédias de Aristófanes."}
   - {edition: "Clouds, Aris & Phillips, ed. e trad. Alan H. Sommerstein", note: "Grego e inglês lado a lado, com o comentário mais completo, de Alan Sommerstein, especialista em Aristófanes; importada e cara, perto de R$ 500."}
@@ -42,6 +42,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Comédia de Aristófanes, encenada em Atenas em 423 a.C. e conservada numa versão revista pelo autor. Um pai endividado manda o filho à escola de Sócrates para aprender a vencer qualquer causa com argumentos, e a peça satiriza a nova educação sofística e a investigação da natureza. O retrato de Sócrates que ela fixou é lembrado por Platão na *Apologia* como uma das origens do preconceito contra o filósofo.
+
+## Como ler
+
+- **A pergunta:** a nova educação dos sofistas, que ensina a vencer qualquer discussão, corrompe a cidade?
+- **Onde está o centro:** a chegada do velho Estrepsíades à escola de Sócrates, o "pensatório"; o debate entre o Argumento Justo e o Argumento Injusto; e o final, quando o filho usa o que aprendeu contra o próprio pai e a escola é incendiada.
+- **Postura:** É comédia: leia para rir, e não como retrato fiel de Sócrates, que aparece pendurado num cesto. Na *Apologia*, Platão diz que esta peça ajudou a formar o preconceito que levou Sócrates à condenação. Leia antes da *Apologia*.
 
 ## Fatos
 

@@ -53,8 +53,9 @@ Teatro completo VI da Editora 34.
   um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
   as outras seis coleções, uma por vez, a pedido dele.
 - **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
-  Feito: as 29 obras de nível A de Política (2026-10-14). Próximo lote: as de
-  nível A de Greco-Romana, depois as outras coleções.
+  Feito (2026-10-14): as obras de releitura de Política (29) e de
+  Greco-Romana (35 a mais), e Como Ler Livros. 65 obras no total. Próximo:
+  Religião, Cultura, Educação, Sobrevivência, Oriente Próximo.
 - **Tipo de cada obra** (`config/vocabularies.yaml`, `work_type`): as 230
   classificadas em 2026-10-14; 13 casos duvidosos listados no próprio
   vocabulário.

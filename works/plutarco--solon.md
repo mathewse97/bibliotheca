@@ -30,7 +30,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Gredos, Vidas paralelas II, 2024", note: "Tradução espanhola de Aurelio Pérez Jiménez, direta do grego e com notas; ficou como alternativa por ser em espanhol e importada."}
   - {edition: "Vida de Sólon, Relógio d'Água, 1999", note: "Tradução de Delfim Leão, mas só da vida de Sólon, sem a de Publícola, que Plutarco escreveu para ser lida em par."}
@@ -39,6 +39,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Biografia de Sólon, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Publícola. Trata do legislador e poeta ateniense do século VI a.C., cujas reformas estão na origem da democracia ateniense.
+
+## Como ler
+
+- **A pergunta:** como um legislador dá leis a uma cidade dividida entre ricos e pobres?
+- **Onde está o centro:** o cancelamento das dívidas que escravizavam os pobres, as novas leis de Atenas e a conversa com o rei Creso sobre quem é feliz.
+- **Postura:** É uma biografia curta. Plutarco escreve vidas, não histórias: busca o caráter. Leia junto do livro I de Heródoto, que conta o mesmo encontro com Creso.
 
 ## Fatos
 

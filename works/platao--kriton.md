@@ -41,7 +41,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-17
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Edições 70, trad. Manuel de Oliveira Pulquério", note: "Tradução de Manuel de Oliveira Pulquério, de Coimbra, direto do grego e com notas, mas importada de Portugal e sem o grego ao lado."}
   - {edition: "L&PM Pocket, trad. André Malta", note: "Tradução de André Malta, professor de grego da USP, em edição de bolso com o Êutifron, mas sem o texto grego ao lado."}
@@ -50,6 +50,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Diálogo de Platão, em grego antigo, passado na prisão dias antes da execução de Sócrates. Críton tenta convencê-lo a fugir; Sócrates recusa, argumentando que não se deve cometer injustiça nem em resposta a uma injustiça, e dá voz às Leis de Atenas, com as quais teria um acordo. Trata da relação entre a consciência individual, a justiça e a obediência à cidade.
+
+## Como ler
+
+- **A pergunta:** devemos obedecer às leis da cidade mesmo quando elas nos condenam injustamente?
+- **Onde está o centro:** a recusa de Sócrates em fugir da prisão e, sobretudo, o discurso das Leis de Atenas, que Sócrates imagina falando com ele.
+- **Postura:** É curtíssimo e se lê de uma vez, logo depois da *Apologia*. Compare com *Antígona*, de Sófocles: lá a heroína desobedece em nome de uma lei mais alta; aqui Sócrates obedece mesmo injustiçado.
 
 ## Fatos
 

@@ -30,7 +30,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora 34, 2015, Hipólito, trad. Trajano Vieira", note: "Hipólito traduzido por Trajano Vieira, professor de grego da Unicamp, com notas; avulso, só esta peça."}
   - {edition: "Zahar, trad. Mário da Gama Kury", note: "Tradução de Mário da Gama Kury, direta do grego e fácil de ler, num volume com Medeia, Hipólito e As Troianas, mas sem o grego ao lado."}
@@ -39,6 +39,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tragédia de Eurípides encenada em 428 a.C., premiada no concurso daquele ano. Fedra, esposa de Teseu, é tomada por uma paixão pelo enteado Hipólito, devoto de Ártemis que rejeita Afrodite; a revelação desse amor leva à morte de ambos.
+
+## Como ler
+
+- **A pergunta:** o que acontece com quem recusa uma força como o desejo, e com quem não consegue resistir a ela?
+- **Onde está o centro:** o prólogo da deusa Afrodite, que anuncia a vingança; a confissão de Fedra à ama; a explosão de Hipólito contra as mulheres; e a maldição de Teseu sobre o filho, que ele julga culpado.
+- **Postura:** Leia de uma vez, atento às duas deusas, Afrodite e Ártemis, que abrem e fecham a peça: os humanos ficam entre elas. Ninguém é simplesmente vilão.
 
 ## Fatos
 

@@ -29,7 +29,7 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "O Encheirídion de Epicteto, Imprensa da Universidade de Coimbra / Annablume, 2014, trad. Aldo Dinucci e Alfredo Julien", note: "Edição dos mesmos tradutores com o grego ao lado e comentário, mas não se acha à venda no Brasil."}
 ---
@@ -37,6 +37,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Breve manual de ética estoica que reúne ensinamentos do filósofo Epicteto (séc. I–II d.C.), compilado por seu discípulo Arriano. Parte da distinção entre o que depende de nós e o que não depende, e propõe exercícios para governar juízos e desejos e viver com serenidade diante do que não se controla. É um dos textos mais lidos do estoicismo.
+
+## Como ler
+
+- **A pergunta:** o que depende de nós e o que não depende, e como viver sabendo a diferença?
+- **Onde está o centro:** o primeiro capítulo, que traz a ideia inteira: só dependem de nós os nossos juízos, desejos e ações; o resto não. Os demais capítulos aplicam essa distinção a casos da vida.
+- **Postura:** É um manual de bolso, de capítulos curtos, compilado por Arriano, aluno de Epicteto. Leia como exercício: um capítulo, e depois tente aplicá-lo no dia. Epicteto foi escravo antes de ser filósofo.
 
 ## Fatos
 

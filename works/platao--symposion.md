@@ -41,12 +41,18 @@ derived_from:
   note: "Título e autoria vieram da sua lista de Cultura e História
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
-updated: 2026-09-17
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Diálogo de Platão, em grego antigo, que reproduz os discursos em louvor de Eros feitos num banquete em Atenas, entre eles os de Aristófanes, Agatão e Sócrates. Sócrates relata o ensinamento de Diotima, segundo o qual o amor conduz da beleza dos corpos à contemplação do belo em si. Termina com a entrada de Alcibíades e seu elogio de Sócrates.
+
+## Como ler
+
+- **A pergunta:** o que é o amor, e para onde ele nos leva?
+- **Onde está o centro:** os discursos em louvor a Eros, sobretudo o de Aristófanes (os seres cortados ao meio que procuram a sua metade) e o de Sócrates, que conta o que aprendeu com Diotima: a escada do amor, que sobe de um corpo belo até a própria Beleza. No fim, Alcibíades chega bêbado e faz o elogio de Sócrates.
+- **Postura:** Leia como uma sequência de discursos que se respondem, cada um subindo um degrau. A chegada de Alcibíades não é um intervalo: é a prova viva do que Sócrates acabou de dizer.
 
 ## Fatos
 

@@ -39,7 +39,7 @@ derived_from:
   collection: greco-roman
   transcribed: [title_pt, authors]
   note: "Incluída por decisão sua em 2026-09-23. A autoria de Ésquilo é discutida pelos estudiosos — a verificar no §E."
-updated: 2026-09-23
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Zahar, trad. Mário da Gama Kury", note: "Prometeu acorrentado traduzido por Mário da Gama Kury, direto do grego e fluente, mas sem o grego ao lado e sem as outras três peças."}
   - {edition: "Perspectiva, 1997, trad. Trajano Vieira", note: "Prometeu recriado em verso por Trajano Vieira, professor de grego da Unicamp; traz só esta peça de Ésquilo."}
@@ -48,6 +48,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Tragédia tradicionalmente atribuída a Ésquilo, cuja autoria é discutida pelos estudiosos. Mostra o titã Prometeu acorrentado a um rochedo por ordem de Zeus, como castigo por ter dado o fogo aos homens, e seu desafio ao novo senhor dos deuses, cujo destino ele afirma conhecer.
+
+## Como ler
+
+- **A pergunta:** é justo um deus castigar quem ajudou os homens?
+- **Onde está o centro:** o discurso de Prometeu sobre tudo o que deu aos humanos (o fogo, os números, as letras, as artes); o encontro com Io, outra vítima de Zeus; e o final, quando ele se recusa a revelar o segredo que ameaça o poder de Zeus.
+- **Postura:** Quase não há ação: Prometeu passa a peça inteira preso a uma rocha, e tudo se faz em diálogo. Leia como um debate sobre poder e justiça. A peça fazia parte de uma trilogia cujas outras partes se perderam, e por isso a pergunta fica sem resposta.
 
 ## Fatos
 

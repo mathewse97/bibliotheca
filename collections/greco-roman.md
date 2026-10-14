@@ -887,23 +887,23 @@ sequence:
   # como a memória política da Antiguidade foi construída."
   # -------------------------------------------------------------------------
   - {work: plutarco--solon, role: primary-source, demand: moderado,
-     why_here: "formação da democracia", why_here_by: voce,
+     why_here: "Vida do legislador que, no começo do século VI a.C., acabou com a escravidão por dívidas e reformou as leis de Atenas. Leia buscando a formação da democracia ateniense: o que Sólon resolveu e o que deixou em aberto.", why_here_by: claude, why_here_previous: "formação da democracia",
      publication_pref: pub--coimbra--vidas-paralelas-solon-e-publicola--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, como as outras Vidas; pesquisa na obra
   - {work: plutarco--themistokles, role: primary-source, demand: moderado,
-     why_here: "Guerras Médicas", why_here_by: voce,
+     why_here: "Vida do general que convenceu Atenas a construir uma frota e venceu os persas em Salamina, em 480 a.C. Leia buscando as Guerras Médicas e como o poder no mar mudou Atenas.", why_here_by: claude, why_here_previous: "Guerras Médicas",
      publication_pref: pub--gredos--vidas-paralelas-ii--2024}   # decisão sua, 2026-10-10 (d-ed-plutarco-temistocles)
   - {work: plutarco--perikles, role: primary-source, demand: moderado,
-     why_here: "auge de Atenas", why_here_by: voce,
+     why_here: "Vida do líder de Atenas no auge da cidade, quando se construiu o Partenon. Leia buscando o auge de Atenas e o preço do seu império.", why_here_by: claude, why_here_previous: "auge de Atenas",
      publication_pref: pub--annablume--vidas-paralelas-pericles-e-fabio-maximo--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra
   - {work: plutarco--alkibiades, role: primary-source, demand: moderado,
-     why_here: "crise e Guerra do Peloponeso", why_here_by: voce,
+     why_here: "Vida do político brilhante e sem lealdade que mudou de lado várias vezes na guerra contra Esparta. Leia buscando a crise de Atenas na Guerra do Peloponeso.", why_here_by: claude, why_here_previous: "crise e Guerra do Peloponeso",
      publication_pref: pub--annablume--vidas-paralelas-alcibiades-e-coriolano--2011}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra
   - {work: plutarco--demosthenes, role: primary-source, demand: moderado,
-     why_here: "crise do século IV e Macedônia", why_here_by: voce}
+     why_here: "Vida do maior orador de Atenas, que lutou contra Filipe da Macedônia. Leia buscando a crise do século IV a.C. e o fim da independência das cidades gregas.", why_here_by: claude, why_here_previous: "crise do século IV e Macedônia"}
   - {work: plutarco--alexandros, role: primary-source, demand: moderado,
-     why_here: "conquista e expansão helenística", why_here_by: voce}
+     why_here: "Vida do rei macedônio que conquistou o império persa. Leia buscando a passagem do mundo das cidades gregas para o mundo helenístico.", why_here_by: claude, why_here_previous: "conquista e expansão helenística"}
   - {work: plutarco--kaisar, role: primary-source, demand: moderado,
-     why_here: "transição para o mundo romano", why_here_by: voce,
+     why_here: "Vida de Júlio César, par da de Alexandre nas *Vidas Paralelas*. Leia buscando a passagem da república romana para o governo de um só, e compare os dois conquistadores.", why_here_by: claude, why_here_previous: "transição para o mundo romano",
      scope: "Par de Alexandre. É o único ponto da coleção em que a passagem
              Grécia → Roma acontece dentro de uma fonte antiga."}
 

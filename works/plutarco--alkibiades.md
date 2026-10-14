@@ -30,12 +30,18 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 ---
 
 ## Sobre a obra
 
 Biografia de Alcibíades, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Coriolano. Acompanha o político ateniense, discípulo de Sócrates, cujas mudanças de lado marcaram a Guerra do Peloponeso e a crise de Atenas.
+
+## Como ler
+
+- **A pergunta:** o que acontece quando um talento enorme não tem caráter?
+- **Onde está o centro:** a juventude ao lado de Sócrates, a expedição à Sicília e as sucessivas trocas de lado durante a Guerra do Peloponeso.
+- **Postura:** É uma biografia curta, mais interessada no caráter do que nos fatos. Compare com o fim d'*O Banquete* de Platão, onde Alcibíades aparece, e com os livros VI e VII de Tucídides.
 
 ## Fatos
 

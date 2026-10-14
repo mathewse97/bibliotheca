@@ -41,7 +41,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
   import_note: "Esta obra entrou pela expansão de uma entrada de VOLUME da sua lista (decisão sua, 2026-09-12). O texto que você escreveu descrevia o volume inteiro e está preservado verbatim na entrada da coleção, atribuído a você; ele não foi redistribuído por obra."
-updated: 2026-09-12
+updated: 2026-10-14
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "BUR, Alessandro e Cesare, trad. Domenico Magnino", note: "Edição italiana com o grego ao lado e notas de Barbara Scardigli, mas em italiano e sem volume equivalente confirmado para Demóstenes."}
   - {edition: "Paumape, 1992, trad. Gilson César Cardoso", note: "Edição brasileira antiga, só usada, sem avaliação acadêmica que confirme a qualidade da tradução."}
@@ -50,6 +50,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 ## Sobre a obra
 
 Biografia de Júlio César, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Alexandre. Acompanha a carreira de César até seu assassinato, no momento em que a república romana dá lugar ao poder pessoal.
+
+## Como ler
+
+- **A pergunta:** como um homem ambicioso derruba uma república?
+- **Onde está o centro:** a carreira política, a travessia do Rubicão, a ditadura e o assassinato.
+- **Postura:** Leia depois da *Vida de Alexandre* e compare os dois. A peça *Júlio César* de William Shakespeare, na coleção Política, nasceu de Plutarco.
 
 ## Fatos
 
