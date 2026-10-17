@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: schmitt--der-begriff-des-politischen
     why: "Sua indicação: tradução de Alexandre Franco de Sá, com introdução e notas que mostram as diferenças entre as três versões que Schmitt publicou do texto (1927, 1932 e 1933), coisa que nenhuma outra edição em português faz. É de Portugal e difícil de achar no Brasil."
-    verdict: unassessed
-    reason: "Edição indicada pelo Mathews (tradução de Alexandre Franco de Sá); localizada e registrada em 2026-10-09."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com a da Vozes (1992, trad. Álvaro Valls, esgotada) e a da Del Rey (2008, trad. Geraldo de Carvalho, sem língua de origem confirmada). É a única com introdução e notas que mostram as diferenças entre as três versões do texto (1927, 1932, 1933). Português de Portugal; precisa ser importada."
     translator: [franco-de-sa]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [introducao, notas, variantes]
 
 cover:
   file: covers/pub--edicoes-70--o-conceito-do-politico--2015.webp
@@ -84,9 +84,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Edição indicada pelo Mathews. A pesquisa complementar de 2026-10-09 (registro da obra) não achou edição melhor: é a única com aparato sobre as três versões do texto. O ponto fraco é a obtenção — português de Portugal e sem oferta no Brasil na data.
+**Recomendada** (2026-10-17). Edição indicada pelo Mathews. A pesquisa complementar de 2026-10-09 (registro da obra) não achou edição melhor: é a única com aparato sobre as três versões do texto. O ponto fraco é a obtenção — português de Portugal e sem oferta no Brasil na data.

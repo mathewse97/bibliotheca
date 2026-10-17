@@ -32,13 +32,13 @@ source_of_record: claude
 contains:
   - work: marcuse--one-dimensional-man
     why: "Tradução de Robespierre de Oliveira, direto do inglês, e a única brasileira à venda nova. Traz a introdução de Douglas Kellner escrita para a segunda edição inglesa."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-09: única tradução brasileira em catálogo, direta do inglês, com a introdução de Kellner. A antiga tradução da Zahar (A ideologia da sociedade industrial) está fora de catálogo. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com a antiga tradução da Zahar (A ideologia da sociedade industrial, 1967, só usada). É a única tradução brasileira em catálogo, direta do inglês, sobre a segunda edição, com a introdução de Douglas Kellner. À venda nova."
     translator: [robespierre-oliveira]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [introducao]
 
 cover:
   file: covers/pub--edipro--o-homem-unidimensional--2015.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Única tradução brasileira em catálogo; a da Zahar, de 1967, só se acha usada e não foi examinada.
+**Recomendada** (2026-10-17). Única tradução brasileira em catálogo; a da Zahar, de 1967, só se acha usada e não foi examinada.
