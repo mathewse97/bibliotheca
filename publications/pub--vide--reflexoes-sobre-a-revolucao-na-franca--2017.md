@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: burke--reflections-france
     why: "Traduzida direto do inglês, com muitas notas explicativas e introdução de João Pereira Coutinho, estudioso de Burke. Edição brasileira à venda nova."
-    verdict: unassessed
-    reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-burke, opção recomendada B): brasileira, em catálogo, anotada e com introdução de especialista."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a da Gulbenkian (trad. Ivone Moreira, Portugal, difícil de comprar) e a da Edipro (trad. José Miguel Nanni Soares, sem aparato verificado); escolha do Mathews no cartão d-ed-burke. Brasileira, anotada, com introdução de especialista e à venda nova. Ressalva: o tradutor ainda não foi identificado; procurado de novo em 2026-10-17, sem resultado."
     translator: []
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [introducao, notas]
 
 cover:
   file: covers/pub--vide--reflexoes-sobre-a-revolucao-na-franca--2017.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-burke). A Gulbenkian continua registrada como alternativa.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-burke). Falta identificar o tradutor.

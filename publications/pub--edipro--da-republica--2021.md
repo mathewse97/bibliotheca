@@ -25,19 +25,21 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 3ª (anúncio)"]
+missing:
+  - "Confirmação em fonte de nível 1 (página da Edipro)"
+  - "Se traz todos os fragmentos conservados da obra (112 p. é pouco para o texto completo)"
 source_of_record: claude
 
 contains:
   - work: cicero--de-re-publica
     why: "Indicada por você: a tradução de Amador Cisneiros, feita direto do latim e à venda nova."
     verdict: unassessed
-    reason: "Confere com a sua indicação (Edipro, trad. Amador Cisneiros)."
+    reason: "Confere com a sua indicação. É a tradução de Amador Cisneiros publicada em 1985 na coleção Os Pensadores, com notas dele. Comparada em 2026-10-17 com a de Francisco de Oliveira (Portugal, 2008); a escolha está no cartão d-ed-cicero."
     translator: ["Amador Cisneiros"]
     translated_from: direct
     source_text: null
     completeness: null
-    apparatus: []
+    apparatus: [prefacio, notas]
 
 cover:
   file: covers/pub--edipro--da-republica--2021.webp
@@ -64,15 +66,27 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "A edição da Edipro (desde 1996) reproduz a tradução e as notas de Amador Cisneiros publicadas em Os Pensadores, v. 5, Abril Cultural, 1985."
+    source: "https://tulliana.eu/bibliografia/da-republica"
+    source_tier: null
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Registro bibliográfico, lido pelo trecho devolvido pela busca."
+  - claim: "Francisco de Oliveira, Tratado da República, tradução do latim, introdução e notas, Círculo de Leitores / Temas e Debates, Lisboa, 2008, 319 p., ISBN 978-989-644-011-4; resenhas elogiam a exatidão e a introdução."
+    source: "https://ap1.sib.uc.pt/bitstream/10316.2/23250/1/humanitas62_012.pdf"
+    source_tier: null
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Resenha da revista Humanitas (Coimbra), lida pelo trecho devolvido pela busca; outra resenha na Revista de História das Ideias."
   - claim: "Anúncio: edipro, 2021, edição 3ª, 112 p., ISBN-13 978-65-5660-036-9."
     source: "https://www.amazon.com.br/dp/6556600369"
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação (Edipro, trad. Amador Cisneiros).
+Sem veredito: aguarda o cartão d-ed-cicero, que a compara com a tradução de Francisco de Oliveira.

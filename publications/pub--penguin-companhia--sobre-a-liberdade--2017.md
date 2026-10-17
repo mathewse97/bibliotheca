@@ -32,13 +32,13 @@ source_of_record: claude
 contains:
   - work: mill--on-liberty
     why: "Tradução de Paulo Geiger, com introdução de Alan Ryan, estudioso de Mill, e posfácio de Joel Pinheiro da Fonseca; traz também A sujeição das mulheres no mesmo volume. À venda nova; as traduções não foram comparadas trecho a trecho."
-    verdict: unassessed
-    reason: "Atende à sua indicação (edição acadêmica física em português), escolhida em 2026-10-09 entre seis candidatos — ver a seção Edições da obra. Sem comparação de texto, sem veredito formal."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com cinco outras (Vozes, trad. Alberto da Rocha Barros; L&PM, Vide e Lafonte, sem tradutor identificado; Escala, tradução portuguesa antiga). Só esta e a da Vozes têm tradutor conhecido e texto de estudioso; esta é a mais recente, traz a introdução de Alan Ryan e está à venda nova. Atende ao seu pedido de edição acadêmica física em português."
     translator: [paulo-geiger]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [introducao, posfacio]
 
 also_contains:
   - {title: "A sujeição das mulheres", author: "John Stuart Mill"}
@@ -83,9 +83,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Escolhida em 2026-10-09 por atender à indicação do Mathews (edição acadêmica física em português): tradução atual, introdução de um estudioso de Mill e editora com série de clássicos. A pesquisa com as alternativas está no registro da obra.
+**Recomendada.** Escolhida em 2026-10-09 por atender à indicação do Mathews (edição acadêmica física em português): tradução atual, introdução de um estudioso de Mill e editora com série de clássicos. A pesquisa com as alternativas está no registro da obra.

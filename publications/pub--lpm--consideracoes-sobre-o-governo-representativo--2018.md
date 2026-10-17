@@ -32,12 +32,12 @@ source_of_record: voce
 contains:
   - work: mill--representative-government
     why: "Tradução de Denise Bottmann, tradutora de referência, a mais recente e fácil de comprar nova. É edição de bolso, e não se confirmou se traz introdução ou notas."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-mill-governo-representativo, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a da Editora UnB (1981, trad. Manoel Innocêncio de L. Santos Jr., só usada); escolha do Mathews no cartão d-ed-mill-governo-representativo. É a tradução mais recente, de tradutora de referência, e está à venda nova. Ressalva: edição de bolso, sem aparato confirmado."
     translator: [bottmann]
     translated_from: direct
     source_text: null
-    completeness: null
+    completeness: complete
     apparatus: []
 
 cover:
@@ -62,6 +62,12 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "L&PM Pocket, vol. 1274, 2018: tradução de Denise Bottmann; 336 p.; ISBN 978-85-254-3717-4."
+    source: "https://www.martinsfontespaulista.com.br/consideracoes-sobre-o-governo-representativo---vol--1274-837749/p"
+    source_tier: 7
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Ficha da livraria, lida pelo trecho devolvido pela busca; o site está bloqueado neste ambiente. Nova a partir de R$ 30,52 na Estante Virtual."
   - claim: "L&PM, 1ª edição de bolso, 2018, 336 páginas, ISBN-13 978-8525437174; tradução de Denise Bottmann."
     source: "https://www.amazon.com.br/dp/8525437174"
     source_tier: 7
@@ -74,9 +80,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-mill-governo-representativo). Tradução recente de Denise Bottmann, em formato de bolso e em catálogo.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-mill-governo-representativo). Tradução recente de Denise Bottmann, em formato de bolso e em catálogo.

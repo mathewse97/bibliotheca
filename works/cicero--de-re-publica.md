@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Círculo de Leitores / Temas e Debates, Lisboa, 2008, trad. Francisco de Oliveira", note: "Tradução do latim com introdução longa e notas, de professor da Universidade de Coimbra; elogiada nas resenhas. Português de Portugal; disponibilidade no Brasil não confirmada. Em comparação no cartão d-ed-cicero."}
 ---
 
 ## Sobre a obra
