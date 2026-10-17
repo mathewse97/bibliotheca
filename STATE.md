@@ -85,8 +85,12 @@ Teatro completo VI da Editora 34.
   Tucídides (Madamu, Mário da Gama Kury), Confúcio (Unesp, Giorgio Sinedino),
   Kautilya (Oxford, Patrick Olivelle) e Agostinho (Gulbenkian, J. Dias
   Pereira) recommended; Tomás de Aquino em cartão (`d-ed-aquino`). Rever
-  Agostinho quando a Paulus completar a sua edição. Próximo lote, na ordem de
-  Política: as três peças de Shakespeare, Marx e Engels (três obras).
+  Agostinho quando a Paulus completar a sua edição. Lote 5 (2026-10-17):
+  *Ricardo II*, *Júlio César* e *Coriolano* (Nova Fronteira, Barbara
+  Heliodora), *A Ideologia Alemã* (Boitempo, integral), o *Manifesto*
+  (Penguin-Companhia, Sérgio Tellaroli) e *O 18 de Brumário* (Boitempo, Nélio
+  Schneider) recommended. Próximo lote, na ordem de Política: Lukács,
+  Marcuse, Weber, Michels e Schmitt.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

@@ -32,13 +32,13 @@ source_of_record: claude
 contains:
   - work: marx-engels--die-deutsche-ideologie
     why: "A única edição completa em português, traduzida direto do alemão por Rubens Enderle, Nélio Schneider e Luciano Cavini Martorano, com base na edição alemã de referência das obras de Marx e Engels. Traz introdução de Emir Sader."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-09: é a única edição integral em português, traduzida diretamente do alemão a partir da MEGA-2; as demais trazem só o capítulo sobre Feuerbach. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com as da Vozes de Bolso (2019) e da WMF Martins Fontes (2023), que trazem só a primeira parte, sobre Feuerbach. Esta é a única edição integral em português, traduzida direto do alemão sobre a MEGA-2, a edição de referência das obras de Marx e Engels. À venda nova."
     translator: [enderle, nelio-schneider, martorano]
     translated_from: direct
     source_text: null
     completeness: complete
-    apparatus: []
+    apparatus: [introducao]
 
 cover:
   file: covers/pub--boitempo--a-ideologia-alema--2007.webp
@@ -75,9 +75,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Sem veredito formal, mas sem concorrente na faixa.** É a única tradução integral em português; as alternativas em catálogo (Vozes de Bolso, 104 p.; WMF Martins Fontes, 119 p.) trazem só a primeira parte.
+**Recomendada** (2026-10-17), sem concorrente na faixa. É a única tradução integral em português; as alternativas em catálogo (Vozes de Bolso, 104 p.; WMF Martins Fontes, 119 p.) trazem só a primeira parte.

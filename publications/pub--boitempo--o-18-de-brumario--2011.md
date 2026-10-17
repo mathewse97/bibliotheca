@@ -10,8 +10,8 @@ bilingual: false
 bilingual_pair: null
 editor: null
 introduction_by: null
-register: null
-framing: null
+register: academic
+framing: "Tradução e notas de Nélio Schneider; prólogo de Herbert Marcuse, inédito em português."
 format: []
 packaging: volume
 pages: 176
@@ -25,19 +25,20 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)"]
+missing:
+  - "Confirmação em fonte de nível 1 (página da Boitempo)"
 source_of_record: claude
 
 contains:
   - work: marx--achtzehnte-brumaire
     why: "Sua indicação: a tradução de Nélio Schneider, feita direto do alemão, e não de outra tradução. À venda nova; ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Confere com a sua indicação (Boitempo, trad. Nélio Schneider)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-17 com as outras edições em português, que não trazem aparato comparável. Esta traduz do alemão a segunda edição, revista por Marx em 1869 (Werke, Dietz, v. 8), com notas do tradutor e um prólogo de Herbert Marcuse inédito em português. À venda nova."
     translator: ["Nélio Schneider"]
     translated_from: direct
-    source_text: null
-    completeness: null
-    apparatus: []
+    source_text: "Der achtzehnte Brumaire des Louis Bonaparte, 2ª ed. (1869), em Marx-Engels Werke, Dietz, 1960, v. 8"
+    completeness: complete
+    apparatus: [notas, prologo]
 
 cover:
   file: covers/pub--boitempo--o-18-de-brumario--2011.webp
@@ -64,15 +65,21 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "Ficha catalográfica: tradução e notas de Nélio Schneider; prólogo de Herbert Marcuse; traduzido de Marx-Engels Werke (Berlim, Dietz, 1960, v. 8), com base na segunda edição, revista por Marx em 1869."
+    source: "https://edisciplinas.usp.br/mod/resource/view.php?id=3050189"
+    source_tier: null
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Cópia digital usada em curso da USP, lida pelo trecho devolvido pela busca."
   - claim: "Anúncio: boitempo, 2011, edição 1ª, 176 p., ISBN-13 978-85-7559-171-0."
     source: "https://www.amazon.com.br/dp/8575591711"
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação (Boitempo, trad. Nélio Schneider).
+**Recomendada.** Tradução e notas de Nélio Schneider, sobre a edição revista por Marx, com prólogo de Herbert Marcuse.
