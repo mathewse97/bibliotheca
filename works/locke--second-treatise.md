@@ -33,7 +33,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Vozes, 1994, trad. Magda Lopes e Marisa Lobo da Costa", note: "Só o Segundo Tratado, com a introdução de J. W. Gough; sem a edição crítica de Peter Laslett."}
 ---
 
 ## Sobre a obra

@@ -34,7 +34,7 @@ contains:
   - work: montesquieu--de-lesprit-des-lois
     why: "Tradução de Cristina Murachco, feita direto do francês, a mais citada em trabalhos acadêmicos brasileiros. Está esgotada e só se encontra usada."
     verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada."
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada. Em 2026-10-17 apareceu uma tradução nova da Editora Unesp (2023) que não estava na comparação; a escolha foi reaberta no cartão d-ed-montesquieu-unesp."
     translator: [murachco]
     translated_from: direct
     source_text: null
@@ -63,6 +63,12 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "Editora Unesp, 2023: Do espírito das leis, tradução e notas de Thiago Vargas e Ciro Lourenço, revisão técnica de Thomaz Kawauche, 927 p., ISBN 978-65-5711-171-0; traduzida do texto póstumo de 1757, com mapas, cronologia e textos inéditos de Montesquieu."
+    source: "https://editoraunesp.com.br/catalogo/9786557111710,do-espirito-das-leis"
+    source_tier: null
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Lida pelos trechos devolvidos pela busca (página da editora e notícia da Agência FAPESP, agosto de 2023); os sites estão bloqueados neste ambiente."
   - claim: "WMF Martins Fontes, 3ª edição, 2000, 852 páginas, ISBN-13 978-8533605534."
     source: "https://www.amazon.com.br/dp/8533605536"
     source_tier: 7

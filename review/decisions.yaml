@@ -872,6 +872,87 @@ items:
   recommendation: "A, se você topar comprar usado: é a tradução de referência. Se preferir novo, C."
   recommended: A
 
+- id: d-ed-maquiavel
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *O Príncipe*, de Nicolau Maquiavel?"
+  why: "Você indicou a da Penguin-Companhia, traduzida por Maurício Santana Dias. Pesquisei e achei outra tão boa quanto ela, por outros motivos: a da Editora 34, bilíngue, traduzida por Diogo Pires Aurélio. Por enquanto aparece a sua indicação."
+  editions:
+    - key: A
+      pub: pub--penguin-companhia--o-principe--2010
+      label: "Penguin-Companhia, 2010"
+      status: "Registrada · exibida hoje · sua indicação"
+      facts: [["Tradução","Maurício Santana Dias, direto do italiano"],["Aparato","Prefácio de Fernando Henrique Cardoso, introdução do historiador Anthony Grafton, notas de George Bull (da edição inglesa da Penguin)"],["Formato","176 p."],["Situação","Nova; na Amazon, envio em 1 a 2 meses"]]
+      pros: ["Tradução fluente, de tradutor experiente do italiano", "Bom conjunto de textos de apoio"]
+      cons: ["Sem o texto italiano", "As notas foram feitas para outra tradução, a inglesa"]
+    - key: B
+      label: "Editora 34, 2017, bilíngue"
+      status: "Não registrada"
+      facts: [["Tradução","Diogo Pires Aurélio, professor de filosofia política em Lisboa; a tradução ganhou o prêmio União Latina em 2009"],["Aparato","Italiano ao lado do português; introdução longa do tradutor sobre a vida de Maquiavel, o contexto e as leituras do livro"],["Formato","272 p."],["Situação","Nova, em catálogo"]]
+      pros: ["Dá para conferir no original as palavras-chave, como virtù e fortuna", "Tradutor e autor da introdução são a mesma pessoa, especialista no assunto"]
+      cons: ["Português de Portugal na tradução", "Mais cara"]
+  options: []
+  recommendation: "B. *O Príncipe* é curto e é um grande livro: vale ter o italiano ao lado e uma tradução feita por quem estuda Maquiavel. Fique com A se preferir o português do Brasil e uma leitura mais corrida."
+  recommended: B
+
+- id: d-ed-rousseau
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Qual edição de *Do Contrato Social*, de Jean-Jacques Rousseau?"
+  why: "Em setembro você trocou a Penguin-Companhia, que hoje não se acha nova, pela Martin Claret, traduzida por Ana Resende. Pesquisei: a Martin Claret não traz introdução nem notas, e não se sabe se a tradução foi feita direto do francês. Há uma edição antiga, comentada por dois professores da Universidade de São Paulo, que se acha usada por menos de R$ 20. Por enquanto aparece a Martin Claret."
+  editions:
+    - key: A
+      pub: pub--martin-claret--do-contrato-social--2013
+      label: "Martin Claret, 2013"
+      status: "Registrada · exibida hoje · sua escolha"
+      facts: [["Tradução","Ana Resende; não se sabe se do francês"],["Aparato","Nenhum mencionado"],["Formato","141 p., bolso"],["Situação","Nova, cerca de R$ 37"]]
+      pros: ["Fácil de comprar nova", "Barata"]
+      cons: ["Sem introdução nem notas", "Tradutora que trabalha sobretudo com ficção"]
+    - key: B
+      label: "Abril Cultural, coleção Os Pensadores"
+      status: "Não registrada"
+      facts: [["Tradução","Lourdes Santos Machado"],["Aparato","Introdução e notas de Paul Arbousse-Bastide e Lourival Gomes Machado, professores da Universidade de São Paulo"],["Extra","O volume traz também o Ensaio sobre a Origem das Línguas"],["Situação","Só usada, R$ 15 a R$ 20"]]
+      pros: ["A edição comentada mais usada nas universidades brasileiras", "Muito barata"]
+      cons: ["Só usada", "Edição antiga (anos 1970–80)"]
+    - key: C
+      label: "Penguin-Companhia, 2011"
+      status: "Não registrada"
+      facts: [["Tradução","Eduardo Brandão, do francês"],["Aparato","Prefácio de Maurice Cranston, biógrafo de Rousseau"],["Formato","200 p."],["Situação","Indisponível nova"]]
+      pros: ["Tradução recente, de tradutor experiente"]
+      cons: ["Hoje só se acha usada, quando se acha"]
+  options: []
+  recommendation: "B. As notas explicam os termos que Rousseau usa num sentido próprio, como vontade geral, soberano e governo, e é aí que um leitor sozinho mais se perde. Se quiser livro novo, fique com A."
+  recommended: B
+
+- id: d-ed-montesquieu-unesp
+  kind: edicao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  question: "Trocar *O Espírito das Leis*, de Montesquieu, pela tradução nova da Editora Unesp?"
+  why: "Em 10/10 você escolheu a da Martins Fontes, traduzida por Cristina Murachco, que só se acha usada. Naquela comparação faltou uma edição: a da Editora Unesp, de 2023, a tradução mais recente, feita por dois pesquisadores de Montesquieu e à venda nova. Por enquanto aparece a Martins Fontes."
+  editions:
+    - key: A
+      pub: pub--wmf-martins-fontes--o-espirito-das-leis--2000
+      label: "Martins Fontes, 2000"
+      status: "Registrada · exibida hoje · sua escolha"
+      facts: [["Tradução","Cristina Murachco, do francês"],["Aparato","Não verificado"],["Formato","852 p."],["Situação","Só usada"]]
+      pros: ["A tradução mais citada em trabalhos acadêmicos brasileiros até agora"]
+      cons: ["Fora de catálogo", "Não se sabe se traz notas"]
+    - key: B
+      label: "Editora Unesp, 2023"
+      status: "Não registrada"
+      facts: [["Tradução","Thiago Vargas e Ciro Lourenço, com notas; revisão técnica de Thomaz Kawauche"],["Texto","A edição de 1757, a última com as correções do próprio Montesquieu"],["Aparato","Apresentação, notas críticas e explicativas, mapas da época, cronologia e textos inéditos do autor"],["Formato","927 p."],["Situação","Nova, em catálogo"]]
+      pros: ["A edição mais completa em português", "À venda nova"]
+      cons: ["Recente: ainda não há avaliações publicadas da tradução"]
+  options: []
+  recommendation: "B. Traz o texto que o próprio Montesquieu deixou pronto, com notas e mapas que ajudam num livro tão longo e cheio de exemplos históricos, e é fácil de comprar. A só vale se você já tiver o exemplar."
+  recommended: B
+
 - id: d-ed-burke
   kind: edicao
   collections: [political-thought]

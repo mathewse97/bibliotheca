@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Edipro, 2019, edição integral, trad. Julia da Rosa Simões", note: "Os dois livros num volume, com as notas do autor, à venda nova; sem o prefácio de François Furet. É a saída se o Livro II da Martins Fontes não aparecer."}
 ---
 
 ## Sobre a obra
