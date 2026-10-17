@@ -953,6 +953,31 @@ items:
   recommendation: "B. Traz o texto que o próprio Montesquieu deixou pronto, com notas e mapas que ajudam num livro tão longo e cheio de exemplos históricos, e é fácil de comprar. A só vale se você já tiver o exemplar."
   recommended: B
 
+- id: d-ed-cicero
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição do *Da República*, de Marco Túlio Cícero?"
+  why: "Você indicou a da Edipro, traduzida por Amador Cisneiros. É uma tradução antiga, de 1985, da coleção Os Pensadores, com notas. Pesquisei e achei uma mais completa: a de Francisco de Oliveira, professor da Universidade de Coimbra, publicada em Portugal em 2008. Por enquanto aparece a sua indicação."
+  editions:
+    - key: A
+      pub: pub--edipro--da-republica--2021
+      label: "Edipro, 2021"
+      status: "Registrada · exibida hoje · sua indicação"
+      facts: [["Tradução","Amador Cisneiros, do latim (a de Os Pensadores, 1985)"],["Aparato","Prefácio e notas do tradutor"],["Formato","112 p."],["Situação","Nova, cerca de R$ 30"]]
+      pros: ["Brasileira, barata e fácil de comprar"]
+      cons: ["Tradução antiga", "Curta: não se confirmou se traz todos os fragmentos que sobraram da obra"]
+    - key: B
+      label: "Círculo de Leitores / Temas e Debates, Lisboa, 2008"
+      status: "Não registrada"
+      facts: [["Tradução","Francisco de Oliveira, do latim"],["Aparato","Introdução longa, que explica os termos políticos romanos (res publica, civitas, populus), e notas"],["Formato","319 p."],["Situação","Portuguesa; não se confirmou se é possível comprá-la no Brasil"]]
+      pros: ["A tradução mais rigorosa e completa em português", "Elogiada nas resenhas acadêmicas"]
+      cons: ["Português de Portugal", "Pode ser difícil de achar: importação ou usado"]
+  options: []
+  recommendation: "B, se você conseguir um exemplar. A introdução explica justamente os conceitos em que a obra se apoia. Se não achar, fique com A, que é correta e está à venda."
+  recommended: B
+
 - id: d-ed-burke
   kind: edicao
   collections: [political-thought]

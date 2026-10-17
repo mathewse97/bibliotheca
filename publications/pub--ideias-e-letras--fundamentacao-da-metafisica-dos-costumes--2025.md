@@ -34,16 +34,13 @@ source_of_record: voce
 contains:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     why: "Tradução de Guido Antônio de Almeida, direto do alemão, na versão que ele revisou e corrigiu em 2025, com introdução e notas suas. Professor de filosofia que escreveu um comentário a esta obra, tem a tradução usada em curso da USP. À venda nova."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-09 (cartão d-ed-kant-fundamentacao,
-             opção A): a tradução de Guido Antônio de Almeida na versão revista
-             e corrigida, em catálogo. Sem comparação de texto com a versão de
-             2009, sem veredito formal."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com a bilíngue de 2009 (mesma tradução, sem a revisão), a de Paulo Quintela (Edições 70) e a da Martin Claret (cartão d-ed-kant-fundamentacao; escolha do Mathews). É a melhor tradução em português, na versão que o próprio tradutor corrigiu, e está à venda nova. Fica pendente saber o que a revisão de 2025 mudou."
     translator: [guido-almeida]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [introducao, notas]
 
 cover:
   file: covers/pub--ideias-e-letras--fundamentacao-da-metafisica-dos-costumes--2025.webp
@@ -79,12 +76,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Edição escolhida pelo Mathews em 2026-10-09** (cartão `d-ed-kant-fundamentacao`, opção A). Em
+**Recomendada** (veredito formal em 2026-10-17). **Edição escolhida pelo Mathews em 2026-10-09** (cartão `d-ed-kant-fundamentacao`, opção A). Em
 2026-10-09 eu registrei esta edição como escolha minha sem mostrar a pesquisa;
 o Mathews cobrou os porquês, e a pesquisa refeita está no registro da obra
 (`works/kant--grundlegung-zur-metaphysik-der-sitten.md`, seção *Edições*). Ela

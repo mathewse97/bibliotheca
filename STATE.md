@@ -77,9 +77,12 @@ Teatro completo VI da Editora 34.
   Peter Laslett) e Tocqueville (Martins Fontes, prefácio de François Furet)
   recommended; Maquiavel, Rousseau e Montesquieu em cartão
   (`d-ed-maquiavel`, `d-ed-rousseau`, `d-ed-montesquieu-unesp`). Falta:
-  registrar o Livro II de Tocqueville (só achado usado). Próximo lote:
-  Burke, Mill, Kant, Aristóteles e Platão de Política, ou o que o Mathews
-  indicar.
+  registrar o Livro II de Tocqueville (só achado usado). Lote 3
+  (2026-10-17): Kant (Guido Antônio de Almeida, revista), Burke (Vide), Mill
+  *Sobre a Liberdade* (Penguin-Companhia) e *Governo Representativo* (L&PM,
+  Denise Bottmann) recommended; Cícero em cartão (`d-ed-cicero`). Aristóteles
+  e Platão já estavam recommended. Próximo lote: Tucídides, Confúcio,
+  Kautilya, Agostinho e Tomás de Aquino, na ordem da coleção Política.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não
