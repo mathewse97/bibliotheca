@@ -34,9 +34,8 @@ source_of_record: claude
 contains:
   - work: shakespeare--coriolanus
     why: "Tradução de Barbara Heliodora, feita direto do inglês, com notas que explicam passagens e referências, e textos de apoio sobre as peças. É o único volume da coleção da Nova Fronteira que traz Coriolano; ainda não foi comparada com outras traduções."
-    verdict: unassessed
-    reason: "Nenhuma tradução alternativa foi pesquisada. Esta é a única das
-             seleções da Nova Fronteira que traz Coriolano."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-17: não se encontrou outra tradução brasileira de Coriolano em catálogo. A de Barbara Heliodora, tradutora de referência de Shakespeare no Brasil, é a disponível, anotada e à venda nova."
     translator: [barbara-heliodora]
     translated_from: direct
     source_text: null
@@ -116,10 +115,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-17) para *Coriolano*: a única tradução brasileira encontrada em catálogo, de Barbara Heliodora.
 
 A segunda seleção da Nova Fronteira, complementar à de 2017: as duas não têm
 nenhuma peça em comum. Ela entra na biblioteca por uma peça só — Coriolano, a

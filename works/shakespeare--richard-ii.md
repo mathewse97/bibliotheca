@@ -46,7 +46,9 @@ derived_from:
   note: "Não veio de lista de bootstrap. Entrou em 2026-09-28, depois da
          pesquisa do lote 3 e da sua decisão de adquirir as duas caixas da
          Nova Fronteira."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Melhoramentos, 1956, trad. Carlos Alberto Nunes", note: "Tradução antiga, num volume junto com Rei João; só usada."}
 ---
 
 ## Sobre a obra

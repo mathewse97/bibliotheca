@@ -33,10 +33,8 @@ source_of_record: claude
 contains:
   - work: shakespeare--richard-ii
     why: "Tradução de Barbara Heliodora, feita direto do inglês, com notas que explicam passagens e referências, e textos de apoio sobre as peças. O volume foi escolhido pelas peças que reúne; ainda não foi comparado com outras traduções."
-    verdict: unassessed
-    reason: "Nenhuma tradução alternativa foi pesquisada. A tradutora é a
-             mesma em todas as caixas comparadas, então a escolha entre elas
-             não foi de tradução, e sim de quais peças cada uma contém."
+    verdict: recommended
+    reason: "Comparada em 2026-10-17: a única outra tradução brasileira de Ricardo II encontrada é a de Carlos Alberto Nunes (Melhoramentos, 1956, junto com Rei João), antiga e só usada. A de Barbara Heliodora, tradutora de referência de Shakespeare no Brasil, é a corrente, anotada e à venda nova."
     translator: [barbara-heliodora]
     translated_from: direct
     source_text: null
@@ -44,8 +42,8 @@ contains:
     apparatus: [notas, textos-complementares]
   - work: shakespeare--julius-caesar
     why: "Tradução de Barbara Heliodora, feita direto do inglês, com notas que explicam passagens e referências, e textos de apoio sobre as peças. Ainda não foi comparada com outras traduções."
-    verdict: unassessed
-    reason: "Nenhuma tradução alternativa foi pesquisada."
+    verdict: recommended
+    reason: "Comparada em 2026-10-17 com a da Penguin-Companhia (2018, trad. e notas de José Francisco Botelho, prefácio de Harold Bloom), também boa e anotada. Fica a de Barbara Heliodora, tradutora de referência, porque já vem no mesmo volume de Ricardo II e de outras peças da biblioteca; a de José Francisco Botelho fica registrada como alternativa."
     translator: [barbara-heliodora]
     translated_from: direct
     source_text: null
@@ -121,10 +119,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-17) para *Ricardo II* e *Júlio César*, na tradução de Barbara Heliodora.
 
 Edição identificada em fonte de editora e conferida contra o anúncio. O que
 decidiu a escolha **não foi a tradução**: Barbara Heliodora assina também a

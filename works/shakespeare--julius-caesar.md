@@ -41,7 +41,9 @@ derived_from:
   note: "Não veio de lista de bootstrap. Entrou em 2026-09-28, depois da
          pesquisa do lote 3 e da sua decisão de adquirir as duas caixas da
          Nova Fronteira."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Penguin-Companhia, 2018, trad. José Francisco Botelho", note: "Tradução anotada, com prefácio de Harold Bloom; boa alternativa em volume avulso."}
 ---
 
 ## Sobre a obra

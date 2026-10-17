@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Boitempo, trad. Álvaro Pina", note: "Do texto alemão de 1890, organizada e introduzida por Osvaldo Coggiola, com ensaios de Antonio Labriola, Leon Trotsky, Harold Laski e outros."}
 ---
 
 ## Sobre a obra
