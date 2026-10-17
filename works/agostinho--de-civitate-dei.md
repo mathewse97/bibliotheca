@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Paulus, coleção Patrística, vol. 50/1 e 50/2 (2023–2025)", note: "Brasileira, capa dura, com introdução de Franklin Leopoldo e Silva; até agora só os livros 1 a 14 dos 22, e o tradutor não aparece nas fontes. Rever quando sair completa."}
 ---
 
 ## Sobre a obra

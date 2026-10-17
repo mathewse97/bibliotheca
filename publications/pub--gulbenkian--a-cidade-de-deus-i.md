@@ -25,18 +25,18 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 5ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 5ª (anúncio)"]
 source_of_record: claude
 
 contains:
   - work: agostinho--de-civitate-dei
     why: "Indicada por você: a tradução completa de J. Dias Pereira, feita direto do latim, em três volumes; este é o primeiro. É português de Portugal e precisa ser importada."
-    verdict: unassessed
-    reason: "Confere com a sua indicação (Gulbenkian, trad. J. Dias Pereira). Volume 1 de 3."
-    translator: []
+    verdict: recommended
+    reason: "Comparada em 2026-10-17 com a da Paulus (coleção Patrística, vol. 50/1 e 50/2, 2023–2025, introdução de Franklin Leopoldo e Silva), que é brasileira e nova, mas até agora só saiu até o livro 14 dos 22 e não diz quem traduziu. Esta é a única tradução completa em português, direta do latim, sobre a edição crítica de Dombart e Kalb. Português de Portugal; precisa ser importada."
+    translator: ["J. Dias Pereira"]
     translated_from: direct
-    source_text: null
-    completeness: null
+    source_text: "De civitate Dei, ed. B. Dombart e A. Kalb, 4ª ed. (Teubner)"
+    completeness: complete
     apparatus: []
 
 cover:
@@ -64,15 +64,21 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "Tradução do original latino De civitate Dei, baseada na 4ª edição de B. Dombart e A. Kalb; tradução, prefácio e nota biográfica de J. Dias Pereira."
+    source: "https://content.gulbenkian.pt/wp-content/uploads/2020/09/16220218/ISBN-978-972-31-0543-8.pdf"
+    source_tier: 1
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Amostra do volume publicada pela Gulbenkian, lida pelo trecho devolvido pela busca."
   - claim: "Anúncio: gulbenkian, 2016, edição 5ª, 815 p., ISBN-13 978-972-31-0543-8."
     source: "https://www.amazon.com.br/dp/9723105438"
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação (Gulbenkian, trad. J. Dias Pereira). Volume 1 de 3.
+**Recomendada**, volume 1 de 3: a única tradução completa em português, de J. Dias Pereira, direta do latim.

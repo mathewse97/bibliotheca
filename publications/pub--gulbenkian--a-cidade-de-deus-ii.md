@@ -25,18 +25,18 @@ links:
 
 verified_fields: [isbn13, publisher, year]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)"]
 source_of_record: claude
 
 contains:
   - work: agostinho--de-civitate-dei
     why: "Segundo dos três volumes da mesma tradução completa de J. Dias Pereira, feita direto do latim. É português de Portugal e precisa ser importado."
-    verdict: unassessed
-    reason: "Volume 2 de 3."
-    translator: []
+    verdict: recommended
+    reason: "Comparada em 2026-10-17 com a da Paulus (coleção Patrística, vol. 50/1 e 50/2, 2023–2025, introdução de Franklin Leopoldo e Silva), que é brasileira e nova, mas até agora só saiu até o livro 14 dos 22 e não diz quem traduziu. Esta é a única tradução completa em português, direta do latim, sobre a edição crítica de Dombart e Kalb. Português de Portugal; precisa ser importada."
+    translator: ["J. Dias Pereira"]
     translated_from: direct
-    source_text: null
-    completeness: null
+    source_text: "De civitate Dei, ed. B. Dombart e A. Kalb, 4ª ed. (Teubner)"
+    completeness: complete
     apparatus: []
 
 cover:
@@ -70,9 +70,9 @@ provenance:
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Volume 2 de 3.
+**Recomendada**, volume 2 de 3: a única tradução completa em português, de J. Dias Pereira, direta do latim.

@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: kautilya--arthashastra
     why: "Tradução completa para o inglês de Patrick Olivelle, feita direto do sânscrito, com notas extensas no fim; a primeira nova tradução em quase meio século. Está em inglês e precisa ser importada: não há em português tradução comprovadamente feita do sânscrito."
-    verdict: unassessed
-    reason: "Decisão do Mathews em 2026-10-10 (cartão d-ed-kautilya, opção recomendada A): tradução acadêmica integral e direta do sânscrito; não há tradução portuguesa comprovadamente direta."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com as outras traduções (cartão d-ed-kautilya; escolha do Mathews). É a tradução acadêmica integral mais recente, direta do sânscrito, com notas extensas; a única em português é uma autopublicação que não diz de que língua traduziu. Em inglês, e precisa ser importada."
     translator: [olivelle]
     translated_from: direct
     source_text: null
     completeness: complete
-    apparatus: []
+    apparatus: [introducao, notas]
 
 cover:
   file: covers/pub--oxford--king-governance-and-law-in-ancient-india--2013.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-kautilya). Em inglês: não há tradução portuguesa comprovadamente direta do sânscrito.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kautilya). Em inglês: não há tradução portuguesa comprovadamente direta do sânscrito.

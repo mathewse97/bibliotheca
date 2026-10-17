@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Vozes, Escritos Políticos de Santo Tomás de Aquino, 1995, trad. Francisco Benjamin de Souza Neto", note: "Traduzida sobre a edição crítica leonina, com introdução do tradutor; traz também as Questões sobre a Lei da Suma Teológica. Só usada. Em comparação no cartão d-ed-aquino."}
 ---
 
 ## Sobre a obra
