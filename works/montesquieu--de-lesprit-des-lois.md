@@ -28,7 +28,10 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora Unesp, 2023, trad. Thiago Vargas e Ciro Lourenço", note: "Tradução nova, com notas, mapas e cronologia, à venda nova. Em comparação no cartão d-ed-montesquieu-unesp."}
+  - {edition: "Edipro, trad. Edson Bini", note: "Em catálogo; aparato não verificado."}
 ---
 
 ## Sobre a obra

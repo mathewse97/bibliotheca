@@ -2333,3 +2333,22 @@ tuck:
          Cambridge University Press (1996) usado na edição da Martins Fontes.
          Entrou em 2026-10-14."
   role: editor
+
+laslett:
+  name_display: "Peter Laslett"
+  name_variants: []
+  dates: "1915–2001"
+  note: "Historiador de Cambridge. Organizador, não autor: fez a edição
+         crítica dos Dois Tratados sobre o Governo de John Locke (Cambridge
+         University Press, 1960), traduzida na edição da Martins Fontes.
+         Entrou em 2026-10-17."
+  role: editor
+
+furet:
+  name_display: "François Furet"
+  name_variants: []
+  dates: "1927–1997"
+  note: "Historiador francês da Revolução e estudioso de Tocqueville. Autor
+         do prefácio, da bibliografia e da cronologia da edição da Martins
+         Fontes de A Democracia na América. Entrou em 2026-10-17."
+  role: editor

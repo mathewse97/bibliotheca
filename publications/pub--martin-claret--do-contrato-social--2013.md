@@ -3,7 +3,7 @@ id: pub--martin-claret--do-contrato-social--2013
 title_as_published: "Do contrato social"
 publisher: martin-claret
 publisher_country: BR
-series: null
+series: "A Obra-Prima de Cada Autor, 46"
 year: 2013
 language: pt-BR
 bilingual: false
@@ -25,14 +25,17 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)"]
+missing:
+  - "Confirmação em fonte de nível 1 (página da Martin Claret)"
+  - "Se a tradução de Ana Resende foi feita direto do francês"
+  - "Aparato: o anúncio não menciona introdução nem notas"
 source_of_record: claude
 
 contains:
   - work: rousseau--du-contrat-social
     why: "Escolha sua, no lugar da tradução de Eduardo Brandão (Penguin-Companhia). Tradução de Ana Resende; não se sabe se foi feita direto do francês, e ainda não foi comparada com outras edições."
     verdict: unassessed
-    reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Penguin-Companhia, trad. Eduardo Brandão), que fica anotada na coleção."
+    reason: "Escolha sua (2026-09-23), no lugar da Penguin-Companhia, que hoje não está disponível nova. Comparada em 2026-10-17 com a de Os Pensadores e a da Edipro; a escolha está no cartão d-ed-rousseau."
     translator: ["Ana Resende"]
     translated_from: unknown
     source_text: null
@@ -64,15 +67,26 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "O anúncio credita a tradução a Ana Resende; 141 p.; série A Obra-Prima de Cada Autor, 46; em estoque, R$ 37,46, em 2026-10-17."
+    source: "https://www.amazon.com.br/dp/8572329374"
+    source_tier: 7
+    retrieved: 2026-10-17
+    confidence: reported
+  - claim: "Ana Resende é tradutora sobretudo de ficção (Rachilde, Shirley Jackson, Flannery O'Connor, Ambrose Bierce)."
+    source: "https://uerj.academia.edu/AResende/Papers"
+    source_tier: null
+    retrieved: 2026-10-17
+    confidence: reported
+    note: "Perfil acadêmico, lido pelo trecho devolvido pela busca; não se confirmou que seja a mesma pessoa creditada no livro."
   - claim: "Anúncio: martin-claret, 2013, edição 1ª, 141 p., ISBN-13 978-85-7232-937-8."
     source: "https://www.amazon.com.br/dp/8572329374"
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Penguin-Companhia, trad. Eduardo Brandão), que fica anotada na coleção.
+Sem veredito: aguarda o cartão d-ed-rousseau, que a compara com a de Os Pensadores e a da Edipro.

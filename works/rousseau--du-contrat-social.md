@@ -28,7 +28,11 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Abril Cultural, Os Pensadores, trad. Lourdes Santos Machado", note: "Com introdução e notas de Paul Arbousse-Bastide e Lourival Gomes Machado; só usada, barata. Em comparação no cartão d-ed-rousseau."}
+  - {edition: "Penguin-Companhia, 2011, trad. Eduardo Brandão", note: "Com prefácio de Maurice Cranston; hoje indisponível nova."}
+  - {edition: "Edipro, trad. Edson Bini", note: "Em catálogo; aparato não verificado."}
 ---
 
 ## Sobre a obra

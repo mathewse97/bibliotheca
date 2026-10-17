@@ -71,6 +71,15 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
+- **Pesquisa de edições em lotes** (`config/research-procedure.md` §2).
+  Lote 1 (2026-10-14): Hobbes, Arendt, Dostoiévski, Ibn Khaldun, todos
+  recommended. Lote 2 (2026-10-17): Locke (Martins Fontes, edição crítica de
+  Peter Laslett) e Tocqueville (Martins Fontes, prefácio de François Furet)
+  recommended; Maquiavel, Rousseau e Montesquieu em cartão
+  (`d-ed-maquiavel`, `d-ed-rousseau`, `d-ed-montesquieu-unesp`). Falta:
+  registrar o Livro II de Tocqueville (só achado usado). Próximo lote:
+  Burke, Mill, Kant, Aristóteles e Platão de Política, ou o que o Mathews
+  indicar.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

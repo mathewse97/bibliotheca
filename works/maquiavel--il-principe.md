@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "Editora 34, 2017, bilíngue, trad. Diogo Pires Aurélio", note: "Italiano ao lado do português, com introdução do tradutor, professor de filosofia política em Lisboa; tradução premiada. Em comparação no cartão d-ed-maquiavel."}
 ---
 
 ## Sobre a obra
