@@ -28,7 +28,9 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Título e autoria vieram da sua lista. Tudo o mais está nulo de
          propósito: preencher sem pesquisa seria inventar."
-updated: 2026-10-14
+updated: 2026-10-17
+editions_considered:            # para a tela: outras edições, uma linha cada
+  - {edition: "L&PM, 2006", note: "Edição de bolso com glossário; não confirma ser traduzida do chinês e não traz o original nem comentário clássico."}
 ---
 
 ## Sobre a obra

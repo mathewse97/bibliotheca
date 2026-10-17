@@ -32,7 +32,7 @@ contains:
   - work: aquino--de-regno
     why: "Indicada por você: a tradução de Arlindo Veiga dos Santos, feita direto do latim e à venda nova."
     verdict: unassessed
-    reason: "Confere com a sua indicação (Edipro, trad. Arlindo Veiga dos Santos)."
+    reason: "Confere com a sua indicação. Comparada em 2026-10-17 com a dos Escritos Políticos da Vozes (trad. Francisco Benjamin de Souza Neto, sobre a edição crítica leonina); a escolha está no cartão d-ed-aquino."
     translator: ["Arlindo Veiga dos Santos"]
     translated_from: direct
     source_text: null
@@ -70,9 +70,9 @@ provenance:
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação (Edipro, trad. Arlindo Veiga dos Santos).
+Sem veredito: aguarda o cartão d-ed-aquino, que a compara com a edição da Vozes.

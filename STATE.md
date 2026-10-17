@@ -81,8 +81,12 @@ Teatro completo VI da Editora 34.
   (2026-10-17): Kant (Guido Antônio de Almeida, revista), Burke (Vide), Mill
   *Sobre a Liberdade* (Penguin-Companhia) e *Governo Representativo* (L&PM,
   Denise Bottmann) recommended; Cícero em cartão (`d-ed-cicero`). Aristóteles
-  e Platão já estavam recommended. Próximo lote: Tucídides, Confúcio,
-  Kautilya, Agostinho e Tomás de Aquino, na ordem da coleção Política.
+  e Platão já estavam recommended. Lote 4 (2026-10-17):
+  Tucídides (Madamu, Mário da Gama Kury), Confúcio (Unesp, Giorgio Sinedino),
+  Kautilya (Oxford, Patrick Olivelle) e Agostinho (Gulbenkian, J. Dias
+  Pereira) recommended; Tomás de Aquino em cartão (`d-ed-aquino`). Rever
+  Agostinho quando a Paulus completar a sua edição. Próximo lote, na ordem de
+  Política: as três peças de Shakespeare, Marx e Engels (três obras).
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

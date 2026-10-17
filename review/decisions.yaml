@@ -978,6 +978,31 @@ items:
   recommendation: "B, se você conseguir um exemplar. A introdução explica justamente os conceitos em que a obra se apoia. Se não achar, fique com A, que é correta e está à venda."
   recommended: B
 
+- id: d-ed-aquino
+  kind: edicao
+  collections: [political-thought]
+  priority: baixa
+  state: decidir
+  question: "Qual edição do *Do Reino* (*Do Governo dos Príncipes*), de Tomás de Aquino?"
+  why: "Você indicou a da Edipro, traduzida por Arlindo Veiga dos Santos. Pesquisei e achei uma edição mais cuidada: a dos Escritos Políticos, da Vozes, traduzida por Francisco Benjamin de Souza Neto sobre a edição crítica do texto latino. Por enquanto aparece a sua indicação."
+  editions:
+    - key: A
+      pub: pub--edipro--do-governo-dos-principes--2013
+      label: "Edipro, 2013"
+      status: "Registrada · exibida hoje · sua indicação"
+      facts: [["Tradução","Arlindo Veiga dos Santos, do latim (tradução antiga, dos anos 1930)"],["Aparato","Não verificado"],["Formato","128 p."],["Situação","Nova"]]
+      pros: ["Fácil de comprar nova"]
+      cons: ["Tradução antiga", "Não se sabe de qual texto latino partiu"]
+    - key: B
+      label: "Vozes, Escritos Políticos de Santo Tomás de Aquino, 1995"
+      status: "Não registrada"
+      facts: [["Tradução","Francisco Benjamin de Souza Neto, sobre a edição crítica leonina (a de referência das obras de Tomás de Aquino)"],["Aparato","Introdução do tradutor"],["Extra","Traz também as Questões sobre a Lei, da Suma Teológica, base da teoria da lei natural"],["Formato","172 p."],["Situação","Só usada, cerca de R$ 40"]]
+      pros: ["Texto latino de referência", "Junta o tratado político à teoria da lei, que o explica"]
+      cons: ["Só usada"]
+  options: []
+  recommendation: "B. Parte do texto latino estabelecido pela edição crítica e traz, no mesmo volume, as questões sobre a lei, que são a base do pensamento político de Tomás de Aquino. Fique com A se preferir livro novo."
+  recommended: B
+
 - id: d-ed-burke
   kind: edicao
   collections: [political-thought]
