@@ -353,7 +353,7 @@ Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do
 agente, não decisão. O que pede mudança virou cartão (`d-greco-adler-*`);
 nenhuma obra foi movida, tirada ou trocada.
 
-**Níveis:** A releitura; B uma leitura séria; C informação ou consulta.
+**Níveis:** A grande livro; B livro de estudo; C informação ou consulta.
 
 **Composição:** 87 obras — 60 fontes antigas e 27 estudos modernos.
 
@@ -376,7 +376,7 @@ obra sobre a dimensão militar).
 **Achados:**
 
 1. **Tragédia desequilibrada.** Eurípides tem 15 peças na sequência, Ésquilo
-   está completo (7) e Sófocles tem 3 das 7. As peças são todas de releitura;
+   está completo (7) e Sófocles tem 3 das 7. As peças são todas grandes livros;
    o problema é o peso de quinze passos obrigatórios do mesmo autor
    (`d-greco-adler-tragedias`).
 2. **Quatro introduções que repetem uma obra maior:** Everitt (Osborne e

@@ -51,8 +51,13 @@ Teatro completo VI da Editora 34.
 ## Regras novas de 2026-10-14
 
 - **Pirâmide de Adler** (`config/curation-rules.md` §2.9): toda obra precisa de
-  um papel que nenhuma outra cumpre, e recebe um nível. Próximas auditorias:
-  feitas as sete coleções (2026-10-14).
+  um papel que nenhuma outra cumpre, e recebe um nível: grande livro, livro de
+  estudo, ou informação ou consulta (nomes trocados a pedido do Mathews em
+  2026-10-14; antes "releitura" e "uma leitura séria"). Auditorias: feitas as
+  sete coleções.
+- **Mesmo critério de edição para todas as obras**
+  (`config/bibliographic-rules.md` §F.7): sem exceção por tipo nem por nível
+  da pirâmide; a ordem dos lotes de pesquisa não muda o rigor.
 - **Como ler** (`config/interface-rules.md` §13): seção nova na página da obra.
   Feito (2026-10-14): todas as 231 obras. Obra nova entra com Como ler
   junto de Sobre a obra.

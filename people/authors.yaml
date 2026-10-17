@@ -2323,3 +2323,13 @@ david-thomas:
   dates: null
   note: "Autor da introdução das Helênicas na série Landmark."
   role: editor
+
+tuck:
+  name_display: "Richard Tuck"
+  name_variants: []
+  dates: null
+  note: "Historiador do pensamento político, de Cambridge e depois Harvard.
+         Organizador, não autor: estabeleceu o texto do Leviatã para a
+         Cambridge University Press (1996) usado na edição da Martins Fontes.
+         Entrou em 2026-10-14."
+  role: editor

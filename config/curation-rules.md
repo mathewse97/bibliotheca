@@ -276,9 +276,10 @@ Ver o cartão `d-pol-movimento-x` em `review/decisions.yaml`.
 
 Vale para **todas** as coleções, para as obras que entram e para as que já
 estão. Vem da última parte de *Como Ler Livros*, de Mortimer Adler e Charles
-Van Doren: a maioria dos livros serve para informar, uma parte menor ensina
-algo numa leitura séria e se esgota, e pouquíssimos se releem a vida toda sem
-se esgotar.
+Van Doren (capítulo 21, "A pirâmide dos livros"): a grande maioria dos livros
+serve só para entreter ou informar; um número muito menor são livros com que se
+aprende, a ler e a viver, e que uma boa leitura esgota; e pouquíssimos,
+provavelmente menos de cem, não se esgotam nem com a melhor leitura possível.
 
 **O teste tem duas partes, e a obra precisa passar nas duas.**
 
@@ -295,10 +296,15 @@ se esgotar.
      por quem tem experiência real.
 2. **Nível.** A obra recebe um dos três níveis da pirâmide, e o nível decide o
    que ela pode ser na coleção:
-   - **A — releitura**: inesgotável; é núcleo, e é o que se lê inteiro com
-     calma;
-   - **B — uma leitura séria**: ensina, mas se esgota; fica com papel claro;
-   - **C — informação ou consulta**: fica **só** se for a melhor opção para a
+   - **A — grande livro** (*great book*): um dos poucos livros que nenhuma
+     leitura esgota e aos quais se volta a vida inteira; é núcleo, e é o que se
+     lê inteiro com calma. O termo é de Adler, o mesmo dos *Great Books of the
+     Western World*, que ele editou; no capítulo da pirâmide ele descreve este
+     nível sem lhe dar nome;
+   - **B — livro de estudo** (*book from which you can learn*): ensina a ler e
+     a viver, mas uma boa leitura o esgota; fica com papel claro;
+   - **C — informação ou consulta** (*amusement or information*): fica **só**
+     se for a melhor opção para a
      sua função. Duas obras de nível C com a mesma função são uma redundância
      a apontar.
 

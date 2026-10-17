@@ -53,7 +53,7 @@ A partir daí ele pediu as alternativas atuais e depois a avaliação da série
 
 ## Auditoria pela pirâmide de Adler — 2026-10-14
 
-Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A releitura, B uma leitura séria, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
+Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do agente, não decisão; o nível fica aqui e não vai para a tela. Níveis: A grande livro, B livro de estudo, C informação ou consulta. Nenhuma obra foi movida, tirada ou trocada.
 
 | nível | obras |
 |---|---|

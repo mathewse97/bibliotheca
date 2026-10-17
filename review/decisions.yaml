@@ -384,7 +384,7 @@ items:
     - {key: A, recommended: true, title: "Incluir Lucrécio, *Da Natureza das Coisas*", effect: "Entra na parte de filosofia moral romana, antes de Cícero, que escreveu depois dele. Eu pesquiso a melhor edição em português."}
     - {key: B, title: "Agora não", effect: "Nada muda; o cartão fica aqui para depois."}
     - {key: C, title: "Descartar", effect: "A filosofia romana da coleção fica só com os estoicos e Cícero; a questão é arquivada."}
-  recommendation: "é o caso que o critério de Adler mais claramente pede: uma obra que se relê a vida toda e expõe por inteiro uma posição que nenhuma outra obra da coleção expõe. A carta de Epicuro fica como resumo, e Lucrécio como a obra."
+  recommendation: "é o caso que o critério de Adler mais claramente pede: um grande livro, dos que nenhuma leitura esgota, e expõe por inteiro uma posição que nenhuma outra obra da coleção expõe. A carta de Epicuro fica como resumo, e Lucrécio como a obra."
   candidates:
     - {title: "Da Natureza das Coisas", author: "Tito Lucrécio Caro · c. 55 a.C.", verdict: resolve, best: true, adds: "O epicurismo inteiro, em poema: átomos, a alma mortal, por que não temer a morte nem os deuses.", facts: ["Parte de filosofia romana, antes de Cícero", "-Edição em português a verificar"]}
 
@@ -397,7 +397,7 @@ items:
   state: decidir
   source: "review/religion.md, auditoria pela pirâmide de Adler"
   question: "Incluir em Religião os três clássicos que fundaram o estudo moderno da religião?"
-  why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são livros que se releem, e a coleção hoje lê os herdeiros sem os fundadores."
+  why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são grandes livros, e a coleção hoje lê os herdeiros sem os fundadores."
   options:
     - {key: A, recommended: true, title: "Incluir os três", effect: "Entram na parte de teoria, antes de Eliade: Otto, Durkheim e James. Eu pesquiso as edições em português."}
     - {key: B, title: "Incluir só Otto e Durkheim", effect: "Os dois de que Eliade e Berger dependem diretamente. William James fica para depois."}
@@ -1320,7 +1320,7 @@ items:
     - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional: não é passo obrigatório da coleção."}
     - {key: C, title: "Manter como está", effect: "Nada muda."}
     - {key: D, title: "Agora não", effect: "O cartão fica aqui para depois."}
-  recommendation: "pelo critério de Adler, uma obra precisa cumprir na coleção um papel que nenhuma outra cumpre. Esta não cumpre: a propaganda já está explicada por livros que se releem. Se o testemunho de quem esteve dentro te interessa, a B mantém o livro sem pesar na sequência."
+  recommendation: "pelo critério de Adler, uma obra precisa cumprir na coleção um papel que nenhuma outra cumpre. Esta não cumpre: a propaganda já está explicada por grandes livros e livros de estudo da coleção. Se o testemunho de quem esteve dentro te interessa, a B mantém o livro sem pesar na sequência."
   candidates:
     - {title: "Subversão: Teoria, Aplicação e Confissão de um Método", author: "Yuri Bezmenov · palestras de 1983–84", adds: "Depoimento de um ex-agente soviético sobre propaganda e desestabilização.", facts: ["Hoje na parte sobre poder e ideologia", "-Depoimento, não argumento"]}
     - {title: "1984", author: "George Orwell · 1949", adds: "Já na coleção. A propaganda e a reescrita da verdade num regime total.", facts: ["+Já está na coleção"]}
@@ -1333,7 +1333,7 @@ items:
   state: decidir
   source: review/political-thought.md §10
   question: "Tirar de Política *Como as Democracias Morrem*, de Steven Levitsky e Daniel Ziblatt?"
-  why: "Livro de 2018 de dois cientistas políticos de Harvard: as democracias de hoje morrem menos por golpes e mais por líderes eleitos que vão corroendo as regras não escritas, como a tolerância com o adversário. Fui eu que o propus, como contraponto ao livro de Robert Dahl sobre democracia. É um bom livro, mas é de divulgação, apoiado em casos recentes, e envelhece rápido. Pela pirâmide de Adler, é obra de informação: lê-se uma vez e não se relê."
+  why: "Livro de 2018 de dois cientistas políticos de Harvard: as democracias de hoje morrem menos por golpes e mais por líderes eleitos que vão corroendo as regras não escritas, como a tolerância com o adversário. Fui eu que o propus, como contraponto ao livro de Robert Dahl sobre democracia. É um bom livro, mas é de divulgação, apoiado em casos recentes, e envelhece rápido. Pela pirâmide de Adler, é obra de informação ou consulta, a base da pirâmide: serve para se informar, não para estudar."
   options:
     - {key: A, recommended: true, title: "Tirar da coleção", effect: "Sai de Política. O livro continua registrado na biblioteca, sem coleção."}
     - {key: B, title: "Manter como leitura complementar", effect: "Fica onde está, marcado como opcional."}
@@ -1445,7 +1445,7 @@ items:
   state: decidir
   source: review/greco-roman.md §9
   question: "Manter as quinze tragédias de Eurípides como passos obrigatórios de Greco-Romana?"
-  why: "Eurípides, o mais jovem dos três grandes autores de tragédia de Atenas (século V a.C.), tem quinze peças na coleção. Elas entraram porque você indicou os volumes completos da tradução de Jaa Torrano. Ésquilo está completo, com sete peças, e Sófocles tem só três das sete que sobreviveram. Para Adler, todas as tragédias gregas são de releitura: o problema não é a qualidade, é o peso. São quinze passos seguidos do mesmo autor."
+  why: "Eurípides, o mais jovem dos três grandes autores de tragédia de Atenas (século V a.C.), tem quinze peças na coleção. Elas entraram porque você indicou os volumes completos da tradução de Jaa Torrano. Ésquilo está completo, com sete peças, e Sófocles tem só três das sete que sobreviveram. Para Adler, todas as tragédias gregas são grandes livros: o problema não é a qualidade, é o peso. São quinze passos seguidos do mesmo autor."
   options:
     - {key: A, recommended: true, title: "Cinco de Eurípides ficam obrigatórias; as outras dez viram leitura complementar", effect: "Ficam como passos: *Medeia*, *Hipólito*, *Electra*, *As Troianas* e *As Bacantes*. As outras dez continuam na coleção e nos seus livros, marcadas como opcionais."}
     - {key: B, title: "A opção A e, além disso, completar Sófocles", effect: "Entram as quatro peças de Sófocles que faltam (*Ájax*, *Electra*, *Filoctetes* e *As Traquínias*), e ele fica completo como Ésquilo. Eu pesquiso a edição."}
@@ -1699,7 +1699,7 @@ items:
   collections: []
   state: decidida
   question: "Usar a pirâmide de Adler como critério para incluir e manter obras?"
-  decided: {date: 2026-10-14, choice: "Sim. Toda obra precisa cumprir um papel que nenhuma outra cumpre na coleção e recebe um nível: releitura, uma leitura séria, ou informação e consulta. Vale para as que entram e para as que já estão; saídas e trocas viram cartão e são decisão sua.", note: "Gravado como §2.9 das regras de curadoria. Primeira aplicação: auditoria de Política, com sete cartões em Mudar uma coleção. Reversível: remover a §2.9; nenhuma obra foi mexida por esta regra."}
+  decided: {date: 2026-10-14, choice: "Sim. Toda obra precisa cumprir um papel que nenhuma outra cumpre na coleção e recebe um nível: grande livro, livro de estudo, ou informação ou consulta. Vale para as que entram e para as que já estão; saídas e trocas viram cartão e são decisão sua.", note: "Gravado como §2.9 das regras de curadoria. Primeira aplicação: auditoria de Política, com sete cartões em Mudar uma coleção. Reversível: remover a §2.9; nenhuma obra foi mexida por esta regra."}
 
 - id: d-reg-como-ler
   kind: regra

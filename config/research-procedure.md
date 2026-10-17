@@ -43,6 +43,10 @@ Válido para qualquer agente. Criado em 2026-09-17.
 A ordem é de **custo e aproveitamento**, não de importância intelectual
 (prioridade não é afetada por esta fila).
 
+**A ordem não muda o rigor** (`bibliographic-rules.md` §F.7, decisão do
+Mathews de 2026-10-14): toda obra, de qualquer tipo ou nível da pirâmide,
+recebe o mesmo critério alto de escolha de edição.
+
 | Fase | O quê | Por quê primeiro |
 |---|---|---|
 | **A · Piloto** | Platão EDUFPA (*República*, *Apologia/Críton*, *Fédon*) + *O Banquete* (Ed. 34) | Já têm ISBN; testam a série bilíngue e a questão §7.7 da revisão |
