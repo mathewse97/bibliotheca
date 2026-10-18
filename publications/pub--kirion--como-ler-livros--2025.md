@@ -35,8 +35,7 @@ contains:
   - work: adler-van-doren--how-to-read-a-book
     why: "Edição nova da Kírion, de 2025, a única à venda nova em português; a anterior, da É Realizações, está esgotada e só se acha usada. Quem fez a tradução ainda precisa ser conferido nos créditos do livro."
     verdict: unassessed
-    reason: "Sem o nome do tradutor não dá para comparar a tradução com a da
-             É Realizações. É a escolhida por ser a única obtenível nova."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: null
     source_text: "versão revista de 1972 (Adler e Van Doren), pela capa e pela
@@ -86,10 +85,12 @@ provenance:
     confidence: reported
     note: "As páginas não abriram deste ambiente; o dado veio dos trechos
            devolvidos pela busca."
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
 
 Única edição nova em português da versão de 1972. A tradução não pôde ser
 avaliada porque o nome do tradutor não foi confirmado. Quando for, comparar com

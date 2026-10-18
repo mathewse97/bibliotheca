@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: nunes--historia-da-educacao-no-renascimento
     why: "O livro foi escrito em português, então não há tradução a julgar. Esta é a reedição da Kírion, que vem republicando a série de Ruy Nunes e é a que se encontra à venda nova."
-    verdict: unassessed
-    reason: "Original em português; a Kírion reedita a série de Ruy Nunes. Nenhuma edição alternativa foi comparada — só existem reedições do mesmo texto."
+    verdict: recommended
+    reason: "Original em português (série de Ruy Nunes); a Kírion reedita o texto e é a edição à venda nova. Não há tradução a comparar."
     translator: []
     translated_from: null  # original em português
     source_text: null
@@ -85,9 +85,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito, e sem comparação a fazer: obra escrita em português, e a Kírion é a casa que reedita hoje a série inteira de Ruy Nunes. Fica em aberto só o bibliográfico listado em `missing`.
+**Recomendada** (2026-10-18). Original em português.
+
+Sem comparação a fazer: obra escrita em português, e a Kírion é a casa que reedita hoje a série inteira de Ruy Nunes. Fica em aberto só o bibliográfico listado em `missing`.

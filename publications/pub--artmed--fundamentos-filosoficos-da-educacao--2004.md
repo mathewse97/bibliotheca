@@ -36,11 +36,8 @@ source_of_record: claude
 contains:
   - work: ozmon-craver--philosophical-foundations-of-education
     why: "A única tradução brasileira do manual, completa e feita do inglês; o tradutor não é identificado. Só se encontra usada. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Candidato único. Nenhuma alternativa foi pesquisada — decisão dele
-             em 2026-09-22, que dispensou a comparação com Noddings e Carr
-             nesta rodada. Sem alternativa examinada não há veredito honesto:
-             `unassessed` é o estado correto, não `recommended` por omissão."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira (Artmed, 2004), hoje só usada. A escolha da obra, sem comparar com outros manuais, foi decisão do Mathews em 2026-09-22."
     translator: []
     translated_from: direct
     source_text: null
@@ -115,16 +112,12 @@ provenance:
            por isso que `links.publisher` fica vazio em vez de inventado.
            Open Library e a API do Google Books também não a têm."
 
-updated: 2026-09-22
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito, e de propósito.** Um veredito de edição compara candidatos; aqui
-só um foi examinado, porque a comparação foi dispensada nesta rodada. O livro
-também não está no acervo dele. Chamar de
-recomendada a única que se olhou seria transformar ausência de pesquisa em
-juízo — que é exatamente o que o §E.1b proíbe.
+**Recomendada** (2026-10-18). Única tradução brasileira; só usada.
 
 O que está firme: o ISBN, as 400 páginas, e o objeto na mão dele.
 

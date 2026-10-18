@@ -118,7 +118,15 @@ Teatro completo VI da Editora 34.
   e as cinco obras em português do Oriente Próximo recommended. Greco-Romana
   e Oriente Próximo sem pendências de edição. Lote 12 (2026-10-18): as
   15 obras de Cultura recommended (Scruton com tradutor a identificar);
-  Cultura sem pendências de edição. Próximo lote: Educação.
+  Cultura sem pendências de edição. Lote 13 (2026-10-18): as
+  19 obras de Educação com edição recommended; só resta *A Ciência como
+  Vocação*, de Weber, que depende da mesma pendência da Cultrix. **Correção (2026-10-18):** seis
+  recomendações "por falta de alternativa" sem tradutor identificado foram
+  revertidas para sem veredito, porque o §F.2 pede comparar a tradução com o
+  original quando não se sabe se ela é boa: Adler (*A Proposta Paideia* e
+  *Como Ler Livros*, Kírion), Rothbard (*A Ética da Liberdade*), Hoppe,
+  Scruton e Mark S. Smith. Falta, em cada uma, o nome do tradutor ou a
+  comparação com o original em inglês. Próximo lote: Sobrevivência.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

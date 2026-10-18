@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: hoppe--democracy-the-god-that-failed
     why: "Indicação sua: a edição da LVM, editora ligada ao Instituto Mises Brasil. Falta confirmar se a tradução é a de Marcelo Werlang de Assis, que você mencionou."
-    verdict: recommended
-    reason: "Pesquisa de 2026-10-18: é a única edição brasileira, do Instituto Ludwig von Mises Brasil, como você indicou (trad. Marcelo Werlang de Assis, segundo a sua indicação; não confirmado em fonte acessível)."
+    verdict: unassessed
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: direct
     source_text: null
@@ -75,4 +75,4 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Recomendada**, por falta de alternativa. Tradutor a confirmar.
+**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.

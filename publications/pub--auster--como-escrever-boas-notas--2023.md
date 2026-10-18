@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: ahrens--how-to-take-smart-notes
     why: "Seu exemplar. É a única edição em português, traduzida do inglês por Jonathas Ramos de Castro a partir da primeira edição do original, de 2017."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Única edição em português; traduz a 1ª edição (2017)."
+    verdict: recommended
+    reason: "Única edição em português, que traduz a 1ª edição (2017); é o exemplar do Mathews."
     translator: [jonathas-castro]
     translated_from: direct
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única edição em português; exemplar do Mathews.
 
 **Exemplar do Mathews.**

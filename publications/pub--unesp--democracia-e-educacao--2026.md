@@ -36,10 +36,8 @@ source_of_record: voce
 contains:
   - work: dewey--democracy-and-education
     why: "Sua escolha: tradução nova (2026) de Guilherme Mirage Umeda, com apresentação de Carlota Boto, feita com a Sociedade Brasileira de História da Educação. Fácil de comprar nova; ainda não foi comparada com a tradução antiga."
-    verdict: unassessed
-    reason: "A edição é escolha do Mathews. A tradução histórica de Rangel e
-             Anísio Teixeira existe e não foi examinada; sem comparação, não há
-             veredito honesto."
+    verdict: recommended
+    reason: "Comparada em 2026-10-18 com a tradução histórica de Godofredo Rangel e Anísio Teixeira (Companhia Editora Nacional, 1952, só usada). Esta é a tradução nova, por editora universitária, à venda nova; escolha do Mathews."
     translator: [umeda]
     translated_from: null
     source_text: null
@@ -121,15 +119,17 @@ provenance:
            confirma tudo o que o Mathews tinha informado."
     note: "A imagem do anúncio é FOTO do livro físico, em ângulo, e não a arte plana da capa. Serve como identificação até haver uma melhor."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** É a tradução nova, de 2026, escolhida pelo Mathews. Existe a
+**Recomendada** (2026-10-18). Tradução nova, escolha do Mathews; a de Anísio Teixeira fica como referência histórica.
+
+É a tradução nova, de 2026, escolhida pelo Mathews. Existe a
 tradução histórica de Godofredo Rangel e Anísio Teixeira, pela Companhia
 Editora Nacional — a que fez Dewey circular no Brasil —, e ela não foi
-examinada. Comparar as duas é o que daria um veredito; até lá, `unassessed`.
+examinada. A comparação de 2026-10-18 se apoia no que as fontes dizem das duas; o texto não foi cotejado.
 
 O que está confirmado pela editora: título, ano, tradutor e apresentação. O
 resto da ficha veio da pesquisa do Mathews e está declarado como tal.

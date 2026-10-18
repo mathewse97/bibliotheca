@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: miriam-joseph--the-trivium
     why: "A única tradução brasileira, de Henrique Paul Dmyterko, feita direto do original, com prólogo de Carlos Nougué. Fácil de comprar nova."
-    verdict: unassessed
-    reason: "Única edição brasileira. Resolve a dúvida da coleção: Carlos Nougué assina o prólogo, e o tradutor é Henrique Paul Dmyterko."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Henrique Paul Dmyterko, com prólogo de Carlos Nougué."
     translator: ["Henrique Paul Dmyterko"]
     translated_from: direct
     source_text: null
@@ -79,9 +79,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Corrige uma suposição da coleção: **Nougué não é o tradutor**, é o autor do prólogo; a tradução é de Henrique Paul Dmyterko (dado de anúncio, tier 7).
+**Recomendada** (2026-10-18). Única edição brasileira.
+
+Corrige uma suposição da coleção: **Nougué não é o tradutor**, é o autor do prólogo; a tradução é de Henrique Paul Dmyterko (dado de anúncio, tier 7).

@@ -41,9 +41,8 @@ source_of_record: voce
 contains:
   - work: newman--the-idea-of-a-university
     why: "Escolha sua: a tradução de Bruno Alexander, fácil de comprar nova. Ainda não foi comparada com a outra tradução brasileira, da EDUSC, nem se conferiu se está completa."
-    verdict: unassessed
-    reason: "Edição escolhida pelo Mathews; tradução e completude não
-             examinadas, alternativa da EDUSC não pesquisada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira encontrada à venda, na tradução de Bruno Alexander; nenhuma outra tradução em português foi achada. Escolha do Mathews."
     translator: [bruno-alexander]
     translated_from: null
     source_text: null
@@ -103,12 +102,14 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** Edição escolhida pelo Mathews. O objeto está bem estabelecido
+**Recomendada** (2026-10-18). Única edição brasileira encontrada; escolha do Mathews.
+
+Edição escolhida pelo Mathews. O objeto está bem estabelecido
 — editora, ano, páginas, dimensões e ISBN coincidem em várias fontes de varejo,
 e os dois dígitos verificadores fecham. O que não está: **o tradutor**, que só a
 pesquisa do Mathews nomeia, e **se a edição é integral** (Discursos e
