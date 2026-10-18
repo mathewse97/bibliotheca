@@ -89,8 +89,14 @@ Teatro completo VI da Editora 34.
   *Ricardo II*, *Júlio César* e *Coriolano* (Nova Fronteira, Barbara
   Heliodora), *A Ideologia Alemã* (Boitempo, integral), o *Manifesto*
   (Penguin-Companhia, Sérgio Tellaroli) e *O 18 de Brumário* (Boitempo, Nélio
-  Schneider) recommended. Próximo lote, na ordem de Política: Lukács,
-  Marcuse, Weber, Michels e Schmitt.
+  Schneider) recommended. Lote 6 (2026-10-17):
+  Lukács (WMF, Rodnei Nascimento), Marcuse (Edipro, introdução de Douglas
+  Kellner), Michels (Realpolitik, direto do alemão) e Schmitt (Edições 70,
+  Alexandre Franco de Sá) recommended. **Weber ficou sem veredito:** não se
+  sabe de que língua a Cultrix traduziu; surgiram duas edições novas (Unesp,
+  2026; Vozes de Bolso, 2021) sem tradutor identificado. Falta ver a página
+  de créditos de cada uma. Próximo lote, na ordem de Política: Zamiátin,
+  Huxley, Koestler, Popper e Voegelin.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

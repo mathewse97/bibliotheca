@@ -28,11 +28,13 @@ relations:
             à separação; era para isso que ela existia."}
 
 provenance: []
-updated: 2026-10-14
+updated: 2026-10-17
 editions_considered:            # para a tela: outras edições, uma linha cada
   - {edition: "Editora UnB, 2003, trad. Maurício Tragtenberg", note: "Tradução de Maurício Tragtenberg revista por um especialista em alemão, mas traz só esta conferência."}
   - {edition: "Martin Claret, 2015, trad. Marco Antônio Casanova", note: "Tradutor experiente do alemão, mas a edição não foi confirmada."}
   - {edition: "Portugal, 2017, trad. Artur Morão", note: "Tradução de Artur Morão em português de Portugal."}
+  - {edition: "Editora Unesp, 2026", note: "Edição nova, à venda; tradutor e aparato ainda não identificados."}
+  - {edition: "Vozes de Bolso, 2021, Política como vocação e ofício", note: "Edição de bolso, à venda; tradutor não identificado."}
 ---
 
 ## Sobre a obra

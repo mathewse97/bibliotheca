@@ -33,13 +33,13 @@ source_of_record: voce
 contains:
   - work: michels--zur-soziologie-des-parteiwesens
     why: "Tradução completa de Clístenes Hafner Fernandes, a primeira brasileira feita direto do alemão, com todas as notas do autor. Foi revista por Marize Schons, professora de ciência política, que conferiu os termos da área. À venda nova."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-michels, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a da Editora UnB (1982, trad. Arthur Chaudon, sem língua de origem confirmada, só usada) e a da Antígona (Lisboa, 2001, rara); escolha do Mathews no cartão d-ed-michels. É a única tradução brasileira declaradamente direta do alemão, com todas as notas do autor e revisão técnica de cientista política. À venda nova."
     translator: [clistenes-fernandes]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [notas-do-autor, revisao-tecnica]
 
 cover:
   file: covers/pub--realpolitik--sociologia-dos-partidos-politicos--2025.webp
@@ -86,9 +86,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-michels). É a única tradução brasileira declaradamente direta do alemão, com o aparato do autor e revisão técnica de uma cientista política. Falta saber se traduz a edição de 1911 ou a de 1925.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-michels). É a única tradução brasileira declaradamente direta do alemão, com o aparato do autor e revisão técnica de uma cientista política. Falta saber se traduz a edição de 1911 ou a de 1925.
