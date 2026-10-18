@@ -16,8 +16,8 @@ format: [brochura]
 pages: null
 isbn13: "978-1-4051-9286-6"
 
-availability_br: null
-availability_checked: null
+availability_br: importacao
+availability_checked: 2026-10-18
 links:
   publisher: ""
   catalogue: ""
@@ -31,15 +31,25 @@ source_of_record: claude
 contains:
   - work: rhodes--a-history-of-the-classical-greek-world
     why: "O original em inglês, na 2ª edição (2010), que acrescenta dois capítulos sobre vida e cultura. Não há tradução em português; ainda não se verificou se é fácil comprar no Brasil."
-    verdict: unassessed
-    reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
+    verdict: recommended
+    reason: "Aprovada pelo Mathews em 2026-10-13, sem tradução portuguesa para comparar. Disponibilidade conferida em 2026-10-18: importada na Amazon.com.br, impostos incluídos (a partir de R$ 354,66). É a edição corrente do original."
     translator: []
     translated_from: null
     source_text: null
     completeness: complete
     apparatus: []
 
-acquisition: []
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/1405192860"
+    listing_id: "1405192860"
+    match_basis: isbn13
+    match_note: "O ASIN é o ISBN-10 correspondente ao ISBN-13 deste registro."
+    format_listed: capa-comum
+    price_band: null
+    availability: importacao
+    checked: 2026-10-18
+    checked_by: claude
 
 provenance:
   - claim: "Wiley-Blackwell, 2ª ed., 2010, ISBN 978-1-4051-9286-6; acrescenta dois capítulos sobre vida e cultura. As páginas divergem entre as fontes (486 a 496)."
@@ -49,9 +59,11 @@ provenance:
     confidence: reported
     note: "Lido pelo resumo da busca; a página da editora não foi aberta."
 
-updated: 2026-10-13
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Importada na Amazon.com.br, a partir de R$ 354,66.
 
 Edição aprovada pelo Mathews em 2026-10-13. Edição: 2ª edição. Sem capa: os sites de capa e de loja estão bloqueados a partir do ambiente.

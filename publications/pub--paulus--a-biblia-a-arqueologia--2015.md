@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda
     why: "O livro foi escrito em português, então não há tradução a avaliar. Esta é a edição da Paulus, de 2015, fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Obra escrita em português; esta é a edição da Paulus, à venda nova. Não há tradução a comparar."
     translator: []
     translated_from: null
     source_text: null
@@ -68,15 +68,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-18). Original em português.
+
 Obra originalmente em português: não há tradutor a registrar.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

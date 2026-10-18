@@ -16,8 +16,8 @@ format: [brochura]
 pages: 416
 isbn13: "978-1-119-62087-7"
 
-availability_br: null
-availability_checked: null
+availability_br: importacao
+availability_checked: 2026-10-18
 links:
   publisher: ""
   catalogue: ""
@@ -31,15 +31,25 @@ source_of_record: claude
 contains:
   - work: van-de-mieroop--a-history-of-ancient-egypt
     why: "A 2ª edição, revista, de 2021. É em inglês, porque não há tradução em português; ainda não se verificou se é fácil de comprar no Brasil."
-    verdict: unassessed
-    reason: "O §F não foi percorrido até o fim: falta a disponibilidade no Brasil."
+    verdict: recommended
+    reason: "Aprovada pelo Mathews em 2026-10-13, sem tradução portuguesa para comparar. Disponibilidade conferida em 2026-10-18: importada na Amazon.com.br, impostos incluídos (a partir de R$ 248,98). É a edição corrente do original."
     translator: []
     translated_from: null
     source_text: null
     completeness: complete
     apparatus: []
 
-acquisition: []
+acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/1119620872"
+    listing_id: "1119620872"
+    match_basis: isbn13
+    match_note: "O ASIN é o ISBN-10 correspondente ao ISBN-13 deste registro."
+    format_listed: capa-comum
+    price_band: null
+    availability: importacao
+    checked: 2026-10-18
+    checked_by: claude
 
 provenance:
   - claim: "Wiley-Blackwell, 2ª ed., 4 fev. 2021, 416 p., ISBN 978-1-119-62087-7, série Blackwell History of the Ancient World."
@@ -49,9 +59,11 @@ provenance:
     confidence: reported
     note: "Lido pelo resumo da busca; a página da editora não foi aberta."
 
-updated: 2026-10-13
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Importada na Amazon.com.br, a partir de R$ 248,98.
 
 Edição aprovada pelo Mathews em 2026-10-13. Edição: 2ª edição. Sem capa: os sites de capa e de loja estão bloqueados a partir do ambiente.

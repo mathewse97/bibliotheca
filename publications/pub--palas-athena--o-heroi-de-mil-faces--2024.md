@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: campbell--the-hero-with-a-thousand-faces
     why: "A tradução mais nova, de Camilo Francisco Ghorayeb e Heráclito Aragão Pinheiro, feita sobre a versão definitiva do texto, preparada pela Fundação Joseph Campbell. À venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Comparada em 2026-10-18 com a tradução anterior, da Cultrix/Pensamento. Esta é a mais nova, de Camilo Francisco Ghorayeb e Heráclito Aragão Pinheiro, sobre a versão definitiva do texto preparada pela Fundação Joseph Campbell. À venda nova. Se a obra fica em Greco-Romana é outra questão, no cartão d-greco-adler-campbell."
     translator: [ghorayeb, heraclito-pinheiro]
     translated_from: direct
     source_text: "inglês"
@@ -71,15 +71,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-18). A tradução mais nova.
+
 A editora NÃO é Cultrix/Pensamento, como o anúncio sugeria. O copyright 2008 corresponde à 3ª edição New World Library, que é o texto corrigido e ampliado — correspondência inferida do ano de copyright e do vínculo com a Fundação, não declarada literalmente pela editora.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

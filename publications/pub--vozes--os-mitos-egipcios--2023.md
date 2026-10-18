@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: shaw--the-egyptian-myths
     why: "A única edição em português, traduzida direto do inglês por Thais Rocha da Silva, especialista em Egito antigo, o que ajuda a acertar nomes de deuses e termos egípcios. À venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição em português, traduzida direto do inglês por Thais Rocha da Silva, especialista em Egito antigo. À venda nova."
     translator: [thais-rocha-silva]
     translated_from: direct
     source_text: "inglês"
@@ -68,13 +68,10 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
+**Recomendada** (2026-10-18). Única tradução em português.
+
