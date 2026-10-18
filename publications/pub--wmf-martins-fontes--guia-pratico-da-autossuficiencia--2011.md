@@ -45,11 +45,7 @@ contains:
   - work: seymour--guia-pratico-da-autossuficiencia
     why: "Tradução brasileira, na 6ª edição. Não se sabe quem traduziu nem a qual livro de Seymour ela corresponde exatamente, por isso ainda não foi avaliada nem comparada."
     verdict: unassessed
-    reason: "Não avaliada. E há um impedimento anterior ao veredito: não se
-             sabe QUAL obra de Seymour esta edição traduz (ver
-             `original_work_unresolved` no registro da obra). Um veredito de
-             completude ou de fidelidade sobre uma tradução cujo texto-fonte é
-             desconhecido seria vazio."
+    reason: "Pendente (2026-10-18): não se sabe qual obra de John Seymour esta edição traduz, nem quem traduziu. Sem isso não dá para comparar com o original."
     translator: []               # não consta em nenhuma fonte consultada
     translated_from: unknown
     source_text: null
@@ -118,7 +114,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação

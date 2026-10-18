@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: skousen--strategic-relocation
     why: "A 4ª edição, de 2020, a mais recente, publicada pelo próprio autor com Andrew Skousen; substitui a 3ª, de 2011. Não há tradução: é em inglês e precisa ser importada."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: é a 4ª edição, a mais recente, do ISBN que já estava registrado (1735015407). A 3ª (2011) está superada. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: a 4ª edição, a mais recente, no original inglês; a 3ª (2011) está superada. Não há tradução. Importada."
     translator: null
     translated_from: null
     source_text: null
@@ -77,9 +77,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** A edição mais recente; não há tradução.
+**Recomendada** (2026-10-18). Edição mais recente; importada.
+
+A edição mais recente; não há tradução.

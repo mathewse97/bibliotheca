@@ -31,8 +31,8 @@ source_of_record: voce
 contains:
   - work: schlaad--medicina-em-areas-remotas-no-brasil
     why: "Livro escrito em português, por vários autores, pensado para profissionais de saúde. É a única edição impressa existente."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina, opção A): única edição."
+    verdict: recommended
+    reason: "Original em português; única edição. Escolha do Mathews em 2026-10-10 (cartão d-sob-medicina)."
     translator: null
     translated_from: null
     source_text: null
@@ -72,9 +72,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português; escolhida pelo Mathews.
 
 **Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina).**

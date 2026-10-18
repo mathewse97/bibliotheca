@@ -31,10 +31,8 @@ source_of_record: claude
 contains:
   - work: kinupp-lorenzi--plantas-alimenticias-nao-convencionais-no-brasil
     why: "Livro escrito em português, sem tradução a avaliar. É a 2ª edição, de 2021, pelo Instituto Plantarum, editora da obra. Há indício de outra edição brasileira, que ainda não foi comparada com esta."
-    verdict: unassessed
-    reason: "Não avaliada. Existe indício de outra edição brasileira (Oficina
-             de Textos) que não foi comparada — e um veredito é justamente uma
-             comparação."
+    verdict: recommended
+    reason: "Original em português; a 2ª edição (2021), revista e ampliada, é a mais recente. O indício de uma edição pela Oficina de Textos não se confirmou."
     translator: []
     translated_from: null
     source_text: null
@@ -78,10 +76,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português, edição mais recente.
 
 Confirmada na editora. A 1ª edição saiu pelo Instituto Plantarum e há indício
 de uma edição pela Oficina de Textos — nenhuma foi comparada com esta.

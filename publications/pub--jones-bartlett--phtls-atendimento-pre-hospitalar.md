@@ -43,7 +43,7 @@ contains:
   - work: naemt--phtls-prehospital-trauma-life-support
     why: "O manual de referência em atendimento pré-hospitalar ao trauma, em tradução para o português. Não se sabe o ano desta edição, e ela ainda não foi comparada com outras."
     verdict: unassessed
-    reason: "Não avaliada."
+    reason: "Pendente (2026-10-18): a tradução portuguesa da 9ª edição saiu em 2020; não se confirmou se o ISBN registrado é de uma tradução da 10ª. Falta o ano e o tradutor."
     translator: []
     translated_from: direct
     translated_from_confidence: inferred
@@ -109,7 +109,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação

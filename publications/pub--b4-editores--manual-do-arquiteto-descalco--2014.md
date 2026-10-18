@@ -31,7 +31,7 @@ contains:
   - work: van-lengen--manual-del-arquitecto-descalzo
     why: "A única edição em português. Está esgotada e só se acha usada; não se sabe se foi traduzida direto do espanhol, e ela ainda não foi avaliada."
     verdict: unassessed
-    reason: "Não avaliada."
+    reason: "Pendente (2026-10-18): tradução esgotada e sem tradutor identificado. Pelo §F.2, falta compará-la com o original em espanhol, que segue em catálogo."
     translator: []               # não consta
     translated_from: unknown
     source_text: null
@@ -80,7 +80,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação

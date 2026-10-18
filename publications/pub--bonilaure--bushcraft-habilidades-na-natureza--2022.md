@@ -31,8 +31,8 @@ source_of_record: voce
 contains:
   - work: costa--bushcraft-habilidades-na-natureza
     why: "Seu exemplar. Livro escrito originalmente em português, sem tradução a avaliar; é a única edição impressa."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Única edição impressa."
+    verdict: recommended
+    reason: "Original em português; única edição impressa, e é o exemplar do Mathews."
     translator: null
     translated_from: null
     source_text: null
@@ -72,9 +72,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português; exemplar do Mathews.
 
 **Exemplar do Mathews.**

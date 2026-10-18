@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: canterbury--bushcraft-101
     why: "Tradução brasileira de Bushcraft 101, por Marcelo Schild, com adaptação do Manual do Mundo. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Não avaliada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira, de Marcelo Schild, tradutor profissional, direto do inglês, à venda nova. Com tradutor conhecido e sem sinal de problema, a tradução portuguesa vence o original (§F.2)."
     translator: ["Marcelo Schild"]
     translated_from: direct
     source_text: "Bushcraft 101"
@@ -80,10 +80,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única tradução brasileira, de tradutor conhecido.
 
 Dados confirmados na página da editora. Não avaliada quanto a registro,
 aparato ou completude.
