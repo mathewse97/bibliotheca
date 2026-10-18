@@ -25,16 +25,16 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)"]
 source_of_record: claude
 
 contains:
   - work: klemperer--lti-lingua-tertii-imperii
     why: "A única edição brasileira encontrada, à venda nova. O tradutor não está identificado, e não se sabe se a tradução foi feita direto do alemão ou de outra tradução."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada."
-    translator: []
-    translated_from: unknown
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Miriam Oelsner, historiadora que estudou a obra (edição anterior pela Companhia das Letras, 1999). À venda."
+    translator: ["Miriam Oelsner"]
+    translated_from: direct
     source_text: null
     completeness: null
     apparatus: []
@@ -64,15 +64,21 @@ acquisition:
     checked_by: claude
 
 provenance:
+  - claim: "LTI: a linguagem do Terceiro Reich, tradução de Miriam Oelsner; Companhia das Letras, 1999, e Contraponto, 2009."
+    source: "https://periodicos.ufmg.br/index.php/maaravi/article/view/23878"
+    source_tier: null
+    retrieved: 2026-10-18
+    confidence: reported
+    note: "Referência bibliográfica de artigo da revista Maaravi (UFMG), lida pelo trecho devolvido pela busca."
   - claim: "Anúncio: contraponto, 2009, edição 1ª, 428 p., ISBN-13 978-85-7866-016-1."
     source: "https://www.amazon.com.br/dp/8578660161"
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Única edição brasileira identificada.
+**Recomendada**, por falta de alternativa: única edição brasileira, na tradução de Miriam Oelsner.

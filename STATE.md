@@ -100,8 +100,11 @@ Teatro completo VI da Editora 34.
   Koestler (Sétimo Selo, do alemão) e Voegelin (Vide) recommended. Popper
   continua no cartão `d-ed-popper`. **Aron ficou sem veredito:** a Vide
   (2024), sua escolha, não tem tradutor identificado; a da Três Estrelas
-  (2016, trad. Jorge Bastos) está esgotada. Próximo lote, na ordem de
-  Política: Bezmenov, Orwell (três obras) e Klemperer.
+  (2016, trad. Jorge Bastos) está esgotada. Lote 8 (2026-10-18):
+  Bezmenov (Audax, única), os três Orwell (Penguin-Companhia e Companhia
+  das Letras) e Klemperer (Contraponto, trad. Miriam Oelsner) recommended.
+  Próximo lote, na ordem de Política: Habermas, Dahl, Levitsky e Ziblatt,
+  Rawls e Rothbard.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

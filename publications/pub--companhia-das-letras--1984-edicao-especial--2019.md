@@ -31,13 +31,13 @@ source_of_record: voce
 contains:
   - work: orwell--nineteen-eighty-four
     why: "Tradução de Heloisa Jahn e Alexandre Hubner, feita direto do inglês. Esta edição especial em capa dura acrescenta uma apresentação de Marcelo Pen e ensaios de autores como Thomas Pynchon, Raymond Williams e Martha Nussbaum, que mostram como o livro foi lido desde 1949."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-1984, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a edição de 2009 (mesma tradução, sem aparato) e outras em catálogo; escolha do Mathews no cartão d-ed-1984. Tradução de Heloisa Jahn e Alexandre Hubner, com apresentação de Marcelo Pen e fortuna crítica. À venda nova."
     translator: [heloisa-jahn, hubner]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [apresentacao, fortuna-critica]
 
 cover:
   file: covers/pub--companhia-das-letras--1984-edicao-especial--2019.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-1984). Mesma tradução da edição de 2009 que o Mathews indicou, acrescida de apresentação e de uma fortuna crítica que cobre a recepção do livro de 1949 até hoje.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-1984). Mesma tradução da edição de 2009 que o Mathews indicou, acrescida de apresentação e de uma fortuna crítica que cobre a recepção do livro de 1949 até hoje.
