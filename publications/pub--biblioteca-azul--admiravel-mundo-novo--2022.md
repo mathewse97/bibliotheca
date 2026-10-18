@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: huxley--brave-new-world
     why: "Escolha sua: a tradução nova de Fabio Fernandes, em capa dura, com textos de Ursula K. Le Guin e de Samir Machado de Machado, este sobre a história do livro no Brasil."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-huxley, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a tradução clássica de Lino Vallandro e Vidal de Oliveira (Biblioteca Azul, 2014); escolha do Mathews no cartão d-ed-huxley. Tradução atual de Fabio Fernandes, com textos de Ursula K. Le Guin e Samir Machado de Machado. À venda nova."
     translator: [fabio-fernandes]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [textos-complementares]
 
 cover:
   file: covers/pub--biblioteca-azul--admiravel-mundo-novo--2022.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-huxley).
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-huxley).

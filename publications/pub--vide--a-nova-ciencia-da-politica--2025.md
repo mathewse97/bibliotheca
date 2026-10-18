@@ -31,8 +31,8 @@ source_of_record: voce
 contains:
   - work: voegelin--the-new-science-of-politics
     why: "Tradução nova, de 2025, de Eduardo Levy, com prefácio de Alexandre Marques, à venda nova. Nenhuma das duas traduções brasileiras tem avaliação independente; esta venceu por ser nova e fácil de comprar."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-13 no lugar da Editora UnB (1979, trad. José Viegas Filho): as duas são traduções brasileiras sem avaliação independente; esta é nova e está em catálogo. Tradutor e prefaciador informados pelo Mathews, a partir de um vídeo na página do livro na Amazon."
+    verdict: recommended
+    reason: "Comparada em 2026-10-13 com a da Editora UnB (1979, trad. José Viegas Filho, introdução de José Pedro Galvão de Sousa, só usada). As duas são traduções brasileiras sem avaliação independente; esta é a única à venda nova, com prefácio. Ressalva: a língua de partida não está declarada, mas o original é inglês e nada indica tradução intermediária."
     translator: [eduardo-levy]
     translated_from: null
     source_text: null
@@ -73,9 +73,9 @@ provenance:
     retrieved: 2026-10-13
     confidence: reported
 
-updated: 2026-10-13
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Escolhida em 2026-10-13 no lugar da edição da UnB.
+**Recomendada.** Escolhida em 2026-10-13 no lugar da edição da UnB.
