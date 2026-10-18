@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: scruton--culture-counts
     why: "A única tradução brasileira, à venda nova. O tradutor não aparece nas fontes, por isso não há como avaliar a qualidade da tradução."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada. Sem saber quem traduziu, não há como julgar a tradução nem compará-la ao original inglês (Culture Counts, 2007)."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira. Ressalva: o tradutor não está identificado nas fontes acessíveis."
     translator: []
     translated_from: unknown
     source_text: null
@@ -86,9 +86,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro. É isso que autoriza guardar uma capa de vendedor."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Esta é a única edição em português que apareceu, mas o tradutor não foi identificado em nenhuma fonte consultada — e é o dado de que o §F mais precisa. A obra foi escrita em inglês, língua que você usa: se a tradução se mostrar fraca, o original entra como candidato na mesma faixa (§F.2).
+**Recomendada** (2026-10-18). Recomendada por falta de alternativa; falta identificar o tradutor.
+
+Esta é a única edição em português que apareceu, mas o tradutor não foi identificado em nenhuma fonte consultada — e é o dado de que o §F mais precisa. A obra foi escrita em inglês, língua que você usa: se a tradução se mostrar fraca, o original entra como candidato na mesma faixa (§F.2).

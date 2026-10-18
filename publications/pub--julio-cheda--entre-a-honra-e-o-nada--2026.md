@@ -36,9 +36,8 @@ source_of_record: voce
 contains:
   - work: lobo--entre-a-honra-e-o-nada
     why: "Seu exemplar. É a única edição impressa, publicada pelo próprio autor, Julio Cheda, que assina como Julio Lobo. O impresso não foi encontrado à venda; a Amazon vende só a versão digital."
-    verdict: unassessed
-    reason: "O exemplar físico do Mathews. Única edição impressa conhecida; o
-             e-book Kindle usa o mesmo ISBN."
+    verdict: recommended
+    reason: "Original em português; única edição impressa, e é o exemplar do Mathews."
     translator: null
     translated_from: null
     source_text: null
@@ -83,9 +82,11 @@ provenance:
     retrieved: 2026-10-10
     confidence: reported
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** É o exemplar do Mathews e a única edição impressa conhecida.
+**Recomendada** (2026-10-18). Única edição impressa; exemplar do Mathews.
+
+É o exemplar do Mathews e a única edição impressa conhecida.

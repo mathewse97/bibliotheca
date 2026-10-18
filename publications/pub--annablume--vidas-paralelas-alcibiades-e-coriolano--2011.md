@@ -95,4 +95,4 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Sem veredito formal.** Escolhida pela série e pela tradução.
+Escolhida pela série e pela tradução.

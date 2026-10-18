@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: burke--philosophical-enquiry-sublime-beautiful
     why: "Tradução de Enid Abreu Dobránszky, com apresentação que situa a obra e notas dela, por editora universitária e à venda nova."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: tradução brasileira com apresentação e notas, por editora universitária, em catálogo. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: tradução brasileira de Enid Abreu Dobránszky, com apresentação e notas, por editora universitária, à venda nova."
     translator: [enid-dobranszky]
     translated_from: direct
     source_text: null
@@ -80,9 +80,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Escolhida por ser a tradução brasileira com aparato, de editora universitária.
+**Recomendada** (2026-10-18). Tradução com apresentação e notas, por editora universitária.
+
+Escolhida por ser a tradução brasileira com aparato, de editora universitária.

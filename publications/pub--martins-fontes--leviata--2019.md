@@ -94,4 +94,4 @@ updated: 2026-10-14
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação. Edição de Richard Tuck.
+Confere com a sua indicação. Edição de Richard Tuck.

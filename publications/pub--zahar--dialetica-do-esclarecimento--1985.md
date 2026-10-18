@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: adorno-horkheimer--dialektik-der-aufklaerung
     why: "A única tradução brasileira, feita direto do alemão por Guido Antonio de Almeida, e à venda nova. As reimpressões desde 2006 mudaram capa e paginação, não o texto."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: é a única tradução brasileira, feita do alemão por Guido Antonio de Almeida, e está em catálogo. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: é a única tradução brasileira, feita do alemão por Guido Antonio de Almeida, e está à venda nova."
     translator: [guido-almeida]
     translated_from: direct
     source_text: null
@@ -85,9 +85,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Única tradução brasileira.
+**Recomendada** (2026-10-18). Única tradução brasileira, de Guido Antonio de Almeida.
+
+Única tradução brasileira.

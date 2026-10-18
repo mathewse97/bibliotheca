@@ -80,4 +80,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito.** Edição indicada pelo Mathews, localizada e registrada.
+Edição indicada pelo Mathews, localizada e registrada.

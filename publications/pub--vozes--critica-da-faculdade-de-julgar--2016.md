@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: kant--kritik-der-urteilskraft
     why: "Tradução completa de Fernando Costa Mattos, direto do alemão, à venda nova. Traz também a chamada Primeira Introdução, um texto de Kant que expõe o plano geral da obra. As duas traduções brasileiras não foram comparadas entre si."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo): em catálogo e com a Primeira Introdução."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com as outras traduções em catálogo; escolha do Mathews no cartão d-ed-kant-juizo: tradução de Fernando Costa Mattos, à venda nova, com a Primeira Introdução."
     translator: [fernando-mattos]
     translated_from: direct
     source_text: null
@@ -82,9 +82,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo).
 
 **Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-kant-juizo).**

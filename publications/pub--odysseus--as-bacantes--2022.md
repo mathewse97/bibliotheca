@@ -89,4 +89,4 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-bacantes.**
+**Alternativa.** O cartão d-ed-bacantes foi decidido pela Editora 34; esta fica até o lançamento do Teatro completo VI.

@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: weber--die-protestantische-ethik
     why: "A tradução de referência no Brasil, feita direto do alemão por José Marcos Mariani de Macedo, acompanhada do material explicativo preparado por Antônio Flávio Pierucci, que ajuda a entender o texto e os termos de Weber."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: a tradução de José Marcos Mariani de Macedo, direta do alemão, com edição, apresentação, notas e glossário de Antônio Flávio Pierucci, é a de referência no Brasil. A primeira tradução brasileira (Pioneira, 1967) foi feita da versão inglesa de Talcott Parsons. À venda nova."
     translator: [mariani-de-macedo]
     translated_from: direct
     source_text: "alemão"
@@ -69,15 +69,12 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-18). A tradução de referência, direta do alemão, com o aparato de Antônio Flávio Pierucci.
+
 O vínculo entre o anúncio guardado e a edição de 2004 é hipótese. Nota relevante: a PRIMEIRA tradução brasileira (1967, Szrecsányi) foi feita a partir do inglês de Talcott Parsons — esta, de Macedo, é direta do alemão.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

@@ -94,4 +94,4 @@ updated: 2026-10-17
 
 **Recomendada** (2026-10-17): a única tradução direta do chinês, bilíngue e com o comentário de Zhu Xi.
 
-**Sem veredito formal; confirmada na revisão de 2026-10-10.** É a edição que estava registrada como indicação do Mathews: a de Giorgio Sinedino, traduzida diretamente do chinês. A Etapa 1 só localizou e registrou o objeto; a comparação com outras traduções fica para a pesquisa de veredito.
+Confirmada na revisão de 2026-10-10. É a edição que estava registrada como indicação do Mathews: a de Giorgio Sinedino, traduzida diretamente do chinês. A Etapa 1 só localizou e registrou o objeto; a comparação com outras traduções fica para a pesquisa de veredito.
