@@ -33,12 +33,12 @@ source_of_record: claude
 contains:
   - work: koestler--darkness-at-noon
     why: "Sai com o título Escuridão ao meio-dia, traduzida por Petê Rissatti e Jonathas Ramos de Castro do manuscrito original alemão, redescoberto em 2015. As outras edições brasileiras vieram da versão inglesa, pela qual o livro circulou por oitenta anos: são traduções de tradução."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-09: é a única edição brasileira traduzida do original alemão (o manuscrito redescoberto), e não da tradução inglesa de Daphne Hardy pela qual o livro circulou por oitenta anos. Resolve a pendência de tradução indireta registrada no STATE.md. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com O zero e o infinito (Globo, 1987) e a da Amarylis (2013), que vêm da versão inglesa de Daphne Hardy. Esta é a única edição brasileira traduzida do original alemão, o manuscrito redescoberto em 2015. À venda nova."
     translator: [rissatti, jonathas-castro]
     translated_from: direct
     source_text: null
-    completeness: null
+    completeness: complete
     apparatus: []
 
 cover:
@@ -87,9 +87,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal, mas a única que passa o portão 1.** As traduções anteriores (*O zero e o infinito*, Globo 1987; Amarylis 2013) vêm da versão inglesa de Daphne Hardy, porque o original alemão se perdera; esta é feita a partir do manuscrito alemão redescoberto.
+**Recomendada** (2026-10-18): a única que passa o portão 1. As traduções anteriores (*O zero e o infinito*, Globo 1987; Amarylis 2013) vêm da versão inglesa de Daphne Hardy, porque o original alemão se perdera; esta é feita a partir do manuscrito alemão redescoberto.

@@ -95,8 +95,13 @@ Teatro completo VI da Editora 34.
   Alexandre Franco de Sá) recommended. **Weber ficou sem veredito:** não se
   sabe de que língua a Cultrix traduziu; surgiram duas edições novas (Unesp,
   2026; Vozes de Bolso, 2021) sem tradutor identificado. Falta ver a página
-  de créditos de cada uma. Próximo lote, na ordem de Política: Zamiátin,
-  Huxley, Koestler, Popper e Voegelin.
+  de créditos de cada uma. Lote 7 (2026-10-18):
+  Zamiátin (Editora 34), Huxley (Biblioteca Azul, Fabio Fernandes),
+  Koestler (Sétimo Selo, do alemão) e Voegelin (Vide) recommended. Popper
+  continua no cartão `d-ed-popper`. **Aron ficou sem veredito:** a Vide
+  (2024), sua escolha, não tem tradutor identificado; a da Três Estrelas
+  (2016, trad. Jorge Bastos) está esgotada. Próximo lote, na ordem de
+  Política: Bezmenov, Orwell (três obras) e Klemperer.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não
