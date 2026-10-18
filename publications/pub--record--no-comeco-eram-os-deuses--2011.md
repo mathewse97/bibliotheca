@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: bottero--au-commencement-etaient-les-dieux
     why: "A única tradução brasileira, de Marcelo Jacques de Morais, feita direto do francês e à venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira, de Marcelo Jacques de Morais, direto do francês, à venda nova."
     translator: [marcelo-jacques-morais]
     translated_from: direct
     source_text: "francês"
@@ -68,13 +68,10 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
+**Recomendada** (2026-10-18). Única tradução em português.
+

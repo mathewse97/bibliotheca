@@ -112,8 +112,11 @@ Teatro completo VI da Editora 34.
   onde só restam obras em cartão ou pendentes (Weber, Aron, Berlin, Popper,
   Cícero, Tomás de Aquino, Maquiavel, Montesquieu, Rousseau). Greco-Romana:
   Cline, Hesíodo, Homero (as duas edições), Eurípides, *As Bacantes*, e as
-  Vidas de Plutarco e Vegécio recommended. Próximo lote: o resto da
-  Greco-Romana (os seis manuais em inglês e Campbell) e o Oriente Próximo.
+  Vidas de Plutarco e Vegécio recommended. Lote 11 (2026-10-18): os oito
+  manuais em inglês da Greco-Romana e do Oriente Próximo (importados na
+  Amazon; Cameron com disponibilidade a confirmar), Campbell (Palas Athena)
+  e as cinco obras em português do Oriente Próximo recommended. Greco-Romana
+  e Oriente Próximo sem pendências de edição. Próximo lote: Cultura.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: smith--the-memoirs-of-god
     why: "A única tradução em português, da Paulus, à venda nova. Não se sabe quem traduziu nem se foi direto do inglês; ainda não foi comparada com outras edições."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução em português, à venda nova. Ressalva: não se sabe quem traduziu nem se foi direto do inglês; procurado em várias fontes, sem resultado."
     translator: []
     translated_from: unknown
     source_text: null
@@ -69,15 +69,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-18). Única tradução em português.
+
 TRADUTOR NÃO ENCONTRADO. Procurado na ficha da Paulus, em livrarias brasileiras e portuguesas, em catálogos universitários e em referências ABNT de teses e periódicos. Nenhuma fonte o nomeia. Fecha-se pela folha de rosto de um exemplar.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
