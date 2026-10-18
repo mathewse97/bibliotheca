@@ -31,12 +31,12 @@ source_of_record: claude
 contains:
   - work: levitsky-ziblatt--how-democracies-die
     why: "A única tradução brasileira, de Renato Aguiar, feita direto do inglês e fácil de comprar nova."
-    verdict: unassessed
-    reason: "Única edição brasileira."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Renato Aguiar, direto do inglês, à venda nova."
     translator: ["Renato Aguiar"]
     translated_from: direct
     source_text: null
-    completeness: null
+    completeness: complete
     apparatus: []
 
 cover:
@@ -75,9 +75,9 @@ provenance:
     retrieved: 2026-09-23
     confidence: verified
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Única edição brasileira.
+**Recomendada**, por falta de alternativa: única edição brasileira.

@@ -32,8 +32,8 @@ source_of_record: voce
 contains:
   - work: dahl--on-democracy
     why: "Sua indicação, confirmada: tradução de Beatriz Sidou, a única feita no Brasil deste livro. Corresponde ao original de 1998; a edição ampliada de 2015 nunca foi traduzida. Encontra-se nova e usada."
-    verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Editora UnB), verificada em 2026-10-10: é a única tradução brasileira de On Democracy (1998). A 2ª edição inglesa (2015, com Ian Shapiro) não foi traduzida. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: é a única tradução brasileira de On Democracy (1998), feita por Beatriz Sidou para a Editora UnB; a segunda edição inglesa (2015, com Ian Shapiro) não foi traduzida. Sua indicação."
     translator: [beatriz-sidou]
     translated_from: direct
     source_text: null
@@ -89,9 +89,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** Edição indicada pelo Mathews; é a única tradução brasileira.
+**Recomendada**, por falta de alternativa. Edição indicada pelo Mathews; é a única tradução brasileira.

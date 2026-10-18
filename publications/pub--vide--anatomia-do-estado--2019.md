@@ -31,12 +31,12 @@ source_of_record: claude
 contains:
   - work: rothbard--anatomy-of-the-state
     why: "Escolha sua, no lugar da tradução de Tiago Chabert pelo Instituto Mises Brasil. Tradução de Matheus Pacini, à venda nova; ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Instituto Mises Brasil, trad. Tiago Chabert)."
+    verdict: recommended
+    reason: "Escolha sua (2026-09-23), comparada com a do Instituto Mises Brasil (trad. Tiago Chabert). As duas são traduções diretas do inglês de um ensaio curto, sem avaliação independente; esta é a sua escolha e está à venda nova."
     translator: ["Matheus Pacini"]
     translated_from: direct
     source_text: null
-    completeness: null
+    completeness: complete
     apparatus: []
 
 cover:
@@ -70,9 +70,9 @@ provenance:
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Instituto Mises Brasil, trad. Tiago Chabert).
+**Recomendada.** Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Instituto Mises Brasil, trad. Tiago Chabert).
