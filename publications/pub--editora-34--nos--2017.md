@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: zamiatin--my
     why: "Escolha sua: Editora 34, a principal casa brasileira de traduções do russo, com posfácio de Cássio de Oliveira. Tradução de Francisco de Araújo, provavelmente direto do russo, mas as fontes não confirmam."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-zamiatin, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a da Aleph (trad. Gabriela Soares) e a da Novo Século (2026, trad. Paula Clemente), ambas diretas do russo; escolha do Mathews no cartão d-ed-zamiatin. Editora de referência em tradução do russo, com posfácio de Cássio de Oliveira. À venda nova."
     translator: [francisco-araujo]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [posfacio]
 
 cover:
   file: covers/pub--editora-34--nos--2017.webp
@@ -74,9 +74,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-zamiatin).
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-zamiatin).
