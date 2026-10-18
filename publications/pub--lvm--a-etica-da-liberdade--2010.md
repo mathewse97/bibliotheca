@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: rothbard--the-ethics-of-liberty
     why: "Sua indicação: a edição da LVM, editora que seria ligada ao Instituto Mises Brasil, o que ainda não foi confirmado. À venda nova; o tradutor não foi identificado e não houve comparação com outras edições."
-    verdict: unassessed
-    reason: "Confere com a sua indicação (Instituto Mises Brasil): a LVM é a editora ligada ao instituto — a verificar."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: é a única edição brasileira, do Instituto Ludwig von Mises Brasil (ISBN do instituto; hoje reeditada pela LVM), como você indicou. Ressalva: o tradutor não aparece nas fontes acessíveis."
     translator: []
     translated_from: direct
     source_text: null
@@ -70,9 +70,9 @@ provenance:
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Confere com a sua indicação (Instituto Mises Brasil): a LVM é a editora ligada ao instituto — a verificar.
+**Recomendada**, por falta de alternativa. Falta identificar o tradutor.

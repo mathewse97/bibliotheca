@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: homero--ilias
     why: "Seu exemplar. A caixa da Penguin-Companhia com a tradução de Frederico Lourenço, direto do grego. A edição bilíngue da Editora 34 entra junto, por escolha sua."
-    verdict: unassessed
-    reason: "Exemplar do Mathews (caixa Penguin-Companhia). Decisão dele em 2026-10-10: Homero fica com DUAS edições, esta e a bilíngue da Editora 34; não é escolha entre uma e outra."
+    verdict: recommended
+    reason: "Decisão do Mathews em 2026-10-10: Homero tem duas edições na biblioteca, esta (o exemplar dele, trad. Frederico Lourenço) e a bilíngue da Editora 34. As duas são recomendadas, cada uma para um uso."
     translator: [frederico-lourenco]
     translated_from: direct
     source_text: null
@@ -43,8 +43,8 @@ contains:
     apparatus: []
   - work: homero--odysseia
     why: "Seu exemplar. A caixa da Penguin-Companhia com a tradução de Frederico Lourenço, direto do grego. A edição bilíngue da Editora 34 entra junto, por escolha sua."
-    verdict: unassessed
-    reason: "Exemplar do Mathews (caixa Penguin-Companhia). Decisão dele em 2026-10-10: Homero fica com DUAS edições, esta e a bilíngue da Editora 34; não é escolha entre uma e outra."
+    verdict: recommended
+    reason: "Decisão do Mathews em 2026-10-10: Homero tem duas edições na biblioteca, esta (o exemplar dele, trad. Frederico Lourenço) e a bilíngue da Editora 34. As duas são recomendadas, cada uma para um uso."
     translator: [frederico-lourenco]
     translated_from: direct
     source_text: null
@@ -99,7 +99,7 @@ provenance:
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação

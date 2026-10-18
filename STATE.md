@@ -106,9 +106,14 @@ Teatro completo VI da Editora 34.
   Lote 9 (2026-10-18):
   Habermas (Unesp), Dahl (UnB), Levitsky e Ziblatt (Zahar), Rawls (Martins
   Fontes, edição revista) e Rothbard, *Anatomia do Estado* (Vide)
-  recommended. Faltam em Política: Rothbard, *A Ética da Liberdade*, e
-  Hoppe; as demais estão em cartão ou pendentes (Weber, Aron, Berlin,
-  Popper). Depois, as outras seis coleções.
+  recommended. A partir do lote 10, lotes de 10 obras
+  (pedido do Mathews, 2026-10-18). Lote 10 (2026-10-18): Rothbard, *A Ética
+  da Liberdade*, e Hoppe (Instituto Mises Brasil, únicas) fecham Política,
+  onde só restam obras em cartão ou pendentes (Weber, Aron, Berlin, Popper,
+  Cícero, Tomás de Aquino, Maquiavel, Montesquieu, Rousseau). Greco-Romana:
+  Cline, Hesíodo, Homero (as duas edições), Eurípides, *As Bacantes*, e as
+  Vidas de Plutarco e Vegécio recommended. Próximo lote: o resto da
+  Greco-Romana (os seis manuais em inglês e Campbell) e o Oriente Próximo.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

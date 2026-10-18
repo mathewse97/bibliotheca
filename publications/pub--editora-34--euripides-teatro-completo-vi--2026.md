@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: euripides--bakchai
     why: "Escolhida por você porque fecha a série de Eurípides de Jaa Torrano que você já usa: direto do grego, com o texto grego ao lado e estudos. É o volume VI, em pré-venda, com lançamento previsto para 26/10/2026."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-bacantes). Fecha a série que o Mathews usa para Eurípides (volumes I a V)."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-10 (cartão d-ed-bacantes): fecha a série da Editora 34 que ele usa para Eurípides (volumes I a V). Lançamento previsto para 26/10/2026."
     translator: [torrano]
     translated_from: direct
     source_text: null
@@ -77,7 +77,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação

@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: plutarco--perikles
     why: "Traduzida direto do grego por Ana Maria Guedes Ferreira e Ália Rosa Conceição Rodrigues, com introdução e notas, na mesma série da Universidade de Coimbra das outras Vidas. É a edição brasileira da série, à venda nova aqui, mas o texto é em português de Portugal."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: tradução direta do grego, com introdução e notas, da mesma série de Coimbra já usada para as outras Vidas da coleção; esta é a edição brasileira, vendida nova no Brasil. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a da Gredos (espanhol): tradução direta do grego, com introdução e notas, da série de Coimbra, na edição brasileira vendida nova."
     translator: [ana-ferreira, alia-rodrigues]
     translated_from: direct
     source_text: null
@@ -90,7 +90,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação

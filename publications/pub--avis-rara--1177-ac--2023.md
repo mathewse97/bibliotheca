@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: cline--1177-bc
     why: "Seu exemplar. Tradução de Fábio Alberti da edição revista e atualizada do original, de 2021, a mais recente."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Traduz a edição revista e atualizada de 2021; é a melhor em português."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a edição anterior: traduz a edição revista e atualizada de 2021, e é a melhor em português. É o exemplar do Mathews."
     translator: [fabio-alberti]
     translated_from: direct
     source_text: null
@@ -71,7 +71,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem; capa trocada em 2026-10-10 a pedido do Mathews."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
