@@ -117,6 +117,6 @@ updated: 2026-09-23
 
 ## Avaliação
 
-Sem veredito. Mesmo tradutor da Oresteia que você já escolheu (Torrano,
+Mesmo tradutor da Oresteia que você já escolheu (Torrano,
 Iluminuras), em edição bilíngue — o que o §F.3 prefere dentro da faixa. Não
 foi comparado com outras traduções.

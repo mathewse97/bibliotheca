@@ -84,4 +84,4 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Sem veredito formal.** A única tradução em português; o Mathews não tem exemplar.
+A única tradução em português; o Mathews não tem exemplar.

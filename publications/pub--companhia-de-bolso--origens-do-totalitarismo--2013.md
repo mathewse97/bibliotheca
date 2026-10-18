@@ -85,4 +85,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito formal.** Edição indicada pelo Mathews, verificada: é a única tradução brasileira, e esta é a impressão em catálogo. Formato de bolso (18 × 12,4 cm).
+Edição indicada pelo Mathews, verificada: é a única tradução brasileira, e esta é a impressão em catálogo. Formato de bolso (18 × 12,4 cm).

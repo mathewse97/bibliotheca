@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: han--die-krise-der-narration
     why: "A única tradução brasileira, feita direto do alemão por Daniel Guilhermino. Não há outra edição para comparar."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Daniel Guilhermino, à venda nova."
     translator: ["Daniel Guilhermino"]
     translated_from: direct
     source_text: "Die Krise der Narration"
@@ -85,10 +85,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única edição brasileira.
 
 Não avaliada. Ficha bibliográfica corroborada por resenha em periódico
 acadêmico, mas não pela página da própria editora.

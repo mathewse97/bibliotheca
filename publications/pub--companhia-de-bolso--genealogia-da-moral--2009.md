@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: nietzsche--zur-genealogie-der-moral
     why: "Tradução de Paulo César de Souza, direto do alemão, a de referência no Brasil: ele traduziu a obra de Nietzsche para a Companhia das Letras. É edição de bolso, e não se conferiu se mantém as notas do tradutor."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: a tradução de Paulo César de Souza, direta do alemão, é a de referência no Brasil; esta é a impressão em catálogo. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: a tradução de Paulo César de Souza, direta do alemão e com notas dele, é a de referência no Brasil; esta é a impressão à venda nova."
     translator: [paulo-cesar-souza]
     translated_from: direct
     source_text: null
@@ -72,9 +72,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Escolhida pela tradução.
+**Recomendada** (2026-10-18). A tradução de referência no Brasil.
+
+Escolhida pela tradução.

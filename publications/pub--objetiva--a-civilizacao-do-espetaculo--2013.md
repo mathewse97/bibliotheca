@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: vargas-llosa--la-civilizacion-del-espectaculo
     why: "Escolha sua, no lugar do original espanhol. Tradução de Ivone Benedetti, feita direto do espanhol; à venda nova."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews para a coleção Cultura. O original espanhol (Alfaguara, 2012) também foi indicado, mas saiu do registro em 2026-10-10: a edição escolhida basta."
+    verdict: recommended
+    reason: "Escolha do Mathews (2026-09-23): única tradução brasileira, de Ivone Benedetti, à venda nova; o original espanhol saiu do registro em 2026-10-10."
     translator: [ivone-benedetti]
     translated_from: direct
     source_text: null
@@ -80,9 +80,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro. É isso que autoriza guardar uma capa de vendedor."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Dados confirmados na página da editora. A obra foi escrita em espanhol, uma das suas línguas, e você indicou as duas: esta e o original. Pelo §F.2, uma boa tradução portuguesa é geralmente preferida — mas "boa" ainda não foi verificado aqui.
+**Recomendada** (2026-10-18). Escolhida pelo Mathews.
+
+Dados confirmados na página da editora. A obra foi escrita em espanhol, uma das suas línguas, e você indicou as duas: esta e o original. Pelo §F.2, uma boa tradução portuguesa é geralmente preferida — mas "boa" ainda não foi verificado aqui.

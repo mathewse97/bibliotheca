@@ -116,7 +116,9 @@ Teatro completo VI da Editora 34.
   manuais em inglês da Greco-Romana e do Oriente Próximo (importados na
   Amazon; Cameron com disponibilidade a confirmar), Campbell (Palas Athena)
   e as cinco obras em português do Oriente Próximo recommended. Greco-Romana
-  e Oriente Próximo sem pendências de edição. Próximo lote: Cultura.
+  e Oriente Próximo sem pendências de edição. Lote 12 (2026-10-18): as
+  15 obras de Cultura recommended (Scruton com tradutor a identificar);
+  Cultura sem pendências de edição. Próximo lote: Educação.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

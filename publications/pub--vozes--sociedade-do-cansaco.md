@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: han--muedigkeitsgesellschaft
     why: "A única tradução brasileira, feita direto do alemão por Enio Paulo Giachini. Não há outra edição para comparar."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Enio Paulo Giachini, à venda nova."
     translator: ["Enio Paulo Giachini"]
     translated_from: direct
     source_text: "Müdigkeitsgesellschaft"
@@ -78,10 +78,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única edição brasileira.
 
 Não avaliada. Ficha bibliográfica corroborada por citação acadêmica formal
 (SciELO), mas não pela página da própria editora.

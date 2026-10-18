@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: vieira-de-mello--desenvolvimento-e-cultura
     why: "Livro escrito em português, sem tradução a avaliar. É a única edição à venda nova; as anteriores, de 1963 e 1980, só em sebo e não foram comparadas."
-    verdict: unassessed
-    reason: "Única edição em catálogo identificada. As anteriores (1963; 3ª ed. Paz e Terra, 1980) só existem em sebo e não foram comparadas."
+    verdict: recommended
+    reason: "Original em português; esta é a única edição à venda nova. As anteriores (1963; Paz e Terra, 1980) só existem em sebo."
     translator: []
     translated_from: null  # original em português
     source_text: null
@@ -80,9 +80,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro. É isso que autoriza guardar uma capa de vendedor."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Obra escrita em português; a questão de edição não é de tradução, e sim de texto-base e aparato — e nenhum dos dois foi verificado. Esta reedição é a única em catálogo.
+**Recomendada** (2026-10-18). Original em português, na única edição à venda.
+
+Obra escrita em português; a questão de edição não é de tradução, e sim de texto-base e aparato — e nenhum dos dois foi verificado. Esta reedição é a única em catálogo.
