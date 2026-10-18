@@ -32,13 +32,13 @@ source_of_record: voce
 contains:
   - work: orwell--animal-farm
     why: "Tradução de Paulo Henriques Britto, feita direto do inglês, que pela primeira vez no Brasil usa o título original. Esta edição especial em capa dura traz também ensaios de outros autores sobre o livro, reunidos por Marcelo Pen."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-revolucao-dos-bichos, adotando a recomendação)."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a tradução anterior da mesma casa e outras em catálogo; escolha do Mathews no cartão d-ed-revolucao-dos-bichos. Tradução nova de Paulo Henriques Britto, com o título original e fortuna crítica organizada por Marcelo Pen. À venda nova."
     translator: [paulo-britto]
     translated_from: direct
     source_text: null
-    completeness: null
-    apparatus: []
+    completeness: complete
+    apparatus: [fortuna-critica]
 
 cover:
   file: covers/pub--companhia-das-letras--a-fazenda-dos-animais-edicao-especial--2020.webp
@@ -81,9 +81,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10** (cartão d-ed-revolucao-dos-bichos). Tradução nova de Paulo Henriques Britto, com fortuna crítica, da mesma casa da edição que o Mathews indicou.
+**Recomendada.** Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-revolucao-dos-bichos). Tradução nova de Paulo Henriques Britto, com fortuna crítica, da mesma casa da edição que o Mathews indicou.

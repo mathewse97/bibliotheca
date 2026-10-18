@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: orwell--politics-and-the-english-language
     why: "O ensaio vem na coletânea Por que escrevo, traduzida direto do inglês por Cláudio Marcondes. É a coletânea de ensaios de Orwell à venda nova em que a presença deste ensaio está confirmada, como você pediu."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-09 por atender à indicação do Mathews (o ensaio dentro de uma coletânea de Orwell): é a coletânea em catálogo em que a presença do ensaio está confirmada. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-09 com Dentro da baleia e outros ensaios (Companhia das Letras, 2005), cujo índice não confirma o ensaio. Esta é a coletânea em catálogo em que o ensaio está comprovadamente incluído, na tradução de Claudio Marcondes, direto do inglês. À venda nova."
     translator: [claudio-marcondes]
     translated_from: direct
     source_text: null
@@ -84,9 +84,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Coletânea curta da série Grandes Ideias, com o ensaio comprovadamente incluído.
+**Recomendada** (2026-10-18). Coletânea curta da série Grandes Ideias, com o ensaio comprovadamente incluído.

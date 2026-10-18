@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: bezmenov--subversao-teoria-aplicacao-e-confissao-de-um-metodo
     why: "A única edição deste livro, à venda nova, com o texto em inglês e em português. É o primeiro volume de uma coletânea dos trabalhos de Bezmenov; o tradutor não é identificado."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: é a única edição deste título — a do ISBN que já estava registrado (6599245404). Agora identificada: Audax, 2021, bilíngue. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10 e 2026-10-18: é a única edição deste título em português, e é bilíngue, com o inglês ao lado. Ressalva: o tradutor não está identificado nas fontes acessíveis."
     translator: null
     translated_from: direct
     source_text: null
@@ -79,9 +79,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** Única edição; nenhuma alternativa a comparar.
+**Recomendada**, por falta de alternativa: única edição, bilíngue. Falta identificar o tradutor.
