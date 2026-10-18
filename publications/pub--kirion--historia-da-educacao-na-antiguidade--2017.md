@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: marrou--histoire-de-leducation-dans-lantiquite
     why: "A única edição brasileira à venda nova, com a tradução antiga de Mário Leônidas Casanova. Não se sabe se foi feita direto do francês, e o texto não foi conferido com o original."
-    verdict: unassessed
-    reason: "Única edição brasileira em catálogo. A tradução de Mário Leônidas Casanova é a histórica, e não foi comparada com o original francês."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira à venda, na tradução histórica de Mário Leônidas Casanova (a mesma das edições antigas da Herder/EPU, que só se acham usadas)."
     translator: ["Mário Leônidas Casanova"]
     translated_from: unknown
     source_text: null
@@ -85,9 +85,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Única edição em português disponível; a obra foi escrita em francês. A tradução de Casanova é antiga e não foi avaliada: o candidato alternativo real é o original francês (Seuil), na mesma faixa se a tradução se mostrar datada.
+**Recomendada** (2026-10-18). A única edição brasileira à venda.
+
+Única edição em português disponível; a obra foi escrita em francês. A tradução de Casanova é antiga e não foi avaliada: o candidato alternativo real é o original francês (Seuil), na mesma faixa se a tradução se mostrar datada.

@@ -34,7 +34,7 @@ contains:
   - work: adler--the-paideia-proposal
     why: "A única edição brasileira encontrada, à venda nova. O nome do tradutor não aparece nas informações disponíveis sobre o livro."
     verdict: unassessed
-    reason: "Única edição brasileira identificada; tradutor não creditado nas fontes consultadas."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -84,9 +84,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. O volume é bem maior que *The Paideia Proposal* sozinho (a capa sugere uma reunião dos textos do programa Paideia), o que pode ser vantagem — mas precisa ser conferido, e o tradutor não aparece em nenhuma fonte consultada.
+**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
+
+O volume é bem maior que *The Paideia Proposal* sozinho (a capa sugere uma reunião dos textos do programa Paideia), o que pode ser vantagem — mas precisa ser conferido, e o tradutor não aparece em nenhuma fonte consultada.

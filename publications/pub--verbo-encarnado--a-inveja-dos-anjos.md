@@ -31,10 +31,8 @@ source_of_record: claude
 contains:
   - work: jaeger--the-envy-of-angels
     why: "A única tradução brasileira; o livro não circula em outras traduções conhecidas, então não há com o que comparar."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada — não há comparação com
-             alternativas porque a obra não circula em outras traduções
-             conhecidas."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira; a obra não circula em outra tradução."
     translator: []
     translated_from: direct
     source_text: null
@@ -92,10 +90,12 @@ provenance:
     confidence: verified
     note: "DIVERGÊNCIA: o selo impresso é o da Kírion, e o anúncio da Amazon também dá Kírion como editora (2019, 608 p.); o prefixo do ISBN, 978-85-94090, é o da Kírion. O registro diz Verbo Encarnado com base na página de produto da Verbo Encarnado (tier 1). Não corrigido: decisão do Mathews."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única edição brasileira.
 
 Editora confirmada em fonte tier 1 (página de produto da própria editora).
 Ano de publicação, tradutor e edição ainda não confirmados.

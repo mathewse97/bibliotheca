@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: bauer-wise--the-well-trained-mind
     why: "Escolha sua entre as duas edições que você indicou; a outra é a 4ª edição americana, em inglês. Tradução brasileira à venda nova, de tradutor não identificado; as duas ainda não foram comparadas."
-    verdict: unassessed
-    reason: "Uma das duas edições que você indicou para esta obra (a outra é a 4ª edição americana). Não comparadas."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-09-23 (cartão d-dec-bauer): a tradução brasileira, no lugar da 4ª edição americana. À venda nova."
     translator: []
     translated_from: unknown
     source_text: null
@@ -80,9 +80,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. É um guia prático cujas recomendações de material são americanas e datam da edição de origem — saber **de qual edição** foi traduzido é o que decide entre este e o original.
+**Recomendada** (2026-10-18). Escolhida pelo Mathews (cartão d-dec-bauer).
+
+É um guia prático cujas recomendações de material são americanas e datam da edição de origem — saber **de qual edição** foi traduzido é o que decide entre este e o original.

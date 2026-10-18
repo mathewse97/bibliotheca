@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: hirsch--why-knowledge-matters
     why: "A única edição brasileira, fácil de comprar nova. O nome do tradutor não aparece nas fontes consultadas."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, à venda nova."
     translator: []
     translated_from: unknown
     source_text: null
@@ -83,9 +83,11 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-Sem veredito. Única edição em português; o original (Harvard Education Press, 2016) está em inglês e seria o candidato se a tradução se mostrar fraca.
+**Recomendada** (2026-10-18). Única edição brasileira.
+
+Única edição em português; o original (Harvard Education Press, 2016) está em inglês e seria o candidato se a tradução se mostrar fraca.

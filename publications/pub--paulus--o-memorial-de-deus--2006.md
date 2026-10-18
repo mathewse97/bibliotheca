@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: smith--the-memoirs-of-god
     why: "A única tradução em português, da Paulus, à venda nova. Não se sabe quem traduziu nem se foi direto do inglês; ainda não foi comparada com outras edições."
-    verdict: recommended
-    reason: "Pesquisa de 2026-10-18: única tradução em português, à venda nova. Ressalva: não se sabe quem traduziu nem se foi direto do inglês; procurado em várias fontes, sem resultado."
+    verdict: unassessed
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -74,7 +74,7 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Recomendada** (2026-10-18). Única tradução em português.
+**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
 
 TRADUTOR NÃO ENCONTRADO. Procurado na ficha da Paulus, em livrarias brasileiras e portuguesas, em catálogos universitários e em referências ABNT de teses e periódicos. Nenhuma fonte o nomeia. Fecha-se pela folha de rosto de um exemplar.
 

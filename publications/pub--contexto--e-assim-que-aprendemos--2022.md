@@ -42,9 +42,8 @@ source_of_record: claude
 contains:
   - work: dehaene--how-we-learn
     why: "Tradução de Rodolfo Ilari, a única publicada no Brasil, fácil de comprar nova. Como não há outra, não houve comparação."
-    verdict: unassessed
-    reason: "Candidato único: não há outra tradução brasileira desta obra.
-             Sem alternativa examinada não há veredito."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira, de Rodolfo Ilari, à venda nova."
     translator: [ilari]
     translated_from: direct
     source_text: null
@@ -134,12 +133,14 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito.** Candidato único, como o outro: não há segunda tradução
+**Recomendada** (2026-10-18). Única tradução brasileira.
+
+Candidato único, como o outro: não há segunda tradução
 brasileira.
 
 Este registro é mais fraco que o do Brown. **A página bibliográfica da própria

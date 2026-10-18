@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: scruton--culture-counts
     why: "A única tradução brasileira, à venda nova. O tradutor não aparece nas fontes, por isso não há como avaliar a qualidade da tradução."
-    verdict: recommended
-    reason: "Pesquisa de 2026-10-18: única edição brasileira. Ressalva: o tradutor não está identificado nas fontes acessíveis."
+    verdict: unassessed
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -91,6 +91,6 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Recomendada** (2026-10-18). Recomendada por falta de alternativa; falta identificar o tradutor.
+**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
 
 Esta é a única edição em português que apareceu, mas o tradutor não foi identificado em nenhuma fonte consultada — e é o dado de que o §F mais precisa. A obra foi escrita em inglês, língua que você usa: se a tradução se mostrar fraca, o original entra como candidato na mesma faixa (§F.2).

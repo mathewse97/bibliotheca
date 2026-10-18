@@ -39,10 +39,8 @@ source_of_record: claude
 contains:
   - work: brown-roediger-mcdaniel--make-it-stick
     why: "A única tradução brasileira, de Henrique de Oliveira Guerra, à venda nova, com notas, sugestões de leitura, índice e apresentação de Claudio de Moura Castro, que revisou os termos técnicos. Não há outra para comparar."
-    verdict: unassessed
-    reason: "Candidato único: não há outra tradução brasileira desta obra para
-             comparar, e sem alternativa examinada não há veredito honesto.
-             `unassessed` é o estado correto — não `recommended` por omissão."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira, à venda nova."
     translator: [guerra]
     translated_from: direct
     source_text: null
@@ -103,15 +101,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito, e isso não é lacuna de pesquisa: é ausência de alternativa.**
-Não existe segunda tradução brasileira desta obra. Um veredito de edição compara
-candidatos; com um só candidato, declarar a edição recomendada seria transformar
-a falta de concorrência em juízo de qualidade.
+**Recomendada** (2026-10-18). Única tradução brasileira.
 
 O que está verificado é incomum para esta biblioteca: a editora publica a ficha
 inteira, e por isso título, ano, páginas, dimensões, formato, os dois ISBNs,

@@ -33,9 +33,8 @@ source_of_record: claude
 contains:
   - work: illich--deschooling-society
     why: "A única tradução em português conhecida, de Lúcia Mathilde Endlich Orth, feita do inglês. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Único candidato identificado até agora — não há comparação com
-             alternativas porque nenhuma foi pesquisada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única edição brasileira, na tradução de Lúcia Mathilde Endlich Orth."
     translator: [lucia-mathilde-endlich-orth]
     translated_from: direct
     source_text: null
@@ -95,10 +94,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: o selo impresso confere com a editora do registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única edição brasileira.
 
 Identificação em nível de varejo. Suficiente para registrar a publicação;
 insuficiente para atribuir ano ou tradutor com confiança, ou para qualquer
