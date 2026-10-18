@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: homero--ilias
     why: "Tradução de Trajano Vieira, direto do grego, com o texto grego ao lado para conferir o original. Fica junto com a sua caixa da Penguin-Companhia, por escolha sua, não no lugar dela."
-    verdict: unassessed
-    reason: "Decisão do Mathews em 2026-10-10: ele quer as duas edições de Homero — a caixa Penguin-Companhia, que já tem, e esta, bilíngue. Não é alternativa: é a segunda edição da biblioteca."
+    verdict: recommended
+    reason: "Decisão do Mathews em 2026-10-10: segunda edição de Homero na biblioteca, bilíngue, ao lado da caixa da Penguin-Companhia. Não é alternativa: as duas são recomendadas."
     translator: [trajano-vieira]
     translated_from: direct
     source_text: null
@@ -77,7 +77,7 @@ provenance:
            manualmente os casos duvidosos, enviando ajustes. Nada aqui foi
            confirmado em catálogo de editora."
 
-updated: 2026-09-23
+updated: 2026-10-18
 ---
 
 ## Avaliação

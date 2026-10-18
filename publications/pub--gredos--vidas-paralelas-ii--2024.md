@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: plutarco--themistokles
     why: "Traduzida direto do grego por Aurelio Pérez Jiménez, com introdução e notas; é a única tradução cuidadosa deste par que se sabe ter sido feita do original; a série de Coimbra não o publicou. Em espanhol, capa dura, e precisa ser importada."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles): única tradução direta e acadêmica deste par."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-10 (cartão d-ed-plutarco-temistocles): única tradução direta e acadêmica deste par."
     translator: [perez-jimenez]
     translated_from: direct
     source_text: null
@@ -40,8 +40,8 @@ contains:
     apparatus: []
   - work: plutarco--solon
     why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição de Coimbra."
-    verdict: unassessed
-    reason: "Alternativa em espanhol; a escolha para Sólon é a edição de Coimbra."
+    verdict: alternative
+    reason: "Alternativa em espanhol; para Sólon fica a edição de Coimbra, em português."
     translator: [perez-jimenez]
     translated_from: direct
     source_text: null
@@ -49,8 +49,8 @@ contains:
     apparatus: []
   - work: plutarco--perikles
     why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição da Annablume."
-    verdict: unassessed
-    reason: "Alternativa em espanhol; a escolha para Péricles é a edição da Annablume."
+    verdict: alternative
+    reason: "Alternativa em espanhol; para Péricles fica a edição da Annablume, em português."
     translator: [perez-jimenez]
     translated_from: direct
     source_text: null
@@ -101,7 +101,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação

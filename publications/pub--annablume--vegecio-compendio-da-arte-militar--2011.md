@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: vegecio--epitoma-rei-militaris
     why: "A única tradução em português, feita direto do latim por João Gouveia Monteiro e José Eduardo Braga, com o latim ao lado para conferir, estudo introdutório e notas. É português de Portugal e está esgotada: só usada."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10: é a única tradução em português (Gouveia Monteiro e Braga), bilíngue e com estudo e notas; esta é a edição brasileira do mesmo texto da edição de Coimbra (2009). Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: é a única tradução em português (João Gouveia Monteiro e José Eduardo Braga), bilíngue, com estudo e notas; esta é a edição brasileira do mesmo texto da de Coimbra (2009)."
     translator: [gouveia-monteiro, eduardo-braga]
     translated_from: direct
     source_text: null
@@ -79,7 +79,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação

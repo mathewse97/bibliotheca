@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: euripides--bakchai
     why: "Fica só até sair o volume VI da série de Eurípides de Jaa Torrano. Tradução de Ordep Serra, a edição mais estudada da peça, com introdução sobre a história do texto, comentário trecho a trecho, notas e um ensaio sobre Dioniso."
-    verdict: unassessed
-    reason: "Alternativa: o cartão d-ed-bacantes foi decidido em 2026-10-10 pela edição da Editora 34. Fica no registro só até o lançamento do Teatro completo VI (previsto para 26/10/2026), por decisão do Mathews em 2026-10-10; depois sai."
+    verdict: alternative
+    reason: "O cartão d-ed-bacantes foi decidido em 2026-10-10 pela Editora 34. Esta fica só até o lançamento do Teatro completo VI (previsto para 26/10/2026) e depois sai, por decisão do Mathews."
     translator: [ordep-serra]
     translated_from: direct
     source_text: null
@@ -84,7 +84,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
