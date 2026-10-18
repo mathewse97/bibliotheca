@@ -103,8 +103,12 @@ Teatro completo VI da Editora 34.
   (2016, trad. Jorge Bastos) está esgotada. Lote 8 (2026-10-18):
   Bezmenov (Audax, única), os três Orwell (Penguin-Companhia e Companhia
   das Letras) e Klemperer (Contraponto, trad. Miriam Oelsner) recommended.
-  Próximo lote, na ordem de Política: Habermas, Dahl, Levitsky e Ziblatt,
-  Rawls e Rothbard.
+  Lote 9 (2026-10-18):
+  Habermas (Unesp), Dahl (UnB), Levitsky e Ziblatt (Zahar), Rawls (Martins
+  Fontes, edição revista) e Rothbard, *Anatomia do Estado* (Vide)
+  recommended. Faltam em Política: Rothbard, *A Ética da Liberdade*, e
+  Hoppe; as demais estão em cartão ou pendentes (Weber, Aron, Berlin,
+  Popper). Depois, as outras seis coleções.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

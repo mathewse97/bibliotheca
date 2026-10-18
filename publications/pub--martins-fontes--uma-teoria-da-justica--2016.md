@@ -31,13 +31,13 @@ source_of_record: voce
 contains:
   - work: rawls--a-theory-of-justice
     why: "Traduz a edição revista do livro, com as correções que Rawls fez depois de 1971 e que ele considerou definitivas. Tradução de Jussara Simões, com a terminologia conferida por Álvaro de Vita; à venda nova. É a sua indicação."
-    verdict: unassessed
-    reason: "Edição indicada pelo Mathews (Martins Fontes, trad. Jussara Simões, rev. técnica de Álvaro de Vita), verificada em 2026-10-10: é a tradução da edição revista (1999), e esta é a impressão em catálogo. A tradução anterior da casa (Almiro Pisetta e Lenita Esteves, 1997) segue o texto de 1971. Ver a seção Edições da obra."
+    verdict: recommended
+    reason: "Comparada em 2026-10-10 com a tradução anterior da casa (1997, trad. Almiro Pisetta e Lenita Esteves, sobre o texto de 1971) e a da Presença (Lisboa). Esta traduz a edição revista, que Rawls considerou definitiva, com revisão técnica de Álvaro de Vita. Sua indicação; à venda nova."
     translator: [jussara-simoes]
     translated_from: direct
     source_text: null
     completeness: complete
-    apparatus: []
+    apparatus: [revisao-tecnica, prefacio-do-autor]
 
 cover:
   file: covers/pub--martins-fontes--uma-teoria-da-justica--2016.webp
@@ -84,9 +84,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
-**Sem veredito formal.** Edição indicada pelo Mathews, verificada.
+**Recomendada** (2026-10-18). Edição indicada pelo Mathews, verificada.
