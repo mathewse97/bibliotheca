@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: stevenson--treasure-island
     why: "Seu exemplar. Texto completo, traduzido direto do inglês por José Roberto O'Shea, com apresentação, notas e as ilustrações de Louis Rhead (1915); a melhor edição brasileira encontrada."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Tradução integral, com apresentação e notas; a melhor edição brasileira encontrada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-10: tradução integral de José Roberto O'Shea, com apresentação e notas; a melhor edição brasileira encontrada. Exemplar do Mathews."
     translator: [oshea]
     translated_from: direct
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). A melhor edição brasileira; exemplar do Mathews.
 
 **Exemplar do Mathews.**

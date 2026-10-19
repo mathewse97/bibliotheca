@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: leclerc--uma-introducao-a-filosofia-da-mente
     why: "Seu exemplar, a 1ª edição, de 2018; o livro foi escrito em português. Existe uma 2ª edição, ampliada (Appris, 2025), mas você preferiu ficar com a que tem."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Há 2ª edição, ampliada (Appris, 2025, 203 p.); o Mathews decidiu manter a que tem."
+    verdict: recommended
+    reason: "Original em português. Existe uma 2ª edição, ampliada (Appris, 2025); o Mathews decidiu em 2026-10-10 manter a 1ª, que é o exemplar dele."
     translator: null
     translated_from: null
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Exemplar do Mathews; a 2ª edição, ampliada, fica anotada.
 
 **Exemplar do Mathews.**

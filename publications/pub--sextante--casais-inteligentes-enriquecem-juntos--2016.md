@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: cerbasi--casais-inteligentes-enriquecem-juntos
     why: "Seu exemplar. O livro foi escrito em português, então não há tradução a comparar."
-    verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10."
+    verdict: recommended
+    reason: "Original em português; edição corrente e exemplar do Mathews."
     translator: null
     translated_from: null
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Original em português; exemplar do Mathews.
 
 **Exemplar do Mathews.**
