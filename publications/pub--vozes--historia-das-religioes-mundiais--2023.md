@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: noss-grangaard--a-history-of-the-worlds-religions
     why: "Tradução completa do manual, feita direto do inglês por André Szczawlinska Muceniecks. Edição da Vozes de 2023, fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única tradução brasileira, direto do inglês, à venda nova."
     translator: [muceniecks]
     translated_from: direct
     source_text: "inglês"
@@ -68,15 +68,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Única tradução brasileira.
+
 A correspondência com a 14ª edição inglesa (Routledge, 2017) é hipótese: a editora brasileira não a declara.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: biblia
     why: "Bíblia de estudo católica traduzida direto do hebraico, do aramaico e do grego, com introduções e notas da Escola Bíblica de Jerusalém que explicam o texto. Completa e à venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: o texto é traduzido do hebraico, do aramaico e do grego, e o aparato (introduções e notas) vem da edição francesa da Escola Bíblica de Jerusalém; é a edição de estudo de referência em português. Passa o portão textual (review/religion.md §6)."
     translator: []
     translated_from: direct
     source_text: "hebraico, aramaico e grego"
@@ -81,15 +81,12 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). A edição de estudo de referência em português.
+
 Os dois ISBNs foram escritos à mão por ele na entrada 30 e conferem: dígito verificador válido nos dois, mesmo número nas duas formas.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

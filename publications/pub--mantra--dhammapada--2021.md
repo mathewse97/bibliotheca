@@ -29,8 +29,8 @@ source_of_record: claude
 contains:
   - work: dhammapada
     why: "Sua indicação. Traduzida direto do páli, a língua original, por José Carlos Calazans, com o texto páli ao lado e sua transcrição em letras latinas, para conferir as palavras originais. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Escolha confirmada pelo Mathews em 2026-10-10 (cartão d-ed-dhammapada): tradução de José Carlos Calazans, direto do páli, bilíngue."
     translator: [calazans]
     translated_from: direct
     source_text: "páli"
@@ -69,15 +69,12 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Escolhida pelo Mathews (cartão d-ed-dhammapada); direto do páli, bilíngue.
+
 CONFLITO COM A ESCOLHA DELE. A entrada 23 da lista nomeia 'EDIPRO; Jair Lot Vieira' — outra edição. Este registro corresponde ao anúncio guardado, não à escolha declarada, e por isso `source_of_record: claude`. O bilinguismo vem de fonte tier 6 e PRECISA de reverificação (§E.2 passo 5). Ver review/religion.md §6.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

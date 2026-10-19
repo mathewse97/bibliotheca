@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: eliade--das-heilige-und-das-profane
     why: "Tradução de Rogério Fernandes, a que está à venda nova. Não está confirmado de qual língua foi traduzida, francês ou alemão; ainda não foi comparada com outras edições."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: resolve a parada registrada em review/religion.md §6. A edição alemã de 1957 foi traduzida de um manuscrito francês de Eliade (registro de biblioteca: oversatt fra fransk ms.); o francês é a língua em que ele escreveu o livro, então a tradução de Rogério Fernandes, do francês, é direta. Única tradução brasileira, à venda nova."
     translator: [rogerio-fernandes]
     translated_from: direct      # 2026-10-10: Eliade escreveu em francês; a edição alemã de 1957 já era tradução
     source_text: "edição francesa (Le sacré et le profane)"
@@ -70,15 +70,12 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
-**Tradução por língua intermediária.** O §F.1 portão 1 manda recusar sempre que exista uma direta, em qualquer idioma. Nenhum veredito foi emitido porque falta pesquisar se essa direta existe. Ver review/religion.md §6.
+**Recomendada** (2026-10-19). A tradução do francês é direta: Eliade escreveu o livro em francês.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
+Antes, esta edição tinha sido marcada como tradução por língua intermediária, porque a primeira publicação do livro foi em alemão. A pesquisa de 2026-10-19 mostrou que a edição alemã foi traduzida de um manuscrito francês do próprio Eliade; a tradução brasileira, do francês, é portanto direta.
+

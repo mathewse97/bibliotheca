@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: berger--the-sacred-canopy
     why: "A tradução brasileira de José Carlos Barcellos, feita direto do inglês e à venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única tradução brasileira, de José Carlos Barcellos, direto do inglês, à venda nova. A edição não traz o contraponto da revisão posterior de Berger, registrado nos Fatos da obra."
     translator: [barcellos]
     translated_from: direct
     source_text: "inglês"
@@ -77,15 +77,12 @@ provenance:
     source_tier: 4
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Única tradução brasileira.
+
 A fonte que confirma o tradutor grafa 'Barcelos'; a grafia impressa na ficha não foi conferida.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

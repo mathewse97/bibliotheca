@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: epopeia-de-gilgamesh
     why: "Traduzida direto do acádio, a língua original, por Jacyntho Lins Brandão, com notas que explicam o texto, úteis para quem o estuda. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-05 (cartão d-ed-gilgamesh): a edição acadêmica de Jacyntho Lins Brandão, traduzida do acádio, com aparato; a ilustrada de 2021 do mesmo tradutor não tem aparato."
     translator: [jacyntho-lins-brandao]
     translated_from: direct
     source_text: "acádio"
@@ -72,15 +72,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-23
     confidence: verified
-updated: 2026-09-23
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
-Nenhum veredito foi emitido. O §F é um procedimento ordenado — portão textual,
-portão físico, faixas de mérito, e só então idioma — e ele não foi percorrido:
-os candidatos não foram enumerados antes de julgar, como o §E.2 passo 4 exige.
-`verdict: unassessed` é o estado correto, não uma omissão.
+**Recomendada** (2026-10-19). Escolhida pelo Mathews (cartão d-ed-gilgamesh).
 
 O que está verificado, e que motivou o Mathews a pedir o registro desta edição
 em 23/09/2026: é o mesmo tradutor da edição ilustrada de 2021

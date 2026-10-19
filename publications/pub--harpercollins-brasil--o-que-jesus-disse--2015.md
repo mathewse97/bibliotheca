@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: ehrman--misquoting-jesus
     why: "Sua escolha: reedição da mesma tradução de Marcos Marcionilo publicada em 2006 pela Prestígio. Não está confirmado se ainda se vende nova."
-    verdict: unassessed
-    reason: "Reedição da mesma tradução da primeira edição brasileira (Prestígio 2006); escolhida por você em 2026-09-25."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-09-25 (cartão d-dec-ehrman): única tradução brasileira, de Marcos Marcionilo, aqui reeditada."
     translator: ["Marcos Marcionilo"]
     translated_from: direct
     source_text: "inglês"
@@ -76,7 +76,7 @@ provenance:
     retrieved: 2026-09-25
     confidence: reported
 
-updated: 2026-09-25
+updated: 2026-10-19
 ---
 
 ## Por que esta publicação existe
@@ -87,3 +87,8 @@ Marcos Marcionilo publicada pela Prestígio em 2006, que continua registrada.
 ## Nenhum veredito
 
 O §F não foi percorrido. `verdict: unassessed` é o estado correto.
+
+## Avaliação
+
+**Recomendada** (2026-10-19). Escolhida pelo Mathews (cartão d-dec-ehrman).
+

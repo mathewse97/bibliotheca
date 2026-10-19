@@ -30,7 +30,7 @@ contains:
   - work: joao-paulo-ii--varcare-la-soglia-della-speranza
     why: "A edição brasileira do livro, de 1994, pela Francisco Alves; hoje só se acha usada. O tradutor não está identificado, e ela ainda não foi comparada com outras edições."
     verdict: unassessed
-    reason: null
+    reason: "Pendente (2026-10-19): edição não verificada e sem tradutor identificado; falta comparar com o original italiano e confirmar a disponibilidade."
     translator: []              # não confirmado
     translated_from: null
     source_text: "italiano"
@@ -83,7 +83,7 @@ provenance:
     confidence: reported
     note: "Foto da capa da edição Francisco Alves: título, 'por Sua Santidade João Paulo II' e o selo da Francisco Alves. O anúncio de onde veio usa o ISBN-10 8526503146, que a provenance deste registro mostra ser de outro livro (Senel Paz) — o cadastro da Amazon está trocado, mas a imagem é desta edição. Sem link de compra: nenhum anúncio com o ISBN certo tem imagem nem oferta conferida."
 
-updated: 2026-10-09
+updated: 2026-10-19
 ---
 
 ## Por que esta publicação existe

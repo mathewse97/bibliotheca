@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: corpus-hermeticum
     why: "A primeira tradução em português feita direto do grego, e não de outra tradução, por David Pessoa de Lira, especialista no assunto. Traz um glossário grego–português que explica os termos-chave. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: tradução de David Pessoa de Lira, pesquisador acadêmico, direto do grego, à venda nova. Ressalva: o bilinguismo anunciado ainda não foi conferido."
     translator: [pessoa-de-lira]
     translated_from: direct
     source_text: "grego"
@@ -69,15 +69,12 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Tradução acadêmica, direto do grego.
+
 O BILINGUISMO NÃO ESTÁ VERIFICADO como o §E.2 passo 5 exige, e o título traz 'græcum' — a armadilha que o §E.1b nomeia. `bilingual` fica false até reverificação em tier 1–3.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

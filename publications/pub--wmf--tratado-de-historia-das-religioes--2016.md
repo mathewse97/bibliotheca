@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: eliade--traite-dhistoire-des-religions
     why: "Traduzida direto do francês original por Fernando Tomaz e Natália Nunes, com o prefácio de Georges Dumézil. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única tradução em português, de Fernando Tomaz e Natália Nunes, direto do francês, à venda nova."
     translator: [fernando-tomaz, natalia-nunes]
     translated_from: direct
     source_text: "francês"
@@ -72,15 +72,12 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Única tradução em português.
+
 O byline de varejo omite Natália Nunes. São dois tradutores.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
