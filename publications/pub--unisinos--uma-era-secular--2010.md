@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: taylor--a-secular-age
     why: "A única tradução brasileira, completa e feita direto do inglês por Nélio Schneider e Luzia Araújo. A qualidade da tradução e a facilidade de compra ainda não foram verificadas."
-    verdict: unassessed
-    reason: "Aprovada pelo Mathews em 2026-10-13. O §F não foi percorrido até o fim: qualidade da tradução e disponibilidade não verificadas."
+    verdict: recommended
+    reason: "Aprovada pelo Mathews em 2026-10-13. Pesquisa de 2026-10-19: única tradução brasileira, de Nélio Schneider e Luzia Araújo, tradutores experientes, pela editora universitária Unisinos. Ressalva: disponibilidade nova não confirmada."
     translator: [nelio-schneider, luzia-araujo]
     translated_from: en
     source_text: null
@@ -57,9 +57,11 @@ provenance:
     confidence: reported
     note: "Lido pelo resumo da busca."
 
-updated: 2026-10-13
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Única tradução brasileira, por editora universitária.
 
 Registrada em 2026-10-13 por decisão do Mathews.

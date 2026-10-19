@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: eliade-culianu--dictionnaire-des-religions
     why: "A única tradução brasileira, feita direto do francês original por Ivone Castilho Benedetti. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única tradução brasileira, de Ivone Castilho Benedetti, direto do francês, à venda nova. Ressalva registrada: a edição não avisa que a redação é sobretudo de Ioan Culianu."
     translator: [castilho-benedetti]
     translated_from: direct
     source_text: "francês"
@@ -70,15 +70,12 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Única tradução brasileira, de tradutora experiente.
+
 A edição brasileira NÃO avisa o leitor de que a redação dos verbetes é substancialmente de Culianu, nem que H. S. Wiesner colaborou.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

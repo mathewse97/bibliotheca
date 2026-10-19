@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: armstrong--a-history-of-god
     why: "A única tradução brasileira, feita do inglês por Marcos Santarrita, à venda nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única tradução brasileira, de Marcos Santarrita, tradutor experiente, direto do inglês, à venda nova. Com tradutor conhecido, vence o original (§F.2)."
     translator: [santarrita]
     translated_from: direct
     source_text: "inglês"
@@ -70,15 +70,12 @@ provenance:
     source_tier: 3
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Única tradução brasileira, de tradutor experiente.
+
 ANO E PAGINAÇÃO NÃO CONFIRMADOS para esta edição: o registro da Agência não os traz, e a editora hoje cataloga apenas a Companhia de Bolso (ISBN 9788535911589, 2008, 560 p.), que é outra edição.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

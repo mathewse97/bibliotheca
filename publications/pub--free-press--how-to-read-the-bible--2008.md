@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: kugel--how-to-read-the-bible
     why: "O original em inglês, em brochura, à venda nova. Não há tradução em português nem em espanhol, e esta é a forma mais fácil de ter o livro completo."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: não há tradução portuguesa; esta é a edição corrente do original inglês."
     translator: []
     translated_from: null
     source_text: null
@@ -69,15 +69,12 @@ provenance:
     source_tier: 2
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Original inglês; não há tradução portuguesa.
+
 Edição na língua original: não há tradução a avaliar.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

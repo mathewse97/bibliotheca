@@ -30,8 +30,8 @@ source_of_record: voce
 contains:
   - work: jefferson--the-life-and-morals-of-jesus-of-nazareth
     why: "Reprodução fotográfica em cores do volume que Jefferson montou recortando e colando trechos, com as colunas em grego, latim, francês e inglês lado a lado. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: a edição do Smithsonian reproduz em fac-símile o volume que Jefferson montou, com estudo introdutório; é a de referência. Original em inglês."
     translator: []
     translated_from: null
     source_text: null
@@ -70,15 +70,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Fac-símile de referência do Smithsonian.
+
 Fac-símile do manuscrito restaurado pelo Smithsonian. Edição de museu e documental, não edição crítica.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

@@ -399,6 +399,10 @@ como matéria-prima do passo 5.
 ### Duas paradas formais
 
 **1. *O sagrado e o profano* — tradução por língua intermediária (entrada 8).**
+**Resolvida em 2026-10-19:** a edição alemã de 1957 foi traduzida de um
+manuscrito francês de Eliade; o francês é a língua de composição, e a
+tradução brasileira, do francês, é direta. Veredito: recommended.
+
 A obra foi publicada primeiro **em alemão** (*Das Heilige und das Profane*,
 Rowohlt, 1957). A ficha catalográfica da edição brasileira declara como título
 original ***Le sacré et le profane***: a tradução de Rogério Fernandes é feita

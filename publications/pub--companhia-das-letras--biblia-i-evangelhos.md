@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: evangelhos-canonicos
     why: "Traduzida direto do grego por Frederico Lourenço, com notas que explicam o texto sem tomar partido religioso. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: tradução de Frederico Lourenço, direto do grego, com introdução e notas, a mais rigorosa dos Evangelhos em português atual. À venda nova."
     translator: [frederico-lourenco]
     translated_from: direct
     source_text: "grego"
@@ -68,15 +68,12 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-19). Tradução de Frederico Lourenço, direto do grego.
+
 ANO NÃO CONFIRMADO. A PublishNews noticia lançamento brasileiro em maio de 2017, mas a página da editora não exibe o ano — o campo fica nulo em vez de suposto. O original português é da Quetzal (Lisboa), 2016, 421 p., ISBN 9789897223232.
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.

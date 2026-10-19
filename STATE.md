@@ -131,7 +131,12 @@ Teatro completo VI da Editora 34.
   Seymour (não se sabe qual obra a edição traduz), *Primeiros Socorros* (só
   identificado em loja), PHTLS (falta confirmar se é a tradução da 10ª
   edição) e *Manual do Arquiteto Descalço* (esgotado, sem tradutor; comparar
-  com o original espanhol). Próximo lote: Religião.
+  com o original espanhol). Lote 15 (2026-10-19): Religião,
+  22 obras recommended; a parada sobre *O Sagrado e o Profano* foi
+  resolvida (Eliade escreveu o livro em francês). Pendentes: *Cruzando o
+  Limiar da Esperança* (tradutor e edição), *A Tábua de Esmeralda*
+  (microeditora sem aparato) e *O Memorial de Deus* (tradutor). Próximo
+  lote: as obras fora das coleções.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

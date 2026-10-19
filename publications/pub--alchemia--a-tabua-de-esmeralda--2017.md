@@ -30,7 +30,7 @@ contains:
   - work: tabula-smaragdina
     why: "Traz o texto latino ao lado da tradução de Fabio R. de Araujo, feita direto do latim, e ainda as versões de Newton e de Roger Bacon, para comparar. Não existe edição universitária impressa em português ou espanhol."
     verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    reason: "Pendente (2026-10-19): edição de microeditora, sem aparato e sem texto-base indicado. Falta comparar com traduções acadêmicas do texto latino."
     translator: [fabio-r-de-araujo]
     translated_from: direct      # do latim, segundo os anúncios; traz o texto latino e as versões de Newton e Roger Bacon
     source_text: null
@@ -70,7 +70,7 @@ provenance:
     source_tier: 6
     retrieved: 2026-09-20
     confidence: reported
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação

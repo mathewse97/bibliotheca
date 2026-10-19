@@ -29,8 +29,8 @@ source_of_record: voce
 contains:
   - work: enuma-elis
     why: "A única tradução em português feita direto do acádio, a língua original, por Jacyntho Lins Brandão, com uma introdução que situa o poema e um comentário extenso sobre o texto. Fácil de comprar nova."
-    verdict: unassessed         # o §F não foi percorrido — ver review/religion.md §6
-    reason: null
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: tradução de Jacyntho Lins Brandão, direto do acádio, na mesma série acadêmica da Autêntica de Ele que o abismo viu. À venda nova."
     translator: [jacyntho-lins-brandao]
     translated_from: direct
     source_text: "acádio"
@@ -68,13 +68,10 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-09-20
+updated: 2026-10-19
 ---
 
 ## Avaliação
 
-Nenhum veredito foi emitido para esta publicação. O §F é um procedimento
-ordenado — portão textual, portão físico, faixas de mérito, e só então
-idioma — e ele não foi percorrido: os candidatos não foram enumerados antes
-de julgar, como o §E.2 passo 4 exige. `verdict: unassessed` é o estado
-correto, não uma omissão.
+**Recomendada** (2026-10-19). Tradução direto do acádio, edição acadêmica.
+

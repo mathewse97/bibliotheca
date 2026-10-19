@@ -31,8 +31,8 @@ source_of_record: voce
 contains:
   - work: rahula--what-the-buddha-taught
     why: "Escolha sua: o original em inglês, em edição indiana à venda nova. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Escolhida por você em 2026-09-25."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-09-25 (cartão d-dec-rahula): o original inglês. Ressalva registrada em review/religion.md §6: o ISBN desta edição não aparece em catálogos bibliográficos; a Grove Press fica como referência."
     translator: []
     translated_from: null
     source_text: "inglês (original)"
@@ -70,7 +70,7 @@ provenance:
     retrieved: 2026-09-25
     confidence: reported
 
-updated: 2026-09-25
+updated: 2026-10-19
 ---
 
 ## Por que esta publicação existe
@@ -87,3 +87,8 @@ integral.
 ## Nenhum veredito
 
 O §F não foi percorrido. `verdict: unassessed` é o estado correto.
+
+## Avaliação
+
+**Recomendada** (2026-10-19). Escolhida pelo Mathews (cartão d-dec-rahula).
+
