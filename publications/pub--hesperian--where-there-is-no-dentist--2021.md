@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: dickson--where-there-is-no-dentist
     why: "Escolhida por você: é a única com a revisão de 2018, que atualiza as orientações sobre obturações de mercúrio, os medicamentos e as técnicas de restauração dos dentes. Em compensação, está em inglês e precisa ser importada."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-dickson): a revisão de 2018 só existe em inglês."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-10 (cartão d-ed-dickson): a revisão de 2018, que só existe em inglês, é mais atual que a tradução portuguesa antiga. Importada."
     translator: null
     translated_from: null
     source_text: null
@@ -77,9 +77,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Escolhida pelo Mathews (cartão d-ed-dickson).
 
 **Escolhida pelo Mathews em 2026-10-10 (cartão d-ed-dickson).**

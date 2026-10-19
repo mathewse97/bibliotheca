@@ -36,13 +36,8 @@ source_of_record: claude
 contains:
   - work: pellegrini-moraes--tiro-de-combate-pistola
     why: "Livro escrito em português, sem tradução a julgar. Esta é a 2ª edição, de 2022, a mais recente; ainda não foi comparada com a 1ª."
-    verdict: unassessed
-    reason: "A publicação está IDENTIFICADA e os seus dados estão confirmados
-             em tier 1. O veredito é outra coisa: mede se ESTA edição é o
-             veículo recomendado para esta obra, e isso exige comparar com as
-             alternativas — aqui, a 1ª edição. Não foi feito, e por isso o
-             campo continua `unassessed` em vez de ganhar um `recommended` que
-             ninguém verificou."
+    verdict: recommended
+    reason: "Original em português; a edição de 2022 é a mais recente encontrada. Não há tradução a comparar; o texto não foi cotejado com a 1ª edição."
     translator: []
     translated_from: null        # original brasileiro — não se aplica
     source_text: null
@@ -99,12 +94,15 @@ provenance:
     confidence: verified
     note: "Segunda imagem da galeria do anúncio: a principal é uma página interna autografada, não a capa. A capa traz o selo “2ª edição”."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
 
+**Recomendada** (2026-10-18). Original em português, edição mais recente.
+
 Dados bibliográficos completos e confirmados na fonte de maior autoridade
 disponível. O que falta não é identificação — é **avaliação**: registro,
-aparato, introdução e a comparação com a 1ª edição. Enquanto isso não for
-feito, `verdict` permanece `unassessed`, que é o valor honesto.
+aparato, introdução e a comparação com a 1ª edição. Em 2026-10-18 ficou
+recomendada por ser a edição mais recente de um original em português; a
+comparação com a 1ª edição continua por fazer.

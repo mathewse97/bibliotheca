@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: lontro-monteiro--mini-manual-de-tecnica-escutista
     why: "Livro escrito em português de Portugal, sem tradução a avaliar; esta é a edição de 2016 da Colecção Hipopótamo. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Não avaliada."
+    verdict: recommended
+    reason: "Original em português (Portugal); esta é a edição de 2016, a corrente. Não há tradução a comparar. Compra em Portugal."
     translator: []
     translated_from: null        # original português
     source_text: null
@@ -53,10 +53,12 @@ provenance:
     retrieved: 2026-09-06
     confidence: verified
 
-updated: 2026-09-06
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português; compra em Portugal.
 
 Publicação PORTUGUESA, não brasileira. Relevante para o §F e para aquisição:
 obter em Portugal é diferente de obter no Brasil.

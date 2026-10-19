@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: lorenzi-matos--plantas-medicinais-no-brasil
     why: "Livro escrito em português, sem tradução a avaliar. Esta é a edição mais recente, de 2021, pelo Instituto Plantarum, à venda nova; foi preferida aos livros de Balbach por ser uma obra de referência técnica e científica."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10 (curadoria das fotos; inclusão aprovada pelo Mathews): a referência técnico-científica no lugar dos livros de Balbach. Edição mais recente."
+    verdict: recommended
+    reason: "Original em português; a edição de 2021 é a mais recente. Escolha de 2026-10-10, aprovada pelo Mathews."
     translator: null
     translated_from: null
     source_text: null
@@ -77,9 +77,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português, edição mais recente.
 
 **Escolhida em 2026-10-10.** Não é exemplar do Mathews.

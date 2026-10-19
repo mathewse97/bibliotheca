@@ -126,7 +126,12 @@ Teatro completo VI da Editora 34.
   original quando não se sabe se ela é boa: Adler (*A Proposta Paideia* e
   *Como Ler Livros*, Kírion), Rothbard (*A Ética da Liberdade*), Hoppe,
   Scruton e Mark S. Smith. Falta, em cada uma, o nome do tradutor ou a
-  comparação com o original em inglês. Próximo lote: Sobrevivência.
+  comparação com o original em inglês. Lote 14 (2026-10-18):
+  Sobrevivência, 12 recommended; quatro pendentes, com a razão registrada:
+  Seymour (não se sabe qual obra a edição traduz), *Primeiros Socorros* (só
+  identificado em loja), PHTLS (falta confirmar se é a tradução da 10ª
+  edição) e *Manual do Arquiteto Descalço* (esgotado, sem tradutor; comparar
+  com o original espanhol). Próximo lote: Religião.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

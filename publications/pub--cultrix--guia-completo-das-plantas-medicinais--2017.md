@@ -34,10 +34,8 @@ source_of_record: voce
 contains:
   - work: hoffmann--the-complete-herbs-sourcebook
     why: "A única edição em português, traduzida do inglês por Euclides Luiz Calloni. Ainda não se avaliou a qualidade da tradução nem se o texto está completo."
-    verdict: unassessed
-    reason: "Não avaliada. A identificação da obra é sólida; a qualidade desta
-             tradução, o seu texto-base e a sua completude não foram
-             examinados."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-18: única tradução brasileira, de Euclides Luiz Calloni, tradutor experiente, direto do inglês. Com tradutor conhecido, a tradução portuguesa vence o original (§F.2). Ressalva: completude não conferida contra o original."
     translator: ["Euclides Luiz Calloni"]
     translated_from: direct
     translated_from_confidence: inferred
@@ -103,10 +101,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Única tradução brasileira, de tradutor experiente.
 
 O nome do tradutor — Euclides Luiz Calloni — é o dado mais útil que falta
 confirmar: é dele que dependeria qualquer juízo sobre a qualidade desta

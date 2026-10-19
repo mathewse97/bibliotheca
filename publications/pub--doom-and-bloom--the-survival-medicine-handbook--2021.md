@@ -31,8 +31,8 @@ source_of_record: voce
 contains:
   - work: alton--the-survival-medicine-handbook
     why: "A 4ª edição, de 2021, a mais recente, revista e ampliada pelos autores, um médico e uma enfermeira; as anteriores ficaram desatualizadas. Está em inglês, sem tradução, e precisa ser importada; segundo o anúncio, a impressão é em preto e branco."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina, opção A): a 4ª edição, a mais recente, como manual principal de medicina sem médico em Sobrevivência."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-10 (cartão d-sob-medicina): a 4ª edição, a mais recente, no original inglês; não há tradução. Importada."
     translator: null
     translated_from: null
     source_text: null
@@ -72,9 +72,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Escolhida pelo Mathews (cartão d-sob-medicina).
 
 **Escolhida pelo Mathews em 2026-10-10 (cartão d-sob-medicina).**

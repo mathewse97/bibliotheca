@@ -32,8 +32,7 @@ contains:
   - work: silva-conforto--primeiros-socorros
     why: "Livro escrito em português, sem tradução a avaliar. Edição da DI Livros; ano e demais dados ainda não foram confirmados, e ela não foi comparada com outras edições."
     verdict: unassessed
-    reason: "Identificação em tier 6 apenas. Falta confirmação em fonte
-             bibliográfica (tier 1-5) antes de qualquer veredito de edição."
+    reason: "Pendente (2026-10-18): a edição só foi identificada em anúncio de loja; falta confirmar editora, ano e edição em fonte bibliográfica."
     translator: []
     translated_from: null
     source_text: null
@@ -82,7 +81,7 @@ provenance:
     confidence: verified
     note: "DIVERGÊNCIA: o selo impresso na capa é o da MARTINARI, e o anúncio também dá Editora Martinari; o registro diz Di Livros. O ISBN confere. Não corrigido: decisão do Mathews."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação

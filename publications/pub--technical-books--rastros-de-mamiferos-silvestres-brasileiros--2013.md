@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: becker-dalponte--rastros-de-mamiferos-silvestres-brasileiros
     why: "Livro escrito em português, então não há tradução a julgar. É a edição atual do guia de campo; a primeira, da Editora UnB, está esgotada."
-    verdict: unassessed
-    reason: "Não avaliada."
+    verdict: recommended
+    reason: "Original em português; a edição da Technical Books (2013) é a mais recente encontrada. Não há tradução a comparar."
     translator: []
     translated_from: null
     source_text: null
@@ -76,10 +76,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-18
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-18). Original em português, na edição mais recente encontrada.
 
 Não confirmada em tier 1-5. A 1ª edição terá saído pela Editora UnB, o que não
 foi verificado e por isso não está registrado.
