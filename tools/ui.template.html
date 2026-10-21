@@ -1043,6 +1043,14 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .rail{display:none}
 @media(min-width:1440px){
   body[data-route=""] main, body[data-route="colecoes"] main{max-width:none}
+  body[data-route="catalogo"] main, body[data-route="publicacoes"] main{max-width:1580px}
+  body[data-route="revisao"] main{max-width:1640px}
+  .withrail .filters.top{display:none}
+  .ddeck{display:grid;grid-template-columns:minmax(300px,380px) minmax(0,1fr);gap:32px;align-items:start}
+  .dlist{display:flex!important;flex-direction:column;gap:6px;position:sticky;top:20px;max-height:calc(100vh - 40px);
+    overflow-y:auto;padding:2px 4px 24px 0;scrollbar-width:thin}
+  .ddeck .dcard:not(.dsel){display:none}
+  .ddeck .dmain{max-width:1000px}
   body[data-route="obra"] main, body[data-route="colecao"] main{max-width:1580px}
   body[data-route=""] .kpis{grid-template-columns:repeat(3,minmax(0,1fr))}
   .withrail{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,390px);gap:44px;align-items:start}
@@ -1051,7 +1059,6 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
   .rail{display:flex;flex-direction:column;gap:14px;position:sticky;top:20px;
     max-height:calc(100vh - 40px);overflow-y:auto;padding:18px 2px 24px;scrollbar-width:thin}
 }
-@media(min-width:1760px){ body[data-route=""] .kpis{grid-template-columns:repeat(6,minmax(0,1fr))} }
 .rcard{border:1px solid var(--rule);border-radius:14px;background:var(--surface);padding:14px 16px}
 .rcard h4{font-family:var(--sans);font-size:11px;letter-spacing:.09em;text-transform:uppercase;
   color:var(--ink-soft);font-weight:600;margin:0 0 10px}
@@ -1079,6 +1086,27 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .rnext{display:grid;grid-template-columns:52px 1fr;gap:10px;align-items:start}
 .rnext .cover{width:52px;height:auto;border-radius:4px}
 .rnext .nothumb{width:52px;height:76px}
+.rnext + .rnext{margin-top:12px}
+.filters.wideonly{display:none}
+/* a Visão geral só ganha a coluna "Continuar" com folga; entre 1440 e 1700
+   ela apertaria os indicadores */
+@media(min-width:1440px) and (max-width:1699px){ .withrail.late{display:block} .withrail.late>.rail{display:none} }
+@media(min-width:1440px){ .withrail .filters.wideonly{display:flex} }
+.rfacet{display:flex;flex-direction:column;gap:1px}
+.rfacet button{all:unset;cursor:pointer;display:grid;grid-template-columns:1fr auto;gap:8px;padding:5px 8px;
+  border-radius:7px;font-size:13px;color:var(--ink)}
+.rfacet button:hover{background:var(--accent-soft)}
+.rfacet button.on{background:var(--accent-soft);color:var(--accent-ink);font-weight:600}
+.rfacet button .c{color:var(--ink-soft);font-size:11.5px}
+.rfacet button.zero{opacity:.45}
+.rclear{all:unset;cursor:pointer;font-size:12.5px;color:var(--accent-ink)}
+.dlist{display:none}
+.dli{all:unset;cursor:pointer;display:block;border:1px solid var(--rule);border-radius:12px;padding:10px 12px;
+  background:var(--surface);font-size:13px;line-height:1.4}
+.dli:hover{border-color:var(--accent)}
+.dli.on{border-color:var(--accent);background:var(--accent-soft)}
+.dli .dlk{display:block;font-size:11px;color:var(--ink-soft);letter-spacing:.04em;margin-bottom:3px}
+.dli.dhide{display:none}
 
 </style>
 
@@ -1284,6 +1312,7 @@ function vHome(){
   const initials = t => (t||'').replace(/^(A|O|As|Os)\s+/,'').split(/\s+/).filter(x=>x.length>2)[0]?.[0] || (t||'?')[0];
   return `<div class="ph"><div class="eyebrow">Acervo</div><h1>Bibliotheca</h1>
   </div>
+  <div class="withrail late"><div class="maincol">
   <div class="homegrid">
     <div class="kpis">
       ${kpi('#/catalogo',c.works,'Obras',`${c.works_with_publication} com edição`,true)}
@@ -1304,7 +1333,31 @@ function vHome(){
     </div>
   </div>
   <h2>Coleções</h2>
-  <div class="cgrid">${colls.map(collCard).join('')}</div>`;
+  <div class="cgrid">${colls.map(collCard).join('')}</div>
+  </div>${railHome()}</div>`;
+}
+/* coluna "Continuar": o que está lendo, o que vem depois em cada coleção e
+   as decisões que esperam você — 2026-10-21 */
+function railHome(){
+  const rs=id=>readState('work',id,'reading_status');
+  const mini=(w,sub)=>{const m=(w.memberships||[])[0];
+    return `<div class="rnext">${thumbWork(w,m)}<div><div style="font-weight:600">${wLink(w.id)}</div>
+      <div class="small muted">${E(wAuthors(w.id))}</div>${sub?`<div class="small muted">${sub}</div>`:''}</div></div>`;};
+  const out=[];
+  const lendo=Object.values(D.works).filter(w=>['lendo','relendo'].includes(rs(w.id)));
+  out.push(`<div class="rcard"><h4>Lendo agora</h4>${lendo.length?lendo.slice(0,4).map(w=>mini(w,'')).join('')
+    :'<p class="small muted" style="margin:0">Nada marcado como "lendo". Marque na página da obra.</p>'}</div>`);
+  const alta=Object.values(D.works).filter(w=>readState('work',w.id,'priority_personal')==='alta' && !READ_DONE(rs(w.id)) && !['lendo','relendo'].includes(rs(w.id)));
+  const prox=Object.values(D.collections).map(k=>{const s=seqWorks(k).find(s=>W(s.work)&&!READ_DONE(rs(s.work))&&!['lendo','relendo'].includes(rs(s.work)));
+    return s?{w:W(s.work),sub:`${E(k.title_pt||k.id)} · nº ${E(s.n)}`}:null;}).filter(Boolean);
+  out.push(`<div class="rcard"><h4>Próximas leituras</h4>
+    ${alta.slice(0,3).map(w=>mini(w,'Prioridade alta')).join('')}
+    ${prox.map(x=>mini(x.w,x.sub)).join('')}</div>`);
+  const dec=(D.decisions||[]).filter(d=>d.state==='decidir');
+  if(dec.length) out.push(`<div class="rcard"><h4>Esperando você</h4><div class="rnav">
+    ${dec.slice(0,5).map(d=>`<a class="rl" href="#/revisao" onclick="DEC.st='decidir';DEC.sel=${E(JSQ(d.id))}"><span class="k">•</span><span>${mdi(d.question)}</span><span></span></a>`).join('')}
+    ${dec.length>5?`<a class="rl" href="#/revisao"><span class="k"></span><span class="muted">e mais ${dec.length-5}</span><span></span></a>`:''}</div></div>`);
+  return `<aside class="rail" aria-label="Continuar">${out.join('')}</aside>`;
 }
 
 /* Pontos de entrada. Uma lista alfabética de 146 títulos é uma lista
@@ -1337,28 +1390,62 @@ function grouped(list, mode){
     g[k].map(w=>rowWork(w)).join('')).join('')+'</div>';
 }
 
+/* filtros do catálogo: cada um é um predicado; o painel conta cada opção
+   com os OUTROS filtros aplicados, para o número dizer o que o clique dá */
+const ownOf = w => { const vs=(w.publications||[]).map(x=>readState('publication',x.publication,'ownership'));
+  return vs.includes('tenho')?'tenho':(vs.includes('quero-comprar')||vs.includes('encomendado'))?'quero':'nao'; };
+const CATF = {
+  coll: (w,v)=> v==='__none' ? !w.memberships.length : w.memberships.some(m=>m.collection===v),
+  rd:   (w,v)=> (readState('work',w.id,'reading_status')||'nao-lido')===v,
+  ed:   (w,v)=> v==='sem' ? !(w.publications||[]).length : !!(w.publications||[]).length,
+  lg:   (w,v)=> (w.original_language||'')===v,
+  own:  (w,v)=> ownOf(w)===v};
+function catFilter(list, f, except){
+  return list.filter(w=>Object.keys(CATF).every(k=>k===except || !f[k] || CATF[k](w,f[k])));
+}
+function catRail(all, f){
+  const facet=(key,title,opts)=>{
+    const base=catFilter(all,f,key);
+    const rows=opts.map(([v,l])=>{const n=v===''?base.length:base.filter(w=>CATF[key](w,v)).length;
+      return `<button type="button" class="${(f[key]||'')===v?'on':''}${n?'':' zero'}" onclick="setSub('cat','${key}',${JSQ(v)})"><span>${E(l)}</span><span class="c">${n}</span></button>`;});
+    return `<div class="rcard"><h4>${title}</h4><div class="rfacet">${rows.join('')}</div></div>`;};
+  const langs=[...new Set(all.map(w=>w.original_language).filter(Boolean))]
+    .map(v=>[v,langPt(v)]).sort((a,b)=>a[1].localeCompare(b[1],'pt'));
+  const any=Object.keys(CATF).some(k=>f[k]);
+  return `<aside class="rail" aria-label="Filtros do catálogo">
+    ${any?`<div><button type="button" class="rclear" onclick="state.cat={g:state.cat.g};render()">Limpar filtros</button></div>`:''}
+    ${facet('coll','Coleção',[['','Todas'],...Object.values(D.collections).map(c=>[c.id,c.title_pt||c.id]),['__none','Sem coleção']])}
+    ${facet('rd','Sua leitura',[['','Qualquer'],...['nao-lido','lendo','lido','relendo','abandonado'].map(k=>[k,VAL_PT[k]])])}
+    ${facet('own','Posse',[['','Qualquer'],['tenho','Tenho'],['quero','Quero comprar ou encomendado'],['nao','Não tenho']])}
+    ${facet('ed','Edição',[['','Com ou sem'],['com','Com edição'],['sem','Sem edição']])}
+    ${facet('lg','Língua original',[['','Todas'],...langs])}
+  </aside>`;
+}
 function vCatalogo(){
   const f = state.cat||{};
   const all = Object.values(D.works);
   const colls = Object.values(D.collections);
-  let list = all.slice();
-  if(f.coll==='__none') list = list.filter(w=>!w.memberships.length);
-  else if(f.coll) list = list.filter(w=>w.memberships.some(m=>m.collection===f.coll));
-  if(f.rd) list = list.filter(w=>(readState('work',w.id,'reading_status')||'nao-lido')===f.rd);
-  if(f.ed==='sem') list = list.filter(w=>!(w.publications||[]).length);
-  if(f.ed==='com') list = list.filter(w=>(w.publications||[]).length);
+  let list = catFilter(all, f);
   list.sort((a,b)=> (a.title_pt||'').localeCompare(b.title_pt||'','pt'));
   const opt=(v,l,cur)=>`<option value="${E(v)}"${cur===v?' selected':''}>${E(l)}</option>`;
   return `<h1>Catálogo</h1>
   <p class="muted small">Todas as obras da biblioteca, de todas as coleções.</p>
-  <div class="filters">
+  <div class="withrail"><div class="maincol">
+  <div class="filters top">
     <select id="fc">${opt('','Todas as coleções',f.coll)}${opt('__none','Sem coleção',f.coll)}${colls.map(c=>opt(c.id,c.title_pt,f.coll)).join('')}</select>
     <select id="fd">${opt('','Qualquer leitura',f.rd)}${['nao-lido','lendo','lido','relendo','abandonado'].map(k=>opt(k,VAL_PT[k],f.rd)).join('')}</select>
     <select id="fe">${opt('','Com ou sem edição',f.ed)}${opt('com','Com edição',f.ed)}${opt('sem','Sem edição',f.ed)}</select>
+    <select onchange="setSub('cat','own',this.value)">${opt('','Qualquer posse',f.own)}${opt('tenho','Tenho',f.own)}${opt('quero','Quero comprar ou encomendado',f.own)}${opt('nao','Não tenho',f.own)}</select>
+    <select onchange="setSub('cat','lg',this.value)">${opt('','Qualquer língua original',f.lg)}${[...new Set(all.map(w=>w.original_language).filter(Boolean))].map(v=>[v,langPt(v)]).sort((a,b)=>a[1].localeCompare(b[1],'pt')).map(([v,l])=>opt(v,l,f.lg)).join('')}</select>
     <select id="fg">${opt('','Sem agrupar (A–Z)',f.g)}${opt('autor','Agrupar por autor',f.g)}${opt('colecao','Agrupar por coleção',f.g)}${opt('editora','Agrupar por editora',f.g)}${opt('tradutor','Agrupar por tradutor',f.g)}</select>
     <span class="small muted">${list.length} de ${all.length}</span>
   </div>
-  ${list.length? grouped(list, f.g) : '<div class="rows"><div class="row"><div class="unk">Nada corresponde a estes filtros.</div></div></div>'}`;
+  <div class="filters wideonly">
+    <select onchange="setSub('cat','g',this.value)">${opt('','Sem agrupar (A–Z)',f.g)}${opt('autor','Agrupar por autor',f.g)}${opt('colecao','Agrupar por coleção',f.g)}${opt('editora','Agrupar por editora',f.g)}${opt('tradutor','Agrupar por tradutor',f.g)}</select>
+    <span class="small muted">${list.length} de ${all.length}</span>
+  </div>
+  ${list.length? grouped(list, f.g) : '<div class="rows"><div class="row"><div class="unk">Nada corresponde a estes filtros.</div></div></div>'}
+  </div>${catRail(all, f)}</div>`;
 }
 /* Uma obra pode estar repartida por vários volumes de uma MESMA série
    (Oresteia, Hellenica) — isso é um fato sobre a obra. Ter várias edições
@@ -2134,7 +2221,7 @@ const DK = {obra:['＋','Adicionar obra'], edicao:['▤','Escolher edição'], p
             regra:['§','Mudar uma regra']};
 const DPRI = {alta:['Alta','hi',0], media:['Média','md',1], baixa:['Baixa','',2]};
 const DSHORT = {'greco-roman':'Greco-Romana','political-thought':'Política','survival-self-sufficiency':'Sobrevivência'};
-const DEC = {st:'decidir', k:'', c:'', pick:{}};
+const DEC = {st:'decidir', k:'', c:'', pick:{}, sel:''};
 const mdi = s => E(s||'').replace(/\*([^*]+)\*/g,'<i>$1</i>');
 function decColls(cs){
   cs = cs||[]; if(!cs.length) return 'Sem coleção';
@@ -2212,7 +2299,7 @@ function decCard(d){
   const top=`<div class="dtop"><span class="dkind"><span class="dki">${kd[0]}</span>${kd[1]}<span class="dsep">·</span><span class="dcoll">${E(decColls(d.collections))}</span></span>${pr?`<span class="dprio ${pr[1]}">${pr[0]}</span>`:''}</div>`;
   if(d.state==='decidida'){
     const dc=d.decided||{};
-    return `<article class="dcard dsmall" data-st="decidida" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}">
+    return `<article class="dcard dsmall" id="dc-${E(d.id)}" data-st="decidida" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}">
       <div class="dhead">${top}<h2 class="dq">${mdi(d.question)}</h2>
       <p class="dwhy"><b>Escolha:</b> ${mdi(dc.choice)}</p>
       <p class="dhint">Decidido em ${E(dc.date||'')}. Para desfazer, peça na conversa.</p></div>
@@ -2260,14 +2347,21 @@ function decSend(id){
   try{ navigator.clipboard.writeText(txt).then(ok,()=>prompt('Copie a resposta:',txt)); }catch(e){ prompt('Copie a resposta:',txt); }
 }
 function decApply(){
-  let n=0;
-  document.querySelectorAll('.dcard').forEach(el=>{const ok=el.dataset.st===DEC.st&&(!DEC.k||el.dataset.k===DEC.k)&&(!DEC.c||el.dataset.c.split(' ').includes(DEC.c));
-    el.classList.toggle('dhide',!ok); if(ok) n++;});
+  let n=0; const vis=[];
+  const okOf=el=>el.dataset.st===DEC.st&&(!DEC.k||el.dataset.k===DEC.k)&&(!DEC.c||el.dataset.c.split(' ').includes(DEC.c));
+  document.querySelectorAll('.dcard').forEach(el=>{const ok=okOf(el);
+    el.classList.toggle('dhide',!ok); if(ok){ n++; vis.push(el.id.slice(3)); }});
+  /* telas largas: a lista ao lado mostra os mesmos cartões; o selecionado
+     aparece inteiro à direita */
+  if(!vis.includes(DEC.sel)) DEC.sel = vis[0]||'';
+  document.querySelectorAll('.dli').forEach(el=>{el.classList.toggle('dhide',!okOf(el)); el.classList.toggle('on',el.dataset.id===DEC.sel);});
+  document.querySelectorAll('.dcard').forEach(el=>el.classList.toggle('dsel',el.id==='dc-'+DEC.sel));
   const e=document.getElementById('dempty'); if(e) e.style.display=n?'none':'block';
   document.querySelectorAll('.dtab').forEach(b=>b.classList.toggle('on',b.dataset.st===DEC.st));
   document.querySelectorAll('.dchip[data-k]').forEach(b=>b.classList.toggle('on',b.dataset.k===DEC.k));
 }
 function decTab(st){DEC.st=st;decApply();}
+function decSel(id){DEC.sel=id;decApply(); const m=document.querySelector('.dmain'); if(m && m.getBoundingClientRect().top<0) m.scrollIntoView({block:'start'});}
 function decKind(k){DEC.k=k;decApply();}
 function decColl(c){DEC.c=c;decApply();}
 function vRevisao(){
@@ -2291,8 +2385,11 @@ function vRevisao(){
     <select class="dchip" onchange="decColl(this.value);this.classList.toggle('on',!!this.value)"><option value="">Todas as coleções</option>
       ${colls.map(c=>`<option value="${E(c)}"${DEC.c===c?' selected':''}>${E((C(c)||{}).title_pt||c)}</option>`).join('')}</select>
   </div>
-  ${ds.map(decCard).join('')}
-  <div class="dempty" id="dempty" style="display:none">Nada aqui com estes filtros.</div>
+  <div class="ddeck"><nav class="dlist" aria-label="Lista de decisões">${ds.map(d=>{const kd=DK[d.kind]||['•',d.kind];
+    return `<button type="button" class="dli" data-id="${E(d.id)}" data-st="${E(d.state)}" data-k="${E(d.kind)}" data-c="${E((d.collections||[]).join(' '))}" onclick="decSel(${JSQ(d.id)})">
+      <span class="dlk">${E(kd[1])} · ${E(decColls(d.collections))}</span>${mdi(d.question)}</button>`;}).join('')}</nav>
+  <div class="dmain">${ds.map(decCard).join('')}
+  <div class="dempty" id="dempty" style="display:none">Nada aqui com estes filtros.</div></div></div>
   ${(D.issues||[]).length?`<div class="panel"><p class="small" style="margin:0">${D.issues.length} referência(s) quebrada(s) nos arquivos. Peça ao Claude para resolver.</p></div>`:''}
   <h2>Histórico de cada coleção</h2>
   <p class="small muted" style="margin:-4px 0 10px">O registro completo do trabalho feito em cada coleção.</p>
@@ -2421,7 +2518,7 @@ function vBusca(q){
 }
 
 /* ---------- router ----------------------------------------------------- */
-const state = {cat:{}, coll:{}};
+const state = {cat:{}, coll:{}, pub:{}};
 /* ---- movimentos e volumes recolhíveis --------------------------------
    Padrão: movimento ABERTO (guarda-se o que está fechado), volume FECHADO
    (guarda-se o que está aberto). O estado vive aqui, não no DOM, porque
@@ -2574,13 +2671,43 @@ function nav(){
   }).join('');
   tabbar();
 }
+const PUBF = {
+  lang: (p,v)=> (p.language||'').split('-')[0]===v,
+  own:  (p,v)=> (readState('publication',p.id,'ownership')||'nenhum')===v,
+  pub:  (p,v)=> (p.publisher||'')===v,
+  buy:  (p,v)=> v==='sim' ? (p.acquisition||[]).some(x=>x.actionable&&x.url) : !(p.acquisition||[]).some(x=>x.actionable&&x.url)};
+function pubFilter(list,f,except){ return list.filter(p=>Object.keys(PUBF).every(k=>k===except||!f[k]||PUBF[k](p,f[k]))); }
+function pubRail(all,f){
+  const facet=(key,title,opts)=>{
+    const base=pubFilter(all,f,key);
+    return `<div class="rcard"><h4>${title}</h4><div class="rfacet">${opts.map(([v,l])=>{
+      const n=v===''?base.length:base.filter(p=>PUBF[key](p,v)).length;
+      return `<button type="button" class="${(f[key]||'')===v?'on':''}${n?'':' zero'}" onclick="setSub('pub','${key}',${JSQ(v)})"><span>${E(l)}</span><span class="c">${n}</span></button>`;}).join('')}</div></div>`;};
+  const langs=[...new Set(all.map(p=>(p.language||'').split('-')[0]).filter(Boolean))].map(v=>[v,langPt(v)]).sort((a,b)=>a[1].localeCompare(b[1],'pt'));
+  const pubs=[...new Set(all.map(p=>p.publisher).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt'));
+  const any=Object.keys(PUBF).some(k=>f[k]);
+  return `<aside class="rail" aria-label="Filtros das publicações">
+    ${any?`<div><button type="button" class="rclear" onclick="state.pub={};render()">Limpar filtros</button></div>`:''}
+    ${facet('own','Posse',[['','Qualquer'],...['tenho','quero-comprar','encomendado','dispensei','nenhum'].map(k=>[k,VAL_PT[k]])])}
+    ${facet('lang','Idioma',[['','Todos'],...langs])}
+    ${facet('buy','Compra',[['','Qualquer'],['sim','Com link de compra'],['nao','Sem link de compra']])}
+    <div class="rcard"><h4>Editora</h4><select style="width:100%" onchange="setSub('pub','pub',this.value)">
+      <option value="">Todas</option>${pubs.map(x=>`<option value="${E(x)}"${f.pub===x?' selected':''}>${E(x)}</option>`).join('')}</select></div>
+  </aside>`;
+}
 function vPubs(){
+  const f = state.pub||{};
+  const all = Object.values(D.publications);
+  const list = pubFilter(all, f);
   return `<h1>Publicações</h1>
   <p class="muted small">As edições registradas na biblioteca.</p>
-  <div class="rows">${Object.values(D.publications).map(p=>`<div class="row"><div class="n">${coverImg(p,'sm')||'<span class="nothumb"></span>'}</div>
+  <div class="withrail"><div class="maincol">
+  <p class="small muted">${list.length} de ${all.length}</p>
+  <div class="rows">${list.map(p=>`<div class="row"><div class="n">${coverImg(p,'sm')||'<span class="nothumb"></span>'}</div>
     <div class="t">${lk('publicacao/'+p.id,p.title_as_published||p.id)}
       <div class="au">${[p.publisher,p.year].filter(Boolean).map(E).join(', ')}</div></div>
-    <div class="meta">${buyLink(p)}</div></div>`).join('')}</div>`;
+    <div class="meta">${buyLink(p)}</div></div>`).join('')||'<div class="row"><div class="unk">Nada corresponde a estes filtros.</div></div>'}</div>
+  </div>${pubRail(all, f)}</div>`;
 }
 function render(){
   const h=(location.hash||'#/').replace(/^#\//,'');
