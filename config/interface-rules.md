@@ -362,6 +362,14 @@ No desktop, a coluna à direita ficava vazia. A partir de 1440px de largura:
     com o progresso de cada um; clicar num movimento abre e rola até ele.
 - **O painel só resume o que a página já mostra.** Abaixo de 1440px ele
   some e nada se perde; o celular não muda.
-- Próximos candidatos, ainda não feitos: filtros fixos no catálogo e em
-  publicações, pré-visualização nas decisões, coluna "Continuar" na Visão
-  geral.
+- **Catálogo e Publicações:** os filtros ficam no painel, cada opção com a
+  contagem do que o clique dá, já com os outros filtros aplicados. O
+  catálogo filtra por coleção, leitura, posse, edição e língua original;
+  publicações, por posse, idioma, link de compra e editora. Em tela estreita
+  os mesmos filtros continuam na barra do topo.
+- **Decisões:** a lista de perguntas fica à esquerda e o cartão escolhido,
+  inteiro, à direita; abas e filtros valem para os dois. Em tela estreita os
+  cartões continuam empilhados.
+- **Visão geral:** coluna "Continuar" com o que está lendo, as próximas
+  leituras (prioridade alta e a próxima de cada coleção) e as decisões que
+  esperam por ele. Só a partir de 1700px, para não apertar os indicadores.
