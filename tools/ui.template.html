@@ -1037,6 +1037,49 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
   .dkind{flex-wrap:wrap;row-gap:2px}.dsep{display:none}.dcoll{flex-basis:100%;padding-left:32px;font-size:11.5px}
   .dprio::after{content:""}.dtop{align-items:flex-start}.dcands{grid-template-columns:1fr}}
 
+/* --- telas largas: grades ocupam a tela; obra e coleção ganham painel ---
+   Decisão do Mathews, 2026-10-21. Abaixo de 1440px nada muda: o painel só
+   repete, resumido, o que a página já mostra. */
+.rail{display:none}
+@media(min-width:1440px){
+  body[data-route=""] main, body[data-route="colecoes"] main{max-width:none}
+  body[data-route="obra"] main, body[data-route="colecao"] main{max-width:1580px}
+  body[data-route=""] .kpis{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .withrail{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,390px);gap:44px;align-items:start}
+  .withrail>.maincol{min-width:0}
+  .withrail>.maincol>h2:first-child,.withrail>.maincol>.filters:first-child{margin-top:18px}
+  .rail{display:flex;flex-direction:column;gap:14px;position:sticky;top:20px;
+    max-height:calc(100vh - 40px);overflow-y:auto;padding:18px 2px 24px;scrollbar-width:thin}
+}
+@media(min-width:1760px){ body[data-route=""] .kpis{grid-template-columns:repeat(6,minmax(0,1fr))} }
+.rcard{border:1px solid var(--rule);border-radius:14px;background:var(--surface);padding:14px 16px}
+.rcard h4{font-family:var(--sans);font-size:11px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--ink-soft);font-weight:600;margin:0 0 10px}
+.rcard .small{font-size:12.5px}
+.redition{display:grid;grid-template-columns:76px 1fr;gap:12px;align-items:start}
+.redition .cover{width:76px;height:auto;border-radius:5px}
+.redition .tt{font-family:var(--serif);font-weight:600;line-height:1.25}
+.redition .tt a{color:var(--ink)}
+.rrow{display:grid;grid-template-columns:1fr 170px;gap:8px;align-items:center;margin:6px 0}
+.rrow select{width:100%}
+.rnav{display:flex;flex-direction:column;gap:2px}
+.rnav button,.rnav a.rl{all:unset;cursor:pointer;display:grid;grid-template-columns:auto 1fr auto;gap:8px;
+  align-items:baseline;padding:6px 8px;border-radius:8px;font-size:13px;color:var(--ink)}
+.rnav button:hover,.rnav a.rl:hover{background:var(--accent-soft)}
+.rnav .k{color:var(--ink-soft);font-size:11.5px;min-width:22px}
+.rnav .c{color:var(--ink-soft);font-size:11.5px}
+.rseq{display:grid;gap:8px}
+.rseq .lbl{font-size:11.5px;color:var(--ink-soft)}
+.rseq a{font-weight:600}
+.rmv .bar{display:block;height:3px;border-radius:2px;background:var(--rule);margin-top:4px;grid-column:1/-1}
+.rmv .bar i{display:block;height:100%;border-radius:2px;background:var(--accent)}
+.rstats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center}
+.rstats b{display:block;font-family:var(--serif);font-size:1.5rem;line-height:1.1}
+.rstats span{font-size:11.5px;color:var(--ink-soft)}
+.rnext{display:grid;grid-template-columns:52px 1fr;gap:10px;align-items:start}
+.rnext .cover{width:52px;height:auto;border-radius:4px}
+.rnext .nothumb{width:52px;height:76px}
+
 </style>
 
 <div class="shell">
@@ -1184,6 +1227,10 @@ function personalPanel(kind,id){
 document.addEventListener('change', e=>{
   const t=e.target; if(!t.dataset||!t.dataset.f) return;
   setState(t.dataset.k, t.dataset.i, t.dataset.f, t.value);
+  /* o painel lateral repete alguns controles e resume o progresso: na obra e
+     na coleção, redesenha para os dois lados mostrarem o mesmo valor */
+  const r=document.body.dataset.route;
+  if(r==='obra'||r==='colecao') rerender();
 });
 
 /* ---------- views ------------------------------------------------------ */
@@ -1516,7 +1563,7 @@ function vColecao(id){
       const nome = m ? m[2] : (s.movement||'');
       const c = corpo(fatia, mvIdx);
       const ns = fatia.map(x=>x.n).filter(x=>x!=null);
-      out.push(`<div class="mvcard${fechado?' closed':''}">
+      out.push(`<div class="mvcard${fechado?' closed':''}" id="mv-${mvIdx}">
         <button class="mvhead" onclick="toggleMv('${E(mk)}')" aria-expanded="${!fechado}">
           <span class="mvnum">${E(num)}</span>
           <span class="mvtitle">${E(nome)}</span>
@@ -1534,6 +1581,7 @@ function vColecao(id){
 
   return `<div class="ph"><div class="eyebrow">Coleção</div><h1>${E(k.title_pt)}</h1>
   <p class="sub">${E(k.question||'')}</p></div>
+  <div class="withrail"><div class="maincol">
   <div class="filters" style="margin-top:4px">
     ${paths.length?`<select onchange="setSub('coll','path',this.value)">
       <option value="">Todas as obras</option>
@@ -1544,7 +1592,8 @@ function vColecao(id){
   ${path?`<div class="panel"><h3>Caminho: ${E(path.title_pt||path.id)}</h3>
     ${path.for?`<p class="small" style="margin:0">${E(path.for)}</p>`:''}</div>`:''}
   ${body}
-  ${collExtras(k)}`;
+  ${collExtras(k)}
+  </div>${railColecao(k, inPath)}</div>`;
 }
 
 /* ---------- rótulos em português (tela) — interface-rules.md §6 ---------- */
@@ -1715,10 +1764,11 @@ function vObra(id){
   return `<h1>${E(wTitle(id))}</h1>
   <p class="muted">${(w.authors||[]).map(a=>lk('autor/'+a,(A(a)||{}).name_display||a)).join(', ')||'Autoria a confirmar'}</p>
   ${facts.length?`<dl class="kv">${facts.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`:''}
-  ${sobre.length?`<h2>Sobre a obra</h2><div class="panel prose">${sobre.join('')}</div>`:''}
-  ${ler.length?`<h2>Como ler</h2><div class="panel prose">${ler.join('')}</div>`:''}
+  <div class="withrail"><div class="maincol">
+  ${sobre.length?`<h2 id="s-sobre">Sobre a obra</h2><div class="panel prose">${sobre.join('')}</div>`:''}
+  ${ler.length?`<h2 id="s-ler">Como ler</h2><div class="panel prose">${ler.join('')}</div>`:''}
 
-  ${w.memberships.length?`<h2>Nas coleções</h2><div class="rows">${w.memberships.map(m=>`<div class="row">
+  ${w.memberships.length?`<h2 id="s-colecoes">Nas coleções</h2><div class="rows">${w.memberships.map(m=>`<div class="row">
     <div class="n">${m.n}</div>
     <div class="t">${lk('colecao/'+m.collection, m.collection_title)}
       ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
@@ -1728,7 +1778,7 @@ function vObra(id){
   </div>`).join('')}</div>`
   :(w.pending_assignment?`<div class="panel"><p class="small muted" style="margin:0">Ainda sem coleção.</p></div>`:'')}
 
-  <h2>Edições</h2>
+  <h2 id="s-edicoes">Edições</h2>
   ${pubs.length?`<div class="rows">${pubs.map(p=>{const full=P(p.publication)||{};
     return `<div class="row"><div class="n">${coverImg(full,'sm')||'<span class="nothumb"></span>'}</div>
     <div class="t">${lk('publicacao/'+p.publication, pubTitulo(full)||p.title_as_published||p.publication)}
@@ -1740,11 +1790,109 @@ function vObra(id){
   ${pubs.length?whyBlock(w):''}
   ${altsBlock(w)}
 
-  ${rels.length?`<h2>Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
+  ${rels.length?`<h2 id="s-relacoes">Relações</h2><div class="rows">${rels.map(r=>`<div class="row"><div class="n">↔</div><div class="t">
      <span class="small muted">${E(REL_PT[r.type]||r.type)}</span> ${wLink(r.target)}
      ${r.note?`<div class="small muted">${mdi(r.note)}</div>`:''}</div><div></div></div>`).join('')}</div>`:''}
 
-  ${personalPanel('work', id)}`;
+  <div id="s-leitura">${personalPanel('work', id)}</div>
+  </div>${railObra(w, {sobre:sobre.length, ler:ler.length, rels:rels.length})}</div>`;
+}
+
+
+/* ---------- painel lateral das telas largas — 2026-10-21 -----------------
+   Só aparece a partir de 1440px (CSS). Resume o que a página já tem e põe à
+   mão o que se usa sem rolar: a edição, a leitura, a posição na sequência. */
+function railJump(elId){ const el=document.getElementById(elId); if(el) el.scrollIntoView({behavior:'smooth',block:'start'}); }
+function railField(kind,id,name){
+  const tg=((D.config||{}).targets||{})[kind]; const f=tg&&(tg.fields||[]).find(x=>x.name===name);
+  if(!f||f.type!=='enum') return '';
+  const cur=readState(kind,id,name);
+  const opts=['<option value="">—</option>'].concat((f.values||[]).map(v=>
+    `<option value="${E(v)}"${cur===v?' selected':''}>${E(VAL_PT[v]||v)}</option>`)).join('');
+  return `<label class="rrow"><span class="small muted">${E(f.label_pt||name)}</span>
+    <select data-k="${kind}" data-i="${E(id)}" data-f="${E(name)}">${opts}</select></label>`;
+}
+const seqWorks = k => (k.sequence||[]).filter(s=>s.kind!=='movement' && s.work);
+const READ_DONE = v => v==='lido' || v==='abandonado';
+function railObra(w, has){
+  const out=[];
+  const de=w.display_edition, p=de&&P(de.publication);
+  if(p){
+    const head = de.by_ownership ? 'Seu exemplar' : (de.state==='chosen' ? 'Edição escolhida' : 'Edição em exibição');
+    out.push(`<div class="rcard"><h4>${head}</h4>
+      <div class="redition">${coverImg(p,'sm')||'<span class="nothumb"></span>'}<div>
+        <div class="tt">${lk('publicacao/'+p.id, pubTitulo(p))}</div>
+        <div class="small muted">${[p.publisher,p.year].filter(Boolean).map(E).join(', ')}</div>
+        ${tradutores(p)?`<div class="small muted">Tradução: ${E(tradutores(p))}</div>`:''}
+        ${buyLink(p)?`<div style="margin-top:8px">${buyLink(p)}</div>`:''}</div></div>
+      <div style="margin-top:10px">${railField('publication',p.id,'ownership')}</div></div>`);
+  } else {
+    out.push(`<div class="rcard"><h4>Edição</h4><p class="small muted" style="margin:0">Ainda sem edição escolhida.</p></div>`);
+  }
+  out.push(`<div class="rcard"><h4>Sua leitura</h4>
+    ${railField('work',w.id,'reading_status')}${railField('work',w.id,'priority_personal')}</div>`);
+
+  const seqs=(w.memberships||[]).map(m=>{
+    const k=C(m.collection); if(!k) return '';
+    const list=seqWorks(k), i=list.findIndex(s=>s.work===w.id);
+    const prev=i>0?list[i-1]:null, next=(i>=0&&i<list.length-1)?list[i+1]:null;
+    return `<div><div class="lbl">${lk('colecao/'+k.id, k.title_pt||k.id)} · nº ${E(m.n)} de ${list.length}</div>
+      ${m.movement?`<div class="lbl">${E(m.movement)}</div>`:''}
+      ${(m.requires||[]).length?`<div class="small" style="margin-top:4px">Leia antes: ${m.requires.map(wLink).join(', ')}</div>`:''}
+      ${prev?`<div class="small" style="margin-top:4px"><span class="muted">Anterior:</span> ${wLink(prev.work)}</div>`:''}
+      ${next?`<div class="small"><span class="muted">Próxima:</span> ${wLink(next.work)}</div>`:''}</div>`;
+  }).filter(Boolean);
+  if(seqs.length) out.push(`<div class="rcard"><h4>Na sequência</h4><div class="rseq">${seqs.join('')}</div></div>`);
+
+  const secs=[has.sobre&&['s-sobre','Sobre a obra'], has.ler&&['s-ler','Como ler'],
+    (w.memberships||[]).length&&['s-colecoes','Nas coleções'], ['s-edicoes','Edições'],
+    has.rels&&['s-relacoes','Relações'], ['s-leitura','Sua leitura (detalhes)']].filter(Boolean);
+  out.push(`<div class="rcard"><h4>Nesta página</h4><div class="rnav">${secs.map(([id,l])=>
+    `<button type="button" onclick="railJump('${id}')"><span class="k">↓</span><span>${l}</span><span></span></button>`).join('')}</div></div>`);
+  return `<aside class="rail" aria-label="Resumo da obra">${out.join('')}</aside>`;
+}
+function railMv(mk, i){
+  if(FOLD.mvClosed[mk]){ FOLD.mvClosed[mk]=false; rerender(); }
+  railJump('mv-'+i);
+}
+function railColecao(k, inPath){
+  const list=seqWorks(k);
+  const st=s=>readState('work', s.work, 'reading_status');
+  const lidas=list.filter(s=>st(s)==='lido').length;
+  const lendo=list.filter(s=>st(s)==='lendo'||st(s)==='relendo');
+  const out=[];
+  out.push(`<div class="rcard"><h4>Seu progresso</h4><div class="rstats">
+    <div><b>${list.length}</b><span>obras</span></div>
+    <div><b>${lendo.length}</b><span>lendo</span></div>
+    <div><b>${lidas}</b><span>lidas</span></div></div>
+    <span class="pbar" style="padding:10px 0 0;display:block"><span class="pt"><i style="width:${pct(lidas,list.length)}%"></i></span></span></div>`);
+
+  /* próxima leitura: o que você está lendo; senão, a primeira obra da
+     sequência (ou do caminho escolhido) que ainda não leu */
+  const cand = lendo[0] || list.find(s=>(!inPath||inPath.has(s.work)) && !READ_DONE(st(s)));
+  if(cand && W(cand.work)){
+    const w=W(cand.work), m=(w.memberships||[]).find(mm=>mm.collection===k.id);
+    out.push(`<div class="rcard"><h4>${lendo[0]?'Lendo agora':'Próxima leitura'}</h4>
+      <div class="rnext">${thumbWork(w, m)}<div>
+        <div style="font-weight:600">${wLink(w.id)}</div>
+        <div class="small muted">${E(wAuthors(w.id))}</div>
+        <div class="small muted">nº ${E(cand.n)}${m&&m.movement?' · '+E(m.movement):''}</div></div></div></div>`);
+  } else if(list.length){
+    out.push(`<div class="rcard"><h4>Próxima leitura</h4><p class="small muted" style="margin:0">Você leu todas as obras desta coleção.</p></div>`);
+  }
+
+  const mvs=[]; let cur=null, idx=-1;
+  for(const s of (k.sequence||[])){
+    if(s.kind==='movement'){ idx++; cur={i:idx, label:s.movement||'', n:0, lidas:0}; mvs.push(cur); continue; }
+    if(cur && s.work){ cur.n++; if(st(s)==='lido') cur.lidas++; }
+  }
+  if(mvs.length) out.push(`<div class="rcard"><h4>Movimentos</h4><div class="rnav">${mvs.map(m=>{
+    const mm=/^\s*([IVXLCDM]+)\s*[.—-]\s*(.+)$/.exec(m.label);
+    const mk=k.id+'|mv|'+m.i;
+    return `<button type="button" class="rmv" onclick="railMv('${E(JSQ(mk).slice(1,-1))}',${m.i})">
+      <span class="k">${E(mm?mm[1]:'')}</span><span>${E(mm?mm[2]:m.label)}</span><span class="c">${m.lidas}/${m.n}</span>
+      <span class="bar"><i style="width:${pct(m.lidas,m.n)}%"></i></span></button>`;}).join('')}</div></div>`);
+  return `<aside class="rail" aria-label="Resumo da coleção">${out.join('')}</aside>`;
 }
 
 /* ---------- Publicação --------------------------------------------------- */
@@ -2454,6 +2602,7 @@ function render(){
     else if(r==='busca') out=vBusca(arg);
     else out='<p>Rota desconhecida.</p>';
   }catch(err){out='<h1>Erro ao renderizar</h1><pre class="state">'+E(err&&err.stack||err)+'</pre>';}
+  document.body.dataset.route = r;
   $('#view').innerHTML = ctxBar(r, arg) + out;
   nav(); updateSaveUI();
   window.scrollTo(0, scrollMem[location.hash||'#/'] || 0);
