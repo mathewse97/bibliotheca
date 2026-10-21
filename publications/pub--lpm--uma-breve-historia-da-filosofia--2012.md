@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: warburton--a-little-history-of-philosophy
     why: "A única edição brasileira, completa, traduzida direto do inglês por Rogério Bettoni, em formato de bolso e à venda nova. Foi escolhida como a introdução recomendada, no lugar de outro livro de introdução."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10 (curadoria das fotos, por pedido do Mathews): a introdução recomendada no lugar de Kleinman, Tudo que você precisa saber sobre filosofia. Única edição brasileira encontrada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única edição brasileira, na tradução de Rogério Bettoni, tradutor experiente, direto do inglês. Com tradutor conhecido, vence o original (§F.2)."
     translator: [bettoni]
     translated_from: direct
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Única edição brasileira, de tradutor experiente.
 
 **Escolhida em 2026-10-10.** Não é exemplar do Mathews.

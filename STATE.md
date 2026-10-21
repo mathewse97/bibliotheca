@@ -71,6 +71,24 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
+- **Edições sem veredito depois da primeira passada (2026-10-19): 25 obras.**
+  Recomendadas: 210 publicações; alternativas: 8. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (8): Maquiavel (`d-ed-maquiavel`),
+    Rousseau (`d-ed-rousseau`), Montesquieu (`d-ed-montesquieu-unesp`),
+    Cícero (`d-ed-cicero`), Tomás de Aquino (`d-ed-aquino`), Popper
+    (`d-ed-popper`), Berlin (`d-ed-berlin`); London (ele decide depois de
+    ler).
+  - *Nome do tradutor, para comparar com o original* (9): Weber (as duas
+    conferências, Cultrix), Aron (Vide), Adler (*Paideia* e *Como Ler
+    Livros*, Kírion), Rothbard, Hoppe, Scruton, Mark S. Smith, João Paulo
+    II.
+  - *Identificação ou comparação que falta* (6): Krakauer (registrar a da
+    Companhia das Letras), Seymour (qual obra a edição traduz), *Primeiros
+    Socorros* (só achado em loja), PHTLS (tradução da 9ª ou da 10ª),
+    *Manual do Arquiteto Descalço* (comparar com o original espanhol),
+    *A Tábua de Esmeralda* (comparar com traduções acadêmicas).
+  - *Fora de coleção, sem escolha* (1): Werner (cartão arquivado).
+
 - **Pesquisa de edições em lotes** (`config/research-procedure.md` §2).
   Lote 1 (2026-10-14): Hobbes, Arendt, Dostoiévski, Ibn Khaldun, todos
   recommended. Lote 2 (2026-10-17): Locke (Martins Fontes, edição crítica de
@@ -135,8 +153,11 @@ Teatro completo VI da Editora 34.
   22 obras recommended; a parada sobre *O Sagrado e o Profano* foi
   resolvida (Eliade escreveu o livro em francês). Pendentes: *Cruzando o
   Limiar da Esperança* (tradutor e edição), *A Tábua de Esmeralda*
-  (microeditora sem aparato) e *O Memorial de Deus* (tradutor). Próximo
-  lote: as obras fora das coleções.
+  (microeditora sem aparato) e *O Memorial de Deus* (tradutor). Lote 16 (2026-10-19): obras
+  fora das coleções, 8 recommended; pendentes Krakauer (comparar com a
+  tradução da Companhia das Letras), London (o Mathews decide depois de
+  ler) e Werner (saiu de Sobrevivência; cartão arquivado sem edição
+  escolhida). Fim da primeira passada da pesquisa de edições.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

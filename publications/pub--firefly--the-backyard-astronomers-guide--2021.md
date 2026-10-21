@@ -30,8 +30,8 @@ source_of_record: claude
 contains:
   - work: dickinson-dyer--the-backyard-astronomers-guide
     why: "Escolhida por você no lugar do Manual do astrônomo de Mourão: a 4ª edição (2021), revista, deste guia que ensina como observar o céu e com que equipamento. Está em inglês e precisa ser importada."
-    verdict: unassessed
-    reason: "Escolhida em 2026-10-10 pelo Mathews, no lugar do Manual do astrônomo de Mourão: a edição mais recente."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-10: a edição mais recente do original inglês, no lugar do Manual do astrônomo de Ronaldo Mourão. Não há tradução. Importada."
     translator: null
     translated_from: null
     source_text: null
@@ -71,9 +71,11 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Escolhida pelo Mathews; edição mais recente.
 
 **Escolhida em 2026-10-10.** Não é exemplar do Mathews.

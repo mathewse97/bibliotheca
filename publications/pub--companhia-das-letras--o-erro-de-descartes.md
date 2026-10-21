@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: damasio--descartes-error
     why: "Tradução de Dora Vicente e Georgina Segurado, a única edição que a própria editora vende hoje. Ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Única edição corrente identificada na própria editora."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única edição corrente, na tradução de Dora Vicente e Georgina Segurado, direto do inglês."
     translator: ["Dora Vicente", "Georgina Segurado"]
     translated_from: direct
     source_text: "Descartes' Error: Emotion, Reason, and the Human Brain"
@@ -81,10 +81,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Única edição corrente.
 
 Editora confirmada em fonte tier 1 (página de produto da própria editora).
 Ano de publicação e número de edição não confirmados — a Amazon lista um

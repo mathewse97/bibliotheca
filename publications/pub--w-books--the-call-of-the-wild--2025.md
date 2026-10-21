@@ -31,7 +31,7 @@ contains:
   - work: london--the-call-of-the-wild
     why: "Seu exemplar, no original em inglês, só com o texto, sem introdução nem notas. Uma edição com notas e introdução, como a da Oxford World's Classics, fica para depois que você ler esta."
     verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Reimpressão sem aparato. Recomendação registrada: a Oxford World's Classics (org. Earle Labor, com White Fang e contos); o Mathews vai ler esta e decidir depois."
+    reason: "Pendente (2026-10-19): exemplar do Mathews, reimpressão sem aparato. A Oxford World's Classics (org. Earle Labor) é a recomendação registrada; o Mathews vai ler esta e decidir depois."
     translator: null
     translated_from: null
     source_text: null
@@ -71,7 +71,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação

@@ -32,7 +32,7 @@ contains:
   - work: krakauer--into-the-wild
     why: "Seu exemplar, no original em inglês, da editora americana Villard. A edição brasileira (Companhia das Letras, 2018) traz um posfácio novo do autor que esta impressão não tem."
     verdict: unassessed
-    reason: "Edição do exemplar do Mathews, identificada pela página de créditos; inclusão decidida por ele em 2026-10-10. Original em inglês. A edição brasileira (Na natureza selvagem, Companhia das Letras, 2018) traz um posfácio novo do autor que esta impressão não tem."
+    reason: "Pendente (2026-10-19): exemplar do Mathews, no original inglês. Pelo §F.2, uma boa tradução portuguesa vence o original; a da Companhia das Letras (2018), com posfácio novo do autor, não está registrada nem foi comparada."
     translator: null
     translated_from: null
     source_text: null
@@ -72,7 +72,7 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-10
+updated: 2026-10-19
 ---
 
 ## Avaliação

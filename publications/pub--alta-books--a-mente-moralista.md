@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: haidt--the-righteous-mind
     why: "A única tradução brasileira, feita do inglês por Wendy Campos. Não há outra edição para comparar."
-    verdict: unassessed
-    reason: "Única edição brasileira identificada."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-19: única edição brasileira, na tradução de Wendy Campos, direto do inglês."
     translator: ["Wendy Campos"]
     translated_from: direct
     source_text: "The Righteous Mind: Why Good People Are Divided by
@@ -79,10 +79,12 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
 
-updated: 2026-10-09
+updated: 2026-10-19
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-19). Única edição brasileira.
 
 Editora confirmada em fonte tier 1 (página de produto da própria editora).
 Best-seller de divulgação — `register: trade`, diferente do padrão
