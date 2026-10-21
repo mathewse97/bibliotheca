@@ -30,9 +30,9 @@ source_of_record: voce
 
 contains:
   - work: krakauer--into-the-wild
-    why: "Seu exemplar, no original em inglês, da editora americana Villard. A edição brasileira (Companhia das Letras, 2018) traz um posfácio novo do autor que esta impressão não tem."
-    verdict: unassessed
-    reason: "Pendente (2026-10-21): exemplar do Mathews, no original inglês. A edição da Companhia das Letras (2018, trad. Pedro Maia Soares, com posfácio novo do autor) foi registrada; pelo §F.2, uma boa tradução portuguesa vence o original, e falta comparar as duas."
+    why: "Seu exemplar, no original em inglês, da editora americana Villard."
+    verdict: recommended
+    reason: "Decisão do Mathews (2026-10-21): fica só o exemplar dele, no original inglês. A tradução da Companhia das Letras (2018, trad. Pedro Maia Soares) foi vista e não entra no registro."
     translator: null
     translated_from: null
     source_text: null
@@ -77,4 +77,4 @@ updated: 2026-10-21
 
 ## Avaliação
 
-**Exemplar do Mathews** (29ª impressão).
+**Recomendada** (2026-10-21). Exemplar do Mathews (29ª impressão); decisão dele de ficar só com este.

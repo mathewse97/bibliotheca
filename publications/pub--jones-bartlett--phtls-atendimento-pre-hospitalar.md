@@ -28,7 +28,7 @@ links:
 
 verified_fields: [isbn13, publisher, title_as_published, edition_statement, pages]
 research_status: partially_researched
-missing: [register, translator, "qualidade da tradução",
+missing: [register, translator,
           "ano: Amazon dá 2025, algumas lojas 2026"]
 source_of_record: voce
 
@@ -42,8 +42,8 @@ source_of_record: voce
 contains:
   - work: naemt--phtls-prehospital-trauma-life-support
     why: "O manual de referência em atendimento pré-hospitalar ao trauma, na tradução portuguesa da 10ª edição, a mais recente, publicada pela própria editora do original e distribuída no Brasil pelo Grupo A. À venda nova; o tradutor não é nomeado nas fontes."
-    verdict: unassessed
-    reason: "Pendente (2026-10-21): confirmado que o ISBN é a tradução portuguesa da 10ª edição (2025, 864 p., brochura), a mesma edição do original inglês mais recente, publicada pela própria Jones & Bartlett. O tradutor não é nomeado. Pelo §F.2, falta compará-la com o original, ou decidir que a tradução oficial da editora basta (pergunta ao Mathews)."
+    verdict: recommended
+    reason: "Decisão do Mathews (2026-10-21), pela regra de manuais técnicos do §F.2: tradução portuguesa oficial da 10ª edição (2025, 864 p., brochura), publicada pela própria Jones & Bartlett, editora do original, e da mesma edição do original inglês mais recente. À venda nova no Brasil. O tradutor não é nomeado; para este tipo de livro, a tradução da editora do original basta."
     translator: []
     translated_from: direct
     translated_from_confidence: inferred
@@ -124,7 +124,8 @@ updated: 2026-10-21
 
 ## Avaliação
 
-Identidade e editora confirmadas em tier 1; ano e páginas não. O `edition_statement`
+**Recomendada** (2026-10-21). Tradução oficial da 10ª edição, pela própria editora do original.
+
+Identidade e editora confirmadas em tier 1; ano (2025) e páginas (864) vêm de lojas, em 2026-10-21. O `edition_statement`
 vem do título do anúncio e da correspondência com a 10ª edição inglesa, e é a
-razão de `source_text` estar preenchido com confiança `verified` enquanto `year`
-continua nulo — são coisas diferentes e o registro não as mistura.
+razão de `source_text` estar preenchido com confiança `verified`.

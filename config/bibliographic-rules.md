@@ -421,6 +421,15 @@ faixa (`price_band`), e só como desempate de último recurso.
 - Ela opera, portanto, como **preferência dentro de uma faixa de qualidade
   comparável**, e nunca como regra absoluta capaz de fazer vencer uma edição
   claramente inferior.
+- **Manuais técnicos ou de curso traduzidos pela editora do original.**
+  Decisão do Mathews, 2026-10-21. Num manual técnico ou de curso
+  profissional, cuja autoridade é da instituição que o produz e não do
+  tradutor, a tradução portuguesa publicada pela **própria editora do
+  original**, da **mesma edição** do original, conta como boa tradução sem
+  precisar de comparação com o original nem de tradutor nomeado. A regra é
+  estreita: não vale para livros de ideias, literatura ou ensaio, nem para
+  traduções de outras editoras. Caso que a criou: PHTLS, 10ª edição
+  (Jones & Bartlett).
 - **Não inferir preferência de ordem de lista.** A enumeração do §E.2 passo 4 —
   português, espanhol, italiano, inglês — é **escopo de busca**, e a sua ordem
   não carrega preferência nenhuma. A preferência apropriada determina-se em
