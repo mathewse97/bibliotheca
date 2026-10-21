@@ -35,7 +35,7 @@ contains:
   - work: scruton--culture-counts
     why: "A única tradução brasileira, à venda nova. O tradutor não aparece nas fontes, por isso não há como avaliar a qualidade da tradução."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Procurado de novo em 2026-10-21: a Amazon credita só o autor. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -86,7 +86,7 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro. É isso que autoriza guardar uma capa de vendedor."
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação

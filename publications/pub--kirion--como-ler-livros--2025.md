@@ -35,7 +35,7 @@ contains:
   - work: adler-van-doren--how-to-read-a-book
     why: "Edição nova da Kírion, de 2025, a única à venda nova em português; a anterior, da É Realizações, está esgotada e só se acha usada. Quem fez a tradução ainda precisa ser conferido nos créditos do livro."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Procurado de novo em 2026-10-21: a Amazon credita só os autores; o catálogo da Kírion (jul. 2025) também não. Não se sabe se reaproveita a tradução de Edward H. Wolff e Pedro Sette-Câmara (É Realizações, 2010). Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: null
     source_text: "versão revista de 1972 (Adler e Van Doren), pela capa e pela
@@ -85,7 +85,7 @@ provenance:
     confidence: reported
     note: "As páginas não abriram deste ambiente; o dado veio dos trechos
            devolvidos pela busca."
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação

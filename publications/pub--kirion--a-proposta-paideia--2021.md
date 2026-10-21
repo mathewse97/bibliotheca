@@ -34,7 +34,7 @@ contains:
   - work: adler--the-paideia-proposal
     why: "A única edição brasileira encontrada, à venda nova. O nome do tradutor não aparece nas informações disponíveis sobre o livro."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Procurado de novo em 2026-10-21: a Amazon credita só o autor; a Kírion nomeia só o organizador, Felipe Denardi. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -84,7 +84,7 @@ provenance:
     note: "Exame direto da imagem: o selo impresso confere com a editora do
            registro."
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação

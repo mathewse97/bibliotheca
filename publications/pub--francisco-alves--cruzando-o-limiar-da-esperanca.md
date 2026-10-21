@@ -30,9 +30,9 @@ contains:
   - work: joao-paulo-ii--varcare-la-soglia-della-speranza
     why: "A edição brasileira do livro, de 1994, pela Francisco Alves; hoje só se acha usada. O tradutor não está identificado, e ela ainda não foi comparada com outras edições."
     verdict: unassessed
-    reason: "Pendente (2026-10-19): edição não verificada e sem tradutor identificado; falta comparar com o original italiano e confirmar a disponibilidade."
-    translator: []              # não confirmado
-    translated_from: null
+    reason: "Pendente (2026-10-21): tradução de Antônio Angonese e Ephraim Ferreira Alves (catálogo de biblioteca e anúncio de sebo). Um registro dá como título original o inglês Crossing the Threshold of Hope, o que sugere tradução feita do inglês; se for, o portão 1 do §F.1 a reprova caso exista tradução direta do italiano. Falta a língua de partida, a comparação com o original e a disponibilidade."
+    translator: ["Antônio Angonese", "Ephraim Ferreira Alves"]
+    translated_from: unknown
     source_text: "italiano"
     completeness: null
     apparatus: []
@@ -82,8 +82,13 @@ provenance:
     retrieved: 2026-10-09
     confidence: reported
     note: "Foto da capa da edição Francisco Alves: título, 'por Sua Santidade João Paulo II' e o selo da Francisco Alves. O anúncio de onde veio usa o ISBN-10 8526503146, que a provenance deste registro mostra ser de outro livro (Senel Paz) — o cadastro da Amazon está trocado, mas a imagem é desta edição. Sem link de compra: nenhum anúncio com o ISBN certo tem imagem nem oferta conferida."
+  - claim: "Colaboradores: Antonio Angonese, Ephraim Ferreira Alves (catálogo); anúncio de sebo: \"Traduzido por: Antônio Angonese e Ephraim Ferreira Alves\"."
+    source: "http://opac.bdb.koha.cultura.gov.br/cgi-bin/koha/opac-detail.pl?biblionumber=22138 e anúncio em estantevirtual.com.br, vistos em resultado de busca"
+    source_tier: 5
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-19
+updated: 2026-10-21
 ---
 
 ## Por que esta publicação existe

@@ -71,23 +71,33 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (2026-10-19): 25 obras.**
-  Recomendadas: 210 publicações; alternativas: 8. O que falta em cada uma:
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-21): 24 obras.**
+  Recomendadas: 211 publicações; alternativas: 8. O que falta em cada uma:
   - *Decisão do Mathews em cartão* (8): Maquiavel (`d-ed-maquiavel`),
     Rousseau (`d-ed-rousseau`), Montesquieu (`d-ed-montesquieu-unesp`),
     Cícero (`d-ed-cicero`), Tomás de Aquino (`d-ed-aquino`), Popper
     (`d-ed-popper`), Berlin (`d-ed-berlin`); London (ele decide depois de
     ler).
-  - *Nome do tradutor, para comparar com o original* (9): Weber (as duas
-    conferências, Cultrix), Aron (Vide), Adler (*Paideia* e *Como Ler
-    Livros*, Kírion), Rothbard, Hoppe, Scruton, Mark S. Smith, João Paulo
-    II.
-  - *Identificação ou comparação que falta* (6): Krakauer (registrar a da
-    Companhia das Letras), Seymour (qual obra a edição traduz), *Primeiros
-    Socorros* (só achado em loja), PHTLS (tradução da 9ª ou da 10ª),
-    *Manual do Arquiteto Descalço* (comparar com o original espanhol),
-    *A Tábua de Esmeralda* (comparar com traduções acadêmicas).
+  - *Tradutor conhecido, falta comparar com o original* (5): Rothbard
+    (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
+    Instituto Mises Brasil, cujos PDFs são gratuitos; Aron/Vide (Christian
+    Lesage, uma fonte só); João Paulo II (Antônio Angonese e Ephraim
+    Ferreira Alves, talvez traduzido do inglês); Krakauer (Companhia das
+    Letras 2018, Pedro Maia Soares, registrada; comparar com o exemplar
+    inglês do Mathews).
+  - *Nome do tradutor ainda não achado* (7): Weber (as duas conferências,
+    Cultrix: os tradutores são conhecidos, falta a língua de partida), Adler (*Paideia* e *Como
+    Ler Livros*, Kírion), Scruton, Mark S. Smith; procurados de novo em
+    2026-10-21, sem resultado. PHTLS: confirmada a tradução da 10ª edição
+    (2025, à venda), tradutor não nomeado; pergunta ao Mathews se a
+    tradução oficial da própria editora basta.
+  - *Identificação ou comparação que falta* (3): Seymour (qual obra a
+    edição traduz), *Manual do Arquiteto Descalço* (comparar com o original
+    espanhol), *A Tábua de Esmeralda* (comparar com traduções acadêmicas).
   - *Fora de coleção, sem escolha* (1): Werner (cartão arquivado).
+  - O ambiente não abre sites de editoras, da Travessa nem PDFs do
+    Instituto Mises; as comparações de tradução ficam para quando houver
+    acesso ou para o Mathews, com o livro na mão.
 
 - **Pesquisa de edições em lotes** (`config/research-procedure.md` §2).
   Lote 1 (2026-10-14): Hobbes, Arendt, Dostoiévski, Ibn Khaldun, todos
@@ -157,7 +167,11 @@ Teatro completo VI da Editora 34.
   fora das coleções, 8 recommended; pendentes Krakauer (comparar com a
   tradução da Companhia das Letras), London (o Mathews decide depois de
   ler) e Werner (saiu de Sobrevivência; cartão arquivado sem edição
-  escolhida). Fim da primeira passada da pesquisa de edições.
+  escolhida). Fim da primeira passada da pesquisa de edições. Lote 17 (2026-10-21): pendências.
+  *Primeiros Socorros* recommended (a editora é a Martinari, 2023; a DI
+  Livros é a livraria); tradutores achados para Rothbard, Hoppe, Aron/Vide e
+  João Paulo II; Krakauer da Companhia das Letras registrado; PHTLS
+  confirmado como tradução da 10ª edição.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

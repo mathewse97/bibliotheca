@@ -25,15 +25,15 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio e de fichas reproduzidas)", "editora: a ficha catalográfica dá Instituto Ludwig von Mises Brasil, o registro diz LVM", "qualidade da tradução"]
 source_of_record: claude
 
 contains:
   - work: rothbard--the-ethics-of-liberty
-    why: "Sua indicação: a edição da LVM, editora que seria ligada ao Instituto Mises Brasil, o que ainda não foi confirmado. À venda nova; o tradutor não foi identificado e não houve comparação com outras edições."
+    why: "Sua indicação: a edição do Instituto Mises Brasil, de 2010, na tradução de Fernando Fiori Chiocca. À venda nova; a tradução ainda não foi comparada com o original."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
-    translator: []
+    reason: "Pendente (2026-10-21): tradução de Fernando Fiori Chiocca, fundador do Instituto Mises Brasil, não de tradutor profissional ou acadêmico. Pelo §F.2, sem avaliação independente da tradução, falta compará-la com o original em inglês antes de recomendar. O PDF da tradução é distribuído de graça pelo instituto, o que facilita a comparação."
+    translator: ["Fernando Fiori Chiocca"]
     translated_from: direct
     source_text: null
     completeness: null
@@ -69,10 +69,15 @@ provenance:
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
+  - claim: "Ficha da 2ª edição: Título original The Ethics of Liberty; Tradução: Fernando Fiori Chiocca; São Paulo: Instituto Ludwig von Mises Brasil, 2010."
+    source: "Resultados de busca (2026-10-21) que reproduzem a ficha do PDF do Instituto Mises Brasil e a página do livro no Instituto Rothbard Brasil; as páginas não abriram neste ambiente."
+    source_tier: 6
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
+**Sem veredito** (revisto em 2026-10-21): tradutor identificado, Fernando Fiori Chiocca; falta comparar a tradução com o original em inglês.

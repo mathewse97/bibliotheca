@@ -21,7 +21,7 @@ traditions: []
 subjects: []
 
 research_status: partially_researched
-missing: [date_written, work_type, "ano da 10ª edição"]
+missing: [date_written, work_type]
 priority_library: null
 obsidian_notes: []
 
@@ -51,9 +51,9 @@ derived_from:
 # — "a coleção de autossuficiência for criada" — cumpriu-se. A obra é membro de
 # `survival-self-sufficiency`, e a participação vive lá, não aqui.
 
-updated: 2026-10-14
+updated: 2026-10-21
 editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "A edição mais nova, de 2023, mas só existe em inglês."}
+  - {edition: "PHTLS, 10ª edição, 2023 (inglês)", note: "O original da edição mais nova; a tradução portuguesa dela saiu em 2025."}
 ---
 
 ## Sobre a obra
