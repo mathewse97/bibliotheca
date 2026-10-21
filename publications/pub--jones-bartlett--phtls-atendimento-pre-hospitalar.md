@@ -7,7 +7,7 @@ title_as_published: "PHTLS: Atendimento Pré-hospitalar ao Traumatizado"
 publisher: jones-bartlett
 publisher_country: US
 series: null
-year: null                       # NÃO confirmado
+year: 2025                       # Amazon: 20 jul. 2025; algumas lojas dão 2026
 language: pt
 bilingual: false
 bilingual_pair: null
@@ -15,21 +15,21 @@ editor: null
 introduction_by: null
 register: null
 framing: null
-format: []
-pages: null
+format: [brochura]
+pages: 864
 isbn13: "978-1-284-30069-7"
 edition_statement: "10ª edição"
 
-availability_br: null
-availability_checked: null
+availability_br: em-catalogo
+availability_checked: 2026-10-21
 links:
   publisher: "https://www.psglearning.com/catalog/productdetails/9781284300697"
   catalogue: ""
 
-verified_fields: [isbn13, publisher, title_as_published]
+verified_fields: [isbn13, publisher, title_as_published, edition_statement, pages]
 research_status: partially_researched
-missing: [year, pages, format, register, translator, translated_from,
-          completeness, availability_br]
+missing: [register, translator,
+          "ano: Amazon dá 2025, algumas lojas 2026"]
 source_of_record: voce
 
 # ---------------------------------------------------------------------------
@@ -41,9 +41,9 @@ source_of_record: voce
 
 contains:
   - work: naemt--phtls-prehospital-trauma-life-support
-    why: "O manual de referência em atendimento pré-hospitalar ao trauma, em tradução para o português. Não se sabe o ano desta edição, e ela ainda não foi comparada com outras."
-    verdict: unassessed
-    reason: "Pendente (2026-10-18): a tradução portuguesa da 9ª edição saiu em 2020; não se confirmou se o ISBN registrado é de uma tradução da 10ª. Falta o ano e o tradutor."
+    why: "O manual de referência em atendimento pré-hospitalar ao trauma, na tradução portuguesa da 10ª edição, a mais recente, publicada pela própria editora do original e distribuída no Brasil pelo Grupo A. À venda nova; o tradutor não é nomeado nas fontes."
+    verdict: recommended
+    reason: "Decisão do Mathews (2026-10-21), pela regra de manuais técnicos do §F.2: tradução portuguesa oficial da 10ª edição (2025, 864 p., brochura), publicada pela própria Jones & Bartlett, editora do original, e da mesma edição do original inglês mais recente. À venda nova no Brasil. O tradutor não é nomeado; para este tipo de livro, a tradução da editora do original basta."
     translator: []
     translated_from: direct
     translated_from_confidence: inferred
@@ -108,13 +108,24 @@ provenance:
     retrieved: 2026-10-09
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
+  - claim: "PHTLS - Atendimento Pré-hospitalar ao Traumatizado 10ed., Jones & Bartlett, 20 jul. 2025, 864 p., ISBN 978-1284300697; vendido e entregue pela Amazon."
+    source: "https://www.amazon.com.br/dp/1284300692"
+    source_tier: 7
+    retrieved: 2026-10-21
+    confidence: reported
+  - claim: "Lojas brasileiras (Grupo A, Disal, DI Livros, Martins Fontes Paulista, Loyola) vendem a 10ª edição em português, 864 p., brochura, distribuída pelo Grupo A; preço de lista R$ 703,00."
+    source: "Resultados de busca por 9781284300697 (loja.grupoa.com.br, disal.com.br, dilivros.com.br)"
+    source_tier: 6
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-Identidade e editora confirmadas em tier 1; ano e páginas não. O `edition_statement`
+**Recomendada** (2026-10-21). Tradução oficial da 10ª edição, pela própria editora do original.
+
+Identidade e editora confirmadas em tier 1; ano (2025) e páginas (864) vêm de lojas, em 2026-10-21. O `edition_statement`
 vem do título do anúncio e da correspondência com a 10ª edição inglesa, e é a
-razão de `source_text` estar preenchido com confiança `verified` enquanto `year`
-continua nulo — são coisas diferentes e o registro não as mistura.
+razão de `source_text` estar preenchido com confiança `verified`.

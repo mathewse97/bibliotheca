@@ -1,10 +1,10 @@
 ---
 id: pub--di-livros--primeiros-socorros
 title_as_published: "Primeiros Socorros"
-publisher: di-livros
+publisher: martinari
 publisher_country: BR
 series: null
-year: null
+year: 2023
 language: pt-BR
 bilingual: false
 bilingual_pair: null
@@ -12,27 +12,27 @@ editor: null
 introduction_by: null
 register: null
 framing: null
-format: []
-pages: null
+format: [brochura]
+pages: 240
 isbn13: "978-85-8116-091-7"
 
-availability_br: null
-availability_checked: null
+availability_br: em-catalogo
+availability_checked: 2026-10-21
 links:
   publisher: ""
   catalogue: ""
 
-verified_fields: [title_as_published, isbn13]
+verified_fields: [title_as_published, isbn13, publisher, pages]
 research_status: partially_researched
-missing: ["publisher — tier 1 não confirmado, apenas catálogo de varejo",
-          year, format, pages, register]
+missing: ["confirmação em fonte tier 1–3 (dados vêm de lojas)", register,
+          "o id ainda diz di-livros: a DI Livros é a livraria que o vende"]
 source_of_record: claude
 
 contains:
   - work: silva-conforto--primeiros-socorros
-    why: "Livro escrito em português, sem tradução a avaliar. Edição da DI Livros; ano e demais dados ainda não foram confirmados, e ela não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Pendente (2026-10-18): a edição só foi identificada em anúncio de loja; falta confirmar editora, ano e edição em fonte bibliográfica."
+    why: "Livro escrito em português, sem tradução a avaliar. Única edição encontrada, da Editora Martinari (2023), à venda nova."
+    verdict: recommended
+    reason: "Pesquisa de 2026-10-21: original em português; única edição encontrada, da Editora Martinari (2023, 240 p.), à venda nova. A DI Livros, que constava como editora, é a livraria que a vende. Não há tradução a comparar."
     translator: []
     translated_from: null
     source_text: null
@@ -80,11 +80,23 @@ provenance:
     retrieved: 2026-10-09
     confidence: verified
     note: "DIVERGÊNCIA: o selo impresso na capa é o da MARTINARI, e o anúncio também dá Editora Martinari; o registro diz Di Livros. O ISBN confere. Não corrigido: decisão do Mathews."
+  - claim: "Editora Martinari, 1º nov. 2023, 240 p., 24 x 17 cm, ISBN-13 978-8581160917; autores Evandro de Sena Silva e Cláudia Conforto."
+    source: "https://www.amazon.com.br/dp/8581160913"
+    source_tier: 7
+    retrieved: 2026-10-21
+    confidence: reported
+  - claim: "O prefixo 978-85-8116 é da Martinari: a busca por \"martinari\" na Estante Virtual devolve livros com esse prefixo (978-85-8116-012-2, 978-85-8116-089-4); exemplares sem uso deste livro à venda."
+    source: "https://www.estantevirtual.com.br/busca?q=martinari e ?q=9788581160917"
+    source_tier: 6
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação
+
+**Recomendada** (2026-10-21). Original em português; única edição encontrada, à venda nova.
 
 Identificação em nível de varejo/catálogo, não de fonte bibliográfica
 primária. Suficiente para registrar a publicação e a aquisição;

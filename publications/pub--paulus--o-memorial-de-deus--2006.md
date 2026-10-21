@@ -31,7 +31,7 @@ contains:
   - work: smith--the-memoirs-of-god
     why: "A única tradução em português, da Paulus, à venda nova. Não se sabe quem traduziu nem se foi direto do inglês; ainda não foi comparada com outras edições."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
+    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Procurado de novo em 2026-10-21: a loja da Paulus, a Amazon e a Martins Fontes não creditam tradutor. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
     translator: []
     translated_from: unknown
     source_text: null
@@ -69,7 +69,8 @@ provenance:
     source_tier: 1
     retrieved: 2026-09-20
     confidence: verified
-updated: 2026-10-18
+
+updated: 2026-10-21
 ---
 
 ## Avaliação

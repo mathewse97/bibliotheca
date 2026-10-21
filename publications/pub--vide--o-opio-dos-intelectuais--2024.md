@@ -25,15 +25,15 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor: confirmar em segunda fonte", "qualidade da tradução"]
 source_of_record: claude
 
 contains:
   - work: aron--lopium-des-intellectuels
-    why: "Escolha sua, no lugar da tradução mais antiga, de Jorge Bastos, pela Três Estrelas. Edição brasileira à venda nova; ainda não foi comparada com outras edições."
+    why: "Escolha sua, no lugar da tradução mais antiga, de Jorge Bastos, pela Três Estrelas. Edição brasileira à venda nova, traduzida por Christian Lesage segundo uma livraria; ainda não foi comparada com a de Jorge Bastos nem com o original."
     verdict: unassessed
-    reason: "Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Três Estrelas, trad. Jorge Bastos)."
-    translator: []
+    reason: "Pendente (2026-10-21): escolha sua (2026-09-23), no lugar da Três Estrelas (2016, trad. Jorge Bastos). Tradutor dado por uma única fonte, a ficha da Travessa: Christian Lesage, sem outras traduções conhecidas. Pelo §F.2, falta compará-la com a de Jorge Bastos ou com o original francês. Existe ainda a da Editora UnB (1980, trad. Yvone Jean), só usada."
+    translator: ["Christian Lesage"]
     translated_from: direct
     source_text: null
     completeness: null
@@ -69,10 +69,17 @@ provenance:
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
+  - claim: "Ficha da livraria: AUTOR Raymond Aron; TRADUTOR Christian Lesage; 2024; 324 p."
+    source: "https://www.travessa.com.br/o-opio-dos-intelectuais/artigo/ff5bb6c6-4af1-4d7c-bb9a-338f3f803a7c (visto em resultado de busca; a página não abriu neste ambiente)"
+    source_tier: 6
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-09-23
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-Sem veredito. Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Três Estrelas, trad. Jorge Bastos).
+**Sem veredito** (revisto em 2026-10-21): escolha sua, na tradução de Christian Lesage (segundo a Travessa); falta compará-la com a de Jorge Bastos ou com o original francês.
+
+Escolha sua; por decisão de 2026-09-23 substitui a indicação anterior (Três Estrelas, trad. Jorge Bastos).

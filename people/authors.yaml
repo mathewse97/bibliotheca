@@ -2352,3 +2352,21 @@ furet:
          do prefácio, da bibliografia e da cronologia da edição da Martins
          Fontes de A Democracia na América. Entrou em 2026-10-17."
   role: editor
+
+labor:
+  name_display: "Earle Labor"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Jack London. Organizou, com Robert C. Leitz III, a
+         edição da Oxford World's Classics de The Call of the Wild, White
+         Fang, and Other Stories. Entrou em 2026-10-21."
+  role: editor
+
+leitz:
+  name_display: "Robert C. Leitz III"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Jack London, coorganizador das cartas de London e da
+         edição da Oxford World's Classics de The Call of the Wild, White
+         Fang, and Other Stories. Entrou em 2026-10-21."
+  role: editor

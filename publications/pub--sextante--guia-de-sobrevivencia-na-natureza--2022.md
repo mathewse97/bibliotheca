@@ -12,7 +12,7 @@ editor: null
 introduction_by: null
 register: null
 framing: null
-format: []
+format: [brochura]
 pages: 216
 isbn13: "978-65-5564-476-0"
 edition_statement: null
@@ -25,14 +25,14 @@ links:
 
 verified_fields: [title_as_published, publisher, year, pages, isbn13]
 research_status: partially_researched
-missing: [register, framing, completeness, availability_br, format]
+missing: [register, framing, "completeness: o que a adaptação do Manual do Mundo mudou ou cortou", availability_br]
 source_of_record: claude
 
 contains:
   - work: canterbury--bushcraft-101
-    why: "Tradução brasileira de Bushcraft 101, por Marcelo Schild, com adaptação do Manual do Mundo. Ainda não foi comparada com outras edições."
+    why: "Tradução brasileira de Bushcraft 101, por Marcelo Schild, numa edição adaptada para o Brasil pelo Manual do Mundo, com as ilustrações originais de Eric Andrews. Não se sabe o que a adaptação mudou ou cortou."
     verdict: recommended
-    reason: "Pesquisa de 2026-10-18: única tradução brasileira, de Marcelo Schild, tradutor profissional, direto do inglês, à venda nova. Com tradutor conhecido e sem sinal de problema, a tradução portuguesa vence o original (§F.2)."
+    reason: "Pesquisa de 2026-10-18, revista em 2026-10-21: única tradução brasileira, de Marcelo Schild, tradutor profissional, direto do inglês, à venda nova. É uma adaptação do Manual do Mundo: nenhuma fonte acessível diz o que mudou, e não se confirmou se o texto está completo (216 p., contra 256 do original). Mantida como recomendada porque, num manual prático, adaptar plantas, bichos e materiais ao Brasil é ganho; se a adaptação tiver cortado técnicas, o original inglês (Adams Media, 2014) passa à frente."
     translator: ["Marcelo Schild"]
     translated_from: direct
     source_text: "Bushcraft 101"
@@ -79,13 +79,23 @@ provenance:
     retrieved: 2026-10-09
     confidence: verified
     note: "Exame direto da imagem: título, autor e editora conferem com o registro."
+  - claim: "Byline: Dave Canterbury (Autor), Manual do Mundo (Criador), Eric Andrews (Ilustrador), Marcelo Schild (Tradutor); Sextante, 10 nov. 2022, 216 p., 14 x 21 cm. A descrição não fala em adaptação nem em cortes."
+    source: "https://www.amazon.com.br/dp/6555644761"
+    source_tier: 7
+    retrieved: 2026-10-21
+    confidence: reported
+  - claim: "Uma avaliação de leitor, vista só em resumo de busca, chama o livro de adaptação superficial do Bushcraft 101; outra o considera um guia prático e simples. A Skeelo classifica o e-book como juvenil."
+    source: "Resultados de busca de 2026-10-21 (Skeelo, Google Books, Travessa); as páginas não abriram neste ambiente"
+    source_tier: 7
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-**Recomendada** (2026-10-18). Única tradução brasileira, de tradutor conhecido.
+**Recomendada** (2026-10-18; revista em 2026-10-21). Única tradução brasileira, de tradutor conhecido, adaptada para o Brasil pelo Manual do Mundo. Falta saber se a adaptação cortou alguma coisa: com o livro na mão, basta comparar o sumário com o do original.
 
 Dados confirmados na página da editora. Não avaliada quanto a registro,
 aparato ou completude.

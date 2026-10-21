@@ -25,15 +25,15 @@ links:
 
 verified_fields: [isbn13, publisher, year, pages]
 research_status: partially_researched
-missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "tradutor"]
+missing: ["confirmação em fonte tier 1–3 (dados vêm do anúncio)", "edição: 1ª (anúncio)", "qualidade da tradução"]
 source_of_record: claude
 
 contains:
   - work: hoppe--democracy-the-god-that-failed
-    why: "Indicação sua: a edição da LVM, editora ligada ao Instituto Mises Brasil. Falta confirmar se a tradução é a de Marcelo Werlang de Assis, que você mencionou."
+    why: "Indicação sua: a edição do Instituto Mises Brasil, na tradução de Marcelo Werlang de Assis, como você tinha dito. À venda nova; a tradução ainda não foi comparada com o original."
     verdict: unassessed
-    reason: "Pendente (2026-10-18): o tradutor não foi identificado. Pelo §F.2, sem saber se a tradução portuguesa é boa, falta compará-la com o original em inglês; não basta ser a única em português para ser recomendada."
-    translator: []
+    reason: "Pendente (2026-10-21): tradução de Marcelo Werlang de Assis, confirmada. A resenha da MISES Revista (2014) não avalia a tradução. Pelo §F.2, sem avaliação independente da tradução, falta compará-la com o original em inglês antes de recomendar."
+    translator: ["Marcelo Werlang de Assis"]
     translated_from: direct
     source_text: null
     completeness: null
@@ -69,10 +69,15 @@ provenance:
     source_tier: 7
     retrieved: 2026-09-23
     confidence: reported
+  - claim: "Hans-Hermann Hoppe, Democracia, o deus que falhou, trad. Marcelo Werlang de Assis, São Paulo: Instituto Ludwig von Mises Brasil, 2014, 372 p., ISBN 978-85-8119-079-2."
+    source: "Resenha em MISES: Revista Interdisciplinar de Filosofia, Direito e Economia (2014), pp. 302–306, vista em resultado de busca; e a ficha do PDF do Instituto Rothbard Brasil reproduzida em resultados de busca."
+    source_tier: 4
+    retrieved: 2026-10-21
+    confidence: reported
 
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-**Sem veredito** (revisto em 2026-10-18): falta identificar o tradutor e comparar com o original em inglês.
+**Sem veredito** (revisto em 2026-10-21): tradutor confirmado, Marcelo Werlang de Assis; falta comparar a tradução com o original em inglês.

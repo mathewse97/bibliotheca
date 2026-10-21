@@ -29,9 +29,9 @@ source_of_record: voce
 
 contains:
   - work: london--the-call-of-the-wild
-    why: "Seu exemplar, no original em inglês, só com o texto, sem introdução nem notas. Uma edição com notas e introdução, como a da Oxford World's Classics, fica para depois que você ler esta."
-    verdict: unassessed
-    reason: "Pendente (2026-10-19): exemplar do Mathews, reimpressão sem aparato. A Oxford World's Classics (org. Earle Labor) é a recomendação registrada; o Mathews vai ler esta e decidir depois."
+    why: "Seu exemplar, no original em inglês, só com o texto, sem introdução nem notas. A edição anotada da Oxford World's Classics fica como alternativa."
+    verdict: recommended
+    reason: "Decisão do Mathews (2026-10-21): fica o exemplar dele, reimpressão sem aparato; a Oxford World's Classics (org. Earle Labor e Robert C. Leitz III), com introdução e notas, entra como alternativa."
     translator: null
     translated_from: null
     source_text: null
@@ -71,9 +71,9 @@ provenance:
     confidence: verified
     note: "Exame direto da imagem."
 
-updated: 2026-10-19
+updated: 2026-10-21
 ---
 
 ## Avaliação
 
-**Exemplar do Mathews.**
+**Recomendada** (2026-10-21). Exemplar do Mathews; a edição da Oxford, com introdução e notas, fica como alternativa.
