@@ -345,3 +345,23 @@ do governo.
   `why_here_by` passa a `claude`.
 - Não repete a seção "Como ler" (§13), que vale para a obra em qualquer
   coleção.
+
+## 15 · Telas largas: painel lateral — decisão do Mathews, 2026-10-21
+
+No desktop, a coluna à direita ficava vazia. A partir de 1440px de largura:
+
+- **As grades ocupam a tela toda** (Visão geral e Coleções): mais cartões por
+  linha, nada de texto corrido esticado.
+- **Obra e coleção ganham um painel lateral fixo**, que acompanha a rolagem.
+  A coluna de texto continua com largura de leitura confortável.
+  - *Obra:* a edição escolhida (capa, tradutor, compra, posse), a leitura
+    (estado e prioridade), a posição na sequência de cada coleção (anterior,
+    próxima, "leia antes") e um índice da página.
+  - *Coleção:* o progresso de leitura, a próxima leitura (a que está lendo
+    ou a primeira não lida, respeitando o caminho escolhido) e os movimentos,
+    com o progresso de cada um; clicar num movimento abre e rola até ele.
+- **O painel só resume o que a página já mostra.** Abaixo de 1440px ele
+  some e nada se perde; o celular não muda.
+- Próximos candidatos, ainda não feitos: filtros fixos no catálogo e em
+  publicações, pré-visualização nas decisões, coluna "Continuar" na Visão
+  geral.
