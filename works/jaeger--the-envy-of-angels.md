@@ -28,8 +28,8 @@ relations:
   - {type: complements, target: nunes--historia-da-educacao-na-idade-media,
      note: "Nunes narra a Idade Média inteira em panorama; Jaeger aprofunda
             um recorte específico — as escolas catedrais e os ideais sociais
-            que elas formaram, 950–1200. Mesma região do scope_map
-            (idade-media), profundidade diferente."}
+            que elas formaram, 950–1200. O mesmo período, visto mais de
+            perto."}
 
 provenance:
   - claim: "Título original 'The Envy of Angels: Cathedral Schools and
