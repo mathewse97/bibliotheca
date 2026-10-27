@@ -170,6 +170,11 @@ Teatro completo VI da Editora 34.
   Classics entra como alternativa; PHTLS recommended pela nova regra de
   manuais técnicos traduzidos pela editora do original
   (`config/bibliographic-rules.md` §F.2).
+- **Cartão `d-edu-fonte` aplicado (2026-10-27), opção B.** Agostinho, *A
+  Doutrina Cristã* (Paulus, Patrística 17), e Hugo de São Vítor,
+  *Didascálicon* (Vozes 2001, bilíngue, só usada; alternativa Kírion 2018),
+  entram no movimento I de Educação. Posições a confirmar; ver
+  `review/education.md` §14.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não

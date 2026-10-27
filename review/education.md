@@ -783,3 +783,53 @@ Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do 
    (`d-edu-fonte`, Agostinho, *A Doutrina Cristã*).
 4. Sem redundância que justifique cartão: os quatro volumes de Ruy Afonso da
    Costa Nunes formam uma só narrativa.
+
+---
+
+## 14 · Agostinho e Hugo de São Vítor entram em Educação — 2026-10-27
+
+Você escolheu a **opção B** do cartão `d-edu-fonte`: duas fontes da própria
+tradição clássica e cristã, *A Doutrina Cristã*, de Santo Agostinho, e o
+*Didascálicon*, de Hugo de São Vítor.
+
+**O que foi feito.**
+- Duas obras novas: `agostinho--de-doctrina-christiana` e
+  `hugo-de-sao-vitor--didascalicon`.
+- Quatro edições, todas com veredito:
+  - *A Doutrina Cristã*:
+    - recomendada: Paulus, Patrística vol. 17 (2002), tradução de Nair de
+      Assis Oliveira, notas de Roque Frangiotti;
+    - alternativa: Vozes de Bolso (2023), tradução de Frei Ary E. Pintarelli.
+  - *Didascálicon*:
+    - recomendada: Vozes (2001), bilíngue, introdução e tradução de Antonio
+      Marchionni, sobre o texto crítico de Buttimer; só usada;
+    - alternativa: Kírion (2018), bilíngue, tradução e notas de Roger
+      Campanhari; nova.
+  - Anotadas, não registradas: a Vide (2015, Tiago Tondinelli) e as inglesas
+    de R. P. H. Green (Oxford) e Jerome Taylor (Columbia).
+- Seis pessoas novas: Hugo e os cinco tradutores ou anotadores.
+- **Posição na coleção.** As duas entraram no movimento I:
+  - Agostinho logo depois de Nunes, *Antiguidade Cristã*, como o cartão
+    dizia;
+  - Hugo depois de Jaeger, *A Inveja dos Anjos*, porque ensinava nas escolas
+    que Jaeger descreve.
+
+  As duas posições são minhas e estão a confirmar.
+- **O propósito do movimento I mudou.** Dizia "tudo por via de história"; agora
+  diz que o fio é a história e que as duas fontes entram ao lado da narrativa.
+  Foi por aquela frase que Newman, em 2026-10-05, foi para o movimento VII.
+  Se você preferir manter o I só com história, as duas fontes podem ir para
+  um movimento próprio; é uma mudança pequena.
+- A lacuna `education--g01` passou a `accepted`.
+
+**Uma correção ao cartão.** O cartão dizia que Hugo "tem pouca edição em
+português". Tem três traduções, duas delas bilíngues; o que falta é uma em
+catálogo com aparato acadêmico.
+
+**O que continua pendente.**
+- Nenhuma das quatro traduções foi comparada com o latim. Os sites das
+  editoras e os PDFs não abrem deste ambiente. Os vereditos se apoiam em quem
+  traduziu, no aparato e no uso acadêmico.
+- *Na vinha do texto*, de Ivan Illich, é um comentário inteiro ao
+  *Didascálicon*, e Illich já está na coleção. Fica anotado na obra, não
+  como cartão.

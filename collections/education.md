@@ -138,12 +138,13 @@ scope_map:
        note: "A paideía grega e a formação romana: ginásio, retórica, e o
               cidadão como produto da cidade."}
     - {id: cristianismo-antigo,      coverage: thin,   pursuit: open,
-       held_by: [nunes--historia-da-educacao-na-antiguidade-crista],
+       held_by: [nunes--historia-da-educacao-na-antiguidade-crista,
+                 agostinho--de-doctrina-christiana],
        note: "A apropriação cristã da cultura clássica nos primeiros séculos:
               catequese, escolas cristãs, formação moral."}
     - {id: idade-media,              coverage: thin,   pursuit: open,
        held_by: [nunes--historia-da-educacao-na-idade-media,
-                 jaeger--the-envy-of-angels],
+                 jaeger--the-envy-of-angels, hugo-de-sao-vitor--didascalicon],
        note: "Escolas monásticas e catedrais, universidades, escolástica, e as
               artes liberais como currículo."}
     - {id: renascimento-humanismo,   coverage: thin,   pursuit: open,
@@ -219,11 +220,16 @@ excluded: []                   # nada excluído por decisão — só por ausênc
 # ===========================================================================
 sequence:
 
-  - movement: "I. A linhagem clássica e cristã, narrada historicamente"
+  - movement: "I. A linhagem clássica e cristã: a história e duas fontes"
     purpose: "Percorrer o ideal clássico de formação humana: o que era, o que
               o cristianismo fez com ele, como sobreviveu, e como começou a
-              ser confrontado. Tudo por via de história — o que é uma
-              característica deste movimento, não da coleção."
+              ser confrontado. O fio é a história; duas fontes da própria
+              tradição, Agostinho e Hugo de São Vítor, entram ao lado da
+              narrativa para que o ideal seja lido praticado, e não só
+              contado."
+    # Propósito revisto em 2026-10-27, quando as duas fontes entraram (cartão
+    # d-edu-fonte, opção B). Antes dizia "tudo por via de história"; foi por
+    # isso que Newman, em 2026-10-05, foi para o VII e não para cá.
     purpose_by: claude
     regions: [antiguidade-classica, cristianismo-antigo, idade-media,
               renascimento-humanismo, seculo-xvii]
@@ -252,6 +258,17 @@ sequence:
     subjects_stated: [cristianismo-e-cultura-classica, padres-da-igreja,
                       catequese, escolas-crists, formacao-intelectual-e-moral]
 
+  # ACRÉSCIMO — decisão sua de 2026-10-27 (cartão d-edu-fonte, opção B).
+  - work: agostinho--de-doctrina-christiana
+    role: primary-source
+    demand: exigente
+    why_here: "Nunes conta como o cristianismo incorpora a tradição clássica;
+               aqui ela é incorporada. No livro IV, a retórica de Cícero passa
+               a servir a quem ensina a fé, e o livro II decide o que das
+               disciplinas pagãs o cristão deve guardar."
+    why_here_by: claude
+    publication_pref: pub--paulus--a-doutrina-crista--2002
+
   - work: nunes--historia-da-educacao-na-idade-media
     role: foundational
     demand: moderado
@@ -274,10 +291,22 @@ sequence:
     demand: exigente
     why_here: "Aprofunda, com uma monografia acadêmica premiada, o recorte
                específico das escolas catedrais e dos ideais sociais que
-               Nunes narra em panorama — mesma região do scope_map,
-               profundidade diferente."
+               Nunes narra em panorama: o mesmo período, visto mais de
+               perto."
     why_here_by: claude
     publication_pref: pub--verbo-encarnado--a-inveja-dos-anjos
+
+  # ACRÉSCIMO — decisão sua de 2026-10-27 (cartão d-edu-fonte, opção B).
+  # Depois de Jaeger, porque Hugo ensinava nas escolas que Jaeger descreve.
+  - work: hugo-de-sao-vitor--didascalicon
+    role: primary-source
+    demand: moderado
+    why_here: "O programa de estudos das escolas medievais escrito por um dos
+               seus mestres: o que ler, em que ordem e com que disposição. As
+               artes liberais que Nunes e Jaeger descrevem aparecem aqui como
+               currículo, e o estudo como formação moral de quem estuda."
+    why_here_by: claude
+    publication_pref: pub--vozes--didascalicon-da-arte-de-ler--2001
 
   - work: nunes--historia-da-educacao-no-renascimento
     role: foundational

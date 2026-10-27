@@ -36,7 +36,8 @@ items:
   kind: obra
   collections: [education]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-27, choice: "Opção B — incluir Agostinho, A Doutrina Cristã, e Hugo de São Vítor, Didascálicon.", note: "Aplicado. Duas obras, quatro edições e seis pessoas registradas. Agostinho entrou no movimento I logo depois de Nunes, Antiguidade Cristã, na edição da Paulus (Patrística 17, trad. Nair de Assis Oliveira; alternativa: Vozes de Bolso, trad. Frei Ary E. Pintarelli). Hugo entrou no mesmo movimento, depois de Jaeger, na edição bilíngue da Vozes (2001, trad. Antonio Marchionni, só usada; alternativa: Kírion 2018, bilíngue, nova). O propósito do movimento I foi revisto para admitir as duas fontes. A lacuna education--g01 passou a accepted. Correção: Hugo tem três traduções em português, não pouca edição."}
   source: education--g01
   question: "Incluir em Educação um texto em que o ideal clássico é praticado, e não só contado?"
   why: "A coleção percorre dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Das 14 obras, só uma está registrada como fonte primária: Illich, que critica a escola. Nenhum texto da própria tradição clássica está lá."

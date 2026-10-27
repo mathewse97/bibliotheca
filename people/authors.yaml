@@ -2370,3 +2370,53 @@ leitz:
          edição da Oxford World's Classics de The Call of the Wild, White
          Fang, and Other Stories. Entrou em 2026-10-21."
   role: editor
+
+hugo-de-sao-vitor:
+  name_display: "Hugo de São Vítor"
+  name_variants: ["Hugh of Saint Victor", "Hugues de Saint-Victor", "Hugo de Sancto Victore"]
+  dates: "c. 1096–1141"
+  note: "Mestre da escola da abadia de São Vítor, em Paris. Entrou em
+         2026-10-27 com o Didascálicon (cartão d-edu-fonte, opção B)."
+
+nair-de-assis-oliveira:
+  name_display: "Nair de Assis Oliveira"
+  name_variants: []
+  dates: null
+  note: "Tradutora de Agostinho para a coleção Patrística da Paulus: A
+         Doutrina Cristã, O Livre-Arbítrio, A Verdadeira Religião, A Vida
+         Feliz; revisou e anotou A Trindade. Entrou em 2026-10-27."
+  role: translator
+
+frangiotti:
+  name_display: "Roque Frangiotti"
+  name_variants: []
+  dates: null
+  note: "Autor das notas e do índice de A Doutrina Cristã na coleção
+         Patrística da Paulus (2002). Entrou em 2026-10-27."
+  role: editor
+
+pintarelli:
+  name_display: "Ary E. Pintarelli"
+  name_variants: ["Frei Ary E. Pintarelli"]
+  dates: null
+  note: "Frade franciscano, tradutor de A Doutrina Cristã para a Vozes de
+         Bolso (2023). Entrou em 2026-10-27."
+  role: translator
+
+marchionni:
+  name_display: "Antonio Marchionni"
+  name_variants: []
+  dates: null
+  note: "Autor da introdução e da tradução do Didascálicon de Hugo de São
+         Vítor (Vozes, 2001, edição bilíngue sobre o texto crítico de
+         Buttimer). Entrou em 2026-10-27."
+  role: translator
+
+campanhari:
+  name_display: "Roger Campanhari"
+  name_variants: []
+  dates: null
+  note: "Tradutor e anotador do Didascálicon de Hugo de São Vítor (Kírion,
+         2018, edição bilíngue). Nenhuma outra tradução dele encontrada.
+         Entrou em 2026-10-27."
+  role: translator
