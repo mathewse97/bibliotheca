@@ -316,6 +316,23 @@ provavelmente menos de cem, não se esgotam nem com a melhor leitura possível.
   Saída, troca e redundância viram cartão em `review/decisions.yaml` e são
   decisão dele (§4, §5, §7). Obras com ★ dele nunca saem por iniciativa do
   agente.
+- **★ (indispensável):** quem define é o agente — decisão do Mathews,
+  2026-10-27. Ganha estrela a obra sem a qual a coleção não responde bem à
+  própria pergunta e cujo lugar nenhuma outra obra dela ocupa. Cada estrela
+  tem a sua razão escrita na revisão da coleção. A estrela é minoria: se
+  metade da coleção é indispensável, o critério está frouxo.
+  A estrela sai do teste desta seção, não de um juízo solto:
+  - **Papel:** só ganha estrela quem passa na versão mais forte da parte 1,
+    isto é, é fonte central da pergunta da coleção, ou cobre uma posição ou
+    um problema que nenhuma outra obra dela cobre.
+  - **Nível:** uma obra **A** que é fonte central quase sempre tem estrela.
+    Uma obra **C** quase nunca tem, porque só fica se for a melhor opção para
+    a sua função e, portanto, pode ser substituída. Uma obra **B** tem
+    estrela quando é a única a ocupar o seu lugar.
+  - O nível é absoluto e a estrela é relativa à coleção: a mesma obra pode
+    ter estrela numa coleção e não na outra. Quando a coleção já tem
+    auditoria pela pirâmide, as estrelas partem dela; uma obra A sem estrela,
+    ou uma C com estrela, tem a exceção explicada na revisão.
 - **Leitura parcial:** quando uma obra grande só precisa ser lida em parte
   para servir à coleção, a auditoria diz quais partes. Isso vai para a seção
   "Como ler" da obra (`config/interface-rules.md` §13).

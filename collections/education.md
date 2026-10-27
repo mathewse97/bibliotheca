@@ -138,12 +138,13 @@ scope_map:
        note: "A paideía grega e a formação romana: ginásio, retórica, e o
               cidadão como produto da cidade."}
     - {id: cristianismo-antigo,      coverage: thin,   pursuit: open,
-       held_by: [nunes--historia-da-educacao-na-antiguidade-crista],
+       held_by: [nunes--historia-da-educacao-na-antiguidade-crista,
+                 agostinho--de-doctrina-christiana],
        note: "A apropriação cristã da cultura clássica nos primeiros séculos:
               catequese, escolas cristãs, formação moral."}
     - {id: idade-media,              coverage: thin,   pursuit: open,
        held_by: [nunes--historia-da-educacao-na-idade-media,
-                 jaeger--the-envy-of-angels],
+                 jaeger--the-envy-of-angels, hugo-de-sao-vitor--didascalicon],
        note: "Escolas monásticas e catedrais, universidades, escolástica, e as
               artes liberais como currículo."}
     - {id: renascimento-humanismo,   coverage: thin,   pursuit: open,
@@ -219,11 +220,16 @@ excluded: []                   # nada excluído por decisão — só por ausênc
 # ===========================================================================
 sequence:
 
-  - movement: "I. A linhagem clássica e cristã, narrada historicamente"
+  - movement: "I. A linhagem clássica e cristã: a história e duas fontes"
     purpose: "Percorrer o ideal clássico de formação humana: o que era, o que
               o cristianismo fez com ele, como sobreviveu, e como começou a
-              ser confrontado. Tudo por via de história — o que é uma
-              característica deste movimento, não da coleção."
+              ser confrontado. O fio é a história; duas fontes da própria
+              tradição, Agostinho e Hugo de São Vítor, entram ao lado da
+              narrativa para que o ideal seja lido praticado, e não só
+              contado."
+    # Propósito revisto em 2026-10-27, quando as duas fontes entraram (cartão
+    # d-edu-fonte, opção B). Antes dizia "tudo por via de história"; foi por
+    # isso que Newman, em 2026-10-05, foi para o VII e não para cá.
     purpose_by: claude
     regions: [antiguidade-classica, cristianismo-antigo, idade-media,
               renascimento-humanismo, seculo-xvii]
@@ -231,6 +237,7 @@ sequence:
 
   - work: marrou--histoire-de-leducation-dans-lantiquite
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
     why_here: "É a melhor porta de entrada histórica para compreender como
                surgiu o ideal clássico de formação humana que posteriormente
@@ -251,6 +258,18 @@ sequence:
     perspective: "História da educação cristã nos primeiros séculos."
     subjects_stated: [cristianismo-e-cultura-classica, padres-da-igreja,
                       catequese, escolas-crists, formacao-intelectual-e-moral]
+
+  # ACRÉSCIMO — decisão sua de 2026-10-27 (cartão d-edu-fonte, opção B).
+  - work: agostinho--de-doctrina-christiana
+    role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
+    demand: exigente
+    why_here: "Nunes conta como o cristianismo incorpora a tradição clássica;
+               aqui ela é incorporada. No livro IV, a retórica de Cícero passa
+               a servir a quem ensina a fé, e o livro II decide o que das
+               disciplinas pagãs o cristão deve guardar."
+    why_here_by: claude
+    publication_pref: pub--paulus--a-doutrina-crista--2002
 
   - work: nunes--historia-da-educacao-na-idade-media
     role: foundational
@@ -274,10 +293,22 @@ sequence:
     demand: exigente
     why_here: "Aprofunda, com uma monografia acadêmica premiada, o recorte
                específico das escolas catedrais e dos ideais sociais que
-               Nunes narra em panorama — mesma região do scope_map,
-               profundidade diferente."
+               Nunes narra em panorama: o mesmo período, visto mais de
+               perto."
     why_here_by: claude
     publication_pref: pub--verbo-encarnado--a-inveja-dos-anjos
+
+  # ACRÉSCIMO — decisão sua de 2026-10-27 (cartão d-edu-fonte, opção B).
+  # Depois de Jaeger, porque Hugo ensinava nas escolas que Jaeger descreve.
+  - work: hugo-de-sao-vitor--didascalicon
+    role: primary-source
+    demand: moderado
+    why_here: "O programa de estudos das escolas medievais escrito por um dos
+               seus mestres: o que ler, em que ordem e com que disposição. As
+               artes liberais que Nunes e Jaeger descrevem aparecem aqui como
+               currículo, e o estudo como formação moral de quem estuda."
+    why_here_by: claude
+    publication_pref: pub--vozes--didascalicon-da-arte-de-ler--2001
 
   - work: nunes--historia-da-educacao-no-renascimento
     role: foundational
@@ -339,6 +370,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: dewey--democracy-and-education
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "A posição progressista exposta por quem a formulou: educação
                como reconstrução contínua da experiência e como condição de
@@ -385,6 +417,7 @@ sequence:
 
   - work: adler--the-paideia-proposal
     role: pivot
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: leve
     why_here: "É o elo entre a história que você acabou de estudar e a
                recuperação moderna do ideal clássico de educação como formação
@@ -415,6 +448,7 @@ sequence:
 
   - work: miriam-joseph--the-trivium
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
     why_here: "É uma passagem da história para a prática intelectual: depois
                de conhecer a tradição do trivium, você começa a ver como essas
@@ -445,6 +479,7 @@ sequence:
   # ENTRADA NOVA — pedido seu de 2026-10-14. Posição minha, a confirmar.
   - work: adler-van-doren--how-to-read-a-book
     role: supplementary
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
     why_here_by: claude
@@ -467,6 +502,7 @@ sequence:
 
   - work: illich--deschooling-society
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "Recusa a forma escolar inteira, incluindo a do próprio Adler
                — não apenas o currículo que a escola ensina, mas a
@@ -501,6 +537,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: newman--the-idea-of-a-university
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "A defesa mais forte de que a universidade pode formar: o
                conhecimento liberal como fim em si, e a universidade como

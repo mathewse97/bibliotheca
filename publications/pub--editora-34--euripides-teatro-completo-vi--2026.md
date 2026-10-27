@@ -25,7 +25,7 @@ links:
 verified_fields: [title_as_published, publisher, isbn13, tradutor, bilingual]
 research_status: partially_researched
 missing:
-  - "Confirmação do lançamento (anunciado para 26/10/2026)"
+  - "Confirmação do lançamento: em 2026-10-27 a Amazon dava a data de publicação 26/10/2026 e 480 p., mas ainda só vendia em pré-venda"
   - "Disponibilidade depois do lançamento"
 source_of_record: claude
 

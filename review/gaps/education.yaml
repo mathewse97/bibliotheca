@@ -33,7 +33,19 @@ gaps:
     context: "Agostinho tem tradição editorial sólida em português;
               Quintiliano e Hugo de São Vítor, muito menos. Não altera a
               necessidade de nenhum dos três — entra só em caso de empate."
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-27
+      work: [agostinho--de-doctrina-christiana, hugo-de-sao-vitor--didascalicon]
+      note: "Cartão d-edu-fonte, opção B. Agostinho entrou no movimento I logo
+             depois de Nunes, Antiguidade Cristã; Hugo, no mesmo movimento,
+             depois de Jaeger, A Inveja dos Anjos. O propósito do movimento I
+             deixou de dizer 'tudo por via de história'. CORREÇÃO DO CONTEXTO:
+             Hugo tem mais edição em português do que o cartão dizia — três
+             traduções, duas bilíngues (Vozes 2001, Vide 2015, Kírion 2018)."
+      remaining: "Nenhuma das traduções foi comparada com o latim; os
+                  vereditos se apoiam na citação acadêmica e no aparato."
     recheck_after: outras-colecoes-importadas
     provisional: true
     statement: "Das 9 obras, zero são fonte primária. Cinco são história, uma

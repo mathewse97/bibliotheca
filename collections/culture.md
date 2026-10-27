@@ -222,7 +222,7 @@ sequence:
     why_here_by: claude
     scope: "Aqui ela é lida como fundação da reflexão sobre o que a arte é e
             por que ela importa; em Greco-Romana é fonte primária para voltar
-            às tragédias que você leu, e o `why_here` de lá é seu."
+            às tragédias que você leu, e a justificativa de lá é sua."
     inserted_by: claude          # ver order_changes
 
   - work: hume--of-the-standard-of-taste

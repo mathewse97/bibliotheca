@@ -51,8 +51,13 @@ demand:
 core:
   status: declarado-fechado
   source: "collections/political-thought.md; curation-rules.md §1"
-  note: "★ do Mathews. Importância DENTRO da coleção completa. Não se
-         reconcilia com pertencer a um caminho."
+  note: "★: obra INDISPENSÁVEL dentro da coleção completa. Sem ela a
+         coleção não responde bem à própria pergunta, e nenhuma outra obra
+         dela cobre o que ela cobre. Não se reconcilia com pertencer a um
+         caminho. Quem define é o agente, com pesquisa e a justificativa de
+         cada estrela registrada na revisão da coleção (decisão do Mathews,
+         2026-10-27). As estrelas que vieram da lista dele (Política) são
+         dele: continuam, e uma discordância vira cartão."
   values: [true]
 
 # ===========================================================================
