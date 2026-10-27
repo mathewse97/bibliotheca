@@ -833,3 +833,55 @@ catálogo com aparato acadêmico.
 - *Na vinha do texto*, de Ivan Illich, é um comentário inteiro ao
   *Didascálicon*, e Illich já está na coleção. Fica anotado na obra, não
   como cartão.
+
+## 15 · Estrelas (★): as obras indispensáveis de Educação — 2026-10-27
+
+A partir de 2026-10-27 a estrela é definida pelo agente, por decisão do Mathews
+(`config/curation-rules.md` §2.9). O critério: sem a obra, a coleção não
+responde bem à própria pergunta (o que é formar um ser humano, para que fins,
+por que meios, e que respostas as tradições deram), e nenhuma outra obra da
+coleção ocupa o lugar dela.
+
+**Com estrela (8 de 22).**
+
+| Obra | Por que é indispensável |
+|---|---|
+| Marrou, *História da Educação na Antiguidade* | A única obra sobre a *paideia* grega e a formação romana, o ponto de partida de toda a linhagem. É a história de referência do assunto. |
+| Agostinho, *A Doutrina Cristã* | O texto em que o cristianismo decide o que guardar da educação clássica. Nunes narra esse momento; só Agostinho o mostra. |
+| Dewey, *Democracia e Educação* | A exposição da posição progressista por quem a formulou. Adler e Hirsch respondem a ela; sem Dewey, discutem com uma ausência. |
+| Adler, *A Proposta Paideia* | O pivô da coleção: o seu roteiro de leitura culmina em "por que Adler quer recuperá-la". |
+| Miriam Joseph, *O Trivium* | A exposição das próprias artes da linguagem: gramática, lógica e retórica. McLuhan conta a história do trivium; Joseph ensina o trivium. |
+| Adler e Van Doren, *Como Ler Livros* | O método da formação liberal feito prática por conta própria. Está no nível mais alto da auditoria pela pirâmide de Adler (§10). |
+| Illich, *Sociedade sem Escolas* | A única voz que recusa a escola como forma. Sem ela, a coleção só compara programas escolares e nunca pergunta se a escola é o meio. |
+| Newman, *A Ideia de uma Universidade* | A defesa clássica da formação liberal como fim em si mesmo, escrita quando ela já estava sendo posta em causa. Weber responde a ele. |
+
+**Sem estrela, e por quê.**
+- **Os quatro volumes de Nunes:** são o fio narrativo, um conjunto só. Valem
+  pela sequência, mas cada volume pode ser substituído por outra história da
+  educação.
+- **Jaeger, *A Inveja dos Anjos*:** aprofunda um período que Nunes já cobre.
+- **Hugo de São Vítor, *Didascálicon*:** é a segunda fonte, menos decisiva que
+  Agostinho. Entrou como a melhor escolha se a coleção tiver duas fontes, não
+  como indispensável.
+- **Ozmon e Craver:** manual que mapeia as posições; serve de mapa, não de
+  fonte.
+- **Hirsch:** um bom argumento contra a educação progressista, mas a resposta
+  central a Dewey já está em Adler.
+- **McLuhan:** a história do trivium; o trivium em si está em Miriam Joseph.
+- **Bauer e Wise:** aplicação doméstica de um programa já exposto por Adler e
+  Joseph.
+- **Weber:** a resposta negativa a Newman. É importante, mas curta e
+  dependente dele.
+- **Dehaene:** a ciência de como se aprende. Em parte, *Fixe o Conhecimento*
+  ocupa o mesmo lugar, e a região é nova na coleção. Ficou fora por pouco.
+- ***Fixe o Conhecimento* e Ahrens:** ferramentas práticas do estudo, não
+  respostas à pergunta da coleção.
+
+**A posição das duas fontes (Agostinho e Hugo).** Ficam no movimento I, ao
+lado da narrativa, e não num movimento próprio. O I segue uma ordem
+cronológica. Um movimento só de fontes teria de vir antes ou depois dele e
+separaria Agostinho do capítulo de Nunes que conta o momento dele, que é
+justamente o par que a lacuna `education--g01` pedia. Newman continua no VII:
+lá ele é a resposta à pergunta sobre a universidade, e o I termina no século
+XVII. Se o cartão `d-edu-adler-fontes` for aceito, *A República* e a
+*Política* entram do mesmo modo, no começo do I, ao lado de Marrou.

@@ -316,6 +316,11 @@ provavelmente menos de cem, não se esgotam nem com a melhor leitura possível.
   Saída, troca e redundância viram cartão em `review/decisions.yaml` e são
   decisão dele (§4, §5, §7). Obras com ★ dele nunca saem por iniciativa do
   agente.
+- **★ (indispensável):** quem define é o agente — decisão do Mathews,
+  2026-10-27. Ganha estrela a obra sem a qual a coleção não responde bem à
+  própria pergunta e cujo lugar nenhuma outra obra dela ocupa. Cada estrela
+  tem a sua razão escrita na revisão da coleção. A estrela é minoria: se
+  metade da coleção é indispensável, o critério está frouxo.
 - **Leitura parcial:** quando uma obra grande só precisa ser lida em parte
   para servir à coleção, a auditoria diz quais partes. Isso vai para a seção
   "Como ler" da obra (`config/interface-rules.md` §13).

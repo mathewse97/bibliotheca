@@ -237,6 +237,7 @@ sequence:
 
   - work: marrou--histoire-de-leducation-dans-lantiquite
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
     why_here: "É a melhor porta de entrada histórica para compreender como
                surgiu o ideal clássico de formação humana que posteriormente
@@ -261,6 +262,7 @@ sequence:
   # ACRÉSCIMO — decisão sua de 2026-10-27 (cartão d-edu-fonte, opção B).
   - work: agostinho--de-doctrina-christiana
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
     why_here: "Nunes conta como o cristianismo incorpora a tradição clássica;
                aqui ela é incorporada. No livro IV, a retórica de Cícero passa
@@ -368,6 +370,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: dewey--democracy-and-education
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "A posição progressista exposta por quem a formulou: educação
                como reconstrução contínua da experiência e como condição de
@@ -414,6 +417,7 @@ sequence:
 
   - work: adler--the-paideia-proposal
     role: pivot
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: leve
     why_here: "É o elo entre a história que você acabou de estudar e a
                recuperação moderna do ideal clássico de educação como formação
@@ -444,6 +448,7 @@ sequence:
 
   - work: miriam-joseph--the-trivium
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
     why_here: "É uma passagem da história para a prática intelectual: depois
                de conhecer a tradição do trivium, você começa a ver como essas
@@ -474,6 +479,7 @@ sequence:
   # ENTRADA NOVA — pedido seu de 2026-10-14. Posição minha, a confirmar.
   - work: adler-van-doren--how-to-read-a-book
     role: supplementary
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
     why_here_by: claude
@@ -496,6 +502,7 @@ sequence:
 
   - work: illich--deschooling-society
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "Recusa a forma escolar inteira, incluindo a do próprio Adler
                — não apenas o currículo que a escola ensina, mas a
@@ -530,6 +537,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: newman--the-idea-of-a-university
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
     why_here: "A defesa mais forte de que a universidade pode formar: o
                conhecimento liberal como fim em si, e a universidade como

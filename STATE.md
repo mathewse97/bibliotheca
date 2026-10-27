@@ -175,6 +175,15 @@ Teatro completo VI da Editora 34.
   *Didascálicon* (Vozes 2001, bilíngue, só usada; alternativa Kírion 2018),
   entram no movimento I de Educação. Posições a confirmar; ver
   `review/education.md` §14.
+- **★ agora é definida pelo agente (decisão do Mathews, 2026-10-27).**
+  Critério em `config/curation-rules.md` §2.9 e no vocabulário. Educação
+  já tem as suas 8 estrelas, com a razão de cada uma em
+  `review/education.md` §15. Faltam Oriente Próximo, Cultura,
+  Greco-Romana, Religião e Sobrevivência. Política mantém as estrelas da
+  lista do Mathews; uma discordância vira cartão.
+- **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
+  só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
+  até ele estar à venda.
 - **Romances do movimento X: edições registradas em 2026-10-09** (Etapa 1).
   O caso difícil, Koestler, foi resolvido: a Sétimo Selo publicou em 2022
   *Escuridão ao meio-dia*, traduzida do manuscrito alemão redescoberto — não
