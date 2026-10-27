@@ -213,6 +213,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: aristoteles--poietike
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: moderado
     why_here: "A primeira teoria sistemática da arte do Ocidente. Sem ela, o
                movimento começa como se a reflexão sobre a arte nascesse na
@@ -253,6 +254,7 @@ sequence:
 
   - work: kant--kritik-der-urteilskraft
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: exigente
     why_here: "A virada que funda a estética moderna: o juízo sobre o belo
                deixa de descrever o objeto e passa a descrever o estado do
@@ -266,6 +268,7 @@ sequence:
 
   - work: nietzsche--zur-genealogie-der-moral
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: exigente
     why_here: "A origem da suspeita: valores morais têm proveniência, e é
                possível perguntar a serviço de quem foram formados. Sem esta
@@ -302,6 +305,7 @@ sequence:
 
   - work: freud--das-unbehagen-in-der-kultur
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: moderado
     why_here: "A civilização exige renúncia, e a renúncia cobra um preço que
                nenhum progresso técnico paga. É metade do enxerto que a Escola
@@ -430,6 +434,7 @@ sequence:
 
   - work: adorno-horkheimer--dialektik-der-aufklaerung
     role: critical-response
+    core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: exigente
     why_here: "A explicação rival. As outras vozes atribuem a degradação da
                cultura ao abandono da tradição ou ao espetáculo; esta a

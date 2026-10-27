@@ -634,3 +634,38 @@ Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do 
    muitos para o peso que têm, mas cada um aponta uma causa diferente, que é o
    que a parte II discute. Sem cartão. O ensaio de Julio Lobo, de 2026, ainda
    não passou pelo teste do tempo; reavaliar quando houver recepção.
+
+---
+
+## Estrelas (★): as obras indispensáveis — 2026-10-27
+
+A estrela marca a obra sem a qual a coleção não responde bem à própria pergunta
+e cujo lugar nenhuma outra obra dela ocupa. Quem define é o agente (decisão do
+Mathews, 2026-10-27), a partir do papel e do nível na pirâmide de Adler
+(`config/curation-rules.md` §2.9). Uma obra A sem estrela, ou uma C com
+estrela, tem a exceção explicada abaixo.
+
+**Com estrela (5 de 16).**
+
+| Obra | Por que é indispensável |
+|---|---|
+| Aristóteles, *Poética* | A fundação da reflexão sobre o que uma obra de cultura faz: imitação, catarse, tragédia. Tudo o que vem depois responde a ela. |
+| Kant, *Crítica da Faculdade do Juízo* | A teoria sistemática do juízo de gosto e do valor da arte, e o lugar em que Kant define cultura como fim da natureza no homem. |
+| Nietzsche, *Genealogia da Moral* | Pergunta de onde vêm os valores que uma cultura tem por seus. É a única obra da coleção que põe o próprio valor em suspeita. |
+| Freud, *O Mal-Estar na Civilização* | O custo da cultura para quem vive nela. O título é a pergunta da coleção. |
+| Adorno e Horkheimer, *Dialética do Esclarecimento* | O diagnóstico da indústria cultural, a referência de toda a discussão sobre a degradação no movimento II. |
+
+**Obras A sem estrela, e por quê.**
+- **Hume, *Do Padrão do Gosto*:** um ensaio curto que Kant retoma e
+  sistematiza.
+- **Burke, *O Sublime e o Belo*:** trata de uma questão especial do gosto, que
+  Kant também trata.
+- **Weber, *A Ética Protestante*:** é um exemplo, central, de como um ethos
+  religioso molda a vida, mas a sua coleção própria é Religião, onde tem
+  estrela.
+
+**Sem estrela, nível B e C.** Suassuna (porta de entrada); Vargas Llosa,
+Scruton, Lobo e Vieira de Mello (diagnósticos da degradação que se sobrepõem
+entre si); Gregory (a tese sobre a Reforma, importante mas lateral à
+pergunta); Han ×2 (o prolongamento contemporâneo, que depende de Adorno e
+Horkheimer).

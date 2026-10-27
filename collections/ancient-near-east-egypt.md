@@ -92,6 +92,7 @@ sequence:
 
   - work: van-de-mieroop--a-history-of-the-ancient-near-east
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/ancient-near-east-egypt.md
     demand: moderado
     why_here: "O panorama de toda a região, de c. 3000 a.C. a Alexandre:
                política, sociedade, economia e fontes. É a base da coleção."
@@ -99,6 +100,7 @@ sequence:
 
   - work: van-de-mieroop--a-history-of-ancient-egypt
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/ancient-near-east-egypt.md
     demand: moderado
     why_here: "O mesmo método aplicado ao Egito, a civilização que o livro
                anterior trata só de passagem."
@@ -130,6 +132,7 @@ sequence:
   # PARTICIPAÇÃO NOVA sobre registro existente (Religião).
   - work: bottero--au-commencement-etaient-les-dieux
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/ancient-near-east-egypt.md
     demand: moderado
     why_here: "A religião mesopotâmica lida a partir dos textos cuneiformes:
                a crença como parte do funcionamento da sociedade que o
@@ -161,6 +164,7 @@ sequence:
   # PARTICIPAÇÃO NOVA sobre registro existente (Religião).
   - work: finkelstein-romer--aux-origines-de-la-torah
     role: pivot
+    core: true                  # ★ 2026-10-27, ver review/ancient-near-east-egypt.md
     demand: exigente
     why_here: "Como a Torá foi composta no contexto dos impérios assírio,
                babilônico e persa: o texto que leva essa herança ao Ocidente."

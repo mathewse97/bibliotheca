@@ -212,6 +212,7 @@ sequence:
 
   - work: eliade--histoire-des-croyances-i       # entrada 3 da lista dele
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Permite transformar o panorama geral em uma narrativa
                 histórica das religiões antigas, situando civilizações e
@@ -224,6 +225,7 @@ sequence:
 
   - work: eliade--histoire-des-croyances-ii       # entrada 4 da lista dele
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Amplia o quadro histórico para as grandes tradições religiosas
                 que se desenvolvem entre a Antiguidade clássica e o surgimento
@@ -237,6 +239,7 @@ sequence:
 
   - work: eliade--histoire-des-croyances-iii       # entrada 5 da lista dele
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Fecha a grande narrativa histórica de Eliade e leva o percurso
                 das religiões até a formação do mundo medieval e moderno."
@@ -277,6 +280,7 @@ sequence:
 
   - work: eliade--traite-dhistoire-des-religions       # entrada 7 da lista dele
     role: pivot
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Depois do panorama histórico, introduz uma maneira sistemática
                 de investigar as estruturas e manifestações recorrentes do
@@ -289,6 +293,7 @@ sequence:
 
   - work: weber--die-protestantische-ethik       # entrada 10 da lista dele
     role: comparative
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Permite compreender de maneira mais concreta como Weber
                 relaciona sistemas religiosos, comportamento social e formação
@@ -329,6 +334,7 @@ sequence:
 
   - work: epopeia-de-gilgamesh       # entrada 11 da lista dele
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: moderado
     why_here: "É uma das melhores portas de entrada para conhecer o
                 imaginário religioso do antigo Oriente Próximo diretamente
@@ -342,6 +348,7 @@ sequence:
 
   - work: enuma-elis       # entrada 12 da lista dele
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: moderado
     why_here: "Complementa *Gilgámesh* mostrando de forma mais direta como os
                 mesopotâmios concebiam a origem do mundo, dos deuses e da
@@ -395,6 +402,7 @@ sequence:
 
   - work: biblia       # entrada 30 da lista dele
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "A fonte das tradições judaica e cristã, que as obras vizinhas da coleção estudam por fora: pela arqueologia, pela história e pela crítica dos textos. Leia buscando como os livros foram compostos e reunidos, e confira na própria fonte o que Israel Finkelstein, Thomas Römer, Mark Smith e James Kugel dizem dela."
     why_here_by: claude            # 2026-10-14: a entrada estava sem texto
@@ -409,6 +417,7 @@ sequence:
 
   - work: finkelstein-romer--aux-origines-de-la-torah       # entrada 17 da lista dele
     role: pivot
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "Aprofunda a questão central de como a tradição bíblica se
                 formou historicamente e prepara o terreno para uma leitura
@@ -434,6 +443,7 @@ sequence:
 
   - work: kugel--how-to-read-the-bible       # entrada 18 da lista dele
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
     why_here: "É o momento adequado para aprender a ler a Bíblia levando
                 simultaneamente em conta seu mundo antigo e a longa tradição
@@ -499,6 +509,7 @@ sequence:
 
   - work: dhammapada       # entrada 23 da lista dele
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: leve
     why_here: "Deve ser lido como texto religioso primário, permitindo
                 confrontar a apresentação moderna de Rahula com uma fonte

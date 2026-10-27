@@ -243,6 +243,7 @@ sequence:
 
   - work: jaeger-werner--paideia
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É fundamental para compreender a paideía como projeto de
                formação integral e perceber como literatura, política,
@@ -266,6 +267,7 @@ sequence:
 
   - work: hesiodo--theogonia
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: moderado
     why_here: "É a principal porta de entrada literária para compreender como
                os gregos narravam a origem do cosmos e a estrutura do mundo
@@ -288,6 +290,7 @@ sequence:
 
   - work: homero--ilias
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "Mostra os deuses em ação dentro do mundo humano e constitui uma
                das bases literárias da cultura grega posterior."
@@ -299,6 +302,7 @@ sequence:
 
   - work: homero--odysseia
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "Expande o mundo homérico para além da guerra e apresenta uma
                forma diferente de heroísmo, baseada sobretudo na inteligência,
@@ -372,6 +376,7 @@ sequence:
 
   - work: burkert--griechische-religion
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É uma das obras centrais para compreender a religião grega como
                sistema histórico e ritual, indo muito além das narrativas
@@ -413,6 +418,7 @@ sequence:
 
   - work: esquilo--oresteia
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É uma das obras fundamentais para compreender a transformação do
                mito em reflexão sobre justiça, religião, violência e
@@ -484,6 +490,7 @@ sequence:
   # -------------------------------------------------------------------------
   - work: sofocles--oidipous-tyrannos
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "O rei que investiga um crime e descobre que o culpado é ele mesmo. Leia buscando o tema das três peças tebanas, conhecimento e cegueira: quem vê não sabe, e o adivinho cego, que sabe, não é ouvido."
     why_here_by: claude
@@ -515,6 +522,7 @@ sequence:
 
   - work: euripides--bakchai
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É particularmente importante para compreender a dimensão
                extática da religião grega e seus conflitos com as pretensões
@@ -614,6 +622,7 @@ sequence:
 
   - work: aristofanes--nephelai
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: moderado
     why_here: "Mostra como a transformação intelectual da Atenas clássica era
                percebida e satirizada no próprio ambiente político e cultural
@@ -641,6 +650,7 @@ sequence:
 
   - work: kirk-raven-schofield--the-presocratic-philosophers
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "Apresenta diretamente os filósofos que transformaram a reflexão
                sobre o cosmos em investigação racional da realidade."
@@ -669,6 +679,7 @@ sequence:
 
   - work: platao--apologia-sokratous
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: leve
     why_here: "É a melhor porta de entrada para a figura de Sócrates e para a
                filosofia como modo de vida orientado pela busca da verdade."
@@ -702,6 +713,7 @@ sequence:
   # duas participações. Ver curation-rules.md §2.7.
   - work: platao--politeia
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É o grande centro do projeto intelectual platônico e reúne
                educação, política, ética, conhecimento e metafísica."
@@ -736,6 +748,7 @@ sequence:
 
   - work: aristoteles--ethika-nikomacheia
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "Sistematiza uma das bases da ética ocidental e transforma em
                teoria filosófica questões morais já presentes na literatura e
@@ -748,6 +761,7 @@ sequence:
   # PARTICIPAÇÃO NOVA sobre registro existente (Política).
   - work: aristoteles--politika
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É a continuação natural da Ética a Nicômaco e permite
                compreender filosoficamente a estrutura política que aparece na
@@ -763,6 +777,7 @@ sequence:
 
   - work: aristoteles--ta-meta-ta-physika
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É a etapa mais abstrata do percurso e consolida a transformação
                da antiga pergunta sobre o cosmos em investigação ontológica
@@ -796,6 +811,7 @@ sequence:
 
   - work: herodoto--historiai
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É uma das fontes primárias fundamentais para perceber como os
                próprios gregos começaram a investigar historicamente homens,
@@ -819,6 +835,7 @@ sequence:
   # PARTICIPAÇÃO NOVA sobre registro existente (Política).
   - work: tucidides--historiai
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É a principal obra histórica para compreender a crise da pólis
                clássica e oferece uma análise particularmente rigorosa da
@@ -941,6 +958,7 @@ sequence:
 
   - work: epicuro--epistole-pros-menoikea
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: leve
     why_here: "Introduz a filosofia helenística como uma resposta à busca
                individual pela felicidade em um mundo politicamente
@@ -958,6 +976,7 @@ sequence:
 
   - work: beard--spqr
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: moderado
     why_here: "É a melhor transição geral para Roma porque apresenta a
                civilização romana em sua estrutura política e social antes do
@@ -979,6 +998,7 @@ sequence:
 
   - work: virgilio--aeneis
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É a grande apropriação romana da tradição épica grega e
                estabelece um contraponto latino à Ilíada e à Odisseia."
@@ -990,6 +1010,7 @@ sequence:
 
   - work: ovidio--metamorphoses
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "Funciona como uma enorme síntese literária da tradição
                mitológica clássica e como uma das principais pontes entre a
@@ -1034,6 +1055,7 @@ sequence:
 
   - work: cicero--de-officiis
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: moderado
     why_here: "Mostra como conceitos filosóficos gregos foram apropriados e
                transformados pela cultura política e moral romana."
@@ -1044,6 +1066,7 @@ sequence:
 
   - work: seneca--epistulae-morales-ad-lucilium
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: moderado
     why_here: "Apresenta o estoicismo como disciplina cotidiana voltada para a
                formação moral do indivíduo."
@@ -1120,6 +1143,7 @@ sequence:
   # PARTICIPAÇÃO NOVA sobre registro existente (Política).
   - work: agostinho--de-civitate-dei
     role: primary-source
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "A resposta cristã ao saque de Roma de 410: a fonte antiga em que
                a herança romana é julgada e reinterpretada por dentro."
@@ -1153,6 +1177,7 @@ sequence:
   # DESLOCADO da seção VII.
   - work: highet--the-classical-tradition
     role: supplementary
+    core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
     why_here: "É o primeiro grande passo para perceber que estudar Grécia e
                Roma também significa compreender a longa tradição ocidental que
