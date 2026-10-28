@@ -549,3 +549,63 @@ Lukács (ensaio da reificação); Arendt (parte III); Rawls (parte I).
 **Lacunas:** nenhuma nova. O critério confirma *O Federalista*, Nozick e *A
 Personalidade Autoritária* (já decididos, à espera de pesquisa) e *O Capital*
 (candidato em g03, levado ao cartão 6).
+
+---
+
+# 11 · Revisão das estrelas (★) — 2026-10-28
+
+Pedida pelo Mathews. Desde 2026-10-27 a estrela marca a obra indispensável e é
+definida pelo agente a partir do papel e do nível na pirâmide (§10 e
+`config/curation-rules.md` §2.9). As 27 estrelas de Política vieram da lista
+dele. Por isso a revisão **não foi aplicada**: está no cartão `d-pol-estrelas`.
+
+**Proposta: 21 estrelas em 54.**
+
+| Obra | Nível | Por que é indispensável |
+|---|---|---|
+| Platão, *A República* | A | A primeira resposta sistemática: governa quem conhece o bem. |
+| Aristóteles, *Política* | A | Os regimes, o cidadão e o governo em vista do bem comum. |
+| Confúcio, *Os Analectos* | A | Governa quem tem virtude; a única resposta chinesa. **Nova.** |
+| Ibn Khaldun, *Muqaddimah* | A | O poder nasce da coesão do grupo e decai em gerações. **Nova.** |
+| Agostinho, *A Cidade de Deus* | A | A justiça da cidade terrena julgada a partir de Deus. **Nova.** |
+| Maquiavel, *O Príncipe* | A | O pivô: o poder separado da moral. |
+| Hobbes, *Leviatã* | A | O contrato e o soberano absoluto. |
+| Locke, *Segundo Tratado* | A | O contrato e o governo limitado, com direito de resistência. |
+| Montesquieu, *O Espírito das Leis* | A | A separação dos poderes. |
+| Rousseau, *Do Contrato Social* | A | A vontade geral e a soberania popular. |
+| Burke, *Reflexões sobre a Revolução na França* | A | A legitimidade pela tradição, contra a razão abstrata. |
+| Tocqueville, *A Democracia na América* | A | A democracia vista por dentro, com a tirania da maioria. |
+| Mill, *Sobre a Liberdade* | A | O limite do poder sobre o indivíduo. |
+| Marx e Engels, *Manifesto Comunista* | A | O Estado como instrumento de classe. |
+| Weber, *A Política como Vocação* | A | O Estado pelo monopólio da força legítima e os três tipos de legitimidade, a pergunta da coleção em forma de teoria. |
+| Schmitt, *O Conceito do Político* | A | O político como distinção entre amigo e inimigo, e a decisão soberana. |
+| Arendt, *Origens do Totalitarismo* | A | O regime que destrói a própria política. |
+| Berlin, *Dois Conceitos de Liberdade* | A | As duas liberdades em disputa em todo o debate moderno. |
+| Orwell, *1984* | A | O romance do poder total, o único tratamento literário com estrela. |
+| Rawls, *Uma Teoria da Justiça* | A | A justiça como equidade, a resposta contemporânea de referência. |
+| Rothbard, *A Ética da Liberdade* | B | A única posição que nega a legitimidade de todo Estado, exposta por inteiro. |
+
+**Perdem a estrela (continuam na coleção).**
+- ***O 18 de Brumário* (B):** aplica a um caso a análise que o *Manifesto*
+  expõe.
+- ***Os Demônios* (A), *Admirável Mundo Novo* (A) e *A Fazenda dos Animais*
+  (B):** tratamentos literários. *1984* ocupa o lugar do romance do poder
+  total. O controle pelo conforto, de Huxley, tem a sua teoria em Marcuse.
+  *A Fazenda* conta a mesma revolução traída que *1984*.
+- **Popper e Aron (B):** a resposta liberal ao totalitarismo já está em
+  Arendt e Berlin.
+- **Dahl, *Sobre a Democracia* (C):** introdução; a troca pela obra madura
+  está no cartão `d-pol-adler-dahl`.
+- **Rothbard, *Anatomia do Estado*, e Hoppe (C):** resumo e aplicação da
+  posição exposta em *A Ética da Liberdade*.
+
+**Obras A sem estrela na proposta.**
+- **Tucídides:** a história da guerra entre Atenas e Esparta, com o diálogo
+  dos mélios. Ilumina a pergunta, mas é história, não resposta.
+- **Sófocles, Ésquilo e Shakespeare ×3:** tratamentos literários.
+- **Kant, *Fundamentação*:** é filosofia moral; a parte política de Kant não
+  está na coleção.
+
+**Proporção.** São 21 de 54, perto de 40%, mais do que nas outras coleções.
+Política é a coleção mais densa de grandes livros (29 A). Com Nozick e *O
+Federalista*, já decididos, o número de obras sobe e a proporção cai.

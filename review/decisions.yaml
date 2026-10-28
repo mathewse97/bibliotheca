@@ -29,6 +29,33 @@
 # ---------------------------------------------------------------------------
 
 items:
+- id: d-pol-estrelas
+  kind: colecao
+  collections: [political-thought]
+  priority: media
+  state: decidir
+  source: review/political-thought.md §11
+  question: "Rever as estrelas de Política, que hoje marcam metade da coleção?"
+  why: "A estrela marca a obra indispensável: sem ela a coleção não responde bem à pergunta (com que direito uns governam outros, e quando esse governo é legítimo), e nenhuma outra obra ocupa o lugar dela. Política tem 27 estrelas em 54 obras, todas da sua lista. Aplicando a regra, 18 continuam, 9 perdem a estrela porque outra obra já ocupa o lugar delas, e 3 obras que não tinham estrela deveriam ter. Nenhuma obra sai da coleção; só muda a marca."
+  options:
+    - {key: A, recommended: true, title: "Aplicar a revisão: 21 estrelas", effect: "Ficam 18 das suas e entram Confúcio, Ibn Khaldun e Agostinho. Perdem a estrela: *O 18 de Brumário*, *Os Demônios*, *Admirável Mundo Novo*, *A Fazenda dos Animais*, Popper, Aron, Dahl, *Anatomia do Estado* e Hoppe. Todas continuam na coleção, na mesma posição."}
+    - {key: B, title: "Só acrescentar as três", effect: "Todas as suas estrelas ficam e entram Confúcio, Ibn Khaldun e Agostinho: 30 de 54."}
+    - {key: C, title: "Manter como está", effect: "As 27 estrelas da sua lista continuam; as três obras não ganham estrela."}
+  recommendation: "as nove que perdem a estrela continuam boas leituras, mas o lugar de cada uma já é ocupado. O *Manifesto* ocupa o lugar do marxismo, que *O 18 de Brumário* aplica a um caso. *1984* ocupa o do romance sobre o poder total; *A Fazenda dos Animais* conta a mesma revolução traída, e o controle pelo conforto de Huxley já tem a sua teoria em Marcuse. Arendt e Berlin ocupam a resposta liberal ao totalitarismo, que Popper e Aron reforçam. *A Ética da Liberdade* é a exposição completa da posição libertária, que *Anatomia do Estado* resume e Hoppe aplica. *Sobre a Democracia* é uma introdução, já em cartão próprio para a troca pela obra madura de Dahl. As três que entram são as únicas respostas de fora da linha que vai de Platão a Rawls: a legitimidade pela virtude (Confúcio), pela coesão do grupo (Ibn Khaldun) e diante de Deus (Agostinho)."
+  candidates:
+    - {title: "Confúcio, Os Analectos", author: "séc. V a.C.", verdict: resolve, best: true, adds: "Governa quem tem virtude: a única resposta chinesa da coleção.", facts: ["+Ganha estrela", "Grande livro"]}
+    - {title: "Ibn Khaldun, Muqaddimah", author: "1377", verdict: resolve, best: true, adds: "O poder nasce da coesão do grupo e decai em gerações: a única teoria do ciclo dinástico.", facts: ["+Ganha estrela", "Grande livro"]}
+    - {title: "Agostinho, A Cidade de Deus", author: "413–426", verdict: resolve, best: true, adds: "A justiça da cidade terrena julgada a partir de Deus: a fundação do pensamento político cristão.", facts: ["+Ganha estrela", "Grande livro"]}
+    - {title: "Marx, O 18 de Brumário", author: "1852", verdict: complementa, adds: "Aplica a análise de classe a um golpe; o lugar do marxismo é do Manifesto.", facts: ["-Perde a estrela", "Livro de estudo"]}
+    - {title: "Dostoiévski, Os Demônios", author: "1872", verdict: complementa, adds: "O niilismo revolucionário em romance; tratamento literário, não resposta à pergunta.", facts: ["-Perde a estrela", "Grande livro"]}
+    - {title: "Huxley, Admirável Mundo Novo", author: "1932", verdict: complementa, adds: "O controle pelo prazer; a teoria dele está em Marcuse, e o romance do poder total é 1984.", facts: ["-Perde a estrela", "Grande livro"]}
+    - {title: "Orwell, A Fazenda dos Animais", author: "1945", verdict: complementa, adds: "A mesma revolução traída de 1984, em fábula curta.", facts: ["-Perde a estrela", "Livro de estudo"]}
+    - {title: "Popper, A Sociedade Aberta e Seus Inimigos", author: "1945", verdict: complementa, adds: "A crítica liberal do historicismo; o lugar da resposta liberal é de Arendt e Berlin.", facts: ["-Perde a estrela", "Livro de estudo"]}
+    - {title: "Aron, O Ópio dos Intelectuais", author: "1955", verdict: complementa, adds: "A crítica dos intelectuais marxistas; reforça a mesma resposta.", facts: ["-Perde a estrela", "Livro de estudo"]}
+    - {title: "Dahl, Sobre a Democracia", author: "1998", verdict: complementa, adds: "Introdução; a troca pela obra madura está no cartão d-pol-adler-dahl.", facts: ["-Perde a estrela", "Informação"]}
+    - {title: "Rothbard, Anatomia do Estado", author: "1974", verdict: complementa, adds: "Resumo da posição que A Ética da Liberdade expõe por inteiro.", facts: ["-Perde a estrela", "Informação"]}
+    - {title: "Hoppe, Democracia, o Deus que Falhou", author: "2001", verdict: complementa, adds: "Aplica a posição de Rothbard à democracia; já em cartão próprio.", facts: ["-Perde a estrela", "Informação"]}
+
 
 # ============================== ADICIONAR OBRA ==============================
 
