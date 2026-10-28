@@ -180,8 +180,9 @@ Teatro completo VI da Editora 34.
   tem 8 de 22 estrelas, Oriente Próximo 4 de 9, Cultura 5 de 16, Religião
   11 de 31, Sobrevivência 6 de 18 e Greco-Romana 25 de 87, cada uma com a
   razão escrita na revisão da coleção (seção "Estrelas"). Política mantém as
-  27 estrelas da lista do Mathews (27 de 54, metade da coleção); uma revisão
-  delas, por cartão, está pendente.
+  27 estrelas da lista do Mathews (27 de 54, metade da coleção). A revisão
+  está no cartão `d-pol-estrelas` (2026-10-28): proposta de 21 estrelas,
+  em `review/political-thought.md` §11.
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
