@@ -1599,7 +1599,7 @@ function vColecao(id){
           ${(s.requires||[]).length?`<div class="small" style="margin-top:3px"><span class="lock">requer</span> ${s.requires.map(r=>wLink(r)).join(', ')}</div>`:''}
           ${s.scope?`<div class="small"><span class="lock">escopo</span> ${E(s.scope)}</div>`:''}</div>
         <div class="meta">${litBadge(w, s)}
-          ${s.core?'<span class="b core">★ core</span>':''}
+          ${s.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}
           ${s.demand?`<span class="b" title="exigência de leitura">${E(s.demand)}</span>`:''}
           ${inPath?(inPath.has(s.work)?'<span class="b acc">no caminho</span>':''):''}
           ${volBadge(w)}
@@ -1862,7 +1862,7 @@ function vObra(id){
       ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
       ${m.why_here?`<div class="small muted" style="margin-top:3px">${E(m.why_here)}</div>`:''}
       ${(m.requires||[]).length?`<div class="small" style="margin-top:3px">Leia antes: ${m.requires.map(r=>wLink(r)).join(', ')}</div>`:''}</div>
-    <div class="meta">${litBadge(w, m)}${m.core?'<span class="b core">★</span>':''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
+    <div class="meta">${litBadge(w, m)}${m.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
   </div>`).join('')}</div>`
   :(w.pending_assignment?`<div class="panel"><p class="small muted" style="margin:0">Ainda sem coleção.</p></div>`:'')}
 

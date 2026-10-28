@@ -333,3 +333,43 @@ aplicável, testado, de autor com experiência real; e a pergunta de redundânci
    Dave Canterbury e Humberto Costa ensinam por inteiro.
 3. *Strategic Relocation*, de Joel Skousen: os critérios valem; as análises
    regionais são só da América do Norte.
+
+---
+
+## Estrelas (★): as obras indispensáveis — 2026-10-27
+
+A estrela marca a obra sem a qual a coleção não responde bem à própria pergunta
+e cujo lugar nenhuma outra obra dela ocupa. Quem define é o agente (decisão do
+Mathews, 2026-10-27), a partir do papel e do nível na pirâmide de Adler
+(`config/curation-rules.md` §2.9). Uma obra A sem estrela, ou uma C com
+estrela, tem a exceção explicada abaixo.
+
+Numa coleção prática, a pergunta tem partes concretas: sustentar-se, curar-se,
+abrigar-se, defender-se e orientar-se. A estrela vai para a obra que responde
+a uma delas e que nenhuma outra substitui.
+
+**Com estrela (6 de 18).**
+
+| Obra | Parte da pergunta | Por que é indispensável |
+|---|---|---|
+| Seymour, *Guia Prático da Autossuficiência* | sustentar-se | A obra mais ampla: cultivo, criação, conservação e ofícios. |
+| Kinupp e Lorenzi, *Plantas Alimentícias Não Convencionais* | sustentar-se | O que se come do mato brasileiro; nenhuma outra obra cobre. |
+| Canterbury, *Bushcraft 101* | abrigar-se, campo | A referência de técnica de campo: abrigo, fogo, água e ferramenta. |
+| Van Lengen, *Manual do Arquiteto Descalço* | abrigar-se, construção | A única obra sobre construir com o que há. |
+| Alton, *The Survival Medicine Handbook* | curar-se | O manual para quando a ajuda não vem, escolhido por você como manual principal (cartão `d-sob-medicina`). |
+| Gooley, *The Lost Art of Reading Nature's Signs* | orientar-se | Navegação e leitura do terreno pelos sinais naturais. |
+
+**Exceção: Alton é nível C e tem estrela.** A auditoria de 2026-10-14 o pôs em
+C por ser manual de consulta, mas ele ocupa um lugar que nenhuma outra obra
+ocupa: a medicina de longo prazo sem socorro. PHTLS é protocolo de trauma para
+quem fez o curso, e Schlaad trata do contexto brasileiro sem cobrir o mesmo
+campo.
+
+**Sem estrela.**
+- **Lontro e Monteiro, Costa, Becker e Dalponte, Gooley (*tempo*):** técnica
+  de campo que Canterbury e Gooley já cobrem, ou consulta de campo.
+- **Dickson, Silva e Conforto, PHTLS, Schlaad, Hoffmann, Lorenzi e Matos:**
+  partes da medicina e do socorro, cada uma estreita.
+- **Pellegrini e Moraes:** a defesa tem uma obra só, mas é técnica de tiro,
+  que se aprende com instrução e não pelo livro.
+- **Skousen:** os critérios valem, mas as análises são da América do Norte.

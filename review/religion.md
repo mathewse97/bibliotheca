@@ -908,3 +908,45 @@ Aplicação de `config/curation-rules.md` §2.9, pedida pelo Mathews. Juízo do 
    contestação (`d-rel-eliade`), as religiões específicas que só têm budismo
    (`d-rel-especificas`) e o movimento de cristianismo sem Padres da Igreja,
    escolástica nem Reforma (`d-rel-cristianismo`).
+
+---
+
+## Estrelas (★): as obras indispensáveis — 2026-10-27
+
+A estrela marca a obra sem a qual a coleção não responde bem à própria pergunta
+e cujo lugar nenhuma outra obra dela ocupa. Quem define é o agente (decisão do
+Mathews, 2026-10-27), a partir do papel e do nível na pirâmide de Adler
+(`config/curation-rules.md` §2.9). Uma obra A sem estrela, ou uma C com
+estrela, tem a exceção explicada abaixo.
+
+**Com estrela (11 de 31; os três volumes de Eliade contam como uma obra).**
+
+| Obra | Por que é indispensável |
+|---|---|
+| Eliade, *História das Crenças e das Ideias Religiosas* I–III | A única história comparada de fôlego. Armstrong e Noss e Grangaard são panoramas de nível C. |
+| Eliade, *Tratado de História das Religiões* | A teoria do fenômeno religioso, pivô do movimento II. *O Sagrado e o Profano* é o resumo dela. |
+| Weber, *A Ética Protestante* | O clássico do instrumento sociológico. Berger e Taylor dialogam com ele. |
+| *Epopeia de Gilgámesh* | A fonte mais antiga do mundo religioso mesopotâmico, sobre a morte e o limite humano. |
+| *Enuma Elish* | O mito babilônico da criação, indispensável para ler o Gênesis por comparação. |
+| Bíblia | O texto das tradições judaica e cristã. Sem ela, os movimentos III e IV ficam sem objeto. |
+| Finkelstein e Römer, *Aux origines de la Torah* | O instrumento arqueológico aplicado à formação da Bíblia. |
+| Kugel, *How to Read the Bible* | O instrumento da crítica textual, livro a livro, ao lado da leitura antiga. |
+| *Dhammapada* | A única fonte budista da coleção. |
+
+**Obras A sem estrela.** **Evangelhos:** estão contidos na Bíblia, que tem
+estrela; a participação própria serve à edição e à leitura, não a um lugar
+diferente.
+
+**Sem estrela, nível B e C, por grupo.**
+- **Armstrong, Noss e Grangaard, Dicionário:** panoramas e consulta.
+- ***O Sagrado e o Profano*:** resumo do *Tratado*.
+- **Berger e Taylor:** a secularização, um desdobramento da pergunta de Weber.
+- **Bottéro, Shaw, Kaefer e Smith:** estudos cujo lugar já é ocupado pelas
+  fontes e por Finkelstein e Römer.
+- **Ehrman e Vermes:** crítica textual do Novo Testamento, mais estreita que
+  Kugel.
+- **Rahula:** guia do *Dhammapada*.
+- **Jefferson, Xavier e João Paulo II:** testemunhos de um cristianismo, e não
+  o fenômeno.
+- ***Corpus Hermeticum*, *Tábua de Esmeralda* e Campbell:** a margem
+  esotérica e o comparativismo popular.

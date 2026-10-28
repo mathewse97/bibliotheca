@@ -207,6 +207,7 @@ sequence:
     why_here_by: claude
 
   - work: seymour--guia-pratico-da-autossuficiencia
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: moderado
     why_here: "A obra mais ampla da coleção em escopo: cultivo, criação,
                conservação, ofícios e energia doméstica num só volume."
@@ -219,6 +220,7 @@ sequence:
     why_here_by: claude
 
   - work: canterbury--bushcraft-101
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: leve
     why_here: "Bushcraft: abrigo, fogo, água e ferramenta com o que a mata dá."
     why_here_by: claude
@@ -235,6 +237,7 @@ sequence:
 
   - work: gooley--the-lost-art-of-reading-natures-signs
     role: foundational
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: leve
     why_here: "Ensina a deduzir direção, clima, água e presença de animais a
                partir do que o ambiente mostra, sem instrumento nenhum."
@@ -274,6 +277,7 @@ sequence:
   # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (cartão d-sob-medicina,
   # opção A): ocupa o lugar de Werner, que saiu da coleção (ver `excluded`).
   - work: alton--the-survival-medicine-handbook
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: moderado
     why_here: "O manual de medicina para quando a ajuda não vem: parte do
                princípio de que hospital e médico não estão disponíveis, e
@@ -356,6 +360,7 @@ sequence:
     regions: [construcao]
 
   - work: van-lengen--manual-del-arquitecto-descalzo
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: moderado
     why_here: "Arquitetura de baixo custo com técnica e material local — o
                abrigo como coisa que se faz, não que se compra."
@@ -367,6 +372,7 @@ sequence:
     regions: [agricultura]
 
   - work: kinupp-lorenzi--plantas-alimenticias-nao-convencionais-no-brasil
+    core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
     demand: moderado
     why_here: "Identificação e uso alimentar de plantas não convencionais no
                Brasil — o alimento que já está no terreno."

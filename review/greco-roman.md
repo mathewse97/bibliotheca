@@ -405,3 +405,65 @@ Tucídides (como em Política); *Metafísica* (livros I, IV, VII e XII); *Ética
 Nicômaco* (I–III, VI, VIII e X); Jaeger (volume I); Burkert (capítulos sobre
 deuses e ritual); Sêneca (seleção de cartas); Agostinho (como em Política);
 Highet e Hansen (por consulta).
+
+---
+
+## Estrelas (★): as obras indispensáveis — 2026-10-27
+
+A estrela marca a obra sem a qual a coleção não responde bem à própria pergunta
+e cujo lugar nenhuma outra obra dela ocupa. Quem define é o agente (decisão do
+Mathews, 2026-10-27), a partir do papel e do nível na pirâmide de Adler
+(`config/curation-rules.md` §2.9). Uma obra A sem estrela, ou uma C com
+estrela, tem a exceção explicada abaixo.
+
+Quase todas as 60 fontes antigas são nível A. Numa coleção assim, "toda obra A
+que é fonte central tem estrela" daria estrela a dois terços dela. Por isso a
+pergunta decisiva aqui é a segunda: o lugar é único? Quando várias obras A
+ocupam lugares parecidos (as tragédias, os diálogos de Platão, os estoicos
+romanos), a estrela vai para a que melhor representa o lugar, e as outras ficam
+sem ela, mesmo sendo grandes livros.
+
+**Com estrela (25 de 87).**
+
+| Parte | Obras com estrela |
+|---|---|
+| Formação da Grécia | Jaeger, *Paideia*: a única obra que trata a cultura grega como formação do homem, exatamente a pergunta da coleção. |
+| Poesia e mito | Homero, *Ilíada* e *Odisseia*; Hesíodo, *Teogonia*. |
+| Religião | Burkert, *Religião Grega*: a obra de referência; Mikalson é introdução, e Vernant e Veyne, interpretações. |
+| Teatro | Ésquilo, *Oresteia*; Sófocles, *Édipo Rei*; Eurípides, *As Bacantes*; Aristófanes, *As Nuvens* (a única comédia, e o retrato de Sócrates). |
+| Do mito ao logos | Kirk, Raven e Schofield, *Os Filósofos Pré-Socráticos*: são os fragmentos, a única via de acesso a eles. |
+| Platão e Aristóteles | *Apologia de Sócrates*; *A República*; *Ética a Nicômaco*; *Política*; *Metafísica*. |
+| História | Heródoto; Tucídides. |
+| Helenismo | Epicuro, *Carta a Meneceu*: a única voz epicurista. |
+| Roma | Beard, *SPQR*: a história de Roma de referência; Virgílio, *Eneida*; Ovídio, *Metamorfoses* (por onde o mito grego chegou ao Ocidente); Cícero, *Dos Deveres*; Sêneca, *Cartas a Lucílio*. |
+| Antiguidade tardia | Agostinho, *A Cidade de Deus*. |
+| Legado | Highet, *The Classical Tradition*: a única obra sobre a transmissão ao Ocidente, a última parte da pergunta. |
+
+**Obras A sem estrela, por grupo.**
+- ***Os Trabalhos e os Dias*:** Hesíodo já tem a *Teogonia*.
+- **As outras tragédias:** as outras quatro de Ésquilo, as outras duas de
+  Sófocles e as outras catorze de Eurípides. São grandes livros, mas o lugar
+  de cada autor é ocupado pela peça com estrela.
+- ***Críton*, *Fédon* e *O Banquete*:** a *Apologia* e *A República* já
+  ocupam o lugar de Platão.
+- ***Poética*:** tem estrela em Cultura, onde é fundação. Aqui é uma
+  das obras de Aristóteles, e as outras três ocupam o lugar.
+- **Plutarco:** as *Vidas* são muitas e servem de ponte para os
+  períodos; nenhuma é única.
+- **Epicteto e Marco Aurélio:** Sêneca ocupa o lugar do estoicismo romano.
+
+**Sem estrela, nível B e C.**
+- **As histórias modernas da Grécia (Osborne, Finley, Everitt e Rhodes):**
+  sobrepõem-se; nenhuma é única.
+- **Píndaro, Pseudo-Apolodoro e Grimal:** poesia lateral e consulta.
+- **Mikalson, Vernant ×2 e Veyne:** introdução e interpretações.
+- **McKirahan:** repete Kirk, Raven e Schofield.
+- **Xenofonte, *Constituição de Atenas* e Hansen:** complementam Heródoto e
+  Tucídides.
+- **Martin e Blackwell, e Chaniotis:** o helenismo, que não tem uma obra de
+  referência única.
+- **Woolf:** repete Beard.
+- **Apuleio e Vegécio:** laterais.
+- **Brown, Mitchell e Cameron:** três panoramas da Antiguidade tardia, que se
+  sobrepõem.
+- **Finley (*O Legado*) e Campbell:** Highet ocupa o lugar do legado.

@@ -66,3 +66,34 @@ modernos. Duas fontes já estão na biblioteca, em Religião: a *Epopeia de
 Gilgámesh* e o *Enuma Elish*; entram como participação, sem compra. Falta uma
 fonte sobre Estado e sociedade: o *Código de Hamurábi*. Cartão
 `d-ane-adler-fontes`.
+
+---
+
+## Estrelas (★): as obras indispensáveis — 2026-10-27
+
+A estrela marca a obra sem a qual a coleção não responde bem à própria pergunta
+e cujo lugar nenhuma outra obra dela ocupa. Quem define é o agente (decisão do
+Mathews, 2026-10-27), a partir do papel e do nível na pirâmide de Adler
+(`config/curation-rules.md` §2.9). Uma obra A sem estrela, ou uma C com
+estrela, tem a exceção explicada abaixo.
+
+**Com estrela (4 de 9).**
+
+| Obra | Por que é indispensável |
+|---|---|
+| Van De Mieroop, *A History of the Ancient Near East* | A história de referência da Mesopotâmia e do Levante até Alexandre, incluindo a Pérsia. Sem ela, a coleção não tem o quadro em que tudo o resto se apoia. |
+| Van De Mieroop, *A History of Ancient Egypt* | A única história do Egito da coleção. Shaw trata só dos mitos. |
+| Bottéro, *No começo eram os deuses* | A única obra sobre escrita e crença na Mesopotâmia, duas das cinco partes da pergunta. |
+| Finkelstein e Römer, *Aux origines de la Torah* | O pivô da passagem a Israel e ao Ocidente, a última parte da pergunta. Kaefer introduz o tema; Finkelstein e Römer mostram o método arqueológico e textual por inteiro. |
+
+**Sem estrela.** Cline (um episódio, o colapso de 1177 a.C., já dentro do
+quadro de Van De Mieroop); Brosius (a Pérsia, que Van De Mieroop também cobre,
+embora menos); Shaw e Kaefer (nível C: introduções que outra obra pode
+substituir); Smith (aprofunda a memória de Deus em Israel, que Finkelstein e
+Römer já põem em questão).
+
+**Ressalva.** Quatro de nove é proporção alta. Em parte isso vem do tamanho da
+coleção: com nove obras, cada parte da pergunta tem uma só obra. O
+cartão `d-ane-adler-fontes` (Gilgámesh, Enuma Elish, Hamurábi) mudaria
+isso. Se as fontes antigas entrarem, as estrelas devem ser revistas, porque
+uma fonte pode tomar o lugar de um estudo.
