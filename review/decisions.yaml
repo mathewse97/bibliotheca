@@ -1697,7 +1697,8 @@ items:
   kind: colecao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — as quatro viram leitura complementar.", note: "Aplicado. Everitt, Mikalson, McKirahan e Woolf ficam em Greco-Romana com a marca complementar; a sequência principal fica com Osborne e Rhodes, Burkert, Kirk-Raven-Schofield e Beard."}
   source: review/greco-roman.md §9
   question: "Quatro introduções que repetem uma obra maior da coleção: deixar como leitura complementar?"
   why: "Em quatro pontos, a coleção tem uma introdução mais leve ao lado de uma obra mais completa sobre o mesmo assunto. Pelo critério de Adler, cada obra precisa cumprir um papel que nenhuma outra cumpre, e estas quatro repetem o papel da obra maior. Nenhuma sairia da biblioteca: viram leitura opcional, para quem quiser uma entrada mais fácil. Abra a comparação abaixo para ver cada par."
@@ -1717,7 +1718,8 @@ items:
   kind: colecao
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — tirar de Greco-Romana.", note: "Aplicado. Campbell saiu de Greco-Romana (participação, caminho cronológico e a tensão com Vernant) e continua em Religião."}
   source: review/greco-roman.md §9
   question: "Tirar *O Herói de Mil Faces*, de Joseph Campbell, de Greco-Romana? Ele continua em Religião."
   why: "Livro de 1949 em que Joseph Campbell, estudioso americano de mitologia, propõe que os mitos heroicos de todas as culturas seguem um mesmo roteiro, a jornada do herói: partida, provas e retorno. Influenciou muito o cinema, mas os estudiosos de mitologia o criticam por forçar mitos muito diferentes num molde só. Não trata do mundo greco-romano em particular, e a coleção já tem quem estude o mito grego por dentro: Jean-Pierre Vernant e Paul Veyne. O livro também está na coleção Religião, onde a comparação entre culturas é o próprio assunto."

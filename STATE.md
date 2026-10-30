@@ -210,6 +210,9 @@ Teatro completo VI da Editora 34.
     revisões.
   - Em Religião, Armstrong e Noss e Grangaard viraram leitura
     complementar (`d-rel-adler-panoramas`).
+  - Em Greco-Romana, Campbell saiu da coleção (continua em Religião), e
+    Everitt, Mikalson, McKirahan e Woolf viraram leitura complementar
+    (`d-greco-adler-campbell`, `d-greco-adler-introducoes`).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

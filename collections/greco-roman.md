@@ -160,7 +160,17 @@ scope_map:
        note: "Como a Antiguidade foi lida, apropriada e reinterpretada depois
               de si mesma — e as teorias modernas que a usam como material."}
 
-excluded: []
+excluded:
+  - work: campbell--the-hero-with-a-thousand-faces
+    title_as_listed: "O Herói de Mil Faces"
+    reason: "Não trata do mundo greco-romano em particular: propõe um roteiro
+             comum a todos os mitos heroicos, e é criticado por forçar mitos
+             diferentes num molde só. A pergunta dele tem lugar em Religião,
+             onde continua. Saiu junto a tensão Campbell × Vernant."
+    by: voce
+    date: 2026-10-30
+    card: d-greco-adler-campbell
+    note: "Continua em Religião; nada saiu da biblioteca."
 
 # ===========================================================================
 # SEQUÊNCIA
@@ -232,6 +242,7 @@ sequence:
                       sociedade, politica, organizacao-da-vida-grega]
 
   - work: everitt--the-rise-of-athens
+    optional: true              # leitura complementar — cartão d-greco-adler-introducoes (2026-10-30)
     role: foundational
     demand: leve
     why_here: "Concentra o panorama na pólis que se tornaria o principal centro
@@ -365,6 +376,7 @@ sequence:
     regions: [religiao-e-culto]
 
   - work: mikalson--ancient-greek-religion
+    optional: true              # leitura complementar — cartão d-greco-adler-introducoes (2026-10-30)
     role: foundational
     demand: moderado
     why_here: "É uma introdução sistemática à religião grega propriamente dita
@@ -660,6 +672,7 @@ sequence:
                       primeiros-modelos-racionais]
 
   - work: mckirahan--philosophy-before-socrates
+    optional: true              # leitura complementar — cartão d-greco-adler-introducoes (2026-10-30)
     role: supplementary
     demand: moderado
     why_here: "Complementa Kirk, Raven e Schofield com uma abordagem
@@ -987,6 +1000,7 @@ sequence:
                       religiao, cidadania, guerra, expansao]
 
   - work: woolf--rome-an-empires-story
+    optional: true              # leitura complementar — cartão d-greco-adler-introducoes (2026-10-30)
     role: supplementary
     demand: moderado
     why_here: "Complementa SPQR deslocando o foco para o funcionamento e a
@@ -1187,21 +1201,6 @@ sequence:
     subjects_stated: [literatura, educacao, humanismo, renascimento,
                       classicismo, transmissao-greco-romana]
 
-  - work: campbell--the-hero-with-a-thousand-faces
-    role: critical-response
-    demand: moderado
-    why_here: "Funciona melhor depois das fontes clássicas porque permite
-               avaliar criticamente sua tentativa de encontrar padrões
-               universais nos mitos."
-    why_here_by: voce
-    perspective: "Mitologia comparada e teoria do mito."
-    subjects_stated: [jornada-do-heroi, iniciacao, simbolos, arquetipos,
-                      transformacao, estruturas-narrativas-recorrentes]
-    scope: "Único membro cujo objeto não é greco-romano. Entra pelo quarto
-            critério de inclusão — teoria que o acervo usa para ler o material
-            —, e a sua própria nota já o trata como objeto de avaliação e não
-            como autoridade."
-
 # ===========================================================================
 # CAMINHOS
 # ===========================================================================
@@ -1270,8 +1269,7 @@ paths:
             hansen--the-athenian-democracy-in-the-age-of-demosthenes,
             beard--spqr, woolf--rome-an-empires-story,
             grimal--dictionnaire-de-la-mythologie-grecque-et-romaine,
-            finley--the-legacy-of-greece, highet--the-classical-tradition,
-            campbell--the-hero-with-a-thousand-faces]
+            finley--the-legacy-of-greece, highet--the-classical-tradition]
 
 # ===========================================================================
 # TENSÕES — desacordos reais entre membros, preservados e não sintetizados
@@ -1295,12 +1293,6 @@ tensions:
     positions:
       - {work: vernant--mythe-et-religion-en-grece-ancienne, answer: "A estrutura social e mental que o mito articula: religião e cidade são inseparáveis."}
       - {work: burkert--griechische-religion, answer: "A continuidade histórica do ritual, com raízes muito anteriores à cidade."}
-  - a: campbell--the-hero-with-a-thousand-faces
-    b: vernant--les-origines-de-la-pensee-grecque
-    about: "Os mitos gregos são variações de um padrão universal, ou produtos de uma sociedade e de uma época?"
-    positions:
-      - {work: campbell--the-hero-with-a-thousand-faces, answer: "De um padrão universal: a jornada do herói, enraizada na psique humana, se repete em todas as culturas."}
-      - {work: vernant--les-origines-de-la-pensee-grecque, answer: "De uma configuração histórica: o pensamento grego nasce da cidade e do seu espaço público, e universalizá-lo apaga o que o torna grego."}
   - a: aristofanes--nephelai
     b: platao--apologia-sokratous
     about: "Quem era Sócrates?"
