@@ -207,7 +207,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção B — quero sugestões.", note: "As sugestões estão no cartão d-rel-cristianismo-opcoes: uma obra para cada parte que a frase do movimento promete (Padres, história da Igreja, escolástica, Reforma), mais um guia de conjunto."}
   source: religion--g03
   question: "O movimento \"Cristianismo\" deve ter o cristianismo como assunto próprio?"
   why: "A frase dele promete Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. Hoje o movimento tem a Bíblia de Jefferson, as cartas de Francisco Xavier e *Cruzando o Limiar da Esperança* — nenhum Padre da Igreja, nenhuma escolástica, nenhuma Reforma."
@@ -217,6 +218,32 @@ items:
     - {key: C, title: "Agora não", effect: "Nada muda."}
     - {key: D, title: "Manter como está", effect: "O movimento fica deliberadamente parcial; a questão é arquivada."}
   recommendation: "é o primeiro passo sem custo: um Padre da Igreja que você já tem, e um dos mais importantes."
+
+- id: d-rel-cristianismo-opcoes
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: religion--g03
+  question: "Quais obras dão ao movimento \"Cristianismo\" os Padres, a história da Igreja, a escolástica e a Reforma?"
+  why: "A frase do movimento VI promete cristianismo primitivo, Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. O cristianismo primitivo já está no movimento IV (Evangelhos, Ehrman, Vermes) e a teologia aparece nos Padres e na escolástica. Faltam quatro coisas. Para cada uma escolhi uma fonte primária curta ou já na biblioteca, porque a coleção estuda a religião pelas fontes e pelos instrumentos, não por uma tradição. Weber, *A Ética Protestante*, já cobre as consequências da Reforma; falta a Reforma em si."
+  options:
+    - {key: A, recommended: true, title: "As quatro fontes", effect: "Entram: *A Cidade de Deus*, de Agostinho (já está na biblioteca, sem compra); a *História Eclesiástica*, de Eusébio; o *Proslógio*, de Anselmo; e *Da Liberdade do Cristão*, de Lutero. Eu pesquiso e registro a melhor edição de cada uma."}
+    - {key: B, title: "As quatro fontes e um guia de conjunto", effect: "As mesmas quatro, mais *A History of Christianity*, de Diarmaid MacCulloch, a história do cristianismo de referência, em inglês (não achei tradução em português; há uma em espanhol)."}
+    - {key: C, title: "Só *A Cidade de Deus*", effect: "Entra a obra que já está na biblioteca, sem compra. Escolástica, Reforma e história da Igreja continuam de fora."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "uma fonte por parte cobre a promessa da frase sem inchar a coleção: são quatro obras, três delas curtas, e uma já é sua. Agostinho é a fundação da teologia cristã; Eusébio, a primeira história da Igreja, escrita por quem viveu o fim das perseguições; Anselmo mostra o método da escolástica em poucas páginas (a fé que busca entender, e o argumento ontológico); Lutero, o centro da Reforma em um tratado curto. O guia de MacCulloch é excelente, mas é grande e, em português, não o encontrei: vale se você quiser o quadro inteiro, inclusive o cristianismo oriental, que nenhuma das quatro cobre."
+  composition: true
+  candidates:
+    - {title: "A Cidade de Deus", author: "Agostinho · 413–426", verdict: resolve, best: true, adds: "A fundação da teologia cristã da história: a cidade de Deus e a cidade terrena. Padre da Igreja.", facts: ["+Já na biblioteca (Política)", "+Sem compra", "Leitura por partes"]}
+    - {title: "História Eclesiástica", author: "Eusébio de Cesareia · c. 325", verdict: resolve, best: true, adds: "A primeira história da Igreja, de Jesus a Constantino, escrita por um bispo da época. É fonte e é história ao mesmo tempo.", facts: ["+Paulus, Patrística vol. 15", "Edição a pesquisar"]}
+    - {title: "Proslógio", author: "Anselmo de Cantuária · 1078", verdict: resolve, best: true, adds: "A escolástica em semente: a fé que busca entender e o argumento ontológico, com a objeção de Gaunilo.", facts: ["+Curto", "+Edição bilíngue em português (Concreta)"]}
+    - {title: "Da Liberdade do Cristão", author: "Martinho Lutero · 1520", verdict: resolve, best: true, adds: "O núcleo da Reforma: a justificação pela fé e a liberdade do cristão, em um tratado curto.", facts: ["+Curto", "+Editora Unesp, bilíngue"]}
+    - {title: "A History of Christianity", author: "Diarmaid MacCulloch · 2009", verdict: complementa, adds: "A história do cristianismo de referência em um volume, inclusive o cristianismo oriental e o moderno.", facts: ["-Sem tradução em português encontrada", "-Cerca de 1.200 páginas"]}
+    - {title: "Institutas da Religião Cristã", author: "João Calvino · 1536–1559", verdict: complementa, adds: "A teologia sistemática da Reforma; Lutero já ocupa o lugar da Reforma.", facts: ["-Volumosa"]}
+    - {title: "A Filosofia na Idade Média", author: "Étienne Gilson · 1922", verdict: complementa, adds: "O guia clássico da escolástica; útil, mas grande (968 páginas) e caro.", facts: ["-968 páginas", "-Impressão sob demanda"]}
+    - {title: "História Ilustrada do Cristianismo", author: "Justo L. González · 1978–", verdict: outra, adds: "A história da Igreja mais usada em português, mas escrita para seminários protestantes; a coleção pede um estudo sem perspectiva confessional.", facts: ["+Em português", "-Perspectiva confessional"]}
+    - {title: "Introdução ao Cristianismo", author: "Joseph Ratzinger · 1968", verdict: outra, adds: "Teologia católica do Credo. A coleção já tem uma voz papal (João Paulo II).", facts: ["-Repete a perspectiva de João Paulo II"]}
 
 - id: d-greco-romanas
   kind: obra
