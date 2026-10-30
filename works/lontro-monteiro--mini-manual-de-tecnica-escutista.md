@@ -36,7 +36,15 @@ derived_from:
   transcribed: [title_pt, authors]
   note: "Entrou pela sua lista da coleção Sobrevivência/Autossuficiência, identificada por você como «Coleção Hipopótamo»."
 
-updated: 2026-10-14
+pending_assignment:
+  reason: "Decisão sua de 2026-10-30 (cartão d-sob-adler-repetidos): saiu de
+           `survival-self-sufficiency`, porque resume o que Dave Canterbury e
+           Humberto Costa ensinam por inteiro. O registro e a publicação ficam
+           no acervo."
+  candidate_collections: []
+  decide_when: "Se o Mathews quiser um manual de bolso para levar a campo."
+
+updated: 2026-10-30
 ---
 
 ## Sobre a obra

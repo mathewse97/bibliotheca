@@ -1768,7 +1768,8 @@ items:
   kind: colecao
   collections: [survival-self-sufficiency]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Resposta própria: Hoffmann e Skousen viram consulta complementar; o Mini Manual sai da coleção.", note: "Aplicado. Hoffmann e Skousen ficam em Sobrevivência com a marca complementar (campo optional, novo; selo na tela, fora da próxima leitura). O Mini Manual de Técnica Escutista saiu da coleção, como na opção B, porque Canterbury e Costa ensinam por inteiro o que ele resume; o registro continua no acervo, sem coleção."}
   source: "review/survival-self-sufficiency.md §9"
   question: "Três manuais de Sobrevivência que repetem outros ou servem pouco ao Brasil: deixar como consulta complementar?"
   why: "Pelo critério de Adler para livros práticos, um manual vale se é aplicável e se cumpre uma função que nenhum outro da coleção cumpre. Três ficam fracos nesse teste: o guia de ervas de David Hoffmann, britânico, ao lado do livro técnico de plantas medicinais brasileiras de Harri Lorenzi e F. J. Abreu Matos; o *Mini Manual de Técnica Escutista*, português, que resume o que Dave Canterbury e Humberto Costa ensinam por inteiro; e *Strategic Relocation*, de Joel Skousen, cujas análises de região são só da América do Norte."
@@ -1897,7 +1898,8 @@ items:
   kind: posicao
   collections: [education]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — confirmar aqui.", note: "Aplicado. A posição deixa de ser provisória: saiu o placement_status a-confirmar da participação. Nada se move."}
   work: adler-van-doren--how-to-read-a-book
   collection: education
   question: "*Como Ler Livros*, de Mortimer Adler e Charles Van Doren, fica em Educação, na parte sobre a prática, depois de *A Mente Bem Treinada*?"

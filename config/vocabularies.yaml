@@ -60,6 +60,15 @@ core:
          dele: continuam, e uma discordância vira cartão."
   values: [true]
 
+optional:
+  status: declarado-fechado
+  source: "decisão do Mathews, 2026-10-30 (cartão d-sob-adler-repetidos)"
+  note: "Consulta complementar: a obra fica na coleção, mas não é passo da
+         sequência. Na tela aparece com o selo 'complementar' e não é
+         sugerida como próxima leitura. Distinto de sair da coleção
+         (`excluded`)."
+  values: [true]
+
 # ===========================================================================
 # COLEÇÃO
 # ===========================================================================

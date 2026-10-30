@@ -556,6 +556,7 @@ def build():
                     "n": n, "movement": movement,
                     "role": e.get("role"), "demand": e.get("demand"),
                     "core": bool(e.get("core")), "scope": e.get("scope"),
+                    "optional": bool(e.get("optional")),
                     "why_here": e.get("why_here"), "why_here_by": e.get("why_here_by"),
                     "requires": e.get("requires") or [],
                     "publication_pref": e.get("publication_pref"),

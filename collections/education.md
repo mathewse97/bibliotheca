@@ -520,7 +520,6 @@ sequence:
     demand: moderado
     why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
     why_here_by: claude
-    placement_status: a-confirmar
     inserted_by: claude
     publication_pref: pub--kirion--como-ler-livros--2025
 
