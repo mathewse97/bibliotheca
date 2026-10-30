@@ -121,6 +121,10 @@ scope_map:
        note: "A religião como fato social: legitimação, instituição,
              secularização e efeito histórico das éticas religiosas."}
     - {id: antropologia-e-etnografia-da-religiao, coverage: absent, pursuit: open,
+       coverage_note: "2026-10-30: Durkheim trabalha com a etnografia do
+                       totemismo australiano, mas de segunda mão, sem campo
+                       próprio. `coverage` continua `absent` até você revisar
+                       — detecção, não decisão.",
        note: "O estudo da religião por trabalho de campo e comparação
              etnográfica, distinto da fenomenologia e da sociologia. A seção
              II declara antropologia; o acervo não a cobre."}
@@ -266,6 +270,41 @@ sequence:
               filosofia."
     purpose_by: voce
     regions: [teoria-e-metodo-do-fenomeno-religioso, sociologia-da-religiao]
+
+  # ACRÉSCIMO — decisão sua de 2026-10-30 (cartão d-rel-adler-classicos,
+  # opção A): os três fundadores, antes de Eliade.
+  - work: otto--das-heilige
+    role: foundational
+    core: true                  # ★ 2026-10-30, ver review/religion.md
+    demand: moderado
+    why_here: "A experiência do sagrado descrita por dentro: o numinoso, que
+               ao mesmo tempo faz tremer e atrai. É o ponto de partida
+               declarado de Eliade, que vem logo a seguir."
+    why_here_by: claude
+    perspective: "fenomenologia da religião."
+    publication_pref: pub--vozes--o-sagrado--2007
+
+  - work: durkheim--les-formes-elementaires
+    role: foundational
+    core: true                  # ★ 2026-10-30, ver review/religion.md
+    demand: exigente
+    why_here: "A religião explicada pela sociedade: ao cultuar o sagrado, o
+               grupo cultua a si mesmo. Funda a sociologia da religião, que
+               Weber e Berger continuam."
+    why_here_by: claude
+    perspective: "sociologia da religião."
+    publication_pref: pub--martins-fontes--as-formas-elementares-da-vida-religiosa--1996
+
+  - work: william-james--varieties-of-religious-experience
+    role: foundational
+    core: true                  # ★ 2026-10-30, ver review/religion.md
+    demand: moderado
+    why_here: "A religião estudada pela psicologia, a partir da experiência
+               pessoal: conversão, misticismo, santidade. É o terceiro caminho
+               dos fundadores, que a coleção não tinha."
+    why_here_by: claude
+    perspective: "psicologia da religião."
+    publication_pref: pub--cultrix--as-variedades-da-experiencia-religiosa--2017
 
   - work: eliade--das-heilige-und-das-profane       # entrada 8 da lista dele
     role: foundational

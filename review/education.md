@@ -885,3 +885,23 @@ justamente o par que a lacuna `education--g01` pedia. Newman continua no VII:
 lá ele é a resposta à pergunta sobre a universidade, e o I termina no século
 XVII. Se o cartão `d-edu-adler-fontes` for aceito, *A República* e a
 *Política* entram do mesmo modo, no começo do I, ao lado de Marrou.
+
+### Estrelas revistas — 2026-10-30
+
+Entraram *A República* e a *Política* (cartão `d-edu-adler-fontes`, opção A),
+no começo do movimento I, antes de Marrou.
+- ***A República* ganha estrela.** É o texto que funda o ideal clássico de
+  formação, e Marrou e Jaeger o estudam.
+- **A *Política* fica sem estrela.** Só dois livros dela (VII e VIII) tratam
+  de educação, e o lugar da fonte antiga já é ocupado por Platão.
+
+Ficam 9 de 24.
+
+### Estrela do *Emílio* — 2026-10-30
+
+O *Emílio* entrou no movimento II, antes de Dewey (cartão
+`d-edu-adler-emilio`, opção A). Ganhou estrela: é a voz original da educação
+centrada na criança, a posição que Dewey herda e que Adler e Hirsch combatem,
+e nenhuma outra obra da coleção ocupa esse lugar. Dewey mantém a estrela,
+porque o lugar dele é outro: a educação como preparação para a democracia.
+Ficam 10 de 25.

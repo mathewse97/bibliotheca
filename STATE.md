@@ -71,12 +71,12 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-21): 21 obras.**
-  Recomendadas: 214 publicações; alternativas: 9. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (7): Maquiavel (`d-ed-maquiavel`),
-    Rousseau (`d-ed-rousseau`), Montesquieu (`d-ed-montesquieu-unesp`),
-    Cícero (`d-ed-cicero`), Tomás de Aquino (`d-ed-aquino`), Popper
-    (`d-ed-popper`), Berlin (`d-ed-berlin`).
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-30): 20 obras.**
+  Recomendadas: 223 publicações; alternativas: 12. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (6): Rousseau (`d-ed-rousseau`),
+    Montesquieu (`d-ed-montesquieu-unesp`), Cícero (`d-ed-cicero`), Tomás
+    de Aquino (`d-ed-aquino`), Popper (`d-ed-popper`), Berlin
+    (`d-ed-berlin`).
   - *Tradutor conhecido, falta comparar com o original* (4): Rothbard
     (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
     Instituto Mises Brasil, cujos PDFs são gratuitos; Aron/Vide (Christian
@@ -183,6 +183,22 @@ Teatro completo VI da Editora 34.
   27 estrelas da lista do Mathews (27 de 54, metade da coleção). A revisão
   está no cartão `d-pol-estrelas` (2026-10-28): proposta de 21 estrelas,
   em `review/political-thought.md` §11.
+- **Três cartões aplicados (2026-10-30):**
+  - Religião ganhou Otto, Durkheim e William James (`d-rel-adler-classicos`).
+  - Educação ganhou *A República* e a *Política* (`d-edu-adler-fontes`).
+  - Oriente Próximo ganhou Gilgámesh, Enuma Elish e o *Código de Hamurábi*
+    (`d-ane-adler-fontes`).
+
+  As estrelas das três coleções foram revistas na mesma hora.
+- **Mais cartões aplicados (2026-10-30):**
+  - Política ficou com 21 estrelas (`d-pol-estrelas`).
+  - O *Emílio* entrou em Educação (`d-edu-adler-emilio`).
+  - As *Notas* de Eliot entraram em Cultura (`d-cult-adler-eliot`).
+  - *O Príncipe* passou à edição bilíngue da Editora 34 (`d-ed-maquiavel`).
+  - Greco-Romana pediu sugestões de arte e arqueologia; estão no cartão
+    `d-greco-material-opcoes`.
+  - Greco-Romana pediu sugestões de historiadores antigos de Roma; estão no
+    cartão `d-greco-romanas-opcoes` (Políbio e Tácito recomendados).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

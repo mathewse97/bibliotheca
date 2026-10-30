@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: maquiavel--il-principe
     why: "Sua indicação: a tradução de Maurício Santana Dias, feita direto do italiano, e não de outra tradução. À venda nova; ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Confere com a sua indicação. Comparada em 2026-10-17 com a bilíngue da Editora 34 (trad. Diogo Pires Aurélio); a escolha está no cartão d-ed-maquiavel."
+    verdict: alternative
+    reason: "Era a sua indicação. No cartão d-ed-maquiavel (2026-10-30) você escolheu a bilíngue da Editora 34; esta fica como alternativa: tradução fluente de Maurício Santana Dias, direta do italiano, em português do Brasil, com prefácio de Fernando Henrique Cardoso e introdução de Anthony Grafton."
     translator: ["Maurício Santana Dias"]
     translated_from: direct
     source_text: null
@@ -83,7 +83,7 @@ provenance:
     retrieved: 2026-09-23
     confidence: reported
 
-updated: 2026-10-17
+updated: 2026-10-30
 ---
 
 ## Avaliação

@@ -128,7 +128,8 @@ scope_map:
        coverage: covered, pursuit: open,
        held_by: [nietzsche--zur-genealogie-der-moral,
                  freud--das-unbehagen-in-der-kultur,
-                 weber--die-protestantische-ethik],
+                 weber--die-protestantische-ethik,
+                 eliot--notes-towards-the-definition-of-culture],
        note: "O conceito de cultura como tal: antropologia, transmissão,
               tradição como mecanismo. Distinto de julgá-la."}
     - {id: critica-conservadora, wing: critica-da-cultura-moderna,
@@ -315,6 +316,18 @@ sequence:
     publication_pref: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011   # decisão sua, 2026-10-10 (d-ed-freud)
 
 
+  # ACRÉSCIMO — decisão sua de 2026-10-30 (cartão d-cult-adler-eliot, opção A).
+  - work: eliot--notes-towards-the-definition-of-culture
+    role: foundational
+    core: true                  # ★ 2026-10-30, ver review/culture.md
+    demand: moderado
+    why_here: "O livro que responde de frente à pergunta da coleção: a
+               cultura como modo de vida inteiro, transmitido pela família,
+               pelas classes e pelas regiões, e o que acontece quando essa
+               transmissão se rompe. Os diagnósticos do movimento II
+               dialogam com ele."
+    why_here_by: claude
+    publication_pref: pub--e-realizacoes--notas-para-a-definicao-de-cultura--2011
   - movement: "II. O diagnóstico da degradação, e a disputa pela causa"
     purpose: "Todos concordam que algo se perdeu; discordam do que causou a
               perda. É essa discordância que faz da coleção um argumento e não

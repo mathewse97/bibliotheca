@@ -33,7 +33,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — aplicar a revisão: 21 estrelas.", note: "Aplicado. Perderam a estrela O 18 de Brumário, Os Demônios, Admirável Mundo Novo, A Fazenda dos Animais, Popper, Aron, Dahl, Anatomia do Estado e Hoppe; ganharam Confúcio, Ibn Khaldun e Agostinho. Nenhuma obra mudou de lugar."}
   source: review/political-thought.md §11
   question: "Rever as estrelas de Política, que hoje marcam metade da coleção?"
   why: "A estrela marca a obra indispensável: sem ela a coleção não responde bem à pergunta (com que direito uns governam outros, e quando esse governo é legítimo), e nenhuma outra obra ocupa o lugar dela. Política tem 27 estrelas em 54 obras, todas da sua lista. Aplicando a regra, 18 continuam, 9 perdem a estrela porque outra obra já ocupa o lugar delas, e 3 obras que não tinham estrela deveriam ter. Nenhuma obra sai da coleção; só muda a marca."
@@ -207,7 +208,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção B — quero sugestões.", note: "As sugestões estão no cartão d-rel-cristianismo-opcoes: uma obra para cada parte que a frase do movimento promete (Padres, história da Igreja, escolástica, Reforma), mais um guia de conjunto."}
   source: religion--g03
   question: "O movimento \"Cristianismo\" deve ter o cristianismo como assunto próprio?"
   why: "A frase dele promete Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. Hoje o movimento tem a Bíblia de Jefferson, as cartas de Francisco Xavier e *Cruzando o Limiar da Esperança* — nenhum Padre da Igreja, nenhuma escolástica, nenhuma Reforma."
@@ -218,11 +220,38 @@ items:
     - {key: D, title: "Manter como está", effect: "O movimento fica deliberadamente parcial; a questão é arquivada."}
   recommendation: "é o primeiro passo sem custo: um Padre da Igreja que você já tem, e um dos mais importantes."
 
+- id: d-rel-cristianismo-opcoes
+  kind: obra
+  collections: [religion]
+  priority: alta
+  state: decidir
+  source: religion--g03
+  question: "Quais obras dão ao movimento \"Cristianismo\" os Padres, a história da Igreja, a escolástica e a Reforma?"
+  why: "A frase do movimento VI promete cristianismo primitivo, Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. O cristianismo primitivo já está no movimento IV (Evangelhos, Ehrman, Vermes) e a teologia aparece nos Padres e na escolástica. Faltam quatro coisas. Para cada uma escolhi uma fonte primária curta ou já na biblioteca, porque a coleção estuda a religião pelas fontes e pelos instrumentos, não por uma tradição. Weber, *A Ética Protestante*, já cobre as consequências da Reforma; falta a Reforma em si."
+  options:
+    - {key: A, recommended: true, title: "As quatro fontes", effect: "Entram: *A Cidade de Deus*, de Agostinho (já está na biblioteca, sem compra); a *História Eclesiástica*, de Eusébio; o *Proslógio*, de Anselmo; e *Da Liberdade do Cristão*, de Lutero. Eu pesquiso e registro a melhor edição de cada uma."}
+    - {key: B, title: "As quatro fontes e um guia de conjunto", effect: "As mesmas quatro, mais *A History of Christianity*, de Diarmaid MacCulloch, a história do cristianismo de referência, em inglês (não achei tradução em português; há uma em espanhol)."}
+    - {key: C, title: "Só *A Cidade de Deus*", effect: "Entra a obra que já está na biblioteca, sem compra. Escolástica, Reforma e história da Igreja continuam de fora."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "uma fonte por parte cobre a promessa da frase sem inchar a coleção: são quatro obras, três delas curtas, e uma já é sua. Agostinho é a fundação da teologia cristã; Eusébio, a primeira história da Igreja, escrita por quem viveu o fim das perseguições; Anselmo mostra o método da escolástica em poucas páginas (a fé que busca entender, e o argumento ontológico); Lutero, o centro da Reforma em um tratado curto. O guia de MacCulloch é excelente, mas é grande e, em português, não o encontrei: vale se você quiser o quadro inteiro, inclusive o cristianismo oriental, que nenhuma das quatro cobre."
+  composition: true
+  candidates:
+    - {title: "A Cidade de Deus", author: "Agostinho · 413–426", verdict: resolve, best: true, adds: "A fundação da teologia cristã da história: a cidade de Deus e a cidade terrena. Padre da Igreja.", facts: ["+Já na biblioteca (Política)", "+Sem compra", "Leitura por partes"]}
+    - {title: "História Eclesiástica", author: "Eusébio de Cesareia · c. 325", verdict: resolve, best: true, adds: "A primeira história da Igreja, de Jesus a Constantino, escrita por um bispo da época. É fonte e é história ao mesmo tempo.", facts: ["+Paulus, Patrística vol. 15", "Edição a pesquisar"]}
+    - {title: "Proslógio", author: "Anselmo de Cantuária · 1078", verdict: resolve, best: true, adds: "A escolástica em semente: a fé que busca entender e o argumento ontológico, com a objeção de Gaunilo.", facts: ["+Curto", "+Edição bilíngue em português (Concreta)"]}
+    - {title: "Da Liberdade do Cristão", author: "Martinho Lutero · 1520", verdict: resolve, best: true, adds: "O núcleo da Reforma: a justificação pela fé e a liberdade do cristão, em um tratado curto.", facts: ["+Curto", "+Editora Unesp, bilíngue"]}
+    - {title: "A History of Christianity", author: "Diarmaid MacCulloch · 2009", verdict: complementa, adds: "A história do cristianismo de referência em um volume, inclusive o cristianismo oriental e o moderno.", facts: ["-Sem tradução em português encontrada", "-Cerca de 1.200 páginas"]}
+    - {title: "Institutas da Religião Cristã", author: "João Calvino · 1536–1559", verdict: complementa, adds: "A teologia sistemática da Reforma; Lutero já ocupa o lugar da Reforma.", facts: ["-Volumosa"]}
+    - {title: "A Filosofia na Idade Média", author: "Étienne Gilson · 1922", verdict: complementa, adds: "O guia clássico da escolástica; útil, mas grande (968 páginas) e caro.", facts: ["-968 páginas", "-Impressão sob demanda"]}
+    - {title: "História Ilustrada do Cristianismo", author: "Justo L. González · 1978–", verdict: outra, adds: "A história da Igreja mais usada em português, mas escrita para seminários protestantes; a coleção pede um estudo sem perspectiva confessional.", facts: ["+Em português", "-Perspectiva confessional"]}
+    - {title: "Introdução ao Cristianismo", author: "Joseph Ratzinger · 1968", verdict: outra, adds: "Teologia católica do Credo. A coleção já tem uma voz papal (João Paulo II).", facts: ["-Repete a perspectiva de João Paulo II"]}
+
 - id: d-greco-romanas
   kind: obra
   collections: [greco-roman]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — quero sugestões.", note: "A comparação está no cartão d-greco-romanas-opcoes."}
   source: greco-roman--g01
   question: "Incluir em Greco-Romana fontes antigas sobre a história de Roma?"
   why: "A coleção tem oito obras de história grega, três delas fontes antigas (como Heródoto e Tucídides). Para Roma, tem só dois historiadores modernos (Beard, Woolf). Você lê como os gregos narraram a si mesmos, mas não como os romanos o fizeram."
@@ -232,11 +261,33 @@ items:
     - {key: C, title: "Descartar", effect: "Roma continua presente só pela literatura, pela moral e pelos historiadores modernos."}
   recommendation: "é a assimetria mais forte do acervo. Atenção: incluir várias fontes romanas é justamente o que reabre a questão de dividir a coleção em Grécia e Roma (ver os itens aguardando)."
 
+- id: d-greco-romanas-opcoes
+  kind: obra
+  collections: [greco-roman]
+  priority: alta
+  state: decidir
+  source: greco-roman--g01
+  question: "Quais historiadores antigos trazem para Greco-Romana a história de Roma contada pelos próprios antigos?"
+  why: "Comparei os cinco candidatos. Tito Lívio, Tácito e Suetônio só têm em português traduções fora de catálogo, que se acham usadas: as de Tácito são dos anos 1950 e 1960, e a de Tito Lívio, de 1989. Salústio tem uma edição nova (Hedra, 2018), cujo tradutor não consegui confirmar. Políbio tem uma tradução acadêmica nova e anotada, mas só dos livros I a V. Por isso, a melhor combinação mistura um em português e um em inglês."
+  options:
+    - {key: A, recommended: true, title: "Políbio e Tácito", effect: "Políbio, *História Pragmática*, livros I a V (Perspectiva, 2016, trad. Breno Battistin Sebastiani, professor de grego da USP): como Roma chegou a dominar o Mediterrâneo, contado por um grego que viveu entre os romanos. Tácito, *Anais*: o principado de Tibério a Nero, na tradução inglesa da Oxford World's Classics (J. C. Yardley, com notas de Anthony Barrett) ou da Penguin (Cynthia Damon). Entram no movimento IX, sobre Roma."}
+    - {key: B, title: "Só Tácito", effect: "O maior historiador romano, em inglês. A república continua contada só por Mary Beard."}
+    - {key: C, title: "Salústio e Políbio, os dois em português", effect: "*A Conjuração de Catilina*, de Salústio (Hedra, 2018), curto, sobre a crise da república, e Políbio. O império fica sem fonte; o tradutor de Salústio ainda precisa ser confirmado."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "Políbio e Tácito cobrem as duas metades que faltam: como a república se tornou um império, e o que o império fez da liberdade romana. Tácito é o maior historiador latino, e nenhuma edição atual em português lhe faz justiça; por isso o inglês. Atenção: a tradução de Políbio só tem os livros I a V, e a famosa análise da constituição romana está no livro VI; se sair o volume seguinte, ele entra no lugar. Dois historiadores não reabrem a questão de dividir a coleção em Grécia e Roma."
+  candidates:
+    - {title: "História Pragmática, livros I–V", author: "Políbio · séc. II a.C.", verdict: resolve, best: true, adds: "A ascensão de Roma, das Guerras Púnicas ao domínio do Mediterrâneo, por um grego que viveu em Roma.", facts: ["+Perspectiva 2016, tradução acadêmica anotada", "-Sem o livro VI, da constituição"]}
+    - {title: "Anais", author: "Tácito · c. 115", verdict: resolve, best: true, adds: "O principado de Tibério a Nero: o poder de um só e o que restou da liberdade do senado.", facts: ["+O maior historiador latino", "-Só boa tradução em inglês"]}
+    - {title: "A Conjuração de Catilina", author: "Salústio · c. 42 a.C.", verdict: complementa, adds: "Uma conspiração de 63 a.C. como retrato da corrupção da república.", facts: ["+Curto", "+Hedra 2018, à venda nova", "-Tradutor não confirmado"]}
+    - {title: "História de Roma (Ab urbe condita)", author: "Tito Lívio · c. 27 a.C.–17 d.C.", verdict: complementa, adds: "A Roma dos reis e da república primitiva, entre lenda e história.", facts: ["-Tradução brasileira de 1989, só usada e cara", "Muito longo"]}
+    - {title: "A Vida dos Doze Césares", author: "Suetônio · c. 121", verdict: outra, adds: "Biografias dos imperadores, cheias de anedotas; vale mais como retrato que como história.", facts: ["-Só traduções antigas", "-Biografia, não história"]}
+
 - id: d-greco-material
   kind: obra
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção B — quero sugestões.", note: "As sugestões estão no cartão d-greco-material-opcoes."}
   source: greco-roman--g02
   question: "Greco-Romana deve incluir arte, arquitetura e arqueologia, ou ficar só com textos?"
   why: "Nenhuma obra trata de escultura, arquitetura, cerâmica, urbanismo ou arqueologia. A coleção se chama \"Cultura e História\", mas toda a sua evidência é textual."
@@ -245,6 +296,26 @@ items:
     - {key: B, title: "Quero sugestões", effect: "Eu trago uma ou duas obras de cultura material para você avaliar."}
     - {key: C, title: "Agora não", effect: "Nada muda."}
   recommendation: "nenhuma — é uma escolha de escopo, e as duas respostas são legítimas."
+
+- id: d-greco-material-opcoes
+  kind: obra
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: greco-roman--g02
+  question: "Qual obra traz para Greco-Romana a arte, a arquitetura e a arqueologia?"
+  why: "Toda a evidência da coleção é textual: nenhuma obra trata de escultura, pintura de vasos, templos, cidades ou escavações. Uma obra basta para abrir essa porta; mais que isso transformaria a coleção numa história da arte. Procurei obras que tratem de Grécia e Roma juntas, como a coleção, e que leiam as imagens como evidência histórica, não só como estilo."
+  options:
+    - {key: A, recommended: true, title: "*Classical Art*, de Mary Beard e John Henderson", effect: "A arte grega e romana num volume da Oxford History of Art, escrito por uma historiadora que já está na coleção (*SPQR*). Entra no movimento XII, sobre o legado e a interpretação. Só existe em inglês."}
+    - {key: B, title: "*Arquitetura Grega e Romana*, de D. S. Robertson", effect: "O manual clássico de arquitetura antiga, em português (WMF Martins Fontes, trad. Julio Fischer). É de 1929, revisto em 1943: sólido nos edifícios, mas antigo."}
+    - {key: C, title: "*Greek and Roman Art*, de Susan Woodford", effect: "Introdução curta e ilustrada (Thames & Hudson, 2020), em inglês. Mais fácil, menos interpretativa."}
+    - {key: D, title: "Ficar só com textos", effect: "Fica registrado que a coleção é deliberadamente textual; a questão é arquivada."}
+  recommendation: "Beard e Henderson fazem exatamente a pergunta que falta à coleção: o que as imagens e os edifícios dizem sobre quem os fez e quem os olhava, de Atenas a Roma. É curto, interpretativo e conversa com o *SPQR*. O custo é o inglês; se você preferir português, Robertson é a opção, mas cobre só a arquitetura e envelheceu."
+  candidates:
+    - {title: "Classical Art: From Greece to Rome", author: "Mary Beard e John Henderson · 2001", verdict: resolve, best: true, adds: "A arte grega e romana lida como evidência: quem fazia, para quem, e como o Ocidente a reinventou.", facts: ["Oxford History of Art", "-Só em inglês", "+Mesma autora do SPQR"]}
+    - {title: "Arquitetura Grega e Romana", author: "D. S. Robertson · 1929/1943", verdict: complementa, adds: "Templos, teatros e cidades, da Grécia arcaica a Constantinopla.", facts: ["+Em português", "-Só arquitetura", "-Antigo"]}
+    - {title: "Greek and Roman Art", author: "Susan Woodford · 2020", verdict: complementa, adds: "Introdução curta e muito ilustrada.", facts: ["-Só em inglês", "Introdutório"]}
+    - {title: "Grécia e Roma", author: "Pedro Paulo Funari · 2001", verdict: outra, adds: "Introdução brasileira à Antiguidade por um arqueólogo; é um panorama histórico, não uma obra de arte ou arqueologia.", facts: ["+Em português", "-Panorama, não arte"]}
 
 - id: d-greco-ciencia
   kind: obra
@@ -422,7 +493,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir os três.", note: "Aplicado. Otto, Durkheim e William James entraram no movimento II de Religião, antes de Eliade, os três com estrela. Edições: O Sagrado (Sinodal/EST e Vozes, 2007, trad. Walter O. Schlupp, do alemão); As Formas Elementares da Vida Religiosa (Martins Fontes, 1996, trad. Paulo Neves, do francês); As Variedades da Experiência Religiosa (Cultrix, 2017, trad. Octavio Mendes Cajado), todas recomendadas e à venda nova."}
   source: "review/religion.md, auditoria pela pirâmide de Adler"
   question: "Incluir em Religião os três clássicos que fundaram o estudo moderno da religião?"
   why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são grandes livros, e a coleção hoje lê os herdeiros sem os fundadores."
@@ -441,7 +513,8 @@ items:
   kind: obra
   collections: [education]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir o Emílio.", note: "Aplicado. O Emílio entrou no movimento II de Educação, antes de Dewey, com estrela, na tradução de Thomaz Kawauche (Editora Unesp, 2022, revisão técnica e posfácio de Thiago Vargas), recomendada e à venda nova. É a primeira obra da região do Iluminismo."}
   source: "review/education.md §10"
   question: "Incluir em Educação o *Emílio*, de Jean-Jacques Rousseau?"
   why: "*Emílio, ou Da Educação* (1762) é o livro que funda a educação centrada na criança e no seu desenvolvimento natural. A coleção tem John Dewey, que herda essa ideia, e Mortimer Adler e E. D. Hirsch, que a combatem, mas não a voz original. O século XVIII já aparecia como ausência no mapa da coleção."
@@ -457,7 +530,8 @@ items:
   kind: obra
   collections: [culture]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir as Notas para a Definição de Cultura.", note: "Aplicado. Entrou no fim do movimento I de Cultura, depois de Freud, com estrela, na tradução de Eduardo Wolf (É Realizações, 2011), recomendada; hoje se acha sobretudo usada."}
   source: "review/culture.md §14"
   question: "Incluir em Cultura as *Notas para a Definição de Cultura*, de T. S. Eliot?"
   why: "A pergunta da coleção é o que é a cultura e como ela se transmite, se degrada ou se perde. O livro clássico sobre exatamente isso é o do poeta T. S. Eliot, de 1948: a cultura como modo de vida inteiro, transmitido pela família, pelas classes e pelas regiões, e o que acontece quando essa transmissão se rompe. Os diagnósticos que a coleção traz depois (Roger Scruton, Mario Vargas Llosa) dialogam com ele."
@@ -904,7 +978,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Edição B — Editora 34, 2017, bilíngue.", note: "Aplicado. Registrada a edição bilíngue da Editora 34 (trad., introdução e notas de Diogo Pires Aurélio), recomendada e preferida em Política; a Penguin-Companhia fica como alternativa."}
   question: "Qual edição de *O Príncipe*, de Nicolau Maquiavel?"
   why: "Você indicou a da Penguin-Companhia, traduzida por Maurício Santana Dias. Pesquisei e achei outra tão boa quanto ela, por outros motivos: a da Editora 34, bilíngue, traduzida por Diogo Pires Aurélio. Por enquanto aparece a sua indicação."
   editions:
@@ -1675,7 +1750,8 @@ items:
   kind: colecao
   collections: [education]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — trazer os dois.", note: "Aplicado. A República e a Política entraram no começo do movimento I de Educação, antes de Marrou, com os livros que tratam de educação (II, III e VII; VII e VIII). A República ganhou estrela; a Política não, porque só dois livros dela tratam de educação. O título e o propósito do movimento I foram revistos."}
   source: "review/education.md §10"
   question: "Trazer para Educação *A República*, de Platão, e a *Política*, de Aristóteles, que já estão na biblioteca?"
   why: "A coleção conta dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Dois dos textos que fundaram esse ideal já estão na biblioteca, em outras coleções: *A República*, em que Platão desenha a educação dos guardiões da cidade (livros II, III e VII, com a alegoria da caverna), e a *Política*, em que Aristóteles trata da educação dos cidadãos (livros VII e VIII). Entrariam como participação: nada a comprar."
@@ -1711,7 +1787,8 @@ items:
   kind: colecao
   collections: [ancient-near-east-egypt]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — trazer Gilgámesh e Enuma Elish e incluir o Código de Hamurábi.", note: "Aplicado. Gilgámesh e Enuma Elish entraram no movimento II, antes de Bottéro; o Código de Hamurábi, no movimento I, depois de Van De Mieroop. Edição do Código: Vozes, trad. Emanuel Bouzon, direto do cuneiforme, recomendada; fora de catálogo, mas fácil de achar usada. Estrelas revistas: Gilgámesh e o Código ganham; Bottéro perde, porque passa a ser o guia das fontes que agora estão na coleção."}
   source: "review/ancient-near-east-egypt.md, auditoria pela pirâmide de Adler"
   question: "Dar ao Oriente Próximo e Egito antigos as suas próprias fontes?"
   why: "A coleção pergunta como funcionavam o Estado, a sociedade, a escrita e a crença dessas civilizações, e responde só com historiadores modernos: nenhum texto da época. Duas fontes já estão na biblioteca, na coleção Religião: a *Epopeia de Gilgámesh* e o *Enuma Elish*, o poema babilônico da criação. Para o Estado e a sociedade falta uma: o *Código de Hamurábi*, rei da Babilônia por volta de 1750 a.C., o mais célebre conjunto de leis da Antiguidade."

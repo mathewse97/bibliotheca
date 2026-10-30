@@ -97,3 +97,19 @@ coleção: com nove obras, cada parte da pergunta tem uma só obra. O
 cartão `d-ane-adler-fontes` (Gilgámesh, Enuma Elish, Hamurábi) mudaria
 isso. Se as fontes antigas entrarem, as estrelas devem ser revistas, porque
 uma fonte pode tomar o lugar de um estudo.
+
+### Estrelas revistas — 2026-10-30
+
+Com as fontes antigas (cartão `d-ane-adler-fontes`, opção A), a coleção passou
+de 9 para 12 obras, e as estrelas foram revistas como a ressalva acima previa:
+
+- **Ganham estrela:**
+  - o ***Código de Hamurábi***: o Estado e a sociedade na própria fonte;
+  - a ***Epopeia de Gilgámesh***: a crença e a escrita na própria fonte.
+- **Perde a estrela:** Bottéro. Passa a ser o guia das fontes que agora estão
+  na coleção.
+- **Sem estrela:** o *Enuma Elish*. Tem estrela em Religião, onde é o mito da
+  criação comparado ao Gênesis; aqui é a segunda fonte de crença, depois de
+  Gilgámesh.
+
+Ficam 5 de 12: Van De Mieroop ×2, Hamurábi, Gilgámesh e Finkelstein e Römer.

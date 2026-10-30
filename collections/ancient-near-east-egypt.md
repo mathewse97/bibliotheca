@@ -60,7 +60,8 @@ scope_map:
   regions:
     - {id: mesopotamia, coverage: covered, pursuit: open,
        held_by: [van-de-mieroop--a-history-of-the-ancient-near-east,
-                 bottero--au-commencement-etaient-les-dieux],
+                 bottero--au-commencement-etaient-les-dieux,
+                 hamurabi--codigo, epopeia-de-gilgamesh, enuma-elis],
        note: "Suméria, Acádia, Babilônia e Assíria: cidade, Estado, escrita
               cuneiforme e religião."}
     - {id: egito, coverage: covered, pursuit: open,
@@ -106,6 +107,17 @@ sequence:
                anterior trata só de passagem."
     why_here_by: claude
 
+  # ACRÉSCIMO — decisão sua de 2026-10-30 (cartão d-ane-adler-fontes, opção A).
+  - work: hamurabi--codigo
+    role: primary-source
+    core: true                  # ★ 2026-10-30, ver review/ancient-near-east-egypt.md
+    demand: moderado
+    why_here: "O Estado e a sociedade babilônicos na voz de um rei: cerca de
+               280 leis sobre família, propriedade, comércio e penas, e a
+               ideia de realeza justa no prólogo e no epílogo."
+    why_here_by: claude
+    publication_pref: pub--vozes--o-codigo-de-hammurabi
+
   # PARTICIPAÇÃO NOVA sobre registro existente (Greco-Romana).
   - work: cline--1177-bc
     role: supplementary
@@ -129,10 +141,29 @@ sequence:
     purpose_by: claude
     regions: [mesopotamia, egito]
 
+  # PARTICIPAÇÕES NOVAS sobre registros existentes (Religião) — decisão sua
+  # de 2026-10-30 (cartão d-ane-adler-fontes, opção A). As fontes antes do
+  # estudo.
+  - work: epopeia-de-gilgamesh
+    role: primary-source
+    core: true                  # ★ 2026-10-30, ver review/ancient-near-east-egypt.md
+    demand: moderado
+    why_here: "O texto mais célebre da Mesopotâmia: um rei que busca a
+               imortalidade e aprende o limite humano. É a crença e a escrita
+               da região lidas na própria fonte."
+    why_here_by: claude
+    publication_pref: pub--autentica--ele-que-o-abismo-viu--2017
+
+  - work: enuma-elis
+    role: primary-source
+    demand: moderado
+    why_here: "A criação do mundo e a ascensão de Marduk, deus da Babilônia:
+               a religião a serviço da cidade e do rei."
+    why_here_by: claude
+
   # PARTICIPAÇÃO NOVA sobre registro existente (Religião).
   - work: bottero--au-commencement-etaient-les-dieux
     role: foundational
-    core: true                  # ★ 2026-10-27, ver review/ancient-near-east-egypt.md
     demand: moderado
     why_here: "A religião mesopotâmica lida a partir dos textos cuneiformes:
                a crença como parte do funcionamento da sociedade que o
