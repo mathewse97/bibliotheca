@@ -134,7 +134,8 @@ scope_map:
   map_status: proposta
   regions:
     - {id: antiguidade-classica,     coverage: thin,   pursuit: open,
-       held_by: [marrou--histoire-de-leducation-dans-lantiquite],
+       held_by: [platao--politeia, aristoteles--politika,
+                 marrou--histoire-de-leducation-dans-lantiquite],
        note: "A paideía grega e a formação romana: ginásio, retórica, e o
               cidadão como produto da cidade."}
     - {id: cristianismo-antigo,      coverage: thin,   pursuit: open,
@@ -220,13 +221,15 @@ excluded: []                   # nada excluído por decisão — só por ausênc
 # ===========================================================================
 sequence:
 
-  - movement: "I. A linhagem clássica e cristã: a história e duas fontes"
+  - movement: "I. A linhagem clássica e cristã: a história e as fontes"
     purpose: "Percorrer o ideal clássico de formação humana: o que era, o que
               o cristianismo fez com ele, como sobreviveu, e como começou a
-              ser confrontado. O fio é a história; duas fontes da própria
-              tradição, Agostinho e Hugo de São Vítor, entram ao lado da
-              narrativa para que o ideal seja lido praticado, e não só
-              contado."
+              ser confrontado. O fio é a história; fontes da própria
+              tradição (Platão, Aristóteles, Agostinho e Hugo de São Vítor)
+              entram ao lado da narrativa para que o ideal seja lido
+              praticado, e não só contado."
+    # Revisto de novo em 2026-10-30, com Platão e Aristóteles (cartão
+    # d-edu-adler-fontes, opção A).
     # Propósito revisto em 2026-10-27, quando as duas fontes entraram (cartão
     # d-edu-fonte, opção B). Antes dizia "tudo por via de história"; foi por
     # isso que Newman, em 2026-10-05, foi para o VII e não para cá.
@@ -234,6 +237,28 @@ sequence:
     regions: [antiguidade-classica, cristianismo-antigo, idade-media,
               renascimento-humanismo, seculo-xvii]
     covers_your_stages: [1, 2, 3, 4]
+
+  # ACRÉSCIMO — decisão sua de 2026-10-30 (cartão d-edu-adler-fontes,
+  # opção A): participações novas sobre registros existentes (Política e
+  # Greco-Romana), antes de Marrou, com os livros que tratam de educação.
+  - work: platao--politeia
+    role: primary-source
+    core: true                  # ★ 2026-10-30, ver review/education.md
+    demand: exigente
+    why_here: "O texto que funda o ideal clássico de formação: a educação dos
+               guardiões pela música e pela ginástica, e a subida do filósofo
+               da caverna ao sol. Marrou e Jaeger estudam exatamente isto."
+    why_here_by: claude
+    scope: "Livros II e III (a educação dos guardiões) e VII (a alegoria da
+            caverna e a formação do filósofo)."
+
+  - work: aristoteles--politika
+    role: primary-source
+    demand: exigente
+    why_here: "A educação como tarefa da cidade: o que ensinar aos jovens, e
+               por que a música e o ócio fazem parte da formação do cidadão."
+    why_here_by: claude
+    scope: "Livros VII e VIII."
 
   - work: marrou--histoire-de-leducation-dans-lantiquite
     role: foundational

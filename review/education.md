@@ -885,3 +885,14 @@ justamente o par que a lacuna `education--g01` pedia. Newman continua no VII:
 lá ele é a resposta à pergunta sobre a universidade, e o I termina no século
 XVII. Se o cartão `d-edu-adler-fontes` for aceito, *A República* e a
 *Política* entram do mesmo modo, no começo do I, ao lado de Marrou.
+
+### Estrelas revistas — 2026-10-30
+
+Entraram *A República* e a *Política* (cartão `d-edu-adler-fontes`, opção A),
+no começo do movimento I, antes de Marrou.
+- ***A República* ganha estrela.** É o texto que funda o ideal clássico de
+  formação, e Marrou e Jaeger o estudam.
+- **A *Política* fica sem estrela.** Só dois livros dela (VII e VIII) tratam
+  de educação, e o lugar da fonte antiga já é ocupado por Platão.
+
+Ficam 9 de 24.

@@ -2420,3 +2420,64 @@ campanhari:
          2018, edição bilíngue). Nenhuma outra tradução dele encontrada.
          Entrou em 2026-10-27."
   role: translator
+
+otto:
+  name_display: "Rudolf Otto"
+  name_variants: []
+  dates: "1869–1937"
+  note: "Teólogo e historiador das religiões alemão. Entrou em 2026-10-30
+         com O Sagrado (cartão d-rel-adler-classicos)."
+
+durkheim:
+  name_display: "Émile Durkheim"
+  name_variants: []
+  dates: "1858–1917"
+  note: "Sociólogo francês. Entrou em 2026-10-30 com As Formas Elementares
+         da Vida Religiosa (cartão d-rel-adler-classicos)."
+
+william-james:
+  name_display: "William James"
+  name_variants: []
+  dates: "1842–1910"
+  note: "Psicólogo e filósofo norte-americano. Entrou em 2026-10-30 com As
+         Variedades da Experiência Religiosa (cartão d-rel-adler-classicos)."
+
+hamurabi:
+  name_display: "Hamurábi"
+  name_variants: ["Hammurabi"]
+  dates: "reinou c. 1792–1750 a.C."
+  note: "Rei da Babilônia. O Código leva o nome dele. Entrou em 2026-10-30
+         (cartão d-ane-adler-fontes)."
+
+schlupp:
+  name_display: "Walter O. Schlupp"
+  name_variants: []
+  dates: null
+  note: "Tradutor de O Sagrado, de Rudolf Otto, do alemão (Sinodal/EST e
+         Vozes, 2007). Entrou em 2026-10-30."
+  role: translator
+
+paulo-neves:
+  name_display: "Paulo Neves"
+  name_variants: []
+  dates: null
+  note: "Tradutor de As Formas Elementares da Vida Religiosa, de Durkheim,
+         do francês (Martins Fontes, 1996). Entrou em 2026-10-30."
+  role: translator
+
+cajado:
+  name_display: "Octavio Mendes Cajado"
+  name_variants: ["Octávio Mendes Cajado"]
+  dates: null
+  note: "Tradutor de As Variedades da Experiência Religiosa, de William
+         James (Cultrix, 1991; 2ª ed. 2017). Entrou em 2026-10-30."
+  role: translator
+
+bouzon:
+  name_display: "Emanuel Bouzon"
+  name_variants: []
+  dates: null
+  note: "Assiriólogo; traduziu o Código de Hammurabi direto do original
+         cuneiforme, com introdução e comentários (Vozes, desde 1976).
+         Entrou em 2026-10-30."
+  role: translator

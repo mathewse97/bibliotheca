@@ -950,3 +950,21 @@ diferente.
   o fenômeno.
 - ***Corpus Hermeticum*, *Tábua de Esmeralda* e Campbell:** a margem
   esotérica e o comparativismo popular.
+
+### Estrelas revistas — 2026-10-30
+
+Entraram os três fundadores do estudo moderno da religião (cartão
+`d-rel-adler-classicos`, opção A), no movimento II, antes de Eliade. Os três
+ganham estrela, porque cada um abre um dos três caminhos que a coleção segue:
+
+| Obra | Por que é indispensável |
+|---|---|
+| Otto, *O Sagrado* | A fenomenologia: a experiência do sagrado por dentro. Eliade parte dela. |
+| Durkheim, *As Formas Elementares da Vida Religiosa* | A sociologia: a religião explicada pela sociedade. Weber e Berger a continuam. |
+| William James, *As Variedades da Experiência Religiosa* | A psicologia: a experiência religiosa pessoal. Nenhuma outra obra da coleção ocupa este lugar. |
+
+Agora são 14 de 34, ou 12 de 32 contando os três volumes de Eliade como uma
+obra: 37%. As estrelas de Eliade (*Tratado*) e de Weber continuam. O *Tratado*
+é a morfologia comparada dos fenômenos religiosos, que Otto não faz. A tese de
+Weber, o efeito de uma ética religiosa sobre a vida econômica, também não está
+em Durkheim.

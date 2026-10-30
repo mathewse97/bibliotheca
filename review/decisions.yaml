@@ -449,7 +449,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir os três.", note: "Aplicado. Otto, Durkheim e William James entraram no movimento II de Religião, antes de Eliade, os três com estrela. Edições: O Sagrado (Sinodal/EST e Vozes, 2007, trad. Walter O. Schlupp, do alemão); As Formas Elementares da Vida Religiosa (Martins Fontes, 1996, trad. Paulo Neves, do francês); As Variedades da Experiência Religiosa (Cultrix, 2017, trad. Octavio Mendes Cajado), todas recomendadas e à venda nova."}
   source: "review/religion.md, auditoria pela pirâmide de Adler"
   question: "Incluir em Religião os três clássicos que fundaram o estudo moderno da religião?"
   why: "A parte da coleção sobre teoria da religião tem Mircea Eliade, Max Weber, Peter Berger e Charles Taylor, mas nenhum dos três livros de que todos eles partem: Émile Durkheim, que explica a religião pela sociedade; Rudolf Otto, que descreve a experiência do sagrado, ponto de partida declarado de Eliade; e William James, que estuda a experiência religiosa pela psicologia. Pelo critério de Adler, são grandes livros, e a coleção hoje lê os herdeiros sem os fundadores."
@@ -1702,7 +1703,8 @@ items:
   kind: colecao
   collections: [education]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — trazer os dois.", note: "Aplicado. A República e a Política entraram no começo do movimento I de Educação, antes de Marrou, com os livros que tratam de educação (II, III e VII; VII e VIII). A República ganhou estrela; a Política não, porque só dois livros dela tratam de educação. O título e o propósito do movimento I foram revistos."}
   source: "review/education.md §10"
   question: "Trazer para Educação *A República*, de Platão, e a *Política*, de Aristóteles, que já estão na biblioteca?"
   why: "A coleção conta dois mil anos do ideal clássico de formação só por meio de estudos sobre ele. Dois dos textos que fundaram esse ideal já estão na biblioteca, em outras coleções: *A República*, em que Platão desenha a educação dos guardiões da cidade (livros II, III e VII, com a alegoria da caverna), e a *Política*, em que Aristóteles trata da educação dos cidadãos (livros VII e VIII). Entrariam como participação: nada a comprar."
@@ -1738,7 +1740,8 @@ items:
   kind: colecao
   collections: [ancient-near-east-egypt]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — trazer Gilgámesh e Enuma Elish e incluir o Código de Hamurábi.", note: "Aplicado. Gilgámesh e Enuma Elish entraram no movimento II, antes de Bottéro; o Código de Hamurábi, no movimento I, depois de Van De Mieroop. Edição do Código: Vozes, trad. Emanuel Bouzon, direto do cuneiforme, recomendada; fora de catálogo, mas fácil de achar usada. Estrelas revistas: Gilgámesh e o Código ganham; Bottéro perde, porque passa a ser o guia das fontes que agora estão na coleção."}
   source: "review/ancient-near-east-egypt.md, auditoria pela pirâmide de Adler"
   question: "Dar ao Oriente Próximo e Egito antigos as suas próprias fontes?"
   why: "A coleção pergunta como funcionavam o Estado, a sociedade, a escrita e a crença dessas civilizações, e responde só com historiadores modernos: nenhum texto da época. Duas fontes já estão na biblioteca, na coleção Religião: a *Epopeia de Gilgámesh* e o *Enuma Elish*, o poema babilônico da criação. Para o Estado e a sociedade falta uma: o *Código de Hamurábi*, rei da Babilônia por volta de 1750 a.C., o mais célebre conjunto de leis da Antiguidade."

@@ -183,6 +183,13 @@ Teatro completo VI da Editora 34.
   27 estrelas da lista do Mathews (27 de 54, metade da coleção). A revisão
   está no cartão `d-pol-estrelas` (2026-10-28): proposta de 21 estrelas,
   em `review/political-thought.md` §11.
+- **Três cartões aplicados (2026-10-30):**
+  - Religião ganhou Otto, Durkheim e William James (`d-rel-adler-classicos`).
+  - Educação ganhou *A República* e a *Política* (`d-edu-adler-fontes`).
+  - Oriente Próximo ganhou Gilgámesh, Enuma Elish e o *Código de Hamurábi*
+    (`d-ane-adler-fontes`).
+
+  As estrelas das três coleções foram revistas na mesma hora.
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
