@@ -467,3 +467,16 @@ sem ela, mesmo sendo grandes livros.
 - **Brown, Mitchell e Cameron:** três panoramas da Antiguidade tardia, que se
   sobrepõem.
 - **Finley (*O Legado*) e Campbell:** Highet ocupa o lugar do legado.
+
+### Campbell e as quatro introduções — 2026-10-30
+
+- **`d-greco-adler-campbell`, opção A:** *O Herói de Mil Faces* saiu de
+  Greco-Romana e continua em Religião. Junto com ele saíram a entrada no
+  caminho cronológico e a tensão Campbell × Vernant ("os mitos gregos são
+  variações de um padrão universal, ou produtos de uma sociedade?"); essa
+  pergunta fica para Religião, onde a comparação entre culturas é o assunto.
+- **`d-greco-adler-introducoes`, opção A:** Everitt, Mikalson, McKirahan e
+  Woolf ficam como leitura complementar. A sequência principal fica com as
+  obras maiores: Osborne e Rhodes, Burkert, Kirk-Raven-Schofield e Beard.
+
+Nenhuma das cinco tinha estrela. Ficam 25 de 86.

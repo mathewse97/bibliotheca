@@ -339,18 +339,6 @@ moraes:
   note: "Sobrenome comum no Brasil; risco de colisão futura, como em `lobo`.
          Não antecipado para não inventar convenção."
 
-lontro:
-  name_display: "Miguel Lontro"
-  name_variants: []
-  dates: null
-  note: null
-
-monteiro:
-  name_display: "Pedro Monteiro"
-  name_variants: []
-  dates: null
-  note: "Sobrenome muito comum em português; risco de colisão, como `moraes` e `lobo`."
-
 becker:
   name_display: "Marlise Becker"
   name_variants: []

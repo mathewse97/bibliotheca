@@ -190,6 +190,7 @@ sequence:
     regions: [historia-comparada-das-religioes]
 
   - work: armstrong--a-history-of-god       # entrada 2 da lista dele
+    optional: true              # leitura complementar — cartão d-rel-adler-panoramas (2026-10-30)
     role: foundational
     demand: leve
     why_here: "É uma excelente introdução às três grandes tradições
@@ -202,6 +203,7 @@ sequence:
                       transformacoes-da-ideia-de-deus]
 
   - work: noss-grangaard--a-history-of-the-worlds-religions       # entrada 1 da lista dele
+    optional: true              # leitura complementar — cartão d-rel-adler-panoramas (2026-10-30)
     role: foundational
     demand: moderado
     why_here: "Funciona como grande mapa comparativo para situar as

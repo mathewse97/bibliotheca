@@ -968,3 +968,11 @@ obra: 37%. As estrelas de Eliade (*Tratado*) e de Weber continuam. O *Tratado*
 é a morfologia comparada dos fenômenos religiosos, que Otto não faz. A tese de
 Weber, o efeito de uma ética religiosa sobre a vida econômica, também não está
 em Durkheim.
+
+### Leitura complementar — 2026-10-30
+
+Cartão `d-rel-adler-panoramas`, opção A: *Uma História de Deus*, de Karen
+Armstrong, e *História das Religiões Mundiais*, de John B. Noss e sucessores,
+ficam na coleção como leitura complementar. A sequência principal começa pela
+*História das Crenças* de Eliade. As estrelas não mudam; nenhum dos dois tinha
+estrela.
