@@ -197,6 +197,8 @@ Teatro completo VI da Editora 34.
   - *O Príncipe* passou à edição bilíngue da Editora 34 (`d-ed-maquiavel`).
   - Greco-Romana pediu sugestões de arte e arqueologia; estão no cartão
     `d-greco-material-opcoes`.
+  - Greco-Romana pediu sugestões de historiadores antigos de Roma; estão no
+    cartão `d-greco-romanas-opcoes` (Políbio e Tácito recomendados).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

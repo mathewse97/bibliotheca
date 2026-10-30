@@ -250,7 +250,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — quero sugestões.", note: "A comparação está no cartão d-greco-romanas-opcoes."}
   source: greco-roman--g01
   question: "Incluir em Greco-Romana fontes antigas sobre a história de Roma?"
   why: "A coleção tem oito obras de história grega, três delas fontes antigas (como Heródoto e Tucídides). Para Roma, tem só dois historiadores modernos (Beard, Woolf). Você lê como os gregos narraram a si mesmos, mas não como os romanos o fizeram."
@@ -259,6 +260,27 @@ items:
     - {key: B, title: "Agora não", effect: "Nada muda."}
     - {key: C, title: "Descartar", effect: "Roma continua presente só pela literatura, pela moral e pelos historiadores modernos."}
   recommendation: "é a assimetria mais forte do acervo. Atenção: incluir várias fontes romanas é justamente o que reabre a questão de dividir a coleção em Grécia e Roma (ver os itens aguardando)."
+
+- id: d-greco-romanas-opcoes
+  kind: obra
+  collections: [greco-roman]
+  priority: alta
+  state: decidir
+  source: greco-roman--g01
+  question: "Quais historiadores antigos trazem para Greco-Romana a história de Roma contada pelos próprios antigos?"
+  why: "Comparei os cinco candidatos. Tito Lívio, Tácito e Suetônio só têm em português traduções fora de catálogo, que se acham usadas: as de Tácito são dos anos 1950 e 1960, e a de Tito Lívio, de 1989. Salústio tem uma edição nova (Hedra, 2018), cujo tradutor não consegui confirmar. Políbio tem uma tradução acadêmica nova e anotada, mas só dos livros I a V. Por isso, a melhor combinação mistura um em português e um em inglês."
+  options:
+    - {key: A, recommended: true, title: "Políbio e Tácito", effect: "Políbio, *História Pragmática*, livros I a V (Perspectiva, 2016, trad. Breno Battistin Sebastiani, professor de grego da USP): como Roma chegou a dominar o Mediterrâneo, contado por um grego que viveu entre os romanos. Tácito, *Anais*: o principado de Tibério a Nero, na tradução inglesa da Oxford World's Classics (J. C. Yardley, com notas de Anthony Barrett) ou da Penguin (Cynthia Damon). Entram no movimento IX, sobre Roma."}
+    - {key: B, title: "Só Tácito", effect: "O maior historiador romano, em inglês. A república continua contada só por Mary Beard."}
+    - {key: C, title: "Salústio e Políbio, os dois em português", effect: "*A Conjuração de Catilina*, de Salústio (Hedra, 2018), curto, sobre a crise da república, e Políbio. O império fica sem fonte; o tradutor de Salústio ainda precisa ser confirmado."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "Políbio e Tácito cobrem as duas metades que faltam: como a república se tornou um império, e o que o império fez da liberdade romana. Tácito é o maior historiador latino, e nenhuma edição atual em português lhe faz justiça; por isso o inglês. Atenção: a tradução de Políbio só tem os livros I a V, e a famosa análise da constituição romana está no livro VI; se sair o volume seguinte, ele entra no lugar. Dois historiadores não reabrem a questão de dividir a coleção em Grécia e Roma."
+  candidates:
+    - {title: "História Pragmática, livros I–V", author: "Políbio · séc. II a.C.", verdict: resolve, best: true, adds: "A ascensão de Roma, das Guerras Púnicas ao domínio do Mediterrâneo, por um grego que viveu em Roma.", facts: ["+Perspectiva 2016, tradução acadêmica anotada", "-Sem o livro VI, da constituição"]}
+    - {title: "Anais", author: "Tácito · c. 115", verdict: resolve, best: true, adds: "O principado de Tibério a Nero: o poder de um só e o que restou da liberdade do senado.", facts: ["+O maior historiador latino", "-Só boa tradução em inglês"]}
+    - {title: "A Conjuração de Catilina", author: "Salústio · c. 42 a.C.", verdict: complementa, adds: "Uma conspiração de 63 a.C. como retrato da corrupção da república.", facts: ["+Curto", "+Hedra 2018, à venda nova", "-Tradutor não confirmado"]}
+    - {title: "História de Roma (Ab urbe condita)", author: "Tito Lívio · c. 27 a.C.–17 d.C.", verdict: complementa, adds: "A Roma dos reis e da república primitiva, entre lenda e história.", facts: ["-Tradução brasileira de 1989, só usada e cara", "Muito longo"]}
+    - {title: "A Vida dos Doze Césares", author: "Suetônio · c. 121", verdict: outra, adds: "Biografias dos imperadores, cheias de anedotas; vale mais como retrato que como história.", facts: ["-Só traduções antigas", "-Biografia, não história"]}
 
 - id: d-greco-material
   kind: obra
