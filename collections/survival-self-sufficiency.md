@@ -122,18 +122,6 @@ scope_map:
 # EXCLUÍDA POR DECISÃO SUA
 # ---------------------------------------------------------------------------
 excluded:
-  - work: lontro-monteiro--mini-manual-de-tecnica-escutista
-    title_as_listed: "Mini Manual de Técnica Escutista"
-    reason: "Resume em formato de bolso o que Dave Canterbury (Bushcraft 101) e
-             Humberto Costa (Bushcraft: habilidades na natureza) ensinam por
-             inteiro. Auditoria pela pirâmide de Adler, cartão
-             d-sob-adler-repetidos."
-    by: voce
-    date: 2026-10-30
-    card: d-sob-adler-repetidos
-    note: "O registro da obra e a publicação continuam no acervo, sem
-           coleção."
-
   - work: werner--donde-no-hay-doctor
     title_as_listed: "Onde não há médicos"
     reason: "Substituída por Alton, The Survival Medicine Handbook (4ª ed.,
@@ -422,8 +410,7 @@ tensions: []
 # ===========================================================================
 # ORDEM ORIGINAL
 # ===========================================================================
-original_order: [lontro-monteiro--mini-manual-de-tecnica-escutista,
-  seymour--guia-pratico-da-autossuficiencia,
+original_order: [seymour--guia-pratico-da-autossuficiencia,
   becker-dalponte--rastros-de-mamiferos-silvestres-brasileiros,
   canterbury--bushcraft-101,
   dickson--where-there-is-no-dentist,

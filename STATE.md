@@ -204,7 +204,12 @@ Teatro completo VI da Editora 34.
   - Em Sobrevivência, Hoffmann e Skousen viram consulta complementar,
     marcados com `optional: true`, campo novo que aparece na tela como
     "complementar".
-  - O Mini Manual saiu de Sobrevivência.
+  - O Mini Manual saiu de Sobrevivência e depois foi apagado da
+    biblioteca, a pedido do Mathews: a obra, a publicação, os dois autores
+    e a editora. O nome continua só no histórico de decisões e nas
+    revisões.
+  - Em Religião, Armstrong e Noss e Grangaard viraram leitura
+    complementar (`d-rel-adler-panoramas`).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

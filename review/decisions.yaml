@@ -1732,7 +1732,8 @@ items:
   kind: colecao
   collections: [religion]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — os dois viram leitura complementar.", note: "Aplicado. Armstrong e Noss e Grangaard ficam em Religião com a marca complementar; a sequência principal começa pela História das Crenças de Eliade."}
   source: "review/religion.md, auditoria pela pirâmide de Adler"
   question: "Dois panoramas gerais de Religião repetem o papel da *História das Crenças* de Eliade: deixar como leitura complementar?"
   why: "A coleção abre com quatro panoramas antes de qualquer fonte: os três volumes da *História das Crenças e das Ideias Religiosas*, de Mircea Eliade, *Uma História de Deus*, de Karen Armstrong, e o manual *História das Religiões Mundiais*, de John B. Noss e sucessores. Os dois últimos são introduções de divulgação e repetem, em versão mais leve, o papel da obra de Eliade."
