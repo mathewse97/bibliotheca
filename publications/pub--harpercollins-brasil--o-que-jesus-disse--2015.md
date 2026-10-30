@@ -76,17 +76,13 @@ provenance:
     retrieved: 2026-09-25
     confidence: reported
 
-updated: 2026-10-19
+updated: 2026-10-30
 ---
 
 ## Por que esta publicação existe
 
 Escolhida por você em 25/09/2026. É a reedição de 2015 da mesma tradução de
 Marcos Marcionilo publicada pela Prestígio em 2006, que continua registrada.
-
-## Nenhum veredito
-
-O §F não foi percorrido. `verdict: unassessed` é o estado correto.
 
 ## Avaliação
 
