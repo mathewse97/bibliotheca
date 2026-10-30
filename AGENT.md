@@ -171,6 +171,16 @@ O critério de pronto continua sendo o de `config/interface-rules.md` §3 —
 renderizar e olhar a tela. O portão confere estrutura, não se a tela ficou
 legível.
 
+**Quando o pull request entra no `main` — decisão do Mathews, 2026-10-30.**
+O site é publicado a partir do `main`, então uma decisão que fica parada num
+PR não aparece para ele, e o cartão continua aberto na tela.
+- **Resposta a um cartão colada na conversa:** o agente aplica, roda o
+  portão, espera o CI passar e junta o PR sem pedir mais confirmação. Isso
+  vale também para os cartões de sugestões que a resposta gerar.
+- **Qualquer outra mudança** (interface, regras, mudanças por iniciativa do
+  agente): o PR espera o "pode seguir" dele.
+- Se o CI falhar, nada é juntado. O agente corrige e só então junta.
+
 E uma obrigação que não é mecânica: **manter verdadeira a tabela do §0 do
 README.** Material canônico novo ganha uma linha antes do fim da sessão em que
 nasceu. É o único lugar que diz a quem chegar depois o que levar e o que
