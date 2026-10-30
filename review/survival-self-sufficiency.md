@@ -373,3 +373,22 @@ campo.
 - **Pellegrini e Moraes:** a defesa tem uma obra só, mas é técnica de tiro,
   que se aprende com instrução e não pelo livro.
 - **Skousen:** os critérios valem, mas as análises são da América do Norte.
+
+---
+
+## Cartão d-sob-adler-repetidos aplicado — 2026-10-30
+
+Decisão do Mathews, com uma resposta própria:
+- **Consulta complementar:** *O Guia Completo das Plantas Medicinais*, de
+  David Hoffmann, e *Strategic Relocation*, de Joel Skousen. Ficam na
+  coleção com a marca nova de complementar: aparecem na tela, mas não são
+  passo da sequência nem são sugeridos como próxima leitura.
+  - Hoffmann complementa Lorenzi e Matos: um trata das ervas de clima
+    temperado e da tradição herbalista europeia, o outro das plantas
+    brasileiras.
+  - De Skousen, valem os critérios para escolher onde morar.
+- **Saída:** o *Mini Manual de Técnica Escutista* saiu da coleção, porque
+  Canterbury e Costa ensinam por inteiro o que ele resume. O registro fica no
+  acervo, sem coleção.
+
+As estrelas não mudam: nenhuma das três tinha estrela. Ficam 6 de 17.

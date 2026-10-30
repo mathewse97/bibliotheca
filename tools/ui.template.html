@@ -1349,7 +1349,7 @@ function railHome(){
   out.push(`<div class="rcard"><h4>Lendo agora</h4>${lendo.length?lendo.slice(0,4).map(w=>mini(w,'')).join('')
     :'<p class="small muted" style="margin:0">Nada marcado como "lendo". Marque na página da obra.</p>'}</div>`);
   const alta=Object.values(D.works).filter(w=>readState('work',w.id,'priority_personal')==='alta' && !READ_DONE(rs(w.id)) && !['lendo','relendo'].includes(rs(w.id)));
-  const prox=Object.values(D.collections).map(k=>{const s=seqWorks(k).find(s=>W(s.work)&&!READ_DONE(rs(s.work))&&!['lendo','relendo'].includes(rs(s.work)));
+  const prox=Object.values(D.collections).map(k=>{const s=seqWorks(k).find(s=>!s.optional&&W(s.work)&&!READ_DONE(rs(s.work))&&!['lendo','relendo'].includes(rs(s.work)));
     return s?{w:W(s.work),sub:`${E(k.title_pt||k.id)} · nº ${E(s.n)}`}:null;}).filter(Boolean);
   out.push(`<div class="rcard"><h4>Próximas leituras</h4>
     ${alta.slice(0,3).map(w=>mini(w,'Prioridade alta')).join('')}
@@ -1600,6 +1600,7 @@ function vColecao(id){
           ${s.scope?`<div class="small"><span class="lock">escopo</span> ${E(s.scope)}</div>`:''}</div>
         <div class="meta">${litBadge(w, s)}
           ${s.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}
+          ${s.optional?'<span class="b" title="Consulta complementar: fica na coleção, mas não é passo da sequência">complementar</span>':''}
           ${s.demand?`<span class="b" title="exigência de leitura">${E(s.demand)}</span>`:''}
           ${inPath?(inPath.has(s.work)?'<span class="b acc">no caminho</span>':''):''}
           ${volBadge(w)}
@@ -1862,7 +1863,7 @@ function vObra(id){
       ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
       ${m.why_here?`<div class="small muted" style="margin-top:3px">${E(m.why_here)}</div>`:''}
       ${(m.requires||[]).length?`<div class="small" style="margin-top:3px">Leia antes: ${m.requires.map(r=>wLink(r)).join(', ')}</div>`:''}</div>
-    <div class="meta">${litBadge(w, m)}${m.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
+    <div class="meta">${litBadge(w, m)}${m.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}${m.optional?'<span class="b" title="Consulta complementar: fica na coleção, mas não é passo da sequência">complementar</span>':''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
   </div>`).join('')}</div>`
   :(w.pending_assignment?`<div class="panel"><p class="small muted" style="margin:0">Ainda sem coleção.</p></div>`:'')}
 
@@ -1957,7 +1958,7 @@ function railColecao(k, inPath){
 
   /* próxima leitura: o que você está lendo; senão, a primeira obra da
      sequência (ou do caminho escolhido) que ainda não leu */
-  const cand = lendo[0] || list.find(s=>(!inPath||inPath.has(s.work)) && !READ_DONE(st(s)));
+  const cand = lendo[0] || list.find(s=>!s.optional && (!inPath||inPath.has(s.work)) && !READ_DONE(st(s)));
   if(cand && W(cand.work)){
     const w=W(cand.work), m=(w.memberships||[]).find(mm=>mm.collection===k.id);
     out.push(`<div class="rcard"><h4>${lendo[0]?'Lendo agora':'Próxima leitura'}</h4>

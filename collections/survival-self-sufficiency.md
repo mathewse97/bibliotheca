@@ -82,8 +82,7 @@ scope_map:
   map_status: proposta
   regions:
     - {id: sobrevivencia, coverage: covered, pursuit: open,
-       held_by: [lontro-monteiro--mini-manual-de-tecnica-escutista,
-                 seymour--guia-pratico-da-autossuficiencia,
+       held_by: [seymour--guia-pratico-da-autossuficiencia,
                  becker-dalponte--rastros-de-mamiferos-silvestres-brasileiros,
                  canterbury--bushcraft-101],
        note: "Técnica de campo, autossuficiência doméstica e leitura do
@@ -123,6 +122,18 @@ scope_map:
 # EXCLUÍDA POR DECISÃO SUA
 # ---------------------------------------------------------------------------
 excluded:
+  - work: lontro-monteiro--mini-manual-de-tecnica-escutista
+    title_as_listed: "Mini Manual de Técnica Escutista"
+    reason: "Resume em formato de bolso o que Dave Canterbury (Bushcraft 101) e
+             Humberto Costa (Bushcraft: habilidades na natureza) ensinam por
+             inteiro. Auditoria pela pirâmide de Adler, cartão
+             d-sob-adler-repetidos."
+    by: voce
+    date: 2026-10-30
+    card: d-sob-adler-repetidos
+    note: "O registro da obra e a publicação continuam no acervo, sem
+           coleção."
+
   - work: werner--donde-no-hay-doctor
     title_as_listed: "Onde não há médicos"
     reason: "Substituída por Alton, The Survival Medicine Handbook (4ª ed.,
@@ -199,12 +210,6 @@ sequence:
               produzir e manter."
     purpose_by: claude
     regions: [sobrevivencia]
-
-  - work: lontro-monteiro--mini-manual-de-tecnica-escutista
-    demand: leve
-    why_here: "Técnica escutista em formato de bolso: o repertório básico de
-               campo, condensado."
-    why_here_by: claude
 
   - work: seymour--guia-pratico-da-autossuficiencia
     core: true                  # ★ 2026-10-27, ver review/survival-self-sufficiency.md
@@ -327,6 +332,7 @@ sequence:
     publication_pref: pub--manole--medicina-em-areas-remotas-no-brasil--2019   # decisão sua, 2026-10-10 (d-sob-medicina)
 
   - work: hoffmann--the-complete-herbs-sourcebook
+    optional: true              # consulta complementar — cartão d-sob-adler-repetidos (2026-10-30)
     demand: moderado
     why_here: "Recurso vegetal medicinal, de A a Z. Complementa os manuais de
                emergência pelo lado do que se cultiva e se colhe."
@@ -389,6 +395,7 @@ sequence:
     regions: [planejamento-risco-localizacao]
 
   - work: skousen--strategic-relocation
+    optional: true              # consulta complementar — cartão d-sob-adler-repetidos (2026-10-30)
     demand: moderado
     why_here: "Avaliação de risco geográfico, geopolítico e ambiental para a
                escolha e a mudança de local de residência, como forma de

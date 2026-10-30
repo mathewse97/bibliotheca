@@ -199,6 +199,12 @@ Teatro completo VI da Editora 34.
     `d-greco-material-opcoes`.
   - Greco-Romana pediu sugestões de historiadores antigos de Roma; estão no
     cartão `d-greco-romanas-opcoes` (Políbio e Tácito recomendados).
+- **Cartões aplicados (2026-10-30, à noite):**
+  - Como Ler Livros fica confirmado na parte prática de Educação.
+  - Em Sobrevivência, Hoffmann e Skousen viram consulta complementar,
+    marcados com `optional: true`, campo novo que aparece na tela como
+    "complementar".
+  - O Mini Manual saiu de Sobrevivência.
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
