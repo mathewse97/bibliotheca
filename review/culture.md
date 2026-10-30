@@ -669,3 +669,11 @@ Scruton, Lobo e Vieira de Mello (diagnósticos da degradação que se sobrepõem
 entre si); Gregory (a tese sobre a Reforma, importante mas lateral à
 pergunta); Han ×2 (o prolongamento contemporâneo, que depende de Adorno e
 Horkheimer).
+
+### Estrela das *Notas* de Eliot — 2026-10-30
+
+As *Notas para a Definição de Cultura*, de T. S. Eliot, entraram no fim do
+movimento I, depois de Freud (cartão `d-cult-adler-eliot`, opção A). Ganharam
+estrela: é o livro que responde de frente à pergunta da coleção, o que é a
+cultura e como ela se transmite, e os diagnósticos do movimento II dialogam com
+ele. Ficam 6 de 17.

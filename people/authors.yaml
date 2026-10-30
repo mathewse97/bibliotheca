@@ -2481,3 +2481,43 @@ bouzon:
          cuneiforme, com introdução e comentários (Vozes, desde 1976).
          Entrou em 2026-10-30."
   role: translator
+
+eliot:
+  name_display: "T. S. Eliot"
+  name_variants: ["Thomas Stearns Eliot"]
+  dates: "1888–1965"
+  note: "Poeta e crítico anglo-americano. Entrou em 2026-10-30 com Notas
+         para a Definição de Cultura (cartão d-cult-adler-eliot)."
+
+eduardo-wolf:
+  name_display: "Eduardo Wolf"
+  name_variants: []
+  dates: null
+  note: "Tradutor de Notas para a Definição de Cultura, de T. S. Eliot (É
+         Realizações, 2011). Entrou em 2026-10-30."
+  role: translator
+
+kawauche:
+  name_display: "Thomaz Kawauche"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Rousseau; tradutor do Emílio para a Editora Unesp
+         (2022), tradução premiada pela ABEU em 2023. Entrou em 2026-10-30."
+  role: translator
+
+thiago-vargas:
+  name_display: "Thiago Vargas"
+  name_variants: []
+  dates: null
+  note: "Estudioso de Rousseau; revisão técnica e posfácio do Emílio da
+         Editora Unesp (2022). Entrou em 2026-10-30."
+  role: editor
+
+pires-aurelio:
+  name_display: "Diogo Pires Aurélio"
+  name_variants: []
+  dates: null
+  note: "Professor de filosofia política da Universidade Nova de Lisboa.
+         Tradução, introdução e notas de O Príncipe, edição bilíngue (Editora
+         34, 2017). Entrou em 2026-10-30."
+  role: translator

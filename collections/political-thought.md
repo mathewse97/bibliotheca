@@ -140,6 +140,7 @@ sequence:
 
   - work: confucio--lunyu
     role: foundational
+    core: true                  # ★ 2026-10-30, ver review/political-thought.md §11
     demand: moderado
     why_here: "Apresenta uma concepção de ordem política fundada em virtude,
                educação, ritual e exemplaridade do governante."
@@ -179,6 +180,7 @@ sequence:
 
   - work: ibn-khaldun--muqaddimah
     role: foundational
+    core: true                  # ★ 2026-10-30, ver review/political-thought.md §11
     demand: exigente
     why_here: "Poder, coesão social, dinastias, Estado e ascensão e queda das
                sociedades."
@@ -197,6 +199,7 @@ sequence:
 
   - work: agostinho--de-civitate-dei
     role: foundational
+    core: true                  # ★ 2026-10-30, ver review/political-thought.md §11
     demand: exigente
     why_here: "Relação entre política, justiça, comunidade, império, história
                e cristianismo."
@@ -225,7 +228,7 @@ sequence:
                conquista, conservação e razão política."
     why_here_by: voce
     edition_pref: {text: "Penguin-Companhia das Letras, trad. Maurício Santana Dias.", by: voce, verified: false}
-    publication_pref: pub--penguin-companhia--o-principe--2010   # escolha sua (2026-09-23)
+    publication_pref: pub--editora-34--o-principe--2017   # escolha sua, cartão d-ed-maquiavel (2026-10-30); antes Penguin-Companhia
 
   # PARTICIPAÇÕES NOVAS — decisão sua de 2026-09-28, com as duas caixas da
   # Nova Fronteira. As três ficam no movimento IV por período: são peças de
@@ -415,7 +418,6 @@ sequence:
     publication_pref: pub--penguin-companhia--manifesto-comunista--2012   # escolha sua (2026-09-23)
 
   - work: marx--achtzehnte-brumaire
-    core: true
     role: primary-source
     demand: moderado
     why_here: "Análise concreta de Estado, classes, representação, revolução
@@ -425,7 +427,6 @@ sequence:
     publication_pref: pub--boitempo--o-18-de-brumario--2011   # escolha sua (2026-09-23)
 
   - work: dostoievski--besy
-    core: true
     role: literary-treatment
     demand: exigente
     why_here: "Niilismo, radicalização, revolução, conspiração, violência
@@ -524,7 +525,6 @@ sequence:
     publication_pref: pub--editora-34--nos--2017   # decisão sua, 2026-10-10 (d-ed-zamiatin)
 
   - work: huxley--brave-new-world
-    core: true
     role: literary-treatment
     demand: leve
     why_here: "Condicionamento, consumo, prazer, conformismo e engenharia
@@ -563,7 +563,6 @@ sequence:
     publication_pref: pub--setimo-selo--escuridao-ao-meio-dia--2022   # escolhida em 2026-10-09 (Etapa 1): única tradução do original alemão; pesquisa na obra
 
   - work: popper--the-open-society
-    core: true
     role: critical-response
     demand: exigente
     why_here: "Crítica ao historicismo e às concepções que pretendem descobrir
@@ -599,7 +598,6 @@ sequence:
     # "Quatro Ensaios sobre a Liberdade", que contém quatro obras.
 
   - work: aron--lopium-des-intellectuels
-    core: true
     role: critical-response
     demand: moderado
     why_here: "Ideologia, mito revolucionário, intelectuais e crítica do
@@ -659,7 +657,6 @@ sequence:
     moved_by: claude             # ver order_changes
 
   - work: orwell--animal-farm
-    core: true
     role: literary-treatment
     demand: leve
     why_here: "Revolução, propaganda, corrupção dos ideais, revisionismo
@@ -702,7 +699,6 @@ sequence:
     publication_pref: pub--unesp--mudanca-estrutural-da-esfera-publica--2014   # escolhida em 2026-10-10 (Etapa 1): tradução mais recente e única em catálogo; pesquisa na obra
 
   - work: dahl--on-democracy
-    core: true
     role: foundational
     demand: leve
     why_here: "Democracia como problema institucional: participação,
@@ -743,7 +739,6 @@ sequence:
     purpose_by: claude
 
   - work: rothbard--anatomy-of-the-state
-    core: true
     role: critical-response
     demand: leve
     why_here: "Crítica concentrada da natureza e das funções coercitivas do
@@ -763,7 +758,6 @@ sequence:
     publication_pref: pub--lvm--a-etica-da-liberdade--2010   # escolha sua (2026-09-23)
 
   - work: hoppe--democracy-the-god-that-failed
-    core: true
     role: critical-response
     demand: moderado
     why_here: "Crítica libertária da democracia, do Estado e dos incentivos

@@ -33,7 +33,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — aplicar a revisão: 21 estrelas.", note: "Aplicado. Perderam a estrela O 18 de Brumário, Os Demônios, Admirável Mundo Novo, A Fazenda dos Animais, Popper, Aron, Dahl, Anatomia do Estado e Hoppe; ganharam Confúcio, Ibn Khaldun e Agostinho. Nenhuma obra mudou de lugar."}
   source: review/political-thought.md §11
   question: "Rever as estrelas de Política, que hoje marcam metade da coleção?"
   why: "A estrela marca a obra indispensável: sem ela a coleção não responde bem à pergunta (com que direito uns governam outros, e quando esse governo é legítimo), e nenhuma outra obra ocupa o lugar dela. Política tem 27 estrelas em 54 obras, todas da sua lista. Aplicando a regra, 18 continuam, 9 perdem a estrela porque outra obra já ocupa o lugar delas, e 3 obras que não tinham estrela deveriam ter. Nenhuma obra sai da coleção; só muda a marca."
@@ -263,7 +264,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção B — quero sugestões.", note: "As sugestões estão no cartão d-greco-material-opcoes."}
   source: greco-roman--g02
   question: "Greco-Romana deve incluir arte, arquitetura e arqueologia, ou ficar só com textos?"
   why: "Nenhuma obra trata de escultura, arquitetura, cerâmica, urbanismo ou arqueologia. A coleção se chama \"Cultura e História\", mas toda a sua evidência é textual."
@@ -272,6 +274,26 @@ items:
     - {key: B, title: "Quero sugestões", effect: "Eu trago uma ou duas obras de cultura material para você avaliar."}
     - {key: C, title: "Agora não", effect: "Nada muda."}
   recommendation: "nenhuma — é uma escolha de escopo, e as duas respostas são legítimas."
+
+- id: d-greco-material-opcoes
+  kind: obra
+  collections: [greco-roman]
+  priority: media
+  state: decidir
+  source: greco-roman--g02
+  question: "Qual obra traz para Greco-Romana a arte, a arquitetura e a arqueologia?"
+  why: "Toda a evidência da coleção é textual: nenhuma obra trata de escultura, pintura de vasos, templos, cidades ou escavações. Uma obra basta para abrir essa porta; mais que isso transformaria a coleção numa história da arte. Procurei obras que tratem de Grécia e Roma juntas, como a coleção, e que leiam as imagens como evidência histórica, não só como estilo."
+  options:
+    - {key: A, recommended: true, title: "*Classical Art*, de Mary Beard e John Henderson", effect: "A arte grega e romana num volume da Oxford History of Art, escrito por uma historiadora que já está na coleção (*SPQR*). Entra no movimento XII, sobre o legado e a interpretação. Só existe em inglês."}
+    - {key: B, title: "*Arquitetura Grega e Romana*, de D. S. Robertson", effect: "O manual clássico de arquitetura antiga, em português (WMF Martins Fontes, trad. Julio Fischer). É de 1929, revisto em 1943: sólido nos edifícios, mas antigo."}
+    - {key: C, title: "*Greek and Roman Art*, de Susan Woodford", effect: "Introdução curta e ilustrada (Thames & Hudson, 2020), em inglês. Mais fácil, menos interpretativa."}
+    - {key: D, title: "Ficar só com textos", effect: "Fica registrado que a coleção é deliberadamente textual; a questão é arquivada."}
+  recommendation: "Beard e Henderson fazem exatamente a pergunta que falta à coleção: o que as imagens e os edifícios dizem sobre quem os fez e quem os olhava, de Atenas a Roma. É curto, interpretativo e conversa com o *SPQR*. O custo é o inglês; se você preferir português, Robertson é a opção, mas cobre só a arquitetura e envelheceu."
+  candidates:
+    - {title: "Classical Art: From Greece to Rome", author: "Mary Beard e John Henderson · 2001", verdict: resolve, best: true, adds: "A arte grega e romana lida como evidência: quem fazia, para quem, e como o Ocidente a reinventou.", facts: ["Oxford History of Art", "-Só em inglês", "+Mesma autora do SPQR"]}
+    - {title: "Arquitetura Grega e Romana", author: "D. S. Robertson · 1929/1943", verdict: complementa, adds: "Templos, teatros e cidades, da Grécia arcaica a Constantinopla.", facts: ["+Em português", "-Só arquitetura", "-Antigo"]}
+    - {title: "Greek and Roman Art", author: "Susan Woodford · 2020", verdict: complementa, adds: "Introdução curta e muito ilustrada.", facts: ["-Só em inglês", "Introdutório"]}
+    - {title: "Grécia e Roma", author: "Pedro Paulo Funari · 2001", verdict: outra, adds: "Introdução brasileira à Antiguidade por um arqueólogo; é um panorama histórico, não uma obra de arte ou arqueologia.", facts: ["+Em português", "-Panorama, não arte"]}
 
 - id: d-greco-ciencia
   kind: obra
@@ -469,7 +491,8 @@ items:
   kind: obra
   collections: [education]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir o Emílio.", note: "Aplicado. O Emílio entrou no movimento II de Educação, antes de Dewey, com estrela, na tradução de Thomaz Kawauche (Editora Unesp, 2022, revisão técnica e posfácio de Thiago Vargas), recomendada e à venda nova. É a primeira obra da região do Iluminismo."}
   source: "review/education.md §10"
   question: "Incluir em Educação o *Emílio*, de Jean-Jacques Rousseau?"
   why: "*Emílio, ou Da Educação* (1762) é o livro que funda a educação centrada na criança e no seu desenvolvimento natural. A coleção tem John Dewey, que herda essa ideia, e Mortimer Adler e E. D. Hirsch, que a combatem, mas não a voz original. O século XVIII já aparecia como ausência no mapa da coleção."
@@ -485,7 +508,8 @@ items:
   kind: obra
   collections: [culture]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Opção A — incluir as Notas para a Definição de Cultura.", note: "Aplicado. Entrou no fim do movimento I de Cultura, depois de Freud, com estrela, na tradução de Eduardo Wolf (É Realizações, 2011), recomendada; hoje se acha sobretudo usada."}
   source: "review/culture.md §14"
   question: "Incluir em Cultura as *Notas para a Definição de Cultura*, de T. S. Eliot?"
   why: "A pergunta da coleção é o que é a cultura e como ela se transmite, se degrada ou se perde. O livro clássico sobre exatamente isso é o do poeta T. S. Eliot, de 1948: a cultura como modo de vida inteiro, transmitido pela família, pelas classes e pelas regiões, e o que acontece quando essa transmissão se rompe. Os diagnósticos que a coleção traz depois (Roger Scruton, Mario Vargas Llosa) dialogam com ele."
@@ -932,7 +956,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-30, choice: "Edição B — Editora 34, 2017, bilíngue.", note: "Aplicado. Registrada a edição bilíngue da Editora 34 (trad., introdução e notas de Diogo Pires Aurélio), recomendada e preferida em Política; a Penguin-Companhia fica como alternativa."}
   question: "Qual edição de *O Príncipe*, de Nicolau Maquiavel?"
   why: "Você indicou a da Penguin-Companhia, traduzida por Maurício Santana Dias. Pesquisei e achei outra tão boa quanto ela, por outros motivos: a da Editora 34, bilíngue, traduzida por Diogo Pires Aurélio. Por enquanto aparece a sua indicação."
   editions:

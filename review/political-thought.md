@@ -609,3 +609,6 @@ dele. Por isso a revisão **não foi aplicada**: está no cartão `d-pol-estrela
 **Proporção.** São 21 de 54, perto de 40%, mais do que nas outras coleções.
 Política é a coleção mais densa de grandes livros (29 A). Com Nozick e *O
 Federalista*, já decididos, o número de obras sobe e a proporção cai.
+
+**Aplicada em 2026-10-30** (cartão `d-pol-estrelas`, opção A, decisão do
+Mathews). Política fica com 21 estrelas em 54 obras.

@@ -157,6 +157,7 @@ scope_map:
        note: "Método, racionalismo e empirismo entram na educação; Reforma e
               Contrarreforma disputam a escola."}
     - {id: iluminismo-seculo-xviii,  coverage: thin, pursuit: open,
+       held_by: [rousseau--emile],
        note: "A ruptura ilustrada: natureza, autonomia, e a educação como
               formação do indivíduo contra a tradição herdada."}
     - {id: seculo-xix,               coverage: thin,   pursuit: open,
@@ -393,6 +394,17 @@ sequence:
   # de Ozmon, que apresenta o pragmatismo como uma das doutrinas, e antes de
   # Hirsch, para que a crítica dele se leia depois da posição que ela ataca.
   # -------------------------------------------------------------------------
+  # ACRÉSCIMO — decisão sua de 2026-10-30 (cartão d-edu-adler-emilio, opção A).
+  - work: rousseau--emile
+    role: foundational
+    core: true                  # ★ 2026-10-30, ver review/education.md §15
+    demand: exigente
+    why_here: "A voz original da educação centrada na criança e no seu
+               desenvolvimento natural. Dewey herda esta ideia; Adler e
+               Hirsch a combatem."
+    why_here_by: claude
+    publication_pref: pub--unesp--emilio-ou-da-educacao--2022
+
   - work: dewey--democracy-and-education
     role: foundational
     core: true                  # ★ 2026-10-27, ver review/education.md §15
