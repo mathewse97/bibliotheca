@@ -197,19 +197,23 @@ items:
   state: decidir
   source: religion--g02
   question: "Quais obras trazem para o movimento \"Religiões específicas\" o hinduísmo, o islamismo e o judaísmo?"
-  why: "Você pediu sugestões. O movimento tem duas obras de budismo, um estudo e um texto sagrado. Seguindo esse modelo, procurei para cada tradição o texto central em boa tradução brasileira. Para o hinduísmo e o islamismo achei traduções diretas do original. Para o judaísmo, a Bíblia hebraica já está na coleção, no movimento IV; o que falta é o judaísmo depois da Bíblia, e o clássico sobre isso é um estudo."
+  why: "Você pediu sugestões. O movimento tem duas obras de budismo: um estudo (Rahula) e o texto sagrado (Dhammapada). Seguindo esse modelo, procurei para cada tradição um estudo e o texto central, só em português. O judaísmo já tem o texto, a Bíblia hebraica, no movimento IV; falta o estudo. A coleção já passa pelas três nos panoramas de Eliade, Armstrong e Noss, mas com um capítulo para cada uma."
+  update: "Atualizado em 2026-10-31, a seu pedido: acrescentei um estudo da história de cada tradição, só onde achei em português."
   options:
-    - {key: A, recommended: true, title: "Bhagavad Gita, o Alcorão e Scholem", effect: "Entram: a Bhagavad Gita, na tradução de Rogério Duarte, direta do sânscrito; o Alcorão, na tradução de Helmi Nasr, arabista da USP, direta do árabe e bilíngue; e As Grandes Correntes da Mística Judaica, de Gershom Scholem (Perspectiva). Eu confiro e registro as edições antes de aplicar."}
-    - {key: B, title: "Só a Bhagavad Gita e o Alcorão", effect: "Entram os dois textos sagrados. O judaísmo continua representado pela Bíblia hebraica, no movimento IV."}
-    - {key: C, title: "Ajustar a frase do movimento", effect: "O movimento passa a dizer que trata do budismo; as outras tradições saem do escopo declarado."}
-    - {key: D, title: "Agora não", effect: "Nada muda."}
-  recommendation: "uma obra por tradição, como o budismo já tem, cumpre a frase que você escreveu sem inchar a coleção. A Gita é o texto do hinduísmo mais lido e o mais curto dos grandes; o Alcorão é o centro do islã; e Scholem é a obra que mostrou que o judaísmo depois da Bíblia tem uma vida religiosa própria, da mística antiga à cabala e ao hassidismo. Atenção: ainda não conferi a edição atual de nenhum dos três, e farei isso antes de aplicar."
+    - {key: A, recommended: true, title: "Um estudo e um texto para cada tradição", effect: "Hinduísmo: Uma Introdução ao Hinduísmo, de Gavin Flood (Editora UFJF, 2014, trad. Dilip Loundo e Fernanda Winter), e a Bhagavad Gita (trad. Rogério Duarte, direta do sânscrito). Islã: O Mundo Muçulmano, de Peter Demant (Contexto), e o Alcorão (trad. Helmi Nasr, direta do árabe, bilíngue). Judaísmo: As Grandes Correntes da Mística Judaica, de Gershom Scholem (Perspectiva). Cinco obras; eu confiro as edições antes de aplicar."}
+    - {key: B, title: "Só os textos e Scholem", effect: "A Bhagavad Gita, o Alcorão e Scholem, sem os dois estudos."}
+    - {key: C, title: "Só a Bhagavad Gita e o Alcorão", effect: "Entram os dois textos sagrados. O judaísmo continua com a Bíblia hebraica, no movimento IV."}
+    - {key: D, title: "Ajustar a frase do movimento", effect: "O movimento passa a dizer que trata do budismo; as outras tradições saem do escopo declarado."}
+    - {key: E, title: "Agora não", effect: "Nada muda."}
+  recommendation: "repete o que o movimento já faz com o budismo e dá a cada texto sagrado o contexto que ele pede. Flood é a introdução acadêmica ao hinduísmo mais usada nas universidades de língua inglesa, traduzida por um indólogo da UFJF. Demant, professor de história da USP, escreveu em português uma história do islã que vai de Maomé ao fundamentalismo de hoje. Scholem é a obra que mostrou que o judaísmo depois da Bíblia tem uma vida religiosa própria, da mística antiga à cabala e ao hassidismo. Atenção: ainda não conferi a disponibilidade da edição de Flood nem a edição atual dos textos sagrados."
   candidates:
+    - {title: "Uma Introdução ao Hinduísmo", author: "Gavin Flood · 1996", verdict: resolve, best: true, adds: "O hinduísmo dos Vedas às práticas de hoje: história, textos, deuses, rituais e escolas.", facts: ["+Editora UFJF 2014, trad. Dilip Loundo e Fernanda Winter", "-Disponibilidade a conferir"]}
     - {title: "Bhagavad Gita", author: "parte do Mahabharata · c. séc. II a.C.", verdict: resolve, best: true, adds: "O diálogo entre o guerreiro Arjuna e o deus Krishna antes da batalha: dever, ação sem apego e devoção.", facts: ["+Trad. Rogério Duarte, direta do sânscrito", "-Edição atual a conferir"]}
+    - {title: "O Mundo Muçulmano", author: "Peter Demant · 2004", verdict: resolve, best: true, adds: "A história do islã, das origens ao fundamentalismo contemporâneo, por um historiador da USP.", facts: ["+Escrito em português (Contexto)", "+Novo, cerca de R$ 90"]}
     - {title: "O Alcorão", author: "c. 610–632", verdict: resolve, best: true, adds: "O texto central do islã.", facts: ["+Trad. Helmi Nasr, direta do árabe, bilíngue", "Tradução feita para a Liga Mundial Muçulmana", "-Edição atual a conferir"]}
     - {title: "As Grandes Correntes da Mística Judaica", author: "Gershom Scholem · 1941", verdict: resolve, best: true, adds: "A história da mística judaica, da Antiguidade à cabala e ao hassidismo; a obra que fundou o estudo moderno do tema.", facts: ["+Perspectiva, coleção Estudos", "Estudo, não fonte"]}
+    - {title: "O Islã", author: "Karen Armstrong · 2000", verdict: complementa, adds: "História curta do islã, de leitura fácil.", facts: ["+Objetiva 2002, em português", "-Só usado", "-Armstrong já está na coleção"]}
     - {title: "O Alcorão", author: "trad. Mansour Challita", verdict: complementa, adds: "Tradução de leitura corrente, sem o árabe.", facts: ["+Em catálogo", "-Sem aparato acadêmico conhecido"]}
-    - {title: "Hinduism: A Very Short Introduction", author: "Kim Knott · 1998/2016", verdict: outra, adds: "Introdução curta e confiável ao hinduísmo vivo.", facts: ["-Em inglês", "Introdução, não fonte"]}
 
 - id: d-rel-especificas
   kind: obra
