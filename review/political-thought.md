@@ -621,3 +621,15 @@ passa a 22 estrelas em 55 obras. Hoppe, *Nós*, *A Fazenda dos Animais* e
 Levitsky e Ziblatt continuam na coleção como leitura complementar (cartões
 `d-pol-adler-hoppe`, `d-pol-adler-distopias`, `d-pol-adler-levitsky`); nenhum
 deles tinha estrela.
+
+**Atualização de 2026-10-31 (2).** Entraram com estrela o *Tratado da Lei*, de
+Tomás de Aquino (cartão `d-pol-adler-aquino`), e *O Capital*, livro I, de Karl
+Marx (cartão `d-pol-adler-marxismo`). O *Tratado* é a teoria da lei natural,
+lugar que nenhuma outra obra ocupa; *Do Governo dos Príncipes* fica sem
+estrela, como antes. *O Capital* é a obra principal de Marx e a crítica mais
+forte à legitimidade da ordem liberal; o *Manifesto* mantém a estrela como a
+exposição política curta. *O Homem Unidimensional*, de Herbert Marcuse, que
+não tinha estrela, saiu e foi apagado da biblioteca. Política passa a 24
+estrelas em 56 obras, perto de 43%: alta, mas é a coleção com mais grandes
+livros. A estrela do *Manifesto* é a primeira candidata a sair se você quiser
+baixar a proporção.

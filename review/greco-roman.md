@@ -485,3 +485,10 @@ Nenhuma das cinco tinha estrela. Ficam 25 de 86.
 movimento VII logo depois da *Vida de Demóstenes* (cartão `d-greco-cicero`),
 sem estrela: é fonte primária da república romana tardia, mas as *Vidas* de
 Plutarco na coleção não têm estrela, e a de César já faz a passagem para Roma.
+
+**Atualização de 2026-10-31 (2).** Sófocles ficou completo (cartão
+`d-greco-adler-tragedias`, opção B): *Ájax*, *As Traquínias*, *Electra* e
+*Filoctetes* entraram sem estrela, logo depois de *Antígona*; a estrela de
+Sófocles continua em *Édipo Rei*. Dez peças de Eurípides viraram leitura
+complementar. *O Ciclope* entrou como passo, sem estrela, e *Alceste* como
+complementar (cartão `d-greco-ciclope-alceste`).

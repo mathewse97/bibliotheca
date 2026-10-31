@@ -30,9 +30,6 @@ relations:
   - {type: prerequisite_for, target: popper--the-open-society,
      note: "Popper ataca o historicismo — a tese de que a história tem leis e
             direção. É aqui que essa tese é enunciada de forma direta."}
-  - {type: prerequisite_for, target: marcuse--one-dimensional-man,
-     note: "Marcuse pressupõe a concepção materialista da história; não a
-            expõe. Ler a releitura antes do texto relido inverte a ordem."}
 
 derived_from:
   source: lacuna-aprovada
@@ -75,8 +72,8 @@ autores e só foi publicada em 1932.
 ## Lugar na biblioteca
 
 Fecha `political-thought--g03`. É o alvo declarado de Popper, *A Sociedade
-Aberta e Seus Inimigos*, e o pressuposto de Marcuse, *O Homem Unidimensional*
-— e a coleção tinha os dois sem ter isto.
+Aberta e Seus Inimigos*, e o pressuposto de Lukács, *História e Consciência
+de Classe* — e a coleção tinha os dois sem ter isto.
 
 ## Edições — pesquisa de 2026-10-09
 

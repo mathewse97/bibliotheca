@@ -321,7 +321,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — quero sugestões.", note: "As sugestões estão no cartão d-greco-ciencia-opcoes."}
   source: greco-roman--g03
   question: "Greco-Romana deve incluir ciência e medicina antigas, e religião romana?"
   why: "A coleção conta a passagem do mito ao pensamento racional sem a matemática, a astronomia e a medicina que fazem parte dela. E a religião romana não tem obra — a coleção Religião, agora importada, também não a cobre."
@@ -331,11 +332,33 @@ items:
     - {key: C, title: "Descartar", effect: "As duas áreas ficam fora do escopo; a questão é arquivada."}
   recommendation: "é a de menor prioridade da coleção; as fontes romanas vêm antes."
 
-- id: d-greco-ciclope-alceste
+- id: d-greco-ciencia-opcoes
   kind: obra
   collections: [greco-roman]
   priority: baixa
   state: decidir
+  source: greco-roman--g03
+  question: "Quais obras trazem para Greco-Romana a ciência e a medicina antigas, e a religião romana?"
+  why: "Você pediu sugestões. Procurei fontes antigas com tradução brasileira de tradutor conhecido. Para a medicina e para a religião romana há uma boa em cada área; para a matemática, a tradução completa de Euclides. Os estudos modernos que amarram tudo, como o de G. E. R. Lloyd sobre a ciência grega, não têm tradução em português que eu tenha achado."
+  options:
+    - {key: A, recommended: true, title: "Textos hipocráticos e os Fastos de Ovídio", effect: "Textos hipocráticos: o doente, o médico e a doença (Fiocruz, 2005, trad. Henrique Cairus e Wilson Ribeiro Jr.) entra no movimento V, junto da passagem do mito ao pensamento racional. Os Fastos, de Ovídio (Autêntica, 2015, bilíngue, trad. Márcio Meirelles Gouvêa Júnior), entram no movimento sobre Roma."}
+    - {key: B, title: "A opção A e também Euclides", effect: "Entram também Os Elementos, de Euclides (Unesp, 2009, trad. Irineu Bicudo, completa), com indicação de ler o livro I."}
+    - {key: C, title: "Só os Textos hipocráticos", effect: "A medicina entra; a religião romana continua sem obra."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "os textos hipocráticos são o lugar em que a passagem do mito à razão fica mais clara: o tratado Da doença sagrada argumenta que a epilepsia não vem dos deuses, mas de causas naturais. Os Fastos percorrem o calendário romano, festa por festa, e são a melhor fonte antiga para a religião praticada em Roma. As duas edições são acadêmicas, com introdução e notas, e os Textos hipocráticos estão de graça na SciELO Livros. Euclides é um grande livro, mas pesa: só vale se você quiser a matemática como passo da coleção."
+  candidates:
+    - {title: "Textos hipocráticos: o doente, o médico e a doença", author: "Hipócrates e escola · séc. V–IV a.C.", verdict: resolve, best: true, adds: "Juramento, Da natureza do homem, Da doença sagrada, Ares, águas e lugares e os textos sobre o médico: a medicina grega separando-se da religião.", facts: ["+Fiocruz 2005, trad. Henrique Cairus e Wilson Ribeiro Jr.", "+Introdução e notas", "+Grátis na SciELO Livros"]}
+    - {title: "Fastos", author: "Ovídio · c. 8 d.C.", verdict: resolve, best: true, adds: "O calendário religioso romano em verso: cada festa, seus ritos e as lendas que os explicam.", facts: ["+Autêntica 2015, bilíngue", "+Trad. Márcio Meirelles Gouvêa Júnior", "Em verso"]}
+    - {title: "Os Elementos", author: "Euclides · c. 300 a.C.", verdict: complementa, adds: "A geometria grega como sistema de definições, postulados e demonstrações; o modelo de prova por séculos.", facts: ["+Unesp 2009, trad. Irineu Bicudo, completa e direta do grego", "-Longo e técnico"]}
+    - {title: "A Natureza dos Deuses", author: "Cícero · 45 a.C.", verdict: complementa, adds: "Um epicurista, um estoico e um cético discutem se os deuses existem e cuidam dos homens.", facts: ["+Edufu 2016, bilíngue, trad. Bruno Fregni Bassetto", "-Completude não confirmada", "-Mais filosofia que religião praticada"]}
+    - {title: "Early Greek Science: Thales to Aristotle", author: "G. E. R. Lloyd · 1970", verdict: outra, adds: "O estudo curto e clássico da ciência grega, dos pré-socráticos a Aristóteles.", facts: ["-Só em inglês", "Livro de estudo, não fonte"]}
+
+- id: d-greco-ciclope-alceste
+  kind: obra
+  collections: [greco-roman]
+  priority: baixa
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — incluir as duas.", note: "Aplicado. As duas entraram no movimento IV logo depois de Medeia, no mesmo Teatro completo I (Editora 34, trad. Jaa Torrano), sem compra nova. O Ciclope ficou como passo, por ser o único drama satírico completo; Alceste ficou como leitura complementar, como as dez peças de Eurípides do cartão d-greco-adler-tragedias."}
   question: "Incluir *O Ciclope* e *Alceste* em Greco-Romana?"
   why: "As duas peças estão no mesmo volume de Eurípides que você já tem indicado (Teatro completo I, junto com *Medeia*), mas não estão na coleção. Já as peças dos volumes II a V estão todas."
   options:
@@ -1144,7 +1167,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição A — Edições 70 (Lisboa), 2012–2013, 2 volumes.", note: "Aplicado. Os dois volumes passaram a recomendados; deixou de ser provisória."}
   question: "Qual edição de *A sociedade aberta e seus inimigos*, de Popper?"
   why: "Você indicou a da Itatiaia, trad. Milton Amado. Pesquisei: ela é a única tradução brasileira, mas está esgotada há décadas e só se acha rara (um jogo de 2 volumes a R$ 500 na Estante Virtual). A alternativa em catálogo é portuguesa, da Edições 70. Nenhuma fonte compara as duas traduções. Por enquanto aparece a portuguesa."
   editions:
@@ -1583,7 +1607,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — manter os dois.", note: "Aplicado. O Tratado da Lei (Suma Teológica I-II, q. 90–97) entrou logo antes de Do Governo dos Príncipes, com estrela. Está no mesmo volume da Vozes já escolhido (Escritos Políticos, trad. Francisco Benjamin de Souza Neto), sem compra a mais."}
   source: review/political-thought.md §10
   question: "Trocar a obra de Tomás de Aquino em Política pelo *Tratado da Lei*?"
   why: "Hoje está *Do Governo dos Príncipes* (c. 1267), de Tomás de Aquino, teólogo e filósofo do século XIII: um texto curto, escrito como conselho a um rei, que defende a monarquia voltada ao bem comum. Aquino o deixou inacabado, e outro autor o completou. Você incluiu Aquino por lei natural, autoridade, bem comum e legitimidade. Mas a lei natural, a ideia de uma lei acima das leis humanas, está em outro texto: o *Tratado da Lei*, um trecho curto da *Suma Teológica*, a obra principal dele."
@@ -1641,7 +1666,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — incluir O Capital (livro I) e tirar O Homem Unidimensional, de Herbert Marcuse; apagar da biblioteca todos os registros de O Homem Unidimensional.", note: "Aplicado. O Capital, livro I, entrou no movimento VI depois de O 18 de Brumário, com estrela e com indicação das partes centrais; edição Boitempo, trad. Rubens Enderle, sobre a MEGA-2. O Homem Unidimensional foi apagado: a obra, a edição da Edipro, a capa, o autor, o tradutor e o autor da introdução, e as ligações com A Ideologia Alemã e Admirável Mundo Novo. A lacuna political-thought--g04 continua fechada por Lukács. O nome continua só no histórico de decisões, nas revisões e nas lacunas."}
   source: review/political-thought.md §10
   question: "Trazer *O Capital*, de Karl Marx, para Política, e no lugar de qual obra?"
   why: "A coleção tem três obras exigentes de pensadores do século XX ligados à tradição marxista: Georg Lukács, Herbert Marcuse e Jürgen Habermas. Juntas pesam mais que o próprio Marx, de quem a coleção tem só textos curtos: o *Manifesto Comunista*, *O 18 de Brumário* e a primeira parte de *A Ideologia Alemã*. Falta a obra principal dele, *O Capital*, em que Marx explica como, para ele, o capitalismo funciona e explora o trabalho."
@@ -1683,7 +1709,8 @@ items:
   kind: colecao
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — a opção A e, além disso, completar Sófocles.", note: "Aplicado. De Eurípides ficam como passos Medeia, Hipólito, Electra, As Troianas e As Bacantes; as outras dez viraram leitura complementar. Sófocles ficou completo: Ájax, As Traquínias e Filoctetes (Editora 34, edições bilíngues) e Electra (Ateliê, Electra(s)), todas na tradução de Trajano Vieira, direta do grego, entraram logo depois de Antígona."}
   source: review/greco-roman.md §9
   question: "Manter as quinze tragédias de Eurípides como passos obrigatórios de Greco-Romana?"
   why: "Eurípides, o mais jovem dos três grandes autores de tragédia de Atenas (século V a.C.), tem quinze peças na coleção. Elas entraram porque você indicou os volumes completos da tradução de Jaa Torrano. Ésquilo está completo, com sete peças, e Sófocles tem só três das sete que sobreviveram. Para Adler, todas as tragédias gregas são grandes livros: o problema não é a qualidade, é o peso. São quinze passos seguidos do mesmo autor."
@@ -1926,7 +1953,8 @@ items:
   kind: regra
   collections: []
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção C — não mudar nada.", note: "Nenhuma regra mudou. Vale o que já está escrito: um movimento deve continuar verdadeiro depois de entrarem mais obras."}
   question: "Proibir que eu escreva o propósito de um movimento a partir das obras que já estão dentro dele?"
   why: "Foi o erro desta conversa. O movimento X de Política tem título seu — *Literatura como crítica política*, que é amplo — e propósito meu, que eu inferi dos seis romances que estavam lá: *como a ideologia é vivida por dentro*. Com esse propósito no arquivo, eu passei duas respostas defendendo que Júlio César não cabia na coleção. Estava defendendo um rascunho meu contra a sua obra, sem perceber. As regras já me proíbem de tirar os critérios de inclusão de uma coleção das obras que ela já tem; não dizem nada sobre o propósito de um movimento, que é a mesma falha um nível abaixo."
   options:

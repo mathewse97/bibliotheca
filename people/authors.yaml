@@ -1009,12 +1009,6 @@ horkheimer:
   dates: null                 # a pesquisar
   note: "Diretor do Instituto de Pesquisa Social de Frankfurt a partir de 1930."
 
-marcuse:
-  name_display: "Herbert Marcuse"
-  name_variants: []
-  dates: null                 # a pesquisar
-  note: null
-
 lukacs:
   name_display: "Georg Lukács"
   name_variants: ["György Lukács"]
@@ -1616,21 +1610,6 @@ rodnei-nascimento:
   note: "Tradutor, não autor. Traduziu História e consciência de classe, de
          Lukács, para a Martins Fontes / WMF Martins Fontes."
   role: translator
-
-robespierre-oliveira:
-  name_display: "Robespierre de Oliveira"
-  name_variants: []
-  dates: null
-  note: "Tradutor, não autor. Primeiro nome da equipe que traduziu O homem
-         unidimensional, de Marcuse, para a Edipro (2015)."
-  role: translator
-
-kellner:
-  name_display: "Douglas Kellner"
-  name_variants: []
-  dates: null
-  note: "Estudioso de Marcuse. Autor da introdução à segunda edição de O homem
-         unidimensional, reproduzida na edição da Edipro (2015)."
 
 franco-de-sa:
   name_display: "Alexandre Franco de Sá"

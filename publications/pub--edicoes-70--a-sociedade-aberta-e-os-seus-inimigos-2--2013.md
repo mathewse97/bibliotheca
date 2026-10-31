@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: popper--the-open-society
     why: "Volume 2 de 2, com a mesma tradução, revisão e prefácio; a obra só fica inteira com os dois volumes. Português de Portugal; precisa ser importado."
-    verdict: unassessed
-    reason: "Volume 2 de 2 — candidato A do cartão d-ed-popper. A obra só fica inteira com o vol. 1 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012)."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-31 (cartão d-ed-popper, edição A), comparada com a da Itatiaia (trad. Milton Amado, 1974, esgotada e rara). Volume 2 de 2. A obra só fica inteira com o vol. 1 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012)."
     translator: [miguel-freitas-da-costa]
     translated_from: direct
     source_text: null
@@ -84,4 +84,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-popper.** Volume 2 de 2.
+**Recomendada** (2026-10-31). Sua escolha: em catálogo, com prefácio de João Carlos Espada; português de Portugal. Volume 2 de 2.
