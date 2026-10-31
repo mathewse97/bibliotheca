@@ -627,7 +627,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
-    publication_pref: pub--unb--quatro-ensaios-sobre-a-liberdade--1981   # provisória: a escolha está no cartão d-ed-berlin (2026-10-10)
+    publication_pref: pub--unb--quatro-ensaios-sobre-a-liberdade--1981   # decisão sua, 2026-10-31 (cartão d-ed-berlin, edição A)
     # form: essay (no registro da obra). A publicação será provavelmente
     # "Quatro Ensaios sobre a Liberdade", que contém quatro obras.
 

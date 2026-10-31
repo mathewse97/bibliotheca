@@ -71,9 +71,10 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 17 obras.**
-  Recomendadas: 247 publicações; alternativas: 16. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (1): Berlin (`d-ed-berlin`).
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 16 obras.**
+  Recomendadas: 253 publicações; alternativas: 16. O que falta em cada uma:
+  - *Decisão do Mathews em cartão*: nenhuma; Berlin foi decidido em
+    2026-10-31 (`d-ed-berlin`, Quatro ensaios sobre a liberdade, UnB).
   - *Tradutor não identificado, edições novas de 2026-10-31* (2): Eusébio,
     *História Eclesiástica* (Paulus, Patrística 15), e Lutero, *Da Liberdade
     do Cristão* (Unesp, bilíngue); conferir no livro.
