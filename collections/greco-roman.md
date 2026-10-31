@@ -1102,6 +1102,18 @@ sequence:
     subjects_stated: [expansao, integracao-imperial, cidades, povos, religiao,
                       administracao, cultura, transformacao-do-mediterraneo]
 
+  # PARTICIPAÇÃO NOVA — cartão d-greco-romanas-opcoes, opção A (2026-10-31).
+  - work: polibio--historiai
+    role: primary-source
+    demand: exigente
+    why_here: "Como Roma chegou a dominar o Mediterrâneo, contado por um grego
+               que viveu entre os romanos. Leia buscando a explicação de
+               Políbio para o sucesso de Roma, e compare com a de Mary Beard."
+    why_here_by: claude
+    inserted_by: claude
+    scope: "Só os livros I a V, os da edição: da Primeira Guerra Púnica a Canas."
+    publication_pref: pub--perspectiva--historia-pragmatica-livros-i-a-v--2016
+
   - work: virgilio--aeneis
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/greco-roman.md
@@ -1138,6 +1150,19 @@ sequence:
     closes_gap: greco-roman--g03
     publication_pref: pub--autentica--fastos--2015
 
+  # PARTICIPAÇÃO NOVA — cartão d-greco-romanas-opcoes, opção A (2026-10-31).
+  - work: tacito--annales
+    core: true
+    role: primary-source
+    demand: exigente
+    why_here: "O principado de Tibério a Nero pelo maior historiador latino:
+               o poder de um só instalado sob as formas da república, e o que
+               restou da liberdade do senado. Leia buscando a distância entre
+               as instituições e o poder real."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--oxford-wc--the-annals--2008
+
   - work: apuleio--metamorphoses-asinus-aureus
     role: primary-source
     demand: moderado
@@ -1170,6 +1195,20 @@ sequence:
               vida no mundo romano."
     purpose_by: voce
     regions: [filosofia-romana]
+
+  # PARTICIPAÇÃO NOVA — cartão d-greco-adler-lucrecio, opção A (2026-10-31).
+  - work: lucrecio--de-rerum-natura
+    core: true
+    role: primary-source
+    demand: exigente
+    why_here: "O epicurismo exposto por inteiro, em poema: átomos e vazio, a
+               alma mortal, e por que não temer a morte nem os deuses. Sem ele,
+               a filosofia romana da coleção seria só estoica. Leia buscando a
+               resposta ao medo, e depois veja Cícero e Sêneca discutindo com
+               ela."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--autentica--sobre-a-natureza-das-coisas--2021
 
   - work: cicero--de-officiis
     role: primary-source
@@ -1308,6 +1347,20 @@ sequence:
 # ===========================================================================
 # CAMINHOS
 # ===========================================================================
+
+  # PARTICIPAÇÃO NOVA — cartão d-greco-material-opcoes, opção A (2026-10-31).
+  - work: beard-henderson--classical-art
+    role: supplementary
+    demand: moderado
+    why_here: "A única obra da coleção sobre o que não é texto: estátuas, vasos,
+               templos e cidades lidos como evidência, e a arte clássica como
+               em parte uma criação moderna. Leia buscando o que as imagens
+               dizem sobre quem as fez e quem as olhava."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--oxford-up--classical-art--2001
+
+
 paths:
   - id: cronologico
     title_pt: "Caminho cronológico"
@@ -1355,8 +1408,10 @@ paths:
             martin-blackwell--alexander-the-great,
             epicuro--epistole-pros-menoikea,
             chaniotis--age-of-conquests,
+            polibio--historiai, lucrecio--de-rerum-natura,
             virgilio--aeneis, ovidio--metamorphoses,
             cicero--de-officiis, seneca--epistulae-morales-ad-lucilium,
+            tacito--annales,
             epicteto--encheiridion, marco-aurelio--ta-eis-heauton,
             plutarco--solon, plutarco--themistokles, plutarco--perikles,
             plutarco--alkibiades, plutarco--demosthenes, plutarco--alexandros,

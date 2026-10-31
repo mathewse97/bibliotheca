@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: rousseau--du-contrat-social
     why: "Escolha sua, no lugar da tradução de Eduardo Brandão (Penguin-Companhia). Tradução de Ana Resende; não se sabe se foi feita direto do francês, e ainda não foi comparada com outras edições."
-    verdict: unassessed
-    reason: "Escolha sua (2026-09-23), no lugar da Penguin-Companhia, que hoje não está disponível nova. Comparada em 2026-10-17 com a de Os Pensadores e a da Edipro; a escolha está no cartão d-ed-rousseau."
+    verdict: alternative
+    reason: "Escolha sua (2026-09-23), no lugar da Penguin-Companhia, que hoje não está disponível nova. Comparada em 2026-10-17 com a de Os Pensadores e a da Edipro; em 2026-10-31 você escolheu a de Os Pensadores (cartão d-ed-rousseau, edição B); esta fica como alternativa, nova e fácil de comprar."
     translator: ["Ana Resende"]
     translated_from: unknown
     source_text: null
@@ -89,4 +89,4 @@ updated: 2026-10-17
 
 ## Avaliação
 
-Sem veredito: aguarda o cartão d-ed-rousseau, que a compara com a de Os Pensadores e a da Edipro.
+**Alternativa** (2026-10-31). Você escolheu a edição comentada de Os Pensadores; esta fica como alternativa, nova.

@@ -2582,3 +2582,112 @@ francisco-de-oliveira:
          do Tratado da República, de Cícero (Círculo de Leitores / Temas e
          Debates, Lisboa, 2008). Entrou em 2026-10-31."
   role: translator
+
+lucrecio:
+  name_display: "Lucrécio"
+  name_variants: ["Tito Lucrécio Caro"]
+  dates: "c. 99–c. 55 a.C."
+  note: "Poeta e filósofo epicurista romano."
+
+polibio:
+  name_display: "Políbio"
+  name_variants: []
+  dates: "c. 200–c. 118 a.C."
+  note: "Historiador grego, refém em Roma por dezessete anos."
+
+tacito:
+  name_display: "Tácito"
+  name_variants: ["Públio Cornélio Tácito"]
+  dates: "c. 56–c. 120"
+  note: "Historiador e senador romano."
+
+eusebio:
+  name_display: "Eusébio de Cesareia"
+  name_variants: []
+  dates: "c. 260–339"
+  note: "Bispo de Cesareia, na Palestina; a primeira história da Igreja."
+
+anselmo:
+  name_display: "Anselmo de Cantuária"
+  name_variants: ["Santo Anselmo"]
+  dates: "1033–1109"
+  note: "Monge beneditino e arcebispo de Cantuária."
+
+lutero:
+  name_display: "Martinho Lutero"
+  name_variants: []
+  dates: "1483–1546"
+  note: "Teólogo alemão, iniciador da Reforma protestante."
+
+henderson-john:
+  name_display: "John Henderson"
+  name_variants: []
+  dates: null
+  note: "Professor de latim em Cambridge; coautor, com Mary Beard, de Classical Art."
+
+smith-jz:
+  name_display: "Jonathan Z. Smith"
+  name_variants: ["J. Z. Smith"]
+  dates: "1938–2017"
+  note: "Historiador das religiões da Universidade de Chicago, crítico do método de Eliade."
+
+rodrigo-goncalves:
+  name_display: "Rodrigo Tadeu Gonçalves"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Professor de latim da UFPR; traduziu Sobre a
+         natureza das coisas, de Lucrécio (Autêntica, 2021)."
+  role: translator
+
+battistin-sebastiani:
+  name_display: "Breno Battistin Sebastiani"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Professor de grego da USP; traduziu, introduziu
+         e anotou os livros I a V de Políbio (Perspectiva, 2016)."
+  role: translator
+
+yardley:
+  name_display: "J. C. Yardley"
+  name_variants: ["John Yardley"]
+  dates: null
+  note: "Tradutor, não autor. Tradutor de historiadores latinos para a Oxford
+         World's Classics, entre eles os Anais de Tácito (2008)."
+  role: translator
+
+barrett:
+  name_display: "Anthony A. Barrett"
+  name_variants: []
+  dates: null
+  note: "Historiador de Roma; introdução e notas dos Anais de Tácito na
+         Oxford World's Classics (2008)."
+
+pacha:
+  name_display: "Sérgio de Carvalho Pachá"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Filólogo; traduziu o Proslógio de Anselmo para a
+         Concreta, em edição bilíngue."
+  role: translator
+
+lourdes-machado:
+  name_display: "Lourdes Santos Machado"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Do contrato social, de Rousseau, para
+         a coleção Os Pensadores (Abril Cultural)."
+  role: translator
+
+arbousse-bastide:
+  name_display: "Paul Arbousse-Bastide"
+  name_variants: []
+  dates: null
+  note: "Professor francês da USP; introdução e notas do Rousseau de Os
+         Pensadores, com Lourival Gomes Machado."
+
+lourival-machado:
+  name_display: "Lourival Gomes Machado"
+  name_variants: []
+  dates: null
+  note: "Professor da USP; introdução e notas do Rousseau de Os Pensadores,
+         com Paul Arbousse-Bastide."

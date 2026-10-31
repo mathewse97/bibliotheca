@@ -336,7 +336,7 @@ sequence:
       by: voce
       kind: intencao
       verified: false
-    publication_pref: pub--martin-claret--do-contrato-social--2013   # decisão sua, 2026-09-23: esta edição SUBSTITUI a indicação acima, que fica como registro
+    publication_pref: pub--abril-cultural--rousseau-os-pensadores   # decisão sua, 2026-10-31 (cartão d-ed-rousseau, edição B); a Martin Claret fica como alternativa
 
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     role: foundational

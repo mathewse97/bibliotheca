@@ -332,6 +332,20 @@ sequence:
                       hierofanias, espaco-e-tempo-sagrados,
                       estruturas-fundamentais-da-experiencia-religiosa]
 
+  # PARTICIPAÇÃO NOVA — cartão d-rel-eliade, opção A (2026-10-31).
+  - work: smith-jz--to-take-place
+    role: critical-response
+    demand: moderado
+    why_here: "A contestação do método de Eliade: refaz os exemplos que ele usou
+               como prova e mostra que as fontes não dizem o que ele afirma. O
+               sagrado não é descoberto; é produzido pelo ritual e pela atenção.
+               Leia logo depois de Eliade."
+    why_here_by: claude
+    inserted_by: claude
+    requires: [eliade--das-heilige-und-das-profane]
+    closes_gap: religion--g01
+    publication_pref: pub--univ-chicago--to-take-place--1992
+
   - work: weber--die-protestantische-ethik       # entrada 10 da lista dele
     role: comparative
     core: true                  # ★ 2026-10-27, ver review/religion.md
@@ -565,6 +579,50 @@ sequence:
               escolástica, Reforma, teologia etc."
     purpose_by: voce
     regions: [cristianismo-historico-e-teologia, missao-e-expansao-crista]
+
+  # PARTICIPAÇÕES NOVAS — cartão d-rel-cristianismo-opcoes, opção A (2026-10-31):
+  # uma fonte para cada parte que a frase do movimento promete, em ordem
+  # cronológica, antes das obras da sua lista.
+  - work: eusebio--historia-ecclesiastica
+    role: primary-source
+    demand: moderado
+    why_here: "História da Igreja: a primeira, de Jesus a Constantino, escrita
+               por um bispo que viveu o fim das perseguições. Leia buscando como
+               a Igreja contou a própria história quando venceu."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--paulus--historia-eclesiastica--2000
+
+  - work: agostinho--de-civitate-dei
+    core: true
+    role: primary-source
+    demand: exigente
+    why_here: "Padres da Igreja: a fundação da teologia cristã da história, a
+               cidade de Deus e a cidade terrena. Em Política, a mesma obra é
+               lida pela pergunta sobre o poder; aqui, pela fé."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--gulbenkian--a-cidade-de-deus-i   # vol. I de 3 (Gulbenkian); os três estão registrados
+
+  - work: anselmo--proslogion
+    role: primary-source
+    demand: moderado
+    why_here: "Escolástica: a fé que busca entender, e o argumento ontológico,
+               com a objeção de Gaunilo. Leia buscando o que a razão pode
+               fazer dentro da fé."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--concreta--proslogio--2022
+
+  - work: lutero--von-der-freiheit-eines-christenmenschen
+    role: primary-source
+    demand: leve
+    why_here: "Reforma: a justificação pela fé e a liberdade do cristão, no
+               tratado curto de 1520. Leia antes de Weber, que trata das
+               consequências."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--unesp--da-liberdade-do-cristao--2015
 
   - work: jefferson--the-life-and-morals-of-jesus-of-nazareth       # entrada 24 da lista dele
     role: primary-source

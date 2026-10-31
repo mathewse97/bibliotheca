@@ -26,7 +26,12 @@ gaps:
     context: "Lívio, Tácito, Salústio e Suetônio têm tradição editorial sólida
               em português. Isso é contexto e não hierarquiza: registra-se, e
               não altera a necessidade."
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: polibio--historiai
+      note: "Cartão d-greco-romanas-opcoes, opção A: entraram Políbio, História pragmática I–V (Perspectiva, 2016), e Tácito, Anais (Oxford World's Classics, 2008), no movimento IX."
     provisional: false
     statement: "A coleção contém oito obras de historiografia grega e
                 instituições — três fontes antigas entre elas — e ZERO fontes
@@ -56,7 +61,12 @@ gaps:
     type: absent-region
     necessity: media
     context: null
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: beard-henderson--classical-art
+      note: "Cartão d-greco-material-opcoes, opção A: entrou Classical Art, de Mary Beard e John Henderson, no movimento XII."
     provisional: false
     statement: "A cultura material e visual greco-romana está inteiramente
                 ausente: nenhuma obra sobre escultura, arquitetura, cerâmica,
