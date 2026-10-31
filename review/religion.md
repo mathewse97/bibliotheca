@@ -976,3 +976,13 @@ Armstrong, e *História das Religiões Mundiais*, de John B. Noss e sucessores,
 ficam na coleção como leitura complementar. A sequência principal começa pela
 *História das Crenças* de Eliade. As estrelas não mudam; nenhum dos dois tinha
 estrela.
+
+**Atualização de 2026-10-31.** Entraram no movimento VI Eusébio, Agostinho,
+Anselmo e Lutero (cartão `d-rel-cristianismo-opcoes`), e no movimento II
+*To Take Place*, de Jonathan Z. Smith (cartão `d-rel-eliade`). Só *A Cidade de
+Deus* recebeu estrela: é a fundação da teologia cristã e o único grande livro
+do grupo. O *Proslógio* e *Da Liberdade do Cristão* são curtos e cumprem um
+papel cada, mas a Reforma e a escolástica não dependem só deles para a
+pergunta da coleção; Eusébio é fonte de consulta. Smith é a contestação de
+Eliade; fica sem estrela porque é uma voz crítica, não a fonte central.
+Religião passa a 15 estrelas em 39 obras.

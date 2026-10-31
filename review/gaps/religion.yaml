@@ -31,7 +31,12 @@ gaps:
     type: one-sided-tradition
     necessity: media-alta
     context: null
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: smith-jz--to-take-place
+      note: "Cartão d-rel-eliade, opção A: entrou To Take Place, de Jonathan Z. Smith, no movimento II, logo depois de Eliade."
     provisional: false
     statement: "Seis das trinta obras da coleção são de Mircea Eliade: os três
                 volumes da História das crenças e das ideias religiosas, o
@@ -125,7 +130,12 @@ gaps:
     type: unanswered-movement
     necessity: media-alta
     context: null
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: agostinho--de-civitate-dei
+      note: "Cartão d-rel-cristianismo-opcoes, opção A: entraram no movimento VI Eusébio, História Eclesiástica; Agostinho, A Cidade de Deus; Anselmo, Proslógio; e Lutero, Da Liberdade do Cristão."
     provisional: false
     statement: "O movimento VI chama-se 'Cristianismo' e a frase que ELE escreveu
                 sob o cabeçalho declara: 'Cristianismo primitivo, Padres da

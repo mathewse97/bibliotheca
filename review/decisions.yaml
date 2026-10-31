@@ -177,7 +177,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — incluir J. Z. Smith, To Take Place.", note: "Aplicado. Entrou no movimento II logo depois de Eliade, em inglês (University of Chicago Press). A lacuna religion--g01 passou a accepted."}
   source: religion--g01
   question: "Incluir em Religião uma voz que conteste o método de Eliade?"
   why: "Seis das 30 obras são de Eliade — cerca de 2.600 páginas, um quinto da coleção — e todas defendem a mesma ideia: existe uma estrutura do sagrado comum a todas as culturas. Essa ideia é contestada há décadas, e a coleção não tem nenhuma obra que apresente a contestação. Berger é um bom contraponto, mas muda de assunto em vez de responder."
@@ -189,11 +190,33 @@ items:
   candidates:
     - {title: "To Take Place: Toward Theory in Ritual", author: "Jonathan Z. Smith · 1987", verdict: resolve, best: true, adds: "Refaz os exemplos de Eliade e mostra onde eles não se sustentam.", facts: ["Movimento II", "~180 p.", "-Em inglês"]}
 
+- id: d-rel-especificas-opcoes
+  kind: obra
+  collections: [religion]
+  priority: media
+  state: decidir
+  source: religion--g02
+  question: "Quais obras trazem para o movimento \"Religiões específicas\" o hinduísmo, o islamismo e o judaísmo?"
+  why: "Você pediu sugestões. O movimento tem duas obras de budismo, um estudo e um texto sagrado. Seguindo esse modelo, procurei para cada tradição o texto central em boa tradução brasileira. Para o hinduísmo e o islamismo achei traduções diretas do original. Para o judaísmo, a Bíblia hebraica já está na coleção, no movimento IV; o que falta é o judaísmo depois da Bíblia, e o clássico sobre isso é um estudo."
+  options:
+    - {key: A, recommended: true, title: "Bhagavad Gita, o Alcorão e Scholem", effect: "Entram: a Bhagavad Gita, na tradução de Rogério Duarte, direta do sânscrito; o Alcorão, na tradução de Helmi Nasr, arabista da USP, direta do árabe e bilíngue; e As Grandes Correntes da Mística Judaica, de Gershom Scholem (Perspectiva). Eu confiro e registro as edições antes de aplicar."}
+    - {key: B, title: "Só a Bhagavad Gita e o Alcorão", effect: "Entram os dois textos sagrados. O judaísmo continua representado pela Bíblia hebraica, no movimento IV."}
+    - {key: C, title: "Ajustar a frase do movimento", effect: "O movimento passa a dizer que trata do budismo; as outras tradições saem do escopo declarado."}
+    - {key: D, title: "Agora não", effect: "Nada muda."}
+  recommendation: "uma obra por tradição, como o budismo já tem, cumpre a frase que você escreveu sem inchar a coleção. A Gita é o texto do hinduísmo mais lido e o mais curto dos grandes; o Alcorão é o centro do islã; e Scholem é a obra que mostrou que o judaísmo depois da Bíblia tem uma vida religiosa própria, da mística antiga à cabala e ao hassidismo. Atenção: ainda não conferi a edição atual de nenhum dos três, e farei isso antes de aplicar."
+  candidates:
+    - {title: "Bhagavad Gita", author: "parte do Mahabharata · c. séc. II a.C.", verdict: resolve, best: true, adds: "O diálogo entre o guerreiro Arjuna e o deus Krishna antes da batalha: dever, ação sem apego e devoção.", facts: ["+Trad. Rogério Duarte, direta do sânscrito", "-Edição atual a conferir"]}
+    - {title: "O Alcorão", author: "c. 610–632", verdict: resolve, best: true, adds: "O texto central do islã.", facts: ["+Trad. Helmi Nasr, direta do árabe, bilíngue", "Tradução feita para a Liga Mundial Muçulmana", "-Edição atual a conferir"]}
+    - {title: "As Grandes Correntes da Mística Judaica", author: "Gershom Scholem · 1941", verdict: resolve, best: true, adds: "A história da mística judaica, da Antiguidade à cabala e ao hassidismo; a obra que fundou o estudo moderno do tema.", facts: ["+Perspectiva, coleção Estudos", "Estudo, não fonte"]}
+    - {title: "O Alcorão", author: "trad. Mansour Challita", verdict: complementa, adds: "Tradução de leitura corrente, sem o árabe.", facts: ["+Em catálogo", "-Sem aparato acadêmico conhecido"]}
+    - {title: "Hinduism: A Very Short Introduction", author: "Kim Knott · 1998/2016", verdict: outra, adds: "Introdução curta e confiável ao hinduísmo vivo.", facts: ["-Em inglês", "Introdução, não fonte"]}
+
 - id: d-rel-especificas
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — quero sugestões.", note: "As sugestões estão no cartão d-rel-especificas-opcoes."}
   source: religion--g02
   question: "O movimento \"Religiões específicas\" deve cobrir o que a frase dele promete?"
   why: "Você escreveu sob o título: \"Budismo, hinduísmo, islamismo, judaísmo etc.\". O movimento tem duas obras, e as duas são de budismo. Hinduísmo, islamismo e judaísmo como tradição viva não aparecem em nenhuma obra da coleção."
@@ -224,7 +247,8 @@ items:
   kind: obra
   collections: [religion]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — as quatro fontes.", note: "Aplicado. Entraram no começo do movimento VI, em ordem cronológica: Eusébio, História Eclesiástica (Paulus, Patrística 15); Agostinho, A Cidade de Deus, com estrela (a mesma edição de Política, sem compra); Anselmo, Proslógio (Concreta, bilíngue, trad. Sérgio de Carvalho Pachá); Lutero, Da Liberdade do Cristão (Unesp, bilíngue). Eusébio e Lutero ficam sem veredito: não consegui identificar o tradutor das duas edições. A lacuna religion--g03 passou a accepted."}
   source: religion--g03
   question: "Quais obras dão ao movimento \"Cristianismo\" os Padres, a história da Igreja, a escolástica e a Reforma?"
   why: "A frase do movimento VI promete cristianismo primitivo, Padres da Igreja, história da Igreja, escolástica, Reforma e teologia. O cristianismo primitivo já está no movimento IV (Evangelhos, Ehrman, Vermes) e a teologia aparece nos Padres e na escolástica. Faltam quatro coisas. Para cada uma escolhi uma fonte primária curta ou já na biblioteca, porque a coleção estuda a religião pelas fontes e pelos instrumentos, não por uma tradição. Weber, *A Ética Protestante*, já cobre as consequências da Reforma; falta a Reforma em si."
@@ -265,7 +289,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: alta
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — Políbio e Tácito.", note: "Aplicado. Políbio, livros I a V (Perspectiva, 2016, trad. Breno Battistin Sebastiani), entrou no movimento IX depois de Woolf; Tácito, Anais, com estrela, depois dos Fastos, na Oxford World's Classics (trad. J. C. Yardley, notas de Anthony A. Barrett), escolhida pelo aparato. A lacuna greco-roman--g01 passou a accepted."}
   source: greco-roman--g01
   question: "Quais historiadores antigos trazem para Greco-Romana a história de Roma contada pelos próprios antigos?"
   why: "Comparei os cinco candidatos. Tito Lívio, Tácito e Suetônio só têm em português traduções fora de catálogo, que se acham usadas: as de Tácito são dos anos 1950 e 1960, e a de Tito Lívio, de 1989. Salústio tem uma edição nova (Hedra, 2018), cujo tradutor não consegui confirmar. Políbio tem uma tradução acadêmica nova e anotada, mas só dos livros I a V. Por isso, a melhor combinação mistura um em português e um em inglês."
@@ -301,7 +326,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — Classical Art, de Mary Beard e John Henderson.", note: "Aplicado. Entrou no movimento XII, em inglês (Oxford University Press, 2001). A lacuna greco-roman--g02 passou a accepted."}
   source: greco-roman--g02
   question: "Qual obra traz para Greco-Romana a arte, a arquitetura e a arqueologia?"
   why: "Toda a evidência da coleção é textual: nenhuma obra trata de escultura, pintura de vasos, templos, cidades ou escavações. Uma obra basta para abrir essa porta; mais que isso transformaria a coleção numa história da arte. Procurei obras que tratem de Grécia e Roma juntas, como a coleção, e que leiam as imagens como evidência histórica, não só como estilo."
@@ -501,7 +527,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — incluir Lucrécio, Da Natureza das Coisas.", note: "Aplicado. Entrou no movimento X antes de Cícero, com estrela. Edição: Autêntica, 2021, bilíngue, trad. Rodrigo Tadeu Gonçalves, à venda nova."}
   source: review/greco-roman.md §9
   question: "Incluir em Greco-Romana o poema de Lucrécio sobre a natureza das coisas?"
   why: "O epicurismo, a filosofia que busca a felicidade na ausência de dor e de medo, está na coleção só por uma carta curta de Epicuro. Falta a exposição completa: *Da Natureza das Coisas*, poema em latim de Tito Lucrécio Caro (século I a.C.). Ele explica o mundo como átomos em movimento, sem intervenção dos deuses, para livrar o homem do medo da morte. É uma das obras-primas da poesia latina e a principal fonte do epicurismo que chegou até nós. Sem ele, a filosofia romana da coleção é só estoica."
@@ -1030,7 +1057,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição B — Abril Cultural, coleção Os Pensadores.", note: "Aplicado. Registrada e recomendada (trad. Lourdes Santos Machado, introdução e notas de Paul Arbousse-Bastide e Lourival Gomes Machado; só usada). A Martin Claret passou a alternativa."}
   question: "Qual edição de *Do Contrato Social*, de Jean-Jacques Rousseau?"
   why: "Em setembro você trocou a Penguin-Companhia, que hoje não se acha nova, pela Martin Claret, traduzida por Ana Resende. Pesquisei: a Martin Claret não traz introdução nem notas, e não se sabe se a tradução foi feita direto do francês. Há uma edição antiga, comentada por dois professores da Universidade de São Paulo, que se acha usada por menos de R$ 20. Por enquanto aparece a Martin Claret."
   editions:

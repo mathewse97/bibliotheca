@@ -499,3 +499,11 @@ livro I indicado), e os *Fastos*, de Ovídio (movimento IX), pelo cartão
 `d-greco-ciencia-opcoes`. Fecham a lacuna de ciência, medicina e religião
 romana. Nenhuma recebeu estrela: o fio da coleção é a cultura e a história, e
 esses três livros alargam o quadro, mas não são o centro dele.
+
+**Atualização de 2026-10-31 (4).** Entraram Lucrécio, *Da Natureza das
+Coisas*, com estrela (a única exposição completa do epicurismo, lugar que
+nenhuma outra obra ocupa), Políbio, livros I a V, sem estrela (a edição é
+parcial e falta o livro VI), Tácito, *Anais*, com estrela (o maior historiador
+latino e a única fonte antiga da coleção sobre o principado), e *Classical
+Art*, de Beard e Henderson, sem estrela. Greco-Romana passa a 27 estrelas em
+100 obras.

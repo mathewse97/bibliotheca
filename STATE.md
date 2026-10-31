@@ -71,10 +71,12 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 16 obras.**
-  Recomendadas: 240 publicações; alternativas: 15. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (2): Rousseau (`d-ed-rousseau`), Berlin
-    (`d-ed-berlin`).
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 17 obras.**
+  Recomendadas: 247 publicações; alternativas: 16. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (1): Berlin (`d-ed-berlin`).
+  - *Tradutor não identificado, edições novas de 2026-10-31* (2): Eusébio,
+    *História Eclesiástica* (Paulus, Patrística 15), e Lutero, *Da Liberdade
+    do Cristão* (Unesp, bilíngue); conferir no livro.
   - *Tradutor conhecido, falta comparar com o original* (4): Rothbard
     (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
     Instituto Mises Brasil, cujos PDFs são gratuitos; Aron/Vide (Christian
@@ -248,6 +250,18 @@ Teatro completo VI da Editora 34.
     ficaram fora (`d-greco-aristofanes`, opção B).
   - Montesquieu passou à tradução da Editora Unesp (2023); a da Martins
     Fontes fica como alternativa (`d-ed-montesquieu-unesp`).
+- **Cartões aplicados (2026-10-31, terceiro lote):**
+  - Rousseau passou à edição comentada de Os Pensadores; a Martin Claret
+    fica como alternativa (`d-ed-rousseau`).
+  - Greco-Romana: Lucrécio (★, movimento X), Políbio I–V e Tácito (★,
+    movimento IX) e *Classical Art*, de Beard e Henderson (movimento XII)
+    (`d-greco-adler-lucrecio`, `d-greco-romanas-opcoes`,
+    `d-greco-material-opcoes`). Greco-Romana: 27 estrelas em 100 obras.
+  - Religião: Eusébio, Agostinho (★), Anselmo e Lutero no movimento VI
+    (`d-rel-cristianismo-opcoes`) e J. Z. Smith, *To Take Place*, no
+    movimento II (`d-rel-eliade`). Religião: 15 estrelas em 39 obras.
+  - Religião pediu sugestões de hinduísmo, islamismo e judaísmo; estão no
+    cartão `d-rel-especificas-opcoes`.
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
