@@ -205,6 +205,20 @@ huxley:
   dates: null                 # a pesquisar
   note: null
 
+soljenitsin:
+  name_display: "Aleksandr Soljenítsin"
+  name_variants: ["Aleksandr Soljenitsyn", "Alexander Solzhenitsyn"]
+  dates: "1918–2008"
+  note: "Escritor russo, preso nos campos soviéticos de 1945 a 1953. Prêmio Nobel de Literatura de 1970."
+
+lucas-simone:
+  name_display: "Lucas Simone"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Primeiro nome da equipe que traduziu do russo
+         Arquipélago Gulag, de Soljenítsin, para a Carambaia (2019)."
+  role: translator
+
 koestler:
   name_display: "Arthur Koestler"
   name_variants: []
