@@ -986,3 +986,10 @@ papel cada, mas a Reforma e a escolástica não dependem só deles para a
 pergunta da coleção; Eusébio é fonte de consulta. Smith é a contestação de
 Eliade; fica sem estrela porque é uma voz crítica, não a fonte central.
 Religião passa a 15 estrelas em 39 obras.
+
+**Atualização de 2026-10-31 (2).** O movimento V passou a cobrir o que a frase
+promete, com um estudo e um texto para cada tradição (cartão
+`d-rel-especificas-opcoes`). A Bhagavad Gita e o Alcorão receberam estrela,
+como o Dhammapada: são as fontes centrais das suas tradições. Os estudos de
+Flood, Demant e Scholem ficam sem estrela, como o de Rahula. Religião passa a
+17 estrelas em 44 obras.

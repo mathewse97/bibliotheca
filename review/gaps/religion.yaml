@@ -99,7 +99,12 @@ gaps:
     context: "Há boas edições em português de fontes e introduções às quatro
               tradições. Isso é contexto e NÃO hierarquiza a necessidade
               (a regra de que contexto não hierarquiza): registra-se e não altera nada."
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: scholem--major-trends-in-jewish-mysticism
+      note: "Cartão d-rel-especificas-opcoes, opção A: entraram no movimento V Flood e a Bhagavad Gita (hinduísmo), Demant e o Alcorão (islã) e Scholem (judaísmo depois da Bíblia)."
     provisional: true
     recheck_after: outras-colecoes-importadas
     statement: "Você escreveu, sob o título do movimento Religiões específicas,

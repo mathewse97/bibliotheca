@@ -2691,3 +2691,61 @@ lourival-machado:
   dates: null
   note: "Professor da USP; introdução e notas do Rousseau de Os Pensadores,
          com Paul Arbousse-Bastide."
+
+flood:
+  name_display: "Gavin Flood"
+  name_variants: []
+  dates: null
+  note: "Professor de religião comparada em Oxford, estudioso do hinduísmo."
+
+demant:
+  name_display: "Peter Demant"
+  name_variants: []
+  dates: null
+  note: "Historiador, professor de relações internacionais da USP, estudioso do mundo muçulmano."
+
+scholem:
+  name_display: "Gershom Scholem"
+  name_variants: []
+  dates: "1897–1982"
+  note: "Historiador da mística judaica, professor da Universidade Hebraica de Jerusalém."
+
+rogerio-duarte:
+  name_display: "Rogério Duarte"
+  name_variants: []
+  dates: "1939–2016"
+  note: "Tradutor, não autor. Designer e poeta; traduziu a Bhagavad Gita direto
+         do sânscrito, com introdução e notas (Companhia das Letras, 1998)."
+  role: translator
+
+loundo:
+  name_display: "Dilip Loundo"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Indólogo, professor da UFJF; cotradutor de Uma
+         introdução ao hinduísmo, de Gavin Flood (Editora UFJF, 2014)."
+  role: translator
+
+fernanda-winter:
+  name_display: "Fernanda Winter"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Cotradutora, com Dilip Loundo, de Uma
+         introdução ao hinduísmo, de Gavin Flood (Editora UFJF, 2014)."
+  role: translator
+
+helmi-nasr:
+  name_display: "Helmi Nasr"
+  name_variants: []
+  dates: "1922–2019"
+  note: "Tradutor, não autor. Arabista, professor de língua e literatura árabe
+         da USP; traduziu o Alcorão para o português (1984–1988)."
+  role: translator
+
+guinsburg:
+  name_display: "J. Guinsburg"
+  name_variants: ["Jacó Guinsburg"]
+  dates: "1921–2018"
+  note: "Tradutor, não autor. Editor e tradutor, fundador da Perspectiva;
+         coordenou a tradução de As grandes correntes da mística judaica."
+  role: translator

@@ -574,6 +574,52 @@ sequence:
     subjects_stated: [etica, disciplina-mental, sofrimento, sabedoria,
                       desapego, meditacao, caminho-espiritual]
 
+  # PARTICIPAÇÕES NOVAS — cartão d-rel-especificas-opcoes, opção A (2026-10-31):
+  # um estudo e um texto para cada tradição, no modelo de Rahula e do Dhammapada.
+  # O texto do judaísmo, a Bíblia hebraica, está no movimento IV.
+  - work: flood--an-introduction-to-hinduism
+    role: foundational
+    demand: moderado
+    why_here: "O hinduísmo como conjunto de tradições, dos Vedas às práticas de hoje. Leia antes da Gita, para chegar ao texto sabendo onde ele se encaixa."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-ufjf--uma-introducao-ao-hinduismo--2014
+
+  - work: bhagavad-gita
+    core: true
+    role: primary-source
+    demand: leve
+    why_here: "O texto do hinduísmo mais lido: o dever, a ação sem apego e a devoção, no diálogo entre Arjuna e Krishna. Leia confrontando com a apresentação de Flood, como o Dhammapada com Rahula."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--companhia-das-letras--bhagavad-gita--1998
+
+  - work: demant--o-mundo-muculmano
+    role: foundational
+    demand: moderado
+    why_here: "O islã como religião e civilização, de Maomé ao fundamentalismo de hoje, por um historiador da USP. Leia antes do Alcorão."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--contexto--o-mundo-muculmano
+
+  - work: alcorao
+    core: true
+    role: primary-source
+    demand: moderado
+    why_here: "O texto central do islã. Leia as suratas curtas do fim e a abertura antes das longas, usando Demant como guia."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--complexo-rei-fahd--nobre-alcorao
+
+  - work: scholem--major-trends-in-jewish-mysticism
+    role: foundational
+    demand: exigente
+    why_here: "O judaísmo depois da Bíblia como vida religiosa própria: da mística antiga à cabala e ao hassidismo. O texto, a Bíblia hebraica, está no movimento IV."
+    why_here_by: claude
+    inserted_by: claude
+    closes_gap: religion--g02
+    publication_pref: pub--perspectiva--as-grandes-correntes-da-mistica-judaica--2008
+
   - movement: "VI. Cristianismo"
     purpose: "Cristianismo primitivo, Padres da Igreja, história da Igreja,
               escolástica, Reforma, teologia etc."
