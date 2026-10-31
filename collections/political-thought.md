@@ -207,6 +207,20 @@ sequence:
     edition_pref: {text: "Fundação Calouste Gulbenkian, trad. J. Dias Pereira.", by: voce, verified: false}
     publication_pref: pub--gulbenkian--a-cidade-de-deus-i   # vol. I de 3 (Gulbenkian); os três estão registrados
 
+  # PARTICIPAÇÃO NOVA — cartão d-pol-adler-aquino, opção B (2026-10-31): manter
+  # os dois. O Tratado da Lei vem antes; está no mesmo volume da Vozes.
+  - work: aquino--de-lege
+    core: true
+    role: foundational
+    demand: moderado
+    why_here: "A teoria da lei natural, que a tradição política cita até hoje:
+               a lei é ordenação da razão para o bem comum, e uma lei humana
+               injusta não é verdadeira lei. É a resposta medieval mais direta
+               à pergunta da coleção, e o argumento que Antígona encena."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--vozes--escritos-politicos-de-santo-tomas-de-aquino--1995   # mesmo volume do Do Reino
+
   - work: aquino--de-regno
     role: foundational
     demand: moderado
@@ -426,6 +440,25 @@ sequence:
     edition_pref: {text: "Boitempo, trad. Nélio Schneider.", by: voce, verified: false}
     publication_pref: pub--boitempo--o-18-de-brumario--2011   # escolha sua (2026-09-23)
 
+  # PARTICIPAÇÃO NOVA — cartão d-pol-adler-marxismo, opção A (2026-10-31): entra
+  # O Capital, livro I; sai O Homem Unidimensional, de Herbert Marcuse, apagado
+  # da biblioteca a seu pedido.
+  - work: marx--das-kapital-1
+    core: true
+    role: foundational
+    demand: exigente
+    why_here: "A obra principal de Marx, que a coleção só tinha por textos
+               curtos e pelos seus críticos. Explica de onde vem o lucro e por
+               que, para Marx, a liberdade do contrato de trabalho esconde uma
+               exploração: a crítica mais forte à legitimidade da ordem
+               liberal."
+    why_here_by: claude
+    scope: "Leitura parcial indicada: seção 1 (mercadoria e dinheiro), seções
+            3 e 4 (mais-valia e jornada de trabalho) e, da seção 7, os
+            capítulos 23 e 24 (acumulação e acumulação primitiva)."
+    inserted_by: claude
+    publication_pref: pub--boitempo--o-capital-livro-1--2023   # pesquisa de 2026-10-31
+
   - work: dostoievski--besy
     role: literary-treatment
     demand: exigente
@@ -446,21 +479,9 @@ sequence:
                em que Frankfurt vai operar."
     why_here_by: claude
     requires: [marx-engels--die-deutsche-ideologie]
+    closes_gap: political-thought--g04   # desde 2026-10-31, com a saída de Marcuse (cartão d-pol-adler-marxismo)
     inserted_by: claude          # ver order_changes
     publication_pref: pub--wmf-martins-fontes--historia-e-consciencia-de-classe--2018   # escolha minha em 2026-10-09 (Etapa 1): única integral em catálogo; pesquisa na obra
-
-  - work: marcuse--one-dimensional-man
-    role: critical-response
-    demand: exigente
-    why_here: "A voz da esquerda do século XX que a coleção só tinha pelo que
-               os seus críticos diziam dela. Sustenta que a sociedade
-               industrial avançada absorve a contestação e produz as
-               necessidades que depois satisfaz — a tese que Popper e Aron
-               nunca atacaram porque ela é posterior a eles."
-    why_here_by: claude
-    closes_gap: political-thought--g04
-    inserted_by: claude          # ver order_changes
-    publication_pref: pub--edipro--o-homem-unidimensional--2015   # escolha minha em 2026-10-09 (Etapa 1): única brasileira em catálogo; pesquisa na obra
 
   - movement: "VII. Poder, partidos, massas e ideologia"
     purpose: "O século XX olhando para trás: o que a política moderna produziu
@@ -570,7 +591,7 @@ sequence:
                e dirigir o curso necessário da história."
     why_here_by: voce
     edition_pref: {text: "Itatiaia, trad. Milton Amado.", by: voce, verified: false}
-    publication_pref: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012   # provisória: a escolha está no cartão d-ed-popper (2026-10-10); vol. 2 em pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013
+    publication_pref: pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-1--2012   # decisão sua, 2026-10-31 (cartão d-ed-popper, edição A); vol. 2 em pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013
 
   # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-13. Posição minha: entre
   # Popper e Berlin, três diagnósticos das ideologias modernas.
@@ -696,7 +717,6 @@ sequence:
                degradam. Vem de dentro da própria tradição crítica e rompe
                com o pessimismo dela."
     why_here_by: claude
-    requires: [marcuse--one-dimensional-man]
     inserted_by: claude          # ver order_changes
     publication_pref: pub--unesp--mudanca-estrutural-da-esfera-publica--2014   # escolhida em 2026-10-10 (Etapa 1): tradução mais recente e única em catálogo; pesquisa na obra
 
@@ -1114,18 +1134,6 @@ order_changes:
              cronológica: entre Rousseau (1762) e Burke (1790)."
     reversible_by: "Remover a entrada do movimento IV; a obra volta ao fim."
 
-  - work: marcuse--one-dimensional-man
-    kind: insert
-    from: "fim da sequência, em movimento próprio (XII), criado por mim"
-    to: "movimento VI, depois de marx--achtzehnte-brumaire"
-    approved_by: voce
-    date: 2026-09-19
-    reason: "O movimento VI nomeia a tradição — socialismo, marxismo e
-             revolução. Marcuse (1964) é a releitura dessa tradição depois de
-             a previsão falhar, e é dentro dela que a assimetria apontada em
-             political-thought--g04 se corrige."
-    reversible_by: "Remover a entrada do movimento VI; a obra volta ao fim."
-
   - work: orwell--politics-and-the-english-language
     kind: move
     from: "movimento X, Literatura como crítica política"
@@ -1155,13 +1163,12 @@ order_changes:
   - work: lukacs--geschichte-und-klassenbewusstsein
     kind: insert
     from: "não estava na biblioteca"
-    to: "movimento VI, depois de marx--achtzehnte-brumaire e antes de
-         marcuse--one-dimensional-man"
+    to: "movimento VI, depois de marx--achtzehnte-brumaire"
     approved_by: voce
     date: 2026-09-19
     reason: "Ordem cronológica e lógica dentro do movimento: 1846, 1848, 1852,
-             1923, 1964. Lukács é o intermediário entre Marx e Marcuse, e sem
-             ele o salto de um para o outro é de quase oitenta anos."
+             1923. Lukács é o intermediário entre Marx e a crítica da cultura
+             do século XX."
     reversible_by: "Remover a entrada."
 
   - work: habermas--strukturwandel-der-oeffentlichkeit

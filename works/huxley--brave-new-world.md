@@ -25,13 +25,7 @@ missing:
 priority_library: null
 obsidian_notes: []
 
-relations:
-  - type: literary_treatment_of
-    target: marcuse--one-dimensional-man
-    note: "As duas obras sustentam a mesma tese por vias diferentes: uma sociedade que produz as necessidades que em seguida satisfaz, e que por isso absorve a contestação sem precisar reprimi-la. Marcuse argumenta em 1964; Huxley encena em 1932."
-    by: claude
-    proposed: 2026-09-28
-    approved_by: voce
+relations: []
 
 provenance:
   - claim: "Romance de ficção científica de Aldous Huxley, publicado em 1932."

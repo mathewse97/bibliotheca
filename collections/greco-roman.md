@@ -519,6 +519,41 @@ sequence:
     why_here: "Antígona enterra o irmão contra a ordem do rei Creonte. Nesta coleção, leia buscando o conflito entre família e cidade e entre lei divina e lei humana. Em Política, a mesma peça é lida pela pergunta sobre a legitimidade do governo."
     why_here_by: claude
 
+  # PARTICIPAÇÕES NOVAS — cartão d-greco-adler-tragedias, opção B (2026-10-31):
+  # Sófocles completo, como Ésquilo. As quatro peças que faltavam, todas na
+  # tradução de Trajano Vieira, direta do grego.
+  - work: sofocles--aias
+    role: primary-source
+    demand: exigente
+    why_here: "O guerreiro humilhado que enlouquece e se mata, e a disputa sobre o seu enterro. Leia buscando o fim da honra heroica num mundo que premia a astúcia, e o direito à sepultura, que volta em *Antígona*."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-34--ajax--2022
+
+  - work: sofocles--trachiniai
+    role: primary-source
+    demand: exigente
+    why_here: "Dejanira, para reconquistar Héracles, manda-lhe um filtro de amor que é veneno. Leia buscando como a ação feita por amor destrói, e os oráculos que só se entendem tarde demais, como em *Édipo Rei*."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-34--as-traquinias--2014
+
+  - work: sofocles--elektra
+    role: primary-source
+    demand: exigente
+    why_here: "O mesmo mito das *Coéforas*, de Ésquilo, visto por Electra, que espera anos pelo irmão para vingar o pai. Leia comparando com Ésquilo e com a *Electra* de Eurípides: três modos de tratar o matricídio."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--atelie--electras--2018
+
+  - work: sofocles--philoktetes
+    role: primary-source
+    demand: exigente
+    why_here: "O jovem Neoptólemo recebe a ordem de enganar Filoctetes, abandonado numa ilha, para tomar o arco de que Troia depende. Leia buscando o conflito entre a astúcia útil e a lealdade, e se é lícito mentir por uma causa justa."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-34--filoctetes--2009
+
   - work: euripides--medeia
     role: primary-source
     demand: moderado
@@ -531,6 +566,27 @@ sequence:
     # Nota de publicação, não de currículo: na série da Editora 34 (trad. Jaa
     # Torrano) Medeia está no Teatro Completo I, volume que a sua lista não
     # inclui. Não é redundância — é uma questão de por qual edição adquiri-la.
+
+  # PARTICIPAÇÕES NOVAS — cartão d-greco-ciclope-alceste, opção A (2026-10-31):
+  # as outras duas peças do Teatro completo I, sem compra nova. O Ciclope fica
+  # como passo por ser o único drama satírico completo; Alceste fica como
+  # complementar, como as dez peças de Eurípides do cartão d-greco-adler-tragedias.
+  - work: euripides--kyklops
+    role: primary-source
+    demand: moderado
+    why_here: "O único drama satírico completo que sobreviveu, o gênero cômico que fechava cada trilogia trágica. Leia ao lado do canto IX da *Odisseia*: o ciclope Polifemo, Ulisses e um coro de sátiros."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-34--euripides-teatro-completo-i
+
+  - work: euripides--alkestis
+    optional: true              # leitura complementar — cartões d-greco-ciclope-alceste e d-greco-adler-tragedias (2026-10-31)
+    role: primary-source
+    demand: moderado
+    why_here: "A esposa que aceita morrer no lugar do marido, e Héracles, que a traz de volta. A peça mais antiga de Eurípides que sobreviveu, encenada em 438 a.C. no lugar do drama satírico. Leia buscando a ambiguidade do marido que aceita o sacrifício."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--editora-34--euripides-teatro-completo-i
 
   - work: euripides--bakchai
     role: primary-source
@@ -547,6 +603,10 @@ sequence:
     # As Bacantes ainda não saiu na série da Editora 34 (os volumes publicados
     # vão de I a V). Questão de edição, registrada em review/greco-roman.md §7.
 
+  # LEITURA COMPLEMENTAR — cartão d-greco-adler-tragedias, opção B (2026-10-31):
+  # de Eurípides ficam como passos Medeia, Hipólito, Electra, As Troianas e
+  # As Bacantes (e O Ciclope, único drama satírico); as outras dez ficam na
+  # coleção marcadas como complementares.
   # -------------------------------------------------------------------------
   # EXPANSÃO DE VOLUME — "Eurípides, Teatro Completo II" (Editora 34, trad.
   # Jaa Torrano, 2022): Os Heráclidas, Hipólito, Andrômaca, Hécuba.
@@ -559,16 +619,16 @@ sequence:
   #            Medeia não são um caso isolado, mas parte de uma investigação
   #            recorrente sobre a sociedade e o indivíduo."
   # -------------------------------------------------------------------------
-  - {work: euripides--herakleidai, role: primary-source, demand: exigente,
+  - {work: euripides--herakleidai, optional: true, role: primary-source, demand: exigente,
      why_here: "Os filhos de Héracles pedem a Atenas proteção contra quem os persegue. Leia buscando a imagem que Atenas faz de si mesma, como cidade que acolhe os fracos, e o sacrifício voluntário de uma jovem para salvar a família.",
      why_here_by: claude}
   - {work: euripides--hippolytos, role: primary-source, demand: exigente,
      why_here: "Fedra se apaixona pelo enteado Hipólito, que recusa o amor e a deusa que o representa. Leia buscando o desejo como força que destrói e os deuses como potências indiferentes ao sofrimento humano.",
      why_here_by: claude}
-  - {work: euripides--andromache, role: primary-source, demand: exigente,
+  - {work: euripides--andromache, optional: true, role: primary-source, demand: exigente,
      why_here: "A viúva de Heitor, feita escrava do filho de Aquiles, é perseguida pela esposa legítima dele. Leia buscando a condição da mulher capturada na guerra e a crítica a Esparta, inimiga de Atenas quando a peça foi escrita.",
      why_here_by: claude}
-  - {work: euripides--hekabe, role: primary-source, demand: exigente,
+  - {work: euripides--hekabe, optional: true, role: primary-source, demand: exigente,
      why_here: "A rainha de Troia, depois da queda da cidade, perde os últimos filhos e se vinga. Leia buscando como o sofrimento extremo transforma a vítima em carrasco.",
      why_here_by: claude}
 
@@ -582,13 +642,13 @@ sequence:
   #   Porquê: "Aprofunda a variedade temática de Eurípides e amplia a percepção
   #            da relação entre mito, política e ética."
   # -------------------------------------------------------------------------
-  - {work: euripides--hiketides, role: primary-source, demand: exigente,
+  - {work: euripides--hiketides, optional: true, role: primary-source, demand: exigente,
      why_here: "As mães dos chefes mortos diante de Tebas pedem a Atenas que recupere os corpos dos filhos. Leia buscando o debate sobre democracia e tirania no meio da peça e o direito dos mortos à sepultura, o mesmo de *Antígona*.",
      why_here_by: claude}
   - {work: euripides--elektra, role: primary-source, demand: exigente,
      why_here: "O mesmo mito das *Coéforas*, a segunda peça da *Oresteia* de Ésquilo: Electra e Orestes matam a mãe para vingar o pai. Leia comparando com Ésquilo: aqui não há heroísmo, só uma vingança que destrói os vingadores.",
      why_here_by: claude}
-  - {work: euripides--herakles, role: primary-source, demand: exigente,
+  - {work: euripides--herakles, optional: true, role: primary-source, demand: exigente,
      why_here: "O maior dos heróis volta dos trabalhos, salva a família e, enlouquecido pela deusa Hera, a mata. Leia buscando a pergunta sobre responsabilidade: o que resta de um homem depois de um crime que ele não quis.",
      why_here_by: claude}
 
@@ -605,11 +665,11 @@ sequence:
   - {work: euripides--troades, role: primary-source, demand: exigente,
      why_here: "As mulheres de Troia esperam ser levadas como escravas depois da derrota. Encenada em 415 a.C., pouco depois de Atenas massacrar a população da ilha de Melos. Leia buscando a guerra contada pelas vítimas.",
      why_here_by: claude}
-  - {work: euripides--iphigeneia-he-en-taurois, role: primary-source,
+  - {work: euripides--iphigeneia-he-en-taurois, optional: true, role: primary-source,
      demand: exigente,
      why_here: "Ifigênia, que todos julgavam sacrificada pelo pai, vive como sacerdotisa numa terra bárbara e reconhece o irmão Orestes. Leia buscando como Eurípides mistura tragédia e aventura, com reconhecimento, fuga e final feliz.",
      why_here_by: claude}
-  - {work: euripides--ion, role: primary-source, demand: exigente,
+  - {work: euripides--ion, optional: true, role: primary-source, demand: exigente,
      why_here: "Um jovem criado no templo de Apolo descobre ser filho do deus com uma princesa ateniense. Leia buscando a questão da origem e da identidade, e a crítica a um deus que engana os humanos.",
      why_here_by: claude}
 
@@ -622,13 +682,13 @@ sequence:
   #   Porquê: "Completa o panorama de Eurípides e evidencia como o autor
   #            reelabora criticamente os mitos tradicionais."
   # -------------------------------------------------------------------------
-  - {work: euripides--helene, role: primary-source, demand: exigente,
+  - {work: euripides--helene, optional: true, role: primary-source, demand: exigente,
      why_here: "Nesta versão do mito, Helena nunca esteve em Troia: os deuses mandaram para lá só uma imagem dela. Leia buscando a distância entre aparência e verdade, e uma guerra inteira travada por um fantasma.",
      why_here_by: claude}
-  - {work: euripides--phoinissai, role: primary-source, demand: exigente,
+  - {work: euripides--phoinissai, optional: true, role: primary-source, demand: exigente,
      why_here: "A guerra entre Etéocles e Polinices, filhos de Édipo, pelo trono de Tebas. Leia comparando com *Os Sete contra Tebas*, de Ésquilo, e com as peças tebanas de Sófocles: Eurípides junta o ciclo inteiro numa só peça.",
      why_here_by: claude}
-  - {work: euripides--orestes, role: primary-source, demand: exigente,
+  - {work: euripides--orestes, optional: true, role: primary-source, demand: exigente,
      why_here: "Depois de matar a mãe, Orestes enlouquece e é julgado pela assembleia de Argos. Leia comparando com a *Oresteia*: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe.",
      why_here_by: claude}
 
@@ -1236,12 +1296,14 @@ paths:
             herodoto--historiai,
             rhodes--a-history-of-the-classical-greek-world,
             esquilo--oresteia,
-            sofocles--antigone, sofocles--oidipous-tyrannos,
+            sofocles--aias, sofocles--antigone, euripides--alkestis,
+            sofocles--trachiniai, sofocles--oidipous-tyrannos,
             euripides--medeia, euripides--herakleidai, euripides--hippolytos,
             euripides--andromache, euripides--hekabe, euripides--hiketides,
             euripides--elektra, euripides--herakles, euripides--troades,
             euripides--iphigeneia-he-en-taurois, euripides--ion,
-            euripides--helene, euripides--phoinissai, euripides--orestes,
+            sofocles--elektra, euripides--helene, euripides--phoinissai,
+            sofocles--philoktetes, euripides--orestes, euripides--kyklops,
             tucidides--historiai,
             aristofanes--nephelai,
             euripides--bakchai, sofocles--oidipous-epi-kolonoi,

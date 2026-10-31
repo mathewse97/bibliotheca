@@ -39,12 +39,24 @@ contains:
     source_text: null
     completeness: null
     apparatus: []
-
-# Obras que estão no volume mas não estão em nenhuma coleção (e por isso não
-# têm registro de obra). Aparecem na página da edição. interface-rules §8.
-also_contains:
-  - {title: "O Ciclope", author: "Eurípides"}
-  - {title: "Alceste", author: "Eurípides"}
+  - work: euripides--kyklops
+    why: "No mesmo volume de Medeia, na mesma tradução direta do grego de Jaa Torrano, com o grego ao lado."
+    verdict: recommended
+    reason: "Entrou em Greco-Romana em 2026-10-31 (cartão d-greco-ciclope-alceste, opção A). Já estava no volume recomendado para Medeia; mesma tradução, sem compra a mais."
+    translator: [torrano]
+    translated_from: direct
+    source_text: null
+    completeness: null
+    apparatus: []
+  - work: euripides--alkestis
+    why: "No mesmo volume de Medeia, na mesma tradução direta do grego de Jaa Torrano, com o grego ao lado."
+    verdict: recommended
+    reason: "Entrou em Greco-Romana em 2026-10-31 (cartão d-greco-ciclope-alceste, opção A). Já estava no volume recomendado para Medeia; mesma tradução, sem compra a mais."
+    translator: [torrano]
+    translated_from: direct
+    source_text: null
+    completeness: null
+    apparatus: []
 
 
 cover:

@@ -32,8 +32,8 @@ source_of_record: claude
 contains:
   - work: popper--the-open-society
     why: "Tradução integral de Miguel Freitas da Costa, feita direto do inglês e revista por Pedro Bernardo, com prefácio de João Carlos Espada, especialista em Popper. Volume 1 de 2. Português de Portugal; precisa ser importada, mas se compra nova."
-    verdict: unassessed
-    reason: "Volume 1 de 2 — candidato A do cartão d-ed-popper. A obra só fica inteira com o vol. 2 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013)."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-31 (cartão d-ed-popper, edição A), comparada com a da Itatiaia (trad. Milton Amado, 1974, esgotada e rara). Volume 1 de 2. A obra só fica inteira com o vol. 2 (pub--edicoes-70--a-sociedade-aberta-e-os-seus-inimigos-2--2013)."
     translator: [miguel-freitas-da-costa]
     translated_from: direct
     source_text: null
@@ -84,4 +84,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-popper.** Volume 1 de 2.
+**Recomendada** (2026-10-31). Sua escolha: em catálogo, com prefácio de João Carlos Espada; português de Portugal. Volume 1 de 2.

@@ -40,6 +40,15 @@ contains:
     source_text: "Edição crítica leonina"
     completeness: complete
     apparatus: [introducao]
+  - work: aquino--de-lege
+    why: "As questões sobre a lei da Suma Teológica (I-II, q. 90–97), no mesmo volume do Do Reino, na mesma tradução de Francisco Benjamin de Souza Neto, sobre a edição leonina."
+    verdict: recommended
+    reason: "Entrou em Política em 2026-10-31 (cartão d-pol-adler-aquino, opção B). Já estava no volume escolhido para o Do Reino; sem compra a mais. O sumário do volume dá as questões sobre a lei a partir da p. 33."
+    translator: [souza-neto]
+    translated_from: direct
+    source_text: "Edição crítica leonina"
+    completeness: complete
+    apparatus: [introducao]
 
 cover:
   file: covers/pub--vozes--escritos-politicos-de-santo-tomas-de-aquino--1995.webp

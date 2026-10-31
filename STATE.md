@@ -71,11 +71,10 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 18 obras.**
-  Recomendadas: 226 publicações; alternativas: 14. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (4): Rousseau (`d-ed-rousseau`),
-    Montesquieu (`d-ed-montesquieu-unesp`), Popper (`d-ed-popper`), Berlin
-    (`d-ed-berlin`).
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 17 obras.**
+  Recomendadas: 235 publicações; alternativas: 14. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (3): Rousseau (`d-ed-rousseau`),
+    Montesquieu (`d-ed-montesquieu-unesp`), Berlin (`d-ed-berlin`).
   - *Tradutor conhecido, falta comparar com o original* (4): Rothbard
     (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
     Instituto Mises Brasil, cujos PDFs são gratuitos; Aron/Vide (Christian
@@ -224,6 +223,22 @@ Teatro completo VI da Editora 34.
     ficam como alternativa (`d-ed-aquino`, `d-ed-cicero`).
   - A *Vida de Cícero*, de Plutarco, entrou em Greco-Romana depois da
     *Vida de Demóstenes*, no mesmo volume de Coimbra (`d-greco-cicero`).
+- **Mais cartões aplicados (2026-10-31):**
+  - Greco-Romana: *O Ciclope* (passo) e *Alceste* (complementar) entraram
+    do Teatro completo I (`d-greco-ciclope-alceste`); dez peças de Eurípides
+    viraram leitura complementar e Sófocles ficou completo, com quatro
+    peças na tradução de Trajano Vieira (`d-greco-adler-tragedias`).
+  - Greco-Romana pediu sugestões de ciência, medicina e religião romana;
+    estão no cartão `d-greco-ciencia-opcoes`.
+  - Política: *O Capital*, livro I, entrou (Boitempo, trad. Rubens
+    Enderle) e *O Homem Unidimensional*, de Herbert Marcuse, foi apagado da
+    biblioteca a pedido do Mathews (`d-pol-adler-marxismo`). O *Tratado da
+    Lei*, de Tomás de Aquino, entrou antes de *Do Governo dos Príncipes*, no
+    mesmo volume da Vozes (`d-pol-adler-aquino`). Política: 24 estrelas em
+    56 obras.
+  - Popper fica na edição das Edições 70 (`d-ed-popper`).
+  - A regra sobre o propósito dos movimentos não mudou
+    (`d-reg-proposito-movimento`, opção C).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
