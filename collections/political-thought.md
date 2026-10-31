@@ -322,7 +322,7 @@ sequence:
       by: voce
       kind: intencao
       verified: true
-    publication_pref: pub--wmf-martins-fontes--o-espirito-das-leis--2000   # decisão sua, 2026-10-10 (d-ed-montesquieu)
+    publication_pref: pub--unesp--do-espirito-das-leis--2023   # decisão sua, 2026-10-31 (cartão d-ed-montesquieu-unesp, edição B); a da Martins Fontes fica como alternativa
 
   - work: rousseau--du-contrat-social
     core: true

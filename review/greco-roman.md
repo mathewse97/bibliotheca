@@ -492,3 +492,10 @@ Plutarco na coleção não têm estrela, e a de César já faz a passagem para R
 Sófocles continua em *Édipo Rei*. Dez peças de Eurípides viraram leitura
 complementar. *O Ciclope* entrou como passo, sem estrela, e *Alceste* como
 complementar (cartão `d-greco-ciclope-alceste`).
+
+**Atualização de 2026-10-31 (3).** Entraram, sem estrela, *Textos
+hipocráticos* (movimento V), *Os Elementos*, de Euclides (movimento VIII, com o
+livro I indicado), e os *Fastos*, de Ovídio (movimento IX), pelo cartão
+`d-greco-ciencia-opcoes`. Fecham a lacuna de ciência, medicina e religião
+romana. Nenhuma recebeu estrela: o fio da coleção é a cultura e a história, e
+esses três livros alargam o quadro, mas não são o centro dele.

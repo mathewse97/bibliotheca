@@ -77,7 +77,15 @@ gaps:
     type: absent-region
     necessity: baixa
     context: null
-    status: open
+    status: accepted
+    accepted:
+      by: voce
+      date: 2026-10-31
+      work: hipocrates--corpus-hippocraticum
+      note: "Cartão d-greco-ciencia-opcoes, opção B: entraram Textos hipocráticos
+             (movimento V), Os Elementos, de Euclides (movimento VIII), e os
+             Fastos, de Ovídio (movimento IX). O cristianismo antigo fica com a
+             coleção Religião e com o movimento XI."
     provisional: true
     recheck_after: religiao-importada
     statement: "Ciência e medicina antigas ausentes, e religião romana e
