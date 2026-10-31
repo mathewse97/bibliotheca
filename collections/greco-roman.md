@@ -930,6 +930,11 @@ sequence:
      publication_pref: pub--annablume--vidas-paralelas-alcibiades-e-coriolano--2011}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, edição brasileira; pesquisa na obra
   - {work: plutarco--demosthenes, role: primary-source, demand: moderado,
      why_here: "Vida do maior orador de Atenas, que lutou contra Filipe da Macedônia. Leia buscando a crise do século IV a.C. e o fim da independência das cidades gregas.", why_here_by: claude, why_here_previous: "crise do século IV e Macedônia"}
+  # PARTICIPAÇÃO NOVA — cartão d-greco-cicero, opção A (2026-10-31): já estava no
+  # mesmo volume da Vida de Demóstenes; entra logo depois dela, como Plutarco as pareou.
+  - {work: plutarco--kikeron, role: primary-source, demand: moderado,
+     why_here: "Vida de Cícero, par da de Demóstenes nas *Vidas Paralelas*. Leia buscando o orador diante de uma república que se desfaz pela força, e compare com Demóstenes diante de Filipe.", why_here_by: claude, inserted_by: claude,
+     publication_pref: pub--coimbra--vidas-demostenes-e-cicero}
   - {work: plutarco--alexandros, role: primary-source, demand: moderado,
      why_here: "Vida do rei macedônio que conquistou o império persa. Leia buscando a passagem do mundo das cidades gregas para o mundo helenístico.", why_here_by: claude, why_here_previous: "conquista e expansão helenística"}
   - {work: plutarco--kaisar, role: primary-source, demand: moderado,
@@ -1254,7 +1259,7 @@ paths:
             epicteto--encheiridion, marco-aurelio--ta-eis-heauton,
             plutarco--solon, plutarco--themistokles, plutarco--perikles,
             plutarco--alkibiades, plutarco--demosthenes, plutarco--alexandros,
-            plutarco--kaisar,
+            plutarco--kaisar, plutarco--kikeron,
             apuleio--metamorphoses-asinus-aureus,
             vegecio--epitoma-rei-militaris,
             brown-peter--the-world-of-late-antiquity,

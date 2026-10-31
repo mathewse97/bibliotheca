@@ -103,7 +103,7 @@ sequence:
     why_here: "Introduz republicanismo romano, lei, dever cívico e governo misto."
     why_here_by: voce
     edition_pref: {text: "Edipro, trad. Amador Cisneiros.", by: voce, verified: false}
-    publication_pref: pub--edipro--da-republica--2021   # escolha sua (2026-09-23)
+    publication_pref: pub--temas-e-debates--tratado-da-republica--2008   # decisão sua, 2026-10-31 (cartão d-ed-cicero, edição B); a da Edipro fica como alternativa
 
   # PARTICIPAÇÕES NOVAS — decisão sua de 2026-09-28. As duas já estavam na
   # biblioteca, vindas de Greco-Romana; aqui ganham papel e argumento próprios,
@@ -213,7 +213,7 @@ sequence:
     why_here: "Lei natural, autoridade, bem comum e legitimidade do governo."
     why_here_by: voce
     edition_pref: {text: "Edipro, trad. Arlindo Veiga dos Santos.", by: voce, verified: false}
-    publication_pref: pub--edipro--do-governo-dos-principes--2013   # escolha sua (2026-09-23)
+    publication_pref: pub--vozes--escritos-politicos-de-santo-tomas-de-aquino--1995   # decisão sua, 2026-10-31 (cartão d-ed-aquino, edição B); a da Edipro fica como alternativa
 
   - movement: "IV. Formação da política moderna"
     purpose: "O eixo da coleção. A pergunta muda: deixa de ser qual o melhor
@@ -510,6 +510,7 @@ sequence:
     publication_pref: pub--edicoes-70--o-conceito-do-politico--2015   # localizada e registrada em 2026-10-09 (Etapa 1)
 
   - work: zamiatin--my
+    optional: true              # leitura complementar — cartão d-pol-adler-distopias (2026-10-31)
     role: literary-treatment
     demand: moderado
     why_here: "Uma das origens da distopia política moderna e da reflexão
@@ -657,6 +658,7 @@ sequence:
     moved_by: claude             # ver order_changes
 
   - work: orwell--animal-farm
+    optional: true              # leitura complementar — cartão d-pol-adler-distopias (2026-10-31)
     role: literary-treatment
     demand: leve
     why_here: "Revolução, propaganda, corrupção dos ideais, revisionismo
@@ -707,10 +709,25 @@ sequence:
     edition_pref: {text: "Editora UnB, edição brasileira.", by: voce, verified: true}
     publication_pref: pub--unb--sobre-a-democracia--2001   # escolhida em 2026-10-10 (Etapa 1): sua indicação verificada — única tradução brasileira; pesquisa na obra
 
+  # PARTICIPAÇÃO NOVA — cartão d-pol-adler-dahl, opção B (2026-10-31): manter os
+  # dois livros de Dahl; o mais completo vem logo depois do introdutório.
+  - work: dahl--democracy-and-its-critics
+    core: true
+    role: foundational
+    demand: exigente
+    why_here: "A defesa sistemática da democracia contra os seus críticos, dos
+               anarquistas aos defensores do governo dos sábios. Retoma o
+               argumento de Sobre a Democracia por inteiro e responde a quase
+               toda a coleção."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--wmf-martins-fontes--a-democracia-e-seus-criticos--2012   # pesquisa de 2026-10-31: única tradução brasileira
+
   # PARTICIPAÇÃO NOVA — 2026-09-23; inclusão aprovada por você. POSIÇÃO CONFIRMADA
   # por você em 2026-10-05 (cartão d-pos-levitsky): logo depois de Dahl, que descreve como a
   # democracia funciona; este livro descreve como ela é desmontada por dentro.
   - work: levitsky-ziblatt--how-democracies-die
+    optional: true              # leitura complementar — cartão d-pol-adler-levitsky (2026-10-31)
     role: supplementary
     demand: leve
     why_here: "O contraponto contemporâneo a Dahl: não o golpe, mas a erosão
@@ -758,6 +775,7 @@ sequence:
     publication_pref: pub--lvm--a-etica-da-liberdade--2010   # escolha sua (2026-09-23)
 
   - work: hoppe--democracy-the-god-that-failed
+    optional: true              # leitura complementar — cartão d-pol-adler-hoppe (2026-10-31)
     role: critical-response
     demand: moderado
     why_here: "Crítica libertária da democracia, do Estado e dos incentivos

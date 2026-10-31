@@ -39,10 +39,15 @@ contains:
     source_text: null
     completeness: null
     apparatus: []
-
-# Obras que estão no volume mas não estão em nenhuma coleção. interface-rules §8.
-also_contains:
-  - {title: "Vida de Cícero", author: "Plutarco"}
+  - work: plutarco--kikeron
+    why: "No mesmo volume da Vida de Demóstenes, na mesma tradução direta do grego de Marta Várzeas, com introdução e notas. Português de Portugal."
+    verdict: recommended
+    reason: "Entrou em Greco-Romana em 2026-10-31 (cartão d-greco-cicero, opção A). Já estava no volume recomendado para a Vida de Demóstenes; mesma tradução, sem compra a mais."
+    translator: [varzeas]
+    translated_from: direct
+    source_text: null
+    completeness: null
+    apparatus: []
 
 
 cover:
