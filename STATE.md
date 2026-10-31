@@ -71,11 +71,10 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-30): 20 obras.**
-  Recomendadas: 223 publicações; alternativas: 12. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (6): Rousseau (`d-ed-rousseau`),
-    Montesquieu (`d-ed-montesquieu-unesp`), Cícero (`d-ed-cicero`), Tomás
-    de Aquino (`d-ed-aquino`), Popper (`d-ed-popper`), Berlin
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 18 obras.**
+  Recomendadas: 226 publicações; alternativas: 14. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (4): Rousseau (`d-ed-rousseau`),
+    Montesquieu (`d-ed-montesquieu-unesp`), Popper (`d-ed-popper`), Berlin
     (`d-ed-berlin`).
   - *Tradutor conhecido, falta comparar com o original* (4): Rothbard
     (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
@@ -213,6 +212,18 @@ Teatro completo VI da Editora 34.
   - Em Greco-Romana, Campbell saiu da coleção (continua em Religião), e
     Everitt, Mikalson, McKirahan e Woolf viraram leitura complementar
     (`d-greco-adler-campbell`, `d-greco-adler-introducoes`).
+- **Cartões aplicados (2026-10-31):**
+  - Em Política, Hoppe, *Nós*, *A Fazenda dos Animais* e Levitsky e Ziblatt
+    viraram leitura complementar (`d-pol-adler-hoppe`,
+    `d-pol-adler-distopias`, `d-pol-adler-levitsky`).
+  - *A Democracia e seus Críticos*, de Robert Dahl, entrou logo depois de
+    *Sobre a Democracia*, com estrela (`d-pol-adler-dahl`); Política fica
+    com 22 estrelas em 55 obras.
+  - Tomás de Aquino passou aos *Escritos Políticos* da Vozes e Cícero ao
+    *Tratado da República* de Francisco de Oliveira; as duas da Edipro
+    ficam como alternativa (`d-ed-aquino`, `d-ed-cicero`).
+  - A *Vida de Cícero*, de Plutarco, entrou em Greco-Romana depois da
+    *Vida de Demóstenes*, no mesmo volume de Coimbra (`d-greco-cicero`).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

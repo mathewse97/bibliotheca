@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: aquino--de-regno
     why: "Indicada por você: a tradução de Arlindo Veiga dos Santos, feita direto do latim e à venda nova."
-    verdict: unassessed
-    reason: "Confere com a sua indicação. Comparada em 2026-10-17 com a dos Escritos Políticos da Vozes (trad. Francisco Benjamin de Souza Neto, sobre a edição crítica leonina); a escolha está no cartão d-ed-aquino."
+    verdict: alternative
+    reason: "Confere com a sua indicação. Comparada em 2026-10-17 com a dos Escritos Políticos da Vozes (trad. Francisco Benjamin de Souza Neto, sobre a edição crítica leonina). Em 2026-10-31 você escolheu a da Vozes (cartão d-ed-aquino, edição B); esta fica como alternativa à venda nova."
     translator: ["Arlindo Veiga dos Santos"]
     translated_from: direct
     source_text: null
@@ -75,4 +75,4 @@ updated: 2026-10-17
 
 ## Avaliação
 
-Sem veredito: aguarda o cartão d-ed-aquino, que a compara com a edição da Vozes.
+**Alternativa** (2026-10-31). Você escolheu a dos Escritos Políticos da Vozes; esta fica como alternativa à venda nova.

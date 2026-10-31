@@ -360,7 +360,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — incluir.", note: "Aplicado. A Vida de Cícero entrou no movimento VII logo depois da Vida de Demóstenes, no mesmo volume da Imprensa da Universidade de Coimbra (trad. Marta Várzeas), sem compra a mais. No caminho cronológico fica depois da Vida de César."}
   question: "Incluir a *Vida de Cícero*, de Plutarco, em Greco-Romana?"
   why: "Está no mesmo volume que a *Vida de Demóstenes*, já na coleção. Plutarco escreveu as duas como par, para serem lidas juntas. No outro volume (Alexandre e César), as duas vidas estão na coleção."
   options:
@@ -1060,7 +1061,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição B — Círculo de Leitores / Temas e Debates, Lisboa, 2008.", note: "Aplicado. Registrada e recomendada (Tratado da República, trad. Francisco de Oliveira; importação ou usado). A da Edipro passou a alternativa."}
   question: "Qual edição do *Da República*, de Marco Túlio Cícero?"
   why: "Você indicou a da Edipro, traduzida por Amador Cisneiros. É uma tradução antiga, de 1985, da coleção Os Pensadores, com notas. Pesquisei e achei uma mais completa: a de Francisco de Oliveira, professor da Universidade de Coimbra, publicada em Portugal em 2008. Por enquanto aparece a sua indicação."
   editions:
@@ -1085,7 +1087,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição B — Vozes, Escritos Políticos de Santo Tomás de Aquino, 1995.", note: "Aplicado. Registrada e recomendada (trad. Francisco Benjamin de Souza Neto, sobre a edição leonina; só usada). A da Edipro passou a alternativa."}
   question: "Qual edição do *Do Reino* (*Do Governo dos Príncipes*), de Tomás de Aquino?"
   why: "Você indicou a da Edipro, traduzida por Arlindo Veiga dos Santos. Pesquisei e achei uma edição mais cuidada: a dos Escritos Políticos, da Vozes, traduzida por Francisco Benjamin de Souza Neto sobre a edição crítica do texto latino. Por enquanto aparece a sua indicação."
   editions:
@@ -1564,7 +1567,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — manter como leitura complementar.", note: "Aplicado. Continua logo depois de Dahl, marcado como complementar."}
   source: review/political-thought.md §10
   question: "Tirar de Política *Como as Democracias Morrem*, de Steven Levitsky e Daniel Ziblatt?"
   why: "Livro de 2018 de dois cientistas políticos de Harvard: as democracias de hoje morrem menos por golpes e mais por líderes eleitos que vão corroendo as regras não escritas, como a tolerância com o adversário. Fui eu que o propus, como contraponto ao livro de Robert Dahl sobre democracia. É um bom livro, mas é de divulgação, apoiado em casos recentes, e envelhece rápido. Pela pirâmide de Adler, é obra de informação ou consulta, a base da pirâmide: serve para se informar, não para estudar."
@@ -1596,7 +1600,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — manter os dois.", note: "Aplicado. A Democracia e seus Críticos entrou logo depois de Sobre a Democracia, com estrela, como a defesa sistemática da democracia contra os seus críticos. Edição: WMF Martins Fontes, 2012, trad. Patrícia de Freitas Ribeiro, única tradução brasileira, impressa sob demanda."}
   source: review/political-thought.md §10
   question: "Trocar o livro de Robert Dahl em Política pela obra mais completa dele?"
   why: "Hoje está *Sobre a Democracia* (1998), de Robert Dahl, cientista político americano e um dos principais teóricos da democracia do século XX. É uma introdução curta e acessível ao que ele pensou a vida toda. A obra madura é *A Democracia e seus Críticos* (1989): nela ele expõe as objeções mais fortes à democracia, desde Platão, e responde a cada uma, o que toca de frente a pergunta da coleção. O livro atual tem a sua ★, então a decisão é sua."
@@ -1614,7 +1619,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — Nós e A Fazenda dos Animais viram leitura complementar.", note: "Aplicado. Os dois continuam no lugar, marcados como complementares; 1984, Admirável Mundo Novo e Os Demônios seguem como passos da coleção."}
   source: review/political-thought.md §10
   question: "Manter os cinco romances sobre totalitarismo como passos obrigatórios de Política?"
   why: "A parte da coleção sobre poder, partidos e ideologia tem 16 obras, quase um terço do total, e cinco são romances sobre regimes totalitários. Cada um mostra um modo de controle, mas há sobreposição: os dois de George Orwell tratam da mesma revolução traída, e *Nós*, de Yevgeny Zamiátin, é a fonte de ideias que *Admirável Mundo Novo* e *1984* retomaram. Três deles têm a sua ★: *Admirável Mundo Novo*, *A Fazenda dos Animais* e *1984*."
@@ -1655,7 +1661,8 @@ items:
   kind: colecao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — Democracia, o Deus que Falhou vira leitura complementar.", note: "Aplicado. Continua no movimento IX, marcado como complementar: fora da próxima leitura, com o selo na página."}
   source: review/political-thought.md §10
   question: "Com Robert Nozick entrando em Política, manter *Democracia, o Deus que Falhou*, de Hans-Hermann Hoppe, como passo obrigatório?"
   why: "A parte da coleção sobre crítica libertária, a posição de que o Estado deve ser mínimo ou nem existir, tem três obras: duas de Murray Rothbard e *Democracia, o Deus que Falhou* (2001), de Hans-Hermann Hoppe, economista alemão que compara a democracia, para pior, com a monarquia hereditária. Você já decidiu incluir *Anarquia, Estado e Utopia* (1974), de Robert Nozick, a defesa clássica do Estado mínimo e a resposta direta a John Rawls. Com esse livro, a posição libertária fica bem servida, e o de Hans-Hermann Hoppe repete parte dela de forma mais polêmica. O livro tem a sua ★."

@@ -2509,3 +2509,29 @@ pires-aurelio:
          Tradução, introdução e notas de O Príncipe, edição bilíngue (Editora
          34, 2017). Entrou em 2026-10-30."
   role: translator
+
+patricia-freitas-ribeiro:
+  name_display: "Patrícia de Freitas Ribeiro"
+  name_variants: []
+  dates: null
+  note: "Tradutora de A Democracia e seus Críticos, de Robert Dahl (WMF
+         Martins Fontes, 2012). Entrou em 2026-10-31."
+  role: translator
+
+souza-neto:
+  name_display: "Francisco Benjamin de Souza Neto"
+  name_variants: []
+  dates: null
+  note: "Tradutor dos Escritos Políticos de Santo Tomás de Aquino (Vozes,
+         1995), sobre a edição crítica leonina, com introdução. Entrou em
+         2026-10-31."
+  role: translator
+
+francisco-de-oliveira:
+  name_display: "Francisco de Oliveira"
+  name_variants: []
+  dates: null
+  note: "Professor da Universidade de Coimbra; tradução, introdução e notas
+         do Tratado da República, de Cícero (Círculo de Leitores / Temas e
+         Debates, Lisboa, 2008). Entrou em 2026-10-31."
+  role: translator

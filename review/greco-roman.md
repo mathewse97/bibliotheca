@@ -480,3 +480,8 @@ sem ela, mesmo sendo grandes livros.
   obras maiores: Osborne e Rhodes, Burkert, Kirk-Raven-Schofield e Beard.
 
 Nenhuma das cinco tinha estrela. Ficam 25 de 86.
+
+**Atualização de 2026-10-31.** A *Vida de Cícero*, de Plutarco, entrou no
+movimento VII logo depois da *Vida de Demóstenes* (cartão `d-greco-cicero`),
+sem estrela: é fonte primária da república romana tardia, mas as *Vidas* de
+Plutarco na coleção não têm estrela, e a de César já faz a passagem para Roma.

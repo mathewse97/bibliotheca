@@ -33,8 +33,8 @@ source_of_record: claude
 contains:
   - work: cicero--de-re-publica
     why: "Indicada por você: a tradução de Amador Cisneiros, feita direto do latim e à venda nova."
-    verdict: unassessed
-    reason: "Confere com a sua indicação. É a tradução de Amador Cisneiros publicada em 1985 na coleção Os Pensadores, com notas dele. Comparada em 2026-10-17 com a de Francisco de Oliveira (Portugal, 2008); a escolha está no cartão d-ed-cicero."
+    verdict: alternative
+    reason: "Confere com a sua indicação. É a tradução de Amador Cisneiros publicada em 1985 na coleção Os Pensadores, com notas dele. Comparada em 2026-10-17 com a de Francisco de Oliveira (Portugal, 2008). Em 2026-10-31 você escolheu a de Portugal (cartão d-ed-cicero, edição B); esta fica como alternativa, mais fácil de achar no Brasil."
     translator: ["Amador Cisneiros"]
     translated_from: direct
     source_text: null
@@ -89,4 +89,4 @@ updated: 2026-10-17
 
 ## Avaliação
 
-Sem veredito: aguarda o cartão d-ed-cicero, que a compara com a tradução de Francisco de Oliveira.
+**Alternativa** (2026-10-31). Você escolheu a tradução de Francisco de Oliveira; esta fica como alternativa, mais fácil de achar no Brasil.

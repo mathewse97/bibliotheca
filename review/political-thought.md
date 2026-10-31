@@ -612,3 +612,12 @@ Federalista*, já decididos, o número de obras sobe e a proporção cai.
 
 **Aplicada em 2026-10-30** (cartão `d-pol-estrelas`, opção A, decisão do
 Mathews). Política fica com 21 estrelas em 54 obras.
+
+**Atualização de 2026-10-31.** *A Democracia e seus Críticos*, de Robert Dahl,
+entrou com estrela (cartão `d-pol-adler-dahl`): é a defesa sistemática da
+democracia contra os seus críticos, e nenhuma outra obra da coleção ocupa esse
+lugar; *Sobre a Democracia* fica como a porta de entrada, sem estrela. Política
+passa a 22 estrelas em 55 obras. Hoppe, *Nós*, *A Fazenda dos Animais* e
+Levitsky e Ziblatt continuam na coleção como leitura complementar (cartões
+`d-pol-adler-hoppe`, `d-pol-adler-distopias`, `d-pol-adler-levitsky`); nenhum
+deles tinha estrela.
