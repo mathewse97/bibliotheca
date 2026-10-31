@@ -584,6 +584,18 @@ sequence:
     moved_by: claude             # vinha do movimento X — ver order_changes
     publication_pref: pub--setimo-selo--escuridao-ao-meio-dia--2022   # escolhida em 2026-10-09 (Etapa 1): única tradução do original alemão; pesquisa na obra
 
+  # PARTICIPAÇÃO NOVA — pedido seu, 2026-10-31: acrescentar, mantendo Bezmenov.
+  - work: soljenitsin--arkhipelag-gulag
+    role: primary-source
+    demand: exigente
+    why_here: "O grande testemunho sobre o sistema de campos soviético, de quem
+               passou por ele: o que o Estado faz com o direito e com a
+               consciência quando decide quem é inimigo. Depois do romance de
+               Koestler, o mesmo terror visto de dentro do campo."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--carambaia--arquipelago-gulag--2023   # pesquisa de 2026-10-31
+
   - work: popper--the-open-society
     role: critical-response
     demand: exigente

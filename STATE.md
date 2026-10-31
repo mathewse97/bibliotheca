@@ -239,6 +239,9 @@ Teatro completo VI da Editora 34.
   - Popper fica na edição das Edições 70 (`d-ed-popper`).
   - A regra sobre o propósito dos movimentos não mudou
     (`d-reg-proposito-movimento`, opção C).
+  - *Arquipélago Gulag*, de Aleksandr Soljenítsin, entrou em Política
+    (Carambaia, tradução direta do russo, versão condensada pelo autor); o
+    livro de Bezmenov ficou (`d-pol-adler-bezmenov`, pedido na conversa).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
