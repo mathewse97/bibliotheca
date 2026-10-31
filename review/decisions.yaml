@@ -194,7 +194,8 @@ items:
   kind: obra
   collections: [religion]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção A — um estudo e um texto para cada tradição.", note: "Aplicado. Entraram no movimento V, depois do budismo: Flood, Uma Introdução ao Hinduísmo (Editora UFJF, 2014), e a Bhagavad Gita, com estrela (Companhia das Letras, 1998, trad. Rogério Duarte, só usada); Demant, O Mundo Muçulmano (Contexto), e o Alcorão, com estrela (trad. Helmi Nasr, bilíngue, distribuído por centros islâmicos); Scholem, As Grandes Correntes da Mística Judaica (Perspectiva). Falta confirmar a disponibilidade de Flood e de Scholem. A lacuna religion--g02 passou a accepted."}
   source: religion--g02
   question: "Quais obras trazem para o movimento \"Religiões específicas\" o hinduísmo, o islamismo e o judaísmo?"
   why: "Você pediu sugestões. O movimento tem duas obras de budismo: um estudo (Rahula) e o texto sagrado (Dhammapada). Seguindo esse modelo, procurei para cada tradição um estudo e o texto central, só em português. O judaísmo já tem o texto, a Bíblia hebraica, no movimento IV; falta o estudo. A coleção já passa pelas três nos panoramas de Eliade, Armstrong e Noss, mas com um capítulo para cada uma."

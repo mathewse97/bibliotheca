@@ -260,8 +260,13 @@ Teatro completo VI da Editora 34.
   - Religião: Eusébio, Agostinho (★), Anselmo e Lutero no movimento VI
     (`d-rel-cristianismo-opcoes`) e J. Z. Smith, *To Take Place*, no
     movimento II (`d-rel-eliade`). Religião: 15 estrelas em 39 obras.
-  - Religião pediu sugestões de hinduísmo, islamismo e judaísmo; estão no
-    cartão `d-rel-especificas-opcoes`.
+  - Religião: hinduísmo, islã e judaísmo entraram no movimento V, um estudo
+    e um texto para cada tradição (`d-rel-especificas-opcoes`, opção A).
+    Religião: 17 estrelas em 44 obras.
+- **Ideia para depois (pedido do Mathews, 2026-10-31):** obras sobre os
+  conflitos atuais do islã e a geopolítica (islamismo político, jihadismo,
+  Primavera Árabe, Estado Islâmico), provavelmente em Política, e não em
+  Religião. Só em português. Não pesquisar antes de ele pedir.
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.
