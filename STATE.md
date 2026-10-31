@@ -71,10 +71,10 @@ Teatro completo VI da Editora 34.
 
 ## Pendências de pesquisa
 
-- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 17 obras.**
-  Recomendadas: 235 publicações; alternativas: 14. O que falta em cada uma:
-  - *Decisão do Mathews em cartão* (3): Rousseau (`d-ed-rousseau`),
-    Montesquieu (`d-ed-montesquieu-unesp`), Berlin (`d-ed-berlin`).
+- **Edições sem veredito depois da primeira passada (revisto em 2026-10-31): 16 obras.**
+  Recomendadas: 240 publicações; alternativas: 15. O que falta em cada uma:
+  - *Decisão do Mathews em cartão* (2): Rousseau (`d-ed-rousseau`), Berlin
+    (`d-ed-berlin`).
   - *Tradutor conhecido, falta comparar com o original* (4): Rothbard
     (Fernando Fiori Chiocca) e Hoppe (Marcelo Werlang de Assis), ambos do
     Instituto Mises Brasil, cujos PDFs são gratuitos; Aron/Vide (Christian
@@ -242,6 +242,12 @@ Teatro completo VI da Editora 34.
   - *Arquipélago Gulag*, de Aleksandr Soljenítsin, entrou em Política
     (Carambaia, tradução direta do russo, versão condensada pelo autor); o
     livro de Bezmenov ficou (`d-pol-adler-bezmenov`, pedido na conversa).
+  - Greco-Romana ganhou *Textos hipocráticos* (movimento V), *Os Elementos*,
+    de Euclides (VIII, livro I indicado), e os *Fastos*, de Ovídio (IX)
+    (`d-greco-ciencia-opcoes`, opção B). As duas comédias de Aristófanes
+    ficaram fora (`d-greco-aristofanes`, opção B).
+  - Montesquieu passou à tradução da Editora Unesp (2023); a da Martins
+    Fontes fica como alternativa (`d-ed-montesquieu-unesp`).
 - **Bacantes:** em 2026-10-27 o Teatro completo VI (Editora 34) ainda estava
   só em pré-venda, embora com data de 26/10. A Odysseus continua registrada
   até ele estar à venda.

@@ -675,6 +675,59 @@ virgilio:
   dates: null                 # a pesquisar
   note: null
 
+hipocrates:
+  name_display: "Hipócrates e escola hipocrática"
+  name_variants: ["Hipócrates de Cós"]
+  dates: "c. 460–c. 370 a.C."
+  note: "Médico grego. Os tratados do Corpus hipocrático são de vários autores
+         dos séculos V e IV a.C., reunidos sob o nome dele."
+
+euclides:
+  name_display: "Euclides"
+  name_variants: ["Euclides de Alexandria"]
+  dates: "séc. IV–III a.C."
+  note: "Matemático grego que trabalhou em Alexandria por volta de 300 a.C."
+
+cairus:
+  name_display: "Henrique F. Cairus"
+  name_variants: ["Henrique Fortuna Cairus"]
+  dates: null
+  note: "Tradutor, não autor. Professor de grego da UFRJ; traduziu, com Wilson
+         A. Ribeiro Jr., os Textos hipocráticos da Fiocruz (2005)."
+  role: translator
+
+ribeiro-jr:
+  name_display: "Wilson A. Ribeiro Jr."
+  name_variants: ["Wilson Alves Ribeiro Jr."]
+  dates: null
+  note: "Tradutor, não autor. Médico e pesquisador de grego na USP; cotradutor
+         dos Textos hipocráticos da Fiocruz (2005)."
+  role: translator
+
+bicudo:
+  name_display: "Irineu Bicudo"
+  name_variants: []
+  dates: "–2018"
+  note: "Tradutor, não autor. Professor de matemática da Unesp de Rio Claro;
+         traduziu Os Elementos, de Euclides, direto do grego (Unesp, 2009)."
+  role: translator
+
+gouvea-junior:
+  name_display: "Márcio Meirelles Gouvêa Júnior"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu os Fastos, de Ovídio, em edição
+         bilíngue (Autêntica, 2015)."
+  role: translator
+
+ciro-lourenco:
+  name_display: "Ciro Lourenço"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Cotradutor, com Thiago Vargas, de Do espírito
+         das leis, de Montesquieu (Unesp, 2023)."
+  role: translator
+
 ovidio:
   name_display: "Ovídio"
   name_variants: []
@@ -2490,8 +2543,9 @@ thiago-vargas:
   name_display: "Thiago Vargas"
   name_variants: []
   dates: null
-  note: "Estudioso de Rousseau; revisão técnica e posfácio do Emílio da
-         Editora Unesp (2022). Entrou em 2026-10-30."
+  note: "Estudioso de Rousseau e de Montesquieu; revisão técnica e posfácio
+         do Emílio da Editora Unesp (2022); cotradutor, com Ciro Lourenço, de
+         Do espírito das leis (Unesp, 2023). Entrou em 2026-10-30."
   role: editor
 
 pires-aurelio:

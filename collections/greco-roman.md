@@ -744,6 +744,19 @@ sequence:
     subjects_stated: [pre-socraticos, cosmologia, ontologia,
                       argumentos-filosoficos, fragmentos]
 
+  # PARTICIPAÇÃO NOVA — cartão d-greco-ciencia-opcoes, opção B (2026-10-31).
+  - work: hipocrates--corpus-hippocraticum
+    role: primary-source
+    demand: moderado
+    why_here: "A medicina grega fazendo a mesma passagem que os filósofos: a
+               doença deixa de ser castigo dos deuses e passa a ter causas
+               naturais. Leia *Da doença sagrada* buscando o argumento contra
+               a explicação religiosa da epilepsia."
+    why_here_by: claude
+    inserted_by: claude
+    closes_gap: greco-roman--g03
+    publication_pref: pub--fiocruz--textos-hipocraticos--2005
+
   - movement: "VI. Sócrates, Platão e Aristóteles"
     purpose: "Ética, política, conhecimento, metafísica, arte e formação do
               homem."
@@ -1034,6 +1047,20 @@ sequence:
     why_here_by: claude
     inserted_by: claude
 
+  # PARTICIPAÇÃO NOVA — cartão d-greco-ciencia-opcoes, opção B (2026-10-31).
+  - work: euclides--stoicheia
+    role: primary-source
+    demand: exigente
+    why_here: "A matemática grega no seu ponto mais alto, escrita na Alexandria
+               helenística: um sistema inteiro deduzido de poucas definições e
+               postulados. Leia o livro I buscando o que é uma demonstração."
+    why_here_by: claude
+    inserted_by: claude
+    scope: "Leitura indicada: o livro I, das definições ao teorema de Pitágoras
+            (proposição 47)."
+    closes_gap: greco-roman--g03
+    publication_pref: pub--unesp--os-elementos--2009
+
   - work: epicuro--epistole-pros-menoikea
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/greco-roman.md
@@ -1098,6 +1125,18 @@ sequence:
     perspective: "Poesia mitológica e literatura romana."
     subjects_stated: [transformacao, deuses, herois, amor, violencia, destino,
                       criacao, mitos-gregos-e-romanos]
+
+  # PARTICIPAÇÃO NOVA — cartão d-greco-ciencia-opcoes, opção B (2026-10-31).
+  - work: ovidio--fasti
+    role: primary-source
+    demand: moderado
+    why_here: "A religião romana praticada, festa por festa, pelo calendário de
+               Roma: os ritos e as lendas que os explicam. Leia buscando uma
+               religião de ritos cívicos, e não de crenças."
+    why_here_by: claude
+    inserted_by: claude
+    closes_gap: greco-roman--g03
+    publication_pref: pub--autentica--fastos--2015
 
   - work: apuleio--metamorphoses-asinus-aureus
     role: primary-source

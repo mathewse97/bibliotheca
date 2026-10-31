@@ -336,7 +336,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — a opção A e também Euclides.", note: "Aplicado. Textos hipocráticos (Fiocruz, 2005, trad. Henrique Cairus e Wilson Ribeiro Jr.) entrou no movimento V; Os Elementos, de Euclides (Unesp, 2009, trad. Irineu Bicudo), no movimento VIII, com indicação do livro I; os Fastos, de Ovídio (Autêntica, 2015, bilíngue, trad. Márcio Meirelles Gouvêa Júnior), no movimento IX, depois das Metamorfoses. Correção: Textos hipocráticos também se vende novo (a partir de R$ 80,61), não só usado. A lacuna greco-roman--g03 passou a accepted."}
   source: greco-roman--g03
   question: "Quais obras trazem para Greco-Romana a ciência e a medicina antigas, e a religião romana?"
   why: "Você pediu sugestões. Procurei fontes antigas com tradução brasileira de tradutor conhecido. Para a medicina e para a religião romana há uma boa em cada área; para a matemática, a tradução completa de Euclides. Os estudos modernos que amarram tudo, como o de G. E. R. Lloyd sobre a ciência grega, não têm tradução em português que eu tenha achado."
@@ -371,7 +372,8 @@ items:
   kind: obra
   collections: [greco-roman]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Opção B — deixar como está.", note: "Nada muda: as duas comédias continuam listadas na página da edição."}
   question: "Incluir *Só para mulheres* e *Um deus chamado dinheiro*, de Aristófanes, em Greco-Romana?"
   why: "As duas comédias estão no mesmo volume da Zahar que traz *As Nuvens*, mas não estão na coleção. Hoje *As Nuvens* é a única comédia da coleção."
   options:
@@ -1059,7 +1061,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição B — Editora Unesp, 2023.", note: "Aplicado. Registrada e recomendada (trad. Thiago Vargas e Ciro Lourenço, edição de 1757, com notas, mapas e cronologia; à venda nova). A da Martins Fontes passou a alternativa."}
   question: "Trocar *O Espírito das Leis*, de Montesquieu, pela tradução nova da Editora Unesp?"
   why: "Em 10/10 você escolheu a da Martins Fontes, traduzida por Cristina Murachco, que só se acha usada. Naquela comparação faltou uma edição: a da Editora Unesp, de 2023, a tradução mais recente, feita por dois pesquisadores de Montesquieu e à venda nova. Por enquanto aparece a Martins Fontes."
   editions:

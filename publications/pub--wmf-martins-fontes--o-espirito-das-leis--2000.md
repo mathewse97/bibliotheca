@@ -33,8 +33,8 @@ source_of_record: voce
 contains:
   - work: montesquieu--de-lesprit-des-lois
     why: "Tradução de Cristina Murachco, feita direto do francês, a mais citada em trabalhos acadêmicos brasileiros. Está esgotada e só se encontra usada."
-    verdict: unassessed
-    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada. Em 2026-10-17 apareceu uma tradução nova da Editora Unesp (2023) que não estava na comparação; a escolha foi reaberta no cartão d-ed-montesquieu-unesp."
+    verdict: alternative
+    reason: "Escolhida pelo Mathews em 2026-10-10 (d-ed-montesquieu, adotando a recomendação). Fora de catálogo: comprar usada. Em 2026-10-17 apareceu uma tradução nova da Editora Unesp (2023) que não estava na comparação; a escolha foi reaberta no cartão d-ed-montesquieu-unesp, e em 2026-10-31 você escolheu a da Unesp. Esta fica como alternativa."
     translator: [murachco]
     translated_from: direct
     source_text: null
@@ -92,4 +92,4 @@ updated: 2026-10-09
 
 ## Avaliação
 
-**Sem veredito.** Atende à indicação do Mathews (Martins Fontes). A 3ª edição em brochura foi preferida à de bolso de 1993 por ser a mais recente das duas encontradas.
+**Alternativa** (2026-10-31). Você escolheu a tradução nova da Editora Unesp; esta fica como alternativa. A 3ª edição em brochura foi preferida à de bolso de 1993 por ser a mais recente das duas encontradas.
