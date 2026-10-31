@@ -34,8 +34,8 @@ source_of_record: claude
 contains:
   - work: berlin--two-concepts-of-liberty
     why: "O ensaio vem no livro Quatro ensaios sobre a liberdade, junto com a introdução em que Berlin responde às críticas a ele, que ajuda a entendê-lo. Tradução de Wamberto Hudson Ferreira; esgotada, só se acha usada."
-    verdict: unassessed
-    reason: "Candidato A do cartão d-ed-berlin, recomendado; exibido enquanto o cartão não for decidido."
+    verdict: recommended
+    reason: "Escolha do Mathews em 2026-10-31 (cartão d-ed-berlin, edição A), comparada com Estudos sobre a humanidade (Companhia das Letras, 2002, trad. Rosaura Eichenberg). Fica esta porque traz, além do ensaio, a Introdução em que Berlin responde às críticas a ele. Esgotada: só usada, rara."
     translator: [wamberto-ferreira]
     translated_from: direct
     source_text: null
@@ -108,4 +108,4 @@ updated: 2026-10-10
 
 ## Avaliação
 
-**Sem veredito — em decisão no cartão d-ed-berlin.**
+**Recomendada** (2026-10-31). Sua escolha: o livro inteiro é sobre liberdade e traz a resposta de Berlin às críticas ao ensaio. Esgotada; só usada.

@@ -1229,7 +1229,8 @@ items:
   kind: edicao
   collections: [political-thought]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-10-31, choice: "Edição A — Quatro ensaios sobre a liberdade, Editora UnB, 1981.", note: "Aplicado. Recomendada; deixou de ser provisória. Esgotada: comprar usada."}
   question: "Em que livro ler *Dois conceitos de liberdade*, de Berlin?"
   why: "Você pediu uma edição brasileira acadêmica dos ensaios. Há duas coletâneas brasileiras com o ensaio, ambas esgotadas. Nenhuma fonte compara as traduções. Por enquanto aparece a da UnB."
   editions:
