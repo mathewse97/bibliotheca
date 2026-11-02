@@ -437,6 +437,9 @@ escolheu ler a tradução da Cultrix.
   reservam a altura do maior mês do ano, medida de novo quando a janela muda
   de largura. Trocar de mês não faz a página pular. Em Decisões a página pode
   crescer ao escolher uma opção (ele aceitou).
+- **Barra inferior do celular:** Início, Coleções, **Guia do ano** (no centro,
+  botão redondo em destaque, acima da barra), Buscar e Mais. O Catálogo saiu
+  da barra e continua em "Mais" (pedido do Mathews, 2026-11-02).
 - **Card de coleção clicável por inteiro**, na lista de coleções; links e
   botões dentro dele mantêm o próprio destino. Enter também abre.
 
