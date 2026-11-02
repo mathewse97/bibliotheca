@@ -264,6 +264,18 @@ Teatro completo VI da Editora 34.
   - Religião: hinduísmo, islã e judaísmo entraram no movimento V, um estudo
     e um texto para cada tradição (`d-rel-especificas-opcoes`, opção A).
     Religião: 17 estrelas em 44 obras.
+- **Guia do ano (2026-11-02):** página `#/plano`, lida de `plans/2027.yaml`
+  (regras em `config/interface-rules.md` §16). Para o plano, entraram oito
+  obras sem coleção: Flusser, *Pompeia*, Hadot, Almond, *Piratas no Brasil*,
+  Townsend, Matsumoto e Frankopan. Quatro esperam o cartão
+  `d-plano-colecoes`. Ficam sem veredito, por tradutor não identificado:
+  *Pompeia* (só "Maria Cristina"), Townsend, Matsumoto e Frankopan. Campo
+  novo nas obras: `period_covered`, a época de que a obra trata.
+- **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
+  da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
+  época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido
+  e plano do ano. Depende de preencher `period_covered` nas cerca de 270
+  obras. Lembrar o Mathews quando outras pendências fecharem.
 - **Ideia para depois (pedido do Mathews, 2026-10-31):** obras sobre os
   conflitos atuais do islã e a geopolítica (islamismo político, jihadismo,
   Primavera Árabe, Estado Islâmico), provavelmente em Política, e não em

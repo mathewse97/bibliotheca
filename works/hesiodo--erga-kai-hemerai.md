@@ -12,6 +12,7 @@ work_type: literatura
 date_written: null
 date_sort: null
 period: null
+period_covered: {from: -700, to: -700}
 traditions: []
 subjects: []
 

@@ -373,3 +373,36 @@ No desktop, a coluna à direita ficava vazia. A partir de 1440px de largura:
 - **Visão geral:** coluna "Continuar" com o que está lendo, as próximas
   leituras (prioridade alta e a próxima de cada coleção) e as decisões que
   esperam por ele. Só a partir de 1700px, para não apertar os indicadores.
+
+## 16 · Guia do ano — decisão do Mathews, 2026-11-02
+
+Página `#/plano`, no menu "Você". Mostra o plano de leitura de um ano, lido de
+`plans/<ano>.yaml`. Três prévias foram feitas antes da versão final.
+
+- **Sem registro de leitura.** A página não depende de nada que ele precise
+  informar: tudo sai da data de hoje e do plano. Não acrescentar progresso,
+  páginas lidas, sequências, pontos, medalhas nem ranking. Pedido explícito
+  dele, e a pesquisa sobre gamificação e motivação dá o mesmo conselho.
+- **Faixa dos meses** colada no topo do card principal: as 12 capas em
+  miniatura, ✓ nos meses passados, número quando o mês tem mais de uma obra,
+  setas para navegar. No celular, rola de lado, centrada no mês atual.
+- **Card do mês:** capa reta (não girada), coleção, título, autor e páginas.
+  O **marco do dia** é uma linha só: "referência: página N" no ritmo do mês,
+  com uma barra fina e etiquetas de conta pronta (em dia, na estaca zero,
+  atrasado, adiantado, dias restantes). Calculado só pela data. Abaixo, a
+  pergunta do "Como ler" da obra.
+- **Antes de ler / Como ler / Depois de ler:** "Como ler" vem da página da
+  obra; "Antes" e "Depois" vêm do plano. Na última semana do mês aparece o
+  livro do mês seguinte, com aviso quando passa de 500 páginas.
+- **A viagem do ano:** cada livro na época de que trata (`period_covered` da
+  obra), com faixas de época ao fundo. **Os fios do ano:** arcos entre meses
+  que conversam (`threads` do plano). **O peso dos meses:** páginas por mês,
+  divididas por livro.
+- **Editar plano:** arrastar entre meses, acrescentar do catálogo (um mês
+  pode ter várias obras), tirar, desfazer, cancelar. No celular, seletores
+  no lugar de arrastar. A mudança fica no navegador até ele gravar na pasta
+  ou copiar e colar na conversa; enquanto isso, um aviso fica no topo.
+- **Nada de fontes externas na tela:** a página não cita de onde veio a lista
+  (clube, canal etc.). Pedido dele.
+- Clicar em mês, fio ou barra atualiza só o que muda, sem rolar a página.
+
