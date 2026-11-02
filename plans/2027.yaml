@@ -19,6 +19,7 @@ year: 2027
 months:
   1:
     - work: woolf--rome-an-empires-story
+      publication: pub--cultrix--roma--2017   # a edição que ele vai ler (2026-11-02)
       after: {work: beard--spqr, note: "Greco-Romana, movimento IX: conta o começo de Roma com mais detalhe."}
   2:
     - works: [plutarco--alexandros, plutarco--kaisar]

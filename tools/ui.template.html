@@ -1162,7 +1162,7 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .gfios{padding:16px 18px}.gp .gchips{display:flex;flex-wrap:wrap;gap:8px}
 .gp .gchip{font:inherit;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);border-radius:99px;padding:5px 12px;font-size:13px;cursor:pointer;display:flex;gap:8px;align-items:center}
 .gp .gchip i{width:10px;height:10px;border-radius:50%}.gp .gchip.on{border-color:var(--ink);background:var(--surface-3)}
-.gp .gft{height:48px;overflow:hidden;color:var(--ink-soft);font-size:14.5px;margin:10px 0 0;display:flex;align-items:center}
+.gp .gft{min-height:48px;color:var(--ink-soft);font-size:14.5px;margin:10px 0 0;display:flex;align-items:center}
 .gp .garcs svg{display:block;width:100%;height:auto}
 .gp .gpeso{padding:22px 18px 14px}
 .gp .gbars{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:10px;align-items:end;height:160px;border-bottom:1px solid var(--rule)}
@@ -2805,7 +2805,7 @@ function vPubs(){
 const GP_MN=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
 const GP_MA=GP_MN.map(m=>m.slice(0,3));
 const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8'];
-const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, tint:{}, q:''};
+const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, fioView:null, tint:{}, q:''};
 const gpDays = (y,m)=> new Date(y, m+1, 0).getDate();
 const gpKey = y => 'bib.plano.'+y;
 function gpLoad(){
@@ -2947,7 +2947,7 @@ function gpHero(){
     <div class="gch"><span>Em dia: <b>${per(ref)} p./dia</b></span>${opts.map(x=>`<span>${x<ref?'Na':'Se já leu'} ${lbl(x)}: <b>${per(x)} p./dia</b></span>`).join('')}<span>${left} dia${left>1?'s':''} restantes</span></div></div>`;
   else if(Pm) mk = `<div class="gmk"><div class="gch">${t.phase==='antes'&&vm===0?`<span>Começa em 1º de janeiro · faltam <b>${t.left} dias</b></span>`:''}<span>${days} dias · ${Pm} páginas</span><span>≈ <b>${Math.ceil(Pm/days)} p./dia</b></span></div></div>`;
   else mk = `<div class="gmk"><div class="gch"><span>Número de páginas ainda não registrado</span></div></div>`;
-  hero.innerHTML = `<div class="gbg" data-tint="${E(key)}"></div><div class="gin"><div>${cov?`<img class="gcv" src="${cov}" alt="Capa de ${E(gpTitle(it))}">`:`<div class="gcvph">${E(gpTitle(it))}</div>`}</div><div>
+  hero.innerHTML = `<div class="gbg" data-tint="${E(key)}"></div><div class="gin"><div>${cov?`<img class="gcv cover" src="${cov}" alt="Capa de ${E(gpTitle(it))}" title="Ver a capa em tela cheia">`:`<div class="gcvph">${E(gpTitle(it))}</div>`}</div><div>
     <div class="gkick">${kick} · ${GP_MN[vm]}<span class="gpill">${E(gpColl(it))}</span></div>
     ${mult?`<div class="gtabs">${its.map((x,k)=>`<button class="gtab${k===GP.ix?' on':''}" data-k="${k}">${E(gpShort(x))}</button>`).join('')}</div>`:''}
     <h3><a href="#/obra/${E(w0)}">${E(gpTitle(it))}</a></h3><div class="gau">${E(gpAuthors(it))}${gpPages(it)?` · ${gpPages(it)} páginas`:''}</div>
@@ -2992,16 +2992,24 @@ function gpTimeline(){
 function gpFios(){
   const th = D.plans[GP.year].threads || [], ch = document.getElementById('gp-chips');
   ch.innerHTML = th.map((f,i)=>`<button class="gchip${GP.fio===i?' on':''}" data-i="${i}"><i style="background:${GP_FIO[i%GP_FIO.length]}"></i>${E(f.name)}</button>`).join('');
-  ch.querySelectorAll('.gchip').forEach(c=>{ c.onmouseenter = c.onclick = ()=>{ GP.fio = +c.dataset.i; document.getElementById('gp-ft').textContent = th[GP.fio].text||'';
-    ch.querySelectorAll('.gchip').forEach(z=>z.classList.toggle('on', z===c)); gpArcs(); }; });
-  gpArcs();
+  const ft = document.getElementById('gp-ft'), base = 'Passe o mouse ou toque num fio para ver o que liga os livros.';
+  const show = i => { GP.fioView = i; ft.textContent = i===null ? base : (th[i].text||''); ch.querySelectorAll('.gchip').forEach(z=>z.classList.toggle('on', +z.dataset.i===GP.fio)); gpArcs(); };
+  ch.querySelectorAll('.gchip').forEach(c=>{ const i = +c.dataset.i;
+    c.onmouseenter = ()=>show(i);
+    c.onmouseleave = ()=>show(GP.fio);
+    c.onclick = ()=>{ GP.fio = GP.fio===i ? null : i; show(GP.fio===null ? null : i); }; });
+  ft.style.minHeight = ''; let mh = 0;
+  [base, ...th.map(t=>t.text||'')].forEach(x=>{ ft.textContent = x; mh = Math.max(mh, ft.offsetHeight); });
+  ft.style.minHeight = mh + 'px';
+  show(GP.fio);
 }
 function gpArcs(){
   const th = D.plans[GP.year].threads || [], t = gpToday(), cm = t.phase==='durante'?t.m:-1, AW=1000, base=170, nx = i=>40+i*(AW-80)/11;
   let a = `<svg viewBox="0 0 ${AW} 220" role="img" aria-label="Meses que conversam entre si">`;
-  th.forEach((f,fi)=>{ const ms = (f.months||[]).map(m=>m-1).sort((p,q)=>p-q), on = GP.fio===null||GP.fio===fi, c = GP_FIO[fi%GP_FIO.length];
+  const act = GP.fioView ?? GP.fio;
+  th.forEach((f,fi)=>{ const ms = (f.months||[]).map(m=>m-1).sort((p,q)=>p-q), on = act===null||act===undefined||act===fi, c = GP_FIO[fi%GP_FIO.length];
     for(let k=0;k<ms.length-1;k++){ const x1=nx(ms[k]), x2=nx(ms[k+1]), h=Math.min(140,(x2-x1)*.5+14+fi*3);
-      a += `<path d="M${x1},${base-26} C${x1},${base-26-h} ${x2},${base-26-h} ${x2},${base-26}" fill="none" stroke="${c}" stroke-width="${GP.fio===fi?4:2.2}" stroke-linecap="round" opacity="${on?.95:.1}"/>`; } });
+      a += `<path d="M${x1},${base-26} C${x1},${base-26-h} ${x2},${base-26-h} ${x2},${base-26}" fill="none" stroke="${c}" stroke-width="${act===fi?4:2.2}" stroke-linecap="round" opacity="${on?.95:.1}"/>`; } });
   GP_MA.forEach((m,i)=>{ const it = gpItems(i)[0], cv = it && gpCover(it), past = t.phase==='depois'||(t.phase==='durante'&&i<t.m);
     a += `<g class="grow" data-m="${i}"><clipPath id="gpc${i}"><circle cx="${nx(i)}" cy="${base}" r="22"/></clipPath>${cv?`<image href="${cv}" x="${nx(i)-22}" y="${base-33}" width="44" height="66" clip-path="url(#gpc${i})" preserveAspectRatio="xMidYMid slice" opacity="${past||i===cm?1:.55}"/>`:`<circle cx="${nx(i)}" cy="${base}" r="22" fill="var(--surface-3)"/>`}<circle cx="${nx(i)}" cy="${base}" r="22" fill="none" stroke="${i===cm?'var(--accent)':'var(--rule)'}" stroke-width="${i===cm?3:1.5}"/><text x="${nx(i)}" y="${base+40}" text-anchor="middle" font-size="12" fill="${i===cm?'var(--accent)':'var(--ink-soft)'}" font-weight="${i===cm?700:400}">${m}</text></g>`; });
   const el = document.getElementById('gp-arcs'); el.innerHTML = a + '</svg>';
