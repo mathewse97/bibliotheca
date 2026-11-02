@@ -271,6 +271,10 @@ Teatro completo VI da Editora 34.
   `d-plano-colecoes`. Ficam sem veredito, por tradutor não identificado:
   *Pompeia* (só "Maria Cristina"), Townsend, Matsumoto e Frankopan. Campo
   novo nas obras: `period_covered`, a época de que a obra trata.
+- **Woolf pela Cultrix (2026-11-02):** o Mathews vai comprar e ler a tradução
+  da Cultrix (2017, tradutor não confirmado). Registrada como alternativa; a
+  página da obra continua mostrando a recomendada (Oxford, em inglês), e o
+  plano de 2027 aponta para a Cultrix.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido
