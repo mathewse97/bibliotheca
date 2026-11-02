@@ -24,7 +24,7 @@ links:
 
 verified_fields: [title_as_published, publisher, isbn13]
 research_status: partially_researched
-missing: ["ano", pages, format, "número de edição",
+missing: ["ano", pages, format, "número de edição", "texto grego ao lado: a lista com as fotos das capas (2026-11-01) diz que sim; conferir",
           "aparato crítico, introdução e notas",
           "confirmação em fonte tier 1 (página da própria editora)"]
 source_of_record: claude

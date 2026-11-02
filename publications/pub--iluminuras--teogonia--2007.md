@@ -31,8 +31,8 @@ source_of_record: claude
 contains:
   - work: hesiodo--theogonia
     why: "Tradução completa de Jaa Torrano, com o grego ao lado para conferir o original e um longo estudo dele sobre o poema; é o mesmo tradutor das tragédias de Ésquilo e Eurípides da sua biblioteca. Leitura mais difícil que a de Christian Werner. Fácil de comprar nova."
-    verdict: recommended
-    reason: "Comparada em 2026-10-10 com a da Hedra (trad. Christian Werner), de leitura mais fácil; escolha do Mathews: bilíngue e com o estudo de Jaa Torrano."
+    verdict: alternative
+    reason: "Recomendada de 2026-10-10 a 2026-11-02. Em 2026-11-02 o Mathews passou à Hedra (Christian Werner), para ler a Teogonia e Trabalhos e Dias no mesmo tradutor. Fica registrada como edição de estudo: o ensaio de Jaa Torrano, O mundo como função de Musas, é a leitura de referência sobre o poema."
     translator: [torrano]
     translated_from: direct
     source_text: null
@@ -69,5 +69,4 @@ updated: 2026-10-18
 
 ## Avaliação
 
-**Escolhida pelo Mathews em 2026-10-10**, no lugar da tradução de Christian
-Werner (Hedra): bilíngue e com o estudo de Torrano.
+**Edição de estudo** (2026-11-02). A recomendada para ler passou a ser a da Hedra, de Christian Werner; esta fica pelo ensaio de Jaa Torrano.

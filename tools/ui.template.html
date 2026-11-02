@@ -1112,8 +1112,8 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp{--gp-r:16px}
 .gp .gbar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;justify-content:space-between;margin-bottom:14px}
 .gp .gbar h1{font-family:var(--serif);margin:0}.gp .gbar h1 small{font-family:var(--sans);font-size:15px;font-weight:400;color:var(--ink-soft);margin-left:8px}
-.gp .gbtn{font:inherit;font-size:14px;font-weight:600;border-radius:10px;padding:8px 14px;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);cursor:pointer}
-.gp .gbtn:hover{background:var(--surface-3)}.gp .gbtn.pri{background:var(--accent);border-color:var(--accent);color:var(--on-accent,#fff)}.gp .gbtn:disabled{opacity:.4;cursor:default}
+.gp .gbtn,.gdr  .gbtn{font:inherit;font-size:14px;font-weight:600;border-radius:10px;padding:8px 14px;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);cursor:pointer}
+.gp .gbtn:hover,.gdr  .gbtn:hover{background:var(--surface-3)}.gp .gbtn.pri,.gdr  .gbtn.pri{background:var(--accent);border-color:var(--accent);color:var(--on-accent,#fff)}.gp .gbtn:disabled{opacity:.4;cursor:default}
 .gp .gcard{background:var(--surface);border:1px solid var(--rule);border-radius:var(--gp-r)}
 .gp .gsec{margin-top:30px}.gp .gsec>h2{font-family:var(--sans);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 10px;font-weight:700}
 .gp .gnote{padding:10px 14px;border-radius:12px;border:1px solid color-mix(in srgb,var(--flag) 45%,transparent);background:color-mix(in srgb,var(--flag) 10%,transparent);font-size:14px;margin-bottom:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
@@ -1135,7 +1135,7 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .gbg{position:absolute;inset:0;opacity:.45;transition:background .5s}
 .gp .gin{position:relative;display:grid;grid-template-columns:170px 1fr;gap:28px;padding:24px 26px}
 .gp .gcv{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 14px 40px rgba(0,0,0,.35);display:block}
-.gp .gcvph{width:100%;aspect-ratio:2/3;border-radius:6px;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px;background:var(--surface-3);color:var(--ink-soft);font-family:var(--serif)}
+.gp .gcvph,.gdr  .gcvph{width:100%;aspect-ratio:2/3;border-radius:6px;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px;background:var(--surface-3);color:var(--ink-soft);font-family:var(--serif)}
 .gp .gkick{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .gp .gpill{padding:2px 9px;border-radius:99px;background:color-mix(in srgb,var(--ink) 10%,transparent);letter-spacing:.02em;text-transform:none;font-weight:600}
 .gp .gtabs{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.gp .gtab{font:inherit;font-size:13px;padding:4px 10px;border-radius:99px;border:1px solid var(--rule);cursor:pointer;background:var(--surface-2);color:var(--ink)}
@@ -1154,7 +1154,7 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .gtrio .gcard{padding:16px 18px;min-height:170px}.gp .gtrio h4{margin:0 0 6px;font-family:var(--sans);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
 .gp .gt{font-weight:650}.gp .gs{color:var(--ink-soft);font-size:14px;margin-top:3px}
 .gp .glbl{font-size:11.5px;color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:8px}
-.gp .gempty{color:var(--ink-faint);font-style:italic;font-size:14px}
+.gp .gempty,.gdr  .gempty{color:var(--ink-faint);font-style:italic;font-size:14px}
 .gp .gnext{display:flex;gap:14px;align-items:center;margin-top:14px;padding:12px 16px;border-radius:14px;background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:14px}
 .gp .gnext img{width:36px;border-radius:3px}
 .gp .gtl{padding:14px 16px 6px;overflow-x:auto}.gp .gtl svg{display:block;min-width:720px;width:100%}
@@ -1186,6 +1186,24 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .gcit{padding:7px 10px;border-radius:10px;background:var(--surface-2);margin-bottom:6px;cursor:grab;font-size:12.5px}.gp .gcit b{display:block;font-size:13.5px}
 .gp .gcl{max-height:520px;overflow:auto}
 .gp .gmv{display:none}
+/* Guia do ano: painel lateral da obra (§16) */
+.gdr-bk{position:fixed;inset:0;background:rgba(5,8,7,.45);z-index:70;opacity:0;pointer-events:none;transition:opacity .2s}
+.gdr-bk.on{opacity:1;pointer-events:auto}
+.gdr{position:fixed;top:0;right:0;bottom:0;width:min(460px,100vw);z-index:71;background:var(--surface);border-left:1px solid var(--rule);box-shadow:-20px 0 50px rgba(0,0,0,.35);transform:translateX(105%);transition:transform .25s ease;display:flex;flex-direction:column}
+.gdr.on{transform:none}
+.gdr .gdh{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:14px 18px;border-bottom:1px solid var(--rule)}
+.gdr .gdh span{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);font-weight:700}
+.gdr .gdx{border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);border-radius:50%;width:32px;height:32px;cursor:pointer;font-size:15px}
+.gdr .gdb{overflow:auto;padding:18px;flex:1}
+.gdr .gdtop{display:grid;grid-template-columns:110px 1fr;gap:16px;align-items:start}
+.gdr .gdtop img{width:110px;border-radius:5px;box-shadow:0 8px 24px rgba(0,0,0,.3)}
+.gdr h3{font-family:var(--serif);font-size:24px;line-height:1.15;margin:0 0 4px}
+.gdr .gdsub{color:var(--ink-soft);font-size:14px}
+.gdr h4{margin:18px 0 6px;font-family:var(--sans);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.gdr .gdtxt{font-size:14.5px;line-height:1.55}.gdr .gdtxt p{margin:0 0 8px}
+.gdr .gdtxt ul{margin:0;padding-left:18px}.gdr .gdtxt li{margin:0 0 6px}
+.gdr .gdft{padding:14px 18px;border-top:1px solid var(--rule);display:flex;gap:8px}
+@media (max-width:820px){.gdr{top:auto;left:0;width:100%;height:86vh;border-left:0;border-top:1px solid var(--rule);border-radius:18px 18px 0 0;transform:translateY(105%)}.gdr.on{transform:none}}
 .gtip{position:fixed;pointer-events:none;background:var(--surface-3);border:1px solid var(--rule);border-radius:10px;padding:8px 10px;font-size:13px;box-shadow:0 10px 30px rgba(0,0,0,.3);opacity:0;transition:opacity .12s;z-index:60;max-width:260px}
 @media (max-width:820px){.gp .gstrip{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.gp .gcell{flex:0 0 58px;scroll-snap-align:center}.gp .garr{display:none}
  .gp .gin{display:block;padding:16px}.gp .gin>div:first-child{float:left;width:84px;margin:0 14px 8px 0}.gp .ghero h3{font-size:24px}.gp .gmk,.gp .gq{clear:both}.gp .ghero{min-height:0}
@@ -1990,13 +2008,15 @@ function railObra(w, has){
   const out=[];
   const de=w.display_edition, p=de&&P(de.publication);
   if(p){
-    const head = de.by_ownership ? 'Seu exemplar' : (de.state==='chosen' ? 'Edição escolhida' : 'Edição em exibição');
+    const head = de.by_ownership ? 'Seu exemplar' : de.below_recommended ? 'Sua escolha' : (de.state==='chosen' ? 'Edição escolhida' : 'Edição em exibição');
+    const rp = de.below_recommended && P(de.below_recommended);
     out.push(`<div class="rcard"><h4>${head}</h4>
       <div class="redition">${coverImg(p,'sm')||'<span class="nothumb"></span>'}<div>
         <div class="tt">${lk('publicacao/'+p.id, pubTitulo(p))}</div>
         <div class="small muted">${[p.publisher,p.year].filter(Boolean).map(E).join(', ')}</div>
         ${tradutores(p)?`<div class="small muted">Tradução: ${E(tradutores(p))}</div>`:''}
         ${buyLink(p)?`<div style="margin-top:8px">${buyLink(p)}</div>`:''}</div></div>
+      ${rp?`<p class="small" style="margin:10px 0 0;color:var(--flag)">Há uma edição melhor: ${lk('publicacao/'+rp.id, pubTitulo(rp))} (${[rp.publisher,rp.year].filter(Boolean).map(E).join(', ')}), a recomendada.</p>`:''}
       <div style="margin-top:10px">${railField('publication',p.id,'ownership')}</div></div>`);
   } else {
     out.push(`<div class="rcard"><h4>Edição</h4><p class="small muted" style="margin:0">Ainda sem edição escolhida.</p></div>`);
@@ -2882,6 +2902,33 @@ const gpTip = (e,h)=>{ const t=document.getElementById('gp-tip'); if(!t) return;
 const gpTipOff = ()=>{ const t=document.getElementById('gp-tip'); if(t) t.style.opacity=0; };
 const gpYr = y => y<0 ? (-y)+' a.C.' : String(y);
 
+
+/* Painel lateral: abre a obra sem sair do Guia (pedido do Mathews, 2026-11-02). */
+function gpOpen(wid, pubId){
+  const w = W(wid); if(!w) return;
+  let bk = document.getElementById('gp-bk'), dr = document.getElementById('gp-dr');
+  if(!dr){ bk = document.createElement('div'); bk.id='gp-bk'; bk.className='gdr-bk'; bk.onclick = gpClose;
+    dr = document.createElement('aside'); dr.id='gp-dr'; dr.className='gdr'; dr.setAttribute('aria-label','Obra');
+    document.body.append(bk, dr); }
+  const de = w.display_edition||{}, p = P(pubId || de.publication), rp = p && de.below_recommended && p.id===de.publication && P(de.below_recommended);
+  const sec = bodySections(w.body_html), cov = p && p.cover && (p.cover.data_uri||p.cover.relative_path);
+  const ms = (w.memberships||[]).map(m=>`<div class="gdtxt" style="margin-bottom:6px"><a href="#/colecao/${E(m.collection)}">${E(m.collection_title||m.collection)}</a>${m.movement?` · ${E(m.movement)}`:''}${m.optional?' · <i>leitura complementar</i>':''}</div>`).join('');
+  const ed = p ? `<div class="gdtxt"><a href="#/publicacao/${E(p.id)}">${E(pubTitulo(p))}</a><div class="gdsub">${[p.publisher,p.year].filter(Boolean).map(E).join(', ')}${tradutores(p)?` · tradução de ${E(tradutores(p))}`:''}</div>
+      ${rp?`<div class="gdsub" style="color:var(--flag);margin-top:4px">Sua escolha. Há uma edição melhor: <a href="#/publicacao/${E(rp.id)}">${E(pubTitulo(rp))}</a>, a recomendada.</div>`:''}</div>` : '<div class="gempty">Ainda sem edição.</div>';
+  dr.innerHTML = `<div class="gdh"><span>Obra</span><button class="gdx" aria-label="Fechar" onclick="gpClose()">✕</button></div>
+    <div class="gdb"><div class="gdtop">${cov?`<img class="cover" src="${cov}" alt="Capa de ${E(wTitle(wid))}">`:'<div class="gcvph" style="width:110px">'+E(wTitle(wid))+'</div>'}
+      <div><h3>${E(wTitle(wid))}</h3><div class="gdsub">${E(wAuthors(wid))}${w.date_written?` · ${E(w.date_written)}`:''}</div></div></div>
+      <h4>Edição</h4>${ed}
+      ${ms?`<h4>Na biblioteca</h4>${ms}`:'<h4>Na biblioteca</h4><div class="gdtxt">Fora das coleções.</div>'}
+      ${sec['Sobre a obra']?`<h4>Sobre a obra</h4><div class="gdtxt">${sec['Sobre a obra']}</div>`:''}
+      ${sec['Como ler']?`<h4>Como ler</h4><div class="gdtxt">${sec['Como ler']}</div>`:''}</div>
+    <div class="gdft"><a class="gbtn pri" href="#/obra/${E(wid)}" style="text-decoration:none" onclick="gpClose()">Abrir a página da obra</a><button class="gbtn" onclick="gpClose()">Fechar</button></div>`;
+  dr.querySelectorAll('.gdb a').forEach(a=>a.addEventListener('click', gpClose));
+  requestAnimationFrame(()=>{ bk.classList.add('on'); dr.classList.add('on'); dr.querySelector('.gdx').focus(); });
+}
+function gpClose(){ const bk=document.getElementById('gp-bk'), dr=document.getElementById('gp-dr'); if(dr){ dr.classList.remove('on'); bk.classList.remove('on'); } }
+document.addEventListener('keydown', e=>{ if(e.key==='Escape' && typeof zoom!=='undefined' && zoom.hidden) gpClose(); });
+window.addEventListener('hashchange', gpClose);
 function vPlano(){
   if(!gpLoad()) return `<div class="ph"><div class="eyebrow">Você</div><h1>Guia do ano</h1>
     <p class="sub">Ainda não há plano de leitura. Os planos ficam em <code>plans/&lt;ano&gt;.yaml</code>.</p></div>`;
@@ -2901,6 +2948,9 @@ function vPlano(){
 }
 function gpMount(){
   if(!document.getElementById('gp-strip')) return;
+  const root = document.querySelector('.gp');
+  root.addEventListener('click', e=>{ const a = e.target.closest('a[data-gpw]'); if(!a || e.metaKey || e.ctrlKey || e.button) return;
+    e.preventDefault(); gpOpen(a.dataset.gpw, a.dataset.gpp||null); });
   gpAll();
   document.getElementById('gp-prev').onclick = ()=>gpPick(((GP.sel ?? gpCurM())+11)%12);
   document.getElementById('gp-next').onclick = ()=>gpPick(((GP.sel ?? gpCurM())+1)%12);
@@ -2950,14 +3000,14 @@ function gpHero(){
   hero.innerHTML = `<div class="gbg" data-tint="${E(key)}"></div><div class="gin"><div>${cov?`<img class="gcv cover" src="${cov}" alt="Capa de ${E(gpTitle(it))}" title="Ver a capa em tela cheia">`:`<div class="gcvph">${E(gpTitle(it))}</div>`}</div><div>
     <div class="gkick">${kick} · ${GP_MN[vm]}<span class="gpill">${E(gpColl(it))}</span></div>
     ${mult?`<div class="gtabs">${its.map((x,k)=>`<button class="gtab${k===GP.ix?' on':''}" data-k="${k}">${E(gpShort(x))}</button>`).join('')}</div>`:''}
-    <h3><a href="#/obra/${E(w0)}">${E(gpTitle(it))}</a></h3><div class="gau">${E(gpAuthors(it))}${gpPages(it)?` · ${gpPages(it)} páginas`:''}</div>
+    <h3><a href="#/obra/${E(w0)}" data-gpw="${E(w0)}" data-gpp="${E((gpPub(it)||{}).id||'')}">${E(gpTitle(it))}</a></h3><div class="gau">${E(gpAuthors(it))}${gpPages(it)?` · ${gpPages(it)} páginas`:''}</div>
     ${mk}${ler.q?`<div class="gq">${ler.q}</div>`:''}</div></div>`;
   gpTint(cov, key); gpPaintBg(hero.querySelector('.gbg'), key);
   hero.querySelectorAll('.gtab').forEach(b=>b.onclick=()=>{ GP.ix = +b.dataset.k; gpHero(); });
   const card = (h, x, empty)=>{
     if(!x) return `<div class="gcard"><h4>${h}</h4><div class="gempty">${empty}</div></div>`;
     const tt = x.text || (x.work ? wTitle(x.work) : '');
-    return `<div class="gcard"><h4>${h}</h4><div class="gt">${x.work?`<a href="#/obra/${E(x.work)}">${E(tt)}</a>`:E(tt)}</div>${x.note?`<div class="gs">${E(x.note)}</div>`:''}</div>`;
+    return `<div class="gcard"><h4>${h}</h4><div class="gt">${x.work?`<a href="#/obra/${E(x.work)}" data-gpw="${E(x.work)}">${E(tt)}</a>`:E(tt)}</div>${x.note?`<div class="gs">${E(x.note)}</div>`:''}</div>`;
   };
   let nx = '';
   if(isCur && left<=7 && vm<11 && gpItems(vm+1).length){ const n = gpItems(vm+1)[0], pn = gpPagesM(vm+1);
