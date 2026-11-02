@@ -1101,6 +1101,7 @@ sequence:
     perspective: "História social e cultural do Império Romano."
     subjects_stated: [expansao, integracao-imperial, cidades, povos, religiao,
                       administracao, cultura, transformacao-do-mediterraneo]
+    publication_pref: pub--cultrix--roma--2017   # escolha sua, 2026-11-02: a recomendada continua sendo a da Oxford
 
   # PARTICIPAÇÃO NOVA — cartão d-greco-romanas-opcoes, opção A (2026-10-31).
   - work: polibio--historiai

@@ -31,8 +31,7 @@ derived_from:
          Greco-Romana. Tudo o mais está nulo de propósito: preencher sem
          pesquisa seria inventar."
 updated: 2026-10-14
-editions_considered:            # para a tela: outras edições, uma linha cada
-  - {edition: "Hedra, 2022, trad. Christian Werner", note: "Tradução de Christian Werner, mais clara e precisa, mas sem confirmação do grego ao lado e com menos texto explicativo."}
+editions_considered: []        # para a tela: outras edições, uma linha cada
 ---
 
 ## Sobre a obra

@@ -42,7 +42,7 @@ interface — 12 itens. Os que têm consequência estrutural:
 alternativas saem do registro. Ficam só: volumes da mesma edição; edição que
 ele tem; alternativa enquanto a escolhida não está à venda; e edição de
 função diferente (referência de estudo). Exceções vigentes: a Valla do
-Pseudo-Apolodoro (referência); as duas edições de Homero (ele quer as duas);
+Pseudo-Apolodoro (referência); a Teogonia de Jaa Torrano (Iluminuras, estudo); as duas edições de Homero (ele quer as duas);
 a Odysseus de *As Bacantes* — **remover depois de 26/10/2026**, quando sai o
 Teatro completo VI da Editora 34.
 
@@ -271,10 +271,13 @@ Teatro completo VI da Editora 34.
   `d-plano-colecoes`. Ficam sem veredito, por tradutor não identificado:
   *Pompeia* (só "Maria Cristina"), Townsend, Matsumoto e Frankopan. Campo
   novo nas obras: `period_covered`, a época de que a obra trata.
-- **Woolf pela Cultrix (2026-11-02):** o Mathews vai comprar e ler a tradução
-  da Cultrix (2017, tradutor não confirmado). Registrada como alternativa; a
-  página da obra continua mostrando a recomendada (Oxford, em inglês), e o
-  plano de 2027 aponta para a Cultrix.
+- **Woolf pela Cultrix (2026-11-02):** o Mathews escolheu ler a tradução da
+  Cultrix (2017, tradutor não confirmado), sabendo que a recomendada é a da
+  Oxford. A Cultrix é a `publication_pref` em Greco-Romana; a página da obra
+  mostra "Sua escolha" e indica a recomendada (interface-rules §17).
+- **Teogonia (2026-11-02):** passou à Hedra, de Christian Werner (2ª ed.
+  2025), o mesmo tradutor de *Trabalhos e Dias*. A Iluminuras, de Jaa Torrano,
+  fica registrada como edição de estudo, pelo ensaio dele.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido

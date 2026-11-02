@@ -405,4 +405,23 @@ Página `#/plano`, no menu "Você". Mostra o plano de leitura de um ano, lido de
 - **Nada de fontes externas na tela:** a página não cita de onde veio a lista
   (clube, canal etc.). Pedido dele.
 - Clicar em mês, fio ou barra atualiza só o que muda, sem rolar a página.
+- **Painel lateral da obra** (2026-11-02): clicar no título do mês ou nas
+  obras de "Antes" e "Depois" abre um painel à direita (no celular, uma
+  gaveta de baixo) com capa, edição, coleção, "Sobre a obra" e "Como ler",
+  sem sair do Guia. O botão "Abrir a página da obra" leva à página inteira.
+  A capa do mês e a do painel abrem em tela cheia. Um fio clicado de novo
+  é desmarcado.
+
+## 17 · Escolha dele abaixo da recomendada — 2026-11-02
+
+Caso de *Roma*, de Greg Woolf: a recomendada é a da Oxford, em inglês, e ele
+escolheu ler a tradução da Cultrix.
+
+- A escolha dele vale: a edição vira a `publication_pref` da coleção e é a
+  mostrada em toda parte, inclusive no Guia do ano. O veredito dela continua
+  `alternative`, porque o veredito é sobre a edição, não sobre a escolha.
+- Na página da obra, o card do lado diz **"Sua escolha"** em vez de "Edição
+  escolhida", e traz a linha "Há uma edição melhor: …, a recomendada", com
+  link. Assim ele sempre vê que existe outra melhor.
+- Escolher não é ter: a posse continua sendo marcada à parte, na edição.
 

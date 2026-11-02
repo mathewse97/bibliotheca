@@ -634,6 +634,20 @@ def build():
                        if (pstate.get(p["publication"]) or {}).get("ownership") == "tenho"
                        and p.get("verdict") != "alternative"])
 
+    def _pref_state(wid, w, pref, verd):
+        """Edição preferida na coleção. Quando ele escolhe uma edição marcada
+        como alternativa e existe outra recomendada, a escolha dele vale e é
+        mostrada, mas a recomendada fica indicada ao lado (decisão do Mathews,
+        2026-11-02; interface-rules §17)."""
+        if verd == "recommended":
+            return {"publication": pref, "state": "chosen", "by_collection": True}
+        rec = [p["publication"] for p in w["publications"]
+               if p.get("verdict") == "recommended" and p["publication"] != pref]
+        if verd == "alternative" and rec:
+            return {"publication": pref, "state": "chosen", "by_collection": True,
+                    "below_recommended": rec[0]}
+        return {"publication": pref, "state": "unassessed", "by_collection": True}
+
     def _pref_de(wid, w):
         """Edição escolhida para a obra numa coleção, se houver uma válida."""
         for m in w["memberships"]:
@@ -643,9 +657,7 @@ def build():
                 continue
             c = next((c for c in (pub.get("contains") or []) if c.get("work") == wid), None)
             if c is not None:
-                return {"publication": pref,
-                        "state": "chosen" if c.get("verdict") == "recommended" else "unassessed",
-                        "by_collection": True}
+                return _pref_state(wid, w, pref, c.get("verdict"))
         return None
 
     def _acesso(pid):
@@ -697,9 +709,7 @@ def build():
                 m["display_edition"] = w["display_edition"]
                 continue
             verd = next((c.get("verdict") for c in pub["contains"] if c.get("work") == wid), None)
-            m["display_edition"] = {"publication": pref,
-                                    "state": "chosen" if verd == "recommended" else "unassessed",
-                                    "by_collection": True}
+            m["display_edition"] = _pref_state(wid, w, pref, verd)
 
     # ---- relações inversas ----------------------------------------------
     INV = {"prerequisite_for": "requires", "responds_to": "answered_by",

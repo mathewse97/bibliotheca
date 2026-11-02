@@ -30,9 +30,9 @@ source_of_record: voce
 
 contains:
   - work: woolf--rome-an-empires-story
-    why: "A tradução brasileira, pela Cultrix. É a edição que você decidiu comprar e ler. Não consegui confirmar o nome do tradutor."
+    why: "A tradução brasileira, pela Cultrix. É a edição que você escolheu ler, mesmo sendo a da Oxford a recomendada. Não consegui confirmar o nome do tradutor."
     verdict: alternative
-    reason: "Escolha do Mathews em 2026-11-02 para ler, no lugar da recomendada (Oxford University Press, em inglês), que continua sendo a mostrada na página da obra (interface-rules §12). Sem veredito sobre a tradução: o tradutor não aparece em nenhuma ficha que eu consegui abrir; conferir no livro."
+    reason: "Escolha do Mathews em 2026-11-02, no lugar da recomendada (Oxford University Press, em inglês). A página da obra mostra esta como a escolha dele e indica a recomendada ao lado (interface-rules §17). Sem veredito sobre a tradução: o tradutor não aparece em nenhuma ficha que eu consegui abrir; conferir no livro."
     translator: []
     translated_from: unknown
     source_text: null
@@ -75,4 +75,4 @@ updated: 2026-10-31
 
 ## Avaliação
 
-**Alternativa** (2026-11-02). A edição que você vai ler; a recomendada continua sendo a da Oxford, em inglês.
+**Alternativa, escolhida por você** (2026-11-02). A edição que você escolheu ler; a recomendada continua sendo a da Oxford, em inglês.
