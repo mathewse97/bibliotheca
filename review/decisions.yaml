@@ -194,7 +194,8 @@ items:
   kind: obra
   collections: [greco-roman, religion]
   priority: baixa
-  state: decidir
+  state: decidida
+  decided: {date: 2026-11-02, choice: "Opção A — os quatro, como proposto.", note: "Aplicado. Hadot entrou em Greco-Romana no começo do movimento VI, antes de Sócrates; Pompeia no movimento IX, depois de Tácito; Flusser em Religião, movimento IV, depois de Vermes, como complementar; Almond em Religião, no fim do movimento VI, como complementar. Nenhum recebeu estrela."}
   question: "Quatro livros do plano de 2027 devem entrar nas coleções?"
   why: "Para o Guia do ano, registrei oito livros novos, todos sem coleção. Quatro cabem em coleções que já existem: O que é a filosofia antiga?, de Pierre Hadot; Pompeia, de Mary Beard; Jesus, de David Flusser; e O Anticristo, de Philip C. Almond. Os outros quatro (Piratas no Brasil, os astecas, os maias e Frankopan) não têm coleção correspondente e continuam fora."
   update: "Atualizado em 2026-11-02, depois da conversa: Hadot passa do movimento X para o começo do VI, antes de Sócrates, para ser lido como base dos filósofos."

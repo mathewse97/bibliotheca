@@ -545,6 +545,18 @@ sequence:
                       ensinamentos-de-jesus, reino-de-deus, contexto-judaico,
                       interpretacao-historica-dos-evangelhos]
 
+  # PARTICIPAÇÃO NOVA — cartão d-plano-colecoes, opção A (2026-11-02).
+  - work: flusser--jesus
+    optional: true              # leitura complementar — cartão d-plano-colecoes
+    role: supplementary
+    demand: moderado
+    why_here: "Outro estudioso judeu, professor em Jerusalém, lendo Jesus dentro
+               do judaísmo do século I. Complementa Vermes com a literatura
+               rabínica e os manuscritos do mar Morto."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--perspectiva--jesus--2020
+
   - movement: "V. Religiões específicas"
     purpose: "Budismo, hinduísmo, islamismo, judaísmo etc."
     purpose_by: voce
@@ -704,6 +716,18 @@ sequence:
     perspective: "reflexão cristã contemporânea sobre fé e esperança."
     subjects_stated: [fe, esperanca, deus, jesus-cristo, sofrimento, oracao,
                       moral, igreja, sentido-da-existencia]
+
+  # PARTICIPAÇÃO NOVA — cartão d-plano-colecoes, opção A (2026-11-02).
+  - work: almond--the-antichrist
+    optional: true              # leitura complementar — cartão d-plano-colecoes
+    role: supplementary
+    demand: leve
+    why_here: "A história de uma ideia cristã, do Apocalipse às acusações mútuas
+               da Reforma. Leia buscando quem usa a figura do Anticristo, e
+               contra quem."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--vozes--o-anticristo--2024
 
   - movement: "VII. Mitologia, hermetismo e pensamento religioso antigo"
     purpose: "Hermetismo, mitologia comparada, cultos de mistério etc."

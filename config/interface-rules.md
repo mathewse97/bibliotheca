@@ -425,3 +425,18 @@ escolheu ler a tradução da Cultrix.
   link. Assim ele sempre vê que existe outra melhor.
 - Escolher não é ter: a posse continua sendo marcada à parte, na edição.
 
+## 18 · Larguras, alturas e cards clicáveis — decisão do Mathews, 2026-11-02
+
+- **Texto usa a largura do card.** Sem limites de ~600 px dentro de cards:
+  propósito dos movimentos, porquê da edição, cartões de decisão, marco do
+  dia e pergunta do Guia. Só a prosa longa tem teto (cerca de 100 caracteres)
+  e os subtítulos de página, 90 caracteres.
+- **"Nas coleções", na página da obra:** as etiquetas (★, complementar,
+  exigência) vão numa linha acima do texto, que ocupa a largura toda.
+- **Altura estável no Guia do ano:** o card do mês e os quadros de baixo
+  reservam a altura do maior mês do ano, medida de novo quando a janela muda
+  de largura. Trocar de mês não faz a página pular. Em Decisões a página pode
+  crescer ao escolher uma opção (ele aceitou).
+- **Card de coleção clicável por inteiro**, na lista de coleções; links e
+  botões dentro dele mantêm o próprio destino. Enter também abre.
+

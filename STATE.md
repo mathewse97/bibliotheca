@@ -267,8 +267,7 @@ Teatro completo VI da Editora 34.
 - **Guia do ano (2026-11-02):** página `#/plano`, lida de `plans/2027.yaml`
   (regras em `config/interface-rules.md` §16). Para o plano, entraram oito
   obras sem coleção: Flusser, *Pompeia*, Hadot, Almond, *Piratas no Brasil*,
-  Townsend, Matsumoto e Frankopan. Quatro esperam o cartão
-  `d-plano-colecoes`. Ficam sem veredito, por tradutor não identificado:
+  Townsend, Matsumoto e Frankopan. Quatro entraram nas coleções pelo cartão `d-plano-colecoes`: Hadot (começo do VI) e Pompeia (IX) em Greco-Romana; Flusser e Almond, complementares, em Religião. Ficam sem veredito, por tradutor não identificado:
   *Pompeia* (só "Maria Cristina"), Townsend, Matsumoto e Frankopan. Campo
   novo nas obras: `period_covered`, a época de que a obra trata.
 - **Woolf pela Cultrix (2026-11-02):** o Mathews escolheu ler a tradução da

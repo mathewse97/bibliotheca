@@ -1108,6 +1108,19 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .dli .dlk{display:block;font-size:11px;color:var(--ink-soft);letter-spacing:.04em;margin-bottom:3px}
 .dli.dhide{display:none}
 
+/* Larguras e alturas — decisão do Mathews, 2026-11-02 (interface-rules §18).
+   Texto dentro de card usa a largura do card; só a prosa longa tem teto. */
+.ccard[data-href]{cursor:pointer}
+.ph .sub,.ph + p.muted{max-width:90ch}
+.mvhead .mvpurpose,.mv .pp,.whyed p{max-width:none}
+.mvhead .mvpurpose{grid-column:2 / -1}
+.ddeck .dmain{max-width:none}
+.gp .gmk,.gp .gq{max-width:none}
+.prose,.gdr .gdtxt{max-width:100ch}
+.row.stack{grid-template-columns:minmax(28px,auto) 1fr}
+.row.stack .meta{grid-column:2;grid-row:1;justify-content:flex-start}
+.row.stack .t{grid-column:2;grid-row:2}
+.row.stack .n{grid-row:1 / span 2}
 /* ---------- Guia do ano (#/plano) — interface-rules §16 ---------------- */
 .gp{--gp-r:16px}
 .gp .gbar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;justify-content:space-between;margin-bottom:14px}
@@ -1150,7 +1163,8 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .gch{display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px;color:var(--ink-soft)}
 .gp .gch span{background:color-mix(in srgb,var(--surface-2) 85%,transparent);border:1px solid var(--rule);border-radius:99px;padding:3px 10px}.gp .gch b{color:var(--ink)}
 .gp .gq{font-family:var(--serif);font-size:19px;line-height:1.35;margin:16px 0 0;max-width:640px}
-.gp .gtrio{display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:14px;margin-top:14px}
+#gp-below{display:flex;flex-direction:column}
+.gp .gtrio{display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:14px;margin-top:14px;flex:1}
 .gp .gtrio .gcard{padding:16px 18px;min-height:170px}.gp .gtrio h4{margin:0 0 6px;font-family:var(--sans);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
 .gp .gt{font-weight:650}.gp .gs{color:var(--ink-soft);font-size:14px;margin-top:3px}
 .gp .glbl{font-size:11.5px;color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:8px}
@@ -1384,7 +1398,7 @@ function collCard(k){
     const cls = bg ? ' ccard--img' : (covers.length ? ' ccard--mosaic' : '');
     const back = bg ? `<div class="cbg" style="background-image:url('${bg}')"></div><div class="cshade"></div>`
       : covers.length ? `<div class="cmos">${covers.concat(covers).slice(0,18).map(s=>`<img src="${s}" alt="">`).join('')}</div><div class="cshade"></div>` : '';
-    return `<div class="ccard${cls}">${back}
+    return `<div class="ccard${cls}" data-href="#/colecao/${encodeURIComponent(k.id)}" role="link" tabindex="0" aria-label="${E(t)}">${back}
       <div class="top">${(bg||covers.length)?'':fan(k)}
         <div><h3><a href="#/colecao/${encodeURIComponent(k.id)}">${E(t).replace(/\//g,'/<wbr>')}</a></h3></div></div>
       <p class="q">${E(k.question||'')}</p>
@@ -1958,7 +1972,7 @@ function vObra(id){
   ${sobre.length?`<h2 id="s-sobre">Sobre a obra</h2><div class="panel prose">${sobre.join('')}</div>`:''}
   ${ler.length?`<h2 id="s-ler">Como ler</h2><div class="panel prose">${ler.join('')}</div>`:''}
 
-  ${w.memberships.length?`<h2 id="s-colecoes">Nas coleções</h2><div class="rows">${w.memberships.map(m=>`<div class="row">
+  ${w.memberships.length?`<h2 id="s-colecoes">Nas coleções</h2><div class="rows">${w.memberships.map(m=>`<div class="row stack">
     <div class="n">${m.n}</div>
     <div class="t">${lk('colecao/'+m.collection, m.collection_title)}
       ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
@@ -2825,7 +2839,7 @@ function vPubs(){
 const GP_MN=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
 const GP_MA=GP_MN.map(m=>m.slice(0,3));
 const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8'];
-const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, fioView:null, tint:{}, q:''};
+const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, fioView:null, tint:{}, q:'', measure:false};
 const gpDays = (y,m)=> new Date(y, m+1, 0).getDate();
 const gpKey = y => 'bib.plano.'+y;
 function gpLoad(){
@@ -2929,6 +2943,18 @@ function gpOpen(wid, pubId){
 function gpClose(){ const bk=document.getElementById('gp-bk'), dr=document.getElementById('gp-dr'); if(dr){ dr.classList.remove('on'); bk.classList.remove('on'); } }
 document.addEventListener('keydown', e=>{ if(e.key==='Escape' && typeof zoom!=='undefined' && zoom.hidden) gpClose(); });
 window.addEventListener('hashchange', gpClose);
+
+/* Card de coleção: clicar em qualquer lugar abre a coleção (pedido do
+   Mathews, 2026-11-02). Links e botões dentro do card mantêm o próprio destino. */
+document.addEventListener('click', e=>{
+  const c = e.target.closest && e.target.closest('.ccard[data-href]'); if(!c) return;
+  if(e.target.closest('a,button,select,input')) return;
+  location.hash = c.dataset.href;
+});
+document.addEventListener('keydown', e=>{
+  if(e.key!=='Enter') return; const c = document.activeElement;
+  if(c && c.matches && c.matches('.ccard[data-href]')) location.hash = c.dataset.href;
+});
 function vPlano(){
   if(!gpLoad()) return `<div class="ph"><div class="eyebrow">Você</div><h1>Guia do ano</h1>
     <p class="sub">Ainda não há plano de leitura. Os planos ficam em <code>plans/&lt;ano&gt;.yaml</code>.</p></div>`;
@@ -2958,7 +2984,21 @@ function gpMount(){
 }
 function gpCurM(){ const t = gpToday(); return t.phase==='durante' ? t.m : t.phase==='antes' ? 0 : 11; }
 function gpPick(m){ GP.sel = m; GP.ix = 0; gpNav(); gpHero(); }
-function gpAll(){ gpLocal(); gpNav(); gpHero(); gpTimeline(); gpFios(); gpPeso(); gpEdit(); }
+function gpAll(){ gpLocal(); gpNav(); gpHero(); gpTimeline(); gpFios(); gpPeso(); gpEdit(); gpReserve(); }
+/* Altura reservada: o card do mês e os quadros de baixo ficam com a altura do
+   maior mês do ano, para a página não pular ao trocar de mês (§18). Medido
+   de novo quando a largura da janela muda. */
+function gpReserve(){
+  const hero = document.getElementById('gp-hero'), below = document.getElementById('gp-below'); if(!hero) return;
+  const keep = [GP.sel, GP.ix]; hero.style.minHeight = below.style.minHeight = '';
+  let hh = 0, bh = 0; GP.measure = true;
+  for(let m=0;m<12;m++){ const n = Math.max(1, gpItems(m).length);
+    for(let k=0;k<n;k++){ GP.sel = m; GP.ix = k; gpHero(); hh = Math.max(hh, hero.offsetHeight); bh = Math.max(bh, below.offsetHeight); } }
+  GP.measure = false; [GP.sel, GP.ix] = keep; gpHero();
+  hero.style.minHeight = hh + 'px'; below.style.minHeight = bh + 'px';
+}
+let gpRT = null;
+window.addEventListener('resize', ()=>{ clearTimeout(gpRT); gpRT = setTimeout(()=>{ if(document.getElementById('gp-hero')) gpReserve(); }, 150); });
 function gpLocal(){
   const el = document.getElementById('gp-local'); if(!el) return;
   el.innerHTML = gpDirty() && !GP.editing ? `<div class="gnote"><span><b>Plano alterado neste aparelho.</b> Para ficar na biblioteca, grave na pasta ou copie e cole na conversa.</span>
@@ -3010,7 +3050,7 @@ function gpHero(){
     return `<div class="gcard"><h4>${h}</h4><div class="gt">${x.work?`<a href="#/obra/${E(x.work)}" data-gpw="${E(x.work)}">${E(tt)}</a>`:E(tt)}</div>${x.note?`<div class="gs">${E(x.note)}</div>`:''}</div>`;
   };
   let nx = '';
-  if(isCur && left<=7 && vm<11 && gpItems(vm+1).length){ const n = gpItems(vm+1)[0], pn = gpPagesM(vm+1);
+  if(((isCur && left<=7) || GP.measure) && vm<11 && gpItems(vm+1).length){ const n = gpItems(vm+1)[0], pn = gpPagesM(vm+1);
     nx = `<div class="gnext">${gpCover(n)?`<img src="${gpCover(n)}" alt="">`:''}<div><b>Em ${GP_MN[vm+1]}:</b> ${E(gpTitle(n))}${pn?` · ${pn} páginas`:''}${pn>500?' · <span style="color:var(--flag)">é longo; vale começar já</span>':''}</div></div>`; }
   below.innerHTML = `<div class="gtrio">${card('Antes de ler', it.before, 'Nada: pode começar direto.')}
     <div class="gcard"><h4>Como ler</h4>${ler.centro?`<div class="glbl" style="margin-top:0">Onde está o centro</div><div class="gs">${ler.centro}</div>`:''}${ler.postura?`<div class="glbl">Postura</div><div class="gs">${ler.postura}</div>`:''}${!ler.centro&&!ler.postura?'<div class="gempty">A página da obra ainda não tem “Como ler”.</div>':''}</div>
