@@ -197,14 +197,15 @@ items:
   state: decidir
   question: "Quatro livros do plano de 2027 devem entrar nas coleções?"
   why: "Para o Guia do ano, registrei oito livros novos, todos sem coleção. Quatro cabem em coleções que já existem: O que é a filosofia antiga?, de Pierre Hadot; Pompeia, de Mary Beard; Jesus, de David Flusser; e O Anticristo, de Philip C. Almond. Os outros quatro (Piratas no Brasil, os astecas, os maias e Frankopan) não têm coleção correspondente e continuam fora."
+  update: "Atualizado em 2026-11-02, depois da conversa: Hadot passa do movimento X para o começo do VI, antes de Sócrates, para ser lido como base dos filósofos."
   options:
-    - {key: A, recommended: true, title: "Os quatro, como proposto", effect: "Hadot entra em Greco-Romana no começo do movimento X, como passo; Pompeia no movimento IX, como passo; Flusser em Religião, movimento IV, ao lado de Vermes, como leitura complementar; Almond em Religião, movimento VI, como leitura complementar."}
+    - {key: A, recommended: true, title: "Os quatro, como proposto", effect: "Hadot entra em Greco-Romana no começo do movimento VI, antes de Sócrates, como passo; Pompeia no movimento IX, como passo; Flusser em Religião, movimento IV, ao lado de Vermes, como leitura complementar; Almond em Religião, movimento VI, como leitura complementar."}
     - {key: B, title: "Só Hadot e Pompeia", effect: "Os dois de Greco-Romana entram; Flusser e Almond ficam só no plano."}
     - {key: C, title: "Nenhum: ficam só no plano", effect: "Os quatro continuam registrados, sem coleção."}
     - {key: D, title: "Agora não", effect: "Nada muda."}
-  recommendation: "Hadot é o melhor encaixe: mostra a filosofia antiga como modo de vida e liga Sócrates aos estoicos e epicuristas do movimento X. Pompeia traz a vida comum de uma cidade romana, que a coleção só tinha por textos. Flusser repete em boa parte o papel de Vermes, e Almond é a história de uma ideia, livro de informação; por isso os dois como complementares."
+  recommendation: "Hadot é o melhor encaixe: mostra a filosofia antiga como modo de vida e serve de base para ler os filósofos da coleção, por isso vem antes de Sócrates, que é o centro do livro. Pompeia traz a vida comum de uma cidade romana, que a coleção só tinha por textos. Flusser repete em boa parte o papel de Vermes, e Almond é a história de uma ideia, livro de informação; por isso os dois como complementares."
   candidates:
-    - {title: "O que é a filosofia antiga?", author: "Pierre Hadot · 1995", verdict: resolve, best: true, adds: "A filosofia antiga como modo de vida, dos pré-socráticos ao fim das escolas.", facts: ["+Loyola, trad. Dion Davi Macedo", "Greco-Romana, movimento X"]}
+    - {title: "O que é a filosofia antiga?", author: "Pierre Hadot · 1995", verdict: resolve, best: true, adds: "A filosofia antiga como modo de vida, dos pré-socráticos ao fim das escolas.", facts: ["+Loyola, trad. Dion Davi Macedo", "Greco-Romana, começo do movimento VI"]}
     - {title: "Pompeia", author: "Mary Beard · 2008", verdict: resolve, best: true, adds: "A vida cotidiana de uma cidade romana, pela arqueologia.", facts: ["+Record 2016", "-Tradutora a confirmar", "Greco-Romana, movimento IX"]}
     - {title: "Jesus", author: "David Flusser · 1968", verdict: complementa, adds: "Jesus dentro do judaísmo do século I.", facts: ["+Perspectiva, trad. Margarida Goldsztajn", "-Papel próximo ao de Vermes"]}
     - {title: "O Anticristo", author: "Philip C. Almond · 2020", verdict: complementa, adds: "A história da figura do Anticristo.", facts: ["+Vozes 2024, trad. Bruno Gambarotto", "Livro de informação"]}
