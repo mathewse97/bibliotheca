@@ -763,6 +763,20 @@ sequence:
     purpose_by: voce
     regions: [filosofia-grega]
 
+  # PARTICIPAÇÃO NOVA — cartão d-plano-colecoes, opção A (2026-11-02): antes de
+  # Sócrates, para servir de base à leitura dos filósofos.
+  - work: hadot--quest-ce-que-la-philosophie-antique
+    role: foundational
+    demand: moderado
+    why_here: "A filosofia antiga como modo de vida, e não só como teoria. Lido
+               antes de Sócrates, muda o jeito de ler o resto: os diálogos de
+               Platão, as escolas helenísticas e os romanos aparecem como
+               propostas de como viver. Leia buscando o que cada escola pedia
+               de quem a seguia."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--loyola--o-que-e-a-filosofia-antiga--1999
+
   - work: platao--apologia-sokratous
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/greco-roman.md
@@ -1163,6 +1177,17 @@ sequence:
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--oxford-wc--the-annals--2008
+
+  # PARTICIPAÇÃO NOVA — cartão d-plano-colecoes, opção A (2026-11-02).
+  - work: beard--pompeii
+    role: supplementary
+    demand: moderado
+    why_here: "A vida comum de uma cidade romana do primeiro século, contada
+               pelas ruínas: ruas, casas, comércio, banhos e política local.
+               Leia buscando o que os textos dos historiadores deixam de fora."
+    why_here_by: claude
+    inserted_by: claude
+    publication_pref: pub--record--pompeia--2016
 
   - work: apuleio--metamorphoses-asinus-aureus
     role: primary-source

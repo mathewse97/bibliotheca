@@ -23,9 +23,6 @@ priority_library: null
 relations: []
 provenance: []
 
-pending_assignment:
-  reason: "Do plano de leitura de 2027. A entrada numa coleção espera o cartão d-plano-colecoes."
-
 derived_from:
   source: pedido-seu
   date: 2026-11-02
