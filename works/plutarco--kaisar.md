@@ -12,6 +12,7 @@ work_type: historia
 date_written: null
 date_sort: null
 period: null
+period_covered: {from: -100, to: -44}
 traditions: []
 subjects: []
 

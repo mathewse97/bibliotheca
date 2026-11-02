@@ -851,6 +851,45 @@ def build():
                                "path": os.path.relpath(f, ROOT),
                                "body_html": md(body)})
 
+    # ---- planos de leitura (plans/<ano>.yaml) ---------------------------
+    # Lidos pela página "Guia do ano". A build só confere as referências: obra,
+    # edição e mês precisam existir. Ver config/interface-rules.md §16.
+    idx["plans"] = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "plans/*.yaml"))):
+        pl = load_yaml(f) or {}
+        where = os.path.relpath(f, ROOT)
+        year = str(pl.get("year") or os.path.basename(f)[:-5])
+        months = {}
+        for m, items in (pl.get("months") or {}).items():
+            try:
+                mi = int(m)
+            except (TypeError, ValueError):
+                mi = 0
+            if not 1 <= mi <= 12:
+                issues.append({"kind": "plano-mes-invalido", "where": where, "ref": m})
+                continue
+            for it in items or []:
+                ws = it.get("works") or ([it["work"]] if it.get("work") else [])
+                if not ws:
+                    issues.append({"kind": "plano-leitura-sem-obra", "where": where, "ref": mi})
+                for w in ws:
+                    if w not in idx["works"]:
+                        issues.append({"kind": "plano-obra-inexistente", "where": where, "ref": w})
+                if it.get("publication") and it["publication"] not in idx["publications"]:
+                    issues.append({"kind": "plano-edicao-inexistente", "where": where,
+                                   "ref": it["publication"]})
+                for k in ("before", "after"):
+                    w = (it.get(k) or {}).get("work")
+                    if w and w not in idx["works"]:
+                        issues.append({"kind": "plano-obra-inexistente", "where": where, "ref": w})
+            months[str(mi)] = items or []
+        for t in pl.get("threads") or []:
+            for m in t.get("months") or []:
+                if not (isinstance(m, int) and 1 <= m <= 12):
+                    issues.append({"kind": "plano-mes-invalido", "where": where, "ref": m})
+        idx["plans"][year] = {"year": year, "months": months,
+                              "threads": pl.get("threads") or [], "path": where}
+
     # ---- obras sem coleção ----------------------------------------------
     for wid, w in idx["works"].items():
         if not w["memberships"]:

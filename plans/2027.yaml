@@ -1,0 +1,83 @@
+# ---------------------------------------------------------------------------
+# PLANO DE LEITURA — 2027. Lido pela página "Guia do ano" (#/plano).
+# Regras: config/interface-rules.md §16. Decisão do Mathews, 2026-11-02.
+#
+# A página não depende de nenhum registro de leitura: tudo o que ela mostra
+# sai da data de hoje e deste arquivo. Não acrescentar aqui progresso, páginas
+# lidas nem datas de início e fim.
+#
+# months: mês (1–12) → lista de leituras. Cada leitura aponta para uma obra
+#   (`work`) ou para várias da mesma publicação (`works` + `title`).
+#   publication: a edição a mostrar; se faltar, vale a escolhida na coleção
+#     ou a recomendada.
+#   before / after: "Antes de ler" e "Depois de ler". `work` é opcional e,
+#     quando existe, vira link para a obra.
+# threads: os fios do ano — meses que conversam entre si.
+# ---------------------------------------------------------------------------
+year: 2027
+
+months:
+  1:
+    - work: woolf--rome-an-empires-story
+      after: {work: beard--spqr, note: "Greco-Romana, movimento IX: conta o começo de Roma com mais detalhe."}
+  2:
+    - works: [plutarco--alexandros, plutarco--kaisar]
+      title: "Alexandre e César"
+      publication: pub--coimbra--vidas-alexandre-e-cesar
+      before: {text: "Os capítulos de Woolf sobre o fim da república", note: "Você leu em janeiro; dez minutos de revisão bastam."}
+      after: {text: "Júlio César, de Shakespeare", note: "Política: a peça nasceu da Vida de César."}
+  3:
+    - work: flusser--jesus
+      before: {work: evangelhos-canonicos, text: "Evangelho de Marcos", note: "Cerca de 40 páginas; é o Evangelho mais antigo e o mais usado por Flusser."}
+      after: {work: vermes--the-authentic-gospel-of-jesus, note: "Religião, movimento IV: a mesma pergunta, por outro estudioso judeu."}
+  4:
+    - work: beard--pompeii
+      after: {work: beard-henderson--classical-art, note: "Greco-Romana, movimento XII: a arte antiga lida como evidência."}
+  5:
+    - work: hesiodo--theogonia
+      before: {text: "Seus resumos de Homero e Vernant", note: "Repare nos deuses de Homero e no mito de Prometeu em Vernant."}
+      after: {work: enuma-elis, note: "Religião, movimento III: o mito babilônico da criação, que Hesíodo ecoa."}
+  6:
+    - work: hesiodo--erga-kai-hemerai
+      before: {work: hesiodo--theogonia, text: "Prometeu e Pandora na Teogonia", note: "Releia esse trecho: os dois poemas contam o mito de jeitos diferentes."}
+      after: {work: vernant--les-origines-de-la-pensee-grecque, note: "Greco-Romana, movimento V: como se passou do mito à razão."}
+  7:
+    - work: hadot--quest-ce-que-la-philosophie-antique
+      before: {work: platao--apologia-sokratous, note: "Curta; Sócrates é o modelo central do livro."}
+      after: {work: epicteto--encheiridion, note: "Greco-Romana, movimento X: a filosofia como exercício, na prática."}
+  8:
+    - work: almond--the-antichrist
+      before: {work: biblia, text: "Apocalipse", note: "Na sua Bíblia; o livro parte dele."}
+      after: {work: agostinho--de-civitate-dei, text: "A Cidade de Deus, livro XX", note: "Religião e Política: Agostinho sobre o fim dos tempos."}
+  9:
+    - work: carvalho-franca-hue--piratas-no-brasil
+  10:
+    - work: townsend--fifth-sun
+      after: {work: matsumoto--maya-myths, note: "O livro de novembro: outro povo, os deuses e os heróis."}
+  11:
+    - work: matsumoto--maya-myths
+      before: {work: hesiodo--theogonia, text: "Seu resumo da Teogonia", note: "Para comparar as duas criações do mundo."}
+      after: {work: eliade--das-heilige-und-das-profane, note: "Religião, movimento II: o mito como estrutura."}
+  12:
+    - work: frankopan--the-silk-roads
+      after: {work: brown-peter--the-world-of-late-antiquity, note: "Greco-Romana, movimento XI: o mesmo mundo, visto de Roma."}
+
+threads:
+  - name: "Roma"
+    months: [1, 2, 4]
+    text: "O império que Woolf conta em janeiro volta em fevereiro pelas vidas de César e Alexandre, e em abril pelo chão de uma cidade."
+  - name: "Mito e deuses"
+    months: [5, 6, 11]
+    text: "Duas criações do mundo, a grega de Hesíodo e a maia, lidas com a mesma pergunta: de onde vêm os deuses?"
+  - name: "Cristianismo"
+    months: [3, 8]
+    text: "Do Jesus judeu do século I à figura que os cristãos imaginaram como o seu inimigo final."
+  - name: "Como viver"
+    months: [6, 7]
+    text: "Hesíodo aconselha o irmão sobre como viver; Hadot mostra a filosofia antiga como resposta à mesma pergunta."
+  - name: "Américas"
+    months: [9, 10, 11]
+    text: "Os povos do México antes da conquista e os ladrões do mar no litoral do Brasil colonial."
+  - name: "Mundo"
+    months: [1, 12]
+    text: "O mesmo mundo antigo visto do Mediterrâneo, em janeiro, e da Rota da Seda, em dezembro."

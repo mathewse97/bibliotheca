@@ -41,12 +41,17 @@ A build continua a produzir os três arquivos exatamente como antes. Nada em
 | `review/`, `review/gaps/`, `review/structural/` | revisão curatorial, lacunas, propostas estruturais | agente |
 | `config/` | regras, vocabulários, forma dos registros | agente |
 | `state/personal.yaml` | leitura, posse, prioridade sua | **só a interface** |
+| `plans/` | planos de leitura do ano, lidos pelo Guia do ano | agente, e a interface quando ele grava uma edição do plano |
 | `sources/` | documentos de projeto arquivados | agente |
 | `covers/` | capas | agente |
 | `tools/` | `build.py` (constrói), `check.py` (portão de integridade), `pages.py` (monta o site), `scaffold.py`, o template da interface e as fontes | agente |
 
-**Nenhum arquivo é escrito pelos dois.** `state/personal.yaml` é o único
-arquivo que a interface escreve, e o agente não escreve nele. A lista branca
+**Nenhum arquivo é escrito pelos dois, com uma exceção.** `state/personal.yaml` é
+escrito só pela interface, e o agente não escreve nele. A exceção é `plans/`
+(decisão do Mathews, 2026-11-02): o agente cria o plano, e a interface pode
+regravá-lo quando ele edita o plano na tela e grava na pasta. Antes de mexer
+num plano, o agente lê a versão atual; se ele colar um plano na conversa, o
+agente grava exatamente o que foi colado. A lista branca
 de campos editáveis pela interface está em `config/writable-fields.yaml`.
 
 A Bibliotheca é um sistema de curadoria bibliográfica e intelectual **sobre**

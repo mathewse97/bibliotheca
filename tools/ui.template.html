@@ -1108,6 +1108,89 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .dli .dlk{display:block;font-size:11px;color:var(--ink-soft);letter-spacing:.04em;margin-bottom:3px}
 .dli.dhide{display:none}
 
+/* ---------- Guia do ano (#/plano) — interface-rules §16 ---------------- */
+.gp{--gp-r:16px}
+.gp .gbar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;justify-content:space-between;margin-bottom:14px}
+.gp .gbar h1{font-family:var(--serif);margin:0}.gp .gbar h1 small{font-family:var(--sans);font-size:15px;font-weight:400;color:var(--ink-soft);margin-left:8px}
+.gp .gbtn{font:inherit;font-size:14px;font-weight:600;border-radius:10px;padding:8px 14px;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);cursor:pointer}
+.gp .gbtn:hover{background:var(--surface-3)}.gp .gbtn.pri{background:var(--accent);border-color:var(--accent);color:var(--on-accent,#fff)}.gp .gbtn:disabled{opacity:.4;cursor:default}
+.gp .gcard{background:var(--surface);border:1px solid var(--rule);border-radius:var(--gp-r)}
+.gp .gsec{margin-top:30px}.gp .gsec>h2{font-family:var(--sans);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 10px;font-weight:700}
+.gp .gnote{padding:10px 14px;border-radius:12px;border:1px solid color-mix(in srgb,var(--flag) 45%,transparent);background:color-mix(in srgb,var(--flag) 10%,transparent);font-size:14px;margin-bottom:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+.gp .gnav{display:flex;align-items:center;gap:8px;padding:12px;border-radius:var(--gp-r) var(--gp-r) 0 0;border:1px solid var(--rule);border-bottom:0;background:var(--surface)}
+.gp .garr{flex:none;width:34px;height:34px;border-radius:50%;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);cursor:pointer;font-size:16px}
+.gp .gstrip{flex:1;display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:6px}
+.gp .gcell{position:relative;cursor:pointer;border-radius:10px;padding:6px 4px 5px;text-align:center;transition:background .15s;border:0;background:none;color:inherit;font:inherit}
+.gp .gcell:hover{background:var(--surface-2)}.gp .gcell.sel{background:var(--surface-3)}
+.gp .gcw{position:relative;width:34px;height:50px;margin:0 auto}
+.gp .gcw img,.gp .gcw .gph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3)}
+.gp .gcw .g2{transform:translate(4px,-4px);opacity:.7}
+.gp .gcell.fut img{filter:grayscale(.85);opacity:.55}
+.gp .gm{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-faint);margin-top:4px}
+.gp .gcell.cur .gm{color:var(--accent);font-weight:700}.gp .gcell.sel .gm{color:var(--ink)}
+.gp .gok{position:absolute;top:2px;right:6px;width:14px;height:14px;border-radius:50%;background:var(--ok);color:#06140c;font-size:10px;font-weight:800;display:flex;align-items:center;justify-content:center}
+.gp .gn{position:absolute;top:2px;left:6px;font-size:10px;font-weight:700;background:var(--accent);color:var(--on-accent,#fff);border-radius:99px;padding:0 5px}
+.gp .gcell.cur::after{content:"";position:absolute;left:20%;right:20%;bottom:-2px;height:3px;border-radius:2px;background:var(--accent)}
+.gp .ghero{position:relative;overflow:hidden;border-radius:0 0 var(--gp-r) var(--gp-r);border:1px solid var(--rule);background:var(--surface);min-height:330px}
+.gp .gbg{position:absolute;inset:0;opacity:.45;transition:background .5s}
+.gp .gin{position:relative;display:grid;grid-template-columns:170px 1fr;gap:28px;padding:24px 26px}
+.gp .gcv{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 14px 40px rgba(0,0,0,.35);display:block}
+.gp .gcvph{width:100%;aspect-ratio:2/3;border-radius:6px;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px;background:var(--surface-3);color:var(--ink-soft);font-family:var(--serif)}
+.gp .gkick{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.gp .gpill{padding:2px 9px;border-radius:99px;background:color-mix(in srgb,var(--ink) 10%,transparent);letter-spacing:.02em;text-transform:none;font-weight:600}
+.gp .gtabs{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.gp .gtab{font:inherit;font-size:13px;padding:4px 10px;border-radius:99px;border:1px solid var(--rule);cursor:pointer;background:var(--surface-2);color:var(--ink)}
+.gp .gtab.on{background:var(--ink);color:var(--ground);border-color:var(--ink)}
+.gp .ghero h3{font-family:var(--serif);font-size:36px;line-height:1.1;margin:8px 0 2px;font-weight:600}.gp .ghero h3 a{color:inherit;text-decoration:none}.gp .ghero h3 a:hover{text-decoration:underline}
+.gp .gau{color:var(--ink-soft);font-size:15px}
+.gp .gmk{margin-top:18px;max-width:640px}
+.gp .gl1{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:6px 10px;font-size:14px;color:var(--ink-soft)}.gp .gl1 b{color:var(--ink);font-size:17px}
+.gp .gbk{position:relative;height:8px;border-radius:4px;background:var(--rule);margin:8px 0 10px}
+.gp .gbk i{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--accent)}
+.gp .gbk s{position:absolute;top:-4px;width:2px;height:16px;background:var(--ink);text-decoration:none}
+.gp .gch{display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px;color:var(--ink-soft)}
+.gp .gch span{background:color-mix(in srgb,var(--surface-2) 85%,transparent);border:1px solid var(--rule);border-radius:99px;padding:3px 10px}.gp .gch b{color:var(--ink)}
+.gp .gq{font-family:var(--serif);font-size:19px;line-height:1.35;margin:16px 0 0;max-width:640px}
+.gp .gtrio{display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:14px;margin-top:14px}
+.gp .gtrio .gcard{padding:16px 18px;min-height:170px}.gp .gtrio h4{margin:0 0 6px;font-family:var(--sans);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.gp .gt{font-weight:650}.gp .gs{color:var(--ink-soft);font-size:14px;margin-top:3px}
+.gp .glbl{font-size:11.5px;color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:8px}
+.gp .gempty{color:var(--ink-faint);font-style:italic;font-size:14px}
+.gp .gnext{display:flex;gap:14px;align-items:center;margin-top:14px;padding:12px 16px;border-radius:14px;background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:14px}
+.gp .gnext img{width:36px;border-radius:3px}
+.gp .gtl{padding:14px 16px 6px;overflow-x:auto}.gp .gtl svg{display:block;min-width:720px;width:100%}
+.gp .grow{cursor:pointer}.gp .grow:hover .glab{fill:var(--ink)}
+.gp .gfios{padding:16px 18px}.gp .gchips{display:flex;flex-wrap:wrap;gap:8px}
+.gp .gchip{font:inherit;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);border-radius:99px;padding:5px 12px;font-size:13px;cursor:pointer;display:flex;gap:8px;align-items:center}
+.gp .gchip i{width:10px;height:10px;border-radius:50%}.gp .gchip.on{border-color:var(--ink);background:var(--surface-3)}
+.gp .gft{height:48px;overflow:hidden;color:var(--ink-soft);font-size:14.5px;margin:10px 0 0;display:flex;align-items:center}
+.gp .garcs svg{display:block;width:100%;height:auto}
+.gp .gpeso{padding:22px 18px 14px}
+.gp .gbars{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:10px;align-items:end;height:160px;border-bottom:1px solid var(--rule)}
+.gp .gbc{display:flex;flex-direction:column;justify-content:flex-end;height:100%;cursor:pointer;position:relative}
+.gp .gbs{border-radius:6px;margin-top:2px;background:var(--surface-3)}.gp .gbc:hover .gbs{filter:brightness(1.15)}
+.gp .gbc.past .gbs{background:color-mix(in srgb,var(--ok) 55%,var(--surface-3))}.gp .gbc.cur .gbs{background:var(--accent)}
+.gp .gbc .gv{position:absolute;left:0;right:0;text-align:center;font-size:11px;color:var(--ink-soft)}
+.gp .gbc .gfl{position:absolute;left:0;right:0;text-align:center;color:var(--flag);font-size:12px}
+.gp .gml{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:10px;text-align:center;font-size:11px;color:var(--ink-faint);margin-top:6px;text-transform:uppercase;letter-spacing:.06em}
+.gp .gpn{font-size:13px;color:var(--ink-soft);margin-top:12px}
+.gp .gedit{padding:16px;margin-bottom:16px}
+.gp .gebar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;margin-bottom:12px}.gp .gebar .msg{font-size:13px;color:var(--ink-soft)}
+.gp .gegrid{display:grid;grid-template-columns:1fr 260px;gap:16px}
+.gp .gmonths{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.gp .gmz{background:var(--surface-2);border:2px dashed transparent;border-radius:12px;padding:8px;min-height:110px}
+.gp .gmz.over{border-color:var(--accent)}.gp .gmz h5{margin:0 0 6px;font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft)}
+.gp .git{display:flex;gap:8px;align-items:center;background:var(--surface);border:1px solid var(--rule);border-radius:8px;padding:5px;margin-bottom:6px;cursor:grab;font-size:12.5px;line-height:1.25}
+.gp .git img,.gp .git .gph{width:26px;height:38px;object-fit:cover;border-radius:3px;flex:none;background:var(--surface-3)}
+.gp .gx{margin-left:auto;flex:none;border:0;background:transparent;color:var(--ink-faint);cursor:pointer;font-size:15px;padding:0 4px}.gp .gx:hover{color:var(--flag)}
+.gp .gcat input{width:100%;font:inherit;padding:8px 10px;border-radius:10px;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);margin-bottom:8px}
+.gp .gcit{padding:7px 10px;border-radius:10px;background:var(--surface-2);margin-bottom:6px;cursor:grab;font-size:12.5px}.gp .gcit b{display:block;font-size:13.5px}
+.gp .gcl{max-height:520px;overflow:auto}
+.gp .gmv{display:none}
+.gtip{position:fixed;pointer-events:none;background:var(--surface-3);border:1px solid var(--rule);border-radius:10px;padding:8px 10px;font-size:13px;box-shadow:0 10px 30px rgba(0,0,0,.3);opacity:0;transition:opacity .12s;z-index:60;max-width:260px}
+@media (max-width:820px){.gp .gstrip{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.gp .gcell{flex:0 0 58px;scroll-snap-align:center}.gp .garr{display:none}
+ .gp .gin{display:block;padding:16px}.gp .gin>div:first-child{float:left;width:84px;margin:0 14px 8px 0}.gp .ghero h3{font-size:24px}.gp .gmk,.gp .gq{clear:both}.gp .ghero{min-height:0}
+ .gp .gtrio{grid-template-columns:1fr}.gp .gtrio .gcard{min-height:0}.gp .gegrid{grid-template-columns:1fr}.gp .gmonths{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .gp .gbars,.gp .gml{gap:4px}.gp .gml{font-size:9px}.gp .gbars{height:120px}.gp .gmv{display:inline-block;margin-left:auto}}
 </style>
 
 <div class="shell">
@@ -2558,7 +2641,7 @@ const PARENT = {obra:['#/catalogo','Catálogo'], publicacao:['#/publicacoes','Pu
                 busca:['#/','Visão geral']};
 const RNAME = {'':'Visão geral', catalogo:'Catálogo', colecoes:'Coleções', colecao:'Coleção',
                obra:'Obra', autor:'Autor', autores:'Autores', publicacao:'Publicação',
-               publicacoes:'Publicações', leitura:'Leitura e acervo', estado:'Estado pessoal',
+               publicacoes:'Publicações', leitura:'Leitura e acervo', plano:'Guia do ano', estado:'Estado pessoal',
                revisao:'Decisões', busca:'Busca'};
 function pushTrail(h){
   const i = trail.lastIndexOf(h);
@@ -2590,14 +2673,16 @@ function ctxBar(r, arg){
   </div>`;
 }
 function setSub(ns,k,v){state[ns][k]=v;render();}
-/* Ícones: mapa FIXO de 8 entradas, indexado pela rota. Não cresce com a
-   biblioteca — coleção nova não acrescenta ícone nenhum. */
+/* Ícones: mapa FIXO, uma entrada por rota do menu (9 desde o Guia do ano,
+   2026-11-02). Não cresce com a biblioteca — coleção nova não acrescenta
+   ícone nenhum. */
 const ICONS = {
  '#/':'<path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/>',
  '#/catalogo':'<rect x="3" y="4" width="18" height="16" rx="2"/><path d="M8 4v16M12 9h6M12 13h6"/>',
  '#/colecoes':'<path d="M4 4h3v16H4zM9.5 4h3v16h-3z"/><path d="m15.5 5 3 .8-3.2 15L15.5 5z"/>',
  '#/autores':'<circle cx="9" cy="8" r="3"/><path d="M3.5 20c.6-3.2 2.9-5 5.5-5s4.9 1.8 5.5 5"/><path d="M16 6.2a3 3 0 0 1 0 5.6M17.5 20c-.2-1.6-.7-3-1.5-4"/>',
  '#/publicacoes':'<path d="M5 4.5A1.5 1.5 0 0 1 6.5 3H18a1 1 0 0 1 1 1v15.5a1 1 0 0 1-1 1H6.5A1.5 1.5 0 0 1 5 19V4.5z"/><path d="M5 17h14"/>',
+ '#/plano':'<rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 9.5h17M8 3v4M16 3v4"/><path d="M7.5 13.5h3M7.5 16.5h6"/>',
  '#/leitura':'<path d="M12 6.5C10.5 5 8.5 4.4 4 4.6v13c4.5-.2 6.5.4 8 1.9 1.5-1.5 3.5-2.1 8-1.9v-13c-4.5-.2-6.5.4-8 1.9z"/><path d="M12 6.5v12.9"/>',
  '#/estado':'<circle cx="12" cy="8" r="3.2"/><path d="M4.5 20c.8-3.6 3.6-5.6 7.5-5.6s6.7 2 7.5 5.6"/>',
  '#/revisao':'<circle cx="11" cy="11" r="6.2"/><path d="m20 20-4.4-4.4"/><path d="M11 8.2v3.2M11 14h.01"/>',
@@ -2653,6 +2738,7 @@ function nav(){
     ['','#/publicacoes','Publicações',c.publications],
     ['sec','','Você',''],
     ['','#/leitura','Leitura e acervo',''],
+    ['','#/plano','Guia do ano',''],
     ['','#/estado','Estado pessoal',''],
     ['sec','','Curadoria',''],
     ['','#/revisao','Decisões',(D.decisions||[]).filter(d=>d.state==='decidir').length]];
@@ -2711,6 +2797,286 @@ function vPubs(){
     <div class="meta">${buyLink(p)}</div></div>`).join('')||'<div class="row"><div class="unk">Nada corresponde a estes filtros.</div></div>'}</div>
   </div>${pubRail(all, f)}</div>`;
 }
+/* ---------- Guia do ano (#/plano) ---------------------------------------
+   Decisão do Mathews, 2026-11-02; regras em interface-rules §16.
+   A página NÃO depende de registro de leitura: tudo sai da data de hoje e de
+   plans/<ano>.yaml. Mudanças feitas no modo de edição ficam neste navegador
+   até serem gravadas na pasta da biblioteca ou coladas na conversa.        */
+const GP_MN=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
+const GP_MA=GP_MN.map(m=>m.slice(0,3));
+const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8'];
+const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, tint:{}, q:''};
+const gpDays = (y,m)=> new Date(y, m+1, 0).getDate();
+const gpKey = y => 'bib.plano.'+y;
+function gpLoad(){
+  const ys = Object.keys(D.plans||{}).sort(); if(!ys.length) return false;
+  const now = new Date().getFullYear();
+  const y = GP.year || (ys.includes(String(now)) ? String(now) : (ys.find(v=>+v>now) || ys[ys.length-1]));
+  if(GP.year !== y || !GP.plan){
+    GP.year = y; GP.sel = null; GP.ix = 0;
+    let local = null; try{ local = JSON.parse(localStorage.getItem(gpKey(y))||'null'); }catch(e){}
+    GP.plan = local || JSON.parse(JSON.stringify(D.plans[y].months));
+  }
+  return true;
+}
+const gpDirty = ()=> JSON.stringify(GP.plan) !== JSON.stringify(D.plans[GP.year].months);
+function gpPersist(){ try{ if(gpDirty()) localStorage.setItem(gpKey(GP.year), JSON.stringify(GP.plan)); else localStorage.removeItem(gpKey(GP.year)); }catch(e){} }
+const gpItems = m => GP.plan[String(m+1)] || [];
+function gpWorks(it){ return it.works || (it.work ? [it.work] : []); }
+function gpPub(it){
+  if(it.publication && P(it.publication)) return P(it.publication);
+  const w = W(gpWorks(it)[0]); const de = w && w.display_edition;
+  return de ? P(de.publication) : null;
+}
+function gpTitle(it){ return it.title || wTitle(gpWorks(it)[0]); }
+function gpShort(it){ return gpTitle(it).split(':')[0]; }
+function gpLabel(it){ const t = gpShort(it); return t.length>24 ? t.slice(0,23).trimEnd()+'…' : t; }
+function gpAuthors(it){ return [...new Set(gpWorks(it).map(wAuthors))].join(', '); }
+function gpPages(it){ const p = gpPub(it); return (p && +p.pages) || 0; }
+function gpCover(it){ const p = gpPub(it); return p && p.cover && (p.cover.data_uri || p.cover.relative_path) || ''; }
+function gpColl(it){
+  const w = W(gpWorks(it)[0]) || {}; const m = (w.memberships||[])[0];
+  return m ? ((C(m.collection)||{}).title_pt || m.collection) : 'Fora das coleções';
+}
+function gpSpan(it){
+  const ws = gpWorks(it).map(W).filter(Boolean).map(w=>w.period_covered).filter(Boolean);
+  if(!ws.length) return null;
+  return [Math.min(...ws.map(x=>x.from)), Math.max(...ws.map(x=>x.to))];
+}
+function gpLer(it){
+  const h = (bodySections((W(gpWorks(it)[0])||{}).body_html)['Como ler'])||'';
+  const o = {}; const t = document.createElement('template'); t.innerHTML = h;
+  t.content.querySelectorAll('li').forEach(li=>{
+    const b = li.querySelector('strong,b'); if(!b) return;
+    const k = b.textContent.replace(/:\s*$/,'').trim().toLowerCase();
+    b.remove(); o[k] = li.innerHTML.trim();
+  });
+  const up = h => h.replace(/^(\s*(?:<[^>]+>)*\s*)(\p{Ll})/u, (m,a,c)=>a+c.toUpperCase());
+  return {q:up(o['a pergunta']||''), centro:up(o['onde está o centro']||''), postura:up(o['postura']||'')};
+}
+const gpPagesM = m => gpItems(m).reduce((s,it)=>s+gpPages(it),0);
+function gpToday(){
+  const d = new Date(), y = +GP.year;
+  if(d.getFullYear() < y) return {phase:'antes', m:-1, d:0, left:Math.ceil((new Date(y,0,1)-d)/864e5)};
+  if(d.getFullYear() > y) return {phase:'depois', m:12, d:0};
+  return {phase:'durante', m:d.getMonth(), d:d.getDate()};
+}
+function gpTint(src, key){
+  if(!src || GP.tint[key]) return GP.tint[key] || '';
+  const im = new Image();
+  im.onload = ()=>{ try{
+    const c = document.createElement('canvas'); c.width = 24; c.height = 36;
+    const x = c.getContext('2d'); x.drawImage(im,0,0,24,36);
+    const px = x.getImageData(0,0,24,36).data; let r=0,g=0,b=0,w=0;
+    for(let i=0;i<px.length;i+=4){ const mx=Math.max(px[i],px[i+1],px[i+2]), mn=Math.min(px[i],px[i+1],px[i+2]);
+      const k = .2 + (mx? (mx-mn)/mx : 0) * mx/255; r+=px[i]*k; g+=px[i+1]*k; b+=px[i+2]*k; w+=k; }
+    GP.tint[key] = `${Math.round(r/w)},${Math.round(g/w)},${Math.round(b/w)}`;
+    const el = document.querySelector('.gp [data-tint="'+key+'"]'); if(el) gpPaintBg(el, key);
+    const tl = document.getElementById('gp-tl'); if(tl) gpTimeline();
+  }catch(e){} };
+  im.src = src; return '';
+}
+function gpPaintBg(el, key){ const t = GP.tint[key]; if(t) el.style.background = `radial-gradient(110% 130% at 0% 0%,rgba(${t},.8),rgba(${t},.12) 55%,transparent 80%)`; }
+const gpTip = (e,h)=>{ const t=document.getElementById('gp-tip'); if(!t) return; t.innerHTML=h; t.style.opacity=1;
+  t.style.left=Math.min(e.clientX+14, innerWidth-270)+'px'; t.style.top=(e.clientY+14)+'px'; };
+const gpTipOff = ()=>{ const t=document.getElementById('gp-tip'); if(t) t.style.opacity=0; };
+const gpYr = y => y<0 ? (-y)+' a.C.' : String(y);
+
+function vPlano(){
+  if(!gpLoad()) return `<div class="ph"><div class="eyebrow">Você</div><h1>Guia do ano</h1>
+    <p class="sub">Ainda não há plano de leitura. Os planos ficam em <code>plans/&lt;ano&gt;.yaml</code>.</p></div>`;
+  const ys = Object.keys(D.plans).sort();
+  return `<div class="gp">
+  <div class="gbar"><h1>Guia do ano <small>${E(GP.year)}</small></h1>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">${ys.length>1?ys.map(y=>`<button class="gbtn${y===GP.year?' pri':''}" onclick="GP.year='${y}';GP.plan=null;render()">${y}</button>`).join(''):''}
+    <button class="gbtn" id="gp-editb">Editar plano</button></div></div>
+  <div id="gp-local"></div>
+  <div class="gcard gedit" id="gp-edit" hidden></div>
+  <div class="gnav"><button class="garr" id="gp-prev" aria-label="Mês anterior">‹</button><div class="gstrip" id="gp-strip"></div><button class="garr" id="gp-next" aria-label="Próximo mês">›</button></div>
+  <div class="ghero" id="gp-hero"></div><div id="gp-below"></div>
+  <div class="gsec"><h2>A viagem do ano · a época de que cada livro trata</h2><div class="gcard gtl" id="gp-tl"></div></div>
+  <div class="gsec"><h2>Os fios do ano</h2><div class="gcard gfios"><div class="gchips" id="gp-chips"></div><div class="gft" id="gp-ft">Passe o mouse ou toque num fio para ver o que liga os livros.</div><div class="garcs" id="gp-arcs"></div></div></div>
+  <div class="gsec"><h2>O peso dos meses</h2><div class="gcard gpeso"><div class="gbars" id="gp-bars"></div><div class="gml" id="gp-ml"></div><div class="gpn" id="gp-pn"></div></div></div>
+  <div class="gtip" id="gp-tip"></div></div>`;
+}
+function gpMount(){
+  if(!document.getElementById('gp-strip')) return;
+  gpAll();
+  document.getElementById('gp-prev').onclick = ()=>gpPick(((GP.sel ?? gpCurM())+11)%12);
+  document.getElementById('gp-next').onclick = ()=>gpPick(((GP.sel ?? gpCurM())+1)%12);
+  document.getElementById('gp-editb').onclick = ()=>{ GP.editing = true; GP.snap = JSON.stringify(GP.plan); GP.hist = []; gpEdit(); };
+}
+function gpCurM(){ const t = gpToday(); return t.phase==='durante' ? t.m : t.phase==='antes' ? 0 : 11; }
+function gpPick(m){ GP.sel = m; GP.ix = 0; gpNav(); gpHero(); }
+function gpAll(){ gpLocal(); gpNav(); gpHero(); gpTimeline(); gpFios(); gpPeso(); gpEdit(); }
+function gpLocal(){
+  const el = document.getElementById('gp-local'); if(!el) return;
+  el.innerHTML = gpDirty() && !GP.editing ? `<div class="gnote"><span><b>Plano alterado neste aparelho.</b> Para ficar na biblioteca, grave na pasta ou copie e cole na conversa.</span>
+    <span style="display:flex;gap:8px;flex-wrap:wrap"><button class="gbtn pri" onclick="gpSave()">Gravar na pasta</button><button class="gbtn" onclick="gpCopy()">Copiar plano</button><button class="gbtn" onclick="gpDiscard()">Descartar</button></span></div>` : '';
+}
+function gpNav(){
+  const t = gpToday(), vm = GP.sel ?? gpCurM();
+  const st = document.getElementById('gp-strip');
+  st.innerHTML = GP_MA.map((a,i)=>{
+    const its = gpItems(i), c0 = its[0] && gpCover(its[0]), c1 = its[1] && gpCover(its[1]);
+    const cls = t.phase==='depois'||(t.phase==='durante'&&i<t.m) ? 'past' : t.phase==='durante'&&i===t.m ? 'cur' : 'fut';
+    return `<button class="gcell ${cls}${i===vm?' sel':''}" data-m="${i}" title="${E(its.map(gpTitle).join(' · ')||'mês livre')}">
+      <div class="gcw">${c1?`<img class="g2" src="${c1}" alt="">`:''}${c0?`<img src="${c0}" alt="">`:`<div class="gph" style="background:var(--surface-3)"></div>`}</div>
+      ${cls==='past'?'<span class="gok">✓</span>':''}${its.length>1?`<span class="gn">${its.length}</span>`:''}<div class="gm">${a}</div></button>`;
+  }).join('');
+  st.querySelectorAll('.gcell').forEach(c=>c.onclick=()=>gpPick(+c.dataset.m));
+  const se = st.querySelector('.gcell.sel');
+  if(se && st.scrollWidth > st.clientWidth) st.scrollLeft = se.offsetLeft - st.clientWidth/2 + se.offsetWidth/2;
+}
+function gpHero(){
+  const t = gpToday(), vm = GP.sel ?? gpCurM(), its = gpItems(vm), isCur = t.phase==='durante' && vm===t.m;
+  const hero = document.getElementById('gp-hero'), below = document.getElementById('gp-below');
+  if(!its.length){ hero.innerHTML = `<div class="gin"><div></div><div><div class="gkick">${GP_MN[vm]}</div><h3>Mês livre</h3><div class="gau">Nenhuma leitura planejada. Use “Editar plano” para acrescentar.</div></div></div>`; below.innerHTML=''; return; }
+  const it = its[Math.min(GP.ix, its.length-1)], cov = gpCover(it), key = (gpPub(it)||{}).id || gpWorks(it)[0];
+  const Pm = gpPagesM(vm), days = gpDays(+GP.year, vm), left = isCur ? days - t.d + 1 : days;
+  const ref = isCur ? Math.round(Pm*(t.d-1)/days) : 0, per = x => Math.max(0, Math.ceil((Pm-x)/left));
+  let where = '', refIn = ref, acc = 0;
+  for(const x of its){ if(ref <= acc + gpPages(x)){ refIn = ref - acc; if(its.length>1) where = ` de <i>${E(gpShort(x))}</i>`; break; } acc += gpPages(x); }
+  const opts = [0, Math.round(ref/2/10)*10, Math.min(Pm, ref + Math.round(Pm*.15))].filter((x,i,a)=>x!==ref && a.indexOf(x)===i);
+  const mult = its.length>1, lbl = x => x===0 ? 'estaca zero' : (mult ? x+' p. no mês' : 'p. '+x);
+  const kick = isCur ? 'Este mês' : t.phase==='antes' ? 'O plano começa aqui' : (t.phase==='depois'||vm<t.m) ? 'Mês passado' : 'Mês futuro';
+  const ler = gpLer(it), w0 = gpWorks(it)[0];
+  let mk;
+  if(isCur && Pm) mk = `<div class="gmk"><div class="gl1"><span>Hoje, no ritmo do mês</span><span>referência: <b>página ${mult?refIn:ref}</b>${where}</span></div>
+    <div class="gbk"><i style="width:${ref/Pm*100}%"></i><s style="left:${ref/Pm*100}%"></s></div>
+    <div class="gch"><span>Em dia: <b>${per(ref)} p./dia</b></span>${opts.map(x=>`<span>${x<ref?'Na':'Se já leu'} ${lbl(x)}: <b>${per(x)} p./dia</b></span>`).join('')}<span>${left} dia${left>1?'s':''} restantes</span></div></div>`;
+  else if(Pm) mk = `<div class="gmk"><div class="gch">${t.phase==='antes'&&vm===0?`<span>Começa em 1º de janeiro · faltam <b>${t.left} dias</b></span>`:''}<span>${days} dias · ${Pm} páginas</span><span>≈ <b>${Math.ceil(Pm/days)} p./dia</b></span></div></div>`;
+  else mk = `<div class="gmk"><div class="gch"><span>Número de páginas ainda não registrado</span></div></div>`;
+  hero.innerHTML = `<div class="gbg" data-tint="${E(key)}"></div><div class="gin"><div>${cov?`<img class="gcv" src="${cov}" alt="Capa de ${E(gpTitle(it))}">`:`<div class="gcvph">${E(gpTitle(it))}</div>`}</div><div>
+    <div class="gkick">${kick} · ${GP_MN[vm]}<span class="gpill">${E(gpColl(it))}</span></div>
+    ${mult?`<div class="gtabs">${its.map((x,k)=>`<button class="gtab${k===GP.ix?' on':''}" data-k="${k}">${E(gpShort(x))}</button>`).join('')}</div>`:''}
+    <h3><a href="#/obra/${E(w0)}">${E(gpTitle(it))}</a></h3><div class="gau">${E(gpAuthors(it))}${gpPages(it)?` · ${gpPages(it)} páginas`:''}</div>
+    ${mk}${ler.q?`<div class="gq">${ler.q}</div>`:''}</div></div>`;
+  gpTint(cov, key); gpPaintBg(hero.querySelector('.gbg'), key);
+  hero.querySelectorAll('.gtab').forEach(b=>b.onclick=()=>{ GP.ix = +b.dataset.k; gpHero(); });
+  const card = (h, x, empty)=>{
+    if(!x) return `<div class="gcard"><h4>${h}</h4><div class="gempty">${empty}</div></div>`;
+    const tt = x.text || (x.work ? wTitle(x.work) : '');
+    return `<div class="gcard"><h4>${h}</h4><div class="gt">${x.work?`<a href="#/obra/${E(x.work)}">${E(tt)}</a>`:E(tt)}</div>${x.note?`<div class="gs">${E(x.note)}</div>`:''}</div>`;
+  };
+  let nx = '';
+  if(isCur && left<=7 && vm<11 && gpItems(vm+1).length){ const n = gpItems(vm+1)[0], pn = gpPagesM(vm+1);
+    nx = `<div class="gnext">${gpCover(n)?`<img src="${gpCover(n)}" alt="">`:''}<div><b>Em ${GP_MN[vm+1]}:</b> ${E(gpTitle(n))}${pn?` · ${pn} páginas`:''}${pn>500?' · <span style="color:var(--flag)">é longo; vale começar já</span>':''}</div></div>`; }
+  below.innerHTML = `<div class="gtrio">${card('Antes de ler', it.before, 'Nada: pode começar direto.')}
+    <div class="gcard"><h4>Como ler</h4>${ler.centro?`<div class="glbl" style="margin-top:0">Onde está o centro</div><div class="gs">${ler.centro}</div>`:''}${ler.postura?`<div class="glbl">Postura</div><div class="gs">${ler.postura}</div>`:''}${!ler.centro&&!ler.postura?'<div class="gempty">A página da obra ainda não tem “Como ler”.</div>':''}</div>
+    ${card('Depois de ler', it.after, 'Por enquanto, nada na biblioteca continua este livro.')}</div>${nx}`;
+}
+function gpTimeline(){
+  const el = document.getElementById('gp-tl'); if(!el) return;
+  const t = gpToday(), cm = gpCurM(), all = [];
+  GP_MA.forEach((_,i)=>gpItems(i).forEach(it=>{ const sp = gpSpan(it); if(sp) all.push([it,i,sp]); }));
+  if(!all.length){ el.innerHTML = '<div class="gempty" style="padding:8px">As obras do plano ainda não têm a época registrada.</div>'; return; }
+  const X0=-800, X1=2050, Wd=1000, L=175, R=16, rh=24, top=34, H=top+all.length*rh+8, x = y => L+(y-X0)/(X1-X0)*(Wd-L-R);
+  let s = `<svg viewBox="0 0 ${Wd} ${H}" role="img" aria-label="Época de que cada livro do plano trata">`;
+  [[-800,476,'Antiguidade'],[476,1453,'Idade Média'],[1453,1789,'Moderna'],[1789,2050,'Contemp.']].forEach(([a,c,n],k)=>{
+    s += `<rect x="${x(a)}" y="${top-8}" width="${x(c)-x(a)}" height="${H-top+8}" fill="${k%2?'transparent':'color-mix(in srgb,var(--ink) 4%,transparent)'}"/><text x="${(x(a)+x(c))/2}" y="${H-4}" text-anchor="middle" font-size="10" fill="var(--ink-faint)" letter-spacing="1">${n.toUpperCase()}</text>`; });
+  [-800,-400,0,400,800,1200,1600,2000].forEach(v=>{ s += `<line x1="${x(v)}" x2="${x(v)}" y1="${top-8}" y2="${H-16}" stroke="var(--rule)" stroke-dasharray="2 4"/><text x="${x(v)}" y="${top-16}" fill="var(--ink-faint)" font-size="11" text-anchor="middle">${gpYr(v)}</text>`; });
+  all.sort((a,b)=>a[2][0]-b[2][0]).forEach(([it,i,sp],r)=>{
+    const yy = top+r*rh+rh/2, cu = t.phase==='durante'&&i===t.m, past = t.phase==='depois'||(t.phase==='durante'&&i<t.m);
+    const key = (gpPub(it)||{}).id||gpWorks(it)[0], tn = GP.tint[key], col = tn?`rgb(${tn})`:'var(--accent)', op = cu?1:past?.9:.55;
+    const x1 = x(sp[0]), x2 = x(sp[1]), lt = sp[0]===sp[1] ? gpYr(sp[0]) : gpYr(sp[0])+' – '+gpYr(sp[1]);
+    s += `<g class="grow" data-m="${i}" data-h="${encodeURIComponent(`<b>${E(gpTitle(it))}</b><br>${GP_MN[i]} · ${lt}`)}"><text class="glab" x="${L-12}" y="${yy+4}" text-anchor="end" font-size="12" fill="${cu?'var(--ink)':'var(--ink-soft)'}" font-weight="${cu?700:400}">${GP_MA[i]} · ${E(gpLabel(it))}</text>`;
+    s += x2-x1<7 ? `<circle cx="${x1}" cy="${yy}" r="${cu?7:5.5}" fill="${col}" opacity="${op}" ${cu?'stroke="var(--accent)" stroke-width="2.5"':''}/>`
+                 : `<rect x="${x1}" y="${yy-(cu?6:4.5)}" width="${x2-x1}" height="${cu?12:9}" rx="4.5" fill="${col}" opacity="${op}" ${cu?'stroke="var(--accent)" stroke-width="2"':''}/>`;
+    s += '</g>'; gpTint(gpCover(it), key);
+  });
+  el.innerHTML = s + '</svg>';
+  el.querySelectorAll('.grow').forEach(g=>{ g.onmousemove = e=>gpTip(e, decodeURIComponent(g.dataset.h)); g.onmouseleave = gpTipOff;
+    g.onclick = ()=>{ gpPick(+g.dataset.m); document.getElementById('gp-strip').scrollIntoView({behavior:'smooth', block:'nearest'}); }; });
+}
+function gpFios(){
+  const th = D.plans[GP.year].threads || [], ch = document.getElementById('gp-chips');
+  ch.innerHTML = th.map((f,i)=>`<button class="gchip${GP.fio===i?' on':''}" data-i="${i}"><i style="background:${GP_FIO[i%GP_FIO.length]}"></i>${E(f.name)}</button>`).join('');
+  ch.querySelectorAll('.gchip').forEach(c=>{ c.onmouseenter = c.onclick = ()=>{ GP.fio = +c.dataset.i; document.getElementById('gp-ft').textContent = th[GP.fio].text||'';
+    ch.querySelectorAll('.gchip').forEach(z=>z.classList.toggle('on', z===c)); gpArcs(); }; });
+  gpArcs();
+}
+function gpArcs(){
+  const th = D.plans[GP.year].threads || [], t = gpToday(), cm = t.phase==='durante'?t.m:-1, AW=1000, base=170, nx = i=>40+i*(AW-80)/11;
+  let a = `<svg viewBox="0 0 ${AW} 220" role="img" aria-label="Meses que conversam entre si">`;
+  th.forEach((f,fi)=>{ const ms = (f.months||[]).map(m=>m-1).sort((p,q)=>p-q), on = GP.fio===null||GP.fio===fi, c = GP_FIO[fi%GP_FIO.length];
+    for(let k=0;k<ms.length-1;k++){ const x1=nx(ms[k]), x2=nx(ms[k+1]), h=Math.min(140,(x2-x1)*.5+14+fi*3);
+      a += `<path d="M${x1},${base-26} C${x1},${base-26-h} ${x2},${base-26-h} ${x2},${base-26}" fill="none" stroke="${c}" stroke-width="${GP.fio===fi?4:2.2}" stroke-linecap="round" opacity="${on?.95:.1}"/>`; } });
+  GP_MA.forEach((m,i)=>{ const it = gpItems(i)[0], cv = it && gpCover(it), past = t.phase==='depois'||(t.phase==='durante'&&i<t.m);
+    a += `<g class="grow" data-m="${i}"><clipPath id="gpc${i}"><circle cx="${nx(i)}" cy="${base}" r="22"/></clipPath>${cv?`<image href="${cv}" x="${nx(i)-22}" y="${base-33}" width="44" height="66" clip-path="url(#gpc${i})" preserveAspectRatio="xMidYMid slice" opacity="${past||i===cm?1:.55}"/>`:`<circle cx="${nx(i)}" cy="${base}" r="22" fill="var(--surface-3)"/>`}<circle cx="${nx(i)}" cy="${base}" r="22" fill="none" stroke="${i===cm?'var(--accent)':'var(--rule)'}" stroke-width="${i===cm?3:1.5}"/><text x="${nx(i)}" y="${base+40}" text-anchor="middle" font-size="12" fill="${i===cm?'var(--accent)':'var(--ink-soft)'}" font-weight="${i===cm?700:400}">${m}</text></g>`; });
+  const el = document.getElementById('gp-arcs'); el.innerHTML = a + '</svg>';
+  el.querySelectorAll('.grow').forEach(g=>g.onclick = ()=>{ gpPick(+g.dataset.m); document.getElementById('gp-strip').scrollIntoView({behavior:'smooth', block:'nearest'}); });
+}
+function gpPeso(){
+  const t = gpToday(), mx = Math.max(...GP_MA.map((_,i)=>gpPagesM(i)), 1), el = document.getElementById('gp-bars');
+  el.innerHTML = GP_MA.map((_,i)=>{ const Pm = gpPagesM(i), its = gpItems(i);
+    const cls = t.phase==='depois'||(t.phase==='durante'&&i<t.m) ? 'past' : t.phase==='durante'&&i===t.m ? 'cur' : '';
+    return `<div class="gbc ${cls}" data-m="${i}" data-h="${encodeURIComponent(`<b>${GP_MN[i]}</b> · ${Pm} páginas<br>${its.map(x=>E(gpTitle(x))+(gpPages(x)?' ('+gpPages(x)+')':'')).join('<br>')}`)}">
+      <div class="gv" style="bottom:calc(${Pm/mx*100}% + 4px)">${Pm||''}</div>${Pm>500?`<div class="gfl" style="bottom:calc(${Pm/mx*100}% + 20px)">⚑</div>`:''}
+      ${its.map(x=>`<div class="gbs" style="height:${gpPages(x)/mx*100}%"></div>`).join('')}</div>`; }).join('');
+  el.querySelectorAll('.gbc').forEach(c=>{ c.onmousemove = e=>gpTip(e, decodeURIComponent(c.dataset.h)); c.onmouseleave = gpTipOff;
+    c.onclick = ()=>{ gpPick(+c.dataset.m); document.getElementById('gp-strip').scrollIntoView({behavior:'smooth', block:'nearest'}); }; });
+  const cm = t.phase==='durante'?t.m:-1;
+  document.getElementById('gp-ml').innerHTML = GP_MA.map((m,i)=>`<div style="${i===cm?'color:var(--accent);font-weight:700':''}">${m}</div>`).join('');
+  const tot = GP_MA.reduce((s,_,i)=>s+gpPagesM(i),0), hv = GP_MA.map((_,i)=>i).filter(i=>gpPagesM(i)>500);
+  document.getElementById('gp-pn').innerHTML = `Total do ano: <b>${tot.toLocaleString('pt-BR')}</b> páginas · média de <b>${Math.round(tot/365)}</b> por dia.`
+    + hv.map(i=>` <span style="color:var(--flag)">⚑ ${GP_MN[i]} tem ${gpPagesM(i)} páginas; vale começar na segunda metade de ${GP_MN[(i+11)%12]}.</span>`).join('');
+}
+function gpPush(){ GP.hist.push(JSON.stringify(GP.plan)); }
+function gpEdit(){
+  const box = document.getElementById('gp-edit'), btn = document.getElementById('gp-editb'); if(!box) return;
+  box.hidden = !GP.editing; btn.hidden = GP.editing; if(!GP.editing){ box.innerHTML=''; return; }
+  const opt = sel => GP_MN.map((m,i)=>`<option value="${i}"${i===sel?' selected':''}>${m}</option>`).join('');
+  const q = norm(GP.q), inPlan = new Set(GP_MA.flatMap((_,i)=>gpItems(i).flatMap(gpWorks)));
+  const cat = Object.values(D.works).filter(w=>!inPlan.has(w.id) && (!q || norm(wTitle(w.id)+' '+wAuthors(w.id)).includes(q)))
+    .sort((a,b)=>wTitle(a.id).localeCompare(wTitle(b.id),'pt')).slice(0,40);
+  box.innerHTML = `<div class="gebar"><span class="msg">Arraste obras entre os meses ou do catálogo para um mês; no celular, use o seletor de mês. Um mês pode ter mais de uma obra.</span>
+    <span style="display:flex;gap:8px;flex-wrap:wrap"><button class="gbtn" id="gp-undo"${GP.hist.length?'':' disabled'}>↶ Desfazer</button><button class="gbtn" id="gp-cancel">Cancelar alterações</button><button class="gbtn pri" id="gp-done">Concluir</button></span></div>
+    <div class="gegrid"><div class="gmonths">${GP_MN.map((m,i)=>`<div class="gmz" data-m="${i}"><h5>${m}${gpPagesM(i)?' · '+gpPagesM(i)+' p.':''}</h5>${gpItems(i).map((it,k)=>{const cv=gpCover(it);
+      return `<div class="git" draggable="true" data-m="${i}" data-k="${k}">${cv?`<img src="${cv}" alt="">`:'<span class="gph"></span>'}<span>${E(gpShort(it))}</span>
+        <select class="gmv" data-m="${i}" data-k="${k}" aria-label="Mover para">${opt(i)}</select><button class="gx" data-m="${i}" data-k="${k}" title="Tirar do mês" aria-label="Tirar do mês">×</button></div>`;}).join('')||'<div class="gempty" style="font-size:12px">vazio</div>'}</div>`).join('')}</div>
+    <div class="gcat"><input id="gp-q" placeholder="Buscar no catálogo…" value="${E(GP.q)}"><div class="gcl">${cat.map(w=>`<div class="gcit" draggable="true" data-w="${E(w.id)}"><b>${E(wTitle(w.id))}</b>${E(wAuthors(w.id))}
+      <select class="gadd" data-w="${E(w.id)}" aria-label="Acrescentar a"><option value="">acrescentar a…</option>${opt(-1)}</select></div>`).join('')||'<div class="gempty">Nada encontrado.</div>'}</div></div></div>`;
+  const redo = ()=>{ gpPersist(); gpAll(); };
+  box.querySelectorAll('.git,.gcit').forEach(el=>el.ondragstart = e=>e.dataTransfer.setData('text', el.dataset.w ? 'w'+el.dataset.w : 'm'+el.dataset.m+'.'+el.dataset.k));
+  const move = (f,k,to)=>{ gpPush(); const [it] = GP.plan[String(f+1)].splice(k,1); (GP.plan[String(to+1)] = GP.plan[String(to+1)]||[]).push(it); redo(); };
+  const add = (wid,to)=>{ gpPush(); (GP.plan[String(to+1)] = GP.plan[String(to+1)]||[]).push({work:wid}); redo(); };
+  box.querySelectorAll('.gmz').forEach(z=>{ z.ondragover = e=>{e.preventDefault(); z.classList.add('over');}; z.ondragleave = ()=>z.classList.remove('over');
+    z.ondrop = e=>{ e.preventDefault(); const v = e.dataTransfer.getData('text'), to = +z.dataset.m;
+      if(v[0]==='m'){ const [f,k] = v.slice(1).split('.').map(Number); if(f!==to) move(f,k,to); else z.classList.remove('over'); } else add(v.slice(1), to); }; });
+  box.querySelectorAll('.gmv').forEach(s=>s.onchange = ()=>{ const f=+s.dataset.m, to=+s.value; if(f!==to) move(f,+s.dataset.k,to); });
+  box.querySelectorAll('.gadd').forEach(s=>s.onchange = ()=>{ if(s.value!=='') add(s.dataset.w, +s.value); });
+  box.querySelectorAll('.gx').forEach(x=>x.onclick = ()=>{ gpPush(); GP.plan[String(+x.dataset.m+1)].splice(+x.dataset.k,1); redo(); });
+  document.getElementById('gp-q').oninput = e=>{ GP.q = e.target.value; gpEdit(); const i=document.getElementById('gp-q'); i.focus(); i.setSelectionRange(i.value.length,i.value.length); };
+  document.getElementById('gp-undo').onclick = ()=>{ if(GP.hist.length){ GP.plan = JSON.parse(GP.hist.pop()); redo(); } };
+  document.getElementById('gp-cancel').onclick = ()=>{ GP.plan = JSON.parse(GP.snap); GP.hist = []; GP.editing = false; redo(); };
+  document.getElementById('gp-done').onclick = ()=>{ GP.editing = false; GP.hist = []; redo(); };
+}
+/* plans/<ano>.yaml reescrito a partir do plano em tela. Os fios não mudam na
+   edição e são copiados como estão. */
+function gpYaml(){
+  const q = s => '"' + String(s).replace(/\\/g,'\\\\').replace(/"/g,'\\"') + '"';
+  const ref = r => '{' + Object.entries(r).filter(([,v])=>v!=null&&v!=='').map(([k,v])=>`${k}: ${q(v)}`).join(', ') + '}';
+  let y = `# Plano de leitura — ${GP.year}. Lido pela página "Guia do ano" (#/plano).\n# Regras: config/interface-rules.md §16.\nyear: ${GP.year}\n\nmonths:\n`;
+  for(let i=1;i<=12;i++){ const its = GP.plan[String(i)]||[]; y += `  ${i}:${its.length?'':' []'}\n`;
+    its.forEach(it=>{ y += it.works ? `    - works: [${it.works.join(', ')}]\n` : `    - work: ${it.work}\n`;
+      if(it.title) y += `      title: ${q(it.title)}\n`; if(it.publication) y += `      publication: ${it.publication}\n`;
+      if(it.before) y += `      before: ${ref(it.before)}\n`; if(it.after) y += `      after: ${ref(it.after)}\n`; }); }
+  y += `\nthreads:\n` + (D.plans[GP.year].threads||[]).map(t=>`  - name: ${q(t.name)}\n    months: [${(t.months||[]).join(', ')}]\n    text: ${q(t.text||'')}\n`).join('');
+  return y;
+}
+async function gpSave(){
+  if(!DIRH && window.showDirectoryPicker) await connectDir();
+  if(DIRH){ try{ const d = await DIRH.getDirectoryHandle('plans',{create:true}); const fh = await d.getFileHandle(GP.year+'.yaml',{create:true});
+      const w = await fh.createWritable(); await w.write(gpYaml()); await w.close();
+      D.plans[GP.year].months = JSON.parse(JSON.stringify(GP.plan)); gpPersist(); gpAll(); return; }catch(e){ alert('Falha ao gravar: '+e.message); return; } }
+  alert('Aqui a página não consegue gravar no seu computador: use “Copiar plano” e cole na conversa.');
+}
+function gpCopy(){ const y = gpYaml(); (navigator.clipboard ? navigator.clipboard.writeText(y) : Promise.reject()).then(
+  ()=>alert('Plano copiado. Cole na conversa e eu gravo na biblioteca.'), ()=>prompt('Copie o plano:', y)); }
+function gpDiscard(){ if(!confirm('Descartar as mudanças feitas neste aparelho e voltar ao plano da biblioteca?')) return;
+  GP.plan = JSON.parse(JSON.stringify(D.plans[GP.year].months)); gpPersist(); gpAll(); }
+
 function render(){
   const h=(location.hash||'#/').replace(/^#\//,'');
   const [r,arg]=[h.split('/')[0], decodeURIComponent(h.split('/').slice(1).join('/')||'')];
@@ -2726,6 +3092,7 @@ function render(){
     else if(r==='autor') out=vAutor(arg);
     else if(r==='autores') out=vAutores();
     else if(r==='leitura') out=vLeitura();
+    else if(r==='plano') out=vPlano();
     else if(r==='estado') out=vEstado();
     else if(r==='revisao') out=vRevisao();
     else if(r==='busca') out=vBusca(arg);
@@ -2735,6 +3102,7 @@ function render(){
   $('#view').innerHTML = ctxBar(r, arg) + out;
   nav(); updateSaveUI();
   window.scrollTo(0, scrollMem[location.hash||'#/'] || 0);
+  if(r==='plano') gpMount();
   const fc=$('#fc'),fr=$('#fr'),fd=$('#fd');
   if(fc)fc.onchange=e=>setSub('cat','coll',e.target.value);
   if(fr)fr.onchange=e=>setSub('cat','rs',e.target.value);

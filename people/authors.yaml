@@ -2749,3 +2749,72 @@ guinsburg:
   note: "Tradutor, não autor. Editor e tradutor, fundador da Perspectiva;
          coordenou a tradução de As grandes correntes da mística judaica."
   role: translator
+
+flusser:
+  name_display: "David Flusser"
+  name_variants: []
+  dates: "1917–2000"
+  note: "Historiador do judaísmo antigo e do cristianismo primitivo, professor da Universidade Hebraica de Jerusalém."
+
+hadot:
+  name_display: "Pierre Hadot"
+  name_variants: []
+  dates: "1922–2010"
+  note: "Historiador da filosofia antiga, professor do Collège de France."
+
+almond:
+  name_display: "Philip C. Almond"
+  name_variants: []
+  dates: null
+  note: "Historiador das religiões, professor da Universidade de Queensland."
+
+carvalho-franca:
+  name_display: "Jean Marcel Carvalho França"
+  name_variants: []
+  dates: null
+  note: "Historiador, professor da Unesp, estudioso dos relatos de viajantes sobre o Brasil colonial."
+
+sheila-hue:
+  name_display: "Sheila Hue"
+  name_variants: []
+  dates: null
+  note: "Professora de literatura portuguesa da UERJ, estudiosa do Brasil colonial."
+
+townsend:
+  name_display: "Camilla Townsend"
+  name_variants: []
+  dates: null
+  note: "Historiadora da Universidade Rutgers, estudiosa dos povos nauas e das fontes em náuatle."
+
+matsumoto:
+  name_display: "Mallory E. Matsumoto"
+  name_variants: []
+  dates: null
+  note: "Estudiosa da escrita e da religião maias."
+
+frankopan:
+  name_display: "Peter Frankopan"
+  name_variants: []
+  dates: null
+  note: "Historiador da Universidade de Oxford, estudioso de Bizâncio e da história global."
+
+goldsztajn:
+  name_display: "Margarida Goldsztajn"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu Jesus, de David Flusser, para a Perspectiva."
+  role: translator
+
+dion-macedo:
+  name_display: "Dion Davi Macedo"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu O que é a filosofia antiga?, de Pierre Hadot, para a Loyola."
+  role: translator
+
+gambarotto:
+  name_display: "Bruno Gambarotto"
+  name_variants: []
+  dates: null
+  note: "Tradutor, não autor. Traduziu O Anticristo, de Philip C. Almond, para a Vozes."
+  role: translator

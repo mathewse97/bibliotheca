@@ -407,3 +407,11 @@ revalidation.status:
 # em config/writable-fields.yaml, que é a lista branca de escrita da interface.
 # Não são repetidos aqui — aquele arquivo é a fonte, e duplicá-lo criaria duas
 # listas que divergem na primeira alteração.
+
+# Época de que a obra TRATA, distinta de quando foi escrita (date_sort).
+# Decisão do Mathews, 2026-11-02. Anos, negativos para a.C. Usada pela viagem do
+# ano no Guia do ano e, depois, pelo mapa histórico da biblioteca. Uma fonte
+# antiga pode ter as duas iguais (Hesíodo); um estudo moderno, não (Woolf).
+period_covered:
+  status: declarado
+  form: "{from: <ano>, to: <ano>}"
