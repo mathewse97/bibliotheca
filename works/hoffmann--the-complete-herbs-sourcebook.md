@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [plantas-cultivo, socorro-saude]
 
 research_status: partially_researched
 missing: [date_written, work_type, "ano da primeira edição inglesa"]

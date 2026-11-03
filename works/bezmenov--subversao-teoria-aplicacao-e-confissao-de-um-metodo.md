@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [guerra-politica, subversao-ideologica, propaganda, totalitarismo]
+places: [russia-urss]
+themes: [propaganda-ideologia, socialismo-marxismo]
 
 research_status: partially_researched
 missing: ["título original / relação com as palestras e escritos em inglês de

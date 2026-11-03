@@ -16,6 +16,8 @@ traditions: [sociologia-compreensiva]
 subjects: [desencantamento, neutralidade-axiologica, vocacao-cientifica,
            racionalizacao, universidade-moderna, especializacao,
            politeismo-de-valores]
+places: [alemanha]
+themes: [formacao-paideia, conhecimento-razao]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — a publicação da Cultrix não foi verificada",

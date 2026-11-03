@@ -14,6 +14,8 @@ date_sort: -1500
 period: null
 traditions: [literatura-mesopotamica]
 subjects: [cosmogonia, marduque, ordem-cosmica, genealogia-divina]
+places: [mesopotamia]
+themes: [mito-criacao, religioes-antigo-oriente, epica]
 
 research_status: partially_researched
 missing:

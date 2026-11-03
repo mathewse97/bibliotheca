@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [brasil]
+themes: [defesa]
 
 research_status: partially_researched
 missing: [date_written, work_type, "ano da 1ª edição"]

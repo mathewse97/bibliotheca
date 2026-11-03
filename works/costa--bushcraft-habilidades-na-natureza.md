@@ -14,6 +14,8 @@ date_sort: 2022
 period: null
 traditions: []
 subjects: [bushcraft, ferramentas-de-corte, abrigo, agua, fogo, nos-e-amarras]
+places: [brasil]
+themes: [sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type]

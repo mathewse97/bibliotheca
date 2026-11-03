@@ -15,6 +15,8 @@ period: modernidade
 traditions: [genealogia, critica-da-moral]
 subjects: [ressentimento, moral-de-senhores-e-escravos, ma-consciencia,
            ascetismo, origem-dos-valores]
+places: []
+themes: [vida-boa, cultura-decadencia]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

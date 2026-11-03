@@ -14,6 +14,8 @@ date_sort: 2002
 period: null
 traditions: []
 subjects: [plantas-medicinais, fitoterapia, etnofarmacologia, flora-brasileira]
+places: [brasil]
+themes: [plantas-cultivo, socorro-saude]
 
 research_status: partially_researched
 missing: [work_type]

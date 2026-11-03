@@ -15,6 +15,8 @@ period: iluminismo
 traditions: [filosofia-critica, estetica-moderna]
 subjects: [juizo-de-gosto, belo, sublime, desinteresse,
            universalidade-sem-conceito, autonomia-da-arte, finalidade]
+places: []
+themes: [estetica]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

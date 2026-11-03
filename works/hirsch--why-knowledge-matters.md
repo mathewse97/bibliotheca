@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [curriculo-de-conhecimento, critica-a-pedagogia-progressista,
            equidade-educacional, compreensao-leitora, core-knowledge]
+places: [estados-unidos]
+themes: [escola-pedagogia, aprendizagem]
 
 research_status: partially_researched
 missing: ["recepção acadêmica (há resenhas; não lidas)",

@@ -15,6 +15,8 @@ date_sort: 2005
 period: null
 traditions: [critica-textual]
 subjects: [transmissao-textual, manuscritos, novo-testamento]
+places: []
+themes: [jesus-cristianismo-antigo, biblia-judaismo]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 2006
 period: null
 traditions: []
 subjects: [grecia-classica, imperio-ateniense, guerra-do-peloponeso, seculo-iv, macedonia]
+places: [grecia]
+themes: [imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

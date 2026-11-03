@@ -19,6 +19,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [socorro-saude]
 
 research_status: partially_researched
 missing: [date_written, work_type]

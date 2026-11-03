@@ -14,6 +14,8 @@ date_sort: 2012
 period: null
 traditions: []
 subjects: [reforma-protestante, secularizacao, pluralismo, modernidade, bem-comum]
+places: []
+themes: [reforma, cultura-decadencia]
 
 research_status: partially_researched
 missing: [work_type]

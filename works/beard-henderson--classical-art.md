@@ -14,6 +14,8 @@ date_sort: 2001
 period: null
 traditions: []
 subjects: [arte, arqueologia, escultura, arquitetura, recepcao]
+places: [grecia, roma]
+themes: [arte-arqueologia, estetica]
 
 research_status: partially_researched
 missing: []

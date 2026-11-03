@@ -14,6 +14,8 @@ date_sort: 1599
 period: null
 traditions: []
 subjects: []
+places: [roma]
+themes: [tragedia-comedia, tirania]
 
 research_status: partially_researched
 missing:

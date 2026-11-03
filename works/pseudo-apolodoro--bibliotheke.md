@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [grecia]
+themes: [deuses-herois, mito-criacao]
 
 research_status: partially_researched
 missing: ["Data de composição: as fontes divergem entre os séculos I–II e II–III",

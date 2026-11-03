@@ -14,6 +14,8 @@ date_sort: 1996
 period: null
 traditions: []
 subjects: [christopher-mccandless, alasca, relato-biografico, vida-na-natureza]
+places: [estados-unidos]
+themes: [sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type]

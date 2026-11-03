@@ -14,6 +14,8 @@ date_sort: 1993
 period: null
 traditions: []
 subjects: [antiguidade-tardia, sociedade-e-economia, cidade-e-campo, cultura, declinio-ou-continuidade]
+places: [roma]
+themes: [imperios-ascensao-queda, jesus-cristianismo-antigo]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

@@ -16,6 +16,8 @@ period: null
 traditions: [sociologia-do-conhecimento]
 subjects: [construcao-social-da-realidade, legitimacao, secularizacao,
            universo-simbolico]
+places: []
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 80
 period: null
 traditions: [cristianismo-primitivo]
 subjects: [mateus, marcos, lucas, joao, narrativa-evangelica]
+places: [levante-israel]
+themes: [jesus-cristianismo-antigo]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 2004
 period: null
 traditions: [assiriologia]
 subjects: [religiao-mesopotamica, culto, panteao]
+places: [mesopotamia]
+themes: [religioes-antigo-oriente, mito-criacao, deuses-herois]
 
 research_status: partially_researched
 missing:

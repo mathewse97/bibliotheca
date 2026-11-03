@@ -14,6 +14,8 @@ date_sort: 632
 period: null
 traditions: []
 subjects: [isla, revelacao, lei, profecia]
+places: [mundo-islamico]
+themes: [isla]
 
 research_status: partially_researched
 missing: []

@@ -14,6 +14,8 @@ date_sort: -458
 period: null
 traditions: []
 subjects: []
+places: [grecia]
+themes: [tragedia-comedia, lei-natural]
 
 research_status: partially_researched
 missing: ["Título original em grego — não verificado em nenhuma fonte lida",

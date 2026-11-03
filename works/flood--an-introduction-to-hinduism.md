@@ -14,6 +14,8 @@ date_sort: 1996
 period: null
 traditions: []
 subjects: [hinduismo, vedas, ritual, devocao, yoga]
+places: [india]
+themes: [hinduismo]
 
 research_status: partially_researched
 missing: []

@@ -14,6 +14,8 @@ date_sort: -420
 period: null
 traditions: []
 subjects: [medicina, natureza, doenca, etica-medica, do-mito-a-explicacao]
+places: [grecia]
+themes: [medicina]
 
 research_status: partially_researched
 missing: []

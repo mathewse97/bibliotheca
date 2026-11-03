@@ -14,6 +14,8 @@ date_sort: 1949
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [romance, totalitarismo, propaganda-ideologia]
 
 research_status: partially_researched
 missing:

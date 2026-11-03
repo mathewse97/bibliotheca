@@ -14,6 +14,8 @@ date_sort: -1200
 period: null
 traditions: [literatura-mesopotamica]
 subjects: [diluvio, imortalidade, realeza, relacao-entre-homens-e-deuses]
+places: [mesopotamia]
+themes: [epica, deuses-herois, morte-finitude]
 
 research_status: partially_researched
 missing:

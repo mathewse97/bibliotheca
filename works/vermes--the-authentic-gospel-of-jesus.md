@@ -14,6 +14,8 @@ date_sort: 2003
 period: null
 traditions: [jesus-historico]
 subjects: [jesus-historico, judaismo-do-segundo-templo]
+places: [levante-israel]
+themes: [jesus-cristianismo-antigo]
 
 research_status: partially_researched
 missing:

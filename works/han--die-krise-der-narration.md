@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [narrativa, informacao, sociedade-digital, filosofia-social,
            critica-da-modernidade]
+places: []
+themes: [cultura-decadencia]
 
 research_status: partially_researched
 missing: [work_type, collection, period, "número de edição brasileira"]

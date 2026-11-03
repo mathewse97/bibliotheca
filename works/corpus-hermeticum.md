@@ -14,6 +14,8 @@ date_sort: 200
 period: null
 traditions: [hermetismo]
 subjects: [cosmologia, intelecto, regeneracao-espiritual]
+places: [egito-antigo, grecia]
+themes: [mistica-esoterismo]
 
 research_status: partially_researched
 missing:

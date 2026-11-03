@@ -14,6 +14,8 @@ date_sort: -500
 period: null
 traditions: [judaismo, cristianismo]
 subjects: [canone, escritura]
+places: [levante-israel]
+themes: [biblia-judaismo, jesus-cristianismo-antigo, mito-criacao]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 1994
 period: null
 traditions: [catolicismo-contemporaneo]
 subjects: [fe, esperanca, igreja, sentido-da-existencia]
+places: []
+themes: [igreja-teologia]
 
 research_status: partially_researched
 missing:

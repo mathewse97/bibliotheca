@@ -14,6 +14,8 @@ date_sort: 1271
 period: null
 traditions: []
 subjects: [lei-natural, lei, bem-comum, legitimidade, lei-injusta]
+places: [europa-medieval]
+themes: [lei-natural, igreja-teologia]
 
 research_status: partially_researched
 missing: []

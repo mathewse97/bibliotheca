@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [grecia]
+themes: [vida-boa, estetica]
 
 research_status: partially_researched
 missing: ["data/grupo cronológico com fonte tier 4–5 específica",

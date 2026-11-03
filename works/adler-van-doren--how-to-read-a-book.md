@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [leitura, niveis-de-leitura, leitura-analitica, leitura-sintopica,
            tipos-de-livro, grandes-livros, autoeducacao]
+places: []
+themes: [aprendizagem, formacao-paideia]
 
 research_status: partially_researched
 missing:

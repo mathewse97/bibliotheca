@@ -14,6 +14,8 @@ date_sort: 2007
 period: null
 traditions: []
 subjects: [antiguidade-tardia, imperio-romano-tardio, instituicoes, guerra, cristianizacao]
+places: [roma]
+themes: [imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

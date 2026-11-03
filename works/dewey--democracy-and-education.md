@@ -16,6 +16,8 @@ traditions: []                  # candidato: pragmatismo — a tradição não e
                                 # no vocabulário e não foi criada em silêncio
 subjects: [democracia, experiencia, crescimento, educacao-como-funcao-social,
            interesse-e-disciplina, metodo, curriculo, filosofia-da-educacao]
+places: [estados-unidos]
+themes: [escola-pedagogia, democracia]
 
 research_status: partially_researched
 missing:

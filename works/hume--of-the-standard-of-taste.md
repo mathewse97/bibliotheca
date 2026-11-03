@@ -15,6 +15,8 @@ period: iluminismo
 traditions: [empirismo-britanico, estetica-do-gosto]
 subjects: [gosto, padrao-de-gosto, beleza, juizo-estetico, criticos-verdadeiros,
            delicadeza-de-imaginacao]
+places: [inglaterra]
+themes: [estetica]
 
 research_status: partially_researched
 missing: ["sumário da edição escolhida (Edições 70, 2023)",

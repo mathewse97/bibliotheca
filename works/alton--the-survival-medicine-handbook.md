@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [medicina-de-sobrevivencia, cuidado-continuado-sem-medico, trauma,
            doencas-cronicas, infeccoes, medicamentos, odontologia, plantas-medicinais]
+places: []
+themes: [socorro-saude, sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type, "ano exato da 1ª edição (2013 pelo anúncio mais antigo achado)"]

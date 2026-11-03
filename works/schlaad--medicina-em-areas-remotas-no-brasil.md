@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [medicina-de-areas-remotas, medicina-de-expedicao, animais-peconhentos,
            doencas-tropicais, contexto-brasileiro]
+places: [brasil]
+themes: [socorro-saude, sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type, "lista de capítulos e autores (30 capítulos segundo uma livraria)"]

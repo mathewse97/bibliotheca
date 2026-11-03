@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [europa-medieval]
+themes: [tirania, lei-natural, igreja-teologia]
 
 research_status: not_researched
 priority_library: null          # curatorial; ★ da lista é escopo de coleção, não daqui

@@ -18,6 +18,8 @@ period: idade-media
 traditions: []
 subjects: [escolas-catedrais, idade-media, ideais-sociais, seculo-x-ao-xii,
            historia-da-educacao]
+places: [europa-medieval]
+themes: [escola-pedagogia, formacao-paideia]
 
 research_status: partially_researched
 missing: [tradutor, "ano da edição brasileira", "número de edição", work_type]

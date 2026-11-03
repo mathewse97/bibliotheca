@@ -14,6 +14,8 @@ date_sort: 1983
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [socorro-saude]
 
 research_status: partially_researched
 missing: [work_type, "edição brasileira/portuguesa — não identificada"]

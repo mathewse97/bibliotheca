@@ -14,6 +14,8 @@ date_sort: 2018
 period: null
 traditions: []
 subjects: [filosofia-da-mente, intencionalidade, consciencia, problema-mente-corpo]
+places: []
+themes: [conhecimento-razao]
 
 research_status: partially_researched
 missing: [work_type]

@@ -15,6 +15,8 @@ period: iluminismo
 traditions: [filosofia-critica, deontologia]
 subjects: [autonomia, dever, imperativo-categorico, dignidade,
            boa-vontade, lei-moral]
+places: []
+themes: [vida-boa, conhecimento-razao]
 
 research_status: partially_researched
 missing: ["veredito formal de edição: o Mathews escolheu em 2026-10-09 a

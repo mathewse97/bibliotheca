@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [neurociencia, emocao, razao, filosofia-da-mente,
            corpo-e-cognicao]
+places: []
+themes: [conhecimento-razao, medicina]
 
 research_status: partially_researched
 missing: [work_type, collection, period, "ano da 1ª edição brasileira"]

@@ -14,6 +14,8 @@ date_sort: -55
 period: null
 traditions: []
 subjects: [epicurismo, atomismo, morte, deuses, natureza]
+places: [roma]
+themes: [filosofia-modo-de-vida, astronomia-cosmologia, morte-finitude, poesia-lirica]
 
 research_status: partially_researched
 missing: []

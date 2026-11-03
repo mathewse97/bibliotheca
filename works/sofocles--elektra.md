@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [vinganca, matricidio, familia, luto]
+places: [grecia]
+themes: [tragedia-comedia]
 
 research_status: partially_researched
 missing: ["Data da encenação: incerta; costuma ser posta na fase final de Sófocles"]

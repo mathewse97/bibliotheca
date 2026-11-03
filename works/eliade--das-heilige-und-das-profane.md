@@ -14,6 +14,8 @@ date_sort: 1957
 period: null
 traditions: [fenomenologia-da-religiao]
 subjects: [sagrado-e-profano, espaco-sagrado, tempo-sagrado, hierofania]
+places: [mundo]
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing:

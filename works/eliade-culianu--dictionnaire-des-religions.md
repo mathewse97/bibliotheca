@@ -14,6 +14,8 @@ date_sort: 1990
 period: null
 traditions: []
 subjects: [referencia, comparacao]
+places: [mundo]
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing:

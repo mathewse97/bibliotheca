@@ -14,6 +14,8 @@ date_sort: -300
 period: null
 traditions: []
 subjects: [matematica, geometria, demonstracao, axiomas]
+places: [grecia]
+themes: [matematica]
 
 research_status: partially_researched
 missing: []

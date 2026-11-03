@@ -17,6 +17,8 @@ traditions: []
 subjects: [plasticidade-cerebral, atencao, engajamento-ativo,
            feedback-de-erro, consolidacao, aprendizagem-da-leitura,
            cognicao-numerica, aprendizagem-de-maquina]
+places: []
+themes: [aprendizagem]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 2018
 period: null
 traditions: []
 subjects: []
+places: [estados-unidos]
+themes: [democracia, tirania]
 
 research_status: partially_researched
 missing: ["recepção acadêmica", "work_type (classificação nova, vai a revisão)"]

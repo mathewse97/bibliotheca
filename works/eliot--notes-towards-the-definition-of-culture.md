@@ -14,6 +14,8 @@ date_sort: 1948
 period: null
 traditions: []
 subjects: [cultura, transmissao-cultural, religiao-e-cultura, elites, regiao, tradicao]
+places: [inglaterra]
+themes: [cultura-decadencia, conservadorismo]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

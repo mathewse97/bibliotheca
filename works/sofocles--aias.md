@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [honra, loucura, suicidio, guerra-de-troia, sepultura]
+places: [grecia]
+themes: [tragedia-comedia]
 
 research_status: partially_researched
 missing: ["Data da encenação: incerta; costuma ser posta entre as primeiras peças de Sófocles"]

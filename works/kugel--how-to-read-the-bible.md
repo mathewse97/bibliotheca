@@ -14,6 +14,8 @@ date_sort: 2007
 period: null
 traditions: [exegese]
 subjects: [interpretacao-biblica, antigos-interpretes, critica-moderna]
+places: [levante-israel]
+themes: [biblia-judaismo]
 
 research_status: partially_researched
 missing:

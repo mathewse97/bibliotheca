@@ -14,6 +14,8 @@ date_sort: 8
 period: null
 traditions: []
 subjects: [religiao-romana, calendario, festas, mito, augusto]
+places: [roma]
+themes: [religiao-greco-romana, poesia-lirica]
 
 research_status: partially_researched
 missing: []

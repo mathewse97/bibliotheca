@@ -14,6 +14,8 @@ date_sort: -1754
 period: null
 traditions: []
 subjects: [direito, realeza, sociedade-babilonica, justica]
+places: [mesopotamia]
+themes: [lei-natural, vida-cotidiana]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

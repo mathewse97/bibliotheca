@@ -15,6 +15,8 @@ date_sort: 2004
 period: null
 traditions: []
 subjects: [monoteismo, israel-antigo, memoria, tradicoes-cananeias]
+places: [levante-israel]
+themes: [biblia-judaismo, religioes-antigo-oriente]
 
 research_status: partially_researched
 missing:

@@ -16,6 +16,8 @@ date_sort: 2019
 period: null
 traditions: [critica-historica-da-biblia]
 subjects: [composicao-da-tora, pentateuco, arqueologia, exilio]
+places: [levante-israel]
+themes: [biblia-judaismo, arte-arqueologia]
 
 research_status: partially_researched
 missing:

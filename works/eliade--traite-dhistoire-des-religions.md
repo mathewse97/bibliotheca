@@ -14,6 +14,8 @@ date_sort: 1949
 period: null
 traditions: [fenomenologia-da-religiao]
 subjects: [hierofania, sagrado, morfologia-do-sagrado]
+places: [mundo]
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing:

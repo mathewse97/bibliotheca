@@ -15,6 +15,8 @@ date_sort: 1983
 period: null
 traditions: [fenomenologia-da-religiao]
 subjects: [historia-das-religioes]
+places: [mundo]
+themes: [teoria-religiao, isla, igreja-teologia]
 
 research_status: partially_researched
 missing:

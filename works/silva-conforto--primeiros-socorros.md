@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [primeiros-socorros, emergencia, saude-leiga]
+places: [brasil]
+themes: [socorro-saude]
 
 research_status: partially_researched
 missing: [ano, "número de edição", "ISBN-13 verificado em fonte tier 1-5",

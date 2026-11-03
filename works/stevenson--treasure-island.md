@@ -14,6 +14,8 @@ date_sort: 1883
 period: null
 traditions: []
 subjects: [aventura, piratas, romance]
+places: [inglaterra]
+themes: [romance]
 
 research_status: partially_researched
 missing: [work_type]

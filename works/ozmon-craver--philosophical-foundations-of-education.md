@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [escola-pedagogia]
 
 research_status: partially_researched
 missing: ["Ano da primeira edição americana, e quantas edições existem ao todo",

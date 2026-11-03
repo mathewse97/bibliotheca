@@ -14,6 +14,8 @@ date_sort: 1912
 period: null
 traditions: []
 subjects: [sociologia-da-religiao, totemismo, sagrado-e-profano, rito, sociedade]
+places: []
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

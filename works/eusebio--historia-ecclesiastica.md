@@ -14,6 +14,8 @@ date_sort: 325
 period: null
 traditions: []
 subjects: [igreja, cristianismo-primitivo, perseguicoes, martires, constantino]
+places: [roma]
+themes: [jesus-cristianismo-antigo, historiografia]
 
 research_status: partially_researched
 missing: []

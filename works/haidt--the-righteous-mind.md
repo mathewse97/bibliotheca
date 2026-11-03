@@ -18,6 +18,8 @@ period: null
 traditions: []
 subjects: [psicologia-moral, politica, religiao, intuicao-moral,
            polarizacao]
+places: []
+themes: [conhecimento-razao, conservadorismo, liberalismo]
 
 research_status: partially_researched
 missing: [work_type, collection, period, "ano da 1ª edição brasileira"]

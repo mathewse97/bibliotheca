@@ -14,6 +14,8 @@ date_sort: -150
 period: null
 traditions: []
 subjects: [roma, imperio, guerras-punicas, historiografia, constituicao]
+places: [roma, grecia]
+themes: [historiografia, imperio, imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: ["Livro VI (a constituição romana): não está nesta edição"]

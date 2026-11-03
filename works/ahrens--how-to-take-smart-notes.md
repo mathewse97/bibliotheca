@@ -14,6 +14,8 @@ date_sort: 2017
 period: null
 traditions: []
 subjects: [zettelkasten, anotacoes, escrita, aprendizagem]
+places: []
+themes: [aprendizagem]
 
 research_status: partially_researched
 missing: [work_type]

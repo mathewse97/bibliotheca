@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [casamento, ciume, destino, heracles]
+places: [grecia]
+themes: [tragedia-comedia, deuses-herois]
 
 research_status: partially_researched
 missing: ["Data da encenação: incerta"]

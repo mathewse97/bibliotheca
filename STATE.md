@@ -279,8 +279,9 @@ Teatro completo VI da Editora 34.
   fica registrada como edição de estudo, pelo ensaio dele.
 - **Lugar e tema das obras (2026-11-03):** listas aprovadas (cartão
   `d-reg-lugar-tema`) e gravadas em `config/lugar-tema.yaml`; campos `places`
-  e `themes` nas obras. Os fios do Guia do ano saem dessas marcas. Marcadas:
-  as obras do plano de 2027. Falta marcar o resto da biblioteca.
+  e `themes` nas obras. Os fios do Guia do ano saem dessas marcas. Todas as
+  272 obras estão marcadas (o plano de 2027 primeiro, o resto em seguida).
+  Obra nova entra já com lugar e tema; o build avisa valor fora da lista.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido

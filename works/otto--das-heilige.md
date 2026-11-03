@@ -15,6 +15,8 @@ date_sort: 1917
 period: null
 traditions: []
 subjects: [sagrado, numinoso, experiencia-religiosa, fenomenologia-da-religiao]
+places: []
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

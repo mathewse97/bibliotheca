@@ -14,6 +14,8 @@ date_sort: 2018
 period: null
 traditions: []
 subjects: [helenismo, reinos-helenisticos, conquista-romana, polis, cultura-helenistica]
+places: [grecia, roma]
+themes: [imperio, imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]
