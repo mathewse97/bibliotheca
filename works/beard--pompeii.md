@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -80, to: 79}
 traditions: []
 subjects: [pompeia, vida-cotidiana, arqueologia, cidade-romana]
+places: [roma]
+themes: [vida-cotidiana, arte-arqueologia]
 
 research_status: partially_researched
 missing: []

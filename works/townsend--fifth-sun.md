@@ -15,6 +15,8 @@ period: null
 period_covered: {from: 1300, to: 1650}
 traditions: []
 subjects: [astecas, nauas, mexico, conquista]
+places: [mesoamerica]
+themes: [colonizacao-conquista, imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: []

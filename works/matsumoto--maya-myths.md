@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -500, to: 1550}
 traditions: []
 subjects: [maias, mitologia, popol-vuh]
+places: [mesoamerica]
+themes: [mito-criacao, deuses-herois]
 
 research_status: partially_researched
 missing: []

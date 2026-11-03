@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -356, to: -323}
 traditions: []
 subjects: []
+places: [grecia, persia]
+themes: [imperio, vida-boa, guerra-estrategia]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui

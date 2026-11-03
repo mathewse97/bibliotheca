@@ -1183,7 +1183,8 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .gp .grow{cursor:pointer}.gp .grow:hover .glab{fill:var(--ink)}
 .gp .gfios{padding:16px 18px}.gp .gchips{display:flex;flex-wrap:wrap;gap:8px}
 .gp .gchip{font:inherit;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);border-radius:99px;padding:5px 12px;font-size:13px;cursor:pointer;display:flex;gap:8px;align-items:center}
-.gp .gchip i{width:10px;height:10px;border-radius:50%}.gp .gchip.on{border-color:var(--ink);background:var(--surface-3)}
+.gp .gchip i{width:10px;height:10px;border-radius:50%}
+.gp .gkind{flex-basis:100%;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);font-weight:700;margin-top:6px}.gp .gkind:first-child{margin-top:0}.gp .gchip.on{border-color:var(--ink);background:var(--surface-3)}
 .gp .gft{min-height:48px;color:var(--ink-soft);font-size:14.5px;margin:10px 0 0;display:flex;align-items:center}
 .gp .garcs svg{display:block;width:100%;height:auto}
 .gp .gpeso{padding:22px 18px 14px}
@@ -2850,7 +2851,6 @@ function vPubs(){
    até serem gravadas na pasta da biblioteca ou coladas na conversa.        */
 const GP_MN=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
 const GP_MA=GP_MN.map(m=>m.slice(0,3));
-const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8'];
 const GP = {year:null, plan:null, sel:null, ix:0, editing:false, hist:[], snap:null, fio:null, fioView:null, tint:{}, q:'', measure:false};
 const gpDays = (y,m)=> new Date(y, m+1, 0).getDate();
 const gpKey = y => 'bib.plano.'+y;
@@ -3091,9 +3091,39 @@ function gpTimeline(){
   el.querySelectorAll('.grow').forEach(g=>{ g.onmousemove = e=>gpTip(e, decodeURIComponent(g.dataset.h)); g.onmouseleave = gpTipOff;
     g.onclick = ()=>{ gpPick(+g.dataset.m); document.getElementById('gp-strip').scrollIntoView({behavior:'smooth', block:'nearest'}); }; });
 }
+/* Fios do ano: saem das marcas de lugar e tema das obras e das relações entre
+   elas (config/lugar-tema.yaml; cartão d-reg-lugar-tema, 2026-11-03). Um fio só
+   existe quando liga obras de pelo menos dois meses. A frase vem de
+   thread_notes do plano, se houver; senão, a página escreve a lista. */
+const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8','#9CC46B','#F0866B','#8E9AF2','#5FC4B0'];
+function gpThreads(){
+  const lt = D.lugar_tema||{}, PL = lt.places||{}, TH = lt.themes||{}, GR = lt.theme_groups||{}, skip = new Set(lt.no_thread_places||[]);
+  const notes = (D.plans[GP.year]||{}).thread_notes||{}, by = {}, wm = {};
+  GP_MA.forEach((_,i)=>gpItems(i).forEach(it=>gpWorks(it).forEach(wid=>{ (wm[wid]=wm[wid]||new Set()).add(i);
+    const w = W(wid)||{};
+    (w.places||[]).forEach(k=>{ if(skip.has(k)||!PL[k]) return; (by['p:'+k]=by['p:'+k]||{kind:'lugar',key:k,name:PL[k],ms:new Set(),ws:[]}); by['p:'+k].ms.add(i); by['p:'+k].ws.push([wid,i]); });
+    (w.themes||[]).forEach(k=>{ const t=TH[k]; if(!t) return; (by['t:'+k]=by['t:'+k]||{kind:'tema',key:k,name:t.label,group:t.group,ms:new Set(),ws:[]}); by['t:'+k].ms.add(i); by['t:'+k].ws.push([wid,i]); });
+  })));
+  Object.keys(wm).forEach(a=>((W(a)||{}).relations||[]).forEach(r=>{ const b=r.target; if(!wm[b]) return;
+    const ma=[...wm[a]][0], mb=[...wm[b]][0]; if(ma===mb) return;
+    const k='dialogo:'+a+'>'+b; by[k]={kind:'dialogo',key:k,name:`${wTitle(a).split(':')[0]} · ${wTitle(b).split(':')[0]}`,rel:(REL_PT[r.type]||r.type),ms:new Set([ma,mb]),ws:[[a,ma],[b,mb]]}; }));
+  const gOrder = Object.keys(GR);
+  const list = Object.values(by).filter(t=>t.ms.size>=2).map(t=>{
+    const ws = [...new Map(t.ws.map(([w,i])=>[w,i])).entries()].sort((x,y)=>x[1]-y[1]);
+    const auto = t.kind==='dialogo' ? `${t.rel}: ${ws.map(([w,i])=>`${wTitle(w).split(':')[0]} (${GP_MA[i]})`).join(' e ')}.`
+      : `${t.kind==='lugar'?'Lugar':'Tema'}: ${t.name}. Liga ${ws.map(([w,i])=>`${wTitle(w).split(':')[0]} (${GP_MA[i]})`).join(', ')}.`;
+    return {kind:t.kind, key:t.key, name:t.name, group:t.group, months:[...t.ms].sort((a,b)=>a-b).map(m=>m+1), text:notes[t.key]||auto};
+  });
+  const ko = {lugar:0, tema:1, dialogo:2};
+  list.sort((a,b)=>ko[a.kind]-ko[b.kind] || (a.kind==='tema' ? gOrder.indexOf(a.group)-gOrder.indexOf(b.group) : 0) || b.months.length-a.months.length || a.name.localeCompare(b.name,'pt'));
+  return list;
+}
 function gpFios(){
-  const th = D.plans[GP.year].threads || [], ch = document.getElementById('gp-chips');
-  ch.innerHTML = th.map((f,i)=>`<button class="gchip${GP.fio===i?' on':''}" data-i="${i}"><i style="background:${GP_FIO[i%GP_FIO.length]}"></i>${E(f.name)}</button>`).join('');
+  const th = GP.threads = gpThreads(), ch = document.getElementById('gp-chips');
+  const KN = {lugar:'Lugares', tema:'Temas', dialogo:'Diálogos'}; let last = null, html = '';
+  th.forEach((f,i)=>{ if(f.kind!==last){ html += `<span class="gkind">${KN[f.kind]}</span>`; last = f.kind; }
+    html += `<button class="gchip${GP.fio===i?' on':''}" data-i="${i}"><i style="background:${GP_FIO[i%GP_FIO.length]}"></i>${E(f.name)}</button>`; });
+  ch.innerHTML = html || '<span class="gempty">Nenhum fio: as obras do plano ainda não têm lugar nem tema em comum.</span>';
   const ft = document.getElementById('gp-ft'), base = 'Passe o mouse ou toque num fio para ver o que liga os livros.';
   const show = i => { GP.fioView = i; ft.textContent = i===null ? base : (th[i].text||''); ch.querySelectorAll('.gchip').forEach(z=>z.classList.toggle('on', +z.dataset.i===GP.fio)); gpArcs(); };
   ch.querySelectorAll('.gchip').forEach(c=>{ const i = +c.dataset.i;
@@ -3103,15 +3133,16 @@ function gpFios(){
   ft.style.minHeight = ''; let mh = 0;
   [base, ...th.map(t=>t.text||'')].forEach(x=>{ ft.textContent = x; mh = Math.max(mh, ft.offsetHeight); });
   ft.style.minHeight = mh + 'px';
+  if(GP.fio!==null && GP.fio>=th.length) GP.fio = null;
   show(GP.fio);
 }
 function gpArcs(){
-  const th = D.plans[GP.year].threads || [], t = gpToday(), cm = t.phase==='durante'?t.m:-1, AW=1000, base=170, nx = i=>40+i*(AW-80)/11;
+  const th = GP.threads||[], t = gpToday(), cm = t.phase==='durante'?t.m:-1, AW=1000, base=170, nx = i=>40+i*(AW-80)/11;
   let a = `<svg viewBox="0 0 ${AW} 220" role="img" aria-label="Meses que conversam entre si">`;
   const act = GP.fioView ?? GP.fio;
   th.forEach((f,fi)=>{ const ms = (f.months||[]).map(m=>m-1).sort((p,q)=>p-q), on = act===null||act===undefined||act===fi, c = GP_FIO[fi%GP_FIO.length];
-    for(let k=0;k<ms.length-1;k++){ const x1=nx(ms[k]), x2=nx(ms[k+1]), h=Math.min(140,(x2-x1)*.5+14+fi*3);
-      a += `<path d="M${x1},${base-26} C${x1},${base-26-h} ${x2},${base-26-h} ${x2},${base-26}" fill="none" stroke="${c}" stroke-width="${act===fi?4:2.2}" stroke-linecap="round" opacity="${on?.95:.1}"/>`; } });
+    for(let k=0;k<ms.length-1;k++){ const x1=nx(ms[k]), x2=nx(ms[k+1]), h=Math.min(140,(x2-x1)*.5+14+(fi%8)*3);
+      a += `<path d="M${x1},${base-26} C${x1},${base-26-h} ${x2},${base-26-h} ${x2},${base-26}" fill="none" stroke="${c}" stroke-width="${act===fi?4:2.2}" stroke-linecap="round" opacity="${on?(act===null||act===undefined?.55:.95):.08}"/>`; } });
   GP_MA.forEach((m,i)=>{ const it = gpItems(i)[0], cv = it && gpCover(it), past = t.phase==='depois'||(t.phase==='durante'&&i<t.m);
     a += `<g class="grow" data-m="${i}"><clipPath id="gpc${i}"><circle cx="${nx(i)}" cy="${base}" r="22"/></clipPath>${cv?`<image href="${cv}" x="${nx(i)-22}" y="${base-33}" width="44" height="66" clip-path="url(#gpc${i})" preserveAspectRatio="xMidYMid slice" opacity="${past||i===cm?1:.55}"/>`:`<circle cx="${nx(i)}" cy="${base}" r="22" fill="var(--surface-3)"/>`}<circle cx="${nx(i)}" cy="${base}" r="22" fill="none" stroke="${i===cm?'var(--accent)':'var(--rule)'}" stroke-width="${i===cm?3:1.5}"/><text x="${nx(i)}" y="${base+40}" text-anchor="middle" font-size="12" fill="${i===cm?'var(--accent)':'var(--ink-soft)'}" font-weight="${i===cm?700:400}">${m}</text></g>`; });
   const el = document.getElementById('gp-arcs'); el.innerHTML = a + '</svg>';
@@ -3172,7 +3203,8 @@ function gpYaml(){
     its.forEach(it=>{ y += it.works ? `    - works: [${it.works.join(', ')}]\n` : `    - work: ${it.work}\n`;
       if(it.title) y += `      title: ${q(it.title)}\n`; if(it.publication) y += `      publication: ${it.publication}\n`;
       if(it.before) y += `      before: ${ref(it.before)}\n`; if(it.after) y += `      after: ${ref(it.after)}\n`; }); }
-  y += `\nthreads:\n` + (D.plans[GP.year].threads||[]).map(t=>`  - name: ${q(t.name)}\n${t.kind?`    kind: ${t.kind}\n`:''}    months: [${(t.months||[]).join(', ')}]\n    text: ${q(t.text||'')}\n`).join('');
+  const nt = (D.plans[GP.year].thread_notes)||{};
+  y += `\nthread_notes:\n` + Object.entries(nt).map(([k,v])=>`  ${k}: ${q(v)}\n`).join('');
   return y;
 }
 async function gpSave(){

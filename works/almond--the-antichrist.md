@@ -15,6 +15,8 @@ period: null
 period_covered: {from: 90, to: 2000}
 traditions: []
 subjects: [anticristo, apocalipse, escatologia, historia-das-ideias]
+places: []
+themes: [fim-dos-tempos, igreja-teologia]
 
 research_status: partially_researched
 missing: []

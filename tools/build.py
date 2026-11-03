@@ -861,6 +861,22 @@ def build():
                                "path": os.path.relpath(f, ROOT),
                                "body_html": md(body)})
 
+    # ---- lugar e tema das obras (config/lugar-tema.yaml) -----------------
+    # Listas fechadas aprovadas em 2026-11-03 (cartão d-reg-lugar-tema).
+    lt = load_yaml(os.path.join(ROOT, "config/lugar-tema.yaml")) or {}
+    idx["lugar_tema"] = lt
+    _pl, _th = lt.get("places") or {}, lt.get("themes") or {}
+    for wid, w in idx["works"].items():
+        for k, voc, lim in (("places", _pl, 3), ("themes", _th, 4)):
+            vals = w.get(k) or []
+            if not isinstance(vals, list):
+                issues.append({"kind": "lugar-tema-formato", "where": wid, "ref": k}); continue
+            for v in vals:
+                if v not in voc:
+                    issues.append({"kind": "lugar-tema-valor-desconhecido", "where": wid, "ref": "%s: %s" % (k, v)})
+            if len(vals) > lim:
+                issues.append({"kind": "lugar-tema-demais", "where": wid, "ref": "%s: %d" % (k, len(vals))})
+
     # ---- planos de leitura (plans/<ano>.yaml) ---------------------------
     # Lidos pela página "Guia do ano". A build só confere as referências: obra,
     # edição e mês precisam existir. Ver config/interface-rules.md §16.
@@ -897,7 +913,11 @@ def build():
             for m in t.get("months") or []:
                 if not (isinstance(m, int) and 1 <= m <= 12):
                     issues.append({"kind": "plano-mes-invalido", "where": where, "ref": m})
-        idx["plans"][year] = {"year": year, "months": months,
+        notes = pl.get("thread_notes") or {}
+        for k in notes:
+            if k not in _pl and k not in _th and not str(k).startswith("dialogo:"):
+                issues.append({"kind": "plano-nota-de-fio-desconhecida", "where": where, "ref": k})
+        idx["plans"][year] = {"year": year, "months": months, "thread_notes": notes,
                               "threads": pl.get("threads") or [], "path": where}
 
     # ---- obras sem coleção ----------------------------------------------

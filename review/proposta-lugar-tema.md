@@ -3,7 +3,7 @@ collection: null
 kind: proposta de vocabulário (lugar e tema das obras)
 by: claude
 date: 2026-11-03
-status: "aguardando o Mathews (cartão d-reg-lugar-tema)"
+status: "aprovada pelo Mathews em 2026-11-03 (cartão d-reg-lugar-tema, opção A); listas em config/lugar-tema.yaml"
 ---
 
 # Lugar e tema das obras — proposta de listas

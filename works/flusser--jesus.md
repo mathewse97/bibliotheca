@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -4, to: 33}
 traditions: []
 subjects: [jesus, judaismo-do-segundo-templo, evangelhos]
+places: [levante-israel]
+themes: [jesus-cristianismo-antigo, biblia-judaismo]
 
 research_status: partially_researched
 missing: []

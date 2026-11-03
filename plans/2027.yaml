@@ -12,9 +12,7 @@
 #     ou a recomendada.
 #   before / after: "Antes de ler" e "Depois de ler". `work` é opcional e,
 #     quando existe, vira link para a obra.
-# threads: os fios do ano — meses que conversam entre si. PROVISÓRIOS: escritos à
-#   mão até existirem as listas de lugar e tema (review/proposta-lugar-tema.md);
-#   depois, os fios passam a sair dos dados das obras. `kind`: lugar | tema | dialogo.
+# thread_notes: frases opcionais que explicam um fio (ver no fim do arquivo).
 # ---------------------------------------------------------------------------
 year: 2027
 
@@ -65,32 +63,14 @@ months:
     - work: frankopan--the-silk-roads
       after: {work: brown-peter--the-world-of-late-antiquity, note: "Greco-Romana, movimento XI: o mesmo mundo, visto de Roma."}
 
-threads:
-  - name: "Roma"
-    kind: lugar
-    months: [1, 2, 4]
-    text: "O império que Woolf conta em janeiro volta em fevereiro pelas vidas de César e Alexandre, e em abril pelo chão de uma cidade."
-  - name: "Mito e deuses"
-    kind: tema
-    months: [5, 6, 11]
-    text: "Duas criações do mundo, a grega de Hesíodo e a maia, lidas com a mesma pergunta: de onde vêm os deuses?"
-  - name: "Cristianismo"
-    kind: tema
-    months: [3, 8]
-    text: "Do Jesus judeu do século I à figura que os cristãos imaginaram como o seu inimigo final."
-  - name: "Grécia"
-    kind: lugar
-    months: [2, 5, 6, 7]
-    text: "A Grécia antiga do começo ao fim: os deuses e o trabalho em Hesíodo, a filosofia como modo de vida em Hadot e Alexandre, o grego que levou essa cultura até a Índia."
-  - name: "Ética: a vida boa"
-    kind: tema
-    months: [6, 7]
-    text: "Hesíodo aconselha o irmão sobre como viver com justiça; Hadot mostra a filosofia antiga como resposta à mesma pergunta."
-  - name: "Américas"
-    kind: lugar
-    months: [9, 10, 11]
-    text: "Os povos do México antes da conquista e os ladrões do mar no litoral do Brasil colonial."
-  - name: "Mundo"
-    kind: lugar
-    months: [1, 12]
-    text: "O mesmo mundo antigo visto do Mediterrâneo, em janeiro, e da Rota da Seda, em dezembro."
+# Frases opcionais dos fios. Os fios em si saem das marcas de lugar e tema das
+# obras (config/lugar-tema.yaml) e das relações entre elas; aqui só se escreve a
+# frase que explica um fio, pela chave do lugar ou do tema.
+thread_notes:
+  grecia: "A Grécia antiga do começo ao fim do ano: Alexandre, os deuses e o trabalho em Hesíodo, a filosofia como modo de vida em Hadot."
+  roma: "O império que Woolf conta em janeiro volta em fevereiro pela vida de César, em abril pelo chão de uma cidade e em julho nas escolas de filosofia."
+  mesoamerica: "Os povos do México antes e depois da conquista: a história dos astecas e os mitos dos maias."
+  vida-boa: "Plutarco julga a vida de dois conquistadores, Hesíodo aconselha o irmão a viver com justiça, e Hadot mostra a filosofia como resposta à mesma pergunta."
+  mito-criacao: "Duas criações do mundo, a grega de Hesíodo e a maia, lidas com a mesma pergunta: de onde vêm os deuses?"
+  deuses-herois: "Os deuses e heróis da Grécia e do mundo maia."
+  colonizacao-conquista: "O encontro com os europeus visto do Brasil colonial e do México."

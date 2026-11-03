@@ -215,7 +215,8 @@ items:
   kind: regra
   collections: []
   priority: media
-  state: decidir
+  state: decidida
+  decided: {date: 2026-11-03, choice: "Opção A — aprovar as listas como estão.", note: "Aplicado: listas em config/lugar-tema.yaml, conferidas pela build; obras do plano de 2027 marcadas; os fios do Guia do ano passaram a sair das marcas e das relações entre obras, agrupados em Lugares, Temas e Diálogos. O resto da biblioteca é marcado em seguida."}
   source: review/proposta-lugar-tema.md
   question: "Aprovar as listas de lugar e tema que vão marcar as obras?"
   why: "Os fios do Guia do ano e o mapa histórico precisam de critério que sirva a qualquer obra. A proposta cria duas listas fechadas: lugares, num nível só (Grécia, Roma, Rússia e URSS, Brasil…), e temas, em dois níveis (o geral agrupa, como Política e poder; o específico vira fio, como Totalitarismo ou Democracia). Os fios passam a sair dessas marcas e das relações já registradas entre as obras. A proposta inteira, com as listas e os exemplos, está na revisão citada."
