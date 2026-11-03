@@ -14,6 +14,8 @@ date_sort: 2011
 period: null
 traditions: []
 subjects: [egito-antigo, estado, sociedade, economia, cultura]
+places: [egito-antigo]
+themes: [imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

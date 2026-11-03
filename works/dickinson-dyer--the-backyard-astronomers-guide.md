@@ -14,6 +14,8 @@ date_sort: 1991
 period: null
 traditions: []
 subjects: [astronomia-amadora, observacao, binoculos, telescopios, astrofotografia]
+places: []
+themes: [astronomia-cosmologia]
 
 research_status: partially_researched
 missing: [work_type, "ano exato da 1ª edição (anúncio diz 'quase 30 anos' em 2021)"]

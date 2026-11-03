@@ -14,6 +14,8 @@ date_sort: 1987
 period: null
 traditions: []
 subjects: [ritual, lugar, sagrado, teoria-da-religiao, critica-a-eliade]
+places: []
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing: []

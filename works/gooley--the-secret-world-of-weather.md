@@ -14,6 +14,8 @@ date_sort: 2021
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [sobrevivencia]
 
 research_status: partially_researched
 missing: ["Ano e editora da primeira edição britânica",

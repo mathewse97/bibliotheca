@@ -14,6 +14,8 @@ date_sort: 1959
 period: null
 traditions: [budismo-theravada]
 subjects: [quatro-nobres-verdades, nirvana, nao-eu]
+places: [india]
+themes: [budismo]
 
 research_status: partially_researched
 missing:

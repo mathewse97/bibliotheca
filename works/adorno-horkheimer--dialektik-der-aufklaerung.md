@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [teoria-critica, marxismo-ocidental]
 subjects: [industria-cultural, razao-instrumental, esclarecimento,
            dominacao, mito, cultura-de-massa]
+places: []
+themes: [cultura-decadencia, conhecimento-razao, propaganda-ideologia]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

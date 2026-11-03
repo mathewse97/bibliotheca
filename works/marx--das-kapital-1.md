@@ -14,6 +14,8 @@ date_sort: 1867
 period: null
 traditions: []
 subjects: [capitalismo, mercadoria, trabalho, mais-valia, acumulacao]
+places: [inglaterra]
+themes: [socialismo-marxismo, economia-trabalho]
 
 research_status: partially_researched
 missing: []

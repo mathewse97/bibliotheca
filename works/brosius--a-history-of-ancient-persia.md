@@ -14,6 +14,8 @@ date_sort: 2020
 period: null
 traditions: []
 subjects: [persia-aquemenida, imperio, fontes-gregas, guerras-medicas]
+places: [persia]
+themes: [imperio, imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

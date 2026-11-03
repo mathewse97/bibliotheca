@@ -14,6 +14,8 @@ date_sort: 1923
 period: modernidade-tardia
 traditions: [marxismo-ocidental]
 subjects: [reificacao, consciencia-de-classe, totalidade, mercadoria]
+places: []
+themes: [socialismo-marxismo]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

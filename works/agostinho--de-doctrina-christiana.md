@@ -20,6 +20,8 @@ period: null
 traditions: []
 subjects: [interpretacao-da-escritura, retorica, artes-liberais,
            cristianismo-e-cultura-classica, ensino]
+places: [roma]
+themes: [igreja-teologia, formacao-paideia, biblia-judaismo]
 
 research_status: partially_researched
 missing:

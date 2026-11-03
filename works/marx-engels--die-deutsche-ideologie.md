@@ -15,6 +15,8 @@ period: modernidade
 traditions: [materialismo-historico]
 subjects: [concepcao-materialista-da-historia, ideologia, modo-de-producao,
            consciencia-social, divisao-do-trabalho]
+places: [alemanha]
+themes: [socialismo-marxismo, propaganda-ideologia]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

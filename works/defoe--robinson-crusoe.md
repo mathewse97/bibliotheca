@@ -14,6 +14,8 @@ date_sort: 1719
 period: null
 traditions: []
 subjects: [naufragio, ilha-deserta, sobrevivencia, romance]
+places: [inglaterra]
+themes: [romance, sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type]

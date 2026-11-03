@@ -14,6 +14,8 @@ date_sort: 1762
 period: null
 traditions: []
 subjects: [educacao-natural, infancia, desenvolvimento, educacao-negativa, religiao-natural]
+places: [franca]
+themes: [escola-pedagogia, formacao-paideia]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

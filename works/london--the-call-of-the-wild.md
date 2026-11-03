@@ -14,6 +14,8 @@ date_sort: 1903
 period: null
 traditions: []
 subjects: [klondike, corrida-do-ouro, caes-de-treno, romance]
+places: [estados-unidos]
+themes: [romance, sobrevivencia]
 
 research_status: partially_researched
 missing: [work_type]

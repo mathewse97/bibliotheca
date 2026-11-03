@@ -15,6 +15,8 @@ date_sort: 1820
 period: null
 traditions: [racionalismo-religioso]
 subjects: [etica-crista, selecao-dos-evangelhos]
+places: [estados-unidos]
+themes: [jesus-cristianismo-antigo]
 
 research_status: partially_researched
 missing:

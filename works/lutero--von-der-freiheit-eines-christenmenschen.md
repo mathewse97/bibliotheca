@@ -14,6 +14,8 @@ date_sort: 1520
 period: null
 traditions: []
 subjects: [reforma, justificacao-pela-fe, liberdade, graca]
+places: [alemanha]
+themes: [reforma]
 
 research_status: partially_researched
 missing: []

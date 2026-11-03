@@ -14,6 +14,8 @@ date_sort: 1973
 period: null
 traditions: []
 subjects: [totalitarismo, uniao-sovietica, gulag, repressao, testemunho]
+places: [russia-urss]
+themes: [totalitarismo]
 
 research_status: partially_researched
 missing: []

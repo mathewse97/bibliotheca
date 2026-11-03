@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [roma]
+themes: [tragedia-comedia, democracia]
 
 research_status: partially_researched
 missing:

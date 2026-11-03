@@ -14,6 +14,8 @@ date_sort: -300
 period: null
 traditions: [budismo-theravada]
 subjects: [etica, disciplina-mental, desapego]
+places: [india]
+themes: [budismo, vida-boa]
 
 research_status: partially_researched
 missing:

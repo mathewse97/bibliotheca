@@ -14,6 +14,8 @@ date_sort: 1941
 period: null
 traditions: []
 subjects: [judaismo, mistica, cabala, hassidismo, zohar]
+places: []
+themes: [biblia-judaismo, mistica-esoterismo]
 
 research_status: partially_researched
 missing: []

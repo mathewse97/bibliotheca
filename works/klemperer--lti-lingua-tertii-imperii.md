@@ -14,6 +14,8 @@ date_sort: 1947
 period: null
 traditions: []
 subjects: []
+places: [alemanha]
+themes: [totalitarismo, propaganda-ideologia]
 
 research_status: partially_researched
 missing: ["recepção acadêmica", "work_type (classificação nova, vai a revisão)"]

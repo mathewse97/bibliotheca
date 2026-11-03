@@ -19,6 +19,8 @@ period: null
 traditions: []
 subjects: [educacao-liberal, universidade, conhecimento-como-fim,
            teologia-no-saber, formacao-intelectual]
+places: [inglaterra]
+themes: [formacao-paideia, escola-pedagogia]
 
 research_status: partially_researched
 missing:

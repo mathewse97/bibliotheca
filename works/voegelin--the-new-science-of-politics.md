@@ -14,6 +14,8 @@ date_sort: 1952
 period: null
 traditions: []
 subjects: [representacao, gnosticismo, modernidade, ideologia, ordem]
+places: []
+themes: [propaganda-ideologia, totalitarismo]
 
 research_status: partially_researched
 missing: [work_type]

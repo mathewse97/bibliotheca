@@ -14,6 +14,8 @@ date_sort: 2007
 period: null
 traditions: []
 subjects: [secularizacao, modernidade, crenca, cristianismo-latino, imanencia]
+places: []
+themes: [teoria-religiao, igreja-teologia, reforma]
 
 research_status: partially_researched
 missing: [work_type]

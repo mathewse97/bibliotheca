@@ -14,6 +14,8 @@ date_sort: 2014
 period: null
 traditions: []
 subjects: [mitologia-egipcia, osiris, cosmogonia]
+places: [egito-antigo]
+themes: [religioes-antigo-oriente, mito-criacao, deuses-herois]
 
 research_status: partially_researched
 missing:

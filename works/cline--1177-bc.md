@@ -14,6 +14,8 @@ date_sort: 2014
 period: null
 traditions: []
 subjects: [colapso-da-idade-do-bronze, povos-do-mar, micenas, hititas, egito]
+places: [mundo]
+themes: [imperios-ascensao-queda]
 
 research_status: partially_researched
 missing: [work_type]

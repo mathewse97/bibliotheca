@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [avaliacao-de-risco, localizacao-segura, relocacao,
            planejamento-de-crise]
+places: [estados-unidos]
+themes: [sobrevivencia]
 
 research_status: partially_researched
 missing: ["ano da 4ª edição", editora, "ISBN-13 verificado em fonte tier 1-5",

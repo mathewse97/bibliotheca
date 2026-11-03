@@ -14,6 +14,8 @@ date_sort: 1872
 period: null
 traditions: []
 subjects: []
+places: [russia-urss]
+themes: [romance, socialismo-marxismo, propaganda-ideologia]
 
 research_status: partially_researched
 missing:

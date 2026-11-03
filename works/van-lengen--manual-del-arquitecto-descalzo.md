@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [construcao, autossuficiencia]
 
 research_status: partially_researched
 missing: [work_type, date_written, "ano da 1ª edição espanhola"]

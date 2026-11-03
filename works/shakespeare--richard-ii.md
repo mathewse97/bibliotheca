@@ -14,6 +14,8 @@ date_sort: 1597
 period: null
 traditions: []
 subjects: []
+places: [inglaterra]
+themes: [tragedia-comedia, tirania]
 
 research_status: partially_researched
 missing:

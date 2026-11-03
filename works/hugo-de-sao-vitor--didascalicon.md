@@ -19,6 +19,8 @@ period: null
 traditions: []
 subjects: [artes-liberais, ordem-das-ciencias, leitura, estudo,
            educacao-monastica, escola-de-sao-vitor]
+places: [europa-medieval]
+themes: [formacao-paideia, aprendizagem]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: 850
 period: null
 traditions: [hermetismo]
 subjects: [macrocosmo-e-microcosmo, transformacao, linguagem-simbolica]
+places: []
+themes: [mistica-esoterismo]
 
 research_status: partially_researched
 missing:

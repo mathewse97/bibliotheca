@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [grecia, persia]
+themes: [tragedia-comedia, guerra-estrategia]
 
 research_status: not_researched
 priority_library: null

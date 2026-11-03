@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [sociedade-do-desempenho, esgotamento, filosofia-social,
            critica-da-modernidade]
+places: []
+themes: [cultura-decadencia]
 
 research_status: partially_researched
 missing: [work_type, collection, period, "número de edição brasileira"]

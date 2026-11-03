@@ -14,6 +14,8 @@ date_sort: -200
 period: null
 traditions: []
 subjects: [dever, acao-sem-apego, devocao, krishna, yoga]
+places: [india]
+themes: [hinduismo, vida-boa]
 
 research_status: partially_researched
 missing: ["Data: incerta, entre os séculos V e II a.C."]

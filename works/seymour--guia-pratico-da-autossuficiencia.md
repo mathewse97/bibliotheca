@@ -21,6 +21,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [autossuficiencia, plantas-cultivo, construcao]
 
 research_status: partially_researched
 missing: [title_original, date_written, work_type,

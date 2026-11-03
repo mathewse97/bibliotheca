@@ -14,6 +14,8 @@ date_sort: 1949
 period: null
 traditions: [historia-comparada-das-religioes]
 subjects: [religioes-do-mundo, comparacao, instituicoes-religiosas]
+places: [mundo]
+themes: [teoria-religiao]
 
 research_status: partially_researched
 missing:

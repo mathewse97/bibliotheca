@@ -14,6 +14,8 @@ date_sort: 1932
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [romance, totalitarismo]
 
 research_status: partially_researched
 missing:

@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [drama-satirico, mito, odisseia, dioniso]
+places: [grecia]
+themes: [tragedia-comedia]
 
 research_status: partially_researched
 missing: ["Data da encenação: incerta"]

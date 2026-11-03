@@ -16,6 +16,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [colapso-social, sobrevivencia-urbana, violencia, testemunho]
+places: []
+themes: [sobrevivencia, defesa]
 
 research_status: partially_researched
 missing: [ano, editora, "ISBN-13 verificado em fonte tier 1-5", work_type,

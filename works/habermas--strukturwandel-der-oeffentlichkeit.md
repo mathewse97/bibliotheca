@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [teoria-critica]
 subjects: [esfera-publica, opiniao-publica, razao-comunicativa,
            publicidade-burguesa, midia]
+places: []
+themes: [democracia, propaganda-ideologia]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

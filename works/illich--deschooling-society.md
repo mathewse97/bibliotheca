@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [critica-da-escola]
 subjects: [desescolarizacao, critica-institucional, aprendizagem-convivial,
            credencialismo]
+places: []
+themes: [escola-pedagogia]
 
 research_status: partially_researched
 missing: ["ano da edição brasileira correspondente a este ISBN — a Vozes tem

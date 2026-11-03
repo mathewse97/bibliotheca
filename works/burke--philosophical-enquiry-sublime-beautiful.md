@@ -17,6 +17,8 @@ date_sort: 1757
 period: iluminismo
 traditions: [empirismo-britanico, estetica-do-gosto]
 subjects: [sublime, belo, terror, paixoes, imaginacao, sentidos]
+places: [inglaterra]
+themes: [estetica]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

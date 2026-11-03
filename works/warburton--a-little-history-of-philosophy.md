@@ -14,6 +14,8 @@ date_sort: 2011
 period: null
 traditions: []
 subjects: [historia-da-filosofia, introducao-a-filosofia]
+places: []
+themes: [conhecimento-razao]
 
 research_status: partially_researched
 missing: [work_type]

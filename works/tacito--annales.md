@@ -14,6 +14,8 @@ date_sort: 115
 period: null
 traditions: []
 subjects: [principado, tirania, roma, senado, liberdade]
+places: [roma]
+themes: [historiografia, tirania, imperio]
 
 research_status: partially_researched
 missing: []

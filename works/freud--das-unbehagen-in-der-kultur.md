@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [psicanalise]
 subjects: [repressao, civilizacao-e-instinto, culpa, agressividade,
            mal-estar]
+places: []
+themes: [cultura-decadencia, teoria-religiao]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

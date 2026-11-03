@@ -15,6 +15,8 @@ period: null
 traditions: []
 subjects: [estetismo, cultura-brasileira, desenvolvimento, etica-e-estetica,
            romantismo, formacao-nacional]
+places: [brasil]
+themes: [cultura-decadencia]
 
 research_status: partially_researched
 missing: ["editora da primeira edição (1963) — não verificada",

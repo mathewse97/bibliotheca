@@ -14,6 +14,8 @@ date_sort: 1078
 period: null
 traditions: []
 subjects: [fe-e-razao, existencia-de-deus, argumento-ontologico, escolastica]
+places: [europa-medieval]
+themes: [igreja-teologia, conhecimento-razao]
 
 research_status: partially_researched
 missing: []

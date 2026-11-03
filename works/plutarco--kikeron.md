@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: [biografia, republica-romana, oratoria]
+places: [roma]
+themes: [vida-boa, tirania]
 
 research_status: partially_researched
 missing: ["Data da composição"]

@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [sociologia-compreensiva]
 subjects: [dominacao, legitimidade, vocacao-politica, etica-da-responsabilidade,
            burocracia, carisma]
+places: [alemanha]
+themes: [democracia]
 
 research_status: not_researched
 priority_library: core

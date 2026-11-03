@@ -14,6 +14,8 @@ date_sort: -438
 period: null
 traditions: []
 subjects: [morte, casamento, hospitalidade, sacrificio]
+places: [grecia]
+themes: [tragedia-comedia, morte-finitude]
 
 research_status: partially_researched
 missing: []

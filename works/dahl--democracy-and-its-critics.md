@@ -14,6 +14,8 @@ date_sort: 1989
 period: null
 traditions: []
 subjects: [democracia, poliarquia, legitimidade, guardiania, anarquismo, processo-democratico]
+places: []
+themes: [democracia]
 
 research_status: partially_researched
 missing: ["Recepção acadêmica: nenhuma resenha lida"]

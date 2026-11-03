@@ -14,6 +14,8 @@ date_sort: 2015
 period: null
 traditions: [arqueologia-biblica]
 subjects: [israel-antigo, juda, monarquia, arqueologia]
+places: [levante-israel]
+themes: [biblia-judaismo, arte-arqueologia]
 
 research_status: partially_researched
 missing:

@@ -22,6 +22,8 @@ date_sort: 2014
 period: null
 traditions: []
 subjects: []
+places: []
+themes: [sobrevivencia]
 
 research_status: partially_researched
 missing: ["Ano da primeira publicação britânica",

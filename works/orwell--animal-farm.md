@@ -14,6 +14,8 @@ date_sort: 1945
 period: null
 traditions: []
 subjects: []
+places: [russia-urss]
+themes: [romance, totalitarismo]
 
 research_status: partially_researched
 missing:

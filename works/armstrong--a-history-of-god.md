@@ -15,6 +15,8 @@ date_sort: 1993
 period: null
 traditions: []
 subjects: [monoteismo, judaismo, cristianismo, islamismo, mistica]
+places: [mundo]
+themes: [biblia-judaismo, igreja-teologia, isla, teoria-religiao]
 
 research_status: partially_researched
 missing:

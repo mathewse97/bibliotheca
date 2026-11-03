@@ -15,6 +15,8 @@ period: modernidade-tardia
 traditions: [sociologia-compreensiva]
 subjects: [racionalizacao, ascetismo-intramundano, vocacao, capitalismo,
            desencantamento]
+places: []
+themes: [reforma, economia-trabalho, teoria-religiao]
 
 research_status: partially_researched
 missing: ["pesquisa de edição (§E) — nenhuma edição foi enumerada,

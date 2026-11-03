@@ -14,6 +14,8 @@ date_sort: 1545
 period: null
 traditions: [missionacao-jesuitica]
 subjects: [missao, evangelizacao, asia, encontro-intercultural]
+places: [india]
+themes: [igreja-teologia, colonizacao-conquista]
 
 research_status: partially_researched
 missing:

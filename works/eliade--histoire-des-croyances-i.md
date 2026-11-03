@@ -15,6 +15,8 @@ date_sort: 1976
 period: null
 traditions: [fenomenologia-da-religiao]
 subjects: [historia-das-religioes]
+places: [mundo]
+themes: [teoria-religiao, religioes-antigo-oriente, religiao-greco-romana]
 
 research_status: partially_researched
 missing:

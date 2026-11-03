@@ -14,6 +14,8 @@ date_sort: 2004
 period: null
 traditions: []
 subjects: [isla, historia, fundamentalismo, islamismo-politico, oriente-medio]
+places: [mundo-islamico]
+themes: [isla]
 
 research_status: partially_researched
 missing: []

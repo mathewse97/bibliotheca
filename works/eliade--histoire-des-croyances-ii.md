@@ -15,6 +15,8 @@ date_sort: 1978
 period: null
 traditions: [fenomenologia-da-religiao]
 subjects: [historia-das-religioes]
+places: [mundo]
+themes: [teoria-religiao, jesus-cristianismo-antigo, budismo]
 
 research_status: partially_researched
 missing:

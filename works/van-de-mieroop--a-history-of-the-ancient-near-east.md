@@ -14,6 +14,8 @@ date_sort: 2004
 period: null
 traditions: []
 subjects: [oriente-proximo-antigo, mesopotamia, estado, economia, sociedade, escrita]
+places: [mesopotamia, anatolia, levante-israel]
+themes: [imperios-ascensao-queda, imperio]
 
 research_status: partially_researched
 missing: [work_type, "disponibilidade no Brasil (lojas bloqueadas a partir do ambiente)"]

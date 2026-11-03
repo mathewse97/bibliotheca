@@ -14,6 +14,8 @@ date_sort: null
 period: null
 traditions: []
 subjects: []
+places: [brasil]
+themes: [cultura-decadencia]
 
 research_status: not_researched
 priority_library: null          # curatorial; atribuída quando a obra for colocada

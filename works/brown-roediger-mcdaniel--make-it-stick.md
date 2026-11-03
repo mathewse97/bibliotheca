@@ -16,6 +16,8 @@ traditions: []
 subjects: [pratica-de-recuperacao, pratica-espacada, pratica-intercalada,
            dificuldades-desejaveis, metacognicao, ilusao-de-fluencia,
            critica-aos-estilos-de-aprendizagem]
+places: []
+themes: [aprendizagem]
 
 research_status: partially_researched
 missing:
