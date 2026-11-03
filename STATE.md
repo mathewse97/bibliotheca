@@ -277,6 +277,10 @@ Teatro completo VI da Editora 34.
 - **Teogonia (2026-11-02):** passou à Hedra, de Christian Werner (2ª ed.
   2025), o mesmo tradutor de *Trabalhos e Dias*. A Iluminuras, de Jaa Torrano,
   fica registrada como edição de estudo, pelo ensaio dele.
+- **Lugar e tema das obras (2026-11-03):** proposta em
+  `review/proposta-lugar-tema.md`, cartão `d-reg-lugar-tema`. Os fios do
+  plano de 2027 ficam escritos à mão até a aprovação; já ganharam "Grécia" e
+  "Ética: a vida boa" (antes "Como viver") e o campo `kind`.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido

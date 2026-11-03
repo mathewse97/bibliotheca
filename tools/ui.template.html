@@ -3172,7 +3172,7 @@ function gpYaml(){
     its.forEach(it=>{ y += it.works ? `    - works: [${it.works.join(', ')}]\n` : `    - work: ${it.work}\n`;
       if(it.title) y += `      title: ${q(it.title)}\n`; if(it.publication) y += `      publication: ${it.publication}\n`;
       if(it.before) y += `      before: ${ref(it.before)}\n`; if(it.after) y += `      after: ${ref(it.after)}\n`; }); }
-  y += `\nthreads:\n` + (D.plans[GP.year].threads||[]).map(t=>`  - name: ${q(t.name)}\n    months: [${(t.months||[]).join(', ')}]\n    text: ${q(t.text||'')}\n`).join('');
+  y += `\nthreads:\n` + (D.plans[GP.year].threads||[]).map(t=>`  - name: ${q(t.name)}\n${t.kind?`    kind: ${t.kind}\n`:''}    months: [${(t.months||[]).join(', ')}]\n    text: ${q(t.text||'')}\n`).join('');
   return y;
 }
 async function gpSave(){

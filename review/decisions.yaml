@@ -211,6 +211,20 @@ items:
     - {title: "Jesus", author: "David Flusser · 1968", verdict: complementa, adds: "Jesus dentro do judaísmo do século I.", facts: ["+Perspectiva, trad. Margarida Goldsztajn", "-Papel próximo ao de Vermes"]}
     - {title: "O Anticristo", author: "Philip C. Almond · 2020", verdict: complementa, adds: "A história da figura do Anticristo.", facts: ["+Vozes 2024, trad. Bruno Gambarotto", "Livro de informação"]}
 
+- id: d-reg-lugar-tema
+  kind: regra
+  collections: []
+  priority: media
+  state: decidir
+  source: review/proposta-lugar-tema.md
+  question: "Aprovar as listas de lugar e tema que vão marcar as obras?"
+  why: "Os fios do Guia do ano e o mapa histórico precisam de critério que sirva a qualquer obra. A proposta cria duas listas fechadas: lugares, num nível só (Grécia, Roma, Rússia e URSS, Brasil…), e temas, em dois níveis (o geral agrupa, como Política e poder; o específico vira fio, como Totalitarismo ou Democracia). Os fios passam a sair dessas marcas e das relações já registradas entre as obras. A proposta inteira, com as listas e os exemplos, está na revisão citada."
+  options:
+    - {key: A, recommended: true, title: "Aprovar as listas como estão", effect: "Eu marco primeiro as obras do plano de 2027, depois o resto da biblioteca, e os fios do Guia passam a sair dos dados."}
+    - {key: B, title: "Aprovar com ajustes", effect: "Diga o que tirar, juntar ou acrescentar; eu ajusto antes de marcar."}
+    - {key: C, title: "Agora não", effect: "Os fios continuam escritos à mão no plano."}
+  recommendation: "as listas cobrem as sete coleções no nível de detalhe que forma fios úteis: nem tão gerais que tudo se ligue a tudo, nem tão finas que nada se ligue. Ajustes de nome são fáceis antes da marcação e trabalhosos depois."
+
 - id: d-rel-especificas-opcoes
   kind: obra
   collections: [religion]
