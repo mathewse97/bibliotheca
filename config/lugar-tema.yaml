@@ -1,0 +1,104 @@
+# ---------------------------------------------------------------------------
+# LUGAR E TEMA DAS OBRAS — listas fechadas. Aprovadas pelo Mathews em
+# 2026-11-03 (cartão d-reg-lugar-tema; proposta em review/proposta-lugar-tema.md).
+#
+# Nas obras:  places: [<id de lugar>]   até 3
+#             themes: [<id de tema>]    até 4, só temas específicos
+# A build recusa valor que não esteja aqui. Valor novo entra por decisão.
+# Os fios do Guia do ano saem destas marcas e das relações entre obras.
+# `mundo` marca panoramas e não forma fio.
+# ---------------------------------------------------------------------------
+places:
+  mesopotamia: "Mesopotâmia"
+  egito-antigo: "Egito antigo"
+  levante-israel: "Levante e Israel antigo"
+  anatolia: "Anatólia"
+  persia: "Pérsia"
+  grecia: "Grécia"
+  roma: "Roma"
+  india: "Índia"
+  china: "China"
+  mundo-islamico: "Mundo islâmico"
+  asia-central: "Ásia Central"
+  mesoamerica: "Mesoamérica"
+  europa-medieval: "Europa medieval"
+  italia: "Itália"
+  franca: "França"
+  inglaterra: "Inglaterra e Reino Unido"
+  alemanha: "Alemanha"
+  russia-urss: "Rússia e URSS"
+  iberia: "Espanha e Portugal"
+  estados-unidos: "Estados Unidos"
+  brasil: "Brasil"
+  mundo: "Mundo"
+
+no_thread_places: [mundo]
+
+theme_groups:
+  politica: "Política e poder"
+  religiao: "Religião"
+  filosofia: "Filosofia"
+  historia: "História e sociedade"
+  literatura: "Literatura e cultura"
+  educacao: "Educação"
+  ciencia: "Ciência e técnica"
+  pratica: "Vida prática e sobrevivência"
+
+themes:
+  democracia: {label: "Democracia", group: politica}
+  totalitarismo: {label: "Totalitarismo", group: politica}
+  tirania: {label: "Tirania e despotismo", group: politica}
+  liberalismo: {label: "Liberalismo", group: politica}
+  socialismo-marxismo: {label: "Socialismo e marxismo", group: politica}
+  conservadorismo: {label: "Conservadorismo", group: politica}
+  libertarianismo: {label: "Libertarianismo e anarquismo", group: politica}
+  contrato-social: {label: "Contrato social", group: politica}
+  lei-natural: {label: "Lei natural e direito", group: politica}
+  imperio: {label: "Império", group: politica}
+  guerra-estrategia: {label: "Guerra e estratégia", group: politica}
+  propaganda-ideologia: {label: "Propaganda e ideologia", group: politica}
+  mito-criacao: {label: "Mito e criação do mundo", group: religiao}
+  deuses-herois: {label: "Deuses e heróis", group: religiao}
+  religiao-greco-romana: {label: "Religião grega e romana", group: religiao}
+  religioes-antigo-oriente: {label: "Religiões do antigo Oriente", group: religiao}
+  biblia-judaismo: {label: "Bíblia e judaísmo", group: religiao}
+  jesus-cristianismo-antigo: {label: "Jesus e cristianismo antigo", group: religiao}
+  igreja-teologia: {label: "Igreja e teologia", group: religiao}
+  reforma: {label: "Reforma", group: religiao}
+  fim-dos-tempos: {label: "Fim dos tempos", group: religiao}
+  isla: {label: "Islã", group: religiao}
+  hinduismo: {label: "Hinduísmo", group: religiao}
+  budismo: {label: "Budismo", group: religiao}
+  mistica-esoterismo: {label: "Mística e esoterismo", group: religiao}
+  teoria-religiao: {label: "Teoria da religião", group: religiao}
+  mito-a-razao: {label: "Do mito à razão", group: filosofia}
+  vida-boa: {label: "Ética: a vida boa", group: filosofia}
+  filosofia-modo-de-vida: {label: "Filosofia como modo de vida", group: filosofia}
+  conhecimento-razao: {label: "Conhecimento e razão", group: filosofia}
+  estetica: {label: "Estética e gosto", group: filosofia}
+  morte-finitude: {label: "Morte e finitude", group: filosofia}
+  imperios-ascensao-queda: {label: "Ascensão e queda de impérios", group: historia}
+  vida-cotidiana: {label: "Vida cotidiana", group: historia}
+  arte-arqueologia: {label: "Arte e arqueologia", group: historia}
+  historiografia: {label: "Historiografia", group: historia}
+  colonizacao-conquista: {label: "Colonização e conquista", group: historia}
+  economia-trabalho: {label: "Economia e trabalho", group: historia}
+  epica: {label: "Épica", group: literatura}
+  tragedia-comedia: {label: "Tragédia e comédia", group: literatura}
+  poesia-lirica: {label: "Poesia lírica", group: literatura}
+  romance: {label: "Romance", group: literatura}
+  tradicao-classica: {label: "Tradição clássica e legado", group: literatura}
+  cultura-decadencia: {label: "Cultura e decadência", group: literatura}
+  formacao-paideia: {label: "Formação e paideia", group: educacao}
+  escola-pedagogia: {label: "Escola e pedagogia", group: educacao}
+  aprendizagem: {label: "Como se aprende", group: educacao}
+  matematica: {label: "Matemática", group: ciencia}
+  medicina: {label: "Medicina", group: ciencia}
+  astronomia-cosmologia: {label: "Astronomia e cosmologia", group: ciencia}
+  tecnica-engenharia: {label: "Técnica e engenharia", group: ciencia}
+  sobrevivencia: {label: "Sobrevivência", group: pratica}
+  socorro-saude: {label: "Socorro e saúde", group: pratica}
+  plantas-cultivo: {label: "Plantas e cultivo", group: pratica}
+  defesa: {label: "Defesa", group: pratica}
+  construcao: {label: "Construção", group: pratica}
+  autossuficiencia: {label: "Autossuficiência e economia doméstica", group: pratica}

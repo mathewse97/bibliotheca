@@ -15,6 +15,8 @@ period: null
 period_covered: {from: 1550, to: 1720}
 traditions: []
 subjects: [brasil-colonial, pirataria, corsarios]
+places: [brasil]
+themes: [colonizacao-conquista]
 
 research_status: partially_researched
 missing: []

@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -600, to: 529}
 traditions: []
 subjects: [filosofia-antiga, modo-de-vida, exercicios-espirituais, socrates, escolas-helenisticas]
+places: [grecia, roma]
+themes: [filosofia-modo-de-vida, vida-boa]
 
 research_status: partially_researched
 missing: []

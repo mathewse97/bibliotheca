@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -500, to: 600}
 traditions: []
 subjects: []
+places: [roma]
+themes: [imperios-ascensao-queda, imperio]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui

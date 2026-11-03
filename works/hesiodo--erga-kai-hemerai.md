@@ -15,6 +15,8 @@ period: null
 period_covered: {from: -700, to: -700}
 traditions: []
 subjects: []
+places: [grecia]
+themes: [vida-boa, economia-trabalho, epica]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
