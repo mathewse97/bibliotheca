@@ -282,6 +282,12 @@ Teatro completo VI da Editora 34.
   e `themes` nas obras. Os fios do Guia do ano saem dessas marcas. Todas as
   272 obras estão marcadas (o plano de 2027 primeiro, o resto em seguida).
   Obra nova entra já com lugar e tema; o build avisa valor fora da lista.
+- **Onde paramos (2026-11-04), para lembrar o Mathews quando ele voltar a
+  este assunto:** lugar e tema estão marcados nas 272 obras e os fios do Guia
+  do ano saem dessas marcas. Próximos passos possíveis: usar as marcas no resto
+  do site, ou o mapa histórico. **O Mathews disse que não gostou muito dos
+  fios e tem opiniões sobre eles**: ouvir antes de mexer em qualquer coisa de
+  fios, lugar ou tema.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido
