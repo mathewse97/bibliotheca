@@ -282,6 +282,13 @@ Teatro completo VI da Editora 34.
   e `themes` nas obras. Os fios do Guia do ano saem dessas marcas. Todas as
   272 obras estão marcadas (o plano de 2027 primeiro, o resto em seguida).
   Obra nova entra já com lugar e tema; o build avisa valor fora da lista.
+- **Card de consulta (2026-11-05):** etapa 1 feita (interface-rules §19):
+  obras, edições e autores citados abrem um card sem sair da página; substitui
+  o painel do Guia do ano. Próximas etapas combinadas com o Mathews:
+  (2) glossário de pessoas de fora da biblioteca e de termos, marcação dos
+  nomes no texto com nome completo e "Por que aparece aqui", releitura de
+  todos os textos, datas e uma linha de quem é para os autores, e aviso
+  automático na conferência; (3) edições lado a lado no card.
 - **Onde paramos (2026-11-04), para lembrar o Mathews quando ele voltar a
   este assunto:** lugar e tema estão marcados nas 272 obras e os fios do Guia
   do ano saem dessas marcas. Próximos passos possíveis: usar as marcas no resto

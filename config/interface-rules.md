@@ -409,12 +409,10 @@ Página `#/plano`, no menu "Você". Mostra o plano de leitura de um ano, lido de
 - **Nada de fontes externas na tela:** a página não cita de onde veio a lista
   (clube, canal etc.). Pedido dele.
 - Clicar em mês, fio ou barra atualiza só o que muda, sem rolar a página.
-- **Painel lateral da obra** (2026-11-02): clicar no título do mês ou nas
-  obras de "Antes" e "Depois" abre um painel à direita (no celular, uma
-  gaveta de baixo) com capa, edição, coleção, "Sobre a obra" e "Como ler",
-  sem sair do Guia. O botão "Abrir a página da obra" leva à página inteira.
-  A capa do mês e a do painel abrem em tela cheia. Um fio clicado de novo
-  é desmarcado.
+- **Obra no Guia** (2026-11-02; desde 2026-11-05 pelo card de consulta, §19):
+  clicar no título do mês ou nas obras de "Antes" e "Depois" abre o card da
+  obra, com a edição do plano, sem sair do Guia. A capa do mês e a do card
+  abrem em tela cheia. Um fio clicado de novo é desmarcado.
 
 ## 17 · Escolha dele abaixo da recomendada — 2026-11-02
 
@@ -446,4 +444,31 @@ escolheu ler a tradução da Cultrix.
   da barra e continua em "Mais" (pedido do Mathews, 2026-11-02).
 - **Card de coleção clicável por inteiro**, na lista de coleções; links e
   botões dentro dele mantêm o próprio destino. Enter também abre.
+
+## 19 · Card de consulta — decisão do Mathews, 2026-11-04
+
+Consultar não deve custar o lugar onde se está.
+
+- **Clique simples** em qualquer obra, edição ou autor citado no conteúdo da
+  página (texto, listas, coleções, busca, Decisões, Guia do ano) abre um card,
+  sem sair da página. Menus, barra de navegação e sugestões da busca continuam
+  levando direto à página.
+- **Ctrl/⌘ + clique** vai direto para a página, na mesma aba (pedido dele,
+  2026-11-04). O botão do meio do mouse continua abrindo outra aba.
+- **Computador:** o card abre junto ao link e cabe na tela (abre para cima
+  se faltar espaço embaixo). **Celular:** painel que sobe da parte de baixo.
+- **Dentro do card**, clicar em outra obra, edição ou autor troca o conteúdo
+  e cria "← Voltar". "Abrir a página" leva à página inteira. Esc ou clique
+  fora fecha. A capa abre em tela cheia.
+- **Conteúdo.** *Obra:* capa, autor, ano, coleção, "O que é" (duas frases de
+  "Sobre a obra"), a edição em exibição (com "Há uma edição melhor" quando
+  for o caso) e "Como ler" recolhido. *Edição:* editora, ano, páginas,
+  tradução, se é recomendada, o parecer, as obras que contém e onde comprar.
+  *Autor:* datas e as obras dele na biblioteca.
+- **"Por que aparece aqui"**: uma linha própria do texto que cita, quando o
+  texto não explica a ligação. Não se repete o que o texto já diz.
+- **Termos clicáveis no texto** (etapa seguinte): seminegrito na cor de
+  destaque, sem sublinhado; sublinhado só ao passar o mouse ou com foco.
+  Destaque comum continua em negrito na cor do texto. Só a primeira menção
+  de cada texto vira termo clicável, com o nome completo da pessoa.
 
