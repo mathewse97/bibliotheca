@@ -52,6 +52,17 @@ cover:
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8571399352"
+    listing_id: "8571399352"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 8571399352, o mesmo número desta publicação (9788571399358)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/livro/os-elementos-0BB-6251-000-BK"
     listing_id: "0BB-6251-000-BK"

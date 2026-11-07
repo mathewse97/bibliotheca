@@ -52,6 +52,17 @@ cover:
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/655711171X"
+    listing_id: "655711171X"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 655711171X, o mesmo número desta publicação (9786557111710)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/livro/do-espirito-das-leis-0B9-6082-000-BK"
     listing_id: "0B9-6082-000-BK"

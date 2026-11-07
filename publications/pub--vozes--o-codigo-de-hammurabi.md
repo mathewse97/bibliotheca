@@ -44,6 +44,17 @@ contains:
     apparatus: [introducao, comentarios]
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8532607780"
+    listing_id: "8532607780"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 8532607780, o mesmo número desta publicação (9788532607782)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Na busca, só apareceram exemplares usados."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/busca?q=codigo+de+hammurabi+bouzon"
     listing_id: null

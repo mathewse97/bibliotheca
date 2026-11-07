@@ -26,6 +26,11 @@ version: 1
 # hierarquia completa 1–7 está em bibliographic-rules.md §E.1. Note a sutileza:
 # a PÁGINA BIBLIOGRÁFICA da editora é tier 1; a LOJA da mesma editora é tier 6.
 # ---------------------------------------------------------------------------
+# ORDEM E BUSCA (pedido do Mathews, 2026-11-05): toda edição nova é procurada
+# na Amazon Brasil E na Estante Virtual, pelo ISBN. A Amazon entra primeiro na
+# lista `acquisition` da publicação, porque o botão "Comprar" usa o primeiro
+# link conferido; a Estante Virtual fica em seguida, para usados. Edição que
+# não está na Amazon fica só com a Estante Virtual, e isso não é defeito.
 retailers:
   amazon-br:
     name: "Amazon Brasil"

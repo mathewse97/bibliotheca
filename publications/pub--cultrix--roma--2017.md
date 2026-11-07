@@ -52,6 +52,17 @@ cover:
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8531613930"
+    listing_id: "8531613930"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 8531613930, o mesmo número desta publicação (9788531613937)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/livro/roma-05O-6057-000-BK"
     listing_id: "05O-6057-000-BK"
