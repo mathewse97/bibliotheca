@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Tratado curto de Anselmo, monge beneditino e depois arcebispo de Cantuária, escrito em 1077 ou 1078. Em forma de oração, propõe o argumento que a tradição chamou de ontológico: Deus é aquilo de que nada maior se pode pensar, e por isso não pode existir só no pensamento. É o lema da escolástica em semente: a fé que busca entender.
+Tratado curto de Anselmo, monge beneditino e depois arcebispo de Cantuária, escrito em 1077 ou 1078. Em forma de oração, propõe o argumento que a tradição chamou de ontológico: Deus é aquilo de que nada maior se pode pensar, e por isso não pode existir só no pensamento. É o lema da [[termo:escolastica|escolástica]] em semente: a fé que busca entender.
 
 ## Como ler
 

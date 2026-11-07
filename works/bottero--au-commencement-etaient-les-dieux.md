@@ -67,7 +67,7 @@ Síntese sobre a religião mesopotâmica de Jean Bottéro, um dos principais ass
 
 - **A pergunta:** o que os mesopotâmios acreditavam, e como a religião funcionava na sociedade deles?
 - **Onde está o centro:** a apresentação dos deuses e da relação entre eles e os homens; e a leitura dos grandes mitos, como o da criação e o do dilúvio, a partir dos textos cuneiformes.
-- **Postura:** É escrito por um grande especialista para leitores não especialistas, e se lê por inteiro. Leia junto das próprias fontes, a *Epopeia de Gilgámesh* e o *Enuma Elish*, que estão na biblioteca.
+- **Postura:** É escrito por um grande especialista para leitores não especialistas, e se lê por inteiro. Leia junto das próprias fontes, a [[obra:epopeia-de-gilgamesh|*Epopeia de Gilgámesh*]] e o [[obra:enuma-elis|*Enuma Elish*]], que estão na biblioteca.
 
 ## Fatos
 

@@ -61,7 +61,7 @@ Texto curto e enigmático atribuído a Hermes Trismegisto, mas de origem árabe 
 
 - **A pergunta:** como o que está em cima se relaciona com o que está embaixo, e como a matéria se transforma?
 - **Onde está o centro:** o texto inteiro tem poucas linhas, e a frase central é a de que o que está embaixo é como o que está em cima.
-- **Postura:** É curtíssimo e enigmático, e durante séculos foi lido como a chave da alquimia. Leia depois do *Corpus Hermeticum*, mais de uma vez, atento às imagens. A atribuição a Hermes é lendária: a versão mais antiga conhecida é árabe, dos séculos VIII e IX.
+- **Postura:** É curtíssimo e enigmático, e durante séculos foi lido como a chave da alquimia. Leia depois do [[obra:corpus-hermeticum|*Corpus Hermeticum*]], mais de uma vez, atento às imagens. A atribuição a Hermes é lendária: a versão mais antiga conhecida é árabe, dos séculos VIII e IX.
 
 ## Fatos
 

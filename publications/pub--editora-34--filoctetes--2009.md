@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: sofocles--philoktetes
-    why: "Tradução direta do grego por Trajano Vieira, com o grego ao lado, posfácio, notas e um ensaio de Edmund Wilson sobre a peça. Mesmo tradutor de Ájax, As Traquínias e Electra."
+    why: "Tradução direta do grego por Trajano Vieira, com o grego ao lado, posfácio, notas e um ensaio de Edmund Wilson sobre a peça. Mesmo tradutor de [[obra:sofocles--aias|*Ájax*]], [[obra:sofocles--trachiniai|*As Traquínias*]] e [[obra:sofocles--elektra|*Electra*]]."
     verdict: recommended
     reason: "Pesquisa de 2026-10-31 (cartão d-greco-adler-tragedias, opção B). Única tradução brasileira recente que achei, de tradutor conhecido, direta do grego e bilíngue (§F.2)."
     translator: [trajano-vieira]

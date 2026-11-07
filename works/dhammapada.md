@@ -55,7 +55,7 @@ Coletânea de versos atribuídos ao Buda, integrante do cânone páli (no Khudda
 
 - **A pergunta:** como se libertar do sofrimento, segundo o ensinamento atribuído ao Buda?
 - **Onde está o centro:** são 423 versos em 26 capítulos curtos. Os primeiros, sobre a mente (tudo o que somos é resultado do que pensamos), dão o tom; depois voltam a atenção, a raiva, o desejo e o ideal do sábio.
-- **Postura:** Não é para ler de uma vez: leia poucos versos por dia e pense neles. Ajuda ter lido antes *What the Buddha Taught*, de Walpola Rahula, que explica os conceitos que os versos supõem, como as quatro nobres verdades, o carma e o nirvana.
+- **Postura:** Não é para ler de uma vez: leia poucos versos por dia e pense neles. Ajuda ter lido antes [[obra:rahula--what-the-buddha-taught|*What the Buddha Taught*]], de Walpola Rahula, que explica os conceitos que os versos supõem, como as quatro nobres verdades, o carma e o nirvana.
 
 ## Fatos
 

@@ -59,7 +59,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Coletânea anônima de tratados gregos, escritos provavelmente entre os séculos II e III d.C. e atribuídos ficticiamente ao lendário Hermes Trismegisto. Em forma de diálogos e revelações, trata de Deus, do cosmo, da alma e da salvação pelo conhecimento, misturando elementos platônicos, estoicos e religiosos do Egito helenístico. Traduzido para o latim por Marsilio Ficino no século XV, exerceu grande influência no pensamento do Renascimento.
+Coletânea anônima de tratados gregos, escritos provavelmente entre os séculos II e III d.C. e atribuídos ficticiamente ao lendário Hermes Trismegisto. Em forma de diálogos e revelações, trata de Deus, do cosmo, da alma e da salvação pelo conhecimento, misturando elementos platônicos, estoicos e religiosos do Egito helenístico. Traduzido para o latim por [[pessoa:marsilio-ficino|Marsilio Ficino]] no século XV, exerceu grande influência no pensamento do Renascimento.
 
 ## Como ler
 

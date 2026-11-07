@@ -41,7 +41,7 @@ Obra introdutória de Ariano Suassuna sobre estética, a filosofia da beleza e d
 
 - **A pergunta:** o que é a beleza, e o que é a arte?
 - **Onde está o centro:** a apresentação das grandes concepções do belo ao longo da história do pensamento, e a parte final, em que Ariano Suassuna expõe a sua própria visão.
-- **Postura:** É uma introdução clara e agradável, que se lê inteira. Use como mapa antes de ir aos clássicos da estética que vêm depois na coleção: David Hume, Edmund Burke e Kant.
+- **Postura:** É uma introdução clara e agradável, que se lê inteira. Use como mapa antes de ir aos clássicos da estética que vêm depois na coleção: [[obra:hume--of-the-standard-of-taste|David Hume]], [[obra:burke--philosophical-enquiry-sublime-beautiful|Edmund Burke]] e [[obra:kant--kritik-der-urteilskraft|Immanuel Kant]].
 
 ## Fatos
 

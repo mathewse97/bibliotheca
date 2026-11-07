@@ -41,7 +41,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Livro do historiador Brad S. Gregory, publicado em inglês em 2012. Sustenta que a Reforma, sem querer, produziu o mundo secular: ao romper a unidade doutrinal cristã, abriu caminho para um pluralismo de crenças sem acordo sobre a verdade, para a exclusão da religião do saber, para a ausência de um bem comum e para o domínio do consumo. É obra erudita e de tese forte, que vários resenhistas leem como apologética católica.
+Livro do historiador Brad S. Gregory, publicado em inglês em 2012. Sustenta que a [[termo:reforma|Reforma]], sem querer, produziu o mundo secular: ao romper a unidade doutrinal cristã, abriu caminho para um pluralismo de crenças sem acordo sobre a verdade, para a exclusão da religião do saber, para a ausência de um bem comum e para o domínio do consumo. É obra erudita e de tese forte, que vários resenhistas leem como apologética católica.
 
 ## Como ler
 

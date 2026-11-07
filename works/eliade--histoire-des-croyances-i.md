@@ -55,7 +55,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Primeiro volume da história das religiões de Mircea Eliade, publicado em francês em 1976. Percorre da pré-história às religiões da Mesopotâmia, do Egito, da Índia védica, de Israel e da Grécia, até os mistérios de Elêusis. A obra foi planejada em quatro volumes, mas Eliade morreu em 1986 tendo concluído apenas três.
+Primeiro volume da história das religiões de Mircea Eliade, publicado em francês em 1976. Percorre da pré-história às religiões da Mesopotâmia, do Egito, da Índia védica, de Israel e da Grécia, até os [[termo:religioes-de-misterio|mistérios de Elêusis]]. A obra foi planejada em quatro volumes, mas Eliade morreu em 1986 tendo concluído apenas três.
 
 ## Como ler
 

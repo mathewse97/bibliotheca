@@ -61,7 +61,7 @@ Poema épico acádio anônimo, cuja versão padrão, conhecida pelo verso inicia
 
 - **A pergunta:** pode um homem escapar da morte, e o que dá sentido a uma vida que vai acabar?
 - **Onde está o centro:** a amizade entre Gilgámesh, rei de Uruk, e Enkidu, o homem selvagem que se torna civilizado; a morte de Enkidu, que lança Gilgámesh na busca da imortalidade; o encontro com Utnapíshtim, o sobrevivente do dilúvio, que conta a sua história na tabuinha XI; e a planta da juventude roubada pela serpente.
-- **Postura:** O texto chegou em tabuinhas de argila quebradas, e as lacunas aparecem marcadas na tradução: não se prenda a elas, siga a história. Repare no relato do dilúvio, muito parecido com o de Noé no Gênesis e mais antigo que ele.
+- **Postura:** O texto chegou em tabuinhas de argila quebradas, e as lacunas aparecem marcadas na tradução: não se prenda a elas, siga a história. Repare no relato do dilúvio, muito parecido com o de Noé no [[obra:biblia|Gênesis]] e mais antigo que ele.
 
 ## Fatos
 

@@ -1016,7 +1016,7 @@ sequence:
   # PARTICIPAÇÃO NOVA — cartão d-greco-cicero, opção A (2026-10-31): já estava no
   # mesmo volume da Vida de Demóstenes; entra logo depois dela, como Plutarco as pareou.
   - {work: plutarco--kikeron, role: primary-source, demand: moderado,
-     why_here: "Vida de [[pessoa:cicero|Cícero]], par da [[obra:plutarco--demosthenes|de Demóstenes]] nas [[termo:vidas-paralelas|*Vidas Paralelas*]]. Leia buscando o orador diante de uma república que se desfaz pela força, e compare com Demóstenes diante de Filipe.", why_here_by: claude, inserted_by: claude,
+     why_here: "Vida de [[pessoa:cicero|Cícero]], par da [[obra:plutarco--demosthenes|de Demóstenes]] nas [[termo:vidas-paralelas|*Vidas Paralelas*]]. Leia buscando o orador diante de uma república que se desfaz pela força, e compare com [[pessoa:demostenes|Demóstenes]] diante de Filipe.", why_here_by: claude, inserted_by: claude,
      publication_pref: pub--coimbra--vidas-demostenes-e-cicero}
   - {work: plutarco--alexandros, role: primary-source, demand: moderado,
      why_here: "Vida do rei macedônio que conquistou o império persa. Leia buscando a passagem do mundo das cidades gregas para o mundo helenístico.", why_here_by: claude, why_here_previous: "conquista e expansão helenística"}

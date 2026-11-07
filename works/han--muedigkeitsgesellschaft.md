@@ -69,7 +69,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Ensaio curto do filósofo Byung-Chul Han, publicado em alemão em 2010. Descreve a passagem da sociedade disciplinar, analisada por Foucault, para uma "sociedade do desempenho", em que o sujeito explora a si mesmo e o esgotamento, a depressão e o burnout substituem a repressão como forma de poder. É o livro que tornou o autor conhecido internacionalmente.
+Ensaio curto do filósofo Byung-Chul Han, publicado em alemão em 2010. Descreve a passagem da sociedade disciplinar, analisada por [[pessoa:foucault|Michel Foucault]], para uma "sociedade do desempenho", em que o sujeito explora a si mesmo e o esgotamento, a depressão e o burnout substituem a repressão como forma de poder. É o livro que tornou o autor conhecido internacionalmente.
 
 ## Como ler
 

@@ -34,7 +34,7 @@ updated: 2026-11-02
 
 ## Sobre a obra
 
-Livro de Philip C. Almond, de 2020. Conta a história da figura do Anticristo, das poucas menções do Novo Testamento às lendas medievais, ao uso político na Reforma, quando católicos e protestantes se acusavam de servi-lo, e à cultura moderna.
+Livro de Philip C. Almond, de 2020. Conta a história da figura do Anticristo, das poucas menções do Novo Testamento às lendas medievais, ao uso político na [[termo:reforma|Reforma]], quando católicos e protestantes se acusavam de servi-lo, e à cultura moderna.
 
 ## Como ler
 

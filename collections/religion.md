@@ -185,7 +185,7 @@ excluded: []
 sequence:
 
   - movement: "I. História comparada das religiões"
-    purpose: "Eliade, Noss, Armstrong e outras obras panorâmicas."
+    purpose: "[[pessoa:eliade|Mircea Eliade]], [[pessoa:noss|John B. Noss]], [[pessoa:armstrong|Karen Armstrong]] e outras obras panorâmicas."
     purpose_by: voce
     regions: [historia-comparada-das-religioes]
 
@@ -247,7 +247,7 @@ sequence:
     role: foundational
     core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
-    why_here: "Fecha a grande narrativa histórica de Eliade e leva o percurso
+    why_here: "Fecha a grande narrativa histórica de [[pessoa:eliade|Mircea Eliade]] e leva o percurso
                 das religiões até a formação do mundo medieval e moderno."
     why_here_by: voce
     perspective: "história comparada das religiões na Idade Média e início da
@@ -268,7 +268,7 @@ sequence:
                       tradicoes, personagens, terminologia-das-religioes]
 
   - movement: "II. Teoria do fenômeno religioso"
-    purpose: "Eliade, Berger, Weber, antropologia, sociologia, fenomenologia,
+    purpose: "[[pessoa:eliade|Mircea Eliade]], [[pessoa:berger|Peter L. Berger]], [[pessoa:weber|Max Weber]], antropologia, sociologia, fenomenologia,
               filosofia."
     purpose_by: voce
     regions: [teoria-e-metodo-do-fenomeno-religioso, sociologia-da-religiao]
@@ -280,8 +280,7 @@ sequence:
     core: true                  # ★ 2026-10-30, ver review/religion.md
     demand: moderado
     why_here: "A experiência do sagrado descrita por dentro: o numinoso, que
-               ao mesmo tempo faz tremer e atrai. É o ponto de partida
-               declarado de Eliade, que vem logo a seguir."
+               ao mesmo tempo faz tremer e atrai. É o ponto de partida declarado de [[obra:eliade--das-heilige-und-das-profane|Mircea Eliade]], que vem logo a seguir."
     why_here_by: claude
     perspective: "fenomenologia da religião."
     publication_pref: pub--vozes--o-sagrado--2007
@@ -291,8 +290,7 @@ sequence:
     core: true                  # ★ 2026-10-30, ver review/religion.md
     demand: exigente
     why_here: "A religião explicada pela sociedade: ao cultuar o sagrado, o
-               grupo cultua a si mesmo. Funda a sociologia da religião, que
-               Weber e Berger continuam."
+               grupo cultua a si mesmo. Funda a sociologia da religião, que [[obra:weber--die-protestantische-ethik|Max Weber]] e [[obra:berger--the-sacred-canopy|Peter L. Berger]] continuam."
     why_here_by: claude
     perspective: "sociologia da religião."
     publication_pref: pub--martins-fontes--as-formas-elementares-da-vida-religiosa--1996
@@ -311,8 +309,7 @@ sequence:
   - work: eliade--das-heilige-und-das-profane       # entrada 8 da lista dele
     role: foundational
     demand: moderado
-    why_here: "É uma síntese mais concentrada das ideias de Eliade e uma boa
-                passagem do conhecimento histórico para a compreensão
+    why_here: "É uma síntese mais concentrada das ideias de [[pessoa:eliade|Mircea Eliade]] e uma boa passagem do conhecimento histórico para a compreensão
                 conceitual da experiência religiosa."
     why_here_by: voce
     perspective: "fenomenologia da religião."
@@ -336,7 +333,7 @@ sequence:
   - work: smith-jz--to-take-place
     role: critical-response
     demand: moderado
-    why_here: "A contestação do método de Eliade: refaz os exemplos que ele usou
+    why_here: "A contestação do método de [[pessoa:eliade|Mircea Eliade]]: refaz os exemplos que ele usou
                como prova e mostra que as fontes não dizem o que ele afirma. O
                sagrado não é descoberto; é produzido pelo ritual e pela atenção.
                Leia logo depois de Eliade."
@@ -350,8 +347,7 @@ sequence:
     role: comparative
     core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
-    why_here: "Permite compreender de maneira mais concreta como Weber
-                relaciona sistemas religiosos, comportamento social e formação
+    why_here: "Permite compreender de maneira mais concreta como [[pessoa:weber|Max Weber]] relaciona sistemas religiosos, comportamento social e formação
                 da modernidade ocidental."
     why_here_by: voce
     perspective: "sociologia histórica da religião."
@@ -376,7 +372,7 @@ sequence:
   - work: taylor--a-secular-age
     role: critical-response
     demand: exigente
-    why_here: "Responde a Berger: a secularização não como perda de
+    why_here: "Responde a [[obra:berger--the-sacred-canopy|Peter L. Berger]]: a secularização não como perda de
                plausibilidade da religião, mas como mudança nas condições do
                crer, em que a fé passa a ser uma opção entre outras."
     why_here_by: claude
@@ -405,7 +401,7 @@ sequence:
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: moderado
-    why_here: "Complementa *Gilgámesh* mostrando de forma mais direta como os
+    why_here: "Complementa [[obra:epopeia-de-gilgamesh|*Gilgámesh*]] mostrando de forma mais direta como os
                 mesopotâmios concebiam a origem do mundo, dos deuses e da
                 ordem cósmica."
     why_here_by: voce
@@ -459,7 +455,7 @@ sequence:
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: exigente
-    why_here: "A fonte das tradições judaica e cristã, que as obras vizinhas da coleção estudam por fora: pela arqueologia, pela história e pela crítica dos textos. Leia buscando como os livros foram compostos e reunidos, e confira na própria fonte o que Israel Finkelstein, Thomas Römer, Mark Smith e James Kugel dizem dela."
+    why_here: "A fonte das tradições judaica e cristã, que as obras vizinhas da coleção estudam por fora: pela arqueologia, pela história e pela crítica dos textos. Leia buscando como os livros foram compostos e reunidos, e confira na própria fonte o que [[obra:finkelstein-romer--aux-origines-de-la-torah|Israel Finkelstein, Thomas Römer]], [[obra:smith--the-memoirs-of-god|Mark S. Smith]] e [[obra:kugel--how-to-read-the-bible|James L. Kugel]] dizem dela."
     why_here_by: claude            # 2026-10-14: a entrada estava sem texto
     perspective: null
     subjects_stated: []
@@ -537,7 +533,7 @@ sequence:
   - work: vermes--the-authentic-gospel-of-jesus       # entrada 21 da lista dele
     role: critical-response
     demand: exigente
-    why_here: "Complementa Ehrman deslocando o foco da transmissão textual
+    why_here: "Complementa [[obra:ehrman--misquoting-jesus|Bart D. Ehrman]] deslocando o foco da transmissão textual
                 para a reconstrução histórica da figura de Jesus."
     why_here_by: voce
     perspective: "estudo histórico de Jesus no contexto judaico do século I."
@@ -551,8 +547,8 @@ sequence:
     role: supplementary
     demand: moderado
     why_here: "Outro estudioso judeu, professor em Jerusalém, lendo Jesus dentro
-               do judaísmo do século I. Complementa Vermes com a literatura
-               rabínica e os manuscritos do mar Morto."
+               do judaísmo do século I. Complementa [[obra:vermes--the-authentic-gospel-of-jesus|Géza Vermes]] com a literatura
+               rabínica e os [[termo:manuscritos-do-mar-morto|manuscritos do mar Morto]]."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--perspectiva--jesus--2020
@@ -565,7 +561,7 @@ sequence:
   - work: rahula--what-the-buddha-taught       # entrada 22 da lista dele
     role: foundational
     demand: leve
-    why_here: "Depois da perspectiva histórica de Eliade, fornece uma
+    why_here: "Depois da perspectiva histórica de [[pessoa:eliade|Mircea Eliade]], fornece uma
                 apresentação mais diretamente interna da doutrina budista."
     why_here_by: voce
     publication_pref: pub--motilal-banarsidass--what-the-buddha-taught--2017   # escolha sua (2026-09-25)
@@ -579,7 +575,7 @@ sequence:
     core: true                  # ★ 2026-10-27, ver review/religion.md
     demand: leve
     why_here: "Deve ser lido como texto religioso primário, permitindo
-                confrontar a apresentação moderna de Rahula com uma fonte
+                confrontar a apresentação moderna de [[obra:rahula--what-the-buddha-taught|Walpola Rahula]] com uma fonte
                 tradicional de ensinamentos budistas."
     why_here_by: voce
     perspective: "fonte primária budista."
@@ -592,7 +588,7 @@ sequence:
   - work: flood--an-introduction-to-hinduism
     role: foundational
     demand: moderado
-    why_here: "O hinduísmo como conjunto de tradições, dos Vedas às práticas de hoje. Leia antes da Gita, para chegar ao texto sabendo onde ele se encaixa."
+    why_here: "O hinduísmo como conjunto de tradições, dos Vedas às práticas de hoje. Leia antes da [[obra:bhagavad-gita|*Gita*]], para chegar ao texto sabendo onde ele se encaixa."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--editora-ufjf--uma-introducao-ao-hinduismo--2014
@@ -601,7 +597,7 @@ sequence:
     core: true
     role: primary-source
     demand: leve
-    why_here: "O texto do hinduísmo mais lido: o dever, a ação sem apego e a devoção, no diálogo entre Arjuna e Krishna. Leia confrontando com a apresentação de Flood, como o Dhammapada com Rahula."
+    why_here: "O texto do hinduísmo mais lido: o dever, a ação sem apego e a devoção, no diálogo entre Arjuna e Krishna. Leia confrontando com a apresentação de [[obra:flood--an-introduction-to-hinduism|Gavin Flood]], como o [[obra:dhammapada|*Dhammapada*]] com [[obra:rahula--what-the-buddha-taught|Walpola Rahula]]."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--companhia-das-letras--bhagavad-gita--1998
@@ -609,7 +605,7 @@ sequence:
   - work: demant--o-mundo-muculmano
     role: foundational
     demand: moderado
-    why_here: "O islã como religião e civilização, de Maomé ao fundamentalismo de hoje, por um historiador da USP. Leia antes do Alcorão."
+    why_here: "O islã como religião e civilização, de [[pessoa:maome|Maomé]] ao fundamentalismo de hoje, por um historiador da USP. Leia antes do [[obra:alcorao|Alcorão]]."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--contexto--o-mundo-muculmano
@@ -618,7 +614,7 @@ sequence:
     core: true
     role: primary-source
     demand: moderado
-    why_here: "O texto central do islã. Leia as suratas curtas do fim e a abertura antes das longas, usando Demant como guia."
+    why_here: "O texto central do islã. Leia as suratas curtas do fim e a abertura antes das longas, usando [[obra:demant--o-mundo-muculmano|Peter Demant]] como guia."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--complexo-rei-fahd--nobre-alcorao
@@ -675,9 +671,8 @@ sequence:
   - work: lutero--von-der-freiheit-eines-christenmenschen
     role: primary-source
     demand: leve
-    why_here: "Reforma: a justificação pela fé e a liberdade do cristão, no
-               tratado curto de 1520. Leia antes de Weber, que trata das
-               consequências."
+    why_here: "[[termo:reforma|Reforma]]: a justificação pela fé e a liberdade do cristão, no
+               tratado curto de 1520. Leia antes de [[obra:weber--die-protestantische-ethik|Max Weber]], que trata das consequências."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--unesp--da-liberdade-do-cristao--2015
@@ -748,7 +743,7 @@ sequence:
   - work: tabula-smaragdina       # entrada 28 da lista dele
     role: primary-source
     demand: leve
-    why_here: "É melhor lida depois do *Corpus Hermeticum*, pois então seus
+    why_here: "É melhor lida depois do [[obra:corpus-hermeticum|*Corpus Hermeticum*]], pois então seus
                 símbolos deixam de aparecer como fórmulas isoladas e passam a
                 fazer parte de um universo intelectual compreensível."
     why_here_by: voce
@@ -760,7 +755,7 @@ sequence:
     role: comparative
     demand: moderado
     why_here: "Depois de estudar várias tradições religiosas concretas, você
-                pode avaliar a tentativa de Campbell de encontrar estruturas
+                pode avaliar a tentativa de Joseph Campbell de encontrar estruturas
                 comuns por trás de seus mitos."
     why_here_by: voce
     perspective: "mitologia comparada e teoria do mito."

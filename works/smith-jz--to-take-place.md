@@ -34,10 +34,10 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Livro de Jonathan Z. Smith, historiador das religiões de Chicago, de 1987. Volta a exemplos que Mircea Eliade usou como prova de uma estrutura universal do sagrado, como o mito do poste sagrado dos aborígenes Achilpa, e mostra que as fontes não dizem o que Eliade afirma. Para Smith, o lugar não é sagrado por natureza: torna-se sagrado pelo ritual e pela atenção que lhe é dada.
+Livro de Jonathan Z. Smith, historiador das religiões de Chicago, de 1987. Volta a exemplos que [[pessoa:eliade|Mircea Eliade]] usou como prova de uma estrutura universal do sagrado, como o mito do poste sagrado dos aborígenes Achilpa, e mostra que as fontes não dizem o que Eliade afirma. Para Smith, o lugar não é sagrado por natureza: torna-se sagrado pelo ritual e pela atenção que lhe é dada.
 
 ## Como ler
 
 - **A pergunta:** o sagrado é uma realidade que as culturas descobrem, ou algo que o ritual produz?
 - **Onde está o centro:** o primeiro capítulo, sobre o poste dos Achilpa, e o capítulo sobre Jerusalém.
-- **Postura:** leia depois de *O Sagrado e o Profano*, de Eliade, com os exemplos dele frescos na memória.
+- **Postura:** leia depois de [[obra:eliade--das-heilige-und-das-profane|*O Sagrado e o Profano*]], de Eliade, com os exemplos dele frescos na memória.

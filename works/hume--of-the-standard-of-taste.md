@@ -67,7 +67,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Ensaio de David Hume publicado em 1757. Parte de um paradoxo: o gosto parece puramente subjetivo, e no entanto ninguém aceita que um poeta menor valha tanto quanto Milton. Hume busca um padrão que respeite as duas intuições e o encontra no juízo convergente de críticos qualificados, formados pela prática, pela comparação e pela ausência de preconceito. Formula o problema que Kant retomaria na *Crítica da faculdade do juízo*.
+Ensaio de David Hume publicado em 1757. Parte de um paradoxo: o gosto parece puramente subjetivo, e no entanto ninguém aceita que um poeta menor valha tanto quanto [[pessoa:milton|John Milton]]. Hume busca um padrão que respeite as duas intuições e o encontra no juízo convergente de críticos qualificados, formados pela prática, pela comparação e pela ausência de preconceito. Formula o problema que Kant retomaria na [[obra:kant--kritik-der-urteilskraft|*Crítica da faculdade do juízo*]].
 
 ## Como ler
 

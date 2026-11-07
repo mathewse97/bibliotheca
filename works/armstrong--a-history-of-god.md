@@ -59,7 +59,7 @@ Obra de divulgação de Karen Armstrong, publicada em inglês em 1993. Traça a 
 ## Como ler
 
 - **A pergunta:** como a ideia de Deus mudou no judaísmo, no cristianismo e no islã, da Antiguidade até hoje?
-- **Onde está o centro:** os capítulos são cronológicos: os primeiros, sobre o Deus de Israel; depois, os Padres da Igreja, os filósofos medievais das três religiões e os místicos; e os finais, sobre a Reforma, o Iluminismo e a morte de Deus.
+- **Onde está o centro:** os capítulos são cronológicos: os primeiros, sobre o Deus de Israel; depois, os [[termo:padres-da-igreja|Padres da Igreja]], os filósofos medievais das três religiões e os místicos; e os finais, sobre a [[termo:reforma|Reforma]], o [[termo:iluminismo|Iluminismo]] e a morte de Deus.
 - **Postura:** É obra de divulgação, fluida e de tese: Karen Armstrong valoriza a experiência mística mais que a doutrina. Leia como um mapa geral, conferindo os pontos que importam nos estudos especializados da coleção.
 
 ## Fatos

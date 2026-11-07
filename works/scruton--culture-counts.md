@@ -46,7 +46,7 @@ Ensaio do filósofo britânico Roger Scruton, publicado em 2007. Defende a alta 
 
 - **A pergunta:** por que a alta cultura importa, e o que se perde quando ela é desprezada?
 - **Onde está o centro:** o argumento de que a cultura forma o juízo e o sentimento, e a crítica do relativismo nas universidades.
-- **Postura:** É um ensaio curto e de tese, que se lê de uma vez. Leia como defesa a avaliar, e confronte com *A Civilização do Espetáculo*, de Mario Vargas Llosa, que chega a um diagnóstico parecido por outro caminho.
+- **Postura:** É um ensaio curto e de tese, que se lê de uma vez. Leia como defesa a avaliar, e confronte com [[obra:vargas-llosa--la-civilizacion-del-espectaculo|*A Civilização do Espetáculo*]], de Mario Vargas Llosa, que chega a um diagnóstico parecido por outro caminho.
 
 ## Fatos
 

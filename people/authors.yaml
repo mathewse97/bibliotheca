@@ -334,31 +334,36 @@ wise:
 suassuna:
   name_display: "Ariano Suassuna"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1927–2014"
+  about: "Dramaturgo e romancista paraibano, criador do Movimento Armorial e professor de estética."
   note: null
 
 vargas-llosa:
   name_display: "Mario Vargas Llosa"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1936–2025"
+  about: "Romancista e ensaísta peruano, Prêmio Nobel de Literatura em 2010."
   note: null
 
 scruton:
   name_display: "Roger Scruton"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1944–2020"
+  about: "Filósofo inglês, estudioso da estética e um dos principais pensadores conservadores do seu tempo."
   note: null
 
 vieira-de-mello:
   name_display: "Mário Vieira de Mello"
   name_variants: ["Mario Vieira de Mello"]
   dates: null                 # a pesquisar
+  about: "Diplomata e ensaísta brasileiro."
   note: "Entrou em 2026-09-23 com Desenvolvimento e Cultura (Cultura)."
 
 lobo:
   name_display: "Julio Lobo"
   name_variants: ["Julio Cheda"]   # nome civil, segundo a ficha CIP e o copyright do livro (exemplar do Mathews, 2026-10-10)
   dates: null                 # a pesquisar
+  about: "Ensaísta brasileiro."
   note: "Id pelo sobrenome, como todos os outros. `Lobo` é sobrenome comum e
          pode colidir um dia — António Lobo Antunes seria o caso óbvio. Se
          isso acontecer, o desempate é um id conventional para um dos dois,
@@ -369,12 +374,14 @@ seymour:
   name_display: "John Seymour"
   name_variants: ["J. Seymour"]
   dates: "1914–2004"
+  about: "Escritor britânico, pioneiro do movimento pela autossuficiência no campo."
   note: null
 
 hoffmann:
   name_display: "David Hoffmann"
   name_variants: ["David Hoffman"]   # grafia com um só n aparece em livrarias BR
   dates: "n. 1951"
+  about: "Fitoterapeuta britânico."
   note: null
 
 naemt:
@@ -414,18 +421,21 @@ canterbury:
   name_display: "Dave Canterbury"
   name_variants: []
   dates: null
+  about: "Instrutor norte-americano de técnicas de sobrevivência na natureza."
   note: null
 
 dickson:
   name_display: "Murray Dickson"
   name_variants: []
   dates: null
+  about: "Autor de manuais de saúde bucal para comunidades sem dentista, da mesma série de David Werner."
   note: null
 
 werner:
   name_display: "David Werner"
   name_variants: []
   dates: null
+  about: "Biólogo norte-americano, educador em saúde comunitária no México rural."
   note: "As edições posteriores de `Donde no hay doctor` trazem também Carol
          Thuman e Jane Maxwell. Não foram acrescentadas como autoras da obra
          porque não se sabe qual edição está em causa; ficam na proveniência."
@@ -434,18 +444,21 @@ van-lengen:
   name_display: "Johan van Lengen"
   name_variants: ["Johann van Lengen"]
   dates: null
+  about: "Arquiteto neerlandês que trabalhou no México e no Brasil com construção de baixo custo."
   note: "Neerlandês, mas escreveu e publicou a obra em espanhol, no México."
 
 kinupp:
   name_display: "Valdely Ferreira Kinupp"
   name_variants: ["Valdely Kinupp"]
   dates: null
+  about: "Biólogo brasileiro, pesquisador das plantas alimentícias não convencionais."
   note: null
 
 lorenzi:
   name_display: "Harri Lorenzi"
   name_variants: []
   dates: null
+  about: "Botânico brasileiro, fundador do Instituto Plantarum."
   note: null
 
 bezmenov:
@@ -461,6 +474,7 @@ skousen:
   name_display: "Joel M. Skousen"
   name_variants: []
   dates: null
+  about: "Consultor norte-americano de segurança e de preparação para crises."
   note: null
 
 begovic:
@@ -508,20 +522,23 @@ jaeger:
 han:
   name_display: "Byung-Chul Han"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1959–"
+  about: "Filósofo sul-coreano radicado na Alemanha; escreve em alemão."
   note: "Filósofo sul-coreano radicado na Alemanha; escreve em alemão."
 
 damasio:
   name_display: "António Damásio"
   name_variants: ["Antonio Damasio"]
-  dates: null                 # a pesquisar
+  dates: "1944–"
+  about: "Neurocientista português radicado nos Estados Unidos, professor na Universidade do Sul da Califórnia."
   note: "Neurocientista português; escreve em inglês (obra acadêmica nos
          EUA/Reino Unido)."
 
 haidt:
   name_display: "Jonathan Haidt"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1963–"
+  about: "Psicólogo social norte-americano, professor na Universidade de Nova York."
   note: null
 
 # ---------------------------------------------------------------------------
@@ -535,24 +552,28 @@ guarinello:
   name_display: "Norberto Luiz Guarinello"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Historiador brasileiro da Antiguidade, professor da Universidade de São Paulo."
   note: null
 
 osborne:
   name_display: "Robin Osborne"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1957–"
+  about: "Historiador britânico da Grécia antiga, professor em Cambridge."
   note: null
 
 finley:
   name_display: "Moses I. Finley"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1912–1986"
+  about: "Historiador da Antiguidade nascido nos Estados Unidos e radicado em Cambridge, estudioso da economia e da sociedade antigas."
   note: "Historiador da Antiguidade. Em 'O Legado da Grécia: uma nova avaliação' ele é ORGANIZADOR, não autor; em 'Os Gregos Antigos' é autor."
 
 everitt:
   name_display: "Anthony Everitt"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1940–"
+  about: "Escritor britânico de biografias e histórias da Antiguidade."
   note: null
 
 jaeger-werner:
@@ -565,7 +586,8 @@ jaeger-werner:
 hesiodo:
   name_display: "Hesíodo"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "ativo c. 700 a.C."
+  about: "Poeta grego da Beócia, camponês segundo ele mesmo conta, contemporâneo aproximado de Homero."
   note: null
 
 homero:
@@ -578,37 +600,43 @@ homero:
 pindaro:
   name_display: "Píndaro"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 518–c. 438 a.C."
+  about: "Poeta lírico grego de Tebas, o maior autor de odes corais."
   note: null
 
 grimal:
   name_display: "Pierre Grimal"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1912–1996"
+  about: "Helenista e latinista francês, professor na Sorbonne."
   note: null
 
 mikalson:
   name_display: "Jon D. Mikalson"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Historiador norte-americano da religião grega, professor na Universidade da Virgínia."
   note: null
 
 burkert:
   name_display: "Walter Burkert"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1931–2015"
+  about: "Historiador alemão da religião grega, professor em Zurique."
   note: null
 
 vernant:
   name_display: "Jean-Pierre Vernant"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1914–2007"
+  about: "Helenista francês, professor no Collège de France, estudioso do mito e da religião gregos."
   note: null
 
 veyne:
   name_display: "Paul Veyne"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1930–2022"
+  about: "Historiador francês de Roma antiga, professor no Collège de France."
   note: null
 
 esquilo:
@@ -628,31 +656,36 @@ sofocles:
 euripides:
   name_display: "Eurípides"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 480–406 a.C."
+  about: "O mais jovem dos três grandes trágicos de Atenas, de quem chegaram dezoito peças."
   note: null
 
 aristofanes:
   name_display: "Aristófanes"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 446–c. 386 a.C."
+  about: "O maior autor de comédias de Atenas; restam onze das suas peças."
   note: null
 
 kirk:
   name_display: "G. S. Kirk"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1921–2003"
+  about: "Classicista britânico, professor em Cambridge, estudioso de Homero e dos mitos."
   note: null
 
 raven:
   name_display: "J. E. Raven"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1914–1980"
+  about: "Classicista britânico, professor em Cambridge."
   note: null
 
 schofield:
   name_display: "M. Schofield"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1945–"
+  about: "Historiador britânico da filosofia antiga, professor em Cambridge."
   note: null
 
 mckirahan:
@@ -664,19 +697,22 @@ mckirahan:
 herodoto:
   name_display: "Heródoto"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 484–c. 425 a.C."
+  about: "Historiador grego nascido em Halicarnasso, na Ásia Menor, que viajou por boa parte do mundo conhecido."
   note: null
 
 xenofonte:
   name_display: "Xenofonte"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 430–c. 354 a.C."
+  about: "Historiador, soldado e discípulo de Sócrates, ateniense que viveu boa parte da vida exilado entre os espartanos."
   note: null
 
 hansen:
   name_display: "Mogens Herman Hansen"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1940–"
+  about: "Historiador dinamarquês da democracia ateniense e da cidade-Estado grega."
   note: null
 
 plutarco:
@@ -701,44 +737,51 @@ blackwell:
 epicuro:
   name_display: "Epicuro"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "341–270 a.C."
+  about: "Filósofo grego que fundou em Atenas a escola do Jardim."
   note: null
 
 epicteto:
   name_display: "Epicteto"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 50–c. 135"
+  about: "Filósofo estoico grego, nascido escravo na Frígia; liberto, ensinou em Roma e depois em Nicópolis."
   note: null
 
 beard:
   name_display: "Mary Beard"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1955–"
+  about: "Historiadora britânica de Roma antiga, professora em Cambridge e conhecida divulgadora."
   note: null
 
 woolf:
   name_display: "Greg Woolf"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1961–"
+  about: "Historiador britânico de Roma antiga."
   note: null
 
 virgilio:
   name_display: "Virgílio"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "70–19 a.C."
+  about: "Poeta romano, protegido de Augusto, autor também das *Bucólicas* e das *Geórgicas*."
   note: null
 
 hipocrates:
   name_display: "Hipócrates e escola hipocrática"
   name_variants: ["Hipócrates de Cós"]
   dates: "c. 460–c. 370 a.C."
+  about: "Médico grego da ilha de Cós. A tradição pôs sob o nome dele os escritos de toda uma escola."
   note: "Médico grego. Os tratados do Corpus hipocrático são de vários autores
          dos séculos V e IV a.C., reunidos sob o nome dele."
 
 euclides:
   name_display: "Euclides"
   name_variants: ["Euclides de Alexandria"]
-  dates: "séc. IV–III a.C."
+  dates: "ativo c. 300 a.C."
+  about: "Matemático grego que ensinou em Alexandria, no tempo de Ptolomeu I. Quase nada se sabe da vida dele."
   note: "Matemático grego que trabalhou em Alexandria por volta de 300 a.C."
 
 cairus:
@@ -784,43 +827,50 @@ ciro-lourenco:
 ovidio:
   name_display: "Ovídio"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "43 a.C.–c. 17 d.C."
+  about: "Poeta romano, exilado por Augusto no mar Negro em 8 d.C., onde morreu."
   note: null
 
 apuleio:
   name_display: "Apuleio"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 124–c. 170"
+  about: "Escritor, orador e filósofo platônico nascido no norte da África romana."
   note: null
 
 vegecio:
   name_display: "Flávio Vegécio"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Funcionário romano do fim do século IV, de quem só se conhece o tratado militar."
   note: "Nome latino: Publius Flavius Vegetius Renatus."
 
 seneca:
   name_display: "Sêneca"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 4 a.C.–65 d.C."
+  about: "Filósofo estoico, dramaturgo e político romano, preceptor de Nero, que o obrigou a se matar."
   note: null
 
 marco-aurelio:
   name_display: "Marco Aurélio"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "121–180"
+  about: "Imperador romano de 161 a 180, que passou boa parte do reinado em guerra nas fronteiras do Danúbio."
   note: null
 
 highet:
   name_display: "Gilbert Highet"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1906–1978"
+  about: "Crítico e classicista escocês, professor na Universidade Columbia."
   note: null
 
 campbell:
   name_display: "Joseph Campbell"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1904–1987"
+  about: "Estudioso norte-americano de mitologia comparada."
   note: null
 
 torrano:
@@ -1121,13 +1171,15 @@ kant:
 adorno:
   name_display: "Theodor W. Adorno"
   name_variants: ["Theodor Ludwig Wiesengrund Adorno"]
-  dates: null                 # a pesquisar
+  dates: "1903–1969"
+  about: "Filósofo, sociólogo e músico alemão, nome central da Escola de Frankfurt."
   note: "Coautor da Dialética do Esclarecimento com Horkheimer."
 
 horkheimer:
   name_display: "Max Horkheimer"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1895–1973"
+  about: "Filósofo alemão, diretor do Instituto de Pesquisa Social de Frankfurt."
   note: "Diretor do Instituto de Pesquisa Social de Frankfurt a partir de 1930."
 
 lukacs:
@@ -1149,19 +1201,22 @@ habermas:
 nietzsche:
   name_display: "Friedrich Nietzsche"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1844–1900"
+  about: "Filósofo alemão, crítico da moral cristã e da cultura do seu tempo."
   note: null
 
 freud:
   name_display: "Sigmund Freud"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1856–1939"
+  about: "Médico vienense, criador da psicanálise."
   note: null
 
 hume:
   name_display: "David Hume"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1711–1776"
+  about: "Filósofo e historiador escocês, um dos nomes centrais do empirismo."
   note: null
 
 # ------------------------------------------------------------------------
@@ -1176,7 +1231,8 @@ hume:
 noss:
   name_display: "David S. Noss"
   name_variants: []
-  dates: null
+  dates: "1896–1980"
+  about: "Historiador das religiões norte-americano, autor do manual que leva o seu nome, continuado pelo filho, David S. Noss."
   note: "Continuador da linhagem iniciada pelo pai, John B. Noss, em *Man's
          Religions* (1949). Se John B. Noss vier a entrar no acervo, o id
          precisa de desambiguação, como jaeger / jaeger-werner."
@@ -1185,24 +1241,28 @@ grangaard:
   name_display: "Blake R. Grangaard"
   name_variants: []
   dates: null
+  about: "Estudioso norte-americano das religiões, continuador do manual de John B. Noss."
   note: null
 
 armstrong:
   name_display: "Karen Armstrong"
   name_variants: []
-  dates: null
+  dates: "1944–"
+  about: "Escritora britânica de história das religiões, que foi freira católica na juventude."
   note: null
 
 eliade:
   name_display: "Mircea Eliade"
   name_variants: []
   dates: "1907–1986"
+  about: "Historiador das religiões e escritor romeno, professor em Chicago desde 1957."
   note: null
 
 culianu:
   name_display: "Ioan Petru Culianu"
   name_variants: ["Ioan P. Couliano", "Ioan Petru Couliano"]
   dates: "1950–1991"
+  about: "Historiador das religiões romeno, discípulo de Mircea Eliade e professor em Chicago, assassinado em 1991."
   note: "Discípulo e executor literário de Eliade. A redação do Dicionário
          das religiões é substancialmente dele: Eliade morreu em 1986 e a
          obra saiu em 1990."
@@ -1211,90 +1271,105 @@ berger:
   name_display: "Peter L. Berger"
   name_variants: []
   dates: "1929–2017"
+  about: "Sociólogo austríaco radicado nos Estados Unidos, estudioso da religião e da modernidade."
   note: null
 
 shaw:
   name_display: "Garry J. Shaw"
   name_variants: []
   dates: null
+  about: "Egiptólogo britânico, autor de livros de divulgação sobre o Egito antigo."
   note: null
 
 bottero:
   name_display: "Jean Bottéro"
   name_variants: []
   dates: "1914–2007"
+  about: "Assiriólogo francês, um dos grandes estudiosos da Mesopotâmia."
   note: null
 
 kaefer:
   name_display: "José Ademar Kaefer"
   name_variants: []
   dates: null
+  about: "Biblista brasileiro, professor da Universidade Metodista de São Paulo."
   note: null
 
 smith:
   name_display: "Mark S. Smith"
   name_variants: []
-  dates: null
+  dates: "1955–"
+  about: "Biblista norte-americano, especialista na religião do Israel antigo e nos textos de Ugarit."
   note: null
 
 finkelstein:
   name_display: "Israel Finkelstein"
   name_variants: []
-  dates: null
+  dates: "1949–"
+  about: "Arqueólogo israelense, professor da Universidade de Tel Aviv, nome central da arqueologia bíblica crítica."
   note: null
 
 romer:
   name_display: "Thomas Römer"
   name_variants: []
-  dates: null
+  dates: "1955–"
+  about: "Biblista nascido na Alemanha, professor em Lausanne e no Collège de France, especialista na formação do Pentateuco."
   note: null
 
 kugel:
   name_display: "James L. Kugel"
   name_variants: []
-  dates: null
+  dates: "1945–"
+  about: "Estudioso norte-americano da Bíblia hebraica e da sua interpretação antiga, professor em Harvard."
   note: null
 
 ehrman:
   name_display: "Bart D. Ehrman"
   name_variants: []
-  dates: null
+  dates: "1955–"
+  about: "Especialista norte-americano no Novo Testamento e no cristianismo antigo, professor na Universidade da Carolina do Norte."
   note: null
 
 vermes:
   name_display: "Géza Vermes"
   name_variants: []
   dates: "1924–2013"
+  about: "Historiador húngaro-britânico, professor em Oxford, estudioso dos manuscritos do mar Morto e do Jesus histórico."
   note: null
 
 rahula:
   name_display: "Walpola Rahula"
   name_variants: ["Walpola Rāhula Thera"]
   dates: "1907–1997"
+  about: "Monge budista e estudioso do Sri Lanka."
   note: null
 
 jefferson:
   name_display: "Thomas Jefferson"
   name_variants: []
   dates: "1743–1826"
+  about: "Terceiro presidente dos Estados Unidos e autor da Declaração de Independência."
   note: null
 
 xavier:
   name_display: "Francisco Xavier"
   name_variants: ["São Francisco Xavier", "Francis Xavier", "Francisco de Jasso y Azpilicueta"]
   dates: "1506–1552"
+  about: "Missionário jesuíta navarro, companheiro de Inácio de Loyola, que pregou na Índia, nas Molucas e no Japão."
   note: null
 
 joao-paulo-ii:
   name_display: "João Paulo II"
   name_variants: ["Karol Wojtyła", "John Paul II"]
   dates: "1920–2005"
+  about: "Karol Wojtyła, cardeal polonês eleito papa em 1978."
   note: null
 
 messori:
   name_display: "Vittorio Messori"
   name_variants: []
-  dates: null
+  dates: "1941–"
+  about: "Jornalista e escritor católico italiano."
   note: "ENTREVISTADOR de Cruzando o Limiar da Esperança, não coautor no
          sentido comum. O campo `authors` da obra não distingue o papel;
          levantado em review/religion.md §8."
@@ -1455,6 +1530,7 @@ pseudo-apolodoro:
   name_display: "Pseudo-Apolodoro"
   name_variants: ["Apolodoro", "Apollodorus", "Apolodoro de Atenas"]
   dates: null                 # datação da obra disputada; ver a obra, não a pessoa
+  about: "Nome que se dá ao autor desconhecido da *Biblioteca* de mitos, que a tradição atribuiu por engano a Apolodoro de Atenas."
   note: "Autor desconhecido da Bibliotheca. A obra foi atribuída a Apolodoro de
          Atenas (n. c. 180 a.C.), aluno de Aristarco, mas o texto que temos é de
          um autor posterior — Harvard situa-o no séc. I ou II d.C., a Fondazione
@@ -1507,6 +1583,7 @@ gooley:
   name_display: "Tristan Gooley"
   name_variants: []
   dates: null
+  about: "Navegador e escritor britânico, especialista em navegação natural."
   note: "Navegador e escritor britânico. Escreve sobre navegação natural e
          leitura de sinais do ambiente — para o hemisfério norte temperado, o
          que limita o repertório, não o método."
@@ -2065,12 +2142,14 @@ alton:
   name_display: "Joseph Alton"
   name_variants: ["Joe Alton", "Joseph Alton MD"]
   dates: null
+  about: "Médico norte-americano, especialista em medicina de sobrevivência."
   note: "Médico. Coautor, com Amy Alton, de The Survival Medicine Handbook."
 
 amy-alton:
   name_display: "Amy Alton"
   name_variants: ["Amy Alton APRN"]
   dates: null
+  about: "Enfermeira norte-americana, coautora com Joseph Alton."
   note: "Enfermeira de prática avançada. Coautora, com Joseph Alton, de The
          Survival Medicine Handbook."
 
@@ -2097,31 +2176,36 @@ humberto-costa:
 krakauer:
   name_display: "Jon Krakauer"
   name_variants: []
-  dates: null
+  dates: "1954–"
+  about: "Jornalista e alpinista norte-americano."
   note: null
 
 cline:
   name_display: "Eric H. Cline"
   name_variants: []
-  dates: null
+  dates: "1960–"
+  about: "Arqueólogo e historiador norte-americano, professor na Universidade George Washington."
   note: "Arqueólogo e historiador do Mediterrâneo antigo."
 
 leclerc:
   name_display: "André Leclerc"
   name_variants: []
   dates: null
+  about: "Filósofo nascido no Canadá e radicado no Brasil, professor universitário de filosofia da mente e da linguagem."
   note: "Professor de filosofia; autor de Uma introdução à filosofia da mente (Appris)."
 
 stevenson:
   name_display: "Robert Louis Stevenson"
   name_variants: []
   dates: "1850–1894"
+  about: "Escritor escocês, autor também de *O médico e o monstro*."
   note: null
 
 defoe:
   name_display: "Daniel Defoe"
   name_variants: []
-  dates: "1660–1731"
+  dates: "c. 1660–1731"
+  about: "Escritor, jornalista e panfletário inglês."
   note: null
 
 ahrens:
@@ -2135,18 +2219,21 @@ london:
   name_display: "Jack London"
   name_variants: []
   dates: "1876–1916"
+  about: "Escritor norte-americano, que esteve na corrida do ouro do Klondike em 1897."
   note: null
 
 warburton:
   name_display: "Nigel Warburton"
   name_variants: []
-  dates: null
+  dates: "1962–"
+  about: "Filósofo e divulgador britânico."
   note: null
 
 cerbasi:
   name_display: "Gustavo Cerbasi"
   name_variants: []
   dates: null
+  about: "Planejador financeiro e escritor brasileiro."
   note: null
 
 matos:
@@ -2181,14 +2268,16 @@ bettoni:
 dickinson:
   name_display: "Terence Dickinson"
   name_variants: []
-  dates: null
+  dates: "1943–"
+  about: "Divulgador canadense de astronomia."
   note: "Divulgador canadense de astronomia amadora; autor de NightWatch e
          coautor de The Backyard Astronomer's Guide."
 
 dyer:
   name_display: "Alan Dyer"
   name_variants: []
-  dates: null
+  dates: "1953–"
+  about: "Astrônomo amador e fotógrafo canadense."
   note: "Coautor, com Terence Dickinson, de The Backyard Astronomer's Guide."
 
 leonidas-hegenberg:
@@ -2261,45 +2350,52 @@ yvette-vieira-pinto-de-almeida:
 van-de-mieroop:
   name_display: "Marc Van De Mieroop"
   name_variants: ["Marc Van de Mieroop"]
-  dates: null
+  dates: "1956–"
+  about: "Historiador belga do Oriente Próximo antigo, professor na Universidade Columbia."
   note: "Historiador do antigo Oriente Próximo e do Egito (Columbia University)."
 
 brosius:
   name_display: "Maria Brosius"
   name_variants: []
   dates: null
+  about: "Historiadora alemã do império persa, professora na Universidade de Toronto."
   note: "Historiadora do império aquemênida."
 
 rhodes:
   name_display: "P. J. Rhodes"
   name_variants: ["Peter John Rhodes"]
-  dates: "1940–2021"
+  dates: "1940–"
+  about: "Historiador britânico da Grécia clássica, professor em Durham."
   note: "Historiador da Grécia clássica (Durham)."
 
 chaniotis:
   name_display: "Angelos Chaniotis"
   name_variants: []
-  dates: null
+  dates: "1959–"
+  about: "Historiador grego do mundo helenístico, professor no Instituto de Estudos Avançados de Princeton."
   note: "Historiador e epigrafista do mundo grego helenístico e imperial
          (Institute for Advanced Study, Princeton)."
 
 mitchell:
   name_display: "Stephen Mitchell"
   name_variants: []
-  dates: null
+  dates: "1948–"
+  about: "Historiador britânico da Anatólia antiga e do Império Romano tardio."
   note: "Historiador do Império Romano tardio e da Anatólia antiga. Não é o
          tradutor homônimo de Gilgamesh e do Tao Te Ching."
 
 cameron:
   name_display: "Averil Cameron"
   name_variants: []
-  dates: null
+  dates: "1940–"
+  about: "Historiadora britânica da Antiguidade tardia e de Bizâncio, professora em Oxford."
   note: "Historiadora da Antiguidade tardia e de Bizâncio (Oxford)."
 
 brown-peter:
   name_display: "Peter Brown"
   name_variants: []
-  dates: null
+  dates: "1935–"
+  about: "Historiador irlandês da Antiguidade tardia, professor em Princeton."
   note: "Historiador da Antiguidade tardia (Princeton). Não é o Peter C. Brown
          de Make It Stick (id `brown`)."
 
@@ -2327,13 +2423,15 @@ voegelin:
 taylor:
   name_display: "Charles Taylor"
   name_variants: []
-  dates: null
+  dates: "1931–"
+  about: "Filósofo canadense, professor em McGill, estudioso da identidade moderna e da secularização."
   note: "Filósofo canadense."
 
 gregory:
   name_display: "Brad S. Gregory"
   name_variants: ["Brad Gregory"]
   dates: null
+  about: "Historiador norte-americano da Reforma, professor na Universidade de Notre Dame."
   note: "Historiador da Reforma (Universidade de Notre Dame)."
 
 luzia-araujo:
@@ -2528,6 +2626,7 @@ otto:
   name_display: "Rudolf Otto"
   name_variants: []
   dates: "1869–1937"
+  about: "Teólogo protestante alemão e estudioso comparado das religiões, professor em Marburgo."
   note: "Teólogo e historiador das religiões alemão. Entrou em 2026-10-30
          com O Sagrado (cartão d-rel-adler-classicos)."
 
@@ -2535,6 +2634,7 @@ durkheim:
   name_display: "Émile Durkheim"
   name_variants: []
   dates: "1858–1917"
+  about: "Sociólogo francês, um dos fundadores da sociologia como disciplina."
   note: "Sociólogo francês. Entrou em 2026-10-30 com As Formas Elementares
          da Vida Religiosa (cartão d-rel-adler-classicos)."
 
@@ -2542,6 +2642,7 @@ william-james:
   name_display: "William James"
   name_variants: []
   dates: "1842–1910"
+  about: "Psicólogo e filósofo norte-americano, professor em Harvard e um dos fundadores do pragmatismo."
   note: "Psicólogo e filósofo norte-americano. Entrou em 2026-10-30 com As
          Variedades da Experiência Religiosa (cartão d-rel-adler-classicos)."
 
@@ -2549,6 +2650,7 @@ hamurabi:
   name_display: "Hamurábi"
   name_variants: ["Hammurabi"]
   dates: "reinou c. 1792–1750 a.C."
+  about: "Rei da Babilônia, que unificou a Mesopotâmia sob o seu governo."
   note: "Rei da Babilônia. O Código leva o nome dele. Entrou em 2026-10-30
          (cartão d-ane-adler-fontes)."
 
@@ -2657,48 +2759,56 @@ lucrecio:
   name_display: "Lucrécio"
   name_variants: ["Tito Lucrécio Caro"]
   dates: "c. 99–c. 55 a.C."
+  about: "Poeta e filósofo epicurista romano, de quem quase nada se sabe além do poema."
   note: "Poeta e filósofo epicurista romano."
 
 polibio:
   name_display: "Políbio"
   name_variants: []
   dates: "c. 200–c. 118 a.C."
+  about: "Político e historiador grego, levado a Roma como refém em 167 a.C., onde se tornou amigo de Cipião Emiliano."
   note: "Historiador grego, refém em Roma por dezessete anos."
 
 tacito:
   name_display: "Tácito"
   name_variants: ["Públio Cornélio Tácito"]
   dates: "c. 56–c. 120"
+  about: "Historiador e senador romano, cônsul em 97."
   note: "Historiador e senador romano."
 
 eusebio:
   name_display: "Eusébio de Cesareia"
   name_variants: []
-  dates: "c. 260–339"
+  dates: "c. 263–339"
+  about: "Bispo de Cesareia, na Palestina, conselheiro do imperador Constantino e o primeiro historiador da Igreja."
   note: "Bispo de Cesareia, na Palestina; a primeira história da Igreja."
 
 anselmo:
   name_display: "Anselmo de Cantuária"
   name_variants: ["Santo Anselmo"]
   dates: "1033–1109"
+  about: "Monge beneditino nascido em Aosta, abade de Bec, na Normandia, e depois arcebispo de Cantuária."
   note: "Monge beneditino e arcebispo de Cantuária."
 
 lutero:
   name_display: "Martinho Lutero"
   name_variants: []
   dates: "1483–1546"
+  about: "Monge e professor de teologia alemão, iniciador da Reforma protestante."
   note: "Teólogo alemão, iniciador da Reforma protestante."
 
 henderson-john:
   name_display: "John Henderson"
   name_variants: []
   dates: null
+  about: "Classicista britânico, professor em Cambridge."
   note: "Professor de latim em Cambridge; coautor, com Mary Beard, de Classical Art."
 
 smith-jz:
   name_display: "Jonathan Z. Smith"
   name_variants: ["J. Z. Smith"]
   dates: "1938–2017"
+  about: "Historiador das religiões norte-americano, professor na Universidade de Chicago."
   note: "Historiador das religiões da Universidade de Chicago, crítico do método de Eliade."
 
 rodrigo-goncalves:
@@ -2765,19 +2875,22 @@ lourival-machado:
 flood:
   name_display: "Gavin Flood"
   name_variants: []
-  dates: null
+  dates: "1954–"
+  about: "Estudioso britânico do hinduísmo, professor em Oxford."
   note: "Professor de religião comparada em Oxford, estudioso do hinduísmo."
 
 demant:
   name_display: "Peter Demant"
   name_variants: []
-  dates: null
+  dates: "1951–"
+  about: "Historiador holandês radicado no Brasil, professor da Universidade de São Paulo."
   note: "Historiador, professor de relações internacionais da USP, estudioso do mundo muçulmano."
 
 scholem:
   name_display: "Gershom Scholem"
   name_variants: []
   dates: "1897–1982"
+  about: "Estudioso judeu nascido em Berlim, que emigrou para a Palestina em 1923 e ensinou na Universidade Hebraica de Jerusalém."
   note: "Historiador da mística judaica, professor da Universidade Hebraica de Jerusalém."
 
 rogerio-duarte:
@@ -2824,48 +2937,56 @@ flusser:
   name_display: "David Flusser"
   name_variants: []
   dates: "1917–2000"
+  about: "Historiador israelense, nascido em Viena, professor da Universidade Hebraica de Jerusalém."
   note: "Historiador do judaísmo antigo e do cristianismo primitivo, professor da Universidade Hebraica de Jerusalém."
 
 hadot:
   name_display: "Pierre Hadot"
   name_variants: []
   dates: "1922–2010"
+  about: "Filósofo e historiador francês da filosofia antiga, professor no Collège de France."
   note: "Historiador da filosofia antiga, professor do Collège de France."
 
 almond:
   name_display: "Philip C. Almond"
   name_variants: []
-  dates: null
+  dates: "1951–"
+  about: "Historiador australiano das religiões, professor na Universidade de Queensland."
   note: "Historiador das religiões, professor da Universidade de Queensland."
 
 carvalho-franca:
   name_display: "Jean Marcel Carvalho França"
   name_variants: []
   dates: null
+  about: "Historiador brasileiro, professor da Unesp, estudioso dos relatos de viajantes sobre o Brasil colonial."
   note: "Historiador, professor da Unesp, estudioso dos relatos de viajantes sobre o Brasil colonial."
 
 sheila-hue:
   name_display: "Sheila Hue"
   name_variants: []
   dates: null
+  about: "Professora brasileira de literatura portuguesa, estudiosa dos textos coloniais."
   note: "Professora de literatura portuguesa da UERJ, estudiosa do Brasil colonial."
 
 townsend:
   name_display: "Camilla Townsend"
   name_variants: []
-  dates: null
+  dates: "1965–"
+  about: "Historiadora norte-americana dos povos nauas, professora em Rutgers."
   note: "Historiadora da Universidade Rutgers, estudiosa dos povos nauas e das fontes em náuatle."
 
 matsumoto:
   name_display: "Mallory E. Matsumoto"
   name_variants: []
   dates: null
+  about: "Estudiosa norte-americana das culturas maias, professora na Universidade do Texas em Austin."
   note: "Estudiosa da escrita e da religião maias."
 
 frankopan:
   name_display: "Peter Frankopan"
   name_variants: []
-  dates: null
+  dates: "1971–"
+  about: "Historiador britânico, professor em Oxford, estudioso de Bizâncio e da Rota da Seda."
   note: "Historiador da Universidade de Oxford, estudioso de Bizâncio e da história global."
 
 goldsztajn:

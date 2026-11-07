@@ -41,7 +41,7 @@ Ensaio do escritor peruano Mario Vargas Llosa, publicado em espanhol em 2012. Ar
 
 - **A pergunta:** o que acontece com a cultura quando ela passa a existir para entreter?
 - **Onde está o centro:** o ensaio que dá título ao livro e os capítulos sobre a banalização da arte, do jornalismo, da política e da religião.
-- **Postura:** É um ensaio acessível, de escritor, e se lê depressa. Leia como diagnóstico a avaliar: Mario Vargas Llosa generaliza a partir da própria experiência. Compare com Roger Scruton e Byung-Chul Han.
+- **Postura:** É um ensaio acessível, de escritor, e se lê depressa. Leia como diagnóstico a avaliar: Mario Vargas Llosa generaliza a partir da própria experiência. Compare com [[obra:scruton--culture-counts|Roger Scruton]] e [[obra:han--muedigkeitsgesellschaft|Byung-Chul Han]].
 
 ## Fatos
 

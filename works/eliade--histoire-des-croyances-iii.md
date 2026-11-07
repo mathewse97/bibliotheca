@@ -55,7 +55,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Terceiro e último volume escrito por Mircea Eliade de sua história das religiões, publicado em francês em 1983. Trata de Maomé e do islã, do cristianismo medieval, do judaísmo e de outras tradições até a época das Reformas. A obra foi planejada em quatro volumes, mas o autor morreu em 1986 sem concluir o quarto.
+Terceiro e último volume escrito por Mircea Eliade de sua história das religiões, publicado em francês em 1983. Trata de [[pessoa:maome|Maomé]] e do islã, do cristianismo medieval, do judaísmo e de outras tradições até a época das Reformas. A obra foi planejada em quatro volumes, mas o autor morreu em 1986 sem concluir o quarto.
 
 ## Como ler
 

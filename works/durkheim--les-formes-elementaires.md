@@ -40,4 +40,4 @@ Livro de Émile Durkheim, publicado em 1912, a partir do totemismo dos povos abo
 
 - **A pergunta:** o que é a religião, e de onde vem a força que ela tem sobre as pessoas?
 - **Onde está o centro:** o livro I, capítulo 1, com a definição de religião; e o livro II, capítulo 7, onde Durkheim explica a origem da força religiosa pela vida coletiva.
-- **Postura:** A parte etnográfica sobre a Austrália é longa e envelheceu nos dados; leia-a como exemplo do método e não como fato. O argumento é que conta. Leia ao lado de Otto, que põe na origem a experiência individual do sagrado.
+- **Postura:** A parte etnográfica sobre a Austrália é longa e envelheceu nos dados; leia-a como exemplo do método e não como fato. O argumento é que conta. Leia ao lado de [[obra:otto--das-heilige|Rudolf Otto]], que põe na origem a experiência individual do sagrado.

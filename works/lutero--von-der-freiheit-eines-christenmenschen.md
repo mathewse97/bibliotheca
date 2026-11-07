@@ -34,10 +34,10 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Tratado curto de Martinho Lutero, de 1520, o ano em que ele rompeu com Roma, enviado ao papa Leão X. Resume a Reforma em dois paradoxos: o cristão é senhor livre de todas as coisas e não está sujeito a ninguém; o cristão é servo de todas as coisas e está sujeito a todos. Livre pela fé, que justifica sem as obras; servo pelo amor ao próximo.
+Tratado curto de Martinho Lutero, de 1520, o ano em que ele rompeu com Roma, enviado ao papa Leão X. Resume a [[termo:reforma|Reforma]] em dois paradoxos: o cristão é senhor livre de todas as coisas e não está sujeito a ninguém; o cristão é servo de todas as coisas e está sujeito a todos. Livre pela fé, que justifica sem as obras; servo pelo amor ao próximo.
 
 ## Como ler
 
 - **A pergunta:** se a salvação vem só da fé, para que servem as boas obras?
 - **Onde está o centro:** os dois paradoxos do começo e a explicação de por que as obras não justificam, mas brotam da fé.
-- **Postura:** é curto e foi escrito para ser lido por leigos; compare com a *Ética Protestante*, de Weber, que trata das consequências.
+- **Postura:** é curto e foi escrito para ser lido por leigos; compare com a [[obra:weber--die-protestantische-ethik|*Ética Protestante*]], de Max Weber, que trata das consequências.

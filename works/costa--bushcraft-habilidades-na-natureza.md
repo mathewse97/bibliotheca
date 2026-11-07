@@ -48,7 +48,7 @@ Manual brasileiro de bushcraft de Humberto Costa, publicado em 2022. Trata de fe
 
 - **A pergunta:** como se manter na mata brasileira com ferramentas simples e habilidade?
 - **Onde está o centro:** os capítulos sobre ferramentas de corte, abrigo, água e fogo; nós e amarras e escultura em madeira vêm depois.
-- **Postura:** É um manual: leia inteiro em casa e pratique no campo. Por ser brasileiro, complementa o de Dave Canterbury, escrito para a América do Norte.
+- **Postura:** É um manual: leia inteiro em casa e pratique no campo. Por ser brasileiro, complementa o [[obra:canterbury--bushcraft-101|de Dave Canterbury]], escrito para a América do Norte.
 
 ## Fatos
 

@@ -63,7 +63,7 @@ Obra de Mircea Eliade publicada em francês em 1949, que propõe uma morfologia 
 
 - **A pergunta:** que formas o sagrado assume nas religiões, e o que elas têm em comum?
 - **Onde está o centro:** os primeiros capítulos (o céu, o sol, a lua, as águas), que mostram o método de reunir exemplos de muitas culturas em torno de um símbolo; e os capítulos finais, sobre o espaço e o tempo sagrados e a estrutura dos mitos e dos símbolos.
-- **Postura:** É longo e se lê por partes, mais como consulta por tema do que de ponta a ponta. *O Sagrado e o Profano*, do mesmo Mircea Eliade, resume as conclusões; se o tempo for curto, comece por ele.
+- **Postura:** É longo e se lê por partes, mais como consulta por tema do que de ponta a ponta. [[obra:eliade--das-heilige-und-das-profane|*O Sagrado e o Profano*]], do mesmo Mircea Eliade, resume as conclusões; se o tempo for curto, comece por ele.
 
 ## Fatos
 

@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--solon
-    why: "Traduzida direto do grego por Delfim F. Leão e José Luís Brandão, com introdução e notas, na série de Coimbra das outras Vidas. É a única edição cuidadosa em português de Sólon e Publícola; é de Portugal e precisa ser importada, mas há versão digital gratuita da universidade."
+    why: "Traduzida direto do grego por Delfim F. Leão e José Luís Brandão, com introdução e notas, na série de Coimbra das outras Vidas. É a única edição cuidadosa em português de [[pessoa:solon|Sólon]] e Publícola; é de Portugal e precisa ser importada, mas há versão digital gratuita da universidade."
     verdict: recommended
     reason: "Comparada em 2026-10-10 com a da Gredos (espanhol): tradução direta do grego, com introdução e notas, da série de Coimbra usada para as outras Vidas da coleção. Única edição acadêmica em português deste par."
     translator: [delfim-leao, brandao]

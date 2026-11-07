@@ -32,7 +32,7 @@ source_of_record: claude
 
 contains:
   - work: platao--politeia
-    why: "Tradução de Carlos Alberto Nunes, tradutor de Homero e Virgílio, feita direto do grego, com o grego ao lado para conferir os termos-chave, e uma introdução do filósofo Benedito Nunes que situa a obra."
+    why: "Tradução de Carlos Alberto Nunes, tradutor de [[pessoa:homero|Homero]] e [[pessoa:virgilio|Virgílio]], feita direto do grego, com o grego ao lado para conferir os termos-chave, e uma introdução do filósofo Benedito Nunes que situa a obra."
     verdict: recommended
     reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Gulbenkian (Maria Helena da Rocha Pereira), que ele não encontrou em bom estado; Martins Fontes (Anna Lia Amaral de Almeida Prado)."
     translator: [carlos-alberto-nunes]

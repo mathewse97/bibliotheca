@@ -40,4 +40,4 @@ Ensaio de T. S. Eliot, publicado em 1948 a partir de artigos de 1943 em diante. 
 
 - **A pergunta:** o que é a cultura, como ela passa de uma geração a outra, e por que não pode ser fabricada?
 - **Onde está o centro:** o capítulo 1, sobre os três sentidos de cultura (o do indivíduo, o do grupo e o da sociedade inteira) e a cultura como religião encarnada; e os capítulos 2 e 3, sobre classe e elite, e sobre unidade e diversidade das regiões.
-- **Postura:** Eliot escreve como cristão anglicano e conservador, e não esconde isso: para ele nenhuma cultura nasce ou dura sem religião. É curto; leia devagar, porque as frases são muito condensadas. Os diagnósticos que vêm depois na coleção, como os de Roger Scruton e Mario Vargas Llosa, dialogam com ele.
+- **Postura:** Eliot escreve como cristão anglicano e conservador, e não esconde isso: para ele nenhuma cultura nasce ou dura sem religião. É curto; leia devagar, porque as frases são muito condensadas. Os diagnósticos que vêm depois na coleção, como os de [[obra:scruton--culture-counts|Roger Scruton]] e [[obra:vargas-llosa--la-civilizacion-del-espectaculo|Mario Vargas Llosa]], dialogam com ele.

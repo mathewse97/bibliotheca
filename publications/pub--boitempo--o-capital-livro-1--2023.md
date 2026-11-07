@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: marx--das-kapital-1
-    why: "Tradução direta do alemão por Rubens Enderle, feita sobre a edição crítica MEGA-2, a de referência das obras de Marx e Engels. A mais recente em português e a única em catálogo da editora que publica as obras de Marx no Brasil. À venda nova."
+    why: "Tradução direta do alemão por Rubens Enderle, feita sobre a edição crítica MEGA-2, a de referência das obras de Marx e [[pessoa:engels|Friedrich Engels]]. A mais recente em português e a única em catálogo da editora que publica as obras de Marx no Brasil. À venda nova."
     verdict: recommended
     reason: "Pesquisa de 2026-10-31 (cartão d-pol-adler-marxismo, opção A). Comparada com a da Nova Cultural / Abril (trad. Regis Barbosa e Flávio R. Kothe, coleção Os Economistas) e a da Civilização Brasileira (trad. Reginaldo Sant'Anna), ambas antigas e esgotadas. Tradutor conhecido, direto do alemão, sobre o texto crítico (§F.2)."
     translator: [enderle]

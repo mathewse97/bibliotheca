@@ -69,7 +69,7 @@ Poema babilônico anônimo da criação, composto em acádio no segundo milênio
 
 - **A pergunta:** como o mundo passou do caos à ordem, e por que Marduk, o deus da Babilônia, reina sobre os outros deuses?
 - **Onde está o centro:** o começo, com as águas primordiais, Apsu (a água doce) e Tiamat (a água salgada); a guerra entre os deuses jovens e Tiamat; a vitória de Marduk, que parte o corpo dela ao meio e faz dele o céu e a terra; a criação dos homens para servir aos deuses; e a lista final dos cinquenta nomes de Marduk.
-- **Postura:** É um poema que era recitado nas festas de ano novo da Babilônia, e tem também função política: exaltar o deus da cidade. Leia comparando com o primeiro capítulo do Gênesis e com a *Teogonia* de Hesíodo, que contam a origem do mundo de outros modos.
+- **Postura:** É um poema que era recitado nas festas de ano novo da Babilônia, e tem também função política: exaltar o deus da cidade. Leia comparando com o primeiro capítulo do [[obra:biblia|Gênesis]] e com a [[obra:hesiodo--theogonia|*Teogonia*]] de Hesíodo, que contam a origem do mundo de outros modos.
 
 ## Fatos
 

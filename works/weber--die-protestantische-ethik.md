@@ -61,7 +61,7 @@ Estudo de Max Weber publicado em alemão em 1904–1905 e revisto em 1920. Suste
 ## Como ler
 
 - **A pergunta:** por que o capitalismo moderno nasceu onde nasceu, e que papel teve nisso uma ética religiosa?
-- **Onde está o centro:** a primeira parte, que apresenta o problema e o espírito do capitalismo, com os conselhos de Benjamin Franklin; o capítulo sobre a ideia de vocação em Lutero; e a segunda parte, sobre a ética dos puritanos e a doutrina da predestinação de Calvino. O final, com a imagem da jaula de ferro, é célebre.
+- **Onde está o centro:** a primeira parte, que apresenta o problema e o espírito do capitalismo, com os conselhos de [[pessoa:benjamin-franklin|Benjamin Franklin]]; o capítulo sobre a ideia de vocação em [[pessoa:lutero|Martinho Lutero]]; e a segunda parte, sobre a ética dos puritanos e a doutrina da predestinação de [[pessoa:calvino|João Calvino]]. O final, com a imagem da jaula de ferro, é célebre.
 - **Postura:** O argumento é fino e costuma ser mal resumido: Weber não diz que a religião causou o capitalismo, mas que houve uma afinidade entre os dois. As notas de rodapé são longas e importantes; leia ao menos parte delas.
 
 ## Fatos

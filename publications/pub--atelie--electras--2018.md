@@ -30,7 +30,7 @@ source_of_record: claude
 
 contains:
   - work: sofocles--elektra
-    why: "A Electra de Sófocles traduzida direto do grego por Trajano Vieira, num volume que traz também a de Eurípides, na tradução dele. Bom para ler as duas versões lado a lado. Sem o grego."
+    why: "A Electra de Sófocles traduzida direto do grego por Trajano Vieira, num volume que traz também [[obra:euripides--elektra|a de Eurípides]], na tradução dele. Bom para ler as duas versões lado a lado. Sem o grego."
     verdict: recommended
     reason: "Pesquisa de 2026-10-31 (cartão d-greco-adler-tragedias, opção B). A única tradução da Electra de Sófocles por Trajano Vieira, o tradutor das outras três peças; tradutor conhecido, direta do grego (§F.2). A Electra de Eurípides, no mesmo livro, não substitui a de Jaa Torrano, que a coleção usa."
     translator: [trajano-vieira]
