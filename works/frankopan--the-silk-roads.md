@@ -16,7 +16,7 @@ period_covered: {from: -500, to: 2000}
 traditions: []
 subjects: [historia-global, rota-da-seda, asia-central]
 places: [mundo, asia-central]
-themes: [imperio, economia-trabalho]
+themes: [imperios-ascensao-queda, imperio, economia-trabalho]
 
 research_status: partially_researched
 missing: []

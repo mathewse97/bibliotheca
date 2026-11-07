@@ -102,3 +102,9 @@ themes:
   defesa: {label: "Defesa", group: pratica}
   construcao: {label: "Construção", group: pratica}
   autossuficiencia: {label: "Autossuficiência e economia doméstica", group: pratica}
+
+# Fios do Guia do ano (interface-rules §16, regra de 2026-11-07): temas quase
+# iguais contam como um só fio, com este nome.
+thread_merge:
+  imperios: {label: "Impérios", themes: [imperio, imperios-ascensao-queda]}
+  mitos-deuses: {label: "Mitos e deuses", themes: [mito-criacao, deuses-herois]}
