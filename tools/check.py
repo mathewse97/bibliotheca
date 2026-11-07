@@ -20,6 +20,7 @@
 # junto com a plataforma.
 #
 #   python3 tools/build.py && python3 tools/check.py
+#   python3 tools/check.py --refs   (lista os nomes e títulos sem marcação)
 #
 # Saída 0 = pode entrar. Saída 1 = não pode, e o motivo está impresso.
 # ---------------------------------------------------------------------------
@@ -80,6 +81,13 @@ def main():
     if stale or abertas:
         print("  aviso (não reprova): %d conclusão(ões) stale · %d proposta(s) "
               "estrutural(is) aberta(s)" % (stale, abertas))
+    refw = c.get("ref_warnings") or 0
+    if "--refs" in sys.argv:
+        for it in idx.get("ref_warnings") or []:
+            print("   ·", it.get("where"), "→", it.get("ref"))
+    if refw:
+        print("  aviso (não reprova): %d nome(s) de autor ou título de obra citado(s) "
+              "sem marcação no texto (interface-rules §19)" % refw)
     return 0
 
 

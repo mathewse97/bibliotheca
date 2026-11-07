@@ -1736,7 +1736,7 @@ function vColecao(id){
       return {vol:vmap[s.work]||null, n:s.n, html:wrapEd(w, `<div class="row"${dim}><div class="n">${thumbWork(w, w.memberships.find(mm=>mm.collection===id))}<div class="small muted" style="margin-top:3px">${s.n}</div></div>
         <div class="t">${lk('obra/'+s.work, wTitle(s.work))}${edMark(w)}
           <div class="au">${E(wAuthors(s.work))}</div>
-          ${s.why_here?`<div class="small muted" style="margin-top:4px">${E(s.why_here)}${byMark(s.why_here_by)}</div>`:''}
+          ${s.why_here?`<div class="small muted" style="margin-top:4px">${mdi(s.why_here)}${byMark(s.why_here_by)}</div>`:''}
           ${(s.requires||[]).length?`<div class="small" style="margin-top:3px"><span class="lock">requer</span> ${s.requires.map(r=>wLink(r)).join(', ')}</div>`:''}
           ${s.scope?`<div class="small"><span class="lock">escopo</span> ${E(s.scope)}</div>`:''}</div>
         <div class="meta">${litBadge(w, s)}
@@ -1798,7 +1798,7 @@ function vColecao(id){
           <span class="mvnum">${E(num)}</span>
           <span class="mvtitle">${E(nome)}</span>
           <span class="mvmeta">${c.obras} obra${c.obras===1?'':'s'}${ns.length?` · nº ${ns[0]}–${ns[ns.length-1]}`:''}<span class="chev">▾</span></span>
-          ${s.purpose?`<span class="mvpurpose">${E(s.purpose)}${byMark(s.purpose_by)}</span>`:''}
+          ${s.purpose?`<span class="mvpurpose">${mdi(s.purpose)}${byMark(s.purpose_by)}</span>`:''}
         </button>
         <div class="mvbody">
           ${c.html}
@@ -1853,7 +1853,7 @@ function bodySections(html){
      nunca vaza para dentro da seção exibida acima dele */
   const parts = html.split(/<h[2-6][^>]*>/i).slice(1);
   parts.forEach(p=>{ const m=/<\/h[2-6]>/i.exec(p); if(!m) return;
-    out[p.slice(0,m.index).replace(/<[^>]+>/g,'').trim()] = p.slice(m.index+5).trim(); });
+    out[p.slice(0,m.index).replace(/<[^>]+>/g,'').trim()] = refs(p.slice(m.index+5).trim()); });
   return out;
 }
 const vazio = h => !h || /^(<p>)?\s*(—|-)?\s*(<\/p>)?$/.test(h.trim());
@@ -1883,7 +1883,7 @@ function collExtras(k){
     out += `<h2>Por que esta ordem</h2><div class="panel orderpanel">
       ${mvs.length?`<ol class="steps">${mvs.map(s=>{const m=/^\s*([IVXLCDM]+)\s*[.—-]\s*(.+)$/.exec(s.movement||'');
         return `<li><span class="stn">${E(m?m[1]:'')}</span><div><b>${E(m?m[2]:s.movement)}</b>
-          ${s.purpose?`<div class="small muted">${E(s.purpose)}</div>`:''}</div></li>`;}).join('')}</ol>`:''}
+          ${s.purpose?`<div class="small muted">${mdi(s.purpose)}</div>`:''}</div></li>`;}).join('')}</ol>`:''}
       ${why&&!vazio(why)?`<details class="more"><summary>Ler a justificativa completa</summary><div class="prose">${why}</div></details>`:''}
     </div>`;
   }
@@ -2002,7 +2002,7 @@ function vObra(id){
     <div class="n">${m.n}</div>
     <div class="t">${lk('colecao/'+m.collection, m.collection_title)}
       ${m.movement?`<div class="au">${E(m.movement)}</div>`:''}
-      ${m.why_here?`<div class="small muted" style="margin-top:3px">${E(m.why_here)}</div>`:''}
+      ${m.why_here?`<div class="small muted" style="margin-top:3px">${mdi(m.why_here)}</div>`:''}
       ${(m.requires||[]).length?`<div class="small" style="margin-top:3px">Leia antes: ${m.requires.map(r=>wLink(r)).join(', ')}</div>`:''}</div>
     <div class="meta">${litBadge(w, m)}${m.core?'<span class="b core" title="Obra indispensável nesta coleção">★ indispensável</span>':''}${m.optional?'<span class="b" title="Consulta complementar: fica na coleção, mas não é passo da sequência">complementar</span>':''}${m.demand?`<span class="b">${E(m.demand)}</span>`:''}</div>
   </div>`).join('')}</div>`
@@ -2367,7 +2367,12 @@ const DK = {obra:['＋','Adicionar obra'], edicao:['▤','Escolher edição'], p
 const DPRI = {alta:['Alta','hi',0], media:['Média','md',1], baixa:['Baixa','',2]};
 const DSHORT = {'greco-roman':'Greco-Romana','political-thought':'Política','survival-self-sufficiency':'Sobrevivência'};
 const DEC = {st:'decidir', k:'', c:'', pick:{}, sel:''};
-const mdi = s => E(s||'').replace(/\*([^*]+)\*/g,'<i>$1</i>');
+/* Marcação de referência nos textos (§19): [[tipo:id|rótulo]] ou
+   [[tipo:id|rótulo|por que aparece aqui]]. Vira um termo clicável que abre o card. */
+const REF_RX = /\[\[(obra|edicao|pessoa|termo):([^|\]]+)\|([^|\]]+)(?:\|([^\]]+))?\]\]/g;
+const refs = h => String(h||'').replace(REF_RX, (m,k,id,lab,ctx)=>`<button type="button" class="ref" data-ref="${k}:${id}"${ctx?` data-ctx="${ctx.replace(/"/g,'&quot;')}"`:''}>${lab}</button>`);
+const plainRefs = s => String(s||'').replace(REF_RX, (m,k,id,lab)=>lab);
+const mdi = s => refs(E(s||'').replace(/\*([^*]+)\*/g,'<i>$1</i>'));
 function decColls(cs){
   cs = cs||[]; if(!cs.length) return 'Sem coleção';
   if(cs.length===1) return (C(cs[0])||{}).title_pt||cs[0];
@@ -2958,7 +2963,8 @@ const rcShort = h => { const t=(h||'').replace(/<\/(p|li|ul|ol|div)>|<br\s*\/?>/
 const rcFirst = h => { const t=rcShort(h); const m=t.match(/^(.+?[.!?])(?=\s|$)/); return m?m[1]:t; };
 const rcCov = p => p && p.cover && (p.cover.data_uri||p.cover.relative_path);
 const rcRef = (ref, label) => `<button type="button" class="ref" data-ref="${E(ref)}">${E(label)}</button>`;
-const rcCtx = c => c ? `<div class="rcctx"><b>Por que aparece aqui</b>${mdi(c)}</div>` : '';
+/* O contexto vem do próprio texto já formatado (itálico etc.), por isso entra como HTML. */
+const rcCtx = c => c ? `<div class="rcctx"><b>Por que aparece aqui</b>${c}</div>` : '';
 function rcEl(){ let el=document.getElementById('rc');
   if(!el){ const bk=document.createElement('div'); bk.className='rc-bk'; bk.id='rc-bk'; bk.onclick=rcClose;
     el=document.createElement('div'); el.id='rc'; el.className='rc'; el.setAttribute('role','dialog'); el.setAttribute('aria-modal','false');
@@ -2994,10 +3000,19 @@ function rcBody(it){
           <div class="rcs">${E(rcFirst(bodySections(w.body_html)['Sobre a obra']))}</div></li>`;}).join('')}</ul>
       ${buyLink(p)?`<div style="margin-top:8px">${buyLink(p)}</div>`:''}`};
   }
-  if(k==='autor'){ const a=A(id); if(!a) return null; const ws=(a.works||[]).filter(W);
-    return {kind:'Autor', open:'#/autor/'+id, label:a.name_display||id, h:`<h3>${E(a.name_display||id)}</h3>${a.dates?`<div class="rcs">${E(a.dates)}</div>`:''}
+  if(k==='autor'||k==='pessoa'){ const a=A(id), c=!a&&(D.cited||{})[id]; if(!a&&!c) return null;
+    const ws=a?(a.works||[]).filter(W):[], nm=a?(a.name_display||id):(c.name||id), about=(a||c).about, dt=(a||c).dates, kf=c&&c.known_for;
+    return {kind: ws.length?'Autor':'Pessoa', open: ws.length?'#/autor/'+id:null, label:nm, h:`<h3>${E(nm)}</h3>${dt?`<div class="rcs">${E(dt)}</div>`:''}
+      ${about?`<p class="rct" style="margin-top:8px">${mdi(about)}</p>`:''}
       ${rcCtx(it.ctx)}
-      <h4>Na biblioteca</h4><ul class="rcwl">${ws.map(x=>`<li>${rcRef('obra:'+x, wTitle(x))}<div class="rcs">${E(rcFirst(bodySections(W(x).body_html)['Sobre a obra']))}</div></li>`).join('')}</ul>`};
+      ${kf&&kf.title?`<h4>A obra</h4><p class="rct"><i>${E(kf.title)}</i>${kf.year?` (${E(kf.year)})`:''}</p>${kf.about?`<p class="rcs" style="margin:2px 0 0">${mdi(kf.about)}</p>`:''}`:''}
+      ${ws.length?`<h4>Na biblioteca</h4><ul class="rcwl">${ws.map(x=>`<li>${rcRef('obra:'+x, wTitle(x))}<div class="rcs">${E(rcFirst(bodySections(W(x).body_html)['Sobre a obra']))}</div></li>`).join('')}</ul>`:''}`};
+  }
+  if(k==='termo'){ const t=(D.terms||{})[id]; if(!t) return null; const ws=(t.works||[]).filter(W);
+    return {kind:'Termo', open:null, label:t.label||id, h:`<h3>${E(t.label||id)}</h3>
+      ${t.text?`<p class="rct" style="margin-top:8px">${mdi(t.text)}</p>`:''}
+      ${rcCtx(it.ctx)}
+      ${ws.length?`<h4>Na biblioteca</h4><ul class="rcwl">${ws.map(x=>`<li>${rcRef('obra:'+x, wTitle(x))} <span class="rcs">· ${E(wAuthors(x))}</span></li>`).join('')}</ul>`:''}`};
   }
   return null;
 }
@@ -3006,7 +3021,7 @@ function rcRender(){
   const el=rcEl();
   el.setAttribute('aria-label', b.kind+': '+b.label);
   el.innerHTML=`<div class="rch">${RC.stack.length>1?'<button type="button" class="rcbtn" data-rc="back" aria-label="Voltar">← Voltar</button>':''}<span class="rck">${b.kind}</span><button type="button" class="rcbtn" data-rc="close" aria-label="Fechar">✕</button></div>
-    <div class="rcb">${b.h}</div><div class="rcf"><a href="${b.open}" data-rc="open">Abrir a página</a></div>`;
+    <div class="rcb">${b.h}</div>${b.open?`<div class="rcf"><a href="${b.open}" data-rc="open">Abrir a página</a></div>`:b.kind==='Pessoa'?'<div class="rcf"><span class="rcs" style="font-style:italic">Não está na biblioteca.</span></div>':'<div style="height:10px"></div>'}`;
   rcPlace();
   requestAnimationFrame(()=>{ el.classList.add('on'); document.getElementById('rc-bk').classList.add('on'); el.querySelector('.rcb').scrollTop=0; });
 }
@@ -3028,7 +3043,7 @@ function rcClose(){
   const a=RC.anchor; RC.anchor=null; if(a && a.isConnected && el.contains(document.activeElement)) a.focus({preventScroll:true});
   setTimeout(()=>{ if(!RC.stack.length){ el.remove(); bk.remove(); } }, 260);
 }
-const RC_ROUTE = {obra:'obra', publicacao:'edicao', autor:'autor'};
+const RC_ROUTE = {obra:'obra', publicacao:'edicao', autor:'pessoa'};
 document.addEventListener('click', e=>{
   if(e.button) return;
   const el=document.getElementById('rc'), inCard = el && el.contains(e.target);
@@ -3048,8 +3063,9 @@ document.addEventListener('click', e=>{
     if(r) ref=r.dataset.ref;
     else { const m=a.getAttribute('href').match(/^#\/(obra|publicacao|autor)\/([^?#]+)$/); if(!m) return; ref=RC_ROUTE[m[1]]+':'+decodeURIComponent(m[2]); }
     e.preventDefault(); e.stopPropagation();
-    if(mod){ const i=ref.indexOf(':'), rt={obra:'obra',edicao:'publicacao',autor:'autor'}[ref.slice(0,i)];
-      rcClose(); location.hash='#/'+rt+'/'+ref.slice(i+1); return; }
+    if(mod){ const i=ref.indexOf(':'), k0=ref.slice(0,i), id0=ref.slice(i+1);
+      const rt = k0==='obra'?'obra':k0==='edicao'?'publicacao':(k0==='autor'||k0==='pessoa')&&A(id0)&&(A(id0).works||[]).length?'autor':null;
+      if(rt){ rcClose(); location.hash='#/'+rt+'/'+id0; return; } }
     const src=r||a, opt={ctx:src.dataset.ctx||null, pub:src.dataset.gpp||null};
     if(inCard){ RC.stack.push(Object.assign({ref},opt)); rcRender(); }
     else rcOpen(ref, opt, src);

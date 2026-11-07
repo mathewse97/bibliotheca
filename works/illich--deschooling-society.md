@@ -73,7 +73,7 @@ Livro de Ivan Illich, publicado em inglês em 1971. Argumenta que a escola, como
 
 - **A pergunta:** a escola educa, ou ensina as pessoas a confundir aprender com receber um diploma?
 - **Onde está o centro:** o capítulo 1, sobre por que é preciso tirar da escola o monopólio da educação; e o capítulo 6, sobre as teias de aprendizagem, a alternativa que Ivan Illich propõe: redes que ligam quem quer aprender a objetos, a colegas e a quem sabe.
-- **Postura:** É um ensaio polêmico e curto: leia inteiro. Separe o diagnóstico, que muitos aceitam, da proposta, que é a parte mais discutível. É a posição oposta à de Mortimer Adler: Adler quer uma escola melhor, Illich não quer a escola.
+- **Postura:** É um ensaio polêmico e curto: leia inteiro. Separe o diagnóstico, que muitos aceitam, da proposta, que é a parte mais discutível. É a posição oposta à de [[obra:adler--the-paideia-proposal|*A Proposta Paideia*]], de Mortimer Adler: Adler quer uma escola melhor, Illich não quer a escola.
 
 ## Fatos
 

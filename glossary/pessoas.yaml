@@ -1,0 +1,32 @@
+# Pessoas citadas nos textos que não são autores de obra da biblioteca.
+# Um registro por pessoa. Ver config/interface-rules.md §19.
+
+isocrates:
+  name: "Isócrates"
+  dates: "436–338 a.C."
+  about: "Orador e professor ateniense. Abriu em Atenas uma escola que formava cidadãos pela arte da palavra, rival da Academia de Platão."
+  known_for: {title: "Antídose", year: "c. 353 a.C.", about: "Discurso em que defende a própria vida e o seu ensino: formar pela eloquência e pelo juízo prático, e não pela especulação filosófica."}
+
+pestalozzi:
+  name: "Johann Heinrich Pestalozzi"
+  dates: "1746–1827"
+  about: "Pedagogo suíço. Dirigiu escolas para crianças pobres e órfãs e transformou a ideia de uma educação segundo a natureza num método de sala de aula."
+  known_for: {title: "Como Gertrudes ensina seus filhos", year: "1801", about: "Cartas que expõem o método: partir da percepção direta das coisas e ir do simples ao complexo, em vez de começar pelas palavras e pela memorização."}
+
+froebel:
+  name: "Friedrich Froebel"
+  dates: "1782–1852"
+  about: "Pedagogo alemão, aluno de Pestalozzi. Criou o jardim de infância, em 1837."
+  known_for: {title: "A educação do homem", year: "1826", about: "A criança se desenvolve pela própria atividade; o brincar é a forma séria de aprender nos primeiros anos."}
+
+thomas-nashe:
+  name: "Thomas Nashe"
+  dates: "1567–c. 1601"
+  about: "Escritor e panfletário inglês da época de Elizabeth I, de prosa satírica e erudita."
+  known_for: {title: "O viajante infeliz", year: "1594", about: "Narrativa picaresca, tida como um dos primeiros romances em prosa da língua inglesa."}
+
+niklas-luhmann:
+  name: "Niklas Luhmann"
+  dates: "1927–1998"
+  about: "Sociólogo alemão, autor de uma teoria geral da sociedade como sistema de comunicações. Escreveu dezenas de livros com a ajuda de um fichário de cerca de 90 mil fichas, o Zettelkasten."
+  known_for: {title: "A sociedade da sociedade", year: "1997", about: "A síntese da sua teoria dos sistemas sociais."}

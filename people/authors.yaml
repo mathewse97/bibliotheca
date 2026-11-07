@@ -4,13 +4,15 @@
 platao:
   name_display: "Platão"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 428–348 a.C."
+  about: "Filósofo ateniense, discípulo de Sócrates e mestre de Aristóteles. Fundou a Academia e escreveu em forma de diálogo."
   note: null
 
 aristoteles:
   name_display: "Aristóteles"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "384–322 a.C."
+  about: "Filósofo grego, discípulo de Platão e mestre de Alexandre, o Grande. Fundou o Liceu e escreveu sobre quase todos os campos do saber."
   note: null
 
 tucidides:
@@ -22,7 +24,8 @@ tucidides:
 cicero:
   name_display: "Cícero"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "106–43 a.C."
+  about: "Orador, político e filósofo romano, modelo da prosa latina."
   note: null
 
 confucio:
@@ -52,7 +55,8 @@ ibn-khaldun:
 agostinho:
   name_display: "Santo Agostinho"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "354–430"
+  about: "Bispo de Hipona, no norte da África. Professor de retórica antes da conversão, é o mais influente dos Padres latinos."
   note: null
 
 aquino:
@@ -88,7 +92,8 @@ montesquieu:
 rousseau:
   name_display: "Jean-Jacques Rousseau"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1712–1778"
+  about: "Filósofo e escritor nascido em Genebra, crítico da civilização do seu tempo."
   note: null
 
 burke:
@@ -124,7 +129,8 @@ engels:
 weber:
   name_display: "Max Weber"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1864–1920"
+  about: "Sociólogo e economista alemão, um dos fundadores da sociologia moderna."
   note: null
 
 michels:
@@ -234,25 +240,29 @@ orwell:
 marrou:
   name_display: "Henri-Irénée Marrou"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1904–1977"
+  about: "Historiador francês da Antiguidade e do cristianismo antigo, professor na Sorbonne."
   note: null
 
 nunes:
   name_display: "Ruy Afonso da Costa Nunes"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Historiador brasileiro da educação, autor de uma série de volumes sobre a história da educação no Ocidente."
   note: null
 
 hirsch:
   name_display: "E. D. Hirsch Jr."
   name_variants: ["Eric Donald Hirsch Jr."]
-  dates: null                 # a pesquisar
+  dates: "1928–"
+  about: "Crítico literário e teórico da educação norte-americano, criador do currículo Core Knowledge."
   note: "Entrou em 2026-09-23 com Por que o conhecimento importa (Educação)."
 
 adler:
   name_display: "Mortimer Adler"
   name_variants: ["Mortimer J. Adler", "Mortimer Jerome Adler"]
   dates: "1902–2001"
+  about: "Filósofo americano, editor dos Great Books of the Western World."
   note: "Filósofo americano, editor dos Great Books of the Western World e
          autor de Como Ler Livros (com Charles Van Doren, 1972)."
 
@@ -260,25 +270,29 @@ van-doren:
   name_display: "Charles Van Doren"
   name_variants: []
   dates: "1926–2019"
+  about: "Escritor e editor norte-americano, colaborador de Mortimer Adler na Enciclopédia Britânica."
   note: "Escritor e editor americano, coautor da versão de 1972 de Como Ler
          Livros, com Mortimer Adler. Entrou em 2026-10-14."
 
 mcluhan:
   name_display: "Marshall McLuhan"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1911–1980"
+  about: "Teórico canadense da comunicação, conhecido pela frase \"o meio é a mensagem\"."
   note: null
 
 miriam-joseph:
   name_display: "Irmã Miriam Joseph"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1898–1982"
+  about: "Religiosa e professora norte-americana do Saint Mary's College, especialista na retórica do Renascimento."
   note: null
 
 bauer:
   name_display: "Susan Wise Bauer"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1968–"
+  about: "Escritora e historiadora norte-americana, educada em casa pela mãe, Jessie Wise."
   note: null
 
 wise:
@@ -445,7 +459,8 @@ conforto:
 illich:
   name_display: "Ivan Illich"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1926–2002"
+  about: "Pensador e padre nascido em Viena, crítico das grandes instituições modernas: escola, medicina, transporte."
   note: "Austríaco; escreveu Deschooling Society em inglês, a partir do
          CIDOC, no México."
 
@@ -453,6 +468,7 @@ jaeger:
   name_display: "C. Stephen Jaeger"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Medievalista norte-americano, estudioso da cultura das cortes e das escolas da Idade Média."
   note: "Medievalista. NÃO confundir com `jaeger-werner` (Werner Jaeger),
          helenista alemão autor de Paideia, acrescentado em 2026-09-12. São
          duas pessoas distintas, e ambas estão no acervo."
@@ -510,7 +526,8 @@ everitt:
 jaeger-werner:
   name_display: "Werner Jaeger"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1888–1961"
+  about: "Filólogo clássico alemão, professor em Berlim e depois em Harvard."
   note: "Helenista alemão, autor de Paideia. NÃO confundir com `jaeger` (C. Stephen Jaeger), medievalista, já no acervo."
 
 hesiodo:
@@ -522,7 +539,8 @@ hesiodo:
 homero:
   name_display: "Homero"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "séculos VIII–VII a.C."
+  about: "O poeta a quem os gregos atribuíam a *Ilíada* e a *Odisseia*. Quem foi, e se foi um só, é discutido desde a Antiguidade."
   note: null
 
 pindaro:
@@ -1436,6 +1454,7 @@ ozmon:
   name_display: "Howard A. Ozmon"
   name_variants: ["Howard Ozmon", "H. Ozmon"]
   dates: null
+  about: "Professor norte-americano de filosofia da educação."
   note: "Coautor de Philosophical Foundations of Education, manual americano de
          filosofia da educação, hoje na 9ª edição (Pearson, 2013)."
 
@@ -1443,6 +1462,7 @@ craver:
   name_display: "Samuel M. Craver"
   name_variants: ["S. M. Craver"]
   dates: null
+  about: "Professor norte-americano de filosofia da educação."
   note: "Coautor de Philosophical Foundations of Education, com Howard Ozmon."
 
 gooley:
@@ -1474,7 +1494,8 @@ ziblatt:
 shakespeare:
   name_display: "William Shakespeare"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1564–1616"
+  about: "Dramaturgo e poeta inglês."
   note: null
 
 barbara-heliodora:
@@ -1502,7 +1523,8 @@ brown:
 roediger:
   name_display: "Henry L. Roediger III"
   name_variants: ["Henry Roediger", "H. L. Roediger III"]
-  dates: null                 # a pesquisar
+  dates: "1947–"
+  about: "Psicólogo norte-americano, pesquisador da memória na Universidade Washington em St. Louis."
   note: "Psicólogo experimental da memória, Washington University in St. Louis;
          coautor de Make It Stick. Parte da literatura sobre prática de
          recuperação que o livro sintetiza é dele — a pesquisar."
@@ -1516,7 +1538,8 @@ mcdaniel:
 dehaene:
   name_display: "Stanislas Dehaene"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1965–"
+  about: "Neurocientista francês, professor do Collège de France, pesquisador da leitura e do número no cérebro."
   note: "Neurocientista e matemático francês; professor no Collège de France e
          diretor da unidade de neuroimagem cognitiva do INSERM-CEA, conforme a
          própria editora brasileira. Trabalha com leitura e cognição numérica."
@@ -1547,7 +1570,8 @@ ilari:
 dewey:
   name_display: "John Dewey"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1859–1952"
+  about: "Filósofo e educador norte-americano, principal nome do pragmatismo e da educação progressista."
   note: "Filósofo e educador norte-americano; formulador da posição
          progressista em Democracia e Educação (1916)."
 
@@ -1568,7 +1592,8 @@ boto:
 newman:
   name_display: "John Henry Newman"
   name_variants: ["São John Henry Newman", "Cardeal Newman"]
-  dates: null                 # a pesquisar
+  dates: "1801–1890"
+  about: "Teólogo inglês, anglicano convertido ao catolicismo e depois cardeal; fundou a Universidade Católica da Irlanda."
   note: "Teólogo e educador inglês; reitor da Universidade Católica de Dublin
          (1854–1858), segundo a descrição da edição Ecclesiae."
 
@@ -2062,6 +2087,7 @@ ahrens:
   name_display: "Sönke Ahrens"
   name_variants: []
   dates: null
+  about: "Pesquisador alemão de educação e filosofia."
   note: null
 
 london:
@@ -2409,6 +2435,7 @@ hugo-de-sao-vitor:
   name_display: "Hugo de São Vítor"
   name_variants: ["Hugh of Saint Victor", "Hugues de Saint-Victor", "Hugo de Sancto Victore"]
   dates: "c. 1096–1141"
+  about: "Teólogo e mestre da escola da abadia de São Vítor, em Paris."
   note: "Mestre da escola da abadia de São Vítor, em Paris. Entrou em
          2026-10-27 com o Didascálicon (cartão d-edu-fonte, opção B)."
 

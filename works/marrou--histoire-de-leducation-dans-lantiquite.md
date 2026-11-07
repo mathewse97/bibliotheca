@@ -40,7 +40,7 @@ Obra do historiador francês Henri-Irénée Marrou, publicada em 1948. Traça a 
 ## Como ler
 
 - **A pergunta:** como os gregos e os romanos educavam, e como nasceu a ideia de formação que o Ocidente herdou?
-- **Onde está o centro:** a primeira parte, da educação dos heróis de Homero à de Platão e Isócrates; a segunda, a educação helenística, que Marrou considera o modelo clássico por excelência, com a escola, a gramática e a retórica; e a terceira, sobre Roma e a passagem à escola cristã.
+- **Onde está o centro:** a primeira parte, da educação dos heróis de [[pessoa:homero|Homero]] à de [[pessoa:platao|Platão]] e [[pessoa:isocrates|Isócrates|Rival de Platão em Atenas: Platão formava pela filosofia, Isócrates pela retórica. Henri-Irénée Marrou mostra que foi o modelo de Isócrates, e não o de Platão, que venceu na escola antiga.]]; a segunda, a [[termo:periodo-helenistico|educação helenística]], que Marrou considera o modelo clássico por excelência, com a escola, a gramática e a retórica; e a terceira, sobre Roma e a passagem à escola cristã.
 - **Postura:** É obra de historiador, longa mas muito legível, e pode ser lida por partes. Repare na tese central: a educação clássica que o Ocidente herdou é sobretudo a helenística, e não a de Atenas no século V a.C.
 
 ## Fatos

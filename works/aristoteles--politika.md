@@ -56,7 +56,7 @@ Tratado de Aristóteles, do século IV a.C., que parte da afirmação de que o h
 ## Como ler
 
 - **A pergunta:** qual é o melhor regime, e qual é o melhor possível para uma cidade real?
-- **Onde está o centro:** o livro I (o homem como animal político); o III (quem é cidadão, e os seis regimes, três retos e três desviados, conforme quem governa vise ao bem comum ou ao próprio); os livros IV a VI (democracia, oligarquia, o regime misto e as causas das revoluções); e VII e VIII (o regime ideal e a educação). O livro II critica *A República* de Platão.
+- **Onde está o centro:** o livro I (o homem como animal político); o III (quem é cidadão, e os seis regimes, três retos e três desviados, conforme quem governa vise ao bem comum ou ao próprio); os livros IV a VI (democracia, oligarquia, o regime misto e as causas das revoluções); e VII e VIII (o regime ideal e a educação). O livro II critica [[obra:platao--politeia|*A República*]] de Platão.
 - **Postura:** são textos de ensino, não um livro polido; às vezes secos ou repetitivos, e a ordem dos livros é discutida pelos estudiosos. Leia como análise, atento às distinções e aos exemplos de cidades gregas reais. Leia depois de *A República*.
 
 ## Fatos
