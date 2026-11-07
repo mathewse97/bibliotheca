@@ -52,6 +52,17 @@ cover:
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8534916624"
+    listing_id: "8534916624"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 8534916624, o mesmo número desta publicação (9788534916622)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/livro/patristica-historia-eclesiastica-vol-15-FWC-7720-000-BK"
     listing_id: "FWC-7720-000-BK"

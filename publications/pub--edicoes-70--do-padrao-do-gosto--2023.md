@@ -42,6 +42,17 @@ contains:
     apparatus: []
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/9724426335"
+    listing_id: "9724426335"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 9724426335, o mesmo número desta publicação (9789724426334)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: bookstore
     url: "https://www.travessa.com.br/do-padrao-do-gosto-e-outros-ensaios-sobre-as-artes-e-a-beleza/artigo/35a05b12-6651-46ae-b4b4-a824b311b805"
     listing_id: null

@@ -52,6 +52,17 @@ cover:
   rights_note: "Imagem de capa usada como identificação bibliográfica da edição."
 
 acquisition:
+  - retailer: amazon-br
+    url: "https://www.amazon.com.br/dp/8532673619"
+    listing_id: "8532673619"
+    match_basis: isbn13
+    match_note: "Busca na web em 2026-11-07: o anúncio da Amazon Brasil tem o ISBN-10 8532673619, o mesmo número desta publicação (9788532673619)."
+    format_listed: null
+    price_band: null
+    availability: null
+    availability_note: "Não verificada."
+    checked: 2026-11-07
+    checked_by: claude
   - retailer: estante-virtual
     url: "https://www.estantevirtual.com.br/livro/os-mitos-maias-NVV-7604-000-BK"
     listing_id: "NVV-7604-000-BK"
