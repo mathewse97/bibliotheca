@@ -50,13 +50,13 @@ editions_considered:
 
 ## Sobre a obra
 
-Livro de Eric Voegelin, publicado em inglês em 1952 a partir de conferências dadas na Universidade de Chicago em 1951. Propõe que a ciência política volte a perguntar pela ordem da existência humana e da sociedade, e não só descreva instituições, e interpreta as ideologias modernas como um gnosticismo: a tentativa de realizar dentro da história a salvação que a fé cristã situava além dela. É a obra que o tornou conhecido e a melhor porta de entrada para seu pensamento.
+Livro de Eric Voegelin, publicado em inglês em 1952 a partir de conferências dadas na Universidade de Chicago em 1951. Propõe que a ciência política volte a perguntar pela ordem da existência humana e da sociedade, e não só descreva instituições, e interpreta as ideologias modernas como um [[termo:gnosticismo|gnosticismo]]: a tentativa de realizar dentro da história a salvação que a fé cristã situava além dela. É a obra que o tornou conhecido e a melhor porta de entrada para seu pensamento.
 
 ## Como ler
 
 - **A pergunta:** o que as ideologias modernas têm em comum com as antigas heresias gnósticas?
 - **Onde está o centro:** a introdução, sobre a ciência política que deve voltar a perguntar pela ordem; e os capítulos IV a VI, sobre o gnosticismo como essência da modernidade, a revolução puritana e o fim da modernidade.
-- **Postura:** São conferências densas, com vocabulário próprio: leia devagar e anote as definições. Eric Voegelin escreve contra o positivismo e contra as ideologias; compare com *A Sociedade Aberta*, de Karl Popper, que critica as mesmas ideologias por outro caminho.
+- **Postura:** São conferências densas, com vocabulário próprio: leia devagar e anote as definições. Eric Voegelin escreve contra o positivismo e contra as ideologias; compare com [[obra:popper--the-open-society|*A Sociedade Aberta*]], de Karl Popper, que critica as mesmas ideologias por outro caminho.
 
 ## Fatos
 

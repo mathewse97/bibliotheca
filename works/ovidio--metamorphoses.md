@@ -45,7 +45,7 @@ Poema narrativo latino de Ovídio, em quinze livros de hexâmetros, concluído p
 
 - **A pergunta:** o que permanece quando tudo muda de forma?
 - **Onde está o centro:** não há um centro único: são mais de 250 mitos encadeados, da criação do mundo à morte de Júlio César. Alguns dos mais lidos: Apolo e Dafne, Eco e Narciso, Píramo e Tisbe, Orfeu e Eurídice, Pigmalião; e o discurso de Pitágoras no livro XV.
-- **Postura:** Leia aos poucos, um ou dois livros por vez, pelo prazer das histórias. Repare como Ovídio liga um mito ao outro, e no humor dele, bem diferente da seriedade de Virgílio. Foi por este livro que a Idade Média e o Renascimento conheceram a mitologia.
+- **Postura:** Leia aos poucos, um ou dois livros por vez, pelo prazer das histórias. Repare como Ovídio liga um mito ao outro, e no humor dele, bem diferente da seriedade de [[obra:virgilio--aeneis|Virgílio]]. Foi por este livro que a Idade Média e o Renascimento conheceram a mitologia.
 
 ## Fatos
 

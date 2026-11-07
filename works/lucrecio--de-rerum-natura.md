@@ -34,10 +34,10 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Poema filosófico em latim, em seis livros, de Tito Lucrécio Caro, do século I a.C. Expõe o epicurismo inteiro: o mundo é feito de átomos que se movem no vazio, sem intervenção dos deuses; a alma é mortal e se dissolve com o corpo; por isso não há o que temer na morte. O objetivo é libertar o homem do medo. É uma das obras-primas da poesia latina e a principal fonte do epicurismo que chegou até nós.
+Poema filosófico em latim, em seis livros, de Tito Lucrécio Caro, do século I a.C. Expõe o [[termo:epicurismo|epicurismo]] inteiro: o mundo é feito de átomos que se movem no vazio, sem intervenção dos deuses; a alma é mortal e se dissolve com o corpo; por isso não há o que temer na morte. O objetivo é libertar o homem do medo. É uma das obras-primas da poesia latina e a principal fonte do epicurismo que chegou até nós.
 
 ## Como ler
 
 - **A pergunta:** se tudo é átomo e vazio, por que temer os deuses e a morte?
 - **Onde está o centro:** o livro I, sobre átomos e vazio; o livro III, sobre a mortalidade da alma, que termina com o argumento contra o medo da morte; e o fim do livro V, sobre a origem da civilização.
-- **Postura:** leia depois da *Carta a Meneceu*, de Epicuro, que é o resumo, e antes de Cícero e Sêneca, que discutem com essa posição.
+- **Postura:** leia depois da [[obra:epicuro--epistole-pros-menoikea|*Carta a Meneceu*]], de Epicuro, que é o resumo, e antes de [[pessoa:cicero|Cícero]] e [[pessoa:seneca|Sêneca]], que discutem com essa posição.

@@ -44,7 +44,7 @@ Dicionário de referência do helenista francês Pierre Grimal, publicado origin
 
 - **A pergunta:** quem é este personagem do mito, e quais são as versões da sua história?
 - **Onde está o centro:** os verbetes, em ordem alfabética, cada um com as variantes do mito e as fontes antigas que as transmitem.
-- **Postura:** É obra de consulta: abra quando um nome aparecer em Homero, nos trágicos ou em Ovídio. As indicações de fonte permitem ir ao texto antigo.
+- **Postura:** É obra de consulta: abra quando um nome aparecer em [[pessoa:homero|Homero]], nos trágicos ou em [[pessoa:ovidio|Ovídio]]. As indicações de fonte permitem ir ao texto antigo.
 
 ## Fatos
 

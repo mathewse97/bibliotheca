@@ -53,7 +53,7 @@ Introdução à religião grega antiga de Jon D. Mikalson, com Andrej Petrovic e
 
 - **A pergunta:** como era a religião grega praticada no dia a dia, separada do mito e da literatura?
 - **Onde está o centro:** os capítulos sobre os deuses, os santuários, os festivais e o sacrifício.
-- **Postura:** É uma introdução clara e curta, em inglês. Leia antes de *Religião Grega*, de Walter Burkert, que trata o mesmo assunto a fundo.
+- **Postura:** É uma introdução clara e curta, em inglês. Leia antes de [[obra:burkert--griechische-religion|*Religião Grega*]], de Walter Burkert, que trata o mesmo assunto a fundo.
 
 ## Fatos
 

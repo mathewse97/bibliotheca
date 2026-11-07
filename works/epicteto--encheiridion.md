@@ -38,7 +38,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Breve manual de ética estoica que reúne ensinamentos do filósofo Epicteto (séc. I–II d.C.), compilado por seu discípulo Arriano. Parte da distinção entre o que depende de nós e o que não depende, e propõe exercícios para governar juízos e desejos e viver com serenidade diante do que não se controla. É um dos textos mais lidos do estoicismo.
+Breve manual de ética [[termo:estoicismo|estoica]] que reúne ensinamentos do filósofo Epicteto (séc. I–II d.C.), compilado por seu discípulo Arriano. Parte da distinção entre o que depende de nós e o que não depende, e propõe exercícios para governar juízos e desejos e viver com serenidade diante do que não se controla. É um dos textos mais lidos do estoicismo.
 
 ## Como ler
 

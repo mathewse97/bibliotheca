@@ -43,13 +43,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Comédia de Aristófanes, encenada em Atenas em 423 a.C. e conservada numa versão revista pelo autor. Um pai endividado manda o filho à escola de Sócrates para aprender a vencer qualquer causa com argumentos, e a peça satiriza a nova educação sofística e a investigação da natureza. O retrato de Sócrates que ela fixou é lembrado por Platão na *Apologia* como uma das origens do preconceito contra o filósofo.
+Comédia de Aristófanes, encenada em Atenas em 423 a.C. e conservada numa versão revista pelo autor. Um pai endividado manda o filho à escola de [[pessoa:socrates|Sócrates]] para aprender a vencer qualquer causa com argumentos, e a peça satiriza a nova [[termo:sofistas|educação sofística]] e a investigação da natureza. O retrato de Sócrates que ela fixou é lembrado por Platão na [[obra:platao--apologia-sokratous|*Apologia*]] como uma das origens do preconceito contra o filósofo.
 
 ## Como ler
 
 - **A pergunta:** a nova educação dos sofistas, que ensina a vencer qualquer discussão, corrompe a cidade?
 - **Onde está o centro:** a chegada do velho Estrepsíades à escola de Sócrates, o "pensatório"; o debate entre o Argumento Justo e o Argumento Injusto; e o final, quando o filho usa o que aprendeu contra o próprio pai e a escola é incendiada.
-- **Postura:** É comédia: leia para rir, e não como retrato fiel de Sócrates, que aparece pendurado num cesto. Na *Apologia*, Platão diz que esta peça ajudou a formar o preconceito que levou Sócrates à condenação. Leia antes da *Apologia*.
+- **Postura:** É comédia: leia para rir, e não como retrato fiel de Sócrates, que aparece pendurado num cesto. Na [[obra:platao--apologia-sokratous|*Apologia*]], Platão diz que esta peça ajudou a formar o preconceito que levou Sócrates à condenação. Leia antes da *Apologia*.
 
 ## Fatos
 

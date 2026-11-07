@@ -52,13 +52,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Biografia de Júlio César, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Alexandre. Acompanha a carreira de César até seu assassinato, no momento em que a república romana dá lugar ao poder pessoal.
+Biografia de Júlio César, escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com [[obra:plutarco--alexandros|a de Alexandre]]. Acompanha a carreira de César até seu assassinato, no momento em que a república romana dá lugar ao poder pessoal.
 
 ## Como ler
 
 - **A pergunta:** como um homem ambicioso derruba uma república?
 - **Onde está o centro:** a carreira política, a travessia do Rubicão, a ditadura e o assassinato.
-- **Postura:** Leia depois da *Vida de Alexandre* e compare os dois. A peça *Júlio César* de William Shakespeare, na coleção Política, nasceu de Plutarco.
+- **Postura:** Leia depois da [[obra:plutarco--alexandros|*Vida de Alexandre*]] e compare os dois. A peça [[obra:shakespeare--julius-caesar|*Júlio César*]] de William Shakespeare, na coleção Política, nasceu de Plutarco.
 
 ## Fatos
 

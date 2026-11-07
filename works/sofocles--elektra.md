@@ -34,10 +34,10 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Tragédia de Sófocles, de data incerta. Conta o mesmo episódio das *Coéforas*, de Ésquilo, e da *Electra*, de Eurípides: Orestes volta a Argos e, com a irmã Electra, mata a mãe, Clitemnestra, e o amante dela, Egisto, para vingar o pai, Agamêmnon. Aqui o centro é Electra, que vive anos de luto e humilhação à espera do irmão.
+Tragédia de Sófocles, de data incerta. Conta o mesmo episódio das [[obra:esquilo--oresteia|*Coéforas*]], de Ésquilo, e da [[obra:euripides--elektra|*Electra*]], de Eurípides: Orestes volta a Argos e, com a irmã Electra, mata a mãe, Clitemnestra, e o amante dela, Egisto, para vingar o pai, Agamêmnon. Aqui o centro é Electra, que vive anos de luto e humilhação à espera do irmão.
 
 ## Como ler
 
 - **A pergunta:** o que a espera pela vingança faz com quem espera?
 - **Onde está o centro:** o falso relato da morte de Orestes e o reconhecimento entre os irmãos, com a urna que Electra julga conter as cinzas dele.
-- **Postura:** leia ao lado das *Coéforas* e da *Electra* de Eurípides: os três autores tratam o matricídio de modos opostos.
+- **Postura:** leia ao lado das [[obra:esquilo--oresteia|*Coéforas*]] e da [[obra:euripides--elektra|*Electra*]] de Eurípides: os três autores tratam o matricídio de modos opostos.

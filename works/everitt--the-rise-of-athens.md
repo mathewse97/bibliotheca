@@ -38,13 +38,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Narrativa histórica de divulgação do britânico Anthony Everitt, autor de biografias de Cícero, Augusto e Adriano. Acompanha a formação de Atenas até seu apogeu como principal centro político, artístico e intelectual da Grécia clássica, conduzindo a história por meio de seus personagens e acontecimentos.
+Narrativa histórica de divulgação do britânico Anthony Everitt, autor de biografias de [[pessoa:cicero|Cícero]], Augusto e Adriano. Acompanha a formação de Atenas até seu apogeu como principal centro político, artístico e intelectual da Grécia clássica, conduzindo a história por meio de seus personagens e acontecimentos.
 
 ## Como ler
 
 - **A pergunta:** como Atenas se tornou o maior centro político e intelectual da Grécia?
-- **Onde está o centro:** a narrativa das origens até o apogeu no século V a.C., contada por meio dos seus personagens, de Sólon a Péricles.
-- **Postura:** É divulgação bem escrita, que se lê como uma narrativa. Use como entrada fácil, e confira os pontos importantes nos livros de Robin Osborne e P. J. Rhodes, que tratam o mesmo período a fundo.
+- **Onde está o centro:** a narrativa das origens até o apogeu no século V a.C., contada por meio dos seus personagens, de [[pessoa:solon|Sólon]] a [[pessoa:pericles|Péricles]].
+- **Postura:** É divulgação bem escrita, que se lê como uma narrativa. Use como entrada fácil, e confira os pontos importantes nos livros de [[obra:osborne--greece-in-the-making|Robin Osborne]] e [[obra:rhodes--a-history-of-the-classical-greek-world|P. J. Rhodes]], que tratam o mesmo período a fundo.
 
 ## Fatos
 

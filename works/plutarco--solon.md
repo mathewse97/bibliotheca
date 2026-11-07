@@ -40,13 +40,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Biografia de Sólon, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Publícola. Trata do legislador e poeta ateniense do século VI a.C., cujas reformas estão na origem da democracia ateniense.
+Biografia de [[pessoa:solon|Sólon]], escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com a de Publícola. Trata do legislador e poeta ateniense do século VI a.C., cujas reformas estão na origem da democracia ateniense.
 
 ## Como ler
 
 - **A pergunta:** como um legislador dá leis a uma cidade dividida entre ricos e pobres?
 - **Onde está o centro:** o cancelamento das dívidas que escravizavam os pobres, as novas leis de Atenas e a conversa com o rei Creso sobre quem é feliz.
-- **Postura:** É uma biografia curta. Plutarco escreve vidas, não histórias: busca o caráter. Leia junto do livro I de Heródoto, que conta o mesmo encontro com Creso.
+- **Postura:** É uma biografia curta. Plutarco escreve vidas, não histórias: busca o caráter. Leia junto do livro I de [[obra:herodoto--historiai|Heródoto]], que conta o mesmo encontro com Creso.
 
 ## Fatos
 

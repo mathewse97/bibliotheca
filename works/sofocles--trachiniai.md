@@ -40,4 +40,4 @@ Tragédia de Sófocles, de data incerta, sobre a morte de Héracles. Dejanira, a
 
 - **A pergunta:** como uma ação feita por amor se transforma em destruição?
 - **Onde está o centro:** as falas de Dejanira, uma das personagens mais humanas de Sófocles, e o lamento de Héracles no final.
-- **Postura:** repare em como os oráculos, mal compreendidos, só se esclarecem quando já é tarde, como em *Édipo Rei*.
+- **Postura:** repare em como os oráculos, mal compreendidos, só se esclarecem quando já é tarde, como em [[obra:sofocles--oidipous-tyrannos|*Édipo Rei*]].

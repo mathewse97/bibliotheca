@@ -52,7 +52,7 @@ Tragédia de Ésquilo encenada em 467 a.C., última peça de uma trilogia sobre 
 
 - **A pergunta:** pode alguém escapar de uma maldição de família, e o que um governante deve à cidade?
 - **Onde está o centro:** os discursos em que Etéocles posta um defensor diante de cada um dos sete atacantes de Tebas, e a decisão de enfrentar ele mesmo o irmão Polinices.
-- **Postura:** É a última peça de uma trilogia cujas outras partes se perderam: leia sabendo disso. Compare com *As Fenícias*, de Eurípides, que conta a mesma guerra.
+- **Postura:** É a última peça de uma trilogia cujas outras partes se perderam: leia sabendo disso. Compare com [[obra:euripides--phoinissai|*As Fenícias*]], de Eurípides, que conta a mesma guerra.
 
 ## Fatos
 

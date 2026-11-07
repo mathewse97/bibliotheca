@@ -44,7 +44,7 @@ editions_considered:
 
 ## Sobre a obra
 
-História do mundo grego de Alexandre à morte de Adriano (336 a.C.–138 d.C.), de Angelos Chaniotis, publicada em inglês em 2018. Narra os reinos sucessores e a conquista romana e trata também da sociedade, das cidades, da religião e da cultura, estendendo o período helenístico até Adriano. Foi descrita como a melhor introdução disponível ao período, embora dê pouca atenção à guerra.
+História do mundo grego de Alexandre à morte de Adriano (336 a.C.–138 d.C.), de Angelos Chaniotis, publicada em inglês em 2018. Narra os reinos sucessores e a conquista romana e trata também da sociedade, das cidades, da religião e da cultura, estendendo o [[termo:periodo-helenistico|período helenístico]] até Adriano. Foi descrita como a melhor introdução disponível ao período, embora dê pouca atenção à guerra.
 
 ## Como ler
 

@@ -49,7 +49,7 @@ Ensaio de John Stuart Mill publicado em 1859. Defende que a sociedade e o Estado
 
 - **A pergunta:** até onde a sociedade pode interferir na vida de um indivíduo?
 - **Onde está o centro:** o capítulo 1 (o princípio do dano: só se pode coagir alguém para impedir dano a outros); o capítulo 2 (a liberdade de pensamento e de discussão, mesmo para opiniões falsas); e o capítulo 3 (a individualidade como parte do bem-estar).
-- **Postura:** É curto e claro, e se lê inteiro. Teste o princípio em casos concretos de hoje e veja onde ele resolve e onde hesita. Mill teme menos o governo do que a pressão da opinião da maioria, o que aprendeu com Alexis de Tocqueville.
+- **Postura:** É curto e claro, e se lê inteiro. Teste o princípio em casos concretos de hoje e veja onde ele resolve e onde hesita. Mill teme menos o governo do que a pressão da opinião da maioria, o que aprendeu com [[obra:tocqueville--de-la-democratie-en-amerique|Alexis de Tocqueville]].
 
 ## Fatos
 

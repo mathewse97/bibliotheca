@@ -50,7 +50,7 @@ História do Império Romano do historiador britânico Greg Woolf (*Rome: An Emp
 
 - **A pergunta:** como um império tão grande e diverso se formou e durou tanto tempo?
 - **Onde está o centro:** os capítulos que examinam como o império integrava povos e regiões, e os que tratam da sua longa duração.
-- **Postura:** É história bem escrita para o leitor culto. Leia depois de *SPQR*, de Mary Beard, que conta o começo da história com mais detalhe.
+- **Postura:** É história bem escrita para o leitor culto. Leia depois de [[obra:beard--spqr|*SPQR*]], de Mary Beard, que conta o começo da história com mais detalhe.
 
 ## Fatos
 

@@ -60,13 +60,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Romance distópico do russo Yevgeny Zamiátin, escrito por volta de 1920–1921. Narra, na forma de diário, a vida de D-503 num Estado Único em que a existência é regulada matematicamente e a individualidade é suprimida. Proibido na União Soviética, foi publicado primeiro em inglês, em 1924, e é considerado um dos precursores da distopia política moderna, como *1984*, de Orwell, que o resenhou.
+Romance distópico do russo Yevgeny Zamiátin, escrito por volta de 1920–1921. Narra, na forma de diário, a vida de D-503 num Estado Único em que a existência é regulada matematicamente e a individualidade é suprimida. Proibido na União Soviética, foi publicado primeiro em inglês, em 1924, e é considerado um dos precursores da distopia política moderna, como [[obra:orwell--nineteen-eighty-four|*1984*]], de George Orwell, que o resenhou.
 
 ## Como ler
 
 - **A pergunta:** o que acontece com o indivíduo num Estado que regula a vida por cálculo e transparência total?
 - **Onde está o centro:** os registros do diário de D-503, a sua paixão por I-330 e o despertar da sua consciência, e o final, com a operação que elimina a imaginação.
-- **Postura:** É um romance curto e de estilo estranho, fragmentado como as anotações de um matemático: leia de uma vez, sem se prender aos detalhes. Compare com *Admirável Mundo Novo* e *1984*, que vieram depois e retomaram ideias dele.
+- **Postura:** É um romance curto e de estilo estranho, fragmentado como as anotações de um matemático: leia de uma vez, sem se prender aos detalhes. Compare com [[obra:huxley--brave-new-world|*Admirável Mundo Novo*]] e [[obra:orwell--nineteen-eighty-four|*1984*]], que vieram depois e retomaram ideias dele.
 
 ## Fatos
 

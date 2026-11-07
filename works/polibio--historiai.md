@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-A história de como Roma chegou a dominar o mundo mediterrânico em pouco mais de cinquenta anos, escrita por Políbio, político grego levado a Roma como refém no século II a.C. Dos quarenta livros, sobreviveram cinco inteiros e fragmentos dos outros. Os livros I a V, os da edição escolhida, cobrem a Primeira Guerra Púnica e o começo da Segunda, até a batalha de Canas (216 a.C.). A famosa análise da constituição romana está no livro VI, que não está nesta edição.
+A história de como Roma chegou a dominar o mundo mediterrânico em pouco mais de cinquenta anos, escrita por Políbio, político grego levado a Roma como refém no século II a.C. Dos quarenta livros, sobreviveram cinco inteiros e fragmentos dos outros. Os livros I a V, os da edição escolhida, cobrem a Primeira [[termo:guerras-punicas|Guerra Púnica]] e o começo da Segunda, até a batalha de Canas (216 a.C.). A famosa análise da constituição romana está no livro VI, que não está nesta edição.
 
 ## Como ler
 

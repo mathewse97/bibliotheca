@@ -43,7 +43,7 @@ Tragédia de Eurípides encenada em 412 a.C., baseada na versão do mito segundo
 
 - **A pergunta:** e se a guerra de Troia tivesse sido travada por um fantasma?
 - **Onde está o centro:** a revelação de que a verdadeira Helena ficou no Egito, o reencontro com Menelau, que custa a acreditar, e o plano de fuga.
-- **Postura:** É uma peça de intriga com final feliz, quase uma comédia em alguns momentos. Repare no tema da aparência e da verdade, e na ironia: a guerra inteira foi por uma imagem. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** É uma peça de intriga com final feliz, quase uma comédia em alguns momentos. Repare no tema da aparência e da verdade, e na ironia: a guerra inteira foi por uma imagem. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

@@ -39,5 +39,5 @@ Trecho da *Suma Teológica* de Tomás de Aquino, as questões 90 a 97 da primeir
 ## Como ler
 
 - **A pergunta:** quando uma lei humana deixa de obrigar?
-- **Onde está o centro:** a questão 90, sobre o que é a lei, a 94, sobre a lei natural, e a 96, sobre o poder da lei humana e a lei injusta.
+- **Onde está o centro:** a questão 90, sobre o que é a lei, a 94, sobre a lei natural, e a 96, sobre o poder da lei humana e a lei injusta. Ver [[termo:lei-natural|lei natural]].
 - **Postura:** o texto segue o método escolástico: cada artigo abre com objeções, dá a resposta e depois responde às objeções. Leia a resposta central primeiro e volte às objeções depois.

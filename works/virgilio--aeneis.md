@@ -50,13 +50,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Poema épico latino de Virgílio, em doze cantos, deixado inacabado com a morte do autor em 19 a.C. Narra a fuga de Eneias de Troia e sua viagem até a Itália, onde seus descendentes fundariam Roma. Retoma deliberadamente a *Ilíada* e a *Odisseia* e tornou-se a epopeia nacional de Roma e um dos poemas mais influentes da literatura ocidental.
+Poema épico latino de Virgílio, em doze cantos, deixado inacabado com a morte do autor em 19 a.C. Narra a fuga de Eneias de Troia e sua viagem até a Itália, onde seus descendentes fundariam Roma. Retoma deliberadamente a [[obra:homero--ilias|*Ilíada*]] e a [[obra:homero--odysseia|*Odisseia*]] e tornou-se a epopeia nacional de Roma e um dos poemas mais influentes da literatura ocidental.
 
 ## Como ler
 
 - **A pergunta:** o que custa fundar uma nação, e o que um herói deve sacrificar pelo dever?
 - **Onde está o centro:** os cantos I a IV (a queda de Troia, contada por Eneias, e o amor com Dido, que ele abandona); o VI (a descida aos mortos, onde ele vê o futuro de Roma); e os cantos finais, a guerra no Lácio e a morte de Turno.
-- **Postura:** Leia em diálogo com Homero: a primeira metade é a *Odisseia* de Virgílio; a segunda, a sua *Ilíada*. Repare no tom de tristeza mesmo na glória. O poema ficou inacabado com a morte do autor.
+- **Postura:** Leia em diálogo com [[pessoa:homero|Homero]]: a primeira metade é a *Odisseia* de Virgílio; a segunda, a sua *Ilíada*. Repare no tom de tristeza mesmo na glória. O poema ficou inacabado com a morte do autor.
 
 ## Fatos
 

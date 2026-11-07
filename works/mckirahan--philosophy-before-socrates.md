@@ -43,13 +43,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Introdução de Richard D. McKirahan à filosofia grega anterior a Sócrates. Reúne os fragmentos e testemunhos dos primeiros pensadores, traduzidos para o inglês, acompanhados de comentário explicativo, com abordagem mais introdutória que a obra de Kirk, Raven e Schofield.
+Introdução de Richard D. McKirahan à filosofia grega anterior a [[pessoa:socrates|Sócrates]]. Reúne os fragmentos e testemunhos dos primeiros pensadores, traduzidos para o inglês, acompanhados de comentário explicativo, com abordagem mais introdutória que [[obra:kirk-raven-schofield--the-presocratic-philosophers|a obra de G. S. Kirk, J. E. Raven e M. Schofield]].
 
 ## Como ler
 
 - **A pergunta:** o que pensaram os primeiros filósofos gregos, explicado para quem está começando?
 - **Onde está o centro:** os capítulos por filósofo, cada um com os textos traduzidos e um comentário explicativo.
-- **Postura:** É uma introdução mais fácil que *Os Pré-Socráticos*, de Kirk, Raven e Schofield: leia por filósofo, primeiro os textos, depois o comentário. Está em inglês.
+- **Postura:** É uma introdução mais fácil que [[obra:kirk-raven-schofield--the-presocratic-philosophers|*Os Pré-Socráticos*]], de G. S. Kirk, J. E. Raven e M. Schofield: leia por filósofo, primeiro os textos, depois o comentário. Está em inglês.
 
 ## Fatos
 

@@ -40,4 +40,4 @@ Tragédia de Sófocles, de data incerta, provavelmente uma das primeiras dele. D
 
 - **A pergunta:** o que resta da honra do herói antigo num mundo que passou a premiar a astúcia e a negociação?
 - **Onde está o centro:** o discurso de Ájax antes de morrer e o debate final, em que Ulisses, o rival, defende o enterro.
-- **Postura:** leia comparando com a *Ilíada* e com *Antígona*, em que o direito à sepultura também divide a cidade.
+- **Postura:** leia comparando com a [[obra:homero--ilias|*Ilíada*]] e com [[obra:sofocles--antigone|*Antígona*]], em que o direito à sepultura também divide a cidade.

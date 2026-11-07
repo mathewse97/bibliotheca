@@ -18,7 +18,8 @@ aristoteles:
 tucidides:
   name_display: "Tucídides"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 460–c. 400 a.C."
+  about: "Historiador ateniense. Foi general na guerra que narra e, exilado depois de uma derrota, escreveu de fora de Atenas."
   note: null
 
 cicero:
@@ -31,25 +32,29 @@ cicero:
 confucio:
   name_display: "Confúcio"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "551–479 a.C."
+  about: "Mestre e pensador chinês, funcionário e professor no reino de Lu. A tradição que leva o seu nome moldou a China por mais de dois mil anos."
   note: null
 
 sunzi:
   name_display: "Sun Tzu"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "General e estrategista chinês a quem a tradição atribui *A Arte da Guerra*. A existência dele e a data do livro são discutidas."
   note: null
 
 kautilya:
   name_display: "Kautilya"
   name_variants: []
   dates: null                 # a pesquisar
+  about: "Ministro e conselheiro do imperador Chandragupta Maurya, que a tradição indiana tem como autor do *Arthashastra*, no século IV a.C. O texto que chegou até nós é em parte posterior."
   note: null
 
 ibn-khaldun:
   name_display: "Ibn Khaldun"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1332–1406"
+  about: "Historiador e jurista nascido em Túnis, que serviu a vários governantes do norte da África e da Espanha muçulmana."
   note: null
 
 agostinho:
@@ -62,31 +67,36 @@ agostinho:
 aquino:
   name_display: "Tomás de Aquino"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1225–1274"
+  about: "Frade dominicano italiano e o maior teólogo da escolástica, que conciliou Aristóteles com a fé cristã."
   note: null
 
 maquiavel:
   name_display: "Nicolau Maquiavel"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1469–1527"
+  about: "Diplomata e funcionário da república de Florença. Afastado do poder com a volta dos Médici, escreveu sobre política e história."
   note: null
 
 hobbes:
   name_display: "Thomas Hobbes"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1588–1679"
+  about: "Filósofo inglês, que viveu as guerras civis do seu país e fez da paz o problema central da política."
   note: null
 
 locke:
   name_display: "John Locke"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1632–1704"
+  about: "Filósofo e médico inglês, um dos fundadores do empirismo e do liberalismo."
   note: null
 
 montesquieu:
   name_display: "Montesquieu"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1689–1755"
+  about: "Magistrado e escritor francês, barão de La Brède e de Montesquieu."
   note: null
 
 rousseau:
@@ -99,31 +109,36 @@ rousseau:
 burke:
   name_display: "Edmund Burke"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1729–1797"
+  about: "Político e escritor irlandês, deputado no Parlamento britânico pelo partido Whig."
   note: null
 
 tocqueville:
   name_display: "Alexis de Tocqueville"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1805–1859"
+  about: "Político e escritor francês, de família aristocrática, que viajou aos Estados Unidos em 1831 para estudar o sistema prisional."
   note: null
 
 mill:
   name_display: "John Stuart Mill"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1806–1873"
+  about: "Filósofo e economista inglês, educado pelo pai com rigor extremo desde criança, e deputado no Parlamento."
   note: null
 
 marx:
   name_display: "Karl Marx"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1818–1883"
+  about: "Filósofo, economista e jornalista alemão, que viveu exilado em Londres a partir de 1849."
   note: null
 
 engels:
   name_display: "Friedrich Engels"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1820–1895"
+  about: "Filho de industrial alemão e parceiro de Karl Marx por quarenta anos, que ele sustentou financeiramente e cuja obra editou."
   note: null
 
 weber:
@@ -136,85 +151,99 @@ weber:
 michels:
   name_display: "Robert Michels"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1876–1936"
+  about: "Sociólogo alemão, que militou na social-democracia, depois se naturalizou italiano e se aproximou do fascismo."
   note: null
 
 schmitt:
   name_display: "Carl Schmitt"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1888–1985"
+  about: "Jurista alemão, teórico do Estado e da constituição."
   note: null
 
 arendt:
   name_display: "Hannah Arendt"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1906–1975"
+  about: "Pensadora política alemã, judia, que fugiu do nazismo e se estabeleceu nos Estados Unidos."
   note: null
 
 popper:
   name_display: "Karl Popper"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1902–1994"
+  about: "Filósofo austríaco, depois britânico, conhecido pela teoria de que a ciência avança por tentativa e refutação."
   note: null
 
 berlin:
   name_display: "Isaiah Berlin"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1909–1997"
+  about: "Filósofo e historiador das ideias britânico, nascido em Riga, professor em Oxford."
   note: null
 
 aron:
   name_display: "Raymond Aron"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1905–1983"
+  about: "Sociólogo e filósofo francês, colunista do Le Figaro e opositor do marxismo dos intelectuais do seu tempo."
   note: null
 
 dahl:
   name_display: "Robert Dahl"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1915–2014"
+  about: "Cientista político norte-americano, professor em Yale."
   note: null
 
 rawls:
   name_display: "John Rawls"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1921–2002"
+  about: "Filósofo norte-americano, professor em Harvard."
   note: null
 
 rothbard:
   name_display: "Murray Rothbard"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1926–1995"
+  about: "Economista norte-americano da escola austríaca e principal teórico do anarcocapitalismo."
   note: null
 
 hoppe:
   name_display: "Hans-Hermann Hoppe"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1949–"
+  about: "Economista e filósofo alemão da escola austríaca, que ensinou nos Estados Unidos."
   note: null
 
 dostoievski:
   name_display: "Fiódor Dostoiévski"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1821–1881"
+  about: "Romancista russo. Condenado à morte por conspiração em 1849, teve a pena trocada por trabalhos forçados na Sibéria."
   note: null
 
 zamiatin:
   name_display: "Yevgeny Zamiátin"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1884–1937"
+  about: "Escritor e engenheiro naval russo. Perseguido pelo regime soviético, conseguiu sair do país em 1931 e morreu em Paris."
   note: null
 
 huxley:
   name_display: "Aldous Huxley"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1894–1963"
+  about: "Escritor inglês, de uma família de cientistas."
   note: null
 
 soljenitsin:
   name_display: "Aleksandr Soljenítsin"
   name_variants: ["Aleksandr Soljenitsyn", "Alexander Solzhenitsyn"]
   dates: "1918–2008"
+  about: "Escritor russo, preso em campos soviéticos de 1945 a 1953. Prêmio Nobel de Literatura em 1970, foi expulso da União Soviética em 1974."
   note: "Escritor russo, preso nos campos soviéticos de 1945 a 1953. Prêmio Nobel de Literatura de 1970."
 
 lucas-simone:
@@ -228,13 +257,15 @@ lucas-simone:
 koestler:
   name_display: "Arthur Koestler"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1905–1983"
+  about: "Escritor húngaro, ex-militante comunista que rompeu com o partido depois dos expurgos de Stálin."
   note: null
 
 orwell:
   name_display: "George Orwell"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1903–1950"
+  about: "Pseudônimo de Eric Arthur Blair, escritor e jornalista inglês que lutou na Guerra Civil Espanhola."
   note: null
 
 marrou:
@@ -420,7 +451,8 @@ lorenzi:
 bezmenov:
   name_display: "Yuri Aleksandrovich Bezmenov"
   name_variants: ["Yuri Bezmenov", "Tomas Schuman"]
-  dates: null
+  dates: "1939–1993"
+  about: "Jornalista soviético que trabalhou para a KGB na Índia e desertou em 1970, indo viver no Canadá."
   note: "Ex-agente da KGB, desertor em 1970. `Tomas Schuman` é pseudônimo sob
          o qual publicou/palestrou nos EUA — variante amplamente atestada,
          não confirmada como específica desta edição."
@@ -582,13 +614,15 @@ veyne:
 esquilo:
   name_display: "Ésquilo"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 525–456 a.C."
+  about: "O mais antigo dos três grandes trágicos de Atenas. Lutou contra os persas em Maratona."
   note: null
 
 sofocles:
   name_display: "Sófocles"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 496–406 a.C."
+  about: "Poeta trágico ateniense, autor de mais de cem peças, das quais sete chegaram inteiras."
   note: null
 
 euripides:
@@ -648,7 +682,8 @@ hansen:
 plutarco:
   name_display: "Plutarco"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "c. 46–c. 120"
+  about: "Escritor e sacerdote grego de Queroneia, que viveu sob o Império Romano."
   note: null
 
 martin-thomas:
@@ -1079,7 +1114,8 @@ eduardo-braga:
 kant:
   name_display: "Immanuel Kant"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1724–1804"
+  about: "Filósofo alemão, professor em Königsberg, que tentou fundar o conhecimento e a moral nos limites da razão."
   note: null
 
 adorno:
@@ -1098,13 +1134,15 @@ lukacs:
   name_display: "Georg Lukács"
   name_variants: ["György Lukács"]
   dates: "1885–1971"
+  about: "Filósofo e crítico literário húngaro, um dos principais pensadores marxistas do século XX."
   note: "Húngaro. A SEP descreve-o como um dos fundadores do marxismo
          ocidental e precursor da teoria crítica."
 
 habermas:
   name_display: "Jürgen Habermas"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1929–"
+  about: "Filósofo e sociólogo alemão, o principal nome da segunda geração da Escola de Frankfurt."
   note: "Assistente de Adorno no Instituto por pouco tempo; a SEP adverte que
          chamá-lo membro da Escola de Frankfurt é enganoso."
 
@@ -1476,19 +1514,22 @@ gooley:
 klemperer:
   name_display: "Victor Klemperer"
   name_variants: []
-  dates: null                 # a pesquisar
+  dates: "1881–1960"
+  about: "Professor de literatura francesa em Dresden, de origem judaica, que sobreviveu ao nazismo por ser casado com uma não judia."
   note: "Entrou em 2026-09-23 com LTI (Política)."
 
 levitsky:
   name_display: "Steven Levitsky"
   name_variants: []
-  dates: null
+  dates: "1968–"
+  about: "Cientista político norte-americano, professor em Harvard, estudioso da América Latina."
   note: "Coautor de Como as democracias morrem (Política), 2026-09-23."
 
 ziblatt:
   name_display: "Daniel Ziblatt"
   name_variants: []
-  dates: null
+  dates: "1972–"
+  about: "Cientista político norte-americano, professor em Harvard, estudioso da Europa."
   note: "Coautor de Como as democracias morrem (Política), 2026-09-23."
 
 shakespeare:
@@ -2280,6 +2321,7 @@ voegelin:
   name_display: "Eric Voegelin"
   name_variants: []
   dates: "1901–1985"
+  about: "Filósofo político alemão que fugiu do nazismo e ensinou nos Estados Unidos."
   note: "Filósofo político alemão-americano."
 
 taylor:
@@ -2547,6 +2589,7 @@ eliot:
   name_display: "T. S. Eliot"
   name_variants: ["Thomas Stearns Eliot"]
   dates: "1888–1965"
+  about: "Poeta e crítico norte-americano radicado na Inglaterra, Prêmio Nobel de Literatura em 1948, e editor da Faber & Faber."
   note: "Poeta e crítico anglo-americano. Entrou em 2026-10-30 com Notas
          para a Definição de Cultura (cartão d-cult-adler-eliot)."
 

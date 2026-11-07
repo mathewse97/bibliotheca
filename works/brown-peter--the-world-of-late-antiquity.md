@@ -43,11 +43,11 @@ editions_considered:
 
 ## Sobre a obra
 
-Ensaio ilustrado de Peter Brown, publicado em inglês em 1971, sobre o mundo mediterrâneo de Marco Aurélio a Maomé. Concentra-se nas transformações culturais, religiosas e filosóficas, sobretudo no mundo de língua grega, e trata o período como criação, e não como decadência. É considerado o livro que praticamente fundou o campo da Antiguidade tardia, embora parte da crítica posterior recuse sua visão otimista.
+Ensaio ilustrado de Peter Brown, publicado em inglês em 1971, sobre o mundo mediterrâneo de [[pessoa:marco-aurelio|Marco Aurélio]] a [[pessoa:maome|Maomé]]. Concentra-se nas transformações culturais, religiosas e filosóficas, sobretudo no mundo de língua grega, e trata o período como criação, e não como decadência. É considerado o livro que praticamente fundou o campo da [[termo:antiguidade-tardia|Antiguidade tardia]], embora parte da crítica posterior recuse sua visão otimista.
 
 ## Como ler
 
-- **A pergunta:** o que aconteceu ao mundo romano entre Marco Aurélio e Maomé: decadência, ou criação de algo novo?
+- **A pergunta:** o que aconteceu ao mundo romano entre [[pessoa:marco-aurelio|Marco Aurélio]] e [[pessoa:maome|Maomé]]: decadência, ou criação de algo novo?
 - **Onde está o centro:** o livro inteiro: é um ensaio curto e ilustrado, e as imagens fazem parte do argumento.
 - **Postura:** Lê-se de uma vez. Peter Brown escreve de forma brilhante e defende uma tese: o período como criação, não decadência. Leia sabendo que parte dos historiadores posteriores achou essa visão otimista demais.
 

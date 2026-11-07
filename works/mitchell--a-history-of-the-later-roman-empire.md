@@ -52,7 +52,7 @@ História do Império Romano tardio de Stephen Mitchell, publicada em 2007, que 
 
 - **A pergunta:** como o Império Romano se reorganizou e se defendeu entre Diocleciano e Heráclio?
 - **Onde está o centro:** a narrativa política e militar, e os capítulos sobre as instituições, o exército e a Igreja.
-- **Postura:** É um manual acadêmico extenso: leia por partes e use como consulta. Lê o período mais como declínio do que como continuidade; compare com *The World of Late Antiquity*, de Peter Brown.
+- **Postura:** É um manual acadêmico extenso: leia por partes e use como consulta. Lê o período mais como declínio do que como continuidade; compare com [[obra:brown-peter--the-world-of-late-antiquity|*The World of Late Antiquity*]], de Peter Brown.
 
 ## Fatos
 

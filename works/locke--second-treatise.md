@@ -48,7 +48,7 @@ Segunda parte dos *Dois Tratados sobre o Governo*, de John Locke, publicados em 
 
 - **A pergunta:** de onde vem o governo legítimo, e quando o povo pode resistir a ele?
 - **Onde está o centro:** os capítulos 2 a 5 (o estado de natureza e a propriedade, que nasce do trabalho); o 8 e o 9 (o consentimento e o fim do governo: proteger a vida, a liberdade e os bens); e o 19 (a dissolução do governo e o direito de resistência).
-- **Postura:** É curto e claro, e se lê inteiro. Compare com o *Leviatã*, de Thomas Hobbes: Locke também parte do estado de natureza e do contrato, mas chega a um governo limitado. O *Primeiro Tratado*, contra Robert Filmer, pode ficar de lado.
+- **Postura:** É curto e claro, e se lê inteiro. Compare com o [[obra:hobbes--leviathan|*Leviatã*]], de Thomas Hobbes: Locke também parte do estado de natureza e do contrato, mas chega a um governo limitado. O *Primeiro Tratado*, contra [[pessoa:robert-filmer|Robert Filmer]], pode ficar de lado.
 
 ## Fatos
 

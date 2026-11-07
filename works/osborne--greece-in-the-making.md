@@ -38,7 +38,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Livro de história do classicista britânico Robin Osborne sobre a formação da Grécia, do fim do mundo micênico, por volta de 1200 a.C., até as Guerras Médicas, em 479 a.C. Trata o período arcaico em que surgiram a pólis, a colonização e as formas da cultura grega, recorrendo amplamente às evidências arqueológicas.
+Livro de história do classicista britânico Robin Osborne sobre a formação da Grécia, do fim do mundo micênico, por volta de 1200 a.C., até as [[termo:guerras-medicas|Guerras Médicas]], em 479 a.C. Trata o período arcaico em que surgiram a [[termo:polis|pólis]], a colonização e as formas da cultura grega, recorrendo amplamente às evidências arqueológicas.
 
 ## Como ler
 

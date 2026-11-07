@@ -39,13 +39,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Biografia de Péricles, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Fábio Máximo. Trata do estadista que dirigiu Atenas no auge de seu poder, no século V a.C., até o início da Guerra do Peloponeso.
+Biografia de [[pessoa:pericles|Péricles]], escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com a de Fábio Máximo. Trata do estadista que dirigiu Atenas no auge de seu poder, no século V a.C., até o início da Guerra do Peloponeso.
 
 ## Como ler
 
 - **A pergunta:** o que permite a um líder conduzir uma democracia sem bajulá-la?
-- **Onde está o centro:** a formação com o filósofo Anaxágoras, as obras da Acrópole, entre elas o Partenon, e a peste no começo da guerra contra Esparta.
-- **Postura:** É uma biografia curta, mais interessada no caráter do que nos fatos. Compare com o livro II de Tucídides, onde está a oração fúnebre de Péricles.
+- **Onde está o centro:** a formação com o filósofo [[pessoa:anaxagoras|Anaxágoras]], as obras da Acrópole, entre elas o Partenon, e a peste no começo da guerra contra Esparta.
+- **Postura:** É uma biografia curta, mais interessada no caráter do que nos fatos. Compare com o livro II de [[obra:tucidides--historiai|Tucídides]], onde está a oração fúnebre de [[pessoa:pericles|Péricles]].
 
 ## Fatos
 

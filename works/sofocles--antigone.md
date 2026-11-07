@@ -85,7 +85,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Tragédia grega de Sófocles, encenada provavelmente na década de 440 a.C. Antígona desafia o decreto de Creonte, rei de Tebas, para dar sepultura ao irmão Polinices, opondo a lei da cidade às leis não escritas dos deuses. O conflito tornou-se um dos casos clássicos da reflexão sobre direito natural e obediência civil.
+Tragédia grega de Sófocles, encenada provavelmente na década de 440 a.C. Antígona desafia o decreto de Creonte, rei de Tebas, para dar sepultura ao irmão Polinices, opondo a lei da cidade às leis não escritas dos deuses. O conflito tornou-se um dos casos clássicos da reflexão sobre [[termo:lei-natural|direito natural]] e obediência civil.
 
 ## Como ler
 

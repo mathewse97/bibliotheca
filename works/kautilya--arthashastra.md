@@ -40,13 +40,13 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Tratado sânscrito da Índia antiga sobre a arte de governar, tradicionalmente atribuído a Kautilya, conselheiro do imperador Chandragupta Maurya. Trata da administração do Estado, tributação, direito, espionagem, diplomacia e guerra com um realismo frequentemente comparado ao de Maquiavel. É a principal obra de pensamento político de uma tradição independente da ocidental.
+Tratado sânscrito da Índia antiga sobre a arte de governar, tradicionalmente atribuído a Kautilya, conselheiro do imperador Chandragupta Maurya. Trata da administração do Estado, tributação, direito, espionagem, diplomacia e guerra com um realismo frequentemente comparado ao de [[pessoa:maquiavel|Nicolau Maquiavel]]. É a principal obra de pensamento político de uma tradição independente da ocidental.
 
 ## Como ler
 
 - **A pergunta:** como se governa e se conserva um reino, com realismo, sem ilusões sobre os homens?
 - **Onde está o centro:** o livro I, sobre a formação e a disciplina do rei; e o livro VI, sobre as relações entre reinos vizinhos, o círculo de amigos e inimigos. O restante (impostos, direito, espionagem, guerra) serve de consulta.
-- **Postura:** É um tratado técnico e enorme: não se lê de ponta a ponta. Compare com *O Príncipe*, de Maquiavel, a quem costuma ser comparado, e note as diferenças: Kautilya escreve um manual de administração completo.
+- **Postura:** É um tratado técnico e enorme: não se lê de ponta a ponta. Compare com [[obra:maquiavel--il-principe|*O Príncipe*]], de Maquiavel, a quem costuma ser comparado, e note as diferenças: Kautilya escreve um manual de administração completo.
 
 ## Fatos
 

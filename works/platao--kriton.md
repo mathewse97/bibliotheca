@@ -62,13 +62,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Diálogo de Platão, em grego antigo, passado na prisão dias antes da execução de Sócrates. Críton tenta convencê-lo a fugir; Sócrates recusa, argumentando que não se deve cometer injustiça nem em resposta a uma injustiça, e dá voz às Leis de Atenas, com as quais teria um acordo. Trata da relação entre a consciência individual, a justiça e a obediência à cidade.
+Diálogo de Platão, em grego antigo, passado na prisão dias antes da execução de [[pessoa:socrates|Sócrates]]. Críton tenta convencê-lo a fugir; Sócrates recusa, argumentando que não se deve cometer injustiça nem em resposta a uma injustiça, e dá voz às Leis de Atenas, com as quais teria um acordo. Trata da relação entre a consciência individual, a justiça e a obediência à cidade.
 
 ## Como ler
 
 - **A pergunta:** devemos obedecer às leis da cidade mesmo quando elas nos condenam injustamente?
 - **Onde está o centro:** a recusa de Sócrates em fugir da prisão e, sobretudo, o discurso das Leis de Atenas, que Sócrates imagina falando com ele.
-- **Postura:** É curtíssimo e se lê de uma vez, logo depois da *Apologia*. Compare com *Antígona*, de Sófocles: lá a heroína desobedece em nome de uma lei mais alta; aqui Sócrates obedece mesmo injustiçado.
+- **Postura:** É curtíssimo e se lê de uma vez, logo depois da *Apologia*. Compare com [[obra:sofocles--antigone|*Antígona*]], de Sófocles: lá a heroína desobedece em nome de uma lei mais alta; aqui Sócrates obedece mesmo injustiçado.
 
 ## Fatos
 

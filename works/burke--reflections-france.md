@@ -40,8 +40,8 @@ Obra de Edmund Burke, publicada em inglês em 1790, em forma de carta, como rea�
 ## Como ler
 
 - **A pergunta:** uma sociedade pode ser refeita do zero segundo princípios abstratos, como pretendia a Revolução Francesa?
-- **Onde está o centro:** o livro não tem capítulos: é uma carta longa. As passagens centrais são a defesa da herança e da Revolução Gloriosa inglesa de 1688, contra a francesa; a sociedade como contrato entre os vivos, os mortos e os que vão nascer; a crítica dos direitos do homem tomados em abstrato; e a cena da rainha Maria Antonieta.
-- **Postura:** É retórica, não tratado: leia como um discurso que quer convencer. Foi escrito em 1790, antes do Terror, que de certo modo antecipou.
+- **Onde está o centro:** o livro não tem capítulos: é uma carta longa. As passagens centrais são a defesa da herança e da [[termo:revolucao-gloriosa|Revolução Gloriosa]] inglesa de 1688, contra a francesa; a sociedade como contrato entre os vivos, os mortos e os que vão nascer; a crítica dos direitos do homem tomados em abstrato; e a cena da rainha Maria Antonieta.
+- **Postura:** É retórica, não tratado: leia como um discurso que quer convencer. Foi escrito em 1790, antes do [[termo:terror|Terror]], que de certo modo antecipou.
 
 ## Fatos
 

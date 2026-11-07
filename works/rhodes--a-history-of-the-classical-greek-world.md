@@ -43,13 +43,13 @@ editions_considered:
 
 ## Sobre a obra
 
-Narrativa da história grega de P. J. Rhodes, do fim das Guerras Médicas (478 a.C.) à morte de Alexandre (323 a.C.), publicada em 2006; a segunda edição, de 2010, acrescentou dois capítulos sobre vida e cultura. Cobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia. Paul Cartledge a descreveu como clara, sóbria e detalhada.
+Narrativa da história grega de P. J. Rhodes, do fim das [[termo:guerras-medicas|Guerras Médicas]] (478 a.C.) à morte de Alexandre (323 a.C.), publicada em 2006; a segunda edição, de 2010, acrescentou dois capítulos sobre vida e cultura. Cobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia. Paul Cartledge a descreveu como clara, sóbria e detalhada.
 
 ## Como ler
 
 - **A pergunta:** o que aconteceu no mundo grego entre as Guerras Médicas e a morte de Alexandre?
 - **Onde está o centro:** os capítulos sobre o império ateniense, a Guerra do Peloponeso, o século IV e a ascensão da Macedônia; e os dois capítulos sobre vida e cultura acrescentados na segunda edição.
-- **Postura:** É uma narrativa clara e sóbria, que serve de fio contínuo para as fontes antigas da coleção. Leia por partes, ao lado de Heródoto, Tucídides e Xenofonte.
+- **Postura:** É uma narrativa clara e sóbria, que serve de fio contínuo para as fontes antigas da coleção. Leia por partes, ao lado de [[obra:herodoto--historiai|Heródoto]], [[obra:tucidides--historiai|Tucídides]] e [[obra:xenofonte--hellenika|Xenofonte]].
 
 ## Fatos
 

@@ -43,7 +43,7 @@ Tragédia de Eurípides, provavelmente dos anos 420 a.C. Após a queda de Troia,
 
 - **A pergunta:** o que a guerra faz com as mulheres dos vencidos, e o que fazem os vencedores com a vitória?
 - **Onde está o centro:** a ameaça de Hermíone e de Menelau contra Andrômaca e o filho dela, e a chegada de Peleu, avô de Neoptólemo, que a defende.
-- **Postura:** A peça tem uma crítica aberta a Esparta, inimiga de Atenas quando foi escrita. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** A peça tem uma crítica aberta a Esparta, inimiga de Atenas quando foi escrita. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

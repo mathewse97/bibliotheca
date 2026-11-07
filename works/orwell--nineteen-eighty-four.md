@@ -79,7 +79,7 @@ Romance distópico de George Orwell, publicado em 1949 como advertência contra 
 
 - **A pergunta:** como um poder total controla não só o que as pessoas fazem, mas o que pensam e lembram?
 - **Onde está o centro:** a primeira parte (Winston reescrevendo o passado no Ministério da Verdade, a novilíngua e o duplipensar); o livro atribuído a Goldstein, que explica o regime por dentro; e a terceira parte, o interrogatório de O'Brien e o quarto 101.
-- **Postura:** Lê-se de uma vez, como romance. Note como a língua é instrumento de poder, o mesmo tema do ensaio *A Política e a Língua Inglesa*, de Orwell. Compare com *Admirável Mundo Novo*, de Aldous Huxley: aqui o controle é pela dor.
+- **Postura:** Lê-se de uma vez, como romance. Note como a língua é instrumento de poder, o mesmo tema do ensaio [[obra:orwell--politics-and-the-english-language|*A Política e a Língua Inglesa*]], de Orwell. Compare com [[obra:huxley--brave-new-world|*Admirável Mundo Novo*]], de Aldous Huxley: aqui o controle é pela dor.
 
 ## Fatos
 

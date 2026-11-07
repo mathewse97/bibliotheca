@@ -47,7 +47,7 @@ História do império aquemênida de Maria Brosius, publicada em inglês em 2020
 
 - **A pergunta:** como foi o império persa visto pelas suas próprias fontes, e não só pelos gregos que o combateram?
 - **Onde está o centro:** a narrativa da fundação por Ciro até a queda diante de Alexandre; e os capítulos sobre a administração, a corte e a religião, onde a leitura crítica das fontes gregas aparece melhor.
-- **Postura:** É um manual acadêmico, claro e bem organizado: lê-se por partes. Leia em diálogo com Heródoto: aqui se vê o outro lado das Guerras Médicas.
+- **Postura:** É um manual acadêmico, claro e bem organizado: lê-se por partes. Leia em diálogo com [[obra:herodoto--historiai|Heródoto]]: aqui se vê o outro lado das [[termo:guerras-medicas|Guerras Médicas]].
 
 ## Fatos
 

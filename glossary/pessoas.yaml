@@ -30,3 +30,119 @@ niklas-luhmann:
   dates: "1927–1998"
   about: "Sociólogo alemão, autor de uma teoria geral da sociedade como sistema de comunicações. Escreveu dezenas de livros com a ajuda de um fichário de cerca de 90 mil fichas, o Zettelkasten."
   known_for: {title: "A sociedade da sociedade", year: "1997", about: "A síntese da sua teoria dos sistemas sociais."}
+
+pericles:
+  name: "Péricles"
+  dates: "c. 495–429 a.C."
+  about: "Político e general que dirigiu Atenas no auge do seu poder, entre a década de 450 e o começo da Guerra do Peloponeso. Plutarco escreveu a vida dele: [[obra:plutarco--perikles|*Vida de Péricles*]]."
+
+cipiao-emiliano:
+  name: "Cipião Emiliano"
+  dates: "185–129 a.C."
+  about: "General e político romano que destruiu Cartago em 146 a.C. Reuniu à sua volta um círculo de amigos interessados na cultura grega, entre eles o historiador Políbio, que está na biblioteca."
+
+ptolomeu-de-lucca:
+  name: "Ptolomeu de Lucca"
+  dates: "c. 1236–1327"
+  about: "Frade dominicano italiano, aluno e companheiro de Tomás de Aquino, e depois bispo. Completou o tratado *Do Governo dos Príncipes*, que o mestre deixou inacabado, com uma defesa do governo republicano que não é a de Tomás."
+
+cesar-borgia:
+  name: "César Bórgia"
+  dates: "1475–1507"
+  about: "Filho do papa Alexandre VI, conquistou em poucos anos um Estado próprio no centro da Itália e o perdeu quando o pai morreu. Maquiavel o acompanhou como diplomata de Florença e o usa como modelo do príncipe que chega ao poder pela sorte e pelas armas alheias."
+
+robert-filmer:
+  name: "Robert Filmer"
+  dates: "c. 1588–1653"
+  about: "Escritor político inglês que defendeu o direito divino dos reis: o poder do rei vem de Deus, por herança do poder paterno de Adão. O *Primeiro Tratado* de Locke é uma refutação dele."
+  known_for: {title: "Patriarcha", year: "publicado em 1680"}
+
+hugo-grocio:
+  name: "Hugo Grócio"
+  dates: "1583–1645"
+  about: "Jurista holandês, um dos fundadores do direito internacional e da teoria moderna do direito natural."
+  known_for: {title: "O direito da guerra e da paz", year: "1625", about: "O tratado que pensa a guerra e as relações entre os Estados a partir de um direito natural que valeria mesmo que Deus não existisse."}
+
+feuerbach:
+  name: "Ludwig Feuerbach"
+  dates: "1804–1872"
+  about: "Filósofo alemão, do grupo dos jovens hegelianos. Sustentou que Deus é a projeção da essência humana, e influenciou o primeiro Marx, que depois o criticou por ficar na religião e não chegar à vida material."
+  known_for: {title: "A essência do cristianismo", year: "1841"}
+
+netchaiev:
+  name: "Serguei Netcháiev"
+  dates: "1847–1882"
+  about: "Revolucionário russo, autor do *Catecismo do revolucionário*, que pregava que tudo é permitido em nome da revolução. Em 1869 seu grupo matou um estudante que queria deixá-lo, o crime que Dostoiévski transformou em *Os Demônios*. Morreu preso."
+
+hegel:
+  name: "Georg Wilhelm Friedrich Hegel"
+  dates: "1770–1831"
+  about: "Filósofo alemão para quem a história é o desenvolvimento racional do espírito rumo à liberdade, avançando por contradições. Marx inverteu o esquema, pondo a vida material no lugar do espírito, e Popper o acusa de abrir caminho ao totalitarismo."
+  known_for: {title: "Fenomenologia do espírito", year: "1807"}
+
+lenin:
+  name: "Vladimir Lênin"
+  dates: "1870–1924"
+  about: "Líder da Revolução Russa de 1917 e fundador do Estado soviético. Defendeu um partido de revolucionários profissionais que conduzisse a classe operária, o que Robert Dahl lê como uma forma moderna do governo dos que sabem."
+
+nozick:
+  name: "Robert Nozick"
+  dates: "1938–2002"
+  about: "Filósofo norte-americano, colega de John Rawls em Harvard."
+  known_for: {title: "Anarquia, Estado e Utopia", year: "1974", about: "A resposta libertária a Rawls: só um Estado mínimo, que protege contra a força e a fraude, se justifica, e redistribuir a renda viola os direitos de quem a ganhou."}
+
+socrates:
+  name: "Sócrates"
+  dates: "c. 470–399 a.C."
+  about: "Filósofo ateniense que não escreveu nada: passava os dias conversando na praça, perguntando aos outros o que eles achavam que sabiam. Condenado à morte por impiedade e por corromper os jovens, é conhecido sobretudo pelos diálogos de Platão e pelos escritos de Xenofonte."
+
+solon:
+  name: "Sólon"
+  dates: "c. 640–c. 560 a.C."
+  about: "Legislador e poeta ateniense. Em 594 a.C. cancelou as dívidas que reduziam os pobres à escravidão e deu a Atenas leis novas, que estão na origem da democracia. Plutarco escreveu a vida dele: [[obra:plutarco--solon|*Vida de Sólon*]]."
+
+demostenes:
+  name: "Demóstenes"
+  dates: "384–322 a.C."
+  about: "O maior orador de Atenas. Passou a vida pública alertando a cidade contra Filipe da Macedônia e morreu quando a causa já estava perdida. Plutarco escreveu a vida dele: [[obra:plutarco--demosthenes|*Vida de Demóstenes*]]."
+
+alcibiades:
+  name: "Alcibíades"
+  dates: "c. 450–404 a.C."
+  about: "Político e general ateniense, rico, bonito e brilhante, discípulo de Sócrates. Convenceu Atenas a invadir a Sicília e depois passou para o lado de Esparta e dos persas. Plutarco escreveu a vida dele: [[obra:plutarco--alkibiades|*Vida de Alcibíades*]]."
+
+tales:
+  name: "Tales de Mileto"
+  dates: "c. 624–c. 546 a.C."
+  about: "Tido pelos gregos como o primeiro filósofo: procurou o princípio de todas as coisas na própria natureza, e o achou na água. Não deixou escritos; o que se sabe dele vem de autores posteriores, sobretudo Aristóteles."
+
+heraclito:
+  name: "Heráclito de Éfeso"
+  dates: "c. 535–c. 475 a.C."
+  about: "Filósofo grego, famoso pela obscuridade. Para ele tudo flui e o mundo é feito da tensão entre contrários, ordenada por uma razão comum, o *logos*. Restam dele cerca de cem fragmentos."
+
+parmenides:
+  name: "Parmênides de Eleia"
+  dates: "c. 515–c. 450 a.C."
+  about: "Filósofo grego que, num poema, sustentou que o ser é, o não ser não é, e que por isso a mudança e a multiplicidade que os sentidos mostram são ilusão. Quase toda a filosofia grega depois dele é uma resposta a esse argumento."
+
+anaxagoras:
+  name: "Anaxágoras"
+  dates: "c. 500–c. 428 a.C."
+  about: "Filósofo grego que viveu em Atenas, amigo e mestre de Péricles. Ensinou que uma inteligência, o *nous*, ordenou o mundo, e que o sol é uma pedra incandescente, o que lhe valeu um processo por impiedade."
+
+diogenes-laercio:
+  name: "Diógenes Laércio"
+  dates: "século III d.C."
+  about: "Autor de *Vidas e doutrinas dos filósofos ilustres*, um compêndio de biografias e anedotas dos filósofos gregos. É fonte de muito do que se sabe deles, e o único caminho por que chegaram até nós as cartas de Epicuro."
+
+panecio:
+  name: "Panécio de Rodes"
+  dates: "c. 185–c. 110 a.C."
+  about: "Filósofo estoico grego que viveu em Roma no círculo de Cipião Emiliano e adaptou o estoicismo à vida pública romana, menos rígido que o dos fundadores."
+  known_for: {title: "Do dever (perdido)", about: "O tratado que Cícero diz ter seguido nos dois primeiros livros de *Sobre os Deveres*."}
+
+maome:
+  name: "Maomé"
+  dates: "c. 570–632"
+  about: "O profeta do islã, nascido em Meca. Segundo a tradição islâmica, recebeu as revelações reunidas no [[obra:alcorao|Alcorão]]. Quando morreu, a Arábia estava unificada sob a nova fé, e em um século o califado ia da Espanha à Índia."

@@ -69,7 +69,7 @@ Antologia bilíngue, em inglês e português, de textos de Yuri Bezmenov dos ano
 
 - **A pergunta:** como, segundo um ex-agente soviético, um país pode ser desestabilizado por dentro, pela propaganda e pela influência?
 - **Onde está o centro:** a descrição das fases da subversão ideológica e os exemplos que Yuri Bezmenov tira da própria experiência no serviço secreto soviético.
-- **Postura:** São palestras e entrevistas, não um estudo: leia como depoimento de quem esteve dentro, com o interesse e os limites de um depoimento. Confronte com obras mais sólidas sobre propaganda, como *LTI*, de Victor Klemperer, e *1984*, de George Orwell.
+- **Postura:** São palestras e entrevistas, não um estudo: leia como depoimento de quem esteve dentro, com o interesse e os limites de um depoimento. Confronte com obras mais sólidas sobre propaganda, como [[obra:klemperer--lti-lingua-tertii-imperii|*LTI*]], de Victor Klemperer, e [[obra:orwell--nineteen-eighty-four|*1984*]], de George Orwell.
 
 ## Fatos
 

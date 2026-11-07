@@ -40,13 +40,13 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Livro do economista e filósofo Hans-Hermann Hoppe, da escola austríaca, publicado em inglês em 2001. Faz uma crítica libertária da democracia: compara-a desfavoravelmente à monarquia hereditária com base nos incentivos de quem governa, e defende como alternativa uma ordem social fundada na propriedade privada, sem Estado.
+Livro do economista e filósofo Hans-Hermann Hoppe, da [[termo:escola-austriaca|escola austríaca]], publicado em inglês em 2001. Faz uma crítica libertária da democracia: compara-a desfavoravelmente à monarquia hereditária com base nos incentivos de quem governa, e defende como alternativa uma ordem social fundada na propriedade privada, sem Estado.
 
 ## Como ler
 
 - **A pergunta:** a democracia é mesmo melhor que a monarquia, se julgada pelos incentivos de quem governa?
 - **Onde está o centro:** os capítulos iniciais, com a comparação entre o rei, dono do país e interessado no seu valor a longo prazo, e o governante eleito, que só administra temporariamente; e os capítulos finais, com a alternativa de uma ordem de propriedade privada sem Estado.
-- **Postura:** É um livro polêmico de economista, escrito para provocar. Leia como argumento a avaliar, e teste as premissas sobre incentivos com casos históricos. Rende mais depois de *A Ética da Liberdade*, de Murray Rothbard.
+- **Postura:** É um livro polêmico de economista, escrito para provocar. Leia como argumento a avaliar, e teste as premissas sobre incentivos com casos históricos. Rende mais depois de [[obra:rothbard--the-ethics-of-liberty|*A Ética da Liberdade*]], de Murray Rothbard.
 
 ## Fatos
 

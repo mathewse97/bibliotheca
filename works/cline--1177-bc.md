@@ -42,7 +42,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Livro de história do arqueólogo Eric H. Cline, publicado em inglês em 2014 e revisto em 2021, sobre o colapso das civilizações da Idade do Bronze no Mediterrâneo oriental por volta de 1177 a.C. Cline descreve o sistema internacional interligado de egípcios, hititas, babilônios, assírios e micênicos e sustenta que seu fim não teve causa única, mas resultou da combinação de terremotos, secas, fomes, migrações e invasões (como as dos chamados Povos do Mar) num sistema interdependente. O autor deu continuidade ao tema em *After 1177 B.C.* (2024).
+Livro de história do arqueólogo Eric H. Cline, publicado em inglês em 2014 e revisto em 2021, sobre o colapso das civilizações da [[termo:idade-do-bronze|Idade do Bronze]] no Mediterrâneo oriental por volta de 1177 a.C. Cline descreve o sistema internacional interligado de egípcios, hititas, babilônios, assírios e micênicos e sustenta que seu fim não teve causa única, mas resultou da combinação de terremotos, secas, fomes, migrações e invasões (como as dos chamados [[termo:povos-do-mar|Povos do Mar]]) num sistema interdependente. O autor deu continuidade ao tema em *After 1177 B.C.* (2024).
 
 ## Como ler
 

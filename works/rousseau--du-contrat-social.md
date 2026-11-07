@@ -44,7 +44,7 @@ Tratado de filosofia política de Jean-Jacques Rousseau, publicado em 1762, em f
 
 - **A pergunta:** como alguém pode obedecer à lei e continuar livre?
 - **Onde está o centro:** o livro I (a abertura, "o homem nasceu livre, e por toda parte está a ferros", e o pacto social); o livro II (a vontade geral, que não é a soma das vontades particulares, e o legislador); o livro III (as formas de governo); e o capítulo 8 do livro IV (a religião civil).
-- **Postura:** É curto e denso: leia inteiro, mas devagar, parando em cada definição. As frases célebres são fáceis de citar e difíceis de entender. No livro I ele discute Thomas Hobbes e o jurista Hugo Grócio.
+- **Postura:** É curto e denso: leia inteiro, mas devagar, parando em cada definição. As frases célebres são fáceis de citar e difíceis de entender. No livro I ele discute [[obra:hobbes--leviathan|Thomas Hobbes]] e o jurista [[pessoa:hugo-grocio|Hugo Grócio]].
 
 ## Fatos
 

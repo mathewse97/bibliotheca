@@ -46,7 +46,7 @@ Ensaio breve do economista libertário americano Murray Rothbard. Descreve o Est
 
 - **A pergunta:** o que é o Estado, segundo um libertário, e como ele consegue ser aceito pelos governados?
 - **Onde está o centro:** o ensaio inteiro, curto: o Estado como organização que vive da coerção, e os meios pelos quais conquista a aceitação e escapa aos limites.
-- **Postura:** Lê-se numa sentada. Leia como porta de entrada para *A Ética da Liberdade*, do mesmo Murray Rothbard, onde as teses são fundamentadas.
+- **Postura:** Lê-se numa sentada. Leia como porta de entrada para [[obra:rothbard--the-ethics-of-liberty|*A Ética da Liberdade*]], do mesmo Murray Rothbard, onde as teses são fundamentadas.
 
 ## Fatos
 

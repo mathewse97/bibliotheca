@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-A obra principal de Karl Marx. O livro I, publicado em 1867, foi o único volume que ele publicou em vida. Os livros II e III saíram depois da morte dele, editados por Friedrich Engels. Parte da mercadoria e do dinheiro e chega à tese central: o lucro vem da mais-valia, o valor que o trabalhador produz além do que recebe como salário. Daí descreve a jornada de trabalho, a fábrica e a acumulação do capital, até a origem violenta do capitalismo na chamada acumulação primitiva.
+A obra principal de Karl Marx. O livro I, publicado em 1867, foi o único volume que ele publicou em vida. Os livros II e III saíram depois da morte dele, editados por [[pessoa:engels|Friedrich Engels]]. Parte da mercadoria e do dinheiro e chega à tese central: o lucro vem da mais-valia, o valor que o trabalhador produz além do que recebe como salário. Daí descreve a jornada de trabalho, a fábrica e a acumulação do capital, até a origem violenta do capitalismo na chamada acumulação primitiva.
 
 ## Como ler
 

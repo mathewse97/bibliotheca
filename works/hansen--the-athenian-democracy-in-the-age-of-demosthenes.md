@@ -50,7 +50,7 @@ Obra do historiador dinamarquês Mogens Herman Hansen, publicada em 1991. Recons
 
 - **A pergunta:** como funcionava, em detalhe, a democracia de Atenas no século IV a.C.?
 - **Onde está o centro:** os capítulos sobre a assembleia, o conselho, os tribunais e os magistrados, e o capítulo sobre quem era cidadão.
-- **Postura:** É uma obra de referência, para consulta: leia os capítulos conforme as instituições aparecerem em Demóstenes, na *Constituição de Atenas* ou em Plutarco. Está em inglês.
+- **Postura:** É uma obra de referência, para consulta: leia os capítulos conforme as instituições aparecerem em [[pessoa:demostenes|Demóstenes]], na [[obra:aristoteles--athenaion-politeia|*Constituição de Atenas*]] ou em [[pessoa:plutarco|Plutarco]]. Está em inglês.
 
 ## Fatos
 

@@ -46,7 +46,7 @@ Tratado de Aristóteles, do século IV a.C., em dez livros. Investiga o bem huma
 
 - **A pergunta:** o que é a felicidade, e como uma pessoa se torna boa?
 - **Onde está o centro:** o livro I (a felicidade como fim de todas as ações e como atividade da alma segundo a virtude); o II (a virtude como hábito e como meio-termo entre dois excessos); o VI (a sabedoria prática, a *phronesis*); o VIII e o IX (a amizade); e o X (a vida contemplativa como a mais alta).
-- **Postura:** São textos de ensino, densos e às vezes repetitivos. Leia como análise, testando cada definição em casos da sua vida. A *Política* continua este livro.
+- **Postura:** São textos de ensino, densos e às vezes repetitivos. Leia como análise, testando cada definição em casos da sua vida. A [[obra:aristoteles--politika|*Política*]] continua este livro.
 
 ## Fatos
 

@@ -51,7 +51,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Diálogo de Platão, em grego antigo, que narra o último dia de Sócrates e sua morte na prisão. A conversa gira em torno da imortalidade da alma, defendida por vários argumentos, e da filosofia como preparação para a morte. É um dos textos centrais para a doutrina platônica das Formas.
+Diálogo de Platão, em grego antigo, que narra o último dia de [[pessoa:socrates|Sócrates]] e sua morte na prisão. A conversa gira em torno da imortalidade da alma, defendida por vários argumentos, e da filosofia como preparação para a morte. É um dos textos centrais para a doutrina platônica das [[termo:formas|Formas]].
 
 ## Como ler
 

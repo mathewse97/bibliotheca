@@ -34,10 +34,10 @@ updated: 2026-11-02
 
 ## Sobre a obra
 
-Livro de Pierre Hadot, de 1995. Sustenta que, para os antigos, a filosofia era antes de tudo um modo de vida, escolhido e praticado com exercícios, e só depois um discurso. Percorre a filosofia grega e romana dos pré-socráticos ao fim das escolas, com Sócrates como modelo central.
+Livro de Pierre Hadot, de 1995. Sustenta que, para os antigos, a filosofia era antes de tudo um modo de vida, escolhido e praticado com exercícios, e só depois um discurso. Percorre a filosofia grega e romana dos [[termo:pre-socraticos|pré-socráticos]] ao fim das escolas, com [[pessoa:socrates|Sócrates]] como modelo central.
 
 ## Como ler
 
 - **A pergunta:** e se, para os antigos, a filosofia fosse um modo de viver, e não uma teoria?
-- **Onde está o centro:** os capítulos sobre Sócrates e sobre as escolas helenísticas.
-- **Postura:** leia como um mapa da filosofia antiga inteira; volte a ele ao ler Epicuro, Sêneca e Marco Aurélio.
+- **Onde está o centro:** os capítulos sobre [[pessoa:socrates|Sócrates]] e sobre as [[termo:escolas-helenisticas|escolas helenísticas]].
+- **Postura:** leia como um mapa da filosofia antiga inteira; volte a ele ao ler [[pessoa:epicuro|Epicuro]], [[pessoa:seneca|Sêneca]] e [[pessoa:marco-aurelio|Marco Aurélio]].

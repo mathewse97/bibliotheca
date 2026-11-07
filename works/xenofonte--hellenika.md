@@ -40,11 +40,11 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Obra histórica do ateniense Xenofonte que retoma a narrativa no ponto em que Tucídides a interrompe, em 411 a.C., e a leva até a batalha de Mantineia, em 362 a.C. Cobre o fim da Guerra do Peloponeso, a hegemonia espartana e a ascensão de Tebas.
+Obra histórica do ateniense Xenofonte que retoma a narrativa no ponto em que [[obra:tucidides--historiai|Tucídides]] a interrompe, em 411 a.C., e a leva até a batalha de Mantineia, em 362 a.C. Cobre o fim da Guerra do Peloponeso, a hegemonia espartana e a ascensão de Tebas.
 
 ## Como ler
 
-- **A pergunta:** o que aconteceu na Grécia depois do ponto em que Tucídides parou, até a batalha de Mantineia?
+- **A pergunta:** o que aconteceu na Grécia depois do ponto em que [[obra:tucidides--historiai|Tucídides]] parou, até a batalha de Mantineia?
 - **Onde está o centro:** os dois primeiros livros, que terminam a Guerra do Peloponeso; e os seguintes, sobre a hegemonia de Esparta e a ascensão de Tebas.
 - **Postura:** É história narrativa, mais simples e menos analítica que a de Tucídides; Xenofonte admirava Esparta, e isso aparece. Leia logo depois de Tucídides, para ver a continuação.
 

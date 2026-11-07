@@ -43,7 +43,7 @@ Tragédia de Eurípides, encenada por volta de 424 a.C. Depois da queda de Troia
 
 - **A pergunta:** o que o sofrimento extremo faz de uma pessoa?
 - **Onde está o centro:** o sacrifício de Polixena, filha de Hécuba, pelos gregos; a descoberta de que o filho Polidoro foi assassinado pelo rei trácio a quem fora confiado; e a vingança de Hécuba.
-- **Postura:** Repare como a vítima se torna carrasco, e como os gregos vencedores não saem melhores. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** Repare como a vítima se torna carrasco, e como os gregos vencedores não saem melhores. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

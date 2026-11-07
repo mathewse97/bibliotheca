@@ -43,7 +43,7 @@ Tragédia de Eurípides em que Héracles, ao voltar dos trabalhos e salvar a fam
 
 - **A pergunta:** o que resta de um homem depois de um crime que ele não quis?
 - **Onde está o centro:** a volta de Héracles, que salva a família de um usurpador; a loucura enviada por Hera, em que ele mata a esposa e os filhos; e o despertar, quando Teseu o convence a viver.
-- **Postura:** A peça se parte ao meio: a primeira metade é de salvação, a segunda de catástrofe. Repare na amizade de Teseu, que é a resposta da peça ao desespero. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** A peça se parte ao meio: a primeira metade é de salvação, a segunda de catástrofe. Repare na amizade de Teseu, que é a resposta da peça ao desespero. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

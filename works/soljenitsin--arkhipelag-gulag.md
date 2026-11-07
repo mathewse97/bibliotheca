@@ -41,4 +41,4 @@ Obra de Aleksandr Soljenítsin, escrita em segredo entre 1958 e 1968 e publicada
 
 - **A pergunta:** o que acontece com o direito e com a consciência quando o Estado decide quem é inimigo?
 - **Onde está o centro:** os primeiros capítulos, sobre a prisão e o interrogatório, e a parte "A alma e o arame farpado", em que Soljenítsin conclui que a linha entre o bem e o mal passa pelo coração de cada homem.
-- **Postura:** é testemunho, não história acadêmica: os números e alguns relatos foram discutidos depois da abertura dos arquivos. Leia depois de *O Zero e o Infinito*, de Koestler: o mesmo terror, visto de dentro do partido no romance e de dentro do campo aqui.
+- **Postura:** é testemunho, não história acadêmica: os números e alguns relatos foram discutidos depois da abertura dos arquivos. Leia depois de [[obra:koestler--darkness-at-noon|*O Zero e o Infinito*]], de Arthur Koestler: o mesmo terror, visto de dentro do partido no romance e de dentro do campo aqui.

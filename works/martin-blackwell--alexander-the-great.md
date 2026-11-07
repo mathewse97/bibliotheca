@@ -49,7 +49,7 @@ Biografia de Alexandre, o Grande escrita pelos classicistas americanos Thomas R.
 
 - **A pergunta:** quem foi Alexandre, o Grande, e como mudou o mundo que conquistou?
 - **Onde está o centro:** a narrativa da vida e das campanhas, e os capítulos sobre os povos conquistados e o que a conquista significou para eles.
-- **Postura:** É uma biografia breve e equilibrada, que se lê inteira. Compare com a *Vida de Alexandre*, de Plutarco, a fonte antiga mais lida sobre ele.
+- **Postura:** É uma biografia breve e equilibrada, que se lê inteira. Compare com a [[obra:plutarco--alexandros|*Vida de Alexandre*]], de Plutarco, a fonte antiga mais lida sobre ele.
 
 ## Fatos
 

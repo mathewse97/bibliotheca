@@ -52,7 +52,7 @@ Tragédia de Ésquilo encenada em 472 a.C., a mais antiga peça grega conservada
 
 - **A pergunta:** como os vencedores podem pensar a derrota do inimigo?
 - **Onde está o centro:** o sonho da rainha Atossa, a chegada do mensageiro com a notícia de Salamina, a aparição do fantasma do rei Dario e a entrada de Xerxes derrotado.
-- **Postura:** É a peça grega mais antiga que chegou até nós, e Ésquilo lutou em Salamina: leia buscando como ele mostra a derrota persa como castigo da desmedida, sem zombar dos vencidos. Compare com os livros VII e VIII de Heródoto.
+- **Postura:** É a peça grega mais antiga que chegou até nós, e Ésquilo lutou em Salamina: leia buscando como ele mostra a derrota persa como castigo da [[termo:hybris|desmedida]], sem zombar dos vencidos. Compare com os livros VII e VIII de [[obra:herodoto--historiai|Heródoto]].
 
 ## Fatos
 

@@ -39,13 +39,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Tratado de Aristóteles, do século IV a.C., conservado de forma incompleta: a parte dedicada à comédia se perdeu. Define a poesia como imitação (*mímesis*), analisa a tragédia e seus elementos, dá primazia ao enredo e trata da catarse produzida pelo terror e pela piedade. É a primeira teoria sistemática da arte literária no Ocidente e uma referência constante para a crítica posterior.
+Tratado de Aristóteles, do século IV a.C., conservado de forma incompleta: a parte dedicada à comédia se perdeu. Define a poesia como imitação (*mímesis*), analisa a tragédia e seus elementos, dá primazia ao enredo e trata da [[termo:catarse|catarse]] produzida pelo terror e pela piedade. É a primeira teoria sistemática da arte literária no Ocidente e uma referência constante para a crítica posterior.
 
 ## Como ler
 
 - **A pergunta:** o que faz uma tragédia ser boa, e por que gostamos de ver no teatro o que nos faria sofrer na vida?
 - **Onde está o centro:** a definição da tragédia como imitação de uma ação que, pelo terror e pela piedade, produz a catarse (capítulo 6); a primazia do enredo sobre os personagens; a reviravolta e o reconhecimento; e o herói que cai por um erro, não por maldade (capítulo 13).
-- **Postura:** São notas de curso, secas e às vezes obscuras, e a parte sobre a comédia se perdeu. Leia com as tragédias na memória: Aristóteles toma *Édipo Rei* como exemplo. Volte a ela depois de cada peça.
+- **Postura:** São notas de curso, secas e às vezes obscuras, e a parte sobre a comédia se perdeu. Leia com as tragédias na memória: Aristóteles toma [[obra:sofocles--oidipous-tyrannos|*Édipo Rei*]] como exemplo. Volte a ela depois de cada peça.
 
 ## Fatos
 
