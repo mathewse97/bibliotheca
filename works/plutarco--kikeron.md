@@ -36,10 +36,10 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Biografia do orador e político romano Marco Túlio Cícero, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Demóstenes. Acompanha a carreira de Cícero, da oratória à conspiração de Catilina e à luta contra Marco Antônio, até a morte em 43 a.C., no colapso da república romana.
+Biografia do orador e político romano [[pessoa:cicero|Marco Túlio Cícero]], escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com [[obra:plutarco--demosthenes|a de Demóstenes]]. Acompanha a carreira de Cícero, da oratória à conspiração de Catilina e à luta contra Marco Antônio, até a morte em 43 a.C., no colapso da república romana.
 
 ## Como ler
 
 - **A pergunta:** como um homem de palavra e de leis enfrenta uma república que se desfaz pela força?
-- **Onde está o centro:** a conspiração de Catilina, que Cícero sufoca como cônsul, e os últimos capítulos, contra Marco Antônio.
-- **Postura:** Plutarco escreve como moralista: quer mostrar o caráter, não fazer a história completa. Leia logo depois da *Vida de Demóstenes* e repare na comparação que ele faz entre os dois oradores.
+- **Onde está o centro:** a conspiração de Catilina, que [[pessoa:cicero|Cícero]] sufoca como cônsul, e os últimos capítulos, contra Marco Antônio.
+- **Postura:** Plutarco escreve como moralista: quer mostrar o caráter, não fazer a história completa. Leia logo depois da [[obra:plutarco--demosthenes|*Vida de Demóstenes*]] e repare na comparação que ele faz entre os dois oradores.

@@ -38,12 +38,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Obra do filólogo alemão Werner Jaeger, publicada em três volumes a partir de 1933. Acompanha a formação do ideal grego de educação, a *paideia*, de Homero a Platão e Demóstenes, mostrando como poesia, política, filosofia e educação compõem uma mesma tradição cultural. É um clássico dos estudos sobre a Grécia antiga.
+Obra do filólogo alemão Werner Jaeger, publicada em três volumes a partir de 1933. Acompanha a formação do ideal grego de educação, a [[termo:paideia|*paideia*]], de [[pessoa:homero|Homero]] a [[pessoa:platao|Platão]] e [[pessoa:demostenes|Demóstenes]], mostrando como poesia, política, filosofia e educação compõem uma mesma tradição cultural. É um clássico dos estudos sobre a Grécia antiga.
 
 ## Como ler
 
 - **A pergunta:** como os gregos pensaram a formação do homem, e como poesia, política e filosofia serviram a esse ideal?
-- **Onde está o centro:** o primeiro volume, de Homero aos sofistas; o segundo e o terceiro tratam de Sócrates, Platão, Isócrates e Demóstenes.
+- **Onde está o centro:** o primeiro volume, de [[pessoa:homero|Homero]] aos [[termo:sofistas|sofistas]]; o segundo e o terceiro tratam de [[pessoa:socrates|Sócrates]], [[pessoa:platao|Platão]], [[pessoa:isocrates|Isócrates]] e [[pessoa:demostenes|Demóstenes]].
 - **Postura:** É uma obra enorme, de prosa elevada: leia o primeiro volume inteiro e consulte os outros conforme os autores que estiver lendo. É um clássico, e também uma interpretação datada, que idealiza os gregos.
 
 ## Fatos

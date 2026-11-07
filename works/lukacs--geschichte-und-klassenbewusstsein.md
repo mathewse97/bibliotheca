@@ -56,13 +56,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Coletânea de ensaios de Georg Lukács publicada em alemão em 1923. Desenvolve o conceito de reificação: sob o capitalismo, relações entre pessoas assumem a forma de relações entre coisas, e isso molda a própria consciência. É um dos textos fundadores do marxismo ocidental e a ponte entre Marx e a crítica da cultura da Escola de Frankfurt.
+Coletânea de ensaios de Georg Lukács publicada em alemão em 1923. Desenvolve o conceito de reificação: sob o capitalismo, relações entre pessoas assumem a forma de relações entre coisas, e isso molda a própria consciência. É um dos textos fundadores do marxismo ocidental e a ponte entre [[pessoa:marx|Karl Marx]] e a crítica da cultura da [[termo:escola-de-frankfurt|Escola de Frankfurt]].
 
 ## Como ler
 
 - **A pergunta:** como o capitalismo molda não só a economia, mas a própria maneira de pensar das pessoas?
 - **Onde está o centro:** o ensaio "A reificação e a consciência do proletariado", o centro do livro: sob o capitalismo, relações entre pessoas aparecem como relações entre coisas.
-- **Postura:** É filosofia marxista densa, com vocabulário de Hegel: leia o ensaio central devagar, com uma introdução ao lado se precisar. Os outros ensaios podem ser deixados para depois. Georg Lukács renegou parte do livro mais tarde.
+- **Postura:** É filosofia marxista densa, com vocabulário de [[pessoa:hegel|Hegel]]: leia o ensaio central devagar, com uma introdução ao lado se precisar. Os outros ensaios podem ser deixados para depois. Georg Lukács renegou parte do livro mais tarde.
 
 ## Fatos
 

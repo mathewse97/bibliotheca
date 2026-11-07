@@ -43,7 +43,7 @@ Tragédia de Eurípides em que os filhos de Héracles, perseguidos por Euristeu 
 
 - **A pergunta:** o que uma cidade deve aos fracos que lhe pedem proteção?
 - **Onde está o centro:** o acolhimento dos filhos de Héracles por Atenas, o sacrifício voluntário de uma das filhas para garantir a vitória, e o destino de Euristeu, o perseguidor.
-- **Postura:** É uma peça patriótica, que mostra Atenas como protetora dos suplicantes; repare como o final complica essa imagem. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** É uma peça patriótica, que mostra Atenas como protetora dos suplicantes; repare como o final complica essa imagem. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

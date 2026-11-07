@@ -927,16 +927,17 @@ def build():
             if cur: out[cur].append(ln)
         return {k: "\n".join(v) for k, v in out.items()}
     units = []
+    # A página da obra é um texto só: basta marcar a primeira menção nela
+    # ("Sobre a obra", "Como ler" e as notas das relações, que a página mostra juntas).
     for wid, w in idx["works"].items():
         sec = _sections(WORK_BODIES.get(wid, ""))
-        own = set(w.get("authors") or [])
-        for name in ("Sobre a obra", "Como ler"):
-            if sec.get(name): units.append(("obra %s · %s" % (wid, name), sec[name], own, {wid}))
+        own, ow = set(w.get("authors") or []), {wid}
+        parts = [sec.get(n) or "" for n in ("Sobre a obra", "Como ler")]
         for r in w.get("relations") or []:
             if isinstance(r, dict) and r.get("note"):
-                tg = r.get("target")      # a linha da relação já mostra a obra-alvo com link
-                tga = set((idx["works"].get(tg) or {}).get("authors") or [])
-                units.append(("obra %s · relação" % wid, r["note"], own | tga, {wid, tg}))
+                parts.append(r["note"]); tg = r.get("target"); ow.add(tg)
+                own |= set((idx["works"].get(tg) or {}).get("authors") or [])
+        if any(parts): units.append(("obra %s" % wid, "\n".join(parts), own, ow))
     for cid, c in idx["collections"].items():
         for s_ in c.get("sequence") or []:
             if not isinstance(s_, dict): continue
@@ -963,8 +964,10 @@ def build():
         sur = nm.split()[-1] if nm else ""
         pat = nm if (sur in amb or len(sur) < 4) else sur
         if pat: people_pat.append((cid_, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(pat))))
+    amb_t = set((load_yaml(os.path.join(ROOT, "config/referencias.yaml")) or {}).get("titles_ambiguous") or [])
     title_pat = []
     for wid, w in idx["works"].items():
+        if wid in amb_t: continue
         t = (w.get("title_pt") or w.get("title_en") or "").split(":")[0].strip()
         if len(t) >= 7 and " " in t:
             title_pat.append((wid, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(t))))

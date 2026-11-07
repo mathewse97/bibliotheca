@@ -40,4 +40,4 @@ Tragédia de Sófocles, encenada em 409 a.C. Filoctetes, ferido por uma serpente
 
 - **A pergunta:** é lícito mentir por uma causa justa?
 - **Onde está o centro:** a crise de Neoptólemo, dividido entre a ordem de Ulisses e a lealdade ao homem que está enganando.
-- **Postura:** compare Ulisses com o de *Ájax*: o mesmo personagem, astuto nas duas peças, aparece ali como generoso e aqui como cínico.
+- **Postura:** compare Ulisses com o de [[obra:sofocles--aias|*Ájax*]]: o mesmo personagem, astuto nas duas peças, aparece ali como generoso e aqui como cínico.

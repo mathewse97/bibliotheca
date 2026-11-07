@@ -213,8 +213,7 @@ sequence:
     role: supplementary
     demand: leve
     why_here: "O fim do mundo micênico, hitita e do Egito do Novo Império, que
-               abre a Idade das Trevas grega. É o pano de fundo de Homero e o
-               ponto de partida de Osborne."
+               abre a Idade das Trevas grega. É o pano de fundo de [[pessoa:homero|Homero]] e o ponto de partida de [[obra:osborne--greece-in-the-making|Robin Osborne]]."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--avis-rara--1177-ac--2023   # seu exemplar
@@ -346,7 +345,7 @@ sequence:
     # obtenível. NÃO altera o veredito — a Valla continua `recommended` em
     # mérito. Preferência é exibição; veredito é juízo.
     publication_pref_by: voce
-    why_here: "É o que o Grimal é na forma antiga: um catálogo de histórias e
+    why_here: "É o que o [[obra:grimal--dictionnaire-de-la-mythologie-grecque-et-romaine|dicionário de Pierre Grimal]] é na forma antiga: um catálogo de histórias e
                variantes, para consulta durante a leitura dos poetas."
     why_here_by: claude
     perspective: "Compêndio mitográfico antigo — fonte, não interpretação."
@@ -462,7 +461,7 @@ sequence:
   - work: esquilo--hepta-epi-thebas
     role: primary-source
     demand: exigente
-    why_here: "Última peça da trilogia de Ésquilo sobre a casa de Édipo: os dois filhos dele se matam disputando Tebas. Leia buscando a maldição de família que passa de geração em geração, e compare com *As Fenícias*, de Eurípides, sobre a mesma guerra."
+    why_here: "Última peça da trilogia de Ésquilo sobre a casa de Édipo: os dois filhos dele se matam disputando Tebas. Leia buscando a maldição de família que passa de geração em geração, e compare com [[obra:euripides--phoinissai|*As Fenícias*]], de Eurípides, sobre a mesma guerra."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--iluminuras--esquilo-tragedias--2009
@@ -533,7 +532,7 @@ sequence:
   - work: sofocles--trachiniai
     role: primary-source
     demand: exigente
-    why_here: "Dejanira, para reconquistar Héracles, manda-lhe um filtro de amor que é veneno. Leia buscando como a ação feita por amor destrói, e os oráculos que só se entendem tarde demais, como em *Édipo Rei*."
+    why_here: "Dejanira, para reconquistar Héracles, manda-lhe um filtro de amor que é veneno. Leia buscando como a ação feita por amor destrói, e os oráculos que só se entendem tarde demais, como em [[obra:sofocles--oidipous-tyrannos|*Édipo Rei*]]."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--editora-34--as-traquinias--2014
@@ -541,7 +540,7 @@ sequence:
   - work: sofocles--elektra
     role: primary-source
     demand: exigente
-    why_here: "O mesmo mito das *Coéforas*, de Ésquilo, visto por Electra, que espera anos pelo irmão para vingar o pai. Leia comparando com Ésquilo e com a *Electra* de Eurípides: três modos de tratar o matricídio."
+    why_here: "O mesmo mito das [[obra:esquilo--oresteia|*Coéforas*]], de Ésquilo, visto por Electra, que espera anos pelo irmão para vingar o pai. Leia comparando com Ésquilo e com a [[obra:euripides--elektra|*Electra*]] de Eurípides: três modos de tratar o matricídio."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--atelie--electras--2018
@@ -646,7 +645,7 @@ sequence:
      why_here: "As mães dos chefes mortos diante de Tebas pedem a Atenas que recupere os corpos dos filhos. Leia buscando o debate sobre democracia e tirania no meio da peça e o direito dos mortos à sepultura, o mesmo de *Antígona*.",
      why_here_by: claude}
   - {work: euripides--elektra, role: primary-source, demand: exigente,
-     why_here: "O mesmo mito das *Coéforas*, a segunda peça da *Oresteia* de Ésquilo: Electra e Orestes matam a mãe para vingar o pai. Leia comparando com Ésquilo: aqui não há heroísmo, só uma vingança que destrói os vingadores.",
+     why_here: "O mesmo mito das *Coéforas*, a segunda peça da [[obra:esquilo--oresteia|*Oresteia*]] de Ésquilo: Electra e Orestes matam a mãe para vingar o pai. Leia comparando com Ésquilo: aqui não há heroísmo, só uma vingança que destrói os vingadores.",
      why_here_by: claude}
   - {work: euripides--herakles, optional: true, role: primary-source, demand: exigente,
      why_here: "O maior dos heróis volta dos trabalhos, salva a família e, enlouquecido pela deusa Hera, a mata. Leia buscando a pergunta sobre responsabilidade: o que resta de um homem depois de um crime que ele não quis.",
@@ -686,10 +685,10 @@ sequence:
      why_here: "Nesta versão do mito, Helena nunca esteve em Troia: os deuses mandaram para lá só uma imagem dela. Leia buscando a distância entre aparência e verdade, e uma guerra inteira travada por um fantasma.",
      why_here_by: claude}
   - {work: euripides--phoinissai, optional: true, role: primary-source, demand: exigente,
-     why_here: "A guerra entre Etéocles e Polinices, filhos de Édipo, pelo trono de Tebas. Leia comparando com *Os Sete contra Tebas*, de Ésquilo, e com as peças tebanas de Sófocles: Eurípides junta o ciclo inteiro numa só peça.",
+     why_here: "A guerra entre Etéocles e Polinices, filhos de Édipo, pelo trono de Tebas. Leia comparando com [[obra:esquilo--hepta-epi-thebas|*Os Sete contra Tebas*]], de Ésquilo, e com as peças tebanas de [[pessoa:sofocles|Sófocles]]: Eurípides junta o ciclo inteiro numa só peça.",
      why_here_by: claude}
   - {work: euripides--orestes, optional: true, role: primary-source, demand: exigente,
-     why_here: "Depois de matar a mãe, Orestes enlouquece e é julgado pela assembleia de Argos. Leia comparando com a *Oresteia*: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe.",
+     why_here: "Depois de matar a mãe, Orestes enlouquece e é julgado pela assembleia de Argos. Leia comparando com a [[obra:esquilo--oresteia|*Oresteia*]]: Ésquilo termina num tribunal que funda a justiça; Eurípides, numa violência que só um deus interrompe.",
      why_here_by: claude}
 
   - work: aristofanes--nephelai
@@ -735,7 +734,7 @@ sequence:
     optional: true              # leitura complementar — cartão d-greco-adler-introducoes (2026-10-30)
     role: supplementary
     demand: moderado
-    why_here: "Complementa Kirk, Raven e Schofield com uma abordagem
+    why_here: "Complementa [[obra:kirk-raven-schofield--the-presocratic-philosophers|G. S. Kirk, J. E. Raven e M. Schofield]] com uma abordagem
                introdutória e comentada baseada diretamente nos textos dos
                primeiros filósofos."
     why_here_by: voce
@@ -768,9 +767,7 @@ sequence:
   - work: hadot--quest-ce-que-la-philosophie-antique
     role: foundational
     demand: moderado
-    why_here: "A filosofia antiga como modo de vida, e não só como teoria. Lido
-               antes de Sócrates, muda o jeito de ler o resto: os diálogos de
-               Platão, as escolas helenísticas e os romanos aparecem como
+    why_here: "A filosofia antiga como modo de vida, e não só como teoria. Lido antes de [[pessoa:socrates|Sócrates]], muda o jeito de ler o resto: os diálogos de [[pessoa:platao|Platão]], as escolas helenísticas e os romanos aparecem como
                propostas de como viver. Leia buscando o que cada escola pedia
                de quem a seguia."
     why_here_by: claude
@@ -781,7 +778,7 @@ sequence:
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: leve
-    why_here: "É a melhor porta de entrada para a figura de Sócrates e para a
+    why_here: "É a melhor porta de entrada para a figura de [[pessoa:socrates|Sócrates]] e para a
                filosofia como modo de vida orientado pela busca da verdade."
     why_here_by: voce
     perspective: "Filosofia socrática e defesa da vida filosófica."
@@ -801,7 +798,7 @@ sequence:
   - work: platao--phaidon
     role: primary-source
     demand: moderado
-    why_here: "Marca a passagem da figura histórica de Sócrates para os
+    why_here: "Marca a passagem da figura histórica de [[pessoa:socrates|Sócrates]] para os
                problemas metafísicos centrais do pensamento platônico."
     why_here_by: voce
     perspective: "Filosofia socrática e metafísica platônica."
@@ -863,7 +860,7 @@ sequence:
     role: foundational
     core: true                  # ★ 2026-10-27, ver review/greco-roman.md
     demand: exigente
-    why_here: "É a continuação natural da Ética a Nicômaco e permite
+    why_here: "É a continuação natural da [[obra:aristoteles--ethika-nikomacheia|*Ética a Nicômaco*]] e permite
                compreender filosoficamente a estrutura política que aparece na
                história grega."
     why_here_by: voce
@@ -904,8 +901,7 @@ sequence:
     demand: moderado
     why_here: "Dá a narrativa contínua de 478 a 323 a.C. que as fontes deste
                movimento pressupõem: o império ateniense, a Guerra do
-               Peloponeso, o século IV e a Macedônia. Hansen e Finley dão a
-               profundidade; aqui está a sequência dos fatos."
+               Peloponeso, o século IV e a Macedônia. [[obra:hansen--the-athenian-democracy-in-the-age-of-demosthenes|Mogens Herman Hansen]] e [[obra:finley--the-ancient-greeks|Moses I. Finley]] dão a profundidade; aqui está a sequência dos fatos."
     why_here_by: claude
     inserted_by: claude
 
@@ -926,7 +922,7 @@ sequence:
   - work: brosius--a-history-of-ancient-persia
     role: critical-response
     demand: moderado
-    why_here: "O outro lado de Heródoto: o império persa reconstituído pelas
+    why_here: "O outro lado de [[obra:herodoto--historiai|Heródoto]]: o império persa reconstituído pelas
                suas próprias fontes e pela arqueologia, e as fontes gregas
                lidas como fontes, não como descrição."
     why_here_by: claude
@@ -952,7 +948,7 @@ sequence:
   - work: xenofonte--hellenika
     role: primary-source
     demand: exigente
-    why_here: "Continua a narrativa interrompida por Tucídides e conduz a
+    why_here: "Continua a narrativa interrompida por [[obra:tucidides--historiai|Tucídides]] e conduz a
                leitura para as profundas transformações políticas que antecedem
                a ascensão da Macedônia."
     why_here_by: voce
@@ -1004,7 +1000,7 @@ sequence:
   # como a memória política da Antiguidade foi construída."
   # -------------------------------------------------------------------------
   - {work: plutarco--solon, role: primary-source, demand: moderado,
-     why_here: "Vida do legislador que, no começo do século VI a.C., acabou com a escravidão por dívidas e reformou as leis de Atenas. Leia buscando a formação da democracia ateniense: o que Sólon resolveu e o que deixou em aberto.", why_here_by: claude, why_here_previous: "formação da democracia",
+     why_here: "Vida do legislador que, no começo do século VI a.C., acabou com a escravidão por dívidas e reformou as leis de Atenas. Leia buscando a formação da democracia ateniense: o que [[pessoa:solon|Sólon]] resolveu e o que deixou em aberto.", why_here_by: claude, why_here_previous: "formação da democracia",
      publication_pref: pub--coimbra--vidas-paralelas-solon-e-publicola--2012}   # escolhida em 2026-10-10 (Etapa 1): série de Coimbra, como as outras Vidas; pesquisa na obra
   - {work: plutarco--themistokles, role: primary-source, demand: moderado,
      why_here: "Vida do general que convenceu Atenas a construir uma frota e venceu os persas em Salamina, em 480 a.C. Leia buscando as Guerras Médicas e como o poder no mar mudou Atenas.", why_here_by: claude, why_here_previous: "Guerras Médicas",
@@ -1020,7 +1016,7 @@ sequence:
   # PARTICIPAÇÃO NOVA — cartão d-greco-cicero, opção A (2026-10-31): já estava no
   # mesmo volume da Vida de Demóstenes; entra logo depois dela, como Plutarco as pareou.
   - {work: plutarco--kikeron, role: primary-source, demand: moderado,
-     why_here: "Vida de Cícero, par da de Demóstenes nas *Vidas Paralelas*. Leia buscando o orador diante de uma república que se desfaz pela força, e compare com Demóstenes diante de Filipe.", why_here_by: claude, inserted_by: claude,
+     why_here: "Vida de [[pessoa:cicero|Cícero]], par da [[obra:plutarco--demosthenes|de Demóstenes]] nas [[termo:vidas-paralelas|*Vidas Paralelas*]]. Leia buscando o orador diante de uma república que se desfaz pela força, e compare com Demóstenes diante de Filipe.", why_here_by: claude, inserted_by: claude,
      publication_pref: pub--coimbra--vidas-demostenes-e-cicero}
   - {work: plutarco--alexandros, role: primary-source, demand: moderado,
      why_here: "Vida do rei macedônio que conquistou o império persa. Leia buscando a passagem do mundo das cidades gregas para o mundo helenístico.", why_here_by: claude, why_here_previous: "conquista e expansão helenística"}
@@ -1056,8 +1052,7 @@ sequence:
     demand: moderado
     why_here: "Cobre o que vem depois de Alexandre: os reinos sucessores, a
                conquista romana, as cidades, a religião e a cultura, até
-               Adriano. É o mundo em que Epicuro e as escolas helenísticas
-               respondem."
+               Adriano. É o mundo em que [[pessoa:epicuro|Epicuro]] e as [[termo:escolas-helenisticas|escolas helenísticas]] respondem."
     why_here_by: claude
     inserted_by: claude
 
@@ -1123,7 +1118,7 @@ sequence:
     demand: exigente
     why_here: "Como Roma chegou a dominar o Mediterrâneo, contado por um grego
                que viveu entre os romanos. Leia buscando a explicação de
-               Políbio para o sucesso de Roma, e compare com a de Mary Beard."
+               Políbio para o sucesso de Roma, e compare com a de [[obra:beard--spqr|Mary Beard, em *SPQR*]]."
     why_here_by: claude
     inserted_by: claude
     scope: "Só os livros I a V, os da edição: da Primeira Guerra Púnica a Canas."
@@ -1230,8 +1225,7 @@ sequence:
     why_here: "O epicurismo exposto por inteiro, em poema: átomos e vazio, a
                alma mortal, e por que não temer a morte nem os deuses. Sem ele,
                a filosofia romana da coleção seria só estoica. Leia buscando a
-               resposta ao medo, e depois veja Cícero e Sêneca discutindo com
-               ela."
+               resposta ao medo, e depois veja [[pessoa:cicero|Cícero]] e [[pessoa:seneca|Sêneca]] discutindo com ela."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--autentica--sobre-a-natureza-das-coisas--2021
@@ -1318,8 +1312,7 @@ sequence:
     role: foundational
     demand: moderado
     why_here: "Sociedade, economia, cidade e campo, cultura e vida privada de
-               395 a 700, e o debate entre declínio e continuidade que separa
-               Brown de Mitchell."
+               395 a 700, e o debate entre declínio e continuidade que separa [[obra:brown-peter--the-world-of-late-antiquity|Peter Brown]] de [[obra:mitchell--a-history-of-the-later-roman-empire|Stephen Mitchell]]."
     why_here_by: claude
     inserted_by: claude
 

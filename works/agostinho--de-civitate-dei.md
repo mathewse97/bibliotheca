@@ -42,7 +42,7 @@ Obra de Santo Agostinho, escrita em latim entre 413 e 426, em resposta aos pagã
 ## Como ler
 
 - **A pergunta:** se Roma foi saqueada mesmo cristã, o que vale a cidade dos homens, e onde está a verdadeira justiça?
-- **Onde está o centro:** os livros I a V (a resposta a quem culpou o cristianismo pelo saque de Roma em 410, e a crítica da glória romana); o livro XIV (as duas cidades, fundadas por dois amores: o amor de si até o desprezo de Deus e o amor de Deus até o desprezo de si); e o livro XIX (a paz, e a definição de povo e de república, contra a de Cícero).
+- **Onde está o centro:** os livros I a V (a resposta a quem culpou o cristianismo pelo saque de Roma em 410, e a crítica da glória romana); o livro XIV (as duas cidades, fundadas por dois amores: o amor de si até o desprezo de Deus e o amor de Deus até o desprezo de si); e o livro XIX (a paz, e a definição de povo e de república, contra a de [[obra:cicero--de-re-publica|Cícero, em *Da República*|Cícero definia o povo pelo acordo sobre o direito e o interesse comum; Agostinho responde que sem justiça verdadeira não há povo nem república, e propõe defini-lo pelo que ele ama.]]).
 - **Postura:** A obra é enorme e cheia de digressões: leia por partes, não de ponta a ponta. Agostinho escreve como teólogo, parte da fé, e julga a política a partir dela.
 
 ## Fatos

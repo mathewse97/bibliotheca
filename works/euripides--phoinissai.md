@@ -48,7 +48,7 @@ Tragédia de Eurípides, do fim do século V a.C., sobre a guerra entre Etéocle
 
 - **A pergunta:** como uma família inteira se destrói, e com ela uma cidade?
 - **Onde está o centro:** a tentativa de Jocasta, que nesta versão ainda vive, de reconciliar os filhos Etéocles e Polinices; a batalha e a morte dos dois; e o exílio de Édipo no final.
-- **Postura:** A peça reúne todo o ciclo de Tebas num painel amplo. Compare com *Os Sete contra Tebas*, de Ésquilo, e com as peças tebanas de Sófocles. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** A peça reúne todo o ciclo de Tebas num painel amplo. Compare com [[obra:esquilo--hepta-epi-thebas|*Os Sete contra Tebas*]], de Ésquilo, e com as peças tebanas de [[pessoa:sofocles|Sófocles]]. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

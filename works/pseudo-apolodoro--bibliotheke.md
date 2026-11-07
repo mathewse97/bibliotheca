@@ -79,7 +79,7 @@ Manual de mitologia grega em três livros, em grego antigo, transmitido com uma 
 
 - **A pergunta:** qual é a versão antiga deste mito, e quais são as variantes?
 - **Onde está o centro:** os três livros, que vão da origem dos deuses às grandes famílias heroicas, e a *Epítome*, que conserva o fim perdido, com a guerra de Troia e os retornos.
-- **Postura:** É um compêndio de mitos, não literatura: use como consulta ao ler os poetas e os trágicos, ao lado do dicionário de Pierre Grimal.
+- **Postura:** É um compêndio de mitos, não literatura: use como consulta ao ler os poetas e os trágicos, ao lado do [[obra:grimal--dictionnaire-de-la-mythologie-grecque-et-romaine|dicionário de Pierre Grimal]].
 
 ## Fatos
 

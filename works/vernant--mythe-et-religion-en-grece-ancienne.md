@@ -44,7 +44,7 @@ Estudo breve de Jean-Pierre Vernant sobre a religião grega antiga. Mostra como 
 
 - **A pergunta:** como era uma religião sem dogma, sem livro sagrado e sem igreja?
 - **Onde está o centro:** o livro inteiro, curto: mitos, rituais e culto cívico como um sistema integrado à vida da cidade.
-- **Postura:** Lê-se de uma vez, como síntese. Leia depois das introduções históricas à religião grega e antes de Paul Veyne, que leva a pergunta sobre a crença adiante.
+- **Postura:** Lê-se de uma vez, como síntese. Leia depois das introduções históricas à religião grega e antes de [[obra:veyne--les-grecs-ont-ils-cru-a-leurs-mythes|Paul Veyne]], que leva a pergunta sobre a crença adiante.
 
 ## Fatos
 

@@ -48,7 +48,7 @@ Tragédia de Eurípides, encenada em 408 a.C. Dias depois de matar a mãe, Orest
 
 - **A pergunta:** o que acontece quando a vingança de Orestes, em vez de fundar a justiça, só gera mais violência?
 - **Onde está o centro:** a condenação de Orestes e Electra pela assembleia de Argos, o abandono por Menelau, o ataque a Helena e o rapto de Hermíone, e a intervenção de Apolo no final.
-- **Postura:** É uma das peças mais sombrias e desconcertantes de Eurípides. Compare com as *Eumênides*, a última parte da *Oresteia* de Ésquilo, que termina num tribunal. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** É uma das peças mais sombrias e desconcertantes de Eurípides. Compare com as *Eumênides*, a última parte da [[obra:esquilo--oresteia|*Oresteia*]] de Ésquilo, que termina num tribunal. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

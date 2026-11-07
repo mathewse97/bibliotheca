@@ -43,7 +43,7 @@ Ensaio de George Orwell publicado em 1946, em inglês. Argumenta que a decadênc
 
 - **A pergunta:** por que a linguagem política é tão vaga, e o que isso tem a ver com a política?
 - **Onde está o centro:** a análise dos cinco trechos de prosa ruim do começo; a tese de que a linguagem obscura serve para defender o indefensável; e as seis regras práticas do final.
-- **Postura:** É um ensaio curto: leia inteiro e depois aplique as regras ao que você escreve. Leia junto de *1984*, de George Orwell, que leva a mesma ideia ao extremo com a novilíngua.
+- **Postura:** É um ensaio curto: leia inteiro e depois aplique as regras ao que você escreve. Leia junto de [[obra:orwell--nineteen-eighty-four|*1984*]], de George Orwell, que leva a mesma ideia ao extremo com a novilíngua.
 
 ## Fatos
 

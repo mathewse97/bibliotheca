@@ -48,7 +48,7 @@ Tragédia de Eurípides em que as mães dos chefes mortos no ataque a Tebas pede
 
 - **A pergunta:** os mortos têm direito à sepultura, e que cidade deve garanti-lo?
 - **Onde está o centro:** o pedido das mães dos chefes mortos diante de Tebas, a decisão de Teseu de ajudá-las, e o debate entre Teseu e um arauto tebano sobre democracia e tirania.
-- **Postura:** O debate político é o trecho mais famoso: leia-o com atenção. Compare com *Antígona*, de Sófocles, sobre o mesmo direito dos mortos. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** O debate político é o trecho mais famoso: leia-o com atenção. Compare com [[obra:sofocles--antigone|*Antígona*]], de Sófocles, sobre o mesmo direito dos mortos. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

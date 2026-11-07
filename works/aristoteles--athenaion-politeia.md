@@ -44,8 +44,8 @@ Tratado atribuído a Aristóteles ou à sua escola, conhecido quase só por um p
 ## Como ler
 
 - **A pergunta:** como a democracia de Atenas se formou, e como ela funcionava na prática?
-- **Onde está o centro:** a primeira parte, a história das mudanças de constituição, com Sólon, Pisístrato e Clístenes; e a segunda, a descrição das instituições no tempo do autor: a assembleia, o conselho, os magistrados e os tribunais.
-- **Postura:** É um texto técnico e seco, que se lê bem por partes. Use a segunda parte como consulta ao ler Tucídides ou as *Vidas* de Plutarco. A autoria de Aristóteles é discutida; pode ser obra da sua escola.
+- **Onde está o centro:** a primeira parte, a história das mudanças de constituição, com [[pessoa:solon|Sólon]], Pisístrato e Clístenes; e a segunda, a descrição das instituições no tempo do autor: a assembleia, o conselho, os magistrados e os tribunais.
+- **Postura:** É um texto técnico e seco, que se lê bem por partes. Use a segunda parte como consulta ao ler [[obra:tucidides--historiai|Tucídides]] ou as [[termo:vidas-paralelas|*Vidas*]] de [[pessoa:plutarco|Plutarco]]. A autoria de Aristóteles é discutida; pode ser obra da sua escola.
 
 ## Fatos
 

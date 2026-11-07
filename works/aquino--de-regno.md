@@ -42,7 +42,7 @@ Tratado político de Tomás de Aquino, escrito em latim por volta de 1267 e dedi
 ## Como ler
 
 - **A pergunta:** qual é a melhor forma de governo, e o que fazer quando o governante se torna tirano?
-- **Onde está o centro:** o livro I, que é seguramente de Tomás de Aquino: a monarquia voltada ao bem comum como melhor forma de governo, a tirania e os modos de resistir a ela, e os deveres do rei. O restante foi completado por outro autor, Ptolomeu de Lucca.
+- **Onde está o centro:** o livro I, que é seguramente de Tomás de Aquino: a monarquia voltada ao bem comum como melhor forma de governo, a tirania e os modos de resistir a ela, e os deveres do rei. O restante foi completado por outro autor, [[pessoa:ptolomeu-de-lucca|Ptolomeu de Lucca]].
 - **Postura:** É curto e argumentado com clareza: leia o livro I inteiro. Repare que Aquino pensa o governo a partir do fim da vida humana, que não é só terreno. A lei natural, que ele trata a fundo em outra obra, aparece aqui pouco.
 
 ## Fatos

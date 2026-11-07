@@ -46,13 +46,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Biografia de Alexandre, o Grande, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Júlio César. Mais interessado no caráter do que na narrativa militar, Plutarco acompanha a formação, as conquistas e a expansão do mundo macedônio até a morte de Alexandre.
+Biografia de Alexandre, o Grande, escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com [[obra:plutarco--kaisar|a de Júlio César]]. Mais interessado no caráter do que na narrativa militar, Plutarco acompanha a formação, as conquistas e a expansão do mundo macedônio até a morte de Alexandre.
 
 ## Como ler
 
 - **A pergunta:** o que faz um conquistador grande, e o que o perde?
-- **Onde está o centro:** a abertura, em que Plutarco avisa que escreve vidas e não histórias, e que um gesto pequeno revela mais do que uma batalha; a educação com Aristóteles; e a mudança de Alexandre depois da conquista da Pérsia.
-- **Postura:** Leia junto com a *Vida de César*, o seu par nas *Vidas Paralelas*, e compare os dois como Plutarco quer.
+- **Onde está o centro:** a abertura, em que Plutarco avisa que escreve vidas e não histórias, e que um gesto pequeno revela mais do que uma batalha; a educação com [[pessoa:aristoteles|Aristóteles]]; e a mudança de Alexandre depois da conquista da Pérsia.
+- **Postura:** Leia junto com a [[obra:plutarco--kaisar|*Vida de César*]], o seu par nas *Vidas Paralelas*, e compare os dois como Plutarco quer.
 
 ## Fatos
 

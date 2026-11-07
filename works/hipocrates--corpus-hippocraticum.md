@@ -40,4 +40,4 @@ Os tratados do *Corpus hipocrático*, escritos por vários médicos gregos dos s
 
 - **A pergunta:** o que muda quando a doença deixa de ser castigo dos deuses e passa a ter causas que se podem observar?
 - **Onde está o centro:** *Da doença sagrada*, o texto em que a passagem do mito à explicação racional fica mais clara.
-- **Postura:** leia depois dos pré-socráticos: os médicos usam as mesmas ideias de natureza e de causa que os filósofos.
+- **Postura:** leia depois dos [[termo:pre-socraticos|pré-socráticos]]: os médicos usam as mesmas ideias de natureza e de causa que os filósofos.

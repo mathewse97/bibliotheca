@@ -57,12 +57,12 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Obra de Platão, em grego antigo, que apresenta a defesa de Sócrates no julgamento de 399 a.C., em que foi acusado de impiedade e de corromper os jovens e condenado à morte. Sócrates explica sua missão de examinar a si mesmo e aos outros e afirma que uma vida sem exame não vale a pena ser vivida. É uma das principais fontes sobre a figura de Sócrates.
+Obra de Platão, em grego antigo, que apresenta a defesa de [[pessoa:socrates|Sócrates]] no julgamento de 399 a.C., em que foi acusado de impiedade e de corromper os jovens e condenado à morte. Sócrates explica sua missão de examinar a si mesmo e aos outros e afirma que uma vida sem exame não vale a pena ser vivida. É uma das principais fontes sobre a figura de Sócrates.
 
 ## Como ler
 
 - **A pergunta:** o que vale mais: a própria vida, ou a busca da verdade e a fidelidade a si mesmo?
-- **Onde está o centro:** a resposta às acusações antigas, a imagem de Sócrates criada pelas *Nuvens* de Aristófanes; a história do oráculo de Delfos, que disse que ninguém era mais sábio que Sócrates; a imagem de Sócrates como o moscardo que desperta a cidade; e as palavras finais sobre a morte.
+- **Onde está o centro:** a resposta às acusações antigas, a imagem de Sócrates criada pelas [[obra:aristofanes--nephelai|*Nuvens*]] de Aristófanes; a história do oráculo de Delfos, que disse que ninguém era mais sábio que Sócrates; a imagem de Sócrates como o moscardo que desperta a cidade; e as palavras finais sobre a morte.
 - **Postura:** É curta e se lê de uma vez. Não é a transcrição do julgamento, mas a versão de Platão, discípulo de Sócrates. Leia como o retrato de um modo de viver: uma vida sem exame não vale a pena ser vivida.
 
 ## Fatos

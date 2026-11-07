@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-A peça mais antiga de Eurípides que sobreviveu, encenada em 438 a.C. no lugar do drama satírico. O rei Admeto pode escapar da morte se alguém morrer no lugar dele. Só a esposa, Alceste, aceita. Héracles, hóspede da casa, luta com a Morte e a traz de volta.
+A peça mais antiga de Eurípides que sobreviveu, encenada em 438 a.C. no lugar do [[termo:drama-satirico|drama satírico]]. O rei Admeto pode escapar da morte se alguém morrer no lugar dele. Só a esposa, Alceste, aceita. Héracles, hóspede da casa, luta com a Morte e a traz de volta.
 
 ## Como ler
 

@@ -49,7 +49,7 @@ Obra de filosofia política de John Rawls, publicada em 1971 e revista pelo auto
 
 - **A pergunta:** que princípios de justiça pessoas livres e iguais escolheriam se não soubessem o lugar que ocupariam na sociedade?
 - **Onde está o centro:** a parte I, sobretudo os capítulos 1 a 3: a posição original e o véu de ignorância, e os dois princípios (liberdades básicas iguais para todos; desigualdades só quando beneficiam os menos favorecidos). As partes II e III aplicam e defendem a teoria.
-- **Postura:** É longo e argumentado passo a passo: leia a parte I com atenção e consulte o resto. Rawls escreve contra o utilitarismo e se apoia em Immanuel Kant. A resposta mais conhecida é *Anarquia, Estado e Utopia*, de Robert Nozick.
+- **Postura:** É longo e argumentado passo a passo: leia a parte I com atenção e consulte o resto. Rawls escreve contra o [[termo:utilitarismo|utilitarismo]] e se apoia em [[obra:kant--grundlegung-zur-metaphysik-der-sitten|Immanuel Kant]]. A resposta mais conhecida é *Anarquia, Estado e Utopia*, de [[pessoa:nozick|Robert Nozick]].
 
 ## Fatos
 

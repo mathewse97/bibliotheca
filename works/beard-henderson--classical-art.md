@@ -40,4 +40,4 @@ Volume da série Oxford History of Art, de Mary Beard e John Henderson, de 2001.
 
 - **A pergunta:** o que as imagens e os edifícios dizem sobre quem os fez e quem os olhava?
 - **Onde está o centro:** os capítulos sobre o corpo e a escultura, e o que discute como a arte grega foi copiada e reinterpretada em Roma.
-- **Postura:** é um livro de interpretação, não um catálogo; leia com as imagens à frente. Conversa com *SPQR*, da mesma autora.
+- **Postura:** é um livro de interpretação, não um catálogo; leia com as imagens à frente. Conversa com [[obra:beard--spqr|*SPQR*]], da mesma autora.

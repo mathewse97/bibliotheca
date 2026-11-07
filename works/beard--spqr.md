@@ -43,8 +43,8 @@ História de Roma antiga escrita por Mary Beard, publicada em inglês em 2015. P
 ## Como ler
 
 - **A pergunta:** como uma pequena cidade da Itália se tornou um império, e como os próprios romanos contavam essa história?
-- **Onde está o centro:** a abertura, que começa em 63 a.C. com o conflito entre Cícero e Catilina; os capítulos sobre as origens lendárias e o que se sabe de fato delas; a república e as suas crises; e os capítulos finais sobre como era viver no Império.
-- **Postura:** É história bem escrita, para leitor culto: lê-se de ponta a ponta. Repare como Mary Beard separa o que os romanos diziam de si do que as evidências mostram. Termina em 212 d.C., antes da Antiguidade tardia.
+- **Onde está o centro:** a abertura, que começa em 63 a.C. com o conflito entre [[pessoa:cicero|Cícero]] e Catilina; os capítulos sobre as origens lendárias e o que se sabe de fato delas; a república e as suas crises; e os capítulos finais sobre como era viver no Império.
+- **Postura:** É história bem escrita, para leitor culto: lê-se de ponta a ponta. Repare como Mary Beard separa o que os romanos diziam de si do que as evidências mostram. Termina em 212 d.C., antes da [[termo:antiguidade-tardia|Antiguidade tardia]].
 
 ## Fatos
 

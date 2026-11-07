@@ -1,3 +1,5 @@
 # Sobrenomes que são também palavras comuns ou se repetem entre autores:
 # o aviso de marcação procura o nome completo, e não só o sobrenome.
 surnames_ambiguous: [Jaeger, Guerra, Costa, Dias, França, Thomas, Martin, Brown, Smith, Vargas, Oliveira, Silva, Santos, Nunes, Werner, James, Joseph, Lobo, Bauer, Wise, Craver, Henderson, Raven, Gill, Hue]
+# Títulos de obra que são também nome de pessoa: o aviso não os procura.
+titles_ambiguous: [shakespeare--julius-caesar, martin-blackwell--alexander-the-great, sofocles--antigone, euripides--medeia, euripides--electra]

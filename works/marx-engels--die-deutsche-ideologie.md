@@ -56,7 +56,7 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Obra de Karl Marx e Friedrich Engels escrita em 1845–1846, que ficou inédita em vida dos autores e só foi publicada em 1932. É o texto em que a concepção materialista da história aparece de forma mais direta: as ideias de uma época não flutuam acima da vida material, são produzidas por ela. Também polemiza com Feuerbach e os jovens hegelianos.
+Obra de Karl Marx e Friedrich Engels escrita em 1845–1846, que ficou inédita em vida dos autores e só foi publicada em 1932. É o texto em que a concepção materialista da história aparece de forma mais direta: as ideias de uma época não flutuam acima da vida material, são produzidas por ela. Também polemiza com [[pessoa:feuerbach|Ludwig Feuerbach]] e os jovens hegelianos.
 
 ## Como ler
 

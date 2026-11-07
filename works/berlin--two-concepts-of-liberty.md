@@ -54,7 +54,7 @@ Conferência de Isaiah Berlin pronunciada em Oxford em 1958 e depois publicada c
 
 - **A pergunta:** o que significa ser livre: não sofrer interferência, ou ser senhor de si mesmo?
 - **Onde está o centro:** a distinção entre liberdade negativa (o espaço em que ninguém me impede) e liberdade positiva (o governo de si); o argumento de que a liberdade positiva, levada ao extremo, serviu para justificar a coerção "para o bem" das pessoas; e o final, sobre o pluralismo de valores.
-- **Postura:** É curto e se lê inteiro, devagar. Berlin não diz que a liberdade positiva é falsa, só que é mais fácil de perverter. Rende mais depois de *Sobre a Liberdade*, de John Stuart Mill, e do *Contrato Social*, de Jean-Jacques Rousseau, que ele discute.
+- **Postura:** É curto e se lê inteiro, devagar. Berlin não diz que a liberdade positiva é falsa, só que é mais fácil de perverter. Rende mais depois de [[obra:mill--on-liberty|*Sobre a Liberdade*]], de John Stuart Mill, e do [[obra:rousseau--du-contrat-social|*Contrato Social*]], de Jean-Jacques Rousseau, que ele discute.
 
 ## Fatos
 

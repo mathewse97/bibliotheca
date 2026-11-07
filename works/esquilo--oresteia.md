@@ -34,7 +34,7 @@ obsidian_notes: []
 relations:
   - type: literary_treatment_of
     target: hobbes--leviathan
-    note: "A trilogia termina instituindo um tribunal: a vingança privada é substituída por uma instituição que julga. É o problema de Hobbes, encenado dois mil anos antes dele. Esta ligação SUBSTITUI a sugestão anterior de ligá-la a Montesquieu, cujo argumento é a divisão de poderes, e não a saída da violência privada."
+    note: "A trilogia termina instituindo um tribunal: a vingança privada é substituída por uma instituição que julga. É o problema de Hobbes, encenado dois mil anos antes dele."
     by: claude
     proposed: 2026-09-28
     approved_by: voce

@@ -54,7 +54,7 @@ Tragédia romana de William Shakespeare, publicada postumamente no Primeiro Fól
 
 - **A pergunta:** pode governar quem despreza o povo, e o povo pode governar sem ele?
 - **Onde está o centro:** a cena de abertura (a revolta da fome e a fábula do corpo, contada por Menênio); o ato II, quando Coriolano precisa pedir os votos do povo para ser cônsul e não consegue; e os atos IV e V, o exílio e a volta contra Roma.
-- **Postura:** É uma peça dura, sem herói simpático. Leia atento aos tribunos, representantes do povo, e à mãe, Volúmnia, que formou o filho e no fim o desarma. Shakespeare tirou a história da *Vida de Coriolano*, de Plutarco.
+- **Postura:** É uma peça dura, sem herói simpático. Leia atento aos tribunos, representantes do povo, e à mãe, Volúmnia, que formou o filho e no fim o desarma. Shakespeare tirou a história da *Vida de Coriolano*, de [[pessoa:plutarco|Plutarco|Escreveu vidas paralelas de gregos e romanos famosos, aos pares; a de Coriolano faz par com a de Alcibíades. Shakespeare as leu na tradução inglesa de Thomas North e tirou delas também *Júlio César*.]].
 
 ## Fatos
 

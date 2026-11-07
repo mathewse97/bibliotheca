@@ -39,13 +39,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Biografia do orador ateniense Demóstenes, escrita em grego por Plutarco nas *Vidas Paralelas*, onde forma par com a de Cícero. Trata da carreira de Demóstenes e de sua oposição à Macedônia de Filipe II no século IV a.C.
+Biografia do orador ateniense [[pessoa:demostenes|Demóstenes]], escrita em grego por Plutarco nas [[termo:vidas-paralelas|*Vidas Paralelas*]], onde forma par com [[obra:plutarco--kikeron|a de Cícero]]. Trata da carreira de Demóstenes e de sua oposição à Macedônia de Filipe II no século IV a.C.
 
 ## Como ler
 
 - **A pergunta:** o que pode a palavra contra a força?
 - **Onde está o centro:** a formação do orador, que venceu dificuldades de fala, os discursos contra Filipe da Macedônia e a morte, quando a causa já estava perdida.
-- **Postura:** É uma biografia curta, escrita para ser comparada com a de Cícero, outro orador que enfrentou um homem forte e morreu por isso. Plutarco busca o caráter, não a história completa.
+- **Postura:** É uma biografia curta, escrita para ser comparada com [[obra:plutarco--kikeron|a de Cícero]], outro orador que enfrentou um homem forte e morreu por isso. Plutarco busca o caráter, não a história completa.
 
 ## Fatos
 

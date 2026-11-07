@@ -57,7 +57,7 @@ Romance distópico de Aldous Huxley, publicado em 1932. Imagina uma sociedade mu
 
 - **A pergunta:** e se a dominação não precisasse de violência, porque as pessoas aprenderam a amar a própria servidão?
 - **Onde está o centro:** os primeiros capítulos mostram a fabricação de pessoas e o condicionamento; a chegada de John, o Selvagem, criado fora do sistema, abre o confronto; e a conversa dele com o Administrador Mustafá Mond, nos capítulos 16 e 17, é o coração filosófico do livro.
-- **Postura:** É um romance de ideias, e se lê de uma vez. Compare com *1984*, de George Orwell: lá o controle é pelo medo, aqui pelo prazer e pelo consumo.
+- **Postura:** É um romance de ideias, e se lê de uma vez. Compare com [[obra:orwell--nineteen-eighty-four|*1984*]], de George Orwell: lá o controle é pelo medo, aqui pelo prazer e pelo consumo.
 
 ## Fatos
 

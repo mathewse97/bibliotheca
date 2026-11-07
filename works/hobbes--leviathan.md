@@ -37,13 +37,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Tratado de filosofia política de Thomas Hobbes, publicado em inglês em 1651. Parte de uma descrição do estado de natureza como guerra de todos contra todos e deduz a necessidade de um contrato pelo qual os homens transferem seu poder a um soberano capaz de garantir a paz. É uma das obras fundadoras da teoria política moderna.
+Tratado de filosofia política de Thomas Hobbes, publicado em inglês em 1651. Parte de uma descrição do [[termo:estado-de-natureza|estado de natureza]] como guerra de todos contra todos e deduz a necessidade de um contrato pelo qual os homens transferem seu poder a um soberano capaz de garantir a paz. É uma das obras fundadoras da teoria política moderna.
 
 ## Como ler
 
 - **A pergunta:** por que pessoas livres e iguais devem obedecer a um soberano, e até onde vai essa obrigação?
 - **Onde está o centro:** as partes I e II. O capítulo 13 descreve o estado de natureza, onde a vida é "solitária, pobre, sórdida, brutal e curta"; os 14 e 15, o contrato; os 17 e 18, a criação do Estado e os poderes do soberano; o 21, onde a obediência acaba. As partes III e IV, sobre religião e Igreja, podem ficar para depois.
-- **Postura:** é um argumento em cadeia: parte de definições sobre a natureza humana e tira delas a necessidade do Estado. Confira se cada passo segue do anterior, e note em qual premissa você discorda. Depois, leia o *Segundo Tratado sobre o Governo* de John Locke, que aceita o contrato e recusa a conclusão.
+- **Postura:** é um argumento em cadeia: parte de definições sobre a natureza humana e tira delas a necessidade do Estado. Confira se cada passo segue do anterior, e note em qual premissa você discorda. Depois, leia o [[obra:locke--second-treatise|*Segundo Tratado sobre o Governo*]] de John Locke, que aceita o contrato e recusa a conclusão.
 
 ## Fatos
 

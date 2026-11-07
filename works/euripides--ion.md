@@ -43,7 +43,7 @@ Tragédia de Eurípides, escrita no fim do século V a.C. Creúsa, princesa de A
 
 - **A pergunta:** quem somos, se não sabemos de onde viemos, e o que dizer de um deus que engana os homens?
 - **Onde está o centro:** a chegada de Creúsa a Delfos, os equívocos sobre quem é o pai de Íon, a tentativa de envenenamento e o reconhecimento final entre mãe e filho.
-- **Postura:** É peça de intriga e de reconhecimento, com final feliz. Repare na crítica a Apolo, que gerou o filho e o abandonou, e no mito de origem dos atenienses que a peça recria. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** É peça de intriga e de reconhecimento, com final feliz. Repare na crítica a Apolo, que gerou o filho e o abandonou, e no mito de origem dos atenienses que a peça recria. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

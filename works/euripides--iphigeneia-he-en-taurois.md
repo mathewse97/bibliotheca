@@ -43,7 +43,7 @@ Tragédia de Eurípides, do fim do século V a.C. Ifigênia, salva por Ártemis 
 
 - **A pergunta:** irmãos separados podem se reencontrar e escapar de um destino cruel?
 - **Onde está o centro:** a situação de Ifigênia, sacerdotisa numa terra onde se sacrificam estrangeiros; a chegada de Orestes e Pílades; a cena de reconhecimento; e a fuga com a estátua de Ártemis.
-- **Postura:** É uma peça de aventura e de final feliz, muito diferente da tragédia de catástrofe. Aristóteles, na *Poética*, elogia a cena de reconhecimento desta peça. rende mais depois de *Medeia*, *Hipólito*, *As Troianas* e *As Bacantes*, as peças centrais de Eurípides. Leia de uma vez, como teatro.
+- **Postura:** É uma peça de aventura e de final feliz, muito diferente da tragédia de catástrofe. Aristóteles, na [[obra:aristoteles--poietike|*Poética*]], elogia a cena de reconhecimento desta peça. Rende mais depois de [[obra:euripides--medeia|*Medeia*]], [[obra:euripides--hippolytos|*Hipólito*]], [[obra:euripides--troades|*As Troianas*]] e [[obra:euripides--bakchai|*As Bacantes*]], as peças centrais de Eurípides. Leia de uma vez, como teatro.
 
 ## Fatos
 

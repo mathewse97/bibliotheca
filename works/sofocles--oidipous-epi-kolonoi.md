@@ -51,7 +51,7 @@ Tragédia grega de Sófocles, a última que escreveu, encenada postumamente em 4
 
 - **A pergunta:** o que resta de um homem que cometeu crimes terríveis sem saber, e que lugar ele tem entre os vivos e os deuses?
 - **Onde está o centro:** a chegada de Édipo ao bosque sagrado de Colono e o acolhimento por Teseu, rei de Atenas; as disputas com Creonte e com o filho Polinices, a quem ele amaldiçoa; e o relato misterioso da morte de Édipo.
-- **Postura:** É uma peça lenta e solene, mais de reflexão que de ação. Leia depois de *Édipo Rei* e antes de *Antígona*, que continua a história, embora Sófocles as tenha escrito em outra ordem. Colono era a terra natal de Sófocles.
+- **Postura:** É uma peça lenta e solene, mais de reflexão que de ação. Leia depois de [[obra:sofocles--oidipous-tyrannos|*Édipo Rei*]] e antes de [[obra:sofocles--antigone|*Antígona*]], que continua a história, embora Sófocles as tenha escrito em outra ordem. Colono era a terra natal de Sófocles.
 
 ## Fatos
 

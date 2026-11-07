@@ -42,12 +42,12 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Tragédia de Eurípides sobre a vingança dos filhos de Agamêmnon. Electra, casada com um pobre camponês, reencontra o irmão Orestes e com ele mata Egisto e a mãe, Clitemnestra. Eurípides retoma o mito tratado por Ésquilo e Sófocles com tom mais cotidiano e questionador quanto à justiça do matricídio.
+Tragédia de Eurípides sobre a vingança dos filhos de Agamêmnon. Electra, casada com um pobre camponês, reencontra o irmão Orestes e com ele mata Egisto e a mãe, Clitemnestra. Eurípides retoma o mito tratado por [[obra:esquilo--oresteia|Ésquilo]] e [[obra:sofocles--elektra|Sófocles]] com tom mais cotidiano e questionador quanto à justiça do matricídio.
 
 ## Como ler
 
 - **A pergunta:** existe vingança justa, ou ela destrói também quem a executa?
-- **Onde está o centro:** a abertura, com Electra casada com um camponês e vivendo na pobreza; a cena em que ela reconhece o irmão Orestes, que zomba da cena equivalente de Ésquilo; o assassinato da mãe, Clitemnestra; e o remorso dos dois no final.
+- **Onde está o centro:** a abertura, com Electra casada com um camponês e vivendo na pobreza; a cena em que ela reconhece o irmão Orestes, que zomba da cena equivalente de [[obra:esquilo--oresteia|Ésquilo]]; o assassinato da mãe, Clitemnestra; e o remorso dos dois no final.
 - **Postura:** Rende mais depois da *Oresteia*: Eurípides reconta o mesmo mito tirando dele o heroísmo. Repare como os personagens parecem gente comum, e não figuras de lenda.
 
 ## Fatos

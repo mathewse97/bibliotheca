@@ -114,9 +114,7 @@ sequence:
   - work: sofocles--antigone
     role: literary-treatment
     demand: leve
-    why_here: "A lei da cidade contra a lei não escrita, encenada: é o caso que
-               a tradição do direito natural cita há dois mil anos, e que
-               Aquino e Hobbes discutem cada um à sua maneira."
+    why_here: "A lei da cidade contra a lei não escrita, encenada: é o caso que a tradição do [[termo:lei-natural|direito natural]] cita há dois mil anos, e que [[pessoa:aquino|Tomás de Aquino]] e [[pessoa:hobbes|Thomas Hobbes]] discutem cada um à sua maneira."
     why_here_by: claude
     placement_status: a-confirmar
     inserted_by: claude
@@ -126,8 +124,7 @@ sequence:
     role: literary-treatment
     demand: exigente
     why_here: "Termina com a fundação de um tribunal: é o relato literário da
-               passagem da vingança privada a uma instituição que julga — o
-               problema que Hobbes formula como argumento."
+               passagem da vingança privada a uma instituição que julga — o problema que [[obra:hobbes--leviathan|Thomas Hobbes]] formula como argumento."
     why_here_by: claude
     placement_status: a-confirmar
     inserted_by: claude
@@ -216,7 +213,7 @@ sequence:
     why_here: "A teoria da lei natural, que a tradição política cita até hoje:
                a lei é ordenação da razão para o bem comum, e uma lei humana
                injusta não é verdadeira lei. É a resposta medieval mais direta
-               à pergunta da coleção, e o argumento que Antígona encena."
+               à pergunta da coleção, e o argumento que [[obra:sofocles--antigone|*Antígona*]] encena."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--vozes--escritos-politicos-de-santo-tomas-de-aquino--1995   # mesmo volume do Do Reino
@@ -277,7 +274,7 @@ sequence:
     demand: exigente
     why_here: "Representação popular vista por quem a recusa: os plebeus
                conquistam tribunos e o herói militar considera intolerável que
-               essa voz exista. É o problema de Mill e de Michels, encenado do
+               essa voz exista. É o problema de [[obra:mill--representative-government|John Stuart Mill]] e de [[obra:michels--zur-soziologie-des-parteiwesens|Robert Michels]], encenado do
                lado de dentro do conflito."
     why_here_by: claude
     placement_status: a-confirmar
@@ -341,8 +338,7 @@ sequence:
   - work: kant--grundlegung-zur-metaphysik-der-sitten
     role: foundational
     demand: exigente
-    why_here: "A formulação moral que falta entre Rousseau e Burke, e de que
-               Rawls depende declaradamente: autonomia da vontade, imperativo
+    why_here: "A formulação moral que falta entre [[pessoa:rousseau|Jean-Jacques Rousseau]] e [[pessoa:burke|Edmund Burke]], e de que [[pessoa:rawls|John Rawls]] depende declaradamente: autonomia da vontade, imperativo
                categórico, e a humanidade como fim em si. A coleção discutia a
                legitimidade do poder sem ter o termo moral que os dois lados
                disputam."
@@ -407,10 +403,7 @@ sequence:
   - work: marx-engels--die-deutsche-ideologie
     role: foundational
     demand: exigente
-    why_here: "A exposição da concepção materialista da história, que o
-               Manifesto pressupõe e não expõe, e que Popper, 'A Sociedade
-               Aberta e Seus Inimigos', e Aron, 'O Ópio dos Intelectuais',
-               atacam nominalmente. Até aqui a coleção tinha os acusadores
+    why_here: "A exposição da concepção materialista da história, que o [[obra:marx-engels--manifest-kommunistischen-partei|*Manifesto*]] pressupõe e não expõe, e que Karl Popper, em [[obra:popper--the-open-society|*A Sociedade Aberta e Seus Inimigos*]], e Raymond Aron, em [[obra:aron--lopium-des-intellectuels|*O Ópio dos Intelectuais*]], atacam nominalmente. Até aqui a coleção tinha os acusadores
                sem o texto acusado."
     why_here_by: claude
     closes_gap: political-thought--g03
@@ -472,11 +465,11 @@ sequence:
   - work: lukacs--geschichte-und-klassenbewusstsein
     role: pivot
     demand: exigente
-    why_here: "O elo que faltava entre Marx e a crítica da cultura: a
+    why_here: "O elo que faltava entre [[pessoa:marx|Karl Marx]] e a crítica da cultura: a
                reificação, formulada em 1923, é o que permite analisar a
                consciência e a cultura em termos materialistas sem falar de
                economia. É por aqui que a tradição se desloca para o terreno
-               em que Frankfurt vai operar."
+               em que a [[termo:escola-de-frankfurt|Escola de Frankfurt]] vai operar."
     why_here_by: claude
     requires: [marx-engels--die-deutsche-ideologie]
     closes_gap: political-thought--g04   # desde 2026-10-31, com a saída de Marcuse (cartão d-pol-adler-marxismo)
@@ -590,8 +583,7 @@ sequence:
     demand: exigente
     why_here: "O grande testemunho sobre o sistema de campos soviético, de quem
                passou por ele: o que o Estado faz com o direito e com a
-               consciência quando decide quem é inimigo. Depois do romance de
-               Koestler, o mesmo terror visto de dentro do campo."
+               consciência quando decide quem é inimigo. Depois do [[obra:koestler--darkness-at-noon|romance de Arthur Koestler]], o mesmo terror visto de dentro do campo."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--carambaia--arquipelago-gulag--2023   # pesquisa de 2026-10-31
@@ -610,7 +602,7 @@ sequence:
   - work: voegelin--the-new-science-of-politics
     role: critical-response
     demand: exigente
-    why_here: "Outro diagnóstico das ideologias modernas, ao lado de Popper:
+    why_here: "Outro diagnóstico das ideologias modernas, ao lado de [[obra:popper--the-open-society|Karl Popper]]:
                não o historicismo, mas a promessa de realizar na história a
                salvação que a fé situava além dela."
     why_here_by: claude
@@ -681,8 +673,7 @@ sequence:
   - work: klemperer--lti-lingua-tertii-imperii
     role: supplementary
     demand: moderado
-    why_here: "O que Orwell argumenta em ensaio, Klemperer registra como
-               testemunha: como o regime nazista mudou o vocabulário comum e,
+    why_here: "O que George Orwell argumenta em [[obra:orwell--politics-and-the-english-language|*A Política e a Língua Inglesa*]], Victor Klemperer registra como testemunha: como o regime nazista mudou o vocabulário comum e,
                com ele, o que as pessoas conseguiam pensar."
     why_here_by: claude
     inserted_by: claude
@@ -717,14 +708,13 @@ sequence:
 
   - movement: "VIII. Democracia e justiça contemporâneas"
     purpose: "Depois do diagnóstico do século XX, as duas tentativas de
-              reconstrução: institucional (Dahl) e normativa (Rawls)."
+              reconstrução: institucional ([[pessoa:dahl|Robert Dahl]]) e normativa ([[pessoa:rawls|John Rawls]])."
     purpose_by: claude
 
   - work: habermas--strukturwandel-der-oeffentlichkeit
     role: critical-response
     demand: exigente
-    why_here: "A terceira tentativa de reconstrução, ao lado da institucional
-               de Dahl e da normativa de Rawls: reconstruir as condições de
+    why_here: "A terceira tentativa de reconstrução, ao lado da institucional de [[pessoa:dahl|Robert Dahl]] e da normativa de [[pessoa:rawls|John Rawls]]: reconstruir as condições de
                uma discussão pública argumentada, e mostrar como elas se
                degradam. Vem de dentro da própria tradição crítica e rompe
                com o pessimismo dela."
@@ -748,8 +738,7 @@ sequence:
     role: foundational
     demand: exigente
     why_here: "A defesa sistemática da democracia contra os seus críticos, dos
-               anarquistas aos defensores do governo dos sábios. Retoma o
-               argumento de Sobre a Democracia por inteiro e responde a quase
+               anarquistas aos defensores do governo dos sábios. Retoma o argumento de [[obra:dahl--on-democracy|*Sobre a Democracia*]] por inteiro e responde a quase
                toda a coleção."
     why_here_by: claude
     inserted_by: claude
@@ -762,7 +751,7 @@ sequence:
     optional: true              # leitura complementar — cartão d-pol-adler-levitsky (2026-10-31)
     role: supplementary
     demand: leve
-    why_here: "O contraponto contemporâneo a Dahl: não o golpe, mas a erosão
+    why_here: "O contraponto contemporâneo a [[pessoa:dahl|Robert Dahl]]: não o golpe, mas a erosão
                gradual das normas não escritas por governantes eleitos."
     why_here_by: claude
     inserted_by: claude

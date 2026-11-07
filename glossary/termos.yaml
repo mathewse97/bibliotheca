@@ -48,3 +48,133 @@ desencantamento-do-mundo:
   label: "Desencantamento do mundo"
   text: "Expressão de Max Weber para o processo pelo qual o mundo moderno deixou de ser explicado por forças mágicas ou sagradas e passou a ser visto como calculável pela razão e pela técnica. Ganha-se domínio sobre as coisas e perde-se o sentido que elas tinham."
   works: [weber--wissenschaft-als-beruf, weber--die-protestantische-ethik]
+
+palimpsesto:
+  label: "Palimpsesto"
+  text: "Pergaminho que foi raspado e escrito de novo, porque o material era caro. O texto antigo às vezes ainda pode ser lido por baixo do novo, e foi assim que se recuperaram obras perdidas, como boa parte de *Da República*, de Cícero, achada em 1819 sob um comentário de Agostinho aos Salmos."
+  works: [cicero--de-re-publica]
+
+lei-natural:
+  label: "Lei natural (direito natural)"
+  text: "A ideia de que existe uma justiça anterior às leis escritas, que a razão humana pode conhecer e pela qual as leis da cidade podem ser julgadas. Uma lei que a contradiz seria injusta, e talvez nem obrigue. Vem dos gregos, passa pelos estoicos e por Cícero, ganha forma cristã em Tomás de Aquino e forma moderna em Hugo Grócio e John Locke."
+  works: [sofocles--antigone, aquino--de-lege, cicero--de-re-publica, locke--second-treatise, rothbard--the-ethics-of-liberty]
+
+estado-de-natureza:
+  label: "Estado de natureza"
+  text: "A situação imaginada dos homens sem governo nenhum, que os teóricos do contrato social usam para mostrar por que o governo existe e até onde ele vai. Para Hobbes é uma guerra de todos contra todos; para Locke, uma vida já regida pela lei natural, mas sem juiz; para Rousseau, uma inocência perdida."
+  works: [hobbes--leviathan, locke--second-treatise, rousseau--du-contrat-social]
+
+revolucao-gloriosa:
+  label: "Revolução Gloriosa"
+  text: "A deposição do rei católico Jaime II da Inglaterra, em 1688, e a chegada ao trono de Guilherme de Orange e Maria, quase sem sangue. O Parlamento impôs aos novos reis uma Declaração de Direitos, e a monarquia passou a depender da lei. Para Edmund Burke, foi uma revolução que conservou; a francesa, uma que quis destruir."
+  works: [burke--reflections-france, locke--second-treatise]
+
+terror:
+  label: "O Terror"
+  text: "A fase da Revolução Francesa, entre 1793 e 1794, em que o governo de Robespierre mandou executar milhares de suspeitos de serem inimigos da revolução, em nome da virtude e da salvação pública. Terminou com a execução do próprio Robespierre."
+  works: [burke--reflections-france]
+
+escola-de-frankfurt:
+  label: "Escola de Frankfurt"
+  text: "Grupo de pensadores ligados ao Instituto de Pesquisa Social de Frankfurt, fundado em 1923, que juntou Marx, Freud e a crítica da cultura numa \"teoria crítica\" da sociedade: Max Horkheimer, Theodor Adorno, Herbert Marcuse e, numa segunda geração, Jürgen Habermas."
+  works: [adorno-horkheimer--dialektik-der-aufklaerung, lukacs--geschichte-und-klassenbewusstsein, habermas--strukturwandel-der-oeffentlichkeit]
+
+gnosticismo:
+  label: "Gnosticismo"
+  text: "Conjunto de seitas dos primeiros séculos cristãos que ensinavam que o mundo material é uma prisão criada por um deus inferior, e que a salvação vem de um conhecimento secreto (*gnosis*) reservado a poucos. Eric Voegelin usa o nome para as ideologias modernas que prometem salvar o homem dentro da história."
+  works: [voegelin--the-new-science-of-politics]
+
+utilitarismo:
+  label: "Utilitarismo"
+  text: "A doutrina moral segundo a qual o certo é o que produz a maior felicidade para o maior número. Formulada por Jeremy Bentham e John Stuart Mill no século XIX, foi a teoria dominante na filosofia moral de língua inglesa até John Rawls, que a critica por aceitar sacrificar alguns pelo bem-estar da soma."
+  works: [rawls--a-theory-of-justice, mill--on-liberty]
+
+escola-austriaca:
+  label: "Escola austríaca de economia"
+  text: "Tradição de economistas nascida em Viena no fim do século XIX, com Carl Menger, e continuada por Ludwig von Mises e Friedrich Hayek. Parte das escolhas individuais e desconfia da intervenção do Estado na economia. Murray Rothbard e Hans-Hermann Hoppe são da sua ala mais radical."
+  works: [rothbard--anatomy-of-the-state, rothbard--the-ethics-of-liberty, hoppe--democracy-the-god-that-failed]
+
+idade-do-bronze:
+  label: "Idade do Bronze"
+  text: "O período em que os instrumentos e as armas eram de bronze, liga de cobre e estanho. No Mediterrâneo oriental vai mais ou menos de 3300 a 1200 a.C.: é o tempo dos faraós do Novo Império, dos hititas e dos palácios micênicos e minoicos, que acabou num colapso quase simultâneo por volta de 1177 a.C."
+  works: [cline--1177-bc, van-de-mieroop--a-history-of-the-ancient-near-east, osborne--greece-in-the-making]
+
+povos-do-mar:
+  label: "Povos do Mar"
+  text: "Nome que os historiadores dão, a partir das inscrições egípcias, a grupos de guerreiros e migrantes de origem incerta que atacaram o Egito e as costas do Mediterrâneo oriental por volta de 1200 a.C. Por muito tempo foram tidos como os causadores do colapso da Idade do Bronze; hoje são vistos como uma das causas entre várias."
+  works: [cline--1177-bc]
+
+guerras-medicas:
+  label: "Guerras Médicas"
+  text: "As guerras entre as cidades gregas e o império persa, de 490 a 479 a.C.: Maratona em 490, as Termópilas e Salamina em 480, Plateia em 479. \"Médicas\" vem dos medos, povo do império. A vitória deu a Atenas o prestígio e a frota que fizeram dela uma potência."
+  works: [herodoto--historiai, esquilo--persai, plutarco--themistokles, brosius--a-history-of-ancient-persia]
+
+guerra-do-peloponeso:
+  label: "Guerra do Peloponeso"
+  text: "A guerra entre Atenas e Esparta e os seus aliados, de 431 a 404 a.C., que terminou com a derrota de Atenas. Tucídides a narrou como contemporâneo."
+  works: [tucidides--historiai, xenofonte--hellenika, plutarco--alkibiades, plutarco--perikles]
+
+polis:
+  label: "Pólis"
+  text: "A cidade-Estado grega: uma cidade com o território à volta, governada pelos próprios cidadãos, com as suas leis, os seus deuses e o seu exército. Atenas e Esparta eram póleis; havia mais de mil delas. A palavra está na origem de \"política\"."
+  works: [osborne--greece-in-the-making, vernant--les-origines-de-la-pensee-grecque, aristoteles--politika]
+
+sofistas:
+  label: "Sofistas"
+  text: "Professores itinerantes do século V a.C. que cobravam para ensinar a arte de falar e de vencer discussões, necessária a quem quisesse fazer carreira na democracia. Os mais famosos foram Protágoras e Górgias. Platão os pinta como vendedores de aparência de saber, e o nome ganhou sentido pejorativo."
+  works: [aristofanes--nephelai, jaeger-werner--paideia]
+
+pre-socraticos:
+  label: "Pré-socráticos"
+  text: "Os primeiros filósofos gregos, dos séculos VI e V a.C., de Tales a Demócrito: procuraram explicar o mundo pela própria natureza, e não pelos deuses. Restam deles só fragmentos citados por autores posteriores."
+  works: [kirk-raven-schofield--the-presocratic-philosophers, mckirahan--philosophy-before-socrates, vernant--les-origines-de-la-pensee-grecque]
+
+hybris:
+  label: "Desmedida (hýbris)"
+  text: "Para os gregos, o excesso de quem ultrapassa o limite que cabe ao homem, por orgulho ou violência, e ofende os deuses e os outros. Na tragédia, é muitas vezes o que precede a queda."
+  works: [esquilo--persai, sofocles--aias]
+
+drama-satirico:
+  label: "Drama satírico"
+  text: "Peça curta, cômica e grotesca, com um coro de sátiros, os companheiros de Dioniso, que cada autor apresentava depois das suas três tragédias nos concursos de Atenas. O *Ciclope*, de Eurípides, é o único que chegou inteiro."
+  works: [euripides--kyklops, euripides--alkestis]
+
+formas:
+  label: "Formas (ou Ideias), em Platão"
+  text: "Para Platão, as realidades perfeitas e imutáveis de que as coisas sensíveis são cópias imperfeitas: o Belo em si, o Justo em si, o Igual em si. Conhecê-las é o fim da filosofia, e a alma as conheceria antes de nascer."
+  works: [platao--phaidon, platao--politeia, platao--symposion]
+
+catarse:
+  label: "Catarse"
+  text: "Palavra que Aristóteles usa, na *Poética*, para o efeito da tragédia sobre o espectador: uma purificação, ou purgação, das emoções de terror e de piedade que a peça desperta. O sentido exato é discutido há séculos."
+  works: [aristoteles--poietike]
+
+vidas-paralelas:
+  label: "Vidas Paralelas"
+  text: "A obra maior de Plutarco: biografias de gregos e romanos ilustres, em pares, um grego e um romano de destino parecido, quase sempre seguidas de uma comparação entre os dois. Chegaram 23 pares. Plutarco quer mostrar o caráter, não fazer a história completa."
+  works: [plutarco--solon, plutarco--themistokles, plutarco--perikles, plutarco--alkibiades, plutarco--demosthenes, plutarco--kikeron, plutarco--alexandros, plutarco--kaisar]
+
+escolas-helenisticas:
+  label: "Escolas helenísticas"
+  text: "As escolas de filosofia que surgem depois de Alexandre e dominam até o fim da Antiguidade: o estoicismo, o epicurismo, o ceticismo e o cinismo. Todas tratam a filosofia como um modo de vida que leva à serenidade."
+  works: [hadot--quest-ce-que-la-philosophie-antique, epicuro--epistole-pros-menoikea, seneca--epistulae-morales-ad-lucilium]
+
+estoicismo:
+  label: "Estoicismo"
+  text: "Escola fundada em Atenas por Zenão de Cício por volta de 300 a.C., que ensinava a viver segundo a natureza e a razão: só a virtude é um bem, e o sábio não se perturba com o que não depende dele. Em Roma foi a filosofia de Sêneca, Epicteto e Marco Aurélio."
+  works: [seneca--epistulae-morales-ad-lucilium, epicteto--encheiridion, marco-aurelio--ta-eis-heauton, cicero--de-officiis]
+
+epicurismo:
+  label: "Epicurismo"
+  text: "Escola fundada por Epicuro em Atenas por volta de 306 a.C. O mundo é feito de átomos e vazio, os deuses não se ocupam de nós e a morte não é nada; a felicidade é o prazer entendido como ausência de dor e de perturbação, numa vida simples entre amigos."
+  works: [epicuro--epistole-pros-menoikea, lucrecio--de-rerum-natura]
+
+antiguidade-tardia:
+  label: "Antiguidade tardia"
+  text: "O período entre o século III e o VIII, do fim do Império Romano clássico à expansão do islã. Os historiadores que usam o nome, a partir de Peter Brown, tratam a época como transformação e criação, e não só como queda de Roma."
+  works: [brown-peter--the-world-of-late-antiquity, cameron--the-mediterranean-world-in-late-antiquity, mitchell--a-history-of-the-later-roman-empire]
+
+guerras-punicas:
+  label: "Guerras Púnicas"
+  text: "As três guerras entre Roma e Cartago, cidade fenícia do norte da África (\"púnico\" quer dizer fenício), entre 264 e 146 a.C. Na segunda, Aníbal atravessou os Alpes e derrotou os romanos em Canas. A terceira terminou com a destruição de Cartago, e Roma ficou senhora do Mediterrâneo ocidental."
+  works: [polibio--historiai]

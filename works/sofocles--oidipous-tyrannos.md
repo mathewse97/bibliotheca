@@ -45,13 +45,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Tragédia grega de Sófocles. Édipo, rei de Tebas, investiga a causa da peste que assola a cidade e descobre que ele próprio matou o pai e se casou com a mãe, cumprindo o oráculo que tentara evitar. Aristóteles, na *Poética*, a tomou como modelo da tragédia, e ela permanece uma das peças mais estudadas do teatro ocidental.
+Tragédia grega de Sófocles. Édipo, rei de Tebas, investiga a causa da peste que assola a cidade e descobre que ele próprio matou o pai e se casou com a mãe, cumprindo o oráculo que tentara evitar. Aristóteles, na [[obra:aristoteles--poietike|*Poética*]], a tomou como modelo da tragédia, e ela permanece uma das peças mais estudadas do teatro ocidental.
 
 ## Como ler
 
 - **A pergunta:** o homem pode escapar do próprio destino, e o que é saber de verdade?
 - **Onde está o centro:** a discussão com o adivinho Tirésias; a conversa com Jocasta, em que os detalhes começam a se encaixar; a chegada do mensageiro de Corinto e do pastor, que revelam tudo; e o final, em que Édipo se cega.
-- **Postura:** A peça funciona como uma investigação: o espectador sabe a verdade desde o começo, e o interesse está em ver Édipo descobri-la. Repare na ironia de quase todas as falas. A *Poética* de Aristóteles toma esta peça como modelo de tragédia.
+- **Postura:** A peça funciona como uma investigação: o espectador sabe a verdade desde o começo, e o interesse está em ver Édipo descobri-la. Repare na ironia de quase todas as falas. A [[obra:aristoteles--poietike|*Poética*]] de Aristóteles toma esta peça como modelo de tragédia.
 
 ## Fatos
 

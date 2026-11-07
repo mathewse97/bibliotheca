@@ -39,5 +39,5 @@ A história de Roma da morte de Augusto (14 d.C.) a Nero, escrita por Tácito, s
 ## Como ler
 
 - **A pergunta:** o que acontece com a liberdade quando as instituições da república continuam de pé e o poder real está nas mãos de um só?
-- **Onde está o centro:** os livros I a VI, sobre Tibério e os processos de lesa-majestade, e os livros XIII a XVI, sobre Nero, o incêndio de Roma e a morte de Sêneca.
+- **Onde está o centro:** os livros I a VI, sobre Tibério e os processos de lesa-majestade, e os livros XIII a XVI, sobre Nero, o incêndio de Roma e a morte de [[pessoa:seneca|Sêneca]].
 - **Postura:** Tácito escreve com ironia e frases curtas; o que ele sugere pesa tanto quanto o que afirma. Leia desconfiando dele também.

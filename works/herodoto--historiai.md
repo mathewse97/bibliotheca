@@ -40,13 +40,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Obra em prosa de Heródoto de Halicarnasso, escrita em grego no século V a.C. Investiga as origens e o curso das guerras entre gregos e persas, com longas digressões sobre a geografia, os costumes e a história dos povos do mundo conhecido, como Egito, Pérsia e Cítia. É considerada o marco inicial da historiografia ocidental, e Cícero chamou seu autor de "pai da história".
+Obra em prosa de Heródoto de Halicarnasso, escrita em grego no século V a.C. Investiga as origens e o curso das guerras entre gregos e persas, com longas digressões sobre a geografia, os costumes e a história dos povos do mundo conhecido, como Egito, Pérsia e Cítia. É considerada o marco inicial da historiografia ocidental, e [[pessoa:cicero|Cícero]] chamou seu autor de "pai da história".
 
 ## Como ler
 
 - **A pergunta:** por que gregos e persas entraram em guerra, e como guardar a memória dos grandes feitos dos homens?
-- **Onde está o centro:** o livro I (o prólogo, o encontro de Creso com Sólon sobre a felicidade e a ascensão da Pérsia); o III (o debate dos persas sobre a melhor forma de governo); e os livros VI a IX (Maratona, as Termópilas, Salamina e Plateia). O livro II, sobre o Egito, pode ser lido mais depressa.
-- **Postura:** Heródoto conta histórias dentro de histórias e registra versões em que nem ele acredita, avisando quando é o caso. Leia como uma conversa longa, sem pressa. Compare com Tucídides, que critica esse modo de fazer história.
+- **Onde está o centro:** o livro I (o prólogo, o encontro de Creso com [[pessoa:solon|Sólon]] sobre a felicidade e a ascensão da Pérsia); o III (o debate dos persas sobre a melhor forma de governo); e os livros VI a IX (Maratona, as Termópilas, Salamina e Plateia). O livro II, sobre o Egito, pode ser lido mais depressa.
+- **Postura:** Heródoto conta histórias dentro de histórias e registra versões em que nem ele acredita, avisando quando é o caso. Leia como uma conversa longa, sem pressa. Compare com [[obra:tucidides--historiai|Tucídides]], que critica esse modo de fazer história.
 
 ## Fatos
 
