@@ -218,7 +218,7 @@ sequence:
     demand: moderado
     why_here: "A primeira teoria sistemática da arte do Ocidente. Sem ela, o
                movimento começa como se a reflexão sobre a arte nascesse na
-               modernidade — e Kant, que reorganiza o campo, passaria a
+               modernidade — e [[obra:kant--kritik-der-urteilskraft|Immanuel Kant]], que reorganiza o campo, passaria a
                parecer o início de uma discussão que na verdade ele herda com
                dois milênios de idade."
     why_here_by: claude
@@ -231,8 +231,7 @@ sequence:
     role: foundational
     demand: leve
     why_here: "O problema do gosto, enunciado antes de ser resolvido: se o
-               juízo estético nasce do sentimento, como pode haver padrão? É
-               a pergunta que Kant herda, e é também o degrau de leitura que
+               juízo estético nasce do sentimento, como pode haver padrão? É a pergunta que [[obra:kant--kritik-der-urteilskraft|Immanuel Kant]] herda, e é também o degrau de leitura que
                faltava entre a introdução e a terceira Crítica — um ensaio
                curto no lugar de um salto."
     why_here_by: claude
@@ -243,10 +242,9 @@ sequence:
   - work: burke--philosophical-enquiry-sublime-beautiful
     role: foundational
     demand: moderado
-    why_here: "Traz o sublime, que Hume não trata e que Kant vai reformular:
+    why_here: "Traz o sublime, que [[obra:hume--of-the-standard-of-taste|David Hume]] não trata e que [[obra:kant--kritik-der-urteilskraft|Immanuel Kant]] vai reformular:
                o belo nasce do prazer, o sublime do terror mantido a distância
-               segura. Entra também como ponte entre coleções — é o mesmo
-               Burke das 'Reflexões sobre a Revolução em França', trinta e
+               segura. Entra também como ponte entre coleções — é o mesmo Burke das [[obra:burke--reflections-france|*Reflexões sobre a Revolução na França*]], trinta e
                três anos mais novo."
     why_here_by: claude
     requires: [hume--of-the-standard-of-taste]
@@ -286,8 +284,7 @@ sequence:
     why_here: "O caso demonstrado de que uma ética religiosa moldou uma ordem
                econômica: cultura com consequência material, e não apenas
                reflexo dela. É a outra metade do enxerto, e explica como se
-               chegou ao mundo desencantado que a conferência sobre a ciência
-               descreve."
+               chegou ao mundo desencantado que [[obra:weber--wissenschaft-als-beruf|a conferência sobre a ciência]] descreve."
     why_here_by: claude
     placement_status: a-confirmar
 
@@ -309,8 +306,7 @@ sequence:
     core: true                  # ★ 2026-10-27, ver review/culture.md
     demand: moderado
     why_here: "A civilização exige renúncia, e a renúncia cobra um preço que
-               nenhum progresso técnico paga. É metade do enxerto que a Escola
-               de Frankfurt opera sobre Marx — a outra metade é Weber."
+               nenhum progresso técnico paga. É metade do enxerto que a [[termo:escola-de-frankfurt|Escola de Frankfurt]] opera sobre [[pessoa:marx|Karl Marx]] — a outra metade é [[obra:weber--die-protestantische-ethik|Max Weber]]."
     why_here_by: claude
     placement_status: a-confirmar
     publication_pref: pub--penguin-companhia--o-mal-estar-na-civilizacao--2011   # decisão sua, 2026-10-10 (d-ed-freud)
@@ -330,8 +326,7 @@ sequence:
     publication_pref: pub--e-realizacoes--notas-para-a-definicao-de-cultura--2011
   - movement: "II. O diagnóstico da degradação, e a disputa pela causa"
     purpose: "Todos concordam que algo se perdeu; discordam do que causou a
-              perda. É essa discordância que faz da coleção um argumento e não
-              um coro — e ela só existe desde 2026-09-19."
+              perda. É essa discordância que faz da coleção um argumento e não um coro."
     purpose_by: claude
     regions: [critica-conservadora, critica-liberal-e-do-espetaculo,
               critica-de-esquerda-e-industria-cultural]
@@ -352,7 +347,7 @@ sequence:
   - work: scruton--culture-counts
     role: critical-response
     demand: moderado
-    why_here: "Defesa filosófica da tradição cultural ocidental pelo filósofo Roger Scruton. Leia buscando o argumento de que a alta cultura transmite um modo de sentir e de julgar que não se aprende de outro jeito, e confronte-o com o diagnóstico de Mario Vargas Llosa."
+    why_here: "Defesa filosófica da tradição cultural ocidental pelo filósofo Roger Scruton. Leia buscando o argumento de que a alta cultura transmite um modo de sentir e de julgar que não se aprende de outro jeito, e confronte-o com o diagnóstico de [[obra:vargas-llosa--la-civilizacion-del-espectaculo|Mario Vargas Llosa]]."
     why_here_by: claude
     why_here_previous: "Indicado para quem deseja compreender uma defesa filosófica da tradição cultural ocidental."
     perspective: "Filosofia da cultura e conservadorismo."
@@ -378,8 +373,7 @@ sequence:
     role: critical-response
     demand: moderado
     why_here: "Terceiro diagnóstico da coleção, e o primeiro que não passa
-               pela arte. Onde Vargas Llosa descreve a banalização do debate
-               público e Scruton defende a alta cultura contra o relativismo,
+               pela arte. Onde [[obra:vargas-llosa--la-civilizacion-del-espectaculo|Mario Vargas Llosa]] descreve a banalização do debate público e [[obra:scruton--culture-counts|Roger Scruton]] defende a alta cultura contra o relativismo,
                este ensaio pergunta o que sobra do indivíduo quando as
                referências comuns se dissolvem. Entra pela metade 'como se
                degrada ou se perde' da pergunta da coleção, e pelo critério de
@@ -439,8 +433,7 @@ sequence:
     role: critical-response
     demand: exigente
     why_here: "Uma causa diferente para o mesmo diagnóstico: não o
-               espetáculo nem a indústria cultural, mas a Reforma, que ao
-               romper a unidade cristã teria deixado a cultura sem acordo
+               espetáculo nem a indústria cultural, mas a [[termo:reforma|Reforma]], que ao romper a unidade cristã teria deixado a cultura sem acordo
                sobre a verdade e sem bem comum."
     why_here_by: claude
     inserted_by: claude

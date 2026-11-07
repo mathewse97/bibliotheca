@@ -58,7 +58,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Exposição da doutrina budista escrita em inglês por Walpola Rahula, monge do Sri Lanka, publicada em 1959 e ampliada em 1974. Apresenta os ensinamentos centrais do budismo — as Quatro Nobres Verdades, o não-eu, a meditação — a partir dos textos em páli, cujas traduções no apêndice são do próprio autor. É uma apresentação de dentro da tradição Theravada.
+Exposição da doutrina budista escrita em inglês por Walpola Rahula, monge do Sri Lanka, publicada em 1959 e ampliada em 1974. Apresenta os ensinamentos centrais do budismo — as Quatro Nobres Verdades, o não-eu, a meditação — a partir dos textos em páli, cujas traduções no apêndice são do próprio autor. É uma apresentação de dentro da tradição [[termo:theravada|Theravada]].
 
 ## Como ler
 

@@ -30,7 +30,7 @@ obsidian_notes: []
 
 relations:
   - {type: prerequisite_for, target: adorno-horkheimer--dialektik-der-aufklaerung,
-     note: "Frankfurt enxerta Freud em Marx para explicar por que a dominação
+     note: "A [[termo:escola-de-frankfurt|Escola de Frankfurt]] enxerta Freud em [[pessoa:marx|Karl Marx]] para explicar por que a dominação
             é aceita. Sem esta obra, esse enxerto fica invisível."}
 
 derived_from:

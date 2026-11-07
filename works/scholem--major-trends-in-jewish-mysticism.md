@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Livro de Gershom Scholem, de 1941, feito das conferências que ele deu em Nova York em 1938. Conta a história da mística judaica da Antiguidade ao hassidismo: a mística do trono divino, os hassidim da Alemanha medieval, a cabala de Abraão Abuláfia e do *Zohar*, a de Isaac Luria, o messianismo de Sabatai Tzvi e o hassidismo da Polônia. Fundou o estudo moderno do assunto e mostrou que o judaísmo depois da Bíblia tem uma vida religiosa própria.
+Livro de Gershom Scholem, de 1941, feito das conferências que ele deu em Nova York em 1938. Conta a história da mística judaica da Antiguidade ao hassidismo: a mística do trono divino, os hassidim da Alemanha medieval, a [[termo:cabala|cabala]] de Abraão Abuláfia e do *Zohar*, a de Isaac Luria, o messianismo de Sabatai Tzvi e o hassidismo da Polônia. Fundou o estudo moderno do assunto e mostrou que o judaísmo depois da Bíblia tem uma vida religiosa própria.
 
 ## Como ler
 

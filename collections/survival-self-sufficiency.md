@@ -221,7 +221,7 @@ sequence:
   # PARTICIPAÇÃO NOVA — decisão sua de 2026-10-10 (curadoria das fotos).
   - work: costa--bushcraft-habilidades-na-natureza
     demand: leve
-    why_here: "O mesmo ofício de Canterbury, por autor brasileiro: ferramentas
+    why_here: "O mesmo ofício de [[obra:canterbury--bushcraft-101|Dave Canterbury]], por autor brasileiro: ferramentas
                de corte, abrigo, água, fogo, nós e escultura em madeira, com o
                mato daqui."
     why_here_by: claude
@@ -291,7 +291,7 @@ sequence:
   # a posição intermediária vale igualmente entre Alton e o PHTLS.
   - work: silva-conforto--primeiros-socorros
     demand: moderado
-    why_here: "Posição intermediária entre Onde não há médico (cuidado de
+    why_here: "Posição intermediária entre [[obra:werner--donde-no-hay-doctor|*Onde não há médico*]] (cuidado de
                saúde comunitário amplo, sem médico) e o PHTLS (protocolo
                profissional de trauma pré-hospitalar): procedimentos gerais
                de primeiros socorros para o leigo, mais focados que Werner e
@@ -314,7 +314,7 @@ sequence:
     why_here: "A única obra em português sobre medicina longe dos centros
                médicos, e a única com o que é próprio do Brasil: biomas,
                animais peçonhentos, doenças tropicais. Escrita para
-               profissionais de saúde; complementa Alton pelo contexto local."
+               profissionais de saúde; complementa [[obra:alton--the-survival-medicine-handbook|o manual de Joseph e Amy Alton]] pelo contexto local."
     why_here_by: claude
     inserted_by: claude          # ver order_changes
     publication_pref: pub--manole--medicina-em-areas-remotas-no-brasil--2019   # decisão sua, 2026-10-10 (d-sob-medicina)
@@ -331,7 +331,7 @@ sequence:
   - work: lorenzi-matos--plantas-medicinais-no-brasil
     demand: moderado
     why_here: "As plantas medicinais da flora brasileira com base técnica:
-               química, fitoterapia e etnofarmacologia. Complementa Hoffmann,
+               química, fitoterapia e etnofarmacologia. Complementa [[obra:hoffmann--the-complete-herbs-sourcebook|o guia de David Hoffmann]],
                que é de tradição europeia, pelo que cresce aqui."
     why_here_by: claude
     inserted_by: claude          # ver order_changes

@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: hesiodo--erga-kai-hemerai
-    why: "Tradução de Christian Werner, professor de grego da USP e tradutor de Homero, feita direto do grego, com introdução que situa o poema e notas que explicam nomes, mitos e conselhos do campo."
+    why: "Tradução de Christian Werner, professor de grego da USP e tradutor de [[pessoa:homero|Homero]], feita direto do grego, com introdução que situa o poema e notas que explicam nomes, mitos e conselhos do campo."
     verdict: recommended
     reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Segesta, 2012, trad. Alessandro Rolim de Moura; Iluminuras, trad. Mary de Camargo Neves Lafer."
     translator: [christian-werner]

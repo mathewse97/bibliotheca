@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: jaeger-werner--paideia
-    why: "Tradução completa de Artur M. Parreira, feita do alemão, da obra em que Werner Jaeger conta como os gregos pensaram a formação do homem, de Homero a Platão. Volume único, à venda nova."
+    why: "Tradução completa de Artur M. Parreira, feita do alemão, da obra em que Werner Jaeger conta como os gregos pensaram a formação do homem, de [[pessoa:homero|Homero]] a [[pessoa:platao|Platão]]. Volume único, à venda nova."
     verdict: recommended
     reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: Paideia, Fondo de Cultura Económica, trad. Joaquín Xirau e Wenceslao Roces."
     translator: [artur-parreira]

@@ -67,7 +67,7 @@ Ensaio de Julio Lobo publicado em 2026. Segundo a apresentação do próprio liv
 
 - **A pergunta:** o que resta do indivíduo quando as referências comuns de uma cultura se dissolvem?
 - **Onde está o centro:** a contraposição do título: a honra, como ideia de um valor que obriga, e o nada que fica quando ela desaparece.
-- **Postura:** É um ensaio recente, de 2026, ainda sem recepção crítica: leia como argumento a avaliar, confrontando-o com os outros diagnósticos da coleção, de Mario Vargas Llosa, Roger Scruton e Byung-Chul Han.
+- **Postura:** É um ensaio recente, de 2026, ainda sem recepção crítica: leia como argumento a avaliar, confrontando-o com os outros diagnósticos da coleção, de [[obra:vargas-llosa--la-civilizacion-del-espectaculo|Mario Vargas Llosa]], [[obra:scruton--culture-counts|Roger Scruton]] e [[obra:han--muedigkeitsgesellschaft|Byung-Chul Han]].
 
 ## Fatos
 

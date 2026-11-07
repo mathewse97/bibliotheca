@@ -40,4 +40,4 @@ Conjunto de cerca de 280 leis mandado gravar por Hamurábi, rei da Babilônia, n
 
 - **A pergunta:** como um rei da Babilônia ordenava a sociedade, e em nome de que justiça?
 - **Onde está o centro:** o prólogo e o epílogo, onde está a ideia de realeza; e as leis sobre família, propriedade e talião, onde a pena muda conforme a classe da pessoa.
-- **Postura:** Não é um código no sentido moderno, aplicado nos tribunais: os estudiosos discutem se era lei vigente ou modelo de rei justo. Leia como retrato de uma sociedade, ao lado de Van De Mieroop.
+- **Postura:** Não é um código no sentido moderno, aplicado nos tribunais: os estudiosos discutem se era lei vigente ou modelo de rei justo. Leia como retrato de uma sociedade, ao lado de [[obra:van-de-mieroop--a-history-of-the-ancient-near-east|Marc Van De Mieroop]].

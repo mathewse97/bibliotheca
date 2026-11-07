@@ -59,7 +59,7 @@ Terceira das críticas de Immanuel Kant, publicada em alemão em 1790. Nela o ju
 
 - **A pergunta:** o que dizemos quando chamamos algo de belo, e por que esperamos que os outros concordem, se o juízo nasce do sentimento?
 - **Onde está o centro:** a Analítica do belo, com os quatro momentos (o belo agrada sem interesse; agrada a todos sem depender de um conceito; tem a forma de uma finalidade sem fim; e é necessário); a Analítica do sublime; e a parte sobre o gênio e as belas-artes. A segunda metade do livro, sobre a finalidade na natureza, pode ficar para depois.
-- **Postura:** É difícil e usa o vocabulário próprio de Kant: leia devagar, um momento por vez, e reconstrua cada um com um exemplo seu. Rende mais depois de David Hume e Edmund Burke, de quem Kant recebe os problemas.
+- **Postura:** É difícil e usa o vocabulário próprio de Kant: leia devagar, um momento por vez, e reconstrua cada um com um exemplo seu. Rende mais depois de [[obra:hume--of-the-standard-of-taste|David Hume]] e [[obra:burke--philosophical-enquiry-sublime-beautiful|Edmund Burke]], de quem Kant recebe os problemas.
 
 ## Fatos
 

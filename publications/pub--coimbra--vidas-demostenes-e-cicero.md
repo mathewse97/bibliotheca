@@ -31,7 +31,7 @@ source_of_record: claude
 
 contains:
   - work: plutarco--demosthenes
-    why: "Tradução direta do grego por Marta Várzeas, professora da Universidade do Porto, com introdução e notas sobre como Plutarco liga caráter e destino. Vem junto com a Vida de Cícero. Português de Portugal."
+    why: "Tradução direta do grego por Marta Várzeas, professora da Universidade do Porto, com introdução e notas sobre como Plutarco liga caráter e destino. Vem junto com a [[obra:plutarco--kikeron|*Vida de Cícero*]]. Português de Portugal."
     verdict: recommended
     reason: "Mantida por decisão do Mathews em 2026-10-14, depois da comparação com: BUR, Alessandro e Cesare, trad. Domenico Magnino; Paumape, 1992, trad. Gilson César Cardoso."
     translator: [varzeas]
@@ -40,7 +40,7 @@ contains:
     completeness: null
     apparatus: []
   - work: plutarco--kikeron
-    why: "No mesmo volume da Vida de Demóstenes, na mesma tradução direta do grego de Marta Várzeas, com introdução e notas. Português de Portugal."
+    why: "No mesmo volume da [[obra:plutarco--demosthenes|*Vida de Demóstenes*]], na mesma tradução direta do grego de Marta Várzeas, com introdução e notas. Português de Portugal."
     verdict: recommended
     reason: "Entrou em Greco-Romana em 2026-10-31 (cartão d-greco-cicero, opção A). Já estava no volume recomendado para a Vida de Demóstenes; mesma tradução, sem compra a mais."
     translator: [varzeas]

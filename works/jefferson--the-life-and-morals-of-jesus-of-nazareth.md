@@ -60,7 +60,7 @@ Compilação feita por Thomas Jefferson por volta de 1820, a partir de recortes 
 
 - **A pergunta:** o que sobra dos evangelhos quando se tiram os milagres e a ressurreição?
 - **Onde está o centro:** a seleção inteira, que é curta, e sobretudo o que Thomas Jefferson deixou de fora.
-- **Postura:** Leia depois dos evangelhos, de preferência com eles ao lado, notando os cortes. O livro diz pouco sobre Jesus e muito sobre como um homem do Iluminismo leu a religião.
+- **Postura:** Leia depois dos evangelhos, de preferência com eles ao lado, notando os cortes. O livro diz pouco sobre Jesus e muito sobre como um homem do [[termo:iluminismo|Iluminismo]] leu a religião.
 
 ## Fatos
 

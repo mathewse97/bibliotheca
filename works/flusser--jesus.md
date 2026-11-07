@@ -34,10 +34,10 @@ updated: 2026-11-02
 
 ## Sobre a obra
 
-Estudo de David Flusser, historiador judeu e professor da Universidade Hebraica de Jerusalém, publicado em 1968 e revisto depois. Reconstrói a vida e o ensino de Jesus a partir dos Evangelhos lidos como fontes judaicas do século I, em diálogo com a literatura rabínica e os manuscritos do mar Morto.
+Estudo de David Flusser, historiador judeu e professor da Universidade Hebraica de Jerusalém, publicado em 1968 e revisto depois. Reconstrói a vida e o ensino de Jesus a partir dos Evangelhos lidos como fontes judaicas do século I, em diálogo com a literatura rabínica e os [[termo:manuscritos-do-mar-morto|manuscritos do mar Morto]].
 
 ## Como ler
 
 - **A pergunta:** quem era Jesus visto de dentro do judaísmo do seu tempo?
 - **Onde está o centro:** os capítulos sobre a lei e o amor ao próximo, e a última semana em Jerusalém.
-- **Postura:** tenha o Evangelho de Marcos à mão; Flusser discute o texto o tempo todo.
+- **Postura:** tenha o [[obra:evangelhos-canonicos|Evangelho de Marcos]] à mão; Flusser discute o texto o tempo todo.

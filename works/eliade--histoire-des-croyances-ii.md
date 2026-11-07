@@ -55,7 +55,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Segundo volume da história das religiões de Mircea Eliade, publicado em francês em 1978. Vai do budismo de Gautama e das religiões da Índia e da China ao helenismo, ao judaísmo, às religiões de mistério e ao triunfo do cristianismo. Integra uma obra planejada em quatro volumes, dos quais Eliade concluiu três.
+Segundo volume da história das religiões de Mircea Eliade, publicado em francês em 1978. Vai do budismo de Gautama e das religiões da Índia e da China ao helenismo, ao judaísmo, às [[termo:religioes-de-misterio|religiões de mistério]] e ao triunfo do cristianismo. Integra uma obra planejada em quatro volumes, dos quais Eliade concluiu três.
 
 ## Como ler
 

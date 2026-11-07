@@ -286,9 +286,11 @@ Teatro completo VI da Editora 34.
   obras, edições e autores citados abrem um card sem sair da página; substitui
   o painel do Guia do ano. **Etapa 2 em andamento (2026-11-07):** base
   pronta (marcação, glossário em `glossary/`, aviso `check.py --refs`);
-  Educação, Política e Greco-Romana relidas e marcadas. Faltam Religião,
-  Cultura, Oriente Próximo, Sobrevivência, as obras fora de coleção e os
-  pareceres das edições (`check.py --refs` lista o que falta). Próximas etapas combinadas com o Mathews:
+  todas as coleções, as obras fora de coleção e os pareceres das edições
+  relidos e marcados; `check.py --refs` está em zero. Glossário: 33 pessoas
+  e 46 termos. Autores sem datas ficaram assim de propósito quando não havia
+  certeza (cerca de 40, quase todos modernos e pouco conhecidos). Falta a
+  etapa 3 (edições lado a lado no card). Próximas etapas combinadas com o Mathews:
   (2) glossário de pessoas de fora da biblioteca e de termos, marcação dos
   nomes no texto com nome completo e "Por que aparece aqui", releitura de
   todos os textos, datas e uma linha de quem é para os autores, e aviso

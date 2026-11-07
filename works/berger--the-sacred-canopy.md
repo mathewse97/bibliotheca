@@ -57,13 +57,13 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Obra de Peter L. Berger, publicada em inglês em 1967, considerada um clássico da sociologia da religião. Mostra como a religião constrói e legitima um mundo de sentido socialmente compartilhado e formula uma das versões mais influentes da tese da secularização. O próprio autor repudiou essa tese a partir dos anos 1990, afirmando em *The Desecularization of the World* (1999) que ela estava equivocada e, mais tarde, substituindo a ideia de secularização pela de pluralização.
+Obra de Peter L. Berger, publicada em inglês em 1967, considerada um clássico da sociologia da religião. Mostra como a religião constrói e legitima um mundo de sentido socialmente compartilhado e formula uma das versões mais influentes da tese da [[termo:secularizacao|secularização]]. O próprio autor repudiou essa tese a partir dos anos 1990, afirmando em *The Desecularization of the World* (1999) que ela estava equivocada e, mais tarde, substituindo a ideia de secularização pela de pluralização.
 
 ## Como ler
 
 - **A pergunta:** como a religião ajuda uma sociedade a construir e manter um mundo com sentido, e o que acontece quando ela perde força?
 - **Onde está o centro:** a primeira parte, com a teoria: a sociedade constrói o mundo, a religião dá a ele uma legitimação sagrada (o dossel do título) e explica o sofrimento; e a segunda parte, sobre a secularização e o pluralismo moderno.
-- **Postura:** É teoria sociológica, com vocabulário próprio (exteriorização, objetivação, interiorização, legitimação): anote as definições no começo. Peter Berger escreve como sociólogo, sem afirmar nem negar a verdade da religião, e anos depois ele mesmo revisou a tese da secularização. Depois, leia *Uma Era Secular*, de Charles Taylor, que responde a ela.
+- **Postura:** É teoria sociológica, com vocabulário próprio (exteriorização, objetivação, interiorização, legitimação): anote as definições no começo. Peter Berger escreve como sociólogo, sem afirmar nem negar a verdade da religião, e anos depois ele mesmo revisou a tese da secularização. Depois, leia [[obra:taylor--a-secular-age|*Uma Era Secular*]], de Charles Taylor, que responde a ela.
 
 ## Fatos
 

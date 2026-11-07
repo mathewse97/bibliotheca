@@ -146,3 +146,37 @@ maome:
   name: "Maomé"
   dates: "c. 570–632"
   about: "O profeta do islã, nascido em Meca. Segundo a tradição islâmica, recebeu as revelações reunidas no [[obra:alcorao|Alcorão]]. Quando morreu, a Arábia estava unificada sob a nova fé, e em um século o califado ia da Espanha à Índia."
+
+benjamin-franklin:
+  name: "Benjamin Franklin"
+  dates: "1706–1790"
+  about: "Impressor, cientista e político norte-americano, um dos fundadores dos Estados Unidos. Os seus conselhos sobre poupança e trabalho (\"tempo é dinheiro\") são o exemplo com que Max Weber abre o retrato do espírito do capitalismo."
+
+calvino:
+  name: "João Calvino"
+  dates: "1509–1564"
+  about: "Reformador protestante francês que organizou a Igreja de Genebra. Ensinou a predestinação: Deus escolheu desde sempre quem será salvo, e ninguém sabe ao certo se é dos escolhidos."
+  known_for: {title: "A instituição da religião cristã", year: "1536, ampliada até 1559"}
+
+marsilio-ficino:
+  name: "Marsilio Ficino"
+  dates: "1433–1499"
+  about: "Filósofo e tradutor florentino, protegido dos Médici, que traduziu para o latim as obras de Platão e os escritos herméticos e tentou conciliar o platonismo com o cristianismo."
+
+milton:
+  name: "John Milton"
+  dates: "1608–1674"
+  about: "Poeta inglês, considerado o maior da sua língua depois de Shakespeare."
+  known_for: {title: "O paraíso perdido", year: "1667", about: "Poema épico sobre a queda de Adão e Eva e a revolta de Satanás."}
+
+foucault:
+  name: "Michel Foucault"
+  dates: "1926–1984"
+  about: "Filósofo e historiador francês. Estudou como as instituições modernas, a prisão, o hospital, a escola e o quartel, produzem indivíduos dóceis pela vigilância e pela disciplina, o que ele chamou de sociedade disciplinar."
+  known_for: {title: "Vigiar e punir", year: "1975"}
+
+descartes:
+  name: "René Descartes"
+  dates: "1596–1650"
+  about: "Filósofo e matemático francês. Separou o mundo em duas substâncias, a mente, que pensa, e o corpo, que ocupa espaço, e fez da dúvida metódica o ponto de partida do conhecimento (\"penso, logo existo\")."
+  known_for: {title: "Meditações sobre a filosofia primeira", year: "1641"}

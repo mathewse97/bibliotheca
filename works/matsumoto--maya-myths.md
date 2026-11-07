@@ -37,10 +37,10 @@ updated: 2026-11-02
 
 ## Sobre a obra
 
-Guia de Mallory E. Matsumoto sobre a mitologia maia: a criação do mundo, os deuses, os gêmeos heróis do *Popol Vuh* e os ancestrais, a partir de textos, inscrições e imagens.
+Guia de Mallory E. Matsumoto sobre a mitologia maia: a criação do mundo, os deuses, os gêmeos heróis do [[termo:popol-vuh|*Popol Vuh*]] e os ancestrais, a partir de textos, inscrições e imagens.
 
 ## Como ler
 
 - **A pergunta:** que deuses, heróis e ancestrais organizavam o mundo maia?
 - **Onde está o centro:** a criação do mundo e os gêmeos heróis do *Popol Vuh*.
-- **Postura:** compare a criação maia com a da *Teogonia*, de Hesíodo.
+- **Postura:** compare a criação maia com a da [[obra:hesiodo--theogonia|*Teogonia*]], de Hesíodo.

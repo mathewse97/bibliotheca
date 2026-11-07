@@ -39,7 +39,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: plutarco--solon
-    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição de Coimbra."
+    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as *Vidas* de [[obra:plutarco--solon|Sólon]], [[obra:plutarco--themistokles|Temístocles]] e [[obra:plutarco--perikles|Péricles]]. Precisa ser importada; a escolha principal é a edição de Coimbra."
     verdict: alternative
     reason: "Alternativa em espanhol; para Sólon fica a edição de Coimbra, em português."
     translator: [perez-jimenez]
@@ -48,7 +48,7 @@ contains:
     completeness: complete
     apparatus: []
   - work: plutarco--perikles
-    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as Vidas de Sólon, Temístocles e Péricles. Precisa ser importada; a escolha principal é a edição da Annablume."
+    why: "Alternativa em espanhol: tradução feita direto do grego por Aurelio Pérez Jiménez, com introdução e notas, num volume em capa dura com as *Vidas* de [[obra:plutarco--solon|Sólon]], [[obra:plutarco--themistokles|Temístocles]] e [[obra:plutarco--perikles|Péricles]]. Precisa ser importada; a escolha principal é a edição da Annablume."
     verdict: alternative
     reason: "Alternativa em espanhol; para Péricles fica a edição da Annablume, em português."
     translator: [perez-jimenez]

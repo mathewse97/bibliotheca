@@ -2650,7 +2650,7 @@ function copyState(){
 
 function vBusca(q){
   q=(q||'').toLowerCase().trim(); if(!q) return '<h1>Busca</h1><p class="muted">Escreva algo acima.</p>';
-  const hit=(s)=>String(s||'').toLowerCase().includes(q);
+  const hit=(s)=>plainRefs(s).toLowerCase().includes(q);   /* a marcação [[...]] não entra na busca */
   const ws=Object.values(D.works).filter(w=>hit(w.title_pt)||hit(w.title_original)||hit(w.id)||hit(wAuthors(w.id))
     ||w.memberships.some(m=>hit(m.why_here)));
   const cs=Object.values(D.collections).filter(c=>hit(c.title_pt)||hit(c.question)||hit(c.id));

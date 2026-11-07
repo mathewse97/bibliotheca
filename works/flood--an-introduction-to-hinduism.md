@@ -40,4 +40,4 @@ Introdução acadêmica de Gavin Flood, professor de Oxford, publicada em 1996 e
 
 - **A pergunta:** o que une, se é que algo une, as muitas tradições chamadas de hinduísmo?
 - **Onde está o centro:** os capítulos sobre o dharma e o ritual védico e os que tratam das tradições devocionais de Vishnu, Shiva e da Deusa.
-- **Postura:** leia antes da *Bhagavad Gita*, para chegar ao texto sabendo onde ele se encaixa.
+- **Postura:** leia antes da [[obra:bhagavad-gita|*Bhagavad Gita*]], para chegar ao texto sabendo onde ele se encaixa.

@@ -56,7 +56,7 @@ Guia da mitologia egípcia escrito pelo egiptólogo Garry J. Shaw e publicado em
 
 - **A pergunta:** quem eram os deuses egípcios, e que histórias se contavam sobre eles?
 - **Onde está o centro:** os capítulos sobre a criação do mundo, sobre Osíris, Ísis e Hórus, e sobre a viagem dos mortos.
-- **Postura:** É um guia acessível, para consulta e para leitura corrida. Compare com os mitos mesopotâmicos que a coleção traz nas fontes, a *Epopeia de Gilgámesh* e o *Enuma Elish*.
+- **Postura:** É um guia acessível, para consulta e para leitura corrida. Compare com os mitos mesopotâmicos que a coleção traz nas fontes, a [[obra:epopeia-de-gilgamesh|*Epopeia de Gilgámesh*]] e o [[obra:enuma-elis|*Enuma Elish*]].
 
 ## Fatos
 

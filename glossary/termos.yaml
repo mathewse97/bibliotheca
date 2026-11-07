@@ -178,3 +178,53 @@ guerras-punicas:
   label: "Guerras Púnicas"
   text: "As três guerras entre Roma e Cartago, cidade fenícia do norte da África (\"púnico\" quer dizer fenício), entre 264 e 146 a.C. Na segunda, Aníbal atravessou os Alpes e derrotou os romanos em Canas. A terceira terminou com a destruição de Cartago, e Roma ficou senhora do Mediterrâneo ocidental."
   works: [polibio--historiai]
+
+reforma:
+  label: "Reforma protestante"
+  text: "A ruptura com a Igreja de Roma iniciada por Martinho Lutero em 1517 e continuada por João Calvino e outros: a salvação só pela fé, a autoridade só da Escritura, o sacerdócio de todos os fiéis. Dividiu a cristandade ocidental e mudou a política, a educação e a economia da Europa."
+  works: [lutero--von-der-freiheit-eines-christenmenschen, weber--die-protestantische-ethik, gregory--the-unintended-reformation, taylor--a-secular-age]
+
+iluminismo:
+  label: "Iluminismo"
+  text: "O movimento intelectual europeu do século XVIII que confiou à razão a crítica da tradição, da religião revelada e do poder absoluto, e defendeu a ciência, a tolerância e os direitos individuais. Kant o definiu como a saída do homem da menoridade de que ele próprio é culpado."
+  works: [kant--grundlegung-zur-metaphysik-der-sitten, jefferson--the-life-and-morals-of-jesus-of-nazareth, adorno-horkheimer--dialektik-der-aufklaerung]
+
+religioes-de-misterio:
+  label: "Religiões de mistério"
+  text: "Cultos gregos e romanos em que só entrava quem passasse por uma iniciação secreta, com a promessa de uma relação pessoal com a divindade e de uma sorte melhor depois da morte: os mistérios de Elêusis, de Dioniso, de Ísis, de Mitra."
+  works: [eliade--histoire-des-croyances-i, eliade--histoire-des-croyances-ii, apuleio--metamorphoses-asinus-aureus, burkert--griechische-religion]
+
+fenomenologia-da-religiao:
+  label: "Fenomenologia da religião"
+  text: "O estudo que procura descrever a experiência religiosa como ela aparece para quem a vive, comparando as suas formas em muitas culturas, sem reduzi-la à psicologia ou à sociedade e sem julgar se é verdadeira. Rudolf Otto e Mircea Eliade são os seus nomes clássicos."
+  works: [otto--das-heilige, eliade--das-heilige-und-das-profane, eliade--traite-dhistoire-des-religions]
+
+secularizacao:
+  label: "Secularização"
+  text: "A perda de peso da religião na vida pública e na vida das pessoas que acompanharia a modernidade. Foi tese dominante da sociologia até os anos 1990; hoje se discute se ela é regra ou exceção europeia, e o que exatamente muda."
+  works: [berger--the-sacred-canopy, taylor--a-secular-age, weber--die-protestantische-ethik]
+
+manuscritos-do-mar-morto:
+  label: "Manuscritos do mar Morto"
+  text: "Cerca de 900 manuscritos judaicos, achados a partir de 1947 em cavernas perto de Qumran, junto ao mar Morto, escritos entre o século III a.C. e o I d.C. Trazem as cópias mais antigas da Bíblia hebraica e textos de uma comunidade judaica do tempo de Jesus."
+  works: [flusser--jesus, vermes--the-authentic-gospel-of-jesus]
+
+theravada:
+  label: "Theravada"
+  text: "\"Doutrina dos anciãos\": a mais antiga das escolas budistas que sobrevivem, predominante no Sri Lanka e no Sudeste Asiático, que segue os textos do cânone em páli. A outra grande corrente é o Mahayana, da China, do Tibete e do Japão."
+  works: [rahula--what-the-buddha-taught, dhammapada]
+
+cabala:
+  label: "Cabala"
+  text: "A tradição mística judaica que se formou no sul da França e na Espanha a partir do século XII, centrada na leitura simbólica da Torá e na estrutura da divindade em dez emanações. O seu livro clássico é o *Zohar*, do fim do século XIII."
+  works: [scholem--major-trends-in-jewish-mysticism]
+
+escolastica:
+  label: "Escolástica"
+  text: "O modo de pensar e de ensinar das escolas e universidades medievais, do século XI ao XVI: a fé que busca entender pela razão, com método de perguntas, objeções e respostas. Anselmo é o seu começo e Tomás de Aquino o seu ponto mais alto."
+  works: [anselmo--proslogion, aquino--de-lege, aquino--de-regno]
+
+popol-vuh:
+  label: "Popol Vuh"
+  text: "O livro sagrado dos maias quichés, da Guatemala: a criação do mundo, as aventuras dos gêmeos heróis Hunahpu e Xbalanque no mundo dos mortos e a história das linhagens quichés. Foi escrito em quiché com letras latinas no século XVI e copiado por um frade dominicano por volta de 1700."
+  works: [matsumoto--maya-myths]

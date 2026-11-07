@@ -63,7 +63,7 @@ Livro de Mark S. Smith, publicado em 2004, especialista em religião do Israel a
 
 - **A pergunta:** como o Deus único de Israel surgiu a partir das tradições religiosas de Canaã?
 - **Onde está o centro:** os capítulos sobre a relação entre Javé e os deuses cananeus e sobre o papel da memória coletiva na formação da religião israelita.
-- **Postura:** É um livro acessível de um grande especialista, mas pressupõe alguma familiaridade com a Bíblia hebraica. Leia depois de *A Bíblia, a Arqueologia e a História de Israel e Judá*, de José Ademar Kaefer.
+- **Postura:** É um livro acessível de um grande especialista, mas pressupõe alguma familiaridade com a Bíblia hebraica. Leia depois de [[obra:kaefer--a-biblia-a-arqueologia-e-a-historia-de-israel-e-juda|*A Bíblia, a Arqueologia e a História de Israel e Judá*]], de José Ademar Kaefer.
 
 ## Fatos
 

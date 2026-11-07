@@ -947,10 +947,13 @@ def build():
                     units.append(("coleção %s · %s" % (cid, s_.get("work") or s_.get("title") or k),
                                   s_[k], set(ww.get("authors") or []), {s_.get("work")}))
     for pid, pb in idx["publications"].items():
-        for c_ in pb.get("contains") or []:
-            if isinstance(c_, dict) and isinstance(c_.get("why"), str):
-                ww = idx["works"].get(c_.get("work")) or {}
-                units.append(("edição %s" % pid, c_["why"], set(ww.get("authors") or []), {c_.get("work")}))
+        cs = [c_ for c_ in pb.get("contains") or [] if isinstance(c_, dict)]
+        pw = {c_.get("work") for c_ in cs}           # obras do próprio volume
+        pa = set()
+        for w_ in pw: pa |= set((idx["works"].get(w_) or {}).get("authors") or [])
+        for c_ in cs:
+            if isinstance(c_.get("why"), str):
+                units.append(("edição %s" % pid, c_["why"], pa, pw))
     amb = set((load_yaml(os.path.join(ROOT, "config/referencias.yaml")) or {}).get("surnames_ambiguous") or [])
     people_pat = []
     for aid, a in idx["authors"].items():
@@ -958,12 +961,12 @@ def build():
         nm = (a.get("name_display") or "").replace(" Jr.", "").strip()
         sur = nm.split()[-1] if nm else ""
         pat = nm if (sur in amb or len(sur) < 4) else sur
-        if pat: people_pat.append((aid, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(pat))))
+        if pat: people_pat.append((aid, re.compile(r"(?<![\w-])%s(?![\w-])(?!\s+[A-ZÁÂÃÉÊÍÓÔÚÇ])" % re.escape(pat))))
     for cid_, c_ in idx["cited"].items():
         nm = c_.get("name") or ""
         sur = nm.split()[-1] if nm else ""
         pat = nm if (sur in amb or len(sur) < 4) else sur
-        if pat: people_pat.append((cid_, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(pat))))
+        if pat: people_pat.append((cid_, re.compile(r"(?<![\w-])%s(?![\w-])(?!\s+[A-ZÁÂÃÉÊÍÓÔÚÇ])" % re.escape(pat))))
     amb_t = set((load_yaml(os.path.join(ROOT, "config/referencias.yaml")) or {}).get("titles_ambiguous") or [])
     title_pat = []
     for wid, w in idx["works"].items():

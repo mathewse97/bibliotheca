@@ -34,7 +34,7 @@ updated: 2026-10-31
 
 ## Sobre a obra
 
-Livro do historiador Peter Demant, professor da USP, escrito em português e publicado em 2004. Conta a história do islã, de Maomé e do Alcorão à expansão, aos impérios e ao encontro com o Ocidente moderno, e chega ao fundamentalismo e ao terrorismo depois do 11 de Setembro, ao conflito entre Israel e os palestinos e ao Irã.
+Livro do historiador Peter Demant, professor da USP, escrito em português e publicado em 2004. Conta a história do islã, de [[pessoa:maome|Maomé]] e do [[obra:alcorao|Alcorão]] à expansão, aos impérios e ao encontro com o Ocidente moderno, e chega ao fundamentalismo e ao terrorismo depois do 11 de Setembro, ao conflito entre Israel e os palestinos e ao Irã.
 
 ## Como ler
 
