@@ -35,7 +35,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Obra do historiador brasileiro da educação Ruy Afonso da Costa Nunes, parte de uma série em que ele percorre a história da educação no Ocidente. Este volume trata da educação no Renascimento e do humanismo renascentista.
+Obra do historiador brasileiro da educação Ruy Afonso da Costa Nunes, parte de uma série em que ele percorre a história da educação no Ocidente. Este volume trata da educação no Renascimento e do [[termo:humanismo|humanismo renascentista]].
 
 ## Como ler
 

@@ -1,0 +1,3 @@
+# Sobrenomes que são também palavras comuns ou se repetem entre autores:
+# o aviso de marcação procura o nome completo, e não só o sobrenome.
+surnames_ambiguous: [Jaeger, Guerra, Costa, Dias, França, Thomas, Martin, Brown, Smith, Vargas, Oliveira, Silva, Santos, Nunes, Werner, James, Joseph, Lobo, Bauer, Wise, Craver, Henderson, Raven, Gill, Hue]

@@ -40,7 +40,7 @@ Obra do historiador brasileiro da educação Ruy Afonso da Costa Nunes, parte de
 ## Como ler
 
 - **A pergunta:** como o cristianismo recebeu a educação clássica: rejeitou, ou transformou?
-- **Onde está o centro:** os capítulos sobre os Padres da Igreja e a sua relação com a cultura pagã, e sobre as primeiras escolas cristãs.
+- **Onde está o centro:** os capítulos sobre os [[termo:padres-da-igreja|Padres da Igreja]] e a sua relação com a cultura pagã, e sobre as primeiras escolas cristãs.
 - **Postura:** É obra de historiador brasileiro, escrita com clareza para estudantes, e se lê por inteiro. Leia em sequência com os outros volumes de Ruy Afonso da Costa Nunes na coleção, notando o que cada época conserva e o que muda da anterior.
 
 ## Fatos

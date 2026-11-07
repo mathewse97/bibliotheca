@@ -69,13 +69,13 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Conferência de Max Weber proferida em Munique e publicada em 1919. Descreve a ciência moderna como especializada e sempre destinada a ser superada, e a racionalização como produtora do desencantamento do mundo. Conclui que a ciência pode esclarecer meios e consequências, mas não dizer como se deve viver, e que o professor não deve pregar da cátedra.
+Conferência de Max Weber proferida em Munique e publicada em 1919. Descreve a ciência moderna como especializada e sempre destinada a ser superada, e a racionalização como produtora do [[termo:desencantamento-do-mundo|desencantamento do mundo]]. Conclui que a ciência pode esclarecer meios e consequências, mas não dizer como se deve viver, e que o professor não deve pregar da cátedra.
 
 ## Como ler
 
 - **A pergunta:** o que a ciência e a universidade podem dar a quem estuda, e o que não podem?
 - **Onde está o centro:** o começo, sobre as condições da carreira acadêmica; o meio, sobre o desencantamento do mundo pela racionalização; e o final, em que Max Weber diz que o professor não deve fazer profecia na sala de aula, porque a ciência não responde à pergunta sobre como devemos viver.
-- **Postura:** É uma conferência curta, feita a estudantes em Munique, e se lê inteira. Leia junto de *A Política como Vocação*, a conferência irmã, e repare no tom sóbrio: Weber se recusa a consolar os ouvintes.
+- **Postura:** É uma conferência curta, feita a estudantes em Munique, e se lê inteira. Leia junto de [[obra:weber--politik-als-beruf|*A Política como Vocação*]], a conferência irmã, e repare no tom sóbrio: Weber se recusa a consolar os ouvintes.
 
 ## Fatos
 

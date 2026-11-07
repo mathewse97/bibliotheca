@@ -44,13 +44,13 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Manifesto educacional publicado por Mortimer Adler em 1982, em nome de um grupo de educadores, propondo para as escolas públicas americanas um mesmo currículo de formação liberal para todos os alunos, sem separação entre trilhas acadêmicas e profissionalizantes. Organiza o ensino em três modos: aquisição de conhecimento por instrução, desenvolvimento de habilidades intelectuais por treino orientado e ampliação da compreensão pela discussão socrática de livros e ideias.
+Manifesto educacional publicado por Mortimer Adler em 1982, em nome de um grupo de educadores, propondo para as escolas públicas americanas um mesmo currículo de formação liberal para todos os alunos, sem separação entre trilhas acadêmicas e profissionalizantes. Organiza o ensino em três modos: aquisição de conhecimento por instrução, desenvolvimento de habilidades intelectuais por treino orientado e ampliação da compreensão pela [[termo:discussao-socratica|discussão socrática]] de livros e ideias.
 
 ## Como ler
 
 - **A pergunta:** é possível dar a todas as crianças a mesma educação de qualidade, a das artes liberais?
 - **Onde está o centro:** a tese de que todos merecem o mesmo currículo, sem separar trilhas acadêmicas e profissionalizantes; e os três modos de ensinar: a instrução, que transmite conhecimento; o treino, que forma habilidades; e a discussão socrática, que amplia a compreensão.
-- **Postura:** É um manifesto curto, escrito em nome de um grupo de educadores, e se lê de uma vez. Leia como proposta prática, perguntando o que ela exigiria de uma escola real. Depois, *Como Ler Livros*, do mesmo Mortimer Adler, ensina a ler os livros que a proposta põe no centro.
+- **Postura:** É um manifesto curto, escrito em nome de um grupo de educadores, e se lê de uma vez. Leia como proposta prática, perguntando o que ela exigiria de uma escola real. Depois, [[obra:adler-van-doren--how-to-read-a-book|*Como Ler Livros*]], do mesmo Mortimer Adler, ensina a ler os livros que a proposta põe no centro.
 
 ## Fatos
 

@@ -37,6 +37,9 @@ def read(p):
 FRONTMATTER_FAILURES = []
 
 
+WORK_BODIES = {}
+
+
 def frontmatter(path):
     """Devolve (dict, corpo markdown). Registra falha de leitura em vez de
     devolver um dicionário vazio em silêncio."""
@@ -504,6 +507,7 @@ def build():
         d, body = frontmatter(f)
         wid = d.get("id") or os.path.basename(f)[:-3]
         d["id"] = wid
+        WORK_BODIES[wid] = body
         d["body_html"] = md(body)
         d["memberships"] = []
         d["publications"] = []
@@ -877,6 +881,108 @@ def build():
             if len(vals) > lim:
                 issues.append({"kind": "lugar-tema-demais", "where": wid, "ref": "%s: %d" % (k, len(vals))})
 
+    # ---- referências no texto: card de consulta (interface-rules §19) ------
+    # Marcação: [[tipo:id|rótulo]] ou [[tipo:id|rótulo|por que aparece aqui]].
+    # tipo = obra | edicao | pessoa | termo. Pessoa é autor da biblioteca
+    # (people/authors.yaml) ou pessoa citada de fora (people/cited.yaml).
+    idx["cited"] = {}
+    for cid, c in (load_yaml(os.path.join(ROOT, "glossary/pessoas.yaml")) or {}).items():
+        c = dict(c or {}); c["id"] = cid; idx["cited"][cid] = c
+        if cid in idx["authors"]:
+            issues.append({"kind": "pessoa-citada-duplicada", "where": "glossary/pessoas.yaml", "ref": cid})
+    idx["terms"] = {}
+    for tid, t in (load_yaml(os.path.join(ROOT, "glossary/termos.yaml")) or {}).items():
+        t = dict(t or {}); t["id"] = tid; idx["terms"][tid] = t
+    REF = re.compile(r"\[\[(obra|edicao|pessoa|termo):([^|\]]+)\|([^|\]]+)(?:\|([^\]]+))?\]\]")
+    _exists = {"obra": lambda i: i in idx["works"], "edicao": lambda i: i in idx["publications"],
+               "pessoa": lambda i: i in idx["authors"] or i in idx["cited"],
+               "termo": lambda i: i in idx["terms"]}
+    used = set()
+    def _walk(where, v):
+        if isinstance(v, str):
+            for m in REF.finditer(v):
+                used.add((m.group(1), m.group(2)))
+                if not _exists[m.group(1)](m.group(2)):
+                    issues.append({"kind": "referencia-desconhecida", "where": where,
+                                   "ref": "%s:%s" % (m.group(1), m.group(2))})
+        elif isinstance(v, dict):
+            for x in v.values(): _walk(where, x)
+        elif isinstance(v, list):
+            for x in v: _walk(where, x)
+    for coll in ("works", "collections", "publications", "cited", "terms", "authors"):
+        for k, v in idx[coll].items():
+            _walk("%s/%s" % (coll, k), v)
+    for tid, t in idx["terms"].items():
+        for w in t.get("works") or []:
+            if w not in idx["works"]:
+                issues.append({"kind": "termo-obra-inexistente", "where": "terms/" + tid, "ref": w})
+
+    # Aviso (não reprova): nome de autor ou título de obra da biblioteca
+    # citado sem marcação no texto que o leitor vê. Ver §19.
+    def _sections(body_md):
+        out, cur = {}, None
+        for ln in body_md.split("\n"):
+            h = re.match(r"^##\s+(.*)$", ln)
+            if h: cur = h.group(1).strip(); out[cur] = []; continue
+            if cur: out[cur].append(ln)
+        return {k: "\n".join(v) for k, v in out.items()}
+    units = []
+    for wid, w in idx["works"].items():
+        sec = _sections(WORK_BODIES.get(wid, ""))
+        own = set(w.get("authors") or [])
+        for name in ("Sobre a obra", "Como ler"):
+            if sec.get(name): units.append(("obra %s · %s" % (wid, name), sec[name], own, {wid}))
+        for r in w.get("relations") or []:
+            if isinstance(r, dict) and r.get("note"):
+                tg = r.get("target")      # a linha da relação já mostra a obra-alvo com link
+                tga = set((idx["works"].get(tg) or {}).get("authors") or [])
+                units.append(("obra %s · relação" % wid, r["note"], own | tga, {wid, tg}))
+    for cid, c in idx["collections"].items():
+        for s_ in c.get("sequence") or []:
+            if not isinstance(s_, dict): continue
+            ww = idx["works"].get(s_.get("work")) or {}
+            for k in ("why_here", "purpose"):
+                if isinstance(s_.get(k), str):
+                    units.append(("coleção %s · %s" % (cid, s_.get("work") or s_.get("title") or k),
+                                  s_[k], set(ww.get("authors") or []), {s_.get("work")}))
+    for pid, pb in idx["publications"].items():
+        for c_ in pb.get("contains") or []:
+            if isinstance(c_, dict) and isinstance(c_.get("why"), str):
+                ww = idx["works"].get(c_.get("work")) or {}
+                units.append(("edição %s" % pid, c_["why"], set(ww.get("authors") or []), {c_.get("work")}))
+    amb = set((load_yaml(os.path.join(ROOT, "config/referencias.yaml")) or {}).get("surnames_ambiguous") or [])
+    people_pat = []
+    for aid, a in idx["authors"].items():
+        if not a.get("works"): continue
+        nm = (a.get("name_display") or "").replace(" Jr.", "").strip()
+        sur = nm.split()[-1] if nm else ""
+        pat = nm if (sur in amb or len(sur) < 4) else sur
+        if pat: people_pat.append((aid, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(pat))))
+    for cid_, c_ in idx["cited"].items():
+        nm = c_.get("name") or ""
+        sur = nm.split()[-1] if nm else ""
+        pat = nm if (sur in amb or len(sur) < 4) else sur
+        if pat: people_pat.append((cid_, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(pat))))
+    title_pat = []
+    for wid, w in idx["works"].items():
+        t = (w.get("title_pt") or w.get("title_en") or "").split(":")[0].strip()
+        if len(t) >= 7 and " " in t:
+            title_pat.append((wid, re.compile(r"(?<![\w-])%s(?![\w-])" % re.escape(t))))
+    warns = []
+    for where, txt, own_a, own_w in units:
+        refd = set(m.group(2) for m in REF.finditer(txt))
+        for m in REF.finditer(txt):          # obra marcada cobre os seus autores
+            if m.group(1) == "obra":
+                refd |= set((idx["works"].get(m.group(2)) or {}).get("authors") or [])
+        plain = REF.sub(" ", txt)
+        for aid, rx in people_pat:
+            if aid in own_a or aid in refd: continue
+            if rx.search(plain): warns.append({"where": where, "ref": "pessoa:" + aid})
+        for wid, rx in title_pat:
+            if wid in own_w or wid in refd: continue
+            if rx.search(plain): warns.append({"where": where, "ref": "obra:" + wid})
+    idx["ref_warnings"] = warns
+
     # ---- planos de leitura (plans/<ano>.yaml) ---------------------------
     # Lidos pela página "Guia do ano". A build só confere as referências: obra,
     # edição e mês precisam existir. Ver config/interface-rules.md §16.
@@ -939,6 +1045,7 @@ def build():
         "people": len(idx["authors"]),
         "translators": len([a for a in idx["authors"].values()
                             if (a.get("role") or "author") != "author"]),
+        "ref_warnings": len(idx.get("ref_warnings") or []),
         # Pesquisa da OBRA (data, gênero, tradição, relações) e existência de
         # EDIÇÃO são coisas diferentes. O painel antigo fundia as duas e por
         # isso negava trabalho que estava feito.

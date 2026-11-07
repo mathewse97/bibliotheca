@@ -467,8 +467,27 @@ Consultar não deve custar o lugar onde se está.
   *Autor:* datas e as obras dele na biblioteca.
 - **"Por que aparece aqui"**: uma linha própria do texto que cita, quando o
   texto não explica a ligação. Não se repete o que o texto já diz.
-- **Termos clicáveis no texto** (etapa seguinte): seminegrito na cor de
-  destaque, sem sublinhado; sublinhado só ao passar o mouse ou com foco.
-  Destaque comum continua em negrito na cor do texto. Só a primeira menção
-  de cada texto vira termo clicável, com o nome completo da pessoa.
+- **Termos clicáveis no texto** (etapa 2, desde 2026-11-07): seminegrito na
+  cor de destaque, sem sublinhado; sublinhado só ao passar o mouse ou com
+  foco. Destaque comum continua em negrito na cor do texto. Só a primeira
+  menção de cada texto (cada seção de obra, cada justificativa) vira termo
+  clicável, com o nome completo da pessoa.
+- **Marcação nos arquivos:** `[[tipo:id|rótulo]]` ou
+  `[[tipo:id|rótulo|por que aparece aqui]]`, com tipo `obra`, `edicao`,
+  `pessoa` ou `termo`. Vale no corpo das obras ("Sobre a obra", "Como ler") e
+  nos textos que a tela mostra com formatação (justificativas, propósitos de
+  movimento, tensões, notas de relação, pareceres de edição). Um campo YAML
+  nunca começa pela marcação sem aspas.
+- **De onde vem o card:** obra, edição e autor, dos próprios registros (o
+  autor ganha `dates` e `about`, uma linha sobre quem é). Pessoa que não é
+  autora de obra da biblioteca fica em `glossary/pessoas.yaml` (nome, datas,
+  quem é, e a obra pela qual é citada, em `known_for`). Termo fica em
+  `glossary/termos.yaml` (texto curto e as obras da biblioteca ligadas a ele).
+- **Marcar não muda a autoria.** Acrescentar a marcação num texto do Mathews
+  (`why_here_by: voce`) sem mudar as palavras não é reescrita; reescrever
+  continua seguindo o §14.
+- **A conferência avisa** (sem reprovar) quando um autor ou o título de uma
+  obra da biblioteca aparece num desses textos sem marcação:
+  `python3 tools/check.py --refs` lista os casos. Sobrenomes ambíguos ficam
+  em `config/referencias.yaml`.
 

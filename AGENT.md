@@ -38,6 +38,7 @@ A build continua a produzir os três arquivos exatamente como antes. Nada em
 | `publications/` | edições físicas — editora, tradutor, ISBN | agente |
 | `collections/` | coleções, sequência, participações, movimentos, caminhos | agente |
 | `people/` | autores | agente |
+| `glossary/` | pessoas citadas que não são autoras e termos explicados no card de consulta | agente |
 | `review/`, `review/gaps/`, `review/structural/` | revisão curatorial, lacunas, propostas estruturais | agente |
 | `config/` | regras, vocabulários, forma dos registros | agente |
 | `state/personal.yaml` | leitura, posse, prioridade sua | **só a interface** |

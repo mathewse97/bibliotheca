@@ -100,7 +100,7 @@ Livro do neurocientista francês Stanislas Dehaene, professor do Collège de Fra
 
 - **A pergunta:** o que o cérebro faz quando aprende, e o que isso ensina sobre como ensinar?
 - **Onde está o centro:** a terceira parte, sobre os quatro pilares da aprendizagem: a atenção, o engajamento ativo, o retorno sobre o erro e a consolidação, que acontece em boa parte durante o sono. As duas primeiras partes explicam o que é aprender e como o cérebro faz isso.
-- **Postura:** É ciência explicada por um pesquisador de primeira linha: lê-se de ponta a ponta. Leia antes de *Fixe o Conhecimento*, que traduz esses princípios em técnicas de estudo.
+- **Postura:** É ciência explicada por um pesquisador de primeira linha: lê-se de ponta a ponta. Leia antes de [[obra:brown-roediger-mcdaniel--make-it-stick|*Fixe o Conhecimento*]], que traduz esses princípios em técnicas de estudo.
 
 ## Fatos
 

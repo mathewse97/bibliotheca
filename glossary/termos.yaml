@@ -1,0 +1,50 @@
+# Termos e conceitos explicados no card de consulta. Ver interface-rules §19.
+
+paideia:
+  label: "Paideia"
+  text: "Palavra grega para educação e, ao mesmo tempo, para a cultura que ela transmite: a formação do homem inteiro, corpo, caráter e inteligência, para a vida na cidade. Werner Jaeger fez dela o nome do ideal grego de formação."
+  works: [jaeger-werner--paideia, marrou--histoire-de-leducation-dans-lantiquite, adler--the-paideia-proposal]
+
+periodo-helenistico:
+  label: "Período helenístico"
+  text: "Os três séculos entre a morte de Alexandre, o Grande (323 a.C.), e a conquista do Egito por Roma (30 a.C.), quando a língua e a cultura gregas se espalharam do Mediterrâneo à Índia. É nele que se fixa a escola antiga: gramática, retórica e um programa de leituras comum."
+  works: [chaniotis--age-of-conquests, marrou--histoire-de-leducation-dans-lantiquite]
+
+padres-da-igreja:
+  label: "Padres da Igreja"
+  text: "Os escritores cristãos dos primeiros séculos, mais ou menos do II ao VIII, cujos escritos a Igreja reconhece como base da sua tradição: entre eles Clemente de Alexandria, Orígenes, Basílio, Jerônimo e Agostinho. Quase todos receberam a educação clássica, e o que fazer com ela é um dos seus temas."
+  works: [agostinho--de-doctrina-christiana, agostinho--de-civitate-dei, nunes--historia-da-educacao-na-antiguidade-crista]
+
+artes-liberais:
+  label: "Artes liberais"
+  text: "As sete disciplinas que formavam o homem livre da Antiguidade tardia ao fim da Idade Média: as três da linguagem (gramática, retórica e lógica, o *trivium*) e as quatro do número (aritmética, geometria, música e astronomia, o *quadrivium*). Eram a preparação para a filosofia e a teologia."
+  works: [hugo-de-sao-vitor--didascalicon, miriam-joseph--the-trivium, mcluhan--the-classical-trivium]
+
+trivium:
+  label: "Trivium"
+  text: "As três artes da linguagem entre as sete artes liberais: a gramática, que ensina a ler e escrever corretamente; a lógica, ou dialética, que ensina a raciocinar; e a retórica, que ensina a persuadir. Na educação clássica de hoje, o nome designa também três fases do ensino."
+  works: [mcluhan--the-classical-trivium, miriam-joseph--the-trivium, bauer-wise--the-well-trained-mind]
+
+humanismo:
+  label: "Humanismo renascentista"
+  text: "Movimento de estudiosos dos séculos XIV a XVI, a começar pela Itália, que voltou aos textos gregos e latinos antigos, lidos no original, e fez deles o centro da educação: gramática, retórica, poesia, história e filosofia moral, os *studia humanitatis*."
+  works: [nunes--historia-da-educacao-no-renascimento]
+
+religiao-natural:
+  label: "Religião natural"
+  text: "A ideia de que a razão e o sentimento bastam para chegar a Deus e à moral, sem revelação, igrejas nem dogmas. Foi por esse trecho que o *Emílio* foi condenado e queimado em Paris e em Genebra, em 1762."
+
+educacao-progressista:
+  label: "Educação progressista"
+  text: "Movimento de reforma escolar do fim do século XIX e do século XX, sobretudo nos Estados Unidos, que pôs no centro a experiência e o interesse da criança, a aprendizagem pela atividade e a escola como comunidade, contra o ensino por memorização e autoridade. John Dewey é o seu principal teórico."
+  works: [dewey--democracy-and-education, rousseau--emile, hirsch--why-knowledge-matters]
+
+discussao-socratica:
+  label: "Discussão socrática"
+  text: "Aula em que o professor não expõe, pergunta: o grupo lê um texto e discute em torno de perguntas abertas, e cada aluno precisa sustentar o que diz. O nome vem do modo como Sócrates conversa nos diálogos de Platão."
+  works: [adler--the-paideia-proposal]
+
+desencantamento-do-mundo:
+  label: "Desencantamento do mundo"
+  text: "Expressão de Max Weber para o processo pelo qual o mundo moderno deixou de ser explicado por forças mágicas ou sagradas e passou a ser visto como calculável pela razão e pela técnica. Ganha-se domínio sobre as coisas e perde-se o sentido que elas tinham."
+  works: [weber--wissenschaft-als-beruf, weber--die-protestantische-ethik]

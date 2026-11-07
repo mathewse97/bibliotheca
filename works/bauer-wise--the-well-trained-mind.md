@@ -35,7 +35,7 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Guia de Susan Wise Bauer e de sua mãe, Jessie Wise, publicado nos Estados Unidos em 1999, para pais que educam os filhos em casa segundo o modelo clássico. Organiza a formação nas três etapas do *trivium*, gramática, lógica e retórica, e propõe currículo, leituras e métodos para cada fase.
+Guia de Susan Wise Bauer e de sua mãe, Jessie Wise, publicado nos Estados Unidos em 1999, para pais que educam os filhos em casa segundo o modelo clássico. Organiza a formação nas três etapas do [[termo:trivium|*trivium*]], gramática, lógica e retórica, e propõe currículo, leituras e métodos para cada fase.
 
 ## Como ler
 

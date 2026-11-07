@@ -56,7 +56,7 @@ Diálogo de Platão, em grego antigo, em dez livros, que parte da pergunta sobre
 
 - **A pergunta:** o que é a justiça, e vale mais ser justo do que injusto mesmo quando ninguém está vendo?
 - **Onde está o centro:** o livro I abre o problema; os livros II a IV constroem a cidade e definem a justiça como cada parte fazendo o que lhe cabe, na cidade e na alma; V a VII trazem os filósofos governantes e a alegoria da caverna; VIII e IX mostram como os regimes degeneram até a tirania, a parte mais política do livro.
-- **Postura:** é um diálogo, e nem toda fala é a posição final de Platão; as ideias são testadas na conversa. Leia inteiro e na ordem, lembrando que a cidade é um modo de ver a alma em ponto grande. Leia antes da *Política* de Aristóteles, que critica este livro.
+- **Postura:** é um diálogo, e nem toda fala é a posição final de Platão; as ideias são testadas na conversa. Leia inteiro e na ordem, lembrando que a cidade é um modo de ver a alma em ponto grande. Leia antes da [[obra:aristoteles--politika|*Política*]] de Aristóteles, que critica este livro.
 
 ## Fatos
 

@@ -226,7 +226,7 @@ sequence:
     purpose: "Percorrer o ideal clássico de formação humana: o que era, o que
               o cristianismo fez com ele, como sobreviveu, e como começou a
               ser confrontado. O fio é a história; fontes da própria
-              tradição (Platão, Aristóteles, Agostinho e Hugo de São Vítor)
+              tradição ([[pessoa:platao|Platão]], [[pessoa:aristoteles|Aristóteles]], [[pessoa:agostinho|Agostinho]] e [[pessoa:hugo-de-sao-vitor|Hugo de São Vítor]])
               entram ao lado da narrativa para que o ideal seja lido
               praticado, e não só contado."
     # Revisto de novo em 2026-10-30, com Platão e Aristóteles (cartão
@@ -248,7 +248,7 @@ sequence:
     demand: exigente
     why_here: "O texto que funda o ideal clássico de formação: a educação dos
                guardiões pela música e pela ginástica, e a subida do filósofo
-               da caverna ao sol. Marrou e Jaeger estudam exatamente isto."
+               da caverna ao sol. [[pessoa:marrou|Henri-Irénée Marrou]] e [[pessoa:jaeger-werner|Werner Jaeger|Em *Paideia*, lê *A República* como o livro central da educação grega: a formação do homem pela cidade, e da cidade pelo homem.]] estudam exatamente isto."
     why_here_by: claude
     scope: "Livros II e III (a educação dos guardiões) e VII (a alegoria da
             caverna e a formação do filósofo)."
@@ -290,8 +290,8 @@ sequence:
     role: primary-source
     core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: exigente
-    why_here: "Nunes conta como o cristianismo incorpora a tradição clássica;
-               aqui ela é incorporada. No livro IV, a retórica de Cícero passa
+    why_here: "[[pessoa:nunes|Ruy Afonso da Costa Nunes]] conta como o cristianismo incorpora a tradição clássica;
+               aqui ela é incorporada. No livro IV, a retórica de [[pessoa:cicero|Cícero]] passa
                a servir a quem ensina a fé, e o livro II decide o que das
                disciplinas pagãs o cristão deve guardar."
     why_here_by: claude
@@ -318,8 +318,7 @@ sequence:
     role: supplementary
     demand: exigente
     why_here: "Aprofunda, com uma monografia acadêmica premiada, o recorte
-               específico das escolas catedrais e dos ideais sociais que
-               Nunes narra em panorama: o mesmo período, visto mais de
+               específico das escolas catedrais e dos ideais sociais que [[pessoa:nunes|Ruy Afonso da Costa Nunes]] narra em panorama: o mesmo período, visto mais de
                perto."
     why_here_by: claude
     publication_pref: pub--verbo-encarnado--a-inveja-dos-anjos
@@ -330,8 +329,7 @@ sequence:
     role: primary-source
     demand: moderado
     why_here: "O programa de estudos das escolas medievais escrito por um dos
-               seus mestres: o que ler, em que ordem e com que disposição. As
-               artes liberais que Nunes e Jaeger descrevem aparecem aqui como
+               seus mestres: o que ler, em que ordem e com que disposição. As [[termo:artes-liberais|artes liberais]] que [[pessoa:nunes|Ruy Afonso da Costa Nunes]] e [[pessoa:jaeger|C. Stephen Jaeger]] descrevem aparecem aqui como
                currículo, e o estudo como formação moral de quem estuda."
     why_here_by: claude
     publication_pref: pub--vozes--didascalicon-da-arte-de-ler--2001
@@ -339,8 +337,7 @@ sequence:
   - work: nunes--historia-da-educacao-no-renascimento
     role: foundational
     demand: moderado
-    why_here: "Explica a passagem da educação medieval para o humanismo
-               renascentista e ajuda a compreender a origem de muitos ideais
+    why_here: "Explica a passagem da educação medieval para o [[termo:humanismo|humanismo renascentista]] e ajuda a compreender a origem de muitos ideais
                educacionais modernos."
     why_here_by: voce
     perspective: "História da educação humanista."
@@ -379,7 +376,7 @@ sequence:
     role: comparative
     demand: moderado
     why_here: "Mapeia as escolas filosóficas e o que cada uma implica em sala de
-               aula. Lido aqui, entrega o adversário que falta a Adler adiante."
+               aula. Lido aqui, entrega o adversário que falta a [[pessoa:adler|Mortimer Adler]] adiante."
     why_here_by: claude
     perspective: "Manual sistemático: doutrina filosófica e sua consequência
                   educacional, lado a lado."
@@ -400,8 +397,7 @@ sequence:
     core: true                  # ★ 2026-10-30, ver review/education.md §15
     demand: exigente
     why_here: "A voz original da educação centrada na criança e no seu
-               desenvolvimento natural. Dewey herda esta ideia; Adler e
-               Hirsch a combatem."
+               desenvolvimento natural. [[pessoa:dewey|John Dewey]] herda esta ideia; [[pessoa:adler|Mortimer Adler]] e [[pessoa:hirsch|E. D. Hirsch Jr.]] a combatem."
     why_here_by: claude
     publication_pref: pub--unesp--emilio-ou-da-educacao--2022
 
@@ -411,10 +407,7 @@ sequence:
     demand: moderado
     why_here: "A posição progressista exposta por quem a formulou: educação
                como reconstrução contínua da experiência e como condição de
-               uma sociedade democrática. Ozmon a apresenta entre as
-               doutrinas; aqui ela fala por si. Adler a reivindica no ideal
-               democrático e a recusa no método; Hirsch a ataca nos
-               resultados."
+               uma sociedade democrática. O [[obra:ozmon-craver--philosophical-foundations-of-education|manual de Howard A. Ozmon e Samuel M. Craver]] a apresenta entre as doutrinas; aqui ela fala por si. [[pessoa:adler|Mortimer Adler]] a reivindica no ideal democrático e a recusa no método; [[pessoa:hirsch|E. D. Hirsch Jr.]] a ataca nos resultados."
     why_here_by: claude
     placement_status: a-confirmar
     inserted_by: claude
@@ -430,20 +423,19 @@ sequence:
   - work: hirsch--why-knowledge-matters
     role: critical-response
     demand: leve
-    why_here: "Uma das posições que o manual de Ozmon apresenta, agora
+    why_here: "Uma das posições que o [[obra:ozmon-craver--philosophical-foundations-of-education|manual de Howard A. Ozmon e Samuel M. Craver]] apresenta, agora
                defendida por dentro: o conhecimento partilhado vem antes das
                'habilidades', e a pedagogia progressista e centrada no
                desenvolvimento natural é a causa da queda dos resultados. O
                argumento é de ciência cognitiva e de dados escolares, não de
-               tradição — por isso fica aqui, e não com Adler."
+               tradição — por isso fica aqui, e não com [[pessoa:adler|Mortimer Adler]]."
     why_here_by: claude
     inserted_by: claude
 
   - movement: "III. A recuperação do ideal clássico no século XX"
     purpose: "Fechada a narrativa histórica, a pergunta muda de tempo verbal:
               deixa de ser o que a tradição foi e passa a ser por que alguém
-              a quereria de volta. Adler reivindica o ideal democrático de
-              Dewey, lido no movimento II, e recusa o método da escola
+              a quereria de volta. [[pessoa:adler|Mortimer Adler]] reivindica o ideal democrático de [[pessoa:dewey|John Dewey]], lido no movimento II, e recusa o método da escola
               progressista que saiu dele."
     # Texto corrigido em 2026-10-05: dizia "Adler argumenta contra um
     # adversário que a coleção ainda não contém". Dewey entrou, e a Paideia é
@@ -475,7 +467,7 @@ sequence:
   - work: mcluhan--the-classical-trivium
     role: comparative
     demand: exigente
-    why_here: "Ajuda a compreender o trivium não como uma simples técnica
+    why_here: "Ajuda a compreender o [[termo:trivium|trivium]] não como uma simples técnica
                escolar, mas como uma arquitetura tradicional para ordenar e
                desenvolver a mente."
     why_here_by: voce
@@ -518,7 +510,7 @@ sequence:
     role: supplementary
     core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
-    why_here: "O método de ler os livros que a Proposta Paideia, do mesmo Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
+    why_here: "O método de ler os livros que [[obra:adler--the-paideia-proposal|*A Proposta Paideia*]], do mesmo Mortimer Adler, põe no centro da formação. Aqui, leia buscando a prática: os quatro níveis de leitura e as regras da leitura analítica, para aplicar em cada livro desta coleção."
     why_here_by: claude
     inserted_by: claude
     publication_pref: pub--kirion--como-ler-livros--2025
@@ -530,7 +522,7 @@ sequence:
   # final da sequência: a cadeia original (§ "Por que esta ordem") é
   # estritamente cumulativa e é dela, não minha, para inserir no meio.
   - movement: "VI. A crítica radical da escola"
-    purpose: "A posição oposta a Adler sobre a mesma pergunta: não se a
+    purpose: "A posição oposta a [[pessoa:adler|Mortimer Adler]] sobre a mesma pergunta: não se a
               escola deve recuperar o cânone clássico, mas se a forma
               escolar deveria existir."
     purpose_by: claude
@@ -540,7 +532,7 @@ sequence:
     role: foundational
     core: true                  # ★ 2026-10-27, ver review/education.md §15
     demand: moderado
-    why_here: "Recusa a forma escolar inteira, incluindo a do próprio Adler
+    why_here: "Recusa a forma escolar inteira, incluindo a do próprio [[pessoa:adler|Mortimer Adler]]
                — não apenas o currículo que a escola ensina, mas a
                instituição que ensina."
     why_here_by: claude
@@ -577,7 +569,7 @@ sequence:
     demand: moderado
     why_here: "A defesa mais forte de que a universidade pode formar: o
                conhecimento liberal como fim em si, e a universidade como
-               lugar do saber universal. Vem antes de Weber porque é a tese
+               lugar do saber universal. Vem antes de [[pessoa:weber|Max Weber]] porque é a tese
                que ele, sessenta anos depois e de dentro da universidade de
                pesquisa, diz que a instituição já não pode cumprir."
     why_here_by: claude
@@ -587,8 +579,7 @@ sequence:
   - work: weber--wissenschaft-als-beruf
     role: critical-response
     demand: moderado
-    why_here: "A coleção narra a formação como transmissão de um ideal: a
-               paideía, as artes liberais, o trivium, a proposta de Adler.
+    why_here: "A coleção narra a formação como transmissão de um ideal: a [[termo:paideia|paideía]], as [[termo:artes-liberais|artes liberais]], o [[termo:trivium|trivium]], a proposta de [[pessoa:adler|Mortimer Adler]].
                Weber descreve a instituição que herdou essa tarefa — a
                universidade de pesquisa moderna — e diz que ela não pode
                cumpri-la: pode dar método, clareza e consciência das
@@ -630,7 +621,7 @@ sequence:
     demand: leve
     why_here: "A prática: recuperação, espaçamento, intercalação e dificuldades
                desejáveis, cada uma sustentada por pesquisa experimental, no
-               nível de quem estuda. Depois de Dehaene, as técnicas deixam de
+               nível de quem estuda. Depois de [[pessoa:dehaene|Stanislas Dehaene]], as técnicas deixam de
                ser receitas e passam a ser consequências do mecanismo."
     why_here_by: claude
     publication_pref: pub--penso--fixe-o-conhecimento--2018
@@ -639,8 +630,7 @@ sequence:
   - work: ahrens--how-to-take-smart-notes
     role: supplementary
     demand: leve
-    why_here: "Uma técnica de estudo e escrita — o fichamento de Luhmann — que
-               põe em prática o que Dehaene e Make It Stick explicam: aprender
+    why_here: "Uma técnica de estudo e escrita — o fichamento de [[pessoa:niklas-luhmann|Niklas Luhmann]] — que põe em prática o que [[obra:dehaene--how-we-learn|*É assim que aprendemos*]], de Stanislas Dehaene, e [[obra:brown-roediger-mcdaniel--make-it-stick|*Fixe o Conhecimento*]] explicam: aprender
                é elaborar e reescrever, não reler."
     why_here_by: claude
     inserted_by: claude

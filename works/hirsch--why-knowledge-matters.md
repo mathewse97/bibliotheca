@@ -67,7 +67,7 @@ Livro de E. D. Hirsch Jr., publicado em inglês em 2016. Sustenta que a capacida
 
 - **A pergunta:** o que faz uma criança aprender a ler e pensar bem: habilidades genéricas, ou conhecimento?
 - **Onde está o centro:** o argumento de que a compreensão depende de um conhecimento de fundo amplo e partilhado; e a crítica das teorias educacionais que trocaram o conteúdo por habilidades e pelo desenvolvimento natural da criança.
-- **Postura:** É um livro de argumento, apoiado em ciência cognitiva e em dados escolares, com polêmica aberta. Leia confrontando com *Democracia e Educação*, de John Dewey, que representa a posição criticada.
+- **Postura:** É um livro de argumento, apoiado em ciência cognitiva e em dados escolares, com polêmica aberta. Leia confrontando com [[obra:dewey--democracy-and-education|*Democracia e Educação*]], de John Dewey, que representa a posição criticada.
 
 ## Fatos
 

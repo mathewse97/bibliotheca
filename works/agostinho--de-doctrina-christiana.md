@@ -56,10 +56,10 @@ editions_considered:            # para a tela: outras edições, uma linha cada
 
 ## Sobre a obra
 
-Tratado de Santo Agostinho, escrito em latim em duas etapas, a primeira por volta de 396 e a última em 426 ou 427. Os três primeiros livros ensinam a interpretar a Escritura: os sinais, as coisas e o que das disciplinas pagãs serve ao cristão. O quarto ensina a transmitir o que se entendeu e põe a retórica clássica, de Cícero, a serviço da pregação. É o texto em que o cristianismo antigo decide o que guardar da educação clássica.
+Tratado de Santo Agostinho, escrito em latim em duas etapas, a primeira por volta de 396 e a última em 426 ou 427. Os três primeiros livros ensinam a interpretar a Escritura: os sinais, as coisas e o que das disciplinas pagãs serve ao cristão. O quarto ensina a transmitir o que se entendeu e põe a retórica clássica, de [[pessoa:cicero|Cícero|O maior orador de Roma e o modelo da prosa latina. Agostinho ensinou retórica antes de se converter, e o livro IV adapta à pregação os três estilos e os três fins da eloquência que Cícero definiu.]], a serviço da pregação. É o texto em que o cristianismo antigo decide o que guardar da educação clássica.
 
 ## Como ler
 
 - **A pergunta:** o que um cristão deve aprender, e o que da cultura pagã ele pode e deve usar para entender e ensinar?
-- **Onde está o centro:** o livro II, sobre as disciplinas pagãs que o cristão deve aproveitar (o "ouro dos egípcios", tomado de quem não sabia usá-lo); e o livro IV, em que os três estilos e os três fins da eloquência de Cícero passam a servir a quem ensina a fé.
-- **Postura:** Leia ao lado de Ruy Afonso da Costa Nunes sobre a Antiguidade cristã: Nunes conta como a tradição clássica foi incorporada, aqui ela é incorporada. O livro III, sobre as regras de interpretação da Bíblia, é técnico e pode ser lido mais depressa.
+- **Onde está o centro:** o livro II, sobre as disciplinas pagãs que o cristão deve aproveitar (o "ouro dos egípcios", tomado de quem não sabia usá-lo); e o livro IV, em que os três estilos e os três fins da eloquência de [[pessoa:cicero|Cícero]] passam a servir a quem ensina a fé.
+- **Postura:** Leia ao lado da [[obra:nunes--historia-da-educacao-na-antiguidade-crista|*História da Educação na Antiguidade Cristã*]], de Ruy Afonso da Costa Nunes: Nunes conta como a tradição clássica foi incorporada, aqui ela é incorporada. O livro III, sobre as regras de interpretação da Bíblia, é técnico e pode ser lido mais depressa.

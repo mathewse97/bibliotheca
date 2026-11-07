@@ -284,7 +284,10 @@ Teatro completo VI da Editora 34.
   Obra nova entra já com lugar e tema; o build avisa valor fora da lista.
 - **Card de consulta (2026-11-05):** etapa 1 feita (interface-rules §19):
   obras, edições e autores citados abrem um card sem sair da página; substitui
-  o painel do Guia do ano. Próximas etapas combinadas com o Mathews:
+  o painel do Guia do ano. **Etapa 2 em andamento (2026-11-07):** base
+  pronta (marcação, glossário em `glossary/`, aviso `check.py --refs`);
+  Educação relida e marcada. Faltam as outras seis coleções e as obras fora
+  de coleção. Próximas etapas combinadas com o Mathews:
   (2) glossário de pessoas de fora da biblioteca e de termos, marcação dos
   nomes no texto com nome completo e "Por que aparece aqui", releitura de
   todos os textos, datas e uma linha de quem é para os autores, e aviso

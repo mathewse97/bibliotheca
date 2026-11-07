@@ -35,12 +35,12 @@ updated: 2026-10-14
 
 ## Sobre a obra
 
-Tese de doutorado de Marshall McLuhan, defendida em Cambridge em 1943 e publicada em livro apenas postumamente. Reconstitui a história das três artes do trivium — gramática, dialética e retórica — da Antiguidade ao Renascimento, como pano de fundo para a obra do escritor elisabetano Thomas Nashe.
+Tese de doutorado de Marshall McLuhan, defendida em Cambridge em 1943 e publicada em livro apenas postumamente. Reconstitui a história das três artes do [[termo:trivium|trivium]] — gramática, dialética e retórica — da Antiguidade ao Renascimento, como pano de fundo para a obra do escritor elisabetano [[pessoa:thomas-nashe|Thomas Nashe|A tese nasceu para explicar o estilo dele: Marshall McLuhan queria mostrar que a prosa de Nashe só se entende a partir da tradição da gramática e da retórica que ele aprendeu na escola.]].
 
 ## Como ler
 
 - **A pergunta:** como a gramática, a dialética e a retórica se disputaram e se transformaram da Antiguidade ao Renascimento?
-- **Onde está o centro:** as partes que percorrem a história das três artes; a parte final, sobre o escritor elisabetano Thomas Nashe, interessa menos a quem estuda o trivium.
+- **Onde está o centro:** as partes que percorrem a história das três artes; a parte final, sobre o escritor elisabetano [[pessoa:thomas-nashe|Thomas Nashe]], interessa menos a quem estuda o trivium.
 - **Postura:** É uma tese de doutorado, densa e cheia de referências: leia por partes. Repare na ideia central de Marshall McLuhan: a história do ensino é a história de uma disputa entre as três artes, ora vencendo a gramática, ora a dialética.
 
 ## Fatos
