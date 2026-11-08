@@ -397,10 +397,13 @@ Página `#/plano`, no menu "Você". Mostra o plano de leitura de um ano, lido de
 - **A viagem do ano:** cada livro na época de que trata (`period_covered` da
   obra), com faixas de época ao fundo. **Os fios do ano:** arcos entre meses
   que conversam, gerados das marcas de lugar e tema das obras
-  (`config/lugar-tema.yaml`) e das relações entre elas; agrupados em Lugares,
-  Temas e Diálogos; um fio só existe se liga dois meses ou mais. A frase de
-  cada fio pode vir de `thread_notes` no plano; senão, a página lista as obras
-  (decisão do Mathews, 2026-11-03). **O peso dos meses:** páginas por mês,
+  (`config/lugar-tema.yaml`), agrupados em Lugares e Temas. Regra aprovada
+  pelo Mathews em 2026-11-08: um fio é um lugar ou tema presente em pelo
+  menos dois meses; de cada obra contam só os **dois primeiros temas** (a
+  ordem dos temas na obra é de importância); temas quase iguais contam como
+  um fio só (`thread_merge`); a ligação entre duas obras específicas (as
+  relações) não vira fio: fica na página e no card delas. A frase de cada fio
+  pode vir de `thread_notes` no plano; senão, a página lista as obras. **O peso dos meses:** páginas por mês,
   divididas por livro.
 - **Editar plano:** arrastar entre meses, acrescentar do catálogo (um mês
   pode ter várias obras), tirar, desfazer, cancelar. No celular, seletores
