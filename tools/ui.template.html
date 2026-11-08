@@ -1235,8 +1235,24 @@ details.alts li span{font-size:13px;color:var(--ink-soft)}
 .rc .rcf{display:flex;gap:8px;padding:10px 14px 12px;border-top:1px solid var(--rule);margin-top:10px}
 .rc .rcf a{font-weight:600;font-size:14px;border-radius:10px;padding:7px 12px;background:var(--accent);color:#fff;text-decoration:none}
 .rc .rcwl{margin:0;padding:0;list-style:none}.rc .rcwl li{margin:0 0 6px;font-size:14.5px}
+.rc.wide{width:760px}
+.rc .rccmp{overflow-x:auto;margin:4px -16px 0;padding:0 16px}
+.rc .rccmp table{border-collapse:collapse;width:100%;min-width:520px;font-size:13.5px;line-height:1.45}
+.rc .rccmp th,.rc .rccmp td{text-align:left;vertical-align:top;padding:8px 10px;border-top:1px solid var(--rule)}
+.rc .rccmp thead td{border-top:0;padding-top:4px}
+.rc .rccmp th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;width:96px;position:sticky;left:0;background:var(--surface)}
+.rc .rccmp td.best{background:var(--accent-soft)}
+.rc .rccmp img{width:48px;border-radius:3px;display:block;margin-bottom:6px}
+.rc .rccmp .rcno{color:var(--ink-faint);font-style:italic}
+.rc .rccmp .clip{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.rc .rcbtn2{margin-top:10px;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);border-radius:10px;padding:7px 12px;font:inherit;font-size:13.5px;font-weight:600;cursor:pointer}
+.rc .rcbtn2:hover{background:var(--surface-3)}
 .rc .rcv{display:inline-block;font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent-ink);margin-top:4px}
 @media (max-width:759px){
+  .rc.wide{width:auto}
+  .rc .rccmp th{width:72px;font-size:10px}
+  .rc .rccmp table{min-width:0;font-size:13px}
+  .rc .rccmp td{min-width:150px}
   .rc{left:0!important;right:0;top:auto!important;bottom:0!important;width:auto;max-width:none;max-height:85vh!important;border-radius:16px 16px 0 0;transform:translateY(100%);transition:transform .25s ease;opacity:1}
   .rc.on{transform:none}
   .rc .rch{position:relative;padding-top:16px}
@@ -1846,6 +1862,16 @@ const REL_PT = {complements:'Complementa', requires:'Pressupõe', prerequisite_f
 const AVAIL_PT = {'em-catalogo':'em catálogo', esgotado:'esgotado', usado:'só usado', importacao:'importação'};
 const DEMAND_PT = {leve:'leitura leve', moderado:'leitura moderada', exigente:'leitura exigente'};
 const langPt = v => LANG_PT[v] || v;
+/* Nomes do aparato de uma edição, como o leitor os lê (os arquivos usam slugs sem acento). */
+const APAR_PT = {introducao:'introdução',notas:'notas',posfacio:'posfácio',prefacio:'prefácio','textos-complementares':'textos complementares',
+  'texto-original':'texto original ao lado','revisao-tecnica':'revisão técnica',indice:'índice',mapas:'mapas','fortuna-critica':'fortuna crítica',
+  ensaio:'ensaio',apresentacao:'apresentação','aparato-critico':'aparato crítico',variantes:'variantes','texto-grego':'texto grego ao lado',
+  'revisao-da-traducao':'revisão da tradução',prologo:'prólogo','prefacios-do-autor':'prefácios do autor','prefacio-do-autor':'prefácio do autor',
+  'notas-do-autor':'notas do autor','leituras-sugeridas':'leituras sugeridas','indice-mitologico':'índice mitológico',glossario:'glossário',
+  cronologia:'cronologia',comentarios:'comentários','comentario-historico':'comentário histórico','comentario-classico':'comentário clássico',
+  comentario:'comentário','comentadores-tradicionais':'comentadores tradicionais','apresentacao-brasileira':'apresentação brasileira',apendices:'apêndices',
+  posfacios:'posfácios',bibliografia:'bibliografia'};
+const aparPt = a => APAR_PT[a] || String(a).replace(/-/g,' ');
 /* seções de um corpo em markdown já convertido: {título: html} */
 function bodySections(html){
   const out = {}; if(!html) return out;
@@ -1947,7 +1973,7 @@ function edFacts(p, wid){
   else if(c.translated_from==='indirect') out.push('tradução indireta'+(tr?', de '+tr:''));
   else if(tr) out.push('tradução de '+tr);
   if(p.bilingual===true) out.push('bilíngue');
-  if((c.apparatus||[]).length) out.push('com '+c.apparatus.map(a=>a.replace(/-/g,' ')).join(', '));
+  if((c.apparatus||[]).length) out.push('com '+c.apparatus.map(aparPt).join(', '));
   return out.join(' · ');
 }
 function whyBlock(w){
@@ -2970,6 +2996,15 @@ function rcEl(){ let el=document.getElementById('rc');
     el=document.createElement('div'); el.id='rc'; el.className='rc'; el.setAttribute('role','dialog'); el.setAttribute('aria-modal','false');
     document.body.append(bk, el); }
   return el; }
+/* Etapa 3 (§19): as edições de uma obra, a recomendada primeiro. */
+function rcEds(wid){
+  const w=W(wid)||{}, de=w.display_edition||{}, rank={recommended:0,alternative:1,unassessed:2};
+  return (w.publications||[]).map(x=>{ const p=P(x.publication); if(!p) return null;
+      const c=(p.contains||[]).find(c=>c.work===wid)||{}; return {p,c}; }).filter(Boolean)
+    .sort((a,b)=>(rank[a.c.verdict]??3)-(rank[b.c.verdict]??3) || (b.p.id===de.publication)-(a.p.id===de.publication))
+    .map((e,i,arr)=>Object.assign(e,{best:i===0&&e.c.verdict==='recommended'}));
+}
+const rcCmpBtn = (wid,label) => rcEds(wid).length>1 ? `<button type="button" class="rcbtn2 ref" data-ref="comparar:${E(wid)}">${E(label||'Comparar as '+rcEds(wid).length+' edições')}</button>` : '';
 function rcBody(it){
   const i=it.ref.indexOf(':'), k=it.ref.slice(0,i), id=it.ref.slice(i+1);
   if(k==='obra'){ const w=W(id); if(!w) return null;
@@ -2984,7 +3019,8 @@ function rcBody(it){
       ${rcCtx(it.ctx)}
       ${sec['Sobre a obra']?`<h4>O que é</h4><p class="rct">${E(rcShort(sec['Sobre a obra']))}</p>`:''}
       ${p?`<h4>${it.pub&&it.pub!==de.publication?'Edição':de.by_ownership?'Seu exemplar':de.below_recommended?'Sua escolha':de.state==='chosen'?'Edição escolhida':'Edição em exibição'}</h4><p class="rct">${rcRef('edicao:'+p.id, pubTitulo(p))}<br><span class="rcs">${[p.publisher,p.year].filter(Boolean).map(E).join(', ')}${tradutores(p)?' · tradução de '+E(tradutores(p)):''}</span></p>
-        ${rp?`<div class="rcflag">Há uma edição melhor: ${rcRef('edicao:'+rp.id, pubTitulo(rp))}, a recomendada.</div>`:''}`:'<h4>Edição</h4><p class="rcs">Ainda sem edição.</p>'}
+        ${rp?`<div class="rcflag">Há uma edição melhor: ${rcRef('edicao:'+rp.id, pubTitulo(rp))}, a recomendada. ${rcRef('comparar:'+id,'Comparar as duas')}</div>`:''}`:'<h4>Edição</h4><p class="rcs">Ainda sem edição.</p>'}
+      ${rcCmpBtn(id)}
       ${sec['Como ler']&&!vazio(sec['Como ler'])?`<details><summary>Como ler</summary><div class="rct">${sec['Como ler']}</div></details>`:''}`};
   }
   if(k==='edicao'){ const p=P(id); if(!p) return null; const cov=rcCov(p), cs=p.contains||[], c0=cs[0]||{};
@@ -2998,7 +3034,8 @@ function rcBody(it){
       <h4>${cs.length>1?'Obras nesta edição':'A obra'}</h4><ul class="rcwl">${cs.map(c=>{const w=W(c.work); if(!w) return '';
         return `<li>${rcRef('obra:'+c.work, wTitle(c.work))} <span class="rcs">· ${E(wAuthors(c.work))}</span>${cs.length>1&&RC_VER[c.verdict]?` <span class="rcv">${RC_VER[c.verdict]}</span>`:''}
           <div class="rcs">${E(rcFirst(bodySections(w.body_html)['Sobre a obra']))}</div></li>`;}).join('')}</ul>
-      ${buyLink(p)?`<div style="margin-top:8px">${buyLink(p)}</div>`:''}`};
+      ${buyLink(p)?`<div style="margin-top:8px">${buyLink(p)}</div>`:''}
+      ${cs.length===1&&c0.work?rcCmpBtn(c0.work,'Comparar com as outras edições'):''}`};
   }
   if(k==='autor'||k==='pessoa'){ const a=A(id), c=!a&&(D.cited||{})[id]; if(!a&&!c) return null;
     const ws=a?(a.works||[]).filter(W):[], nm=a?(a.name_display||id):(c.name||id), about=(a||c).about, dt=(a||c).dates, kf=c&&c.known_for;
@@ -3007,6 +3044,29 @@ function rcBody(it){
       ${rcCtx(it.ctx)}
       ${kf&&kf.title?`<h4>A obra</h4><p class="rct"><i>${E(kf.title)}</i>${kf.year?` (${E(kf.year)})`:''}</p>${kf.about?`<p class="rcs" style="margin:2px 0 0">${mdi(kf.about)}</p>`:''}`:''}
       ${ws.length?`<h4>Na biblioteca</h4><ul class="rcwl">${ws.map(x=>`<li>${rcRef('obra:'+x, wTitle(x))}<div class="rcs">${E(rcFirst(bodySections(W(x).body_html)['Sobre a obra']))}</div></li>`).join('')}</ul>`:''}`};
+  }
+  if(k==='comparar'){ const w=W(id); if(!w) return null; const eds=rcEds(id); if(eds.length<2) return null;
+    const de=w.display_edition||{}, VER={recommended:'Recomendada',alternative:'Alternativa',unassessed:'Ainda não avaliada'};
+    const col=(f)=>eds.map(e=>`<td${e.best?' class="best"':''}>${f(e)}</td>`).join('');
+    const no='<span class="rcno">—</span>';
+    const rows=[
+      ['Situação', e=>[VER[e.c.verdict]||'', e.p.id===de.publication?(de.below_recommended?'<b>sua escolha</b>':de.by_ownership?'<b>seu exemplar</b>':'<b>a escolhida</b>'):''].filter(Boolean).join(' · ')||no],
+      ['Tradução', e=>{ const tr=(e.c.translator||[]).map(t=>(A(t)||{}).name_display||t).join(' e '); const fr={direct:'direta do original',indirect:'indireta (de outra tradução)'}[e.c.translated_from];
+        const nt=x=>String(x||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+        const orig = !tr && ((w.original_language && e.p.language===w.original_language) || (w.title_original && nt(e.p.title_as_published).startsWith(nt(w.title_original).slice(0,24))));
+        if(orig) return 'texto original'+(e.p.language?', em '+E(langPt(e.p.language).toLowerCase()):'');
+        if(!tr && !fr && e.p.language && !/^pt/.test(e.p.language)) return 'edição em '+E(langPt(e.p.language).toLowerCase());
+        return [tr?E(tr):'<span class="rcno">tradutor não identificado</span>', fr?E(fr):''].filter(Boolean).join('<br>'); }],
+      ['Bilíngue', e=>e.p.bilingual===true?'sim':e.p.bilingual===false?'não':no],
+      ['Texto', e=>({complete:'completo',abridged:'abreviado',selections:'seleção',partial:'parcial'})[e.c.completeness]||no],
+      ['Aparato', e=>(e.c.apparatus||[]).length?E(e.c.apparatus.map(aparPt).join(', ')):no],
+      ['Páginas', e=>e.p.pages?E(e.p.pages):no],
+      ['Parecer', e=>e.c.why?`<div class="clip">${mdi(e.c.why)}</div>`:no],
+      ['Comprar', e=>buyLink(e.p)||'<span class="rcno">sem link</span>'],
+    ];
+    return {kind:'Comparar edições', open:'#/obra/'+id, label:wTitle(id), wide:true, h:`<h3>${E(wTitle(id))}</h3><div class="rcs">${eds.length} edições registradas. A recomendada vem primeiro, destacada.</div>
+      <div class="rccmp"><table><thead><tr><th></th>${col(e=>`${rcCov(e.p)?`<img class="cover" src="${rcCov(e.p)}" alt="">`:''}${rcRef('edicao:'+e.p.id, pubTitulo(e.p))}<div class="rcs">${[e.p.publisher,e.p.year].filter(Boolean).map(E).join(', ')}</div>`)}</tr></thead>
+      <tbody>${rows.map(([n,f])=>`<tr><th>${n}</th>${col(f)}</tr>`).join('')}</tbody></table></div>`};
   }
   if(k==='termo'){ const t=(D.terms||{})[id]; if(!t) return null; const ws=(t.works||[]).filter(W);
     return {kind:'Termo', open:null, label:t.label||id, h:`<h3>${E(t.label||id)}</h3>
@@ -3019,6 +3079,7 @@ function rcBody(it){
 function rcRender(){
   const it=RC.stack[RC.stack.length-1], b=it&&rcBody(it); if(!b){ rcClose(); return; }
   const el=rcEl();
+  el.classList.toggle('wide', !!b.wide);
   el.setAttribute('aria-label', b.kind+': '+b.label);
   el.innerHTML=`<div class="rch">${RC.stack.length>1?'<button type="button" class="rcbtn" data-rc="back" aria-label="Voltar">← Voltar</button>':''}<span class="rck">${b.kind}</span><button type="button" class="rcbtn" data-rc="close" aria-label="Fechar">✕</button></div>
     <div class="rcb">${b.h}</div>${b.open?`<div class="rcf"><a href="${b.open}" data-rc="open">Abrir a página</a></div>`:b.kind==='Pessoa'?'<div class="rcf"><span class="rcs" style="font-style:italic">Não está na biblioteca.</span></div>':'<div style="height:10px"></div>'}`;
@@ -3028,6 +3089,8 @@ function rcRender(){
 function rcPlace(){
   const el=document.getElementById('rc'); if(!el) return;
   if(innerWidth<760){ el.style.left=el.style.top=el.style.bottom=el.style.maxHeight=''; return; }
+  if(el.classList.contains('wide')){ const w=Math.min(760,innerWidth-32);   /* a comparação abre centrada */
+    el.style.left=Math.round((innerWidth-w)/2)+'px'; el.style.top='40px'; el.style.bottom='auto'; el.style.maxHeight=(innerHeight-80)+'px'; return; }
   if(!RC.anchor || !RC.anchor.isConnected){ return; }
   const r=RC.anchor.getBoundingClientRect(), w=Math.min(400,innerWidth-32);
   el.style.left=Math.max(16,Math.min(r.left,innerWidth-w-16))+'px';

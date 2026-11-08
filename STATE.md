@@ -289,8 +289,12 @@ Teatro completo VI da Editora 34.
   todas as coleções, as obras fora de coleção e os pareceres das edições
   relidos e marcados; `check.py --refs` está em zero. Glossário: 33 pessoas
   e 46 termos. Autores sem datas ficaram assim de propósito quando não havia
-  certeza (cerca de 40, quase todos modernos e pouco conhecidos). Falta a
-  etapa 3 (edições lado a lado no card). Próximas etapas combinadas com o Mathews:
+  certeza (cerca de 40, quase todos modernos e pouco conhecidos). Etapa 3
+  feita em 2026-11-08: comparar edições no card (23 obras com duas edições ou
+  mais). **Lacuna vista nessa etapa:** 108 obras têm `original_language` e
+  `title_original` como "a pesquisar (§E)", inclusive clássicos gregos e
+  latinos; a comparação contorna isso, mas os campos merecem uma rodada de
+  pesquisa (perguntar ao Mathews). Próximas etapas combinadas com o Mathews:
   (2) glossário de pessoas de fora da biblioteca e de termos, marcação dos
   nomes no texto com nome completo e "Por que aparece aqui", releitura de
   todos os textos, datas e uma linha de quem é para os autores, e aviso

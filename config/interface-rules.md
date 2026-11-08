@@ -489,6 +489,15 @@ Consultar não deve custar o lugar onde se está.
 - **Marcar não muda a autoria.** Acrescentar a marcação num texto do Mathews
   (`why_here_by: voce`) sem mudar as palavras não é reescrita; reescrever
   continua seguindo o §14.
+- **Comparar edições** (etapa 3, 2026-11-08): obra com duas edições ou mais
+  ganha, no card da obra e no da edição, o botão "Comparar as N edições"; o
+  aviso "Há uma edição melhor" leva direto à comparação. A tabela põe as
+  edições em colunas, a recomendada primeiro e destacada, e compara
+  situação (recomendada, alternativa, a escolhida), tradução (tradutor e se é
+  direta do original), bilíngue, texto completo ou não, aparato, páginas,
+  parecer e onde comprar. Abre centrada e mais larga no computador; no
+  celular, no painel de baixo, com rolagem lateral. Dado que falta aparece
+  como "—", nunca preenchido por suposição.
 - **A conferência avisa** (sem reprovar) quando um autor ou o título de uma
   obra da biblioteca aparece num desses textos sem marcação:
   `python3 tools/check.py --refs` lista os casos. Sobrenomes ambíguos ficam
