@@ -295,12 +295,12 @@ Teatro completo VI da Editora 34.
   nomes no texto com nome completo e "Por que aparece aqui", releitura de
   todos os textos, datas e uma linha de quem é para os autores, e aviso
   automático na conferência; (3) edições lado a lado no card.
-- **Onde paramos (2026-11-04), para lembrar o Mathews quando ele voltar a
-  este assunto:** lugar e tema estão marcados nas 272 obras e os fios do Guia
-  do ano saem dessas marcas. Próximos passos possíveis: usar as marcas no resto
-  do site, ou o mapa histórico. **O Mathews disse que não gostou muito dos
-  fios e tem opiniões sobre eles**: ouvir antes de mexer em qualquer coisa de
-  fios, lugar ou tema.
+- **Fios do Guia do ano (2026-11-08):** regra nova aprovada (interface-rules
+  §16): dois primeiros temas de cada obra, temas quase iguais fundidos, sem
+  fios de par de obras. Em 2027 ficaram 6 fios (Grécia, Roma, Mesoamérica,
+  Mitos e deuses, Impérios, Colonização e conquista). Próximos passos
+  possíveis com lugar e tema: usar as marcas no resto do site, ou o mapa
+  histórico.
 - **Pendência a lembrar (pedido do Mathews, 2026-11-02): o mapa histórico
   da biblioteca.** Um eixo do tempo com todas as obras, posicionadas pela
   época de que tratam, com filtros por coleção, tipo (fonte ou estudo), lido

@@ -3217,16 +3217,17 @@ function gpTimeline(){
    thread_notes do plano, se houver; senão, a página escreve a lista. */
 const GP_FIO=['#E0A458','#B79BE0','#6FBE93','#5B8DEF','#D86F6F','#7FC6D4','#C9B458','#E08AB8','#9CC46B','#F0866B','#8E9AF2','#5FC4B0'];
 function gpThreads(){
-  const lt = D.lugar_tema||{}, PL = lt.places||{}, TH = lt.themes||{}, GR = lt.theme_groups||{}, skip = new Set(lt.no_thread_places||[]);
+  const lt = D.lugar_tema||{}, PL = lt.places||{}, TH = lt.themes||{}, GR = lt.theme_groups||{}, MG = lt.thread_merge||{}, skip = new Set(lt.no_thread_places||[]);
   const notes = (D.plans[GP.year]||{}).thread_notes||{}, by = {}, wm = {};
   GP_MA.forEach((_,i)=>gpItems(i).forEach(it=>gpWorks(it).forEach(wid=>{ (wm[wid]=wm[wid]||new Set()).add(i);
     const w = W(wid)||{};
     (w.places||[]).forEach(k=>{ if(skip.has(k)||!PL[k]) return; (by['p:'+k]=by['p:'+k]||{kind:'lugar',key:k,name:PL[k],ms:new Set(),ws:[]}); by['p:'+k].ms.add(i); by['p:'+k].ws.push([wid,i]); });
-    (w.themes||[]).forEach(k=>{ const t=TH[k]; if(!t) return; (by['t:'+k]=by['t:'+k]||{kind:'tema',key:k,name:t.label,group:t.group,ms:new Set(),ws:[]}); by['t:'+k].ms.add(i); by['t:'+k].ws.push([wid,i]); });
+    /* Regra de 2026-11-07: só os dois primeiros temas da obra (os principais)
+       contam, e temas quase iguais (thread_merge) viram um fio só. Ligação
+       entre duas obras específicas fica no card do mês, não vira fio. */
+    (w.themes||[]).slice(0,2).forEach(k0=>{ const mk=Object.keys(MG).find(g=>(MG[g].themes||[]).includes(k0)); const k=mk||k0, t=mk?{label:MG[mk].label,group:(TH[k0]||{}).group}:TH[k0]; if(!t) return;
+      (by['t:'+k]=by['t:'+k]||{kind:'tema',key:k,name:t.label,group:t.group,ms:new Set(),ws:[]}); by['t:'+k].ms.add(i); by['t:'+k].ws.push([wid,i]); });
   })));
-  Object.keys(wm).forEach(a=>((W(a)||{}).relations||[]).forEach(r=>{ const b=r.target; if(!wm[b]) return;
-    const ma=[...wm[a]][0], mb=[...wm[b]][0]; if(ma===mb) return;
-    const k='dialogo:'+a+'>'+b; by[k]={kind:'dialogo',key:k,name:`${wTitle(a).split(':')[0]} · ${wTitle(b).split(':')[0]}`,rel:(REL_PT[r.type]||r.type),ms:new Set([ma,mb]),ws:[[a,ma],[b,mb]]}; }));
   const gOrder = Object.keys(GR);
   const list = Object.values(by).filter(t=>t.ms.size>=2).map(t=>{
     const ws = [...new Map(t.ws.map(([w,i])=>[w,i])).entries()].sort((x,y)=>x[1]-y[1]);

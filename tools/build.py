@@ -1027,7 +1027,7 @@ def build():
                     issues.append({"kind": "plano-mes-invalido", "where": where, "ref": m})
         notes = pl.get("thread_notes") or {}
         for k in notes:
-            if k not in _pl and k not in _th and not str(k).startswith("dialogo:"):
+            if k not in _pl and k not in _th and k not in (lt.get("thread_merge") or {}):
                 issues.append({"kind": "plano-nota-de-fio-desconhecida", "where": where, "ref": k})
         idx["plans"][year] = {"year": year, "months": months, "thread_notes": notes,
                               "threads": pl.get("threads") or [], "path": where}

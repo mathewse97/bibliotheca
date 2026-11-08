@@ -16,7 +16,7 @@ period_covered: {from: -100, to: -44}
 traditions: []
 subjects: []
 places: [roma]
-themes: [imperio, vida-boa, tirania]
+themes: [imperio, tirania, vida-boa]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui
