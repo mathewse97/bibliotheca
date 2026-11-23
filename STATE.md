@@ -278,7 +278,11 @@ Teatro completo VI da Editora 34.
   *Antígona* (out). Novembro fica livre para começar Frankopan. Saíram Flusser,
   Almond, Piratas no Brasil, Townsend e Matsumoto (continuam na biblioteca).
   Em 2026 ele termina a *Ilíada* e *Mito e Religião* de Vernant; a *Odisseia*
-  e o Cline foram para 2027 para aliviar o ano.
+  e o Cline foram para 2027 para aliviar o ano. Fios revistos no mesmo dia
+  (interface-rules §16): gênero literário e lugar ou tema em 5+ meses não
+  viram fio; tema novo "Guerra de Troia" (marcado em Homero, Eneida, Cline,
+  Oresteia e nas tragédias troianas); "Mitos e deuses" virou "Deuses e
+  heróis". Em 2027: Impérios, Deuses e heróis, Guerra de Troia, Tirania.
 - **Woolf pela Cultrix (2026-11-02):** o Mathews escolheu ler a tradução da
   Cultrix (2017, tradutor não confirmado), sabendo que a recomendada é a da
   Oxford. A Cultrix é a `publication_pref` em Greco-Romana; a página da obra

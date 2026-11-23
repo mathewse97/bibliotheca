@@ -78,6 +78,7 @@ themes:
   estetica: {label: "Estética e gosto", group: filosofia}
   morte-finitude: {label: "Morte e finitude", group: filosofia}
   imperios-ascensao-queda: {label: "Ascensão e queda de impérios", group: historia}
+  guerra-de-troia: {label: "Guerra de Troia", group: historia}   # decisão do Mathews, 2026-11-23
   vida-cotidiana: {label: "Vida cotidiana", group: historia}
   arte-arqueologia: {label: "Arte e arqueologia", group: historia}
   historiografia: {label: "Historiografia", group: historia}
@@ -107,4 +108,12 @@ themes:
 # iguais contam como um só fio, com este nome.
 thread_merge:
   imperios: {label: "Impérios", themes: [imperio, imperios-ascensao-queda]}
-  mitos-deuses: {label: "Mitos e deuses", themes: [mito-criacao, deuses-herois]}
+  mitos-deuses: {label: "Deuses e heróis", themes: [mito-criacao, deuses-herois]}
+
+# Regra de 2026-11-23 (decisão do Mathews): gênero literário não vira fio, porque
+# diz a forma do livro e não do que ele trata. Esses temas continuam valendo no
+# card e na busca.
+thread_genre_themes: [epica, tragedia-comedia, poesia-lirica, romance]
+# Lugar ou tema presente em mais de um terço dos meses do ano (5 ou mais) não
+# vira fio: é o assunto do ano, não uma ligação entre livros.
+thread_max_months: 4

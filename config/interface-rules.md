@@ -402,8 +402,13 @@ Página `#/plano`, no menu "Você". Mostra o plano de leitura de um ano, lido de
   menos dois meses; de cada obra contam só os **dois primeiros temas** (a
   ordem dos temas na obra é de importância); temas quase iguais contam como
   um fio só (`thread_merge`); a ligação entre duas obras específicas (as
-  relações) não vira fio: fica na página e no card delas. A frase de cada fio
-  pode vir de `thread_notes` no plano; senão, a página lista as obras. **O peso dos meses:** páginas por mês,
+  relações) não vira fio: fica na página e no card delas. Acréscimos de
+  2026-11-23 (decisão do Mathews): gênero literário (épica, tragédia, poesia,
+  romance) não vira fio, porque diz a forma e não o conteúdo
+  (`thread_genre_themes`); lugar ou tema presente em mais de um terço dos
+  meses (5 ou mais) não vira fio, porque é o assunto do ano e não uma ligação
+  (`thread_max_months`). A frase de cada fio pode vir de `thread_notes` no
+  plano; senão, a página lista as obras. **O peso dos meses:** páginas por mês,
   divididas por livro.
 - **Editar plano:** arrastar entre meses, acrescentar do catálogo (um mês
   pode ter várias obras), tirar, desfazer, cancelar. No celular, seletores
