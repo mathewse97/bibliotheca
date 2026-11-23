@@ -28,9 +28,10 @@ months:
       before: {text: "Os capítulos de Woolf sobre o fim da república", note: "Você leu em janeiro; dez minutos de revisão bastam."}
       after: {text: "Júlio César, de Shakespeare", note: "Política: a peça nasceu da Vida de César."}
   3:
-    - work: flusser--jesus
-      before: {work: evangelhos-canonicos, text: "Evangelho de Marcos", note: "Cerca de 40 páginas; é o Evangelho mais antigo e o mais usado por Flusser."}
-      after: {work: vermes--the-authentic-gospel-of-jesus, note: "Religião, movimento IV: a mesma pergunta, por outro estudioso judeu."}
+    - work: cline--1177-bc
+      publication: pub--avis-rara--1177-ac--2023   # seu exemplar
+      before: {work: homero--ilias, text: "Seu resumo da Ilíada", note: "O livro conta o mundo real por trás da guerra de Troia: os reinos que caíram por volta de 1177 a.C."}
+      after: {work: van-de-mieroop--a-history-of-the-ancient-near-east, note: "Oriente Próximo, movimento I: o mesmo mundo, reino a reino, para consultar."}
   4:
     - work: beard--pompeii
       after: {work: beard-henderson--classical-art, note: "Greco-Romana, movimento XII: a arte antiga lida como evidência."}
@@ -47,29 +48,32 @@ months:
       before: {work: platao--apologia-sokratous, note: "Curta; Sócrates é o modelo central do livro."}
       after: {work: epicteto--encheiridion, note: "Greco-Romana, movimento X: a filosofia como exercício, na prática."}
   8:
-    - work: almond--the-antichrist
-      before: {work: biblia, text: "Apocalipse", note: "Na sua Bíblia; o livro parte dele."}
-      after: {work: agostinho--de-civitate-dei, text: "A Cidade de Deus, livro XX", note: "Religião e Política: Agostinho sobre o fim dos tempos."}
+    - work: homero--odysseia
+      before: {work: homero--ilias, text: "Seu resumo da Ilíada", note: "Para voltar a Homero depois de meses: quem são os heróis e como a guerra terminou."}
+      after: {work: virgilio--aeneis, note: "O livro de setembro: Virgílio reescreve a Odisseia na primeira metade do poema."}
   9:
-    - work: carvalho-franca-hue--piratas-no-brasil
+    - work: virgilio--aeneis
+      publication: pub--editora-34--eneida   # a comprar
+      before: {work: homero--odysseia, text: "Cantos IX a XII da Odisseia", note: "Eneias conta a queda de Troia a Dido como Ulisses conta as suas aventuras aos feácios."}
+      after: {work: ovidio--metamorphoses, note: "Greco-Romana: o outro grande poema da Roma de Augusto, de tom oposto."}
   10:
-    - work: townsend--fifth-sun
-      after: {work: matsumoto--maya-myths, note: "O livro de novembro: outro povo, os deuses e os heróis."}
-  11:
-    - work: matsumoto--maya-myths
-      before: {work: hesiodo--theogonia, text: "Seu resumo da Teogonia", note: "Para comparar as duas criações do mundo."}
-      after: {work: eliade--das-heilige-und-das-profane, note: "Religião, movimento II: o mito como estrutura."}
+    - works: [sofocles--oidipous-tyrannos, sofocles--antigone]
+      title: "Édipo Rei e Antígona"
+      publication: pub--zahar--a-trilogia-tebana
+      after: {work: aristoteles--poietike, note: "Greco-Romana: Aristóteles toma Édipo Rei como o modelo da tragédia."}
+  11: []
   12:
     - work: frankopan--the-silk-roads
+      before: {text: "Comece em novembro", note: "São cerca de 690 páginas; novembro fica livre para isso."}
       after: {work: brown-peter--the-world-of-late-antiquity, note: "Greco-Romana, movimento XI: o mesmo mundo, visto de Roma."}
 
 # Frases opcionais dos fios. Os fios em si saem das marcas de lugar e tema das
 # obras (config/lugar-tema.yaml) e das relações entre elas; aqui só se escreve a
 # frase que explica um fio, pela chave do lugar ou do tema.
 thread_notes:
-  grecia: "A Grécia antiga do começo ao fim do ano: Alexandre, os deuses e o trabalho em Hesíodo, a filosofia como modo de vida em Hadot."
-  roma: "O império que Woolf conta em janeiro volta em fevereiro pela vida de César, em abril pelo chão de uma cidade e em julho nas escolas de filosofia."
-  imperios: "Como um império se faz e se desfaz: Roma em Woolf, Alexandre e César em Plutarco, os astecas em Townsend e, em dezembro, os impérios da Ásia Central em Frankopan."
-  mesoamerica: "Os povos do México antes e depois da conquista: a história dos astecas e os mitos dos maias."
-  mitos-deuses: "Duas criações do mundo, a grega de Hesíodo e a maia, lidas com a mesma pergunta: de onde vêm os deuses?"
-  colonizacao-conquista: "O encontro com os europeus visto do Brasil colonial e do México."
+  grecia: "A Grécia de ponta a ponta: Alexandre em fevereiro, os deuses e o trabalho em Hesíodo, a filosofia em Hadot, Ulisses em agosto e a tragédia de Sófocles em outubro."
+  roma: "Roma do império de Woolf à vida de César, ao chão de Pompeia, às escolas de filosofia e, em setembro, ao poema que Augusto quis para a cidade."
+  imperios: "Como impérios se fazem e se desfazem: Roma em Woolf, Alexandre e César em Plutarco, o colapso dos reinos da Idade do Bronze em Cline e, em dezembro, os impérios da Ásia Central em Frankopan."
+  mitos-deuses: "Os deuses que Hesíodo põe em ordem em maio voltam a agir sobre os heróis, na Odisseia e na Eneida."
+  epica: "A poesia que conta em verso: Hesíodo ensinando o irmão, Homero com Ulisses e Virgílio, que reescreve Homero para Roma."
+  tirania: "O poder de um só: César, que Plutarco acompanha até o assassinato, e Édipo, o tirano que descobre o próprio crime."

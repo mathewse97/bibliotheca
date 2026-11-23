@@ -270,6 +270,15 @@ Teatro completo VI da Editora 34.
   Townsend, Matsumoto e Frankopan. Quatro entraram nas coleções pelo cartão `d-plano-colecoes`: Hadot (começo do VI) e Pompeia (IX) em Greco-Romana; Flusser e Almond, complementares, em Religião. Ficam sem veredito, por tradutor não identificado:
   *Pompeia* (só "Maria Cristina"), Townsend, Matsumoto e Frankopan. Campo
   novo nas obras: `period_covered`, a época de que a obra trata.
+- **Plano de 2027 refeito (2026-11-23, pedido do Mathews):** só Grécia e Roma,
+  mais Frankopan. Ficaram nos mesmos meses Woolf (jan), Plutarco (fev),
+  Pompeia (abr), Teogonia (mai), Trabalhos (jun), Hadot (jul) e Frankopan
+  (dez). Entraram *1177 a.C.* (mar, exemplar dele), *Odisseia* (ago), *Eneida*
+  (set, a comprar: Editora 34, Carlos Alberto Nunes) e *Édipo Rei* e
+  *Antígona* (out). Novembro fica livre para começar Frankopan. Saíram Flusser,
+  Almond, Piratas no Brasil, Townsend e Matsumoto (continuam na biblioteca).
+  Em 2026 ele termina a *Ilíada* e *Mito e Religião* de Vernant; a *Odisseia*
+  e o Cline foram para 2027 para aliviar o ano.
 - **Woolf pela Cultrix (2026-11-02):** o Mathews escolheu ler a tradução da
   Cultrix (2017, tradutor não confirmado), sabendo que a recomendada é a da
   Oxford. A Cultrix é a `publication_pref` em Greco-Romana; a página da obra
@@ -301,7 +310,7 @@ Teatro completo VI da Editora 34.
   automático na conferência; (3) edições lado a lado no card.
 - **Fios do Guia do ano (2026-11-08):** regra nova aprovada (interface-rules
   §16): dois primeiros temas de cada obra, temas quase iguais fundidos, sem
-  fios de par de obras. Em 2027 ficaram 6 fios (Grécia, Roma, Mesoamérica,
+  fios de par de obras. Em 2027 (plano de 2026-11-02) ficaram 6 fios (Grécia, Roma, Mesoamérica,
   Mitos e deuses, Impérios, Colonização e conquista). Próximos passos
   possíveis com lugar e tema: usar as marcas no resto do site, ou o mapa
   histórico.
