@@ -15,7 +15,7 @@ period: null
 traditions: []
 subjects: []
 places: [grecia, anatolia]
-themes: [epica, deuses-herois, guerra-estrategia]
+themes: [guerra-de-troia, epica, deuses-herois, guerra-estrategia]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui

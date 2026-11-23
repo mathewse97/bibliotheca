@@ -15,7 +15,7 @@ period: null
 traditions: []
 subjects: []
 places: [grecia]
-themes: [epica, deuses-herois]
+themes: [guerra-de-troia, deuses-herois, epica]
 
 research_status: not_researched
 priority_library: null          # curatorial; a ordem da lista é escopo de coleção, não daqui

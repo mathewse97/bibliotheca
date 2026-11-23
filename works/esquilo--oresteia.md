@@ -15,7 +15,7 @@ period: null
 traditions: []
 subjects: []
 places: [grecia]
-themes: [tragedia-comedia, lei-natural]
+themes: [tragedia-comedia, lei-natural, guerra-de-troia]
 
 research_status: partially_researched
 missing: ["Título original em grego — não verificado em nenhuma fonte lida",

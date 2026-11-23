@@ -15,7 +15,7 @@ period: null
 traditions: []
 subjects: [verdade, astucia, amizade, guerra-de-troia, sofrimento]
 places: [grecia]
-themes: [tragedia-comedia]
+themes: [tragedia-comedia, guerra-de-troia]
 
 research_status: partially_researched
 missing: []

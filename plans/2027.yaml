@@ -71,9 +71,7 @@ months:
 # obras (config/lugar-tema.yaml) e das relações entre elas; aqui só se escreve a
 # frase que explica um fio, pela chave do lugar ou do tema.
 thread_notes:
-  grecia: "A Grécia de ponta a ponta: Alexandre em fevereiro, os deuses e o trabalho em Hesíodo, a filosofia em Hadot, Ulisses em agosto e a tragédia de Sófocles em outubro."
-  roma: "Roma do império de Woolf à vida de César, ao chão de Pompeia, às escolas de filosofia e, em setembro, ao poema que Augusto quis para a cidade."
   imperios: "Como impérios se fazem e se desfazem: Roma em Woolf, Alexandre e César em Plutarco, o colapso dos reinos da Idade do Bronze em Cline e, em dezembro, os impérios da Ásia Central em Frankopan."
-  mitos-deuses: "Os deuses que Hesíodo põe em ordem em maio voltam a agir sobre os heróis, na Odisseia e na Eneida."
-  epica: "A poesia que conta em verso: Hesíodo ensinando o irmão, Homero com Ulisses e Virgílio, que reescreve Homero para Roma."
-  tirania: "O poder de um só: César, que Plutarco acompanha até o assassinato, e Édipo, o tirano que descobre o próprio crime."
+  mitos-deuses: "Os deuses que Hesíodo põe em ordem em maio voltam a agir sobre os heróis: Ulisses na Odisseia e Eneias na Eneida."
+  guerra-de-troia: "A guerra da Ilíada e o que veio depois dela: o mundo real que caiu por volta de 1177 a.C., a volta de um vencedor, Ulisses, e a fuga de um vencido, Eneias, que vai fundar Roma."
+  tirania: "O poder de um só e o seu limite: César, que Plutarco acompanha até o assassinato, e, em Sófocles, Édipo e Creonte."
