@@ -283,6 +283,10 @@ Teatro completo VI da Editora 34.
   viram fio; tema novo "Guerra de Troia" (marcado em Homero, Eneida, Cline,
   Oresteia e nas tragédias troianas); "Mitos e deuses" virou "Deuses e
   heróis". Em 2027: Impérios, Deuses e heróis, Guerra de Troia, Tirania.
+- **Aplicativo instalável (2026-11-26, pedido do Mathews):** o site publicado
+  tem manifesto, ícones (o mesmo favicon em PNG, gerado por `tools/icons.js`)
+  e service worker (`tools/pages.py`). No Chrome do celular, "Instalar app"
+  passa a funcionar; abre sem a barra do navegador e funciona sem internet.
 - **Woolf pela Cultrix (2026-11-02):** o Mathews escolheu ler a tradução da
   Cultrix (2017, tradutor não confirmado), sabendo que a recomendada é a da
   Oxford. A Cultrix é a `publication_pref` em Greco-Romana; a página da obra

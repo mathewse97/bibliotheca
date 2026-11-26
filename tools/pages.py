@@ -21,12 +21,26 @@
 #
 #   python3 tools/build.py && python3 tools/pages.py
 # ---------------------------------------------------------------------------
-import os, shutil, sys
+import json, os, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GEN = os.path.join(ROOT, "_generated")
 SITE = os.path.join(ROOT, "site")
 FONTE = os.path.join(GEN, "bibliotheca.html")
+
+
+# Service worker: rede primeiro (com internet, sempre a versão mais nova do
+# site), cópia guardada quando não há conexão.
+SW = """const C = 'bibliotheca-v1';
+const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+self.addEventListener('install', e => { e.waitUntil(caches.open(C).then(c => c.addAll(FILES))); self.skipWaiting(); });
+self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== C).map(k => caches.delete(k))))); self.clients.claim(); });
+self.addEventListener('fetch', e => {
+  if (e.request.method !== 'GET' || new URL(e.request.url).origin !== location.origin) return;
+  e.respondWith(fetch(e.request).then(r => { const copy = r.clone(); caches.open(C).then(c => c.put(e.request, copy)); return r; })
+    .catch(() => caches.match(e.request).then(m => m || caches.match('./index.html'))));
+});
+"""
 
 
 def main():
@@ -53,6 +67,25 @@ def main():
     # indexam. É uma convenção respeitada, não uma trava.
     with open(os.path.join(SITE, "robots.txt"), "w", encoding="utf-8") as f:
         f.write("User-agent: *\nDisallow: /\n")
+
+    # Aplicativo instalável (pedido do Mathews, 2026-11-26): manifesto, ícones
+    # (o mesmo favicon, em PNG, gerado por tools/icons.js) e um service worker.
+    # Com os três, o Chrome do celular instala o site como aplicativo, que abre
+    # sem a barra do navegador e funciona sem internet, porque a página já traz
+    # todos os dados e capas dentro dela.
+    for n in (192, 512):
+        shutil.copyfile(os.path.join(ROOT, "images/icon-%d.png" % n),
+                        os.path.join(SITE, "icon-%d.png" % n))
+    with open(os.path.join(SITE, "manifest.webmanifest"), "w", encoding="utf-8") as f:
+        json.dump({
+            "name": "Bibliotheca", "short_name": "Bibliotheca", "lang": "pt-BR",
+            "start_url": "./", "scope": "./", "display": "standalone",
+            "background_color": "#0F1512", "theme_color": "#0F1512",
+            "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+                      {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}],
+        }, f, ensure_ascii=False, indent=1)
+    with open(os.path.join(SITE, "sw.js"), "w", encoding="utf-8") as f:
+        f.write(SW)
 
     mb = os.path.getsize(destino) / (1024 * 1024)
     print("✓ site/ montado · index.html %.1f MB" % mb)
