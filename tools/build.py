@@ -1130,6 +1130,12 @@ def main():
                 "<meta charset=\"utf-8\">\n"
                 "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n"
                 + fav +
+                # Aplicativo instalável (PWA): o manifesto e os ícones são
+                # arquivos que tools/pages.py põe ao lado do index.html no site.
+                # Abrindo o arquivo solto, os links só não acham nada.
+                "<link rel=\"manifest\" href=\"manifest.webmanifest\">\n"
+                "<link rel=\"apple-touch-icon\" href=\"icon-192.png\">\n"
+                "<meta name=\"theme-color\" content=\"#0F1512\">\n"
                 "</head>\n<body>\n" + page + "\n</body>\n</html>\n")
     with io.open(os.path.join(GEN, "artifact.html"), "w", encoding="utf-8") as f:
         f.write(page)
